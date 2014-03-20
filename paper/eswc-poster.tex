@@ -12,6 +12,8 @@
 \usepackage{url}
 \usepackage{listings}
 \usepackage{subfigure}
+\usepackage{algorithmic}
+\usepackage{algorithm}
 
 \newcommand{\keywords}[1]{\par\addvspace\baselineskip
 \noindent\keywordname\enspace\ignorespaces#1}
@@ -41,7 +43,7 @@ morestring=[b][\color{blue}]\",
 % first the title is needed
 \title{Revealing the ``important'' properties of Entities}
 
-\author{Ghislain A. Atemezing\inst{1}, Ahmad Assaf\inst{1}, Rapha\"{e}l Troncy\inst{1}and Elena Cabrio\inst{1}\inst{2} }
+\author{Ghislain A. Atemezing\inst{1}, Ahmad Assaf\inst{1}, Rapha\"{e}l Troncy\inst{1} and Elena Cabrio\inst{1}\inst{2} }
 
 \institute{EURECOM, Sophia Antipolis, France, \\
   \email{<atemezin@eurecom.fr>}
@@ -50,6 +52,7 @@ morestring=[b][\color{blue}]\",
 
 % a short form should be given in case it is too long for the running head
 \titlerunning{Revealing the importantness of properties}	
+%\authorrunning{Atemezing, Assaf, Troncy and Cabrio}	
 
 \maketitle
 
@@ -58,8 +61,8 @@ morestring=[b][\color{blue}]\",
 %%%%%%%%%%%%%%%%%%
 
 \begin{abstract}
-In knowledge bases and more precisely in the Web of Data, entities have a lot of properties. A quick view to the different versions of DBpedia can give an idea of the phenomenon. However, it is still difficult to decide which ones are important than others depending on how we want to use these entities, such as for a visualization of some basic facts about the given entity. In this paper, we perform reverse engineering on the Google Knowledge graph panel to find out what are the properties shown according to the type of the entity. We compare the results obtained with users surveyed on some Entities. The preliminary results are promising as they shape the path towards a recommendation tool for detecting the core properties 
-\keywords{Google Knowledge panel, visualization, scrapping, knowledge elicitation,}
+In knowledge bases and more precisely in the Web of Data, entities have a lot of properties. A quick view to the different versions of DBpedia can give an idea of the phenomenon. However, it is still difficult to decide which ones are important than others depending on how we want to use these entities, such as for a visualization of some basic facts about the given entity. In this paper, we perform reverse engineering on the Google Knowledge graph panel to find out what are the properties shown according to the type of the entity. We compare the results obtained with users surveyed on some Entities. The preliminary results are promising as they shape the path towards a recommendation tool for detecting the core properties important to Entities.
+\keywords{Crowdsourcing, Google Knowledge panel, visualization, scrapping, knowledge elicitation, intrinsic properties}
 \end{abstract}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -68,27 +71,54 @@ In knowledge bases and more precisely in the Web of Data, entities have a lot of
 
 \section{Introduction}
 \label{sec:intro}
+\todo{rewrite this}
 - 1) Motivation: in knowledge bases, entities have a lot of properties. Deciding which ones are more important than others depending on how we want to use these entities. Two use cases:
    . a) visualization of some basic facts about entities, for a multimedia QA system (QakisMedia) or for a second screen application (LinkedTV)
    . b) data integration (ontology matching), those properties having a bigger weights when computing alignments
  - 2) Approach 1: Google knowledge graph panel reverse engineering ... algorithms + first results
  - 3) Approach 2: User survey ... setup + results analysis
  - 4) Vocab for representing those "important" properties and dataset publication
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%  Related work  %%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Related Work}
 \label{sec:related}
-
-
+\todo{@summarize the work of Thomas, Michiel Hildebrand, etc}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%  Reverse Algorithm  %%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\section{Google Panel reverse engineering}
+\section{Google Panel Reverse Engineering}
 \label{sec:reverse}
+
+
+\begin{algorithm}[H]
+\caption{Google knowledge graph panel reverse engineering Algorithm} \label{rankingvocab}
+\begin{algorithmic}[1]
+    \STATE INITIALIZE $equivalentClasses(DBpedia,Freebase) $ AS $vectorClasses$
+    \STATE Upload $vectorClasses$ for querying processing
+    \STATE Set $n$ AS number-of-instances-to-query
+   
+    \FOR { each $conceptType \in vectorClasses$}
+	\STATE SELECT $n$ instances
+	\STATE $listInstances \leftarrow$ SELECT-SPARQL($conceptType$, $n$)
+		\FOR {each $instance \in listInstances$}
+			\STATE CALL http://www.google.com/search?q=$instance$
+			\STATE SCRAP GOOGLE KNOWLEDGE PANEL
+			\STATE $gkpProperties \leftarrow$ GetData(DOM, EXIST(GKP))
+			
+		\ENDFOR
+	\STATE COMPUTE ocurrences for each $prop \in gkpProperties$
+    \ENDFOR
+     
+   
+    \RETURN $gkpProperties$ 
+     
+\end{algorithmic}
+\end{algorithm}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%  User Survey settings  %%%
@@ -107,8 +137,9 @@ In knowledge bases and more precisely in the Web of Data, entities have a lot of
 %%%  A vocabulary  %%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\section{RevProp: A Vocabulary for representing important properties }
+\section{ A Vocabulary for representing important properties }
 \label{sec:vocab}
+
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
