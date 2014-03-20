@@ -1,0 +1,15 @@
+{
+  "name"         : "KBE",
+  "version"      : "0.0.1",
+  "description"  : "Google Knowledge-base Extractor",
+  "main"         : "server.js",
+  "author"       : "Ahmad.A.Assaf",
+  "dependencies" : {
+    "express"    : "latest",
+    "request"    : "latest",
+    "cheerio"    : "latest",
+    "querystring": "latest",
+    "async"			 : "latest",
+    "underscore" : "latest"
+  }
+}
