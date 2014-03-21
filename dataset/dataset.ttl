@@ -1,17 +1,15 @@
-
 @prefix : <http://example.org/ns#> .
 @prefix fresnel: <http://www.w3.org/2004/09/fresnel#> .
 @prefix dbpedia-owl: <http://dbpedia.org/ontology/> .
 @prefix dbpprop: <http://dbpedia.org/property/> .
-@prefix rdf:      <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
 
 # ---------------------------
 # Fresnel Lens for TennisPlayer
 # ---------------------------
 
-
-## player class with the properties  born, height, weight, turned pro and siblings
+## player class with the properties born, height, weight, turned pro and siblings
 ## extracted from the GKP
 
 :tennisPlayerGKPDefaultLens rdf:type fresnel:Lens ;
@@ -34,14 +32,5 @@
 		prov:wasDerivedFrom <http://www.example.org/surveyLink> .
 
 
-
-
 :tennisPlayerGroup rdf:type fresnel:Group ;
         fresnel:stylesheetLink <http://www.example.org/example.css> . 
-
-
-
-
-
-
-
