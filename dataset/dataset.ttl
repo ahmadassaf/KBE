@@ -1,0 +1,47 @@
+
+@prefix : <http://example.org/ns#> .
+@prefix fresnel: <http://www.w3.org/2004/09/fresnel#> .
+@prefix dbpedia-owl: <http://dbpedia.org/ontology/> .
+@prefix dbpprop: <http://dbpedia.org/property/> .
+@prefix rdf:      <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+
+# ---------------------------
+# Fresnel Lens for TennisPlayer
+# ---------------------------
+
+
+## player class with the properties  born, height, weight, turned pro and siblings
+## extracted from the GKP
+
+:tennisPlayerGKPDefaultLens rdf:type fresnel:Lens ;
+		fresnel:purpose fresnel:defaultLens ;
+		fresnel:classLensDomain dbpedia-owl:TennisPlayer ; 
+		fresnel:group :tennisPlayerGroup ;
+		fresnel:showProperties  (dbpedia-owl:abstract dbpedia-owl:birthDate dbpedia-owl:birthPlace dbpprop:height dbpprop:weight dbpprop:turnedpro dbpprop:siblings) ;
+		prov:wasDerivedFrom <http://www.google.com/insidesearch/features/search/knowledge.html> .
+
+
+## player with the properties titles won, nationality, birth date,
+## preferred hand used to play and career price money
+## gathered from the user survey results
+
+:tennisPlayerUserDefaultLens rdf:type fresnel:Lens ;
+		fresnel:purpose fresnel:defaultLens ;
+		fresnel:classLensDomain dbpedia-owl:TennisPlayer ; 
+		fresnel:group :tennisPlayerGroup ;
+		fresnel:showProperties  (dbpedia-owl:abstract dbpedia-owl:birthDate dbpedia-owl:birthPlace  dbpprop:singlestitles dbpprop:careerprizemoney dbpprop:nationality dbpedia-owl:plays) ;
+		prov:wasDerivedFrom <http://www.example.org/surveyLink> .
+
+
+
+
+:tennisPlayerGroup rdf:type fresnel:Group ;
+        fresnel:stylesheetLink <http://www.example.org/example.css> . 
+
+
+
+
+
+
+
