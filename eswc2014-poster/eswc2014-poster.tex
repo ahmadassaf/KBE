@@ -87,6 +87,9 @@ In knowledge bases and more precisely in the Web of Data, entities have a lot of
 
 \section{Reverse Engineering the Google Knowledge Graph Panel}
 \label{sec:knowledge-graph}
+Web scraping is a technique to extract data from Web pages. For our purpose, we need to capture the properties information contained in the Google Knowledge Panel (GKB). To do so, we have a create a Node.js application that that will get all the DBpedia concepts that have $sameAs$ links with Freebase. By doing so, we increase the probability that the search engine result page (SERP) will contain a GKB, since the underlying knowledge graph relies on Freebase as one of the data sources. Moreover, we filter out generic concepts by excluding those who are direct subclasses of $owl:Thing$. The SPARQL query gets back a total of 352 concepts.\\
+Now, for each of these concepts we need to retrieve back $n$ number of instances. For our experiment, $n$ was equal to 100 random instances. For each of these instances, we need to issue a search query to Google containing the instance label. Google doesn't serve the GKB for all devices, so early scraping attempts failed as no GKB was present in the results. To overcome that, we had to mimic a browser behavior by setting the $user-Agent$ to that of compatible one.\\
+To check the existence of and extract data from a GKB, we use CSS selectors. An exemplary query selector is $.\_om$ (all elements with class name $\_om$), which returns the property DOM element(s) for the concept described in the GKB. From our experiments, we found out that we do not always get a GKB in a SERP. If this happens, we try to disambiguate our instance by issuing a new query with the concept type attached. However, if no GKB was found again, we capture that for manual inspection later.
 
 \begin{algorithm}[H]
 \caption{Google knowledge graph panel reverse engineering Algorithm} \label{algoscrapping}
@@ -99,7 +102,12 @@ In knowledge bases and more precisely in the Web of Data, entities have a lot of
 	\STATE $listInstances \leftarrow$ SELECT-SPARQL($conceptType$, $n$)
 		\FOR {each $instance \in listInstances$}
 			\STATE CALL http://www.google.com/search?q=$instance$
-			\STATE SCRAP GOOGLE KNOWLEDGE PANEL
+			\IF {$knowledgePanel$ exists}
+				\STATE SCRAP GOOGLE KNOWLEDGE PANEL
+			\ELSE 
+				\STATE CALL http://www.google.com/search?q=$instance + conceptType$
+ 				\STATE SCRAP GOOGLE KNOWLEDGE PANEL
+			\ENDIF
 			\STATE $gkpProperties \leftarrow$ GetData(DOM, EXIST(GKP))
 			
 		\ENDFOR

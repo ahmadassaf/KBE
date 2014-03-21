@@ -27,7 +27,7 @@ sparql_federator.prototype.parseDBpediaConcepts = function(json) {
 
 	async.each(json.results.bindings,
 	  function(item, callback){
-		sparql_federator.getConceptInstances(item.c.value, function(error, data){
+		sparql_federator.getInstances(item.c.value, function(error, data){
 			if (!error) {
 				var instance_label = item.c.value;
 				var label          = instance_label.substr(instance_label.lastIndexOf('/') + 1);
@@ -41,23 +41,23 @@ sparql_federator.prototype.parseDBpediaConcepts = function(json) {
 	);
 }
 
-sparql_federator.prototype.getConceptInstances = function(concept, callback) {
+sparql_federator.prototype.getInstances = function(concept, callback) {
 	var sparql_federator = this;
 	var SPARQL_query     = "select distinct ?Concept where {?Concept a <"+ concept + ">}";
-	SPARQL_query        += " LIMIT 100";
+	SPARQL_query        += this.options.limit_dbpedia_instances? " LIMIT " + this.options.limit_dbpedia_instances_value : "";
 	
 	var encoded_query    = this.dbpedia_endpoint + querystring.stringify({query: SPARQL_query});
 	var options          = { url: encoded_query, method:this.method, encoding:this.encoding, headers: this.headers };
 
 	request(options, function(error, response, body) {
 		if (!error && response.statusCode == 200) {
-			var result    = {"instances" : {}, "summary" : {}};
+			var result    = {"instances" : {}, "summary" : {}, "infoboxless":[]};
 			var results   = JSON.parse(body);
 			async.each(results.results.bindings,function(item, callback){
 					var instance_label  = decodeURIComponent(item.Concept.value).replace(/_/g,' ');
 					var label           = instance_label.substr(instance_label.lastIndexOf('/') + 1);
 				  	var infobox_parser  = new Infobox_parser();
-				  	infobox_parser.parse(label, function(error, data){
+				  	infobox_parser.parse(label, concept, function(error, data){
 				  		if (!error && data) {
 							result.instances[label] = data;
 							instance_proprties      = _.keys(data);
@@ -66,7 +66,7 @@ sparql_federator.prototype.getConceptInstances = function(concept, callback) {
 									result.summary[instance_proprties[i]] = 1;
 								} else result.summary[instance_proprties[i]]++;
 							}
-				  		}
+				  		} else if (!error) result.infoboxless.push(label);
 				  		callback();
 				  	}); 				
 				},function(err){
@@ -78,8 +78,8 @@ sparql_federator.prototype.getConceptInstances = function(concept, callback) {
 
 sparql_federator.prototype.getDBpediaConcepts = function() {
 	var sparql_federator = this;
-	var SPARQL_query     = "select distinct ?c where { ?s owl:sameAs ?f. ?s rdf:type ?c. filter (regex (?f, <http://rdf.freebase.com/ns/>)) filter (regex(?c, <http://dbpedia.org/ontology/>)) }";
-	SPARQL_query        += this.options.limit_dbpedia_instances ? " LIMIT " + this.options.limit_dbpedia_instances_value : "";
+	var SPARQL_query     = "select distinct ?c where { ?s owl:sameAs ?f. ?s rdf:type ?c. filter (regex (?f, <http://rdf.freebase.com/ns/>)) filter (regex(?c, <http://dbpedia.org/ontology/>)) filter NOT EXISTS {?c rdfs:subClassOf owl:Thing  } }";
+	SPARQL_query        += this.options.limit_dbpedia_concepts ? " LIMIT " + this.options.limit_dbpedia_concepts_value : "";
 	var encoded_query    = this.dbpedia_endpoint + querystring.stringify({query: SPARQL_query});
 	var options          = { url: encoded_query, method:this.method, encoding:this.encoding, headers: this.headers };
 	var cache_filename   = __dirname + '/cache/dbpediaConcepts.json';

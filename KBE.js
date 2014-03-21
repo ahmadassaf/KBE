@@ -5,8 +5,8 @@ var KBE = function() {
 		cache_dbpedia_concepts       : true,
 		limit_dbpedia_concepts       : true,
 		limit_dbpedia_instances      : true,
-		limit_dbpedia_concepts_value : 10,
-		limit_dbpedia_instances_value: 20
+		limit_dbpedia_concepts_value : 1,
+		limit_dbpedia_instances_value: 1
 	};
 };
 
