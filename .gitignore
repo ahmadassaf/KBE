@@ -2,3 +2,7 @@ cache/*
 resources/*
 node_modules/**/*
 *.zip
+*.log
+*.aux
+*.blg
+*.gz
