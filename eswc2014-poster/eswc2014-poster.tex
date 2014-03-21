@@ -88,15 +88,17 @@ In knowledge bases and more precisely in the Web of Data, entities have a lot of
 
 \section{Reverse Engineering the Google Knowledge Graph Panel}
 \label{sec:knowledge-graph}
-Web scraping is a technique to extract data from Web pages. For our purpose, we need to capture the properties information contained in the Google Knowledge Panel (GKB). To do so, we have a create a Node.js application that that will get all the DBpedia concepts that have $sameAs$ links with Freebase. By doing so, we increase the probability that the search engine result page (SERP) will contain a GKB, since the underlying knowledge graph relies on Freebase as one of the data sources. Moreover, we filter out generic concepts by excluding those who are direct subclasses of $owl:Thing$. The SPARQL query gets back a total of 352 concepts.\\
-Now, for each of these concepts we need to retrieve back $n$ number of instances. For our experiment, $n$ was equal to 100 random instances. For each of these instances, we need to issue a search query to Google containing the instance label. Google doesn't serve the GKB for all devices, so early scraping attempts failed as no GKB was present in the results. To overcome that, we had to mimic a browser behavior by setting the $user-Agent$ to that of compatible one.\\
-To check the existence of and extract data from a GKB, we use CSS selectors. An exemplary query selector is $.\_om$ (all elements with class name $\_om$), which returns the property DOM element(s) for the concept described in the GKB. From our experiments, we found out that we do not always get a GKB in a SERP. If this happens, we try to disambiguate our instance by issuing a new query with the concept type attached. However, if no GKB was found again, we capture that for manual inspection later.
 
- \todo{@Ahmda to Report the disambiguation strategy here } \\
- \todo{@Ahmad to report categories that do not have infoboxes while they still exist in Freebase. Run this will full dbpedia}
+ \todo{@Ahmad to Run this will full dbpedia}
+ 
+Web scraping is a technique to extract data from Web pages. For our purpose, we need to capture the properties information contained in the Google Knowledge Panel (GKP) \cite{Bergman2012}. To do so, we have a create a Node.js application that that will get all the DBpedia concepts that have \texttt{owl:sameAs} links with Freebase. By doing so, we increase the probability that the search engine result page (SERP) will contain a GKP, since the underlying knowledge graph relies on Freebase as one of the data sources. Moreover, we filter out generic concepts by excluding those who are direct subclasses of $owl:Thing$. The SPARQL query gets back a total of $352$ concepts\footnote{\url{http://goo.gl/EYuGm1}}.
+
+Now, for each of these concepts we need to retrieve back $n$ number of instances. For our experiment, $n$ was equal to 100 random instances. For each of these instances, we need to issue a search query to Google containing the instance label. Google doesn't serve the GKP for all devices, so early scraping attempts failed as no GKP was present in the results. To overcome that, we had to mimic a browser behavior by setting the $user-Agent$ to that of compatible one.
+To check the existence of and extract data from a GKP, we use CSS selectors. An exemplary query selector is $.\_om$ (all elements with class name $\_om$), which returns the property DOM element(s) for the concept described in the GKP. From our experiments, we found out that we do not always get a GKP in a SERP. If this happens, we try to disambiguate our instance by issuing a new query with the concept type attached. However, if no GKP was found again, we capture that for manual inspection later. Listing ~\ref{algoscrapping} gives the high level algorithm for extracting the GKP.
+
  
 \begin{algorithm}[H]
-\caption{Google knowledge graph panel reverse engineering Algorithm} \label{algoscrapping}
+\caption{Google Knowledge Panel reverse engineering Algorithm} \label{algoscrapping}
 \begin{algorithmic}[1]
     \STATE INITIALIZE $equivalentClasses(DBpedia,Freebase) $ AS $vectorClasses$
     \STATE Upload $vectorClasses$ for querying processing
@@ -128,7 +130,7 @@ To check the existence of and extract data from a GKB, we use CSS selectors. An 
 
 \section{Evaluation}
 \label{sec:evaluation}
-
+We present our prelimimary evalutions by setting a user survey and the results of the extraction of the GKP. We then compare the properties shared by both settings and provide the agreement percentage for the concepts types used for the evaluation.
 
 \subsection{User Survey}
 \label{sec:survey}
@@ -161,7 +163,19 @@ With this set of 9 Concepts, We are covering $301,189$ entities of DBpedia that 
 
 \section{Modeling the Preferred Properties with Fresnel}
 \label{sec:fresnel}
+Fresnel\footnote{\url{http://www.w3.org/2005/04/fresnel-info/}} is a presentation vocabulary for displaying RDF data. It specifies \textit{what} what information contained in an RDF graph should be presented, with the core concept \texttt{fresnel:Lens} \cite{pietriga2006}. We use Fresnel and PROV-O ontology\footnote{\url{http://www.w3.org/TR/prov-o/}} with the property \textsf{prov:wasDerivedFrom} to specify the source of the data. 
 
+\begin{verbatim}
+:tennisPlayerGKPDefaultLens rdf:type fresnel:Lens ;
+		fresnel:purpose fresnel:defaultLens ;
+		fresnel:classLensDomain dbpedia-owl:TennisPlayer ; 
+		fresnel:group :tennisPlayerGroup ;
+		fresnel:showProperties  (dbpedia-owl:abstract dbpedia-owl:birthDate
+		 dbpedia-owl:birthPlace dbpprop:height dbpprop:weight 
+		 dbpprop:turnedpro dbpprop:siblings) ;
+		prov:wasDerivedFrom <http://www.google.com/insidesearch/features/search/knowledge.html> .
+		
+	\end{verbatim}	
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%  5. Conclusion and Future Work  %%%
@@ -169,7 +183,7 @@ With this set of 9 Concepts, We are covering $301,189$ entities of DBpedia that 
 
 \section{Conclusion and Future Work}
 \label{sec:conclusion}
-We have shown that it is possible to reveal important properties pf entities in a large knowlege base by starting comparing the properties obtained in the Knowledge Google Panel and the users preferences. We have provided an algorithm that for a given entity both in DBpedia and Freebase, compute the N ocurrences of the properties shown in the Google ``infobox''. We are sure these prelimary results can be benefit and helpful to decide which properties of an entity is worth for visualizing.  
+We have shown that it is possible to reveal important properties pf entities in a large knowlege base by starting comparing the properties obtained in the Knowledge Google Panel and the users preferences. We have provided an algorithm that for a given entity both in DBpedia and Freebase, compute the $N$ ocurrences of the properties shown in the Google ``infobox''. We are sure these prelimary results can be benefit and helpful to decide which properties of an entity is worth for visualizing.  
 
 For future work, we would improve the vocabulary used to describe the results obtained and make them available on a SPARQL endpoint. We are also investigating the use of Mechanical Truck to perform the survey for the rest of the classes and provide a complete comprehense dataset with the results obtained with the classes of DBpedia. 
 
