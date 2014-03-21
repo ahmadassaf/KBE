@@ -15,6 +15,7 @@
 \usepackage{algorithmic}
 \usepackage{algorithm}
 
+
 \newcommand{\keywords}[1]{\par\addvspace\baselineskip
 \noindent\keywordname\enspace\ignorespaces#1}
 
@@ -88,6 +89,9 @@ In knowledge bases and more precisely in the Web of Data, entities have a lot of
 \section{Reverse Engineering the Google Knowledge Graph Panel}
 \label{sec:knowledge-graph}
 
+ \todo{@Ahmda to Report the disambiguation strategy here } \\
+ \todo{@Ahmad to report categories that do not have infoboxes while they still exist in Freebase. Run this will full dbpedia}
+ 
 \begin{algorithm}[H]
 \caption{Google knowledge graph panel reverse engineering Algorithm} \label{algoscrapping}
 \begin{algorithmic}[1]
@@ -109,6 +113,7 @@ In knowledge bases and more precisely in the Web of Data, entities have a lot of
 \end{algorithmic}
 \end{algorithm}
 
+
 %%%%%%%%%%%%%%%%%%%%%%%
 %%%  3. Evaluation  %%%
 %%%%%%%%%%%%%%%%%%%%%%%
@@ -120,14 +125,27 @@ In knowledge bases and more precisely in the Web of Data, entities have a lot of
 \subsection{User Survey}
 \label{sec:survey}
 We set up a survey\footnote{\url{http://eSurv.org?u=entityviz}} on the February 25th, 2014 for three weeks gathering the preferences of users in term of the properties they would like to be shown. We pick up nine entities per classes, namely \textsf{TennisPlayer}, \textsf{Museum}, \textsf{Politician}, \textsf{Company}, \textsf{Country}, \textsf{City}, \textsf{Film}, \textsf{SoccerClub} and \textsf{Book}.
-We received quite a good number of participation (152 in total), with almost 72\% of users from academia, and 20\% coming from the industry. Generally, 94\% have heard about Semantic Web, and 35\% of the surveyed were not familiar with visualization tools. The detailed results\footnote{https://github.com/ahmadassaf/KBE/blob/master/results/agreement-gkp-users.csv} presents for each question in the file, the properties ranked by percentage received. We decide the more important properties to be the ones receiving more than for 10\% of the surveyed users.  
+We received quite a good number of participation (152 in total), with almost 72\% of users from academia, and 20\% coming from the industry. Generally, 94\% have heard about Semantic Web, and 35\% of the surveyed were not familiar with visualization tools. The detailed results\footnote{\url{https://github.com/ahmadassaf/KBE/blob/master/results/agreement-gkp-users.csv}} presents for each question in the file, the properties ranked by percentage received. We decide the more important properties to be the ones receiving more than for 10\% of the surveyed users.  
  For example, users surveyed don't care much about showing the \textsf{INSEE code} of a city, while they will love to see mostly \textsf{population}, \textsf{points of interest} properties. 
 
 \subsection{Comparison with the Knowledge Graph}
 \label{sec:comparison}
-We limit the properties with moore than $10\%$ of answers from users surveyed. And on the Google Knowledge Panel (GKP) scrapping  results, we just pick the first top N ocurrences properties coming just after \texttt{label}, \texttt{type} and \texttt{properties}. These latter are called \textit{by-default-properties} as they are always presented in more than $98\%$ of the entities in the GKP. Table xx presents for the $9$ classes surveyed the agreement percentage 
+We limit the properties with moore than $10\%$ of answers from users surveyed. And on the Google Knowledge Panel (GKP) scrapping  results, we just pick the first top N ocurrences\footnote{The results show that N can be 4, 5 or 6} properties coming just after \texttt{label}, \texttt{type} and \texttt{properties}. These latter are called \textit{by-default-properties} as they are always presented in more than $98\%$ of the entities in the GKP. Table ~\ref{tab:agreement} presents for the $9$ classes surveyed the agreement percentage with the GKP. The highest agreement with \textsf{Museum}(66.97\%) while the lowest one for \textsf{TennisPlayer} (20\%) concept.   
 
+ \begin{table}[!htp]
+\centering{
+\begin{tabular}{lccccccccc}
+\hline 
+ \textbf{Classes}	& TennisPlayer 	& Museum & Politician & Company & Country & City & Film & SoccerClub & Book	 \\ \hline 
+\textbf{Agreement}& 20\%  & 66.97\% & 50\% & 40\% & 60\% & 60\% & 60\% & 50\% & 60\% \\ \hline
  
+\\
+\end{tabular}
+\caption{Agreement on properties for 9 concept types, between users surveyed and Google Knowledge Panel.}
+\label{tab:agreement}
+}
+\end{table}
+With this set of 9 Concepts, We are covering $301,189$ entities of DBpedia that have keys in Freebase. And for each of them, we are empirically giving the most important properties are likely to be found in the ones where there is agreement between one of the biggest knowledge base (Google) and users preferences.
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%  4. Modeling the Preferred Properties with Fresnel  %%%
@@ -149,9 +167,9 @@ We limit the properties with moore than $10\%$ of answers from users surveyed. A
 %%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section*{Acknowledgments} \label{sec:acknowledgments}
-This work has been partially supported by the French National Research Agency (ANR) within the Datalift Project, under grant number ANR-10-CORD-009.
+This work has been partially supported by the French National Research Agency (ANR) within the Datalift Project, under grant number ANR-10-CORD-009. Elena is supported by the Labex project.
 
-+Labex (Elena)
+%+Labex (Elena)
 
 \bibliographystyle{abbrv}
 \nocite{*}
