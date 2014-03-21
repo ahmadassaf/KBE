@@ -1,6 +1,6 @@
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%  Revealing important properties of entities  %%%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%  What Are the Important Properties of an Entity? Studying the Knowledge Graph View %%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \documentclass[runningheads,a4paper]{llncs}
 
@@ -41,7 +41,7 @@ morestring=[b][\color{blue}]\",
 \begin{document}
 
 % first the title is needed
-\title{Revealing the ``important'' properties of Entities}
+\title{What Are the Important Properties of an Entity? Studying the Knowledge Graph View}
 
 \author{Ghislain A. Atemezing\inst{1}, Ahmad Assaf\inst{1}, Rapha\"{e}l Troncy\inst{1} and Elena Cabrio\inst{1}\inst{2} }
 
@@ -51,7 +51,7 @@ morestring=[b][\color{blue}]\",
 }
 
 % a short form should be given in case it is too long for the running head
-\titlerunning{Revealing the importantness of properties}	
+\titlerunning{What Are the Important Properties of an Entity?}	
 %\authorrunning{Atemezing, Assaf, Troncy and Cabrio}	
 
 \maketitle
@@ -65,12 +65,12 @@ In knowledge bases and more precisely in the Web of Data, entities have a lot of
 \keywords{Crowdsourcing, Google Knowledge panel, visualization, scrapping, knowledge elicitation, intrinsic properties}
 \end{abstract}
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%  Introduction %%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%  1. Introduction  %%%
+%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Introduction}
-\label{sec:intro}
+\label{sec:introduction}
 \todo{rewrite this}
 - 1) Motivation: in knowledge bases, entities have a lot of properties. Deciding which ones are more important than others depending on how we want to use these entities. Two use cases:
    . a) visualization of some basic facts about entities, for a multimedia QA system (QakisMedia) or for a second screen application (LinkedTV)
@@ -79,21 +79,14 @@ In knowledge bases and more precisely in the Web of Data, entities have a lot of
  - 3) Approach 2: User survey ... setup + results analysis
  - 4) Vocab for representing those "important" properties and dataset publication
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%  Related work  %%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-\section{Related Work}
-\label{sec:related}
 \todo{@summarize the work of Thomas, Michiel Hildebrand, etc}
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%  Reverse Algorithm  %%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%  2. Reverse Engineering the Google Knowledge Graph Panel  %%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\section{Google Panel Reverse Engineering}
-\label{sec:reverse}
-
+\section{Reverse Engineering the Google Knowledge Graph Panel}
+\label{sec:knowledge-graph}
 
 \begin{algorithm}[H]
 \caption{Google knowledge graph panel reverse engineering Algorithm} \label{rankingvocab}
@@ -101,7 +94,6 @@ In knowledge bases and more precisely in the Web of Data, entities have a lot of
     \STATE INITIALIZE $equivalentClasses(DBpedia,Freebase) $ AS $vectorClasses$
     \STATE Upload $vectorClasses$ for querying processing
     \STATE Set $n$ AS number-of-instances-to-query
-   
     \FOR { each $conceptType \in vectorClasses$}
 	\STATE SELECT $n$ instances
 	\STATE $listInstances \leftarrow$ SELECT-SPARQL($conceptType$, $n$)
@@ -113,38 +105,37 @@ In knowledge bases and more precisely in the Web of Data, entities have a lot of
 		\ENDFOR
 	\STATE COMPUTE ocurrences for each $prop \in gkpProperties$
     \ENDFOR
-     
-   
-    \RETURN $gkpProperties$ 
-     
+    \RETURN $gkpProperties$
 \end{algorithmic}
 \end{algorithm}
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%  User Survey settings  %%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%
+%%%  3. Evaluation  %%%
+%%%%%%%%%%%%%%%%%%%%%%%
 
-\section{User Survey Settings}
+\section{Evaluation}
+\label{sec:evaluation}
+
+
+\subsection{User Survey}
 \label{sec:survey}
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%  Preliminary Results  %%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\section{Preliminary Results}
-\label{sec:preli}
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%  A vocabulary  %%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{Comparison with the Knowledge Graph}
+\label{sec:comparison}
 
-\section{ A Vocabulary for representing important properties }
-\label{sec:vocab}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%  4. Modeling the Preferred Properties with Fresnel  %%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Modeling the Preferred Properties with Fresnel}
+\label{sec:fresnel}
 
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%  5. Conclusion and Future Work  %%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%  Conclusion  %%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section{Conclusion and Future Work}
 \label{sec:conclusion}
 
@@ -153,7 +144,9 @@ In knowledge bases and more precisely in the Web of Data, entities have a lot of
 %%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section*{Acknowledgments} \label{sec:acknowledgments}
-This work has been partially supported by the French National Research Agency (ANR) within the Datalift Project, under grant number ANR-10-CORD-009. 
+This work has been partially supported by the French National Research Agency (ANR) within the Datalift Project, under grant number ANR-10-CORD-009.
+
++Labex (Elena)
 
 \bibliographystyle{abbrv}
 \nocite{*}
