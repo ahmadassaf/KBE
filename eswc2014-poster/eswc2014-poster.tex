@@ -75,8 +75,7 @@ In knowledge bases and more precisely in the Web of Data, entities have a lot of
 In many knowledge bases, there is a need to describe with more precision entities, reusing external properties for matching with other datasets. In this process, this yield to the creation of a lot of properties to describe a single entity. At the same time, we need to view the most important ones that are generally a small subset. Thus, deciding which ones are more important than others depends on how we want to use these entities. Two use cases are:
 (a) visualization of some basic facts about entities, for a multimedia QA system (QakisMedia) or for a second screen application (LinkedTV); and (b) data integration (ontology matching), to find out those properties having a bigger weights when computing alignments.
 
-  We present in this paper our contribution on how to reveal the important properties of an entity by using and comparing two approaches: (i) by reverse engineering Google Knowledge Panel by extracting the properties, and (ii) by analyzing users' preferences. The preliminary results are promising towards a more systematic approach to detect and expose in RDF important properties worth visualizing in the aforementioned use cases.
-  The rest of the paper is structured as follows: In Section ~\ref{sec:knowledge-graph}, we present the algorithm to extract teh Knowledge graph by querying entities that are both present in DBpedia and Freebase ; then in Section ~\ref{sec:evaluation} to present the first results of the evaluation with users' survey. We then show how we use Fresnel and PROV Ontology to model the dataset obtained. Section ~\ref{sec:conclusion} briefly mention some perspectives.
+We present in this paper our contribution on how to reveal the important properties of an entity by using and comparing two approaches: (i) by reverse engineering Google Knowledge Panel by extracting the properties, and (ii) by analyzing users' preferences. The preliminary results are promising towards a more systematic approach to detect and expose in RDF important properties worth visualizing in the aforementioned use cases. The rest of the paper is structured as follows: In Section ~\ref{sec:knowledge-graph}, we present the algorithm to extract teh Knowledge graph by querying entities that are both present in DBpedia and Freebase ; then in Section ~\ref{sec:evaluation} to present the first results of the evaluation with users' survey. We then show how we use Fresnel and PROV Ontology to model the dataset obtained. Section ~\ref{sec:conclusion} briefly mention some perspectives.
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%  2. Reverse Engineering the Google Knowledge Graph Panel  %%%
@@ -133,7 +132,7 @@ We received quite a good number of participation (152 in total), with almost 72\
 \label{sec:comparison}
 We limit the properties with more than $10\%$ of answers from users surveyed. And on the Google Knowledge Panel (GKP) scrapping  results, we just pick the first top N occurrences\footnote{The results show that N can be 4, 5 or 6} properties coming just after \texttt{label}, \texttt{type} and \texttt{properties}. These latter are called \textit{by-default-properties} as they are always presented in more than $98\%$ of the entities in the GKP. Table ~\ref{tab:agreement} presents for the $9$ classes surveyed the agreement percentage with the GKP. The highest agreement with \textsf{Museum}(66.97\%) while the lowest one for \textsf{TennisPlayer} (20\%) concept.
 
- \begin{table}[!htp]
+\begin{table}[!htp]
 \centering{
 \begin{tabular}{lccccccccc}
 \hline
