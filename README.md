@@ -25,7 +25,7 @@ The Application should be running and can be accessed from http://localhost:8080
  - The port and address for the server can be set from server.js 
  - To change the port simply change the '''app.listen('8080');''' to whatever you chose
  - if you like the application to start in a certain path i.e scraper change:
- '''
+ '''js
 app.get('/YOUR_PATH(scraper)', function(req, res){
 	KBE = new knowledge_extractor();
 	KBE.start(res);
@@ -33,9 +33,9 @@ app.get('/YOUR_PATH(scraper)', function(req, res){
 '''
 ## Crawling Configuration
 There are four default options that can be found in file KBE.js
-'''
+'''js
 		cache_dbpedia_concepts       : true,
-		limit_dbpedia_concepts       : true, // 
+		limit_dbpedia_concepts       : true,
 		limit_dbpedia_instances      : true,
 		limit_dbpedia_concepts_value : 10,
 		limit_dbpedia_instances_value: 10
@@ -47,8 +47,7 @@ There are four default options that can be found in file KBE.js
 - limit_dbpedia_instances_value: the number of instances you wish to retrieve for each concept
 
 For our experiment the parameters are:
-'''
-'''
+'''js
 		cache_dbpedia_concepts       : true,
 		limit_dbpedia_concepts       : false, // 
 		limit_dbpedia_instances      : true,
