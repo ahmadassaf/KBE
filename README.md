@@ -41,11 +41,11 @@ There are four default options that can be found in file KBE.js
 		limit_dbpedia_concepts_value : 10,
 		limit_dbpedia_instances_value: 10
 ```
-- cache_dbpedia_concepts: cache the concepts retrieved from DBpedia.
-- limit_dbpedia_concepts: limit the number of concepts retrieved by DBpedia, false will retrieve all the concepts
-- limit_dbpedia_instances: limit the number of instances retrieved for each concept, false will retrieve all the instances
-- limit_dbpedia_concepts_value: the number of concepts you wish to retrieve
-- limit_dbpedia_instances_value: the number of instances you wish to retrieve for each concept
+- ```cache_dbpedia_concepts``` cache the concepts retrieved from DBpedia.
+- ```limit_dbpedia_concepts``` limit the number of concepts retrieved by DBpedia, false will retrieve all the concepts
+- ```limit_dbpedia_instances``` limit the number of instances retrieved for each concept, false will retrieve all the instances
+- ```limit_dbpedia_concepts_value``` the number of concepts you wish to retrieve
+- ```limit_dbpedia_instances_value``` the number of instances you wish to retrieve for each concept
 
 For our experiment the parameters are:
 ```js
