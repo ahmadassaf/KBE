@@ -89,7 +89,7 @@ In knowledge bases and more precisely in the Web of Data, entities have a lot of
 \label{sec:knowledge-graph}
 
 \begin{algorithm}[H]
-\caption{Google knowledge graph panel reverse engineering Algorithm} \label{rankingvocab}
+\caption{Google knowledge graph panel reverse engineering Algorithm} \label{algoscrapping}
 \begin{algorithmic}[1]
     \STATE INITIALIZE $equivalentClasses(DBpedia,Freebase) $ AS $vectorClasses$
     \STATE Upload $vectorClasses$ for querying processing
@@ -119,10 +119,15 @@ In knowledge bases and more precisely in the Web of Data, entities have a lot of
 
 \subsection{User Survey}
 \label{sec:survey}
-
+We set up a survey\footnote{\url{http://eSurv.org?u=entityviz}} on the February 25th, 2014 for three weeks gathering the preferences of users in term of the properties they would like to be shown. We pick up nine entities per classes, namely \textsf{TennisPlayer}, \textsf{Museum}, \textsf{Politician}, \textsf{Company}, \textsf{Country}, \textsf{City}, \textsf{Film}, \textsf{SoccerClub} and \textsf{Book}.
+We received quite a good number of participation (152 in total), with almost 72\% of users from academia, and 20\% coming from the industry. Generally, 94\% have heard about Semantic Web, and 35\% of the surveyed were not familiar with visualization tools. The detailed results\footnote{https://github.com/ahmadassaf/KBE/blob/master/results/agreement-gkp-users.csv} presents for each question in the file, the properties ranked by percentage received. We decide the more important properties to be the ones receiving more than for 10\% of the surveyed users.  
+ For example, users surveyed don't care much about showing the \textsf{INSEE code} of a city, while they will love to see mostly \textsf{population}, \textsf{points of interest} properties. 
 
 \subsection{Comparison with the Knowledge Graph}
 \label{sec:comparison}
+We limit the properties with moore than $10\%$ of answers from users surveyed. And on the Google Knowledge Panel (GKP) scrapping  results, we just pick the first top N ocurrences properties coming just after \texttt{label}, \texttt{type} and \texttt{properties}. These latter are called \textit{by-default-properties} as they are always presented in more than $98\%$ of the entities in the GKP. Table xx presents for the $9$ classes surveyed the agreement percentage 
+
+ 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%  4. Modeling the Preferred Properties with Fresnel  %%%
