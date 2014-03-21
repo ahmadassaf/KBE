@@ -74,8 +74,8 @@ In knowledge bases and more precisely in the Web of Data, entities have a lot of
 \label{sec:introduction}
 In many knowledge bases, there is a need to describe with more precision entities, reusing external properties for matching with other datasets. In this process, this yield to the creation of a lot of properties to describe a single entity. At the same time, we need to view the most important ones that are generally a small subset. Thus, deciding which ones are more important than others depends on how we want to use these entities. Two use cases are:
 (a) visualization of some basic facts about entities, for a multimedia QA system (QakisMedia) or for a second screen application (LinkedTV); and (b) data integration (ontology matching), to find out those properties having a bigger weights when computing alignments.
-   
-  We present in this paper our contribution on how to reveal the important properties of an entity by using and comparing two approaches: (i) by reverse engineering Google Knowledge Panel by extracting the properties, and (ii) by analyzing users' preferences. The preliminary results are promising towards a more systematic approach to detect and expose in RDF important properties worth visualizing in the aforementioned use cases. 
+
+  We present in this paper our contribution on how to reveal the important properties of an entity by using and comparing two approaches: (i) by reverse engineering Google Knowledge Panel by extracting the properties, and (ii) by analyzing users' preferences. The preliminary results are promising towards a more systematic approach to detect and expose in RDF important properties worth visualizing in the aforementioned use cases.
   The rest of the paper is structured as follows: In Section ~\ref{sec:knowledge-graph}, we present the algorithm to extract teh Knowledge graph by querying entities that are both present in DBpedia and Freebase ; then in Section ~\ref{sec:evaluation} to present the first results of the evaluation with users' survey. We then show how we use Fresnel and PROV Ontology to model the dataset obtained. Section ~\ref{sec:conclusion} briefly mention some perspectives.
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -102,7 +102,7 @@ To check the existence of and extract data from a GKP, we use CSS selectors. An 
 			\STATE CALL http://www.google.com/search?q=$instance$
 			\IF {$knowledgePanel$ exists}
 				\STATE SCRAP GOOGLE KNOWLEDGE PANEL
-			\ELSE 
+			\ELSE
 				\STATE CALL http://www.google.com/search?q=$instance + conceptType$
  				\STATE SCRAP GOOGLE KNOWLEDGE PANEL
 			\ENDIF
@@ -126,20 +126,20 @@ We present our preliminary evaluations by setting a user survey and the results 
 \subsection{User Survey}
 \label{sec:survey}
 We set up a survey\footnote{\url{http://eSurv.org?u=entityviz}} on the February 25th, 2014 for three weeks gathering the preferences of users in term of the properties they would like to be shown. We pick up nine entities per classes, namely \textsf{TennisPlayer}, \textsf{Museum}, \textsf{Politician}, \textsf{Company}, \textsf{Country}, \textsf{City}, \textsf{Film}, \textsf{SoccerClub} and \textsf{Book}.
-We received quite a good number of participation (152 in total), with almost 72\% of users from academia, and 20\% coming from the industry. Generally, 94\% have heard about Semantic Web, and 35\% of the surveyed were not familiar with visualization tools. The detailed results\footnote{\url{https://github.com/ahmadassaf/KBE/blob/master/results/agreement-gkp-users.csv}} presents for each question in the file, the properties ranked by percentage received. We decide the more important properties to be the ones receiving more than for 10\% of the surveyed users.  
- For example, users surveyed don't care much about showing the \textsf{INSEE code} of a city, while they will love to see mostly \textsf{population}, \textsf{points of interest} properties. 
+We received quite a good number of participation (152 in total), with almost 72\% of users from academia, and 20\% coming from the industry. Generally, 94\% have heard about Semantic Web, and 35\% of the surveyed were not familiar with visualization tools. The detailed results\footnote{\url{https://github.com/ahmadassaf/KBE/blob/master/results/agreement-gkp-users.csv}} presents for each question in the file, the properties ranked by percentage received. We decide the more important properties to be the ones receiving more than for 10\% of the surveyed users.
+ For example, users surveyed don't care much about showing the \textsf{INSEE code} of a city, while they will love to see mostly \textsf{population}, \textsf{points of interest} properties.
 
 \subsection{Comparison with the Knowledge Graph}
 \label{sec:comparison}
-We limit the properties with more than $10\%$ of answers from users surveyed. And on the Google Knowledge Panel (GKP) scrapping  results, we just pick the first top N occurrences\footnote{The results show that N can be 4, 5 or 6} properties coming just after \texttt{label}, \texttt{type} and \texttt{properties}. These latter are called \textit{by-default-properties} as they are always presented in more than $98\%$ of the entities in the GKP. Table ~\ref{tab:agreement} presents for the $9$ classes surveyed the agreement percentage with the GKP. The highest agreement with \textsf{Museum}(66.97\%) while the lowest one for \textsf{TennisPlayer} (20\%) concept.   
+We limit the properties with more than $10\%$ of answers from users surveyed. And on the Google Knowledge Panel (GKP) scrapping  results, we just pick the first top N occurrences\footnote{The results show that N can be 4, 5 or 6} properties coming just after \texttt{label}, \texttt{type} and \texttt{properties}. These latter are called \textit{by-default-properties} as they are always presented in more than $98\%$ of the entities in the GKP. Table ~\ref{tab:agreement} presents for the $9$ classes surveyed the agreement percentage with the GKP. The highest agreement with \textsf{Museum}(66.97\%) while the lowest one for \textsf{TennisPlayer} (20\%) concept.
 
  \begin{table}[!htp]
 \centering{
 \begin{tabular}{lccccccccc}
-\hline 
- \textbf{Classes}	& TennisPlayer 	& Museum & Politician & Company & Country & City & Film & SoccerClub & Book	 \\ \hline 
+\hline
+ \textbf{Classes}	& TennisPlayer 	& Museum & Politician & Company & Country & City & Film & SoccerClub & Book	 \\ \hline
 \textbf{Agreement}& 20\%  & 66.97\% & 50\% & 40\% & 60\% & 60\% & 60\% & 50\% & 60\% \\ \hline
- 
+
 \\
 \end{tabular}
 \caption{Agreement on properties for 9 concept types, between users surveyed and Google Knowledge Panel.}
@@ -154,15 +154,15 @@ With this set of 9 Concepts, We are covering $301,189$ entities of DBpedia that 
 
 \section{Modeling the Preferred Properties with Fresnel}
 \label{sec:fresnel}
-Fresnel\footnote{\url{http://www.w3.org/2005/04/fresnel-info/}} is a presentation vocabulary for displaying RDF data. It specifies \textit{what} what information contained in an RDF graph should be presented, with the core concept \texttt{fresnel:Lens} \cite{pietriga2006}. We use Fresnel and PROV-O ontology\footnote{\url{http://www.w3.org/TR/prov-o/}} with the property \textsf{prov:wasDerivedFrom} to specify the source of the data. 
+Fresnel\footnote{\url{http://www.w3.org/2005/04/fresnel-info/}} is a presentation vocabulary for displaying RDF data. It specifies \textit{what} what information contained in an RDF graph should be presented, with the core concept \texttt{fresnel:Lens} \cite{pietriga2006}. We use Fresnel and PROV-O ontology\footnote{\url{http://www.w3.org/TR/prov-o/}} with the property \textsf{prov:wasDerivedFrom} to specify the source of the data.
 
 \begin{verbatim}
 :tennisPlayerGKPDefaultLens rdf:type fresnel:Lens ;
 		fresnel:purpose fresnel:defaultLens ;
-		fresnel:classLensDomain dbpedia-owl:TennisPlayer ; 
+		fresnel:classLensDomain dbpedia-owl:TennisPlayer ;
 		fresnel:group :tennisPlayerGroup ;
 		fresnel:showProperties  (dbpedia-owl:abstract dbpedia-owl:birthDate
-		 dbpedia-owl:birthPlace dbpprop:height dbpprop:weight 
+		 dbpedia-owl:birthPlace dbpprop:height dbpprop:weight
 		 dbpprop:turnedpro dbpprop:siblings) ;
 		prov:wasDerivedFrom
 		<http://www.google.com/insidesearch/features/search/knowledge.html> .		
@@ -174,9 +174,11 @@ Fresnel\footnote{\url{http://www.w3.org/2005/04/fresnel-info/}} is a presentatio
 
 \section{Conclusion and Future Work}
 \label{sec:conclusion}
-We have shown that it is possible to reveal important properties pf entities in a large knowledge base by starting comparing the properties obtained in the Knowledge Google Panel and the users preferences. We have provided an algorithm that for a given entity both in DBpedia and Freebase, compute the $N$ occurrences of the properties shown in the Google ``infobox''. We are sure these preliminarily results can be benefit and helpful to decide which properties of an entity is worth for visualizing.  
+We have shown that it is possible to reveal important properties pf entities in a large knowledge base by starting comparing the properties obtained in the Knowledge Google Panel and the users preferences. We have provided an algorithm that for a given entity both in DBpedia and Freebase, compute the $N$ occurrences of the properties shown in the Google ``infobox''. We are sure these preliminarily results can be benefit and helpful to decide which properties of an entity is worth for visualizing.
 
-For future work, we would improve the vocabulary used to describe the results obtained and make them available on a SPARQL endpoint. We are also investigating the use of Mechanical Truck to perform the survey for the rest of the classes and provide a complete comprehensive dataset with the results obtained with the classes of DBpedia. 
+For future work, we would improve the vocabulary used to describe the results obtained and make them available on a SPARQL endpoint. We are also investigating the use of Mechanical Truck to perform the survey for the rest of the classes and provide a complete comprehensive dataset with the results obtained with the classes of DBpedia.
+
+ToDo: discuss that the GOOG KG is actually different depending on the language (in Spanish and in English, not the same infobox). Discuss that we study the evolution of those choices over the time ...
 
 %%%%%%%%%%%%%%%%%%%%%%%%%
 %%%  Acknowledgments  %%%
