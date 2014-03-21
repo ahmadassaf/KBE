@@ -72,27 +72,24 @@ In knowledge bases and more precisely in the Web of Data, entities have a lot of
 
 \section{Introduction}
 \label{sec:introduction}
-In many knowlege bases, there is a need to describe with more precision entities, reusing external properties for matching with other datasets. In this process, this yield to the creation of a lot of properties to describe a single entity. At the same time, we need to view the most important ones that are generally a small subset. Thus, deciding which ones are more important than others depends on how we want to use these entities. Two use cases are:
+In many knowledge bases, there is a need to describe with more precision entities, reusing external properties for matching with other datasets. In this process, this yield to the creation of a lot of properties to describe a single entity. At the same time, we need to view the most important ones that are generally a small subset. Thus, deciding which ones are more important than others depends on how we want to use these entities. Two use cases are:
 (a) visualization of some basic facts about entities, for a multimedia QA system (QakisMedia) or for a second screen application (LinkedTV); and (b) data integration (ontology matching), to find out those properties having a bigger weights when computing alignments.
    
   We present in this paper our contribution on how to reveal the important properties of an entity by using and comparing two approaches: (i) by reverse engineering Google Knowledge Panel by extracting the properties, and (ii) by analyzing users' preferences. The preliminary results are promising towards a more systematic approach to detect and expose in RDF important properties worth visualizing in the aforementioned use cases. 
   The rest of the paper is structured as follows: In Section ~\ref{sec:knowledge-graph}, we present the algorithm to extract teh Knowledge graph by querying entities that are both present in DBpedia and Freebase ; then in Section ~\ref{sec:evaluation} to present the first results of the evaluation with users' survey. We then show how we use Fresnel and PROV Ontology to model the dataset obtained. Section ~\ref{sec:conclusion} briefly mention some perspectives.
 
-
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%  2. Reverse Engineering the Google Knowledge Graph Panel  %%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
 \section{Reverse Engineering the Google Knowledge Graph Panel}
 \label{sec:knowledge-graph}
 
 Web scraping is a technique to extract data from Web pages. For our purpose, we need to capture the properties information contained in the Google Knowledge Panel (GKP) \cite{Bergman2012}. To do so, we have a create a Node.js application that that will get all the DBpedia concepts that have \texttt{owl:sameAs} links with Freebase. By doing so, we increase the probability that the search engine result page (SERP) will contain a GKP, since the underlying knowledge graph relies on Freebase as one of the data sources. Moreover, we filter out generic concepts by excluding those who are direct subclasses of $owl:Thing$. The SPARQL query gets back a total of $352$ concepts\footnote{\url{http://goo.gl/EYuGm1}}.
 
-Now, for each of these concepts we need to retrieve back $n$ number of instances. For our experiment, $n$ was equal to 100 random instances. For each of these instances, we need to issue a search query to Google containing the instance label. Google doesn't serve the GKP for all devices, so early scraping attempts failed as no GKP was present in the results. To overcome that, we had to mimic a browser behavior by setting the $user-Agent$ to that of compatible one.
+Now, for each of these concepts we need to retrieve back $n$ number of instances. For our experiment, $n$ was equal to 100 random instances. For each of these instances, we need to issue a search query to Google containing the instance label. Google doesn't serve the GKP for all devices, so early scraping attempts failed as no GKP was present in the results. To overcome that, we had to mimic a browser behavior by setting the $User-Agent$ to that of compatible one.
 To check the existence of and extract data from a GKP, we use CSS selectors. An exemplary query selector is $.\_om$ (all elements with class name $\_om$), which returns the property DOM element(s) for the concept described in the GKP. From our experiments, we found out that we do not always get a GKP in a SERP. If this happens, we try to disambiguate our instance by issuing a new query with the concept type attached. However, if no GKP was found again, we capture that for manual inspection later. Listing ~\ref{algoscrapping} gives the high level algorithm for extracting the GKP.
 
- 
-\begin{algorithm}[H]
+\begin{algorithm}[h]
 \caption{Google Knowledge Panel reverse engineering Algorithm} \label{algoscrapping}
 \begin{algorithmic}[1]
     \STATE INITIALIZE $equivalentClasses(DBpedia,Freebase) $ AS $vectorClasses$
@@ -118,14 +115,13 @@ To check the existence of and extract data from a GKP, we use CSS selectors. An 
 \end{algorithmic}
 \end{algorithm}
 
-
 %%%%%%%%%%%%%%%%%%%%%%%
 %%%  3. Evaluation  %%%
 %%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Evaluation}
 \label{sec:evaluation}
-We present our prelimimary evalutions by setting a user survey and the results of the extraction of the GKP. We then compare the properties shared by both settings and provide the agreement percentage for the concepts types used for the evaluation.
+We present our preliminary evaluations by setting a user survey and the results of the extraction of the GKP. We then compare the properties shared by both settings and provide the agreement percentage for the concepts types used for the evaluation.
 
 \subsection{User Survey}
 \label{sec:survey}
@@ -135,7 +131,7 @@ We received quite a good number of participation (152 in total), with almost 72\
 
 \subsection{Comparison with the Knowledge Graph}
 \label{sec:comparison}
-We limit the properties with moore than $10\%$ of answers from users surveyed. And on the Google Knowledge Panel (GKP) scrapping  results, we just pick the first top N ocurrences\footnote{The results show that N can be 4, 5 or 6} properties coming just after \texttt{label}, \texttt{type} and \texttt{properties}. These latter are called \textit{by-default-properties} as they are always presented in more than $98\%$ of the entities in the GKP. Table ~\ref{tab:agreement} presents for the $9$ classes surveyed the agreement percentage with the GKP. The highest agreement with \textsf{Museum}(66.97\%) while the lowest one for \textsf{TennisPlayer} (20\%) concept.   
+We limit the properties with more than $10\%$ of answers from users surveyed. And on the Google Knowledge Panel (GKP) scrapping  results, we just pick the first top N occurrences\footnote{The results show that N can be 4, 5 or 6} properties coming just after \texttt{label}, \texttt{type} and \texttt{properties}. These latter are called \textit{by-default-properties} as they are always presented in more than $98\%$ of the entities in the GKP. Table ~\ref{tab:agreement} presents for the $9$ classes surveyed the agreement percentage with the GKP. The highest agreement with \textsf{Museum}(66.97\%) while the lowest one for \textsf{TennisPlayer} (20\%) concept.   
 
  \begin{table}[!htp]
 \centering{
@@ -178,9 +174,9 @@ Fresnel\footnote{\url{http://www.w3.org/2005/04/fresnel-info/}} is a presentatio
 
 \section{Conclusion and Future Work}
 \label{sec:conclusion}
-We have shown that it is possible to reveal important properties pf entities in a large knowlege base by starting comparing the properties obtained in the Knowledge Google Panel and the users preferences. We have provided an algorithm that for a given entity both in DBpedia and Freebase, compute the $N$ ocurrences of the properties shown in the Google ``infobox''. We are sure these prelimary results can be benefit and helpful to decide which properties of an entity is worth for visualizing.  
+We have shown that it is possible to reveal important properties pf entities in a large knowledge base by starting comparing the properties obtained in the Knowledge Google Panel and the users preferences. We have provided an algorithm that for a given entity both in DBpedia and Freebase, compute the $N$ occurrences of the properties shown in the Google ``infobox''. We are sure these preliminarily results can be benefit and helpful to decide which properties of an entity is worth for visualizing.  
 
-For future work, we would improve the vocabulary used to describe the results obtained and make them available on a SPARQL endpoint. We are also investigating the use of Mechanical Truck to perform the survey for the rest of the classes and provide a complete comprehense dataset with the results obtained with the classes of DBpedia. 
+For future work, we would improve the vocabulary used to describe the results obtained and make them available on a SPARQL endpoint. We are also investigating the use of Mechanical Truck to perform the survey for the rest of the classes and provide a complete comprehensive dataset with the results obtained with the classes of DBpedia. 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%
 %%%  Acknowledgments  %%%
