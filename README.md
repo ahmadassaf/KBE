@@ -16,14 +16,14 @@ The Algorithm used is the following:
 ## How to run ..
 
  - Clone the repo to your local machine
- - run npm install on the root of the local project directory 
- - run npm server.js
+ - run ```npm install``` on the root of the local project directory 
+ - run ```npm server.js```
 
-The Application should be running and can be accessed from http://localhost:8080 
+The Application should be running and can be accessed at ```http://localhost:8080``` 
 
 ## Server Configurations
- - The port and address for the server can be set from server.js 
- - To change the port simply change the '''app.listen('8080');''' to whatever you chose
+ - The port and address for the server can be set from ```server.js``` 
+ - To change the port simply change the ```app.listen('8080');``` to whatever you chose
  - if you like the application to start in a certain path i.e scraper change:
 
 ```js
@@ -33,13 +33,13 @@ app.get('/YOUR_PATH(scraper)', function(req, res){
 });
 ```
 ## Crawling Configuration
-There are four default options that can be found in file KBE.js
+There are four default options that can be found in file ```KBE.js```
 ```js
-		cache_dbpedia_concepts       : true,
-		limit_dbpedia_concepts       : true,
-		limit_dbpedia_instances      : true,
-		limit_dbpedia_concepts_value : 10,
-		limit_dbpedia_instances_value: 10
+cache_dbpedia_concepts       : true,
+limit_dbpedia_concepts       : true,
+limit_dbpedia_instances      : true,
+limit_dbpedia_concepts_value : 10,
+limit_dbpedia_instances_value: 10
 ```
 - ```cache_dbpedia_concepts``` cache the concepts retrieved from DBpedia.
 - ```limit_dbpedia_concepts``` limit the number of concepts retrieved by DBpedia, false will retrieve all the concepts
@@ -49,9 +49,9 @@ There are four default options that can be found in file KBE.js
 
 For our experiment the parameters are:
 ```js
-		cache_dbpedia_concepts       : true,
-		limit_dbpedia_concepts       : false,
-		limit_dbpedia_instances      : true,
-		limit_dbpedia_concepts_value : null,
-		limit_dbpedia_instances_value: 100
+cache_dbpedia_concepts       : true,
+limit_dbpedia_concepts       : false,
+limit_dbpedia_instances      : true,
+limit_dbpedia_concepts_value : null,
+limit_dbpedia_instances_value: 100
 ```
