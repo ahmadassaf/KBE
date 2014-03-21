@@ -23,14 +23,12 @@ Company;;;40.00%
 ;CEO;logo;
 ;Headquarters;location country;
 ;stock price;number of employees;
-;;;
 Country;;;60.00%
 ;Founded;official language;
 ;Government;population;
 ;capital;capital;
 ;continent;currency;
 ;currencies;type of government;
-;;;
 City;;;60.00%
 ;local time;population;
 ;area;points of interest;
@@ -43,7 +41,6 @@ Film;;;60.00%
 ;Initial release;Director;
 ;screenplay;awards;
 ;release date;characters;
-;;;
 SoccerClub;;;50.00%
 ;Founded;league;
 ;Arena/stadium;location;
@@ -51,12 +48,11 @@ SoccerClub;;;50.00%
 ;location;official club name;
 ;Training ground;website;
 ;leagues;stadium;
-;;;
 BOOK;;;60.00%
 ;Published;author;
 ;Author(s);literary genre(s);
 ;genre(s);original language;
 ;Followed by;publication date;
 ;Preceded by;language;
-;;;
+
 
