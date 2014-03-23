@@ -1,6 +1,6 @@
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%  What Are the Important Properties of an Entity? Studying the Knowledge Graph View %%%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%µ%%%%%%%%%%%%%%%%%%
+%%%  What are the Important Properties of an Entity? Comparing Users and Knowledge Graph Point of View %%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \documentclass[runningheads,a4paper]{llncs}
 
@@ -42,7 +42,7 @@ morestring=[b][\color{blue}]\",
 \begin{document}
 
 % first the title is needed
-\title{What Are the Important Properties of an Entity? Studying the Knowledge Graph View}
+\title{What are the Important Properties of an Entity? Comparing Users and Knowledge Graph Point of View}
 
 \author{Ghislain A. Atemezing\inst{1}, Ahmad Assaf\inst{1}, Rapha\"{e}l Troncy\inst{1} and Elena Cabrio\inst{2} }
 
@@ -52,7 +52,7 @@ morestring=[b][\color{blue}]\",
 }
 
 % a short form should be given in case it is too long for the running head
-\titlerunning{What Are the Important Properties of an Entity?}	
+\titlerunning{What are the Important Properties of an Entity?}	
 %\authorrunning{Atemezing, Assaf, Troncy and Cabrio}	
 
 \maketitle
@@ -74,8 +74,8 @@ In knowledge bases and more precisely in the Web of Data, entities have a lot of
 \label{sec:introduction}
 In many knowledge bases, there is a need to describe with more precision entities, reusing external properties for matching with other datasets. In this process, this yield to the creation of a lot of properties to describe a single entity. At the same time, we need to view the most important ones that are generally a small subset. Thus, deciding which ones are more important than others depends on how we want to use these entities. Two use cases are:
 (a) visualization of some basic facts about entities, for a multimedia QA system (QakisMedia) or for a second screen application (LinkedTV); and (b) data integration (ontology matching), to find out those properties having a bigger weights when computing alignments.
-   
-  We present in this paper our contribution on how to reveal the important properties of an entity by using and comparing two approaches: (i) by reverse engineering Google Knowledge Panel by extracting the properties, and (ii) by analyzing users' preferences. The preliminary results are promising towards a more systematic approach to detect and expose in RDF important properties worth visualizing in the aforementioned use cases. 
+
+  We present in this paper our contribution on how to reveal the important properties of an entity by using and comparing two approaches: (i) by reverse engineering Google Knowledge Panel by extracting the properties, and (ii) by analyzing users' preferences. The preliminary results are promising towards a more systematic approach to detect and expose in RDF important properties worth visualizing in the aforementioned use cases.
   The rest of the paper is structured as follows: In Section ~\ref{sec:knowledge-graph}, we present the algorithm to extract the Knowledge graph by querying entities that are both present in DBpedia and Freebase ; then in Section ~\ref{sec:evaluation} to present the first results of the evaluation with users' survey. We then show how we use Fresnel and PROV Ontology to model the dataset obtained. Section ~\ref{sec:conclusion} briefly mention some perspectives.
 
 
@@ -177,7 +177,7 @@ Fresnel\footnote{\url{http://www.w3.org/2005/04/fresnel-info/}} is a presentatio
 \label{sec:conclusion}
 We have shown that it is possible to reveal important properties pf entities in a large knowledge base by starting comparing the properties obtained in the Knowledge Google Panel and the users preferences. We have provided an algorithm that for a given entity both in DBpedia and Freebase, compute the $N$ occurrences of the properties shown in the Google ``infobox''. We are sure these preliminarily results can be benefit and helpful to decide which properties of an entity is worth for visualizing.
 
-For future work, we would improve the vocabulary used to describe the results obtained and make them available on a SPARQL endpoint. We are also investigating the use of Mechanical Truck to perform the survey for the rest of the classes and provide a complete comprehensive dataset with the results obtained with the classes of DBpedia. Another interesting challenge is actually to compare the results extracted from the GKP depending on the language settings (n Spanish and in English, not the same infobox) and study the evolution of those choices over the time. 
+For future work, we would improve the vocabulary used to describe the results obtained and make them available on a SPARQL endpoint. We are also investigating the use of Mechanical Truck to perform the survey for the rest of the classes and provide a complete comprehensive dataset with the results obtained with the classes of DBpedia. Another interesting challenge is actually to compare the results extracted from the GKP depending on the language settings (n Spanish and in English, not the same infobox) and study the evolution of those choices over the time.
 
 %ToDo: discuss that the GOOG KG is actually different depending on the language (in Spanish and in English, not the same infobox). Discuss that we study the evolution of those choices over the time ...
 
