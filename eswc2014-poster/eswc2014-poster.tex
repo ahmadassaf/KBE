@@ -47,7 +47,7 @@ morestring=[b][\color{blue}]\",
 
 \author{Ghislain A. Atemezing\inst{1}, Ahmad Assaf\inst{1}, Rapha\"{e}l Troncy\inst{1} and Elena Cabrio\inst{1,2} }
 
-\institute{EURECOM, Sophia Antipolis, France. \email{<first.last@eurecom.fr>}
+\institute{EURECOM, Sophia Antipolis, France. \email{<firstName.lastName@eurecom.fr>}
   \and INRIA, Sophia Antipolis, France. \email{<elena.cabrio@inria.fr>}
 }
 
@@ -62,8 +62,8 @@ morestring=[b][\color{blue}]\",
 %%%%%%%%%%%%%%%%%%
 
 \begin{abstract}
-In knowledge bases and more precisely in the Web of Data, entities have a lot of properties. A quick view to the different versions of DBpedia can give an idea of the phenomenon. However, it is still difficult to decide which ones are important than others depending on how we want to use these entities, such as for a visualization of some basic facts about the given entity. In this paper, we perform reverse engineering on the Google Knowledge graph panel to find out what are the properties shown according to the type of the entity. We compare the results obtained with users surveyed on some Entities. The preliminary results are promising as they shape the path towards a recommendation tool for detecting the core properties important to Entities.
-\keywords{Crowdsourcing, Google Knowledge panel, visualization, scrapping, knowledge elicitation, intrinsic properties}
+Entities play a key role in knowledge bases in general and in the Web of Data in particular. Entities are generally described with a lot of properties, this is the case for DBpedia. It is, however, difficult to assess which ones are more ``important'' than others for particular tasks such as visualizing the key facts of an entity or filtering out the ones which will yield better instance matching. In this paper, we perform a reverse engineering of the Google Knowledge graph panel to find out what are the most ``important'' properties for an entity according to Google. We compare these results with a survey we conducted on 152 users. We finally show how we can represent and explicit this knowledge using the Fresnel vocabulary.
+\keywords{Entities, Google Knowledge Graph, visualization, knowledge extraction}
 \end{abstract}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%
@@ -75,9 +75,8 @@ In knowledge bases and more precisely in the Web of Data, entities have a lot of
 In many knowledge bases, there is a need to describe with more precision entities, reusing external properties for matching with other datasets. In this process, this yield to the creation of a lot of properties to describe a single entity. At the same time, we need to view the most important ones that are generally a small subset. Thus, deciding which ones are more important than others depends on how we want to use these entities. Two use cases are:
 (a) visualization of some basic facts about entities, for a multimedia QA system (QakisMedia) or for a second screen application (LinkedTV); and (b) data integration (ontology matching), to find out those properties having a bigger weights when computing alignments.
 
-  We present in this paper our contribution on how to reveal the important properties of an entity by using and comparing two approaches: (i) by reverse engineering Google Knowledge Panel by extracting the properties, and (ii) by analyzing users' preferences. The preliminary results are promising towards a more systematic approach to detect and expose in RDF important properties worth visualizing in the aforementioned use cases.
+We present in this paper our contribution on how to reveal the important properties of an entity by using and comparing two approaches: (i) by reverse engineering Google Knowledge Panel by extracting the properties, and (ii) by analyzing users' preferences. The preliminary results are promising towards a more systematic approach to detect and expose in RDF important properties worth visualizing in the aforementioned use cases.
 %  The rest of the paper is structured as follows: In Section ~\ref{sec:knowledge-graph}, we present the algorithm to extract the Knowledge graph by querying entities that are both present in DBpedia and Freebase ; then in Section ~\ref{sec:evaluation} to present the first results of the evaluation with users' survey. We then show how we use Fresnel and PROV Ontology to model the dataset obtained. Section ~\ref{sec:conclusion} briefly mention some perspectives.
-
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%  2. Reverse Engineering the Google Knowledge Graph Panel  %%%
