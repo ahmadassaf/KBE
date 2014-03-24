@@ -10,7 +10,3 @@ app.get('/', function(req, res){
 app.listen('8080');
 console.log('Knolwedge Scrapper Server Started at localhost:8080');
 exports = module.exports = app;
-
-timeout.set(function(){
-    console.log('This took 30 days');
-}, 2592000000);
