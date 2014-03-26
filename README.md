@@ -19,18 +19,14 @@ The Algorithm used is the following:
  - run ```npm install``` on the root of the local project directory 
  - run ```npm server.js```
 
-The Application should be running and can be accessed at ```http://localhost:8080``` 
+You have to create 4 folders for caching ...
+ - main folder called cache in the root of the project
+ 	+ folder called ```GKB``` inside the cache folder
+ 	+ folder called ```instances_GKB``` inside the cache folder
+ 	+ folder called ```instances``` inside the cache folder
 
-## Server Configurations
- - The port and address for the server can be set from ```server.js``` 
- - To change the port simply change the ```app.listen('8080');``` to whatever you chose
- - if you like the application to start in a certain path i.e scraper change:
+The application is run in the console and the output will be available in results/result.json
 
-```js
-app.get('/YOUR_PATH(scraper)', function(req, res){
-	KBE = new knowledge_extractor();
-	KBE.start(res);
-});
 ```
 ## Crawling Configuration
 There are four default options that can be found in file ```KBE.js```
