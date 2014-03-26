@@ -21,13 +21,13 @@ The Algorithm used is the following:
 
 You have to create 4 folders for caching ...
  - main folder called cache in the root of the project
- 	+ folder called ```GKB``` inside the cache folder
- 	+ folder called ```instances_GKB``` inside the cache folder
- 	+ folder called ```instances``` inside the cache folder
+ 	+ folder called ```GKB``` inside the cache folder: This will hold the aggregated Google Knowledge boxes extracted for a DBpedia concept (type)
+ 	+ folder called ```instances_GKB``` inside the cache folder: This will hold the Google Knowledge box for a single instance
+ 	+ folder called ```instances``` inside the cache folder: This will hold the DBpedia instances for each concept (type)
 
 The application is run in the console and the output will be available in results/result.json
 
-```
+
 ## Crawling Configuration
 There are four default options that can be found in file ```KBE.js```
 ```js
