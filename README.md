@@ -17,7 +17,6 @@ The Algorithm used is the following:
 
  - Clone the repo to your local machine
  - run ```npm install``` on the root of the local project directory 
- - run ```npm server.js```
 
 You have to create 4 folders for caching ...
  - main folder called cache in the root of the project
@@ -25,6 +24,8 @@ You have to create 4 folders for caching ...
  	+ folder called ```instances_GKB``` inside the cache folder: This will hold the Google Knowledge box for a single instance
  	+ folder called ```instances``` inside the cache folder: This will hold the DBpedia instances for each concept (type)
 
+ - run ```npm server.js```
+ - 
 The application is run in the console and the output will be available in results/result.json
 
 
