@@ -104,9 +104,10 @@ sparql_federator.prototype.parseDBpediaInstance = function(type,json,conceptsCal
 }
 
 sparql_federator.prototype.getKnowledgeBox = function(instance, type, callback) {
+	sparql_federator = this;
 	setTimeout(function() {
 		console.log("Getting Google Knowledge Boxes for type for: " + type + " instance: " + instance);
-		var infobox_parser  = new Infobox_parser();
+		var infobox_parser  = new Infobox_parser(sparql_federator.options.proxy);
 	  	infobox_parser.parse(instance, type, function(error, data){
 	  		if (!error) callback(null,data);
 	  	});

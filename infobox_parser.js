@@ -2,18 +2,19 @@ var request = require('request');
 var cheerio = require('cheerio');
 var Cache   = require('./cache');
 
-var infobox_parser = function() {
+var infobox_parser = function(proxy) {
 	this.cache          = new Cache();
+	this.proxy          = proxy;
 	this.url            = 'http://www.google.com/search?q=';
 	this.userAgent      = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/534.57.2 (KHTML, like Gecko) Version/5.1.7 Safari/534.57.2';
 	this.knowledgePanel = {
 		knowledgeBox  				: '#kno-result',
 		knowledgeBox_disambiguate	: '.kp-blk',
-		property                    : '._jm',
+		property                    : '._Hl',
 		property_value              : '.kno-fv',
 		label                       : '.kno-ecr-pt',
 		description                 : '.kno-rdesc',
-		type                        : '._Qs',
+		type                        : '._Xw',
 		images                      : '.bicc',
 		special_property            : '.kno-sh',
 		special_property_value      : '._Zh',
@@ -50,7 +51,7 @@ infobox_parser.prototype.query = function(instance, type,cache_filename,callback
 	};
 
 	// Create the request ot Google, mimicking a user-Agent in order to get the InfoBox back
-	request({ url : this.url + encodeURIComponent(instance), headers : { "User-Agent" : this.userAgent }},function(error, response, body){
+	request({ proxy: this.proxy, url : this.url + encodeURIComponent(instance), headers : { "User-Agent" : this.userAgent }},function(error, response, body){
 		if (parsed_infobox == undefined) {
 			if(!error && response.statusCode == 200 ){
 				var $          = cheerio.load(body);
