@@ -1,0 +1,202 @@
+{
+    "instances": {
+        "Antarctica": {
+            "label": "Antarctica",
+            "description": "Antarctica is Earth's southernmost continent, containing the geographic South Pole. It is situated in the Antarctic region of the Southern Hemisphere, almost entirely south of the Antarctic Circle, and is surrounded by the Southern Ocean. Wikipedia",
+            "type": "Continent",
+            "Area ": [
+                "5.405 million sq miles (14 million km²)"
+            ]
+        },
+        "Latin America": {
+            "label": "Latin America",
+            "description": "Latin America is a subregion of the Americas where Romance languages or a subset of the Romance language family – always including Spanish and Portuguese, and sometimes including French – are primarily spoken. Wikipedia",
+            "type": "",
+            "Area ": [
+                "8.135 million sq miles (21.07 million km²)"
+            ]
+        },
+        "Eurasia": {
+            "label": "Eurasia",
+            "description": "Eurasia is the combined continental landmass of Europe and Asia, with the term being a portmanteau of its two constituents. Wikipedia",
+            "type": "",
+            "Population ": [
+                "4.618 billion (2011)"
+            ],
+            "Area ": [
+                "21.14 million sq miles (54.76 million km²)"
+            ],
+            "See results about": []
+        },
+        "Europe": {
+            "label": "Europe",
+            "description": "Europe is, by convention, one of the world's seven continents. Comprising the westernmost peninsula of Eurasia, Europe is generally divided from Asia by the watershed divides of the Ural and Caucasus ... Wikipedia",
+            "type": "Continent",
+            "Population ": [
+                "739.2 million (2011)"
+            ],
+            "Area ": [
+                "3.931 million sq miles (10.18 million km²)"
+            ],
+            "See results about": []
+        },
+        "North America": {
+            "label": "North America",
+            "description": "North America is a continent wholly within the Northern Hemisphere and almost wholly within the Western Hemisphere. It is also considered a northern subcontinent of the Americas. Wikipedia",
+            "type": "Continent",
+            "Population ": [
+                "528.7 million (2008)"
+            ],
+            "Area ": [
+                "9.54 million sq miles (24.71 million km²)"
+            ],
+            "Countries ": [
+                "United States of America",
+                " Canada",
+                " Mexico",
+                " Greenland",
+                " Belize",
+                " Cuba",
+                " Guatemala",
+                " Barbados",
+                " Haiti",
+                " Turks and Caicos Islands",
+                " El Salvador",
+                " Cayman Islands",
+                " Martinique",
+                " Trinidad and Tobago",
+                " Dominica",
+                " British Virgin Islands",
+                " Sint Maarten",
+                " Saint Kitts and Nevis",
+                " Saint Pierre and MiquelonMore"
+            ]
+        },
+        "Oceania": {
+            "label": "Oceania",
+            "description": "Oceania, also known as Oceanica, is a region centred on the islands of the tropical Pacific Ocean. Opinions of what constitutes Oceania range from its three subregions of Melanesia, Micronesia, and ... Wikipedia",
+            "type": "",
+            "Area ": [
+                "3.292 million sq miles (8.526 million km²)"
+            ],
+            "Colleges and Universities": []
+        },
+        "Africa": {
+            "label": "Africa",
+            "description": "Africa is the world's second-largest and second-most-populous continent. At about 30.2 million km² including adjacent islands, it covers six percent of the Earth's total surface area and 20.4 percent of the total land area. Wikipedia",
+            "type": "Continent",
+            "Population ": [
+                "1.033 billion (2011)"
+            ],
+            "Area ": [
+                "11.67 million sq miles (30.22 million km²)"
+            ],
+            "Countries ": [
+                "South Africa",
+                " Kenya",
+                " Nigeria",
+                " Morocco",
+                " Tanzania",
+                " Egypt",
+                " Central African Republic",
+                " Ethiopia",
+                " Senegal",
+                " Madagascar",
+                " Ghana",
+                " Mali",
+                " Democratic Republic of the Congo",
+                " Algeria",
+                " Somalia",
+                " Uganda",
+                " Côte d’Ivoire",
+                " Angola",
+                " Sudan",
+                " Cape Verde",
+                " Cameroon",
+                " Tunisia",
+                " Namibia",
+                " Burkina Faso",
+                " Mozambique",
+                " Zimbabwe",
+                " Libya",
+                " Mauritius",
+                " South Sudan",
+                " Botswana",
+                " Rwanda",
+                " Sierra Leone",
+                " Seychelles",
+                " Gambia",
+                " Eritrea",
+                " Benin",
+                " Zambia",
+                " Gabon",
+                " Equatorial Guinea",
+                " Liberia",
+                " Djibouti",
+                " Congo",
+                " Mauritania",
+                " Togo",
+                " Guinea",
+                " Chad",
+                " Malawi",
+                " Niger",
+                " Swaziland",
+                " BurundiMore",
+                " …"
+            ],
+            "See results about": []
+        },
+        "Indian subcontinent": {
+            "label": "Indian subcontinent",
+            "description": "The Indian subcontinent is a southerly region of Asia, mostly situated on the Indian Plate and projecting southward into the Indian Ocean. Wikipedia",
+            "type": ""
+        },
+        "Afro-Eurasia": {
+            "label": "Afro-Eurasia",
+            "description": "Afro-Eurasia, also Afrasia, Eurafrasia or Eufrasia, is the largest landmass on Earth. It may be defined as a supercontinent, with the term being a portmanteau of its constituent parts Africa and Eurasia ... Wikipedia",
+            "type": ""
+        },
+        "South America": {
+            "label": "South America",
+            "description": "South America is a continent located in the Western Hemisphere, mostly in the Southern Hemisphere, with a relatively small portion in the Northern Hemisphere. It can also be considered as a subcontinent of the Americas. Wikipedia",
+            "type": "Continent",
+            "Population ": [
+                "387.5 million (2011)"
+            ],
+            "Area ": [
+                "6.888 million sq miles (17.84 million km²)"
+            ],
+            "Countries ": [
+                "Brazil",
+                " Argentina",
+                " Peru",
+                " Chile",
+                " Colombia",
+                " Ecuador",
+                " Venezuela",
+                " Bolivia",
+                " Uruguay",
+                " Suriname",
+                " Guyana",
+                " Paraguay",
+                " Falkland IslandsMore"
+            ]
+        }
+    },
+    "summary": {
+        "label": 10,
+        "description": 10,
+        "type": 10,
+        "Area ": 8,
+        "Population ": 5,
+        "See results about": 3,
+        "Countries ": 3,
+        "Colleges and Universities": 1
+    },
+    "infoboxless": [
+        "Communication for social change",
+        "List of countries and capitals with currency and language",
+        "Anglo-America",
+        "Americas"
+    ]
+}

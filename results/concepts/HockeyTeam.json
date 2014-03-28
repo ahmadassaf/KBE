@@ -1,0 +1,642 @@
+{
+    "instances": {
+        "Edmonton Oilers": {
+            "label": "Edmonton Oilers",
+            "description": "The Edmonton Oilers are a professional ice hockey team based in Edmonton, Alberta, Canada. They are members of the Pacific Division of the Western Conference of the National Hockey League. Wikipedia",
+            "type": "",
+            "Arena/Stadium ": [
+                "Rexall Place"
+            ],
+            "Captain ": [
+                "Andrew Ference"
+            ],
+            "Location ": [
+                "Edmonton"
+            ],
+            "Division ": [
+                "Pacific Division"
+            ],
+            "Coach ": [
+                "Dallas Eakins"
+            ],
+            "Stanley Cup wins ": "1984, 1985, 1987, 1988, 1990",
+            "Roster": []
+        },
+        "Atlanta Thrashers": {
+            "label": "Atlanta Thrashers",
+            "description": "The Atlanta Thrashers were a professional ice hockey team based in Atlanta, Georgia, United States. Atlanta was granted a franchise in the National Hockey League on June 25, 1997, and became the league's ... Wikipedia",
+            "type": "",
+            "Location ": [
+                "Atlanta"
+            ],
+            "Captain ": [
+                "Scott Mellanby"
+            ],
+            "Division ": [
+                "Southeast Division"
+            ],
+            "Conference ": [
+                "Eastern Conference"
+            ],
+            "Roster": []
+        },
+        "Ottawa Senators": {
+            "label": "Ottawa Senators",
+            "description": "The Ottawa Senators are a professional ice hockey team based in Ottawa, Ontario, Canada. They are members of the Atlantic Division of the Eastern Conference of the National Hockey League. Wikipedia",
+            "type": "Ice hockey team",
+            "Founded ": [
+                "1990"
+            ],
+            "Location ": [
+                "Ottawa"
+            ],
+            "Arena/Stadium ": [
+                "Canadian Tire Centre"
+            ],
+            "Captain ": [
+                "Jason Spezza"
+            ],
+            "Mascot ": [
+                "Spartacat"
+            ],
+            "Coach ": [
+                "Paul MacLean"
+            ],
+            "Roster": []
+        },
+        "Philadelphia Flyers": {
+            "label": "Philadelphia Flyers",
+            "description": "The Philadelphia Flyers are a professional ice hockey team based in Philadelphia, Pennsylvania. They are members of the Metropolitan Division of the Eastern Conference of the National Hockey League. Wikipedia",
+            "type": "6,410 followers on Google+",
+            "Arena/Stadium ": [
+                "Wells Fargo Center"
+            ],
+            "Location ": [
+                "Philadelphia"
+            ],
+            "Captain ": [
+                "Claude Giroux"
+            ],
+            "Division ": [
+                "Metropolitan Division"
+            ],
+            "Coach ": [
+                "Craig Berube"
+            ],
+            "Stanley Cup wins ": "1974, 1975",
+            "Roster": []
+        },
+        "SaPKo": {
+            "label": "SaPKo",
+            "description": "Savonlinnan Pallokerho is an ice hockey team from Savonlinna, Finland, playing in the Mestis league. It plays its home matches in Talvisalon jäähalli.\nThe sports club Savonlinnan Pallokerho was founded in 1929. Wikipedia",
+            "type": "Ice hockey team"
+        },
+        "IF Björklöven": {
+            "label": "IF Björklöven",
+            "description": "IF Björklöven is a Swedish professional ice hockey club in Umeå, Västerbotten, in northern Sweden. Wikipedia",
+            "type": "Ice hockey team",
+            "Founded ": "May 15, 1970",
+            "Location ": [
+                "Umeå"
+            ],
+            "CEO ": [
+                "Fredric Åkerblom"
+            ],
+            "Founders ": [
+                "Olle Rydfjäll",
+                " Jan-Erik Brändström"
+            ]
+        },
+        "TuTo": {
+            "label": "TuTo",
+            "description": "TuTo is a Finnish ice hockey team based at the new Kupittaan jäähalli, Turku. Established in 1929. TuTo plays in Turku, Finland, and is one of two clubs in that city. The Full name of the club is TuTo Hockey. Wikipedia",
+            "type": "Ice hockey team"
+        },
+        "Örebro HK": {
+            "label": "Örebro HK",
+            "description": "Örebro HK is a Swedish ice hockey club located in Örebro. The team is currently playing in the Swedish Hockey League, the top tier of Swedish ice hockey, since the 2013–14 season. The team's home arena is Behrn Arena, which seats 5,200 spectators. Wikipedia",
+            "type": "Ice hockey team"
+        },
+        "San Jose Sharks": {
+            "label": "San Jose Sharks",
+            "description": "The San Jose Sharks are a professional ice hockey team based in San Jose, California, United States. They are members of the Pacific Division of the Western Conference of the National Hockey League. Wikipedia",
+            "type": "Ice hockey team",
+            "Arena/Stadium ": [
+                "SAP Center at San Jose"
+            ],
+            "Location ": [
+                "San Jose"
+            ],
+            "Captain ": [
+                "Joe Thornton"
+            ],
+            "Mascot ": [
+                "SJ Sharkie"
+            ],
+            "Division ": [
+                "Pacific Division"
+            ],
+            "Coach ": [
+                "Todd McLellan"
+            ],
+            "Roster": []
+        },
+        "HC Slavia Sofia": {
+            "label": "HC Slavia Sofia",
+            "description": "HC Slavia Sofia, Slaviya Sofiya is an ice hockey team from the Bulgarian Hockey League based outside Sofia, Bulgaria. The team has won 19 league titles, and are a member of the Slavia Sofia sports club. Wikipedia",
+            "type": ""
+        },
+        "HK Beibarys Atyrau": {
+            "label": "Beibarys Atyrau",
+            "description": "Hockey Club Beibarys, also known as Beibarys Atyrau, are a professional ice hockey team based in Atyrau, Kazakhstan. They were founded in 2009, and play in the Kazakhstan Hockey Championship, the top level of ice hockey in Kazakhstan. Wikipedia",
+            "type": ""
+        },
+        "IK Oskarshamn": {
+            "label": "IK Oskarshamn",
+            "description": "IK Oskarshamn is an ice hockey club from Oskarshamn in Sweden. The team is currently playing in the second highest league in Sweden, HockeyAllsvenskan. Head coach is Fredrik Söderström. Wikipedia",
+            "type": ""
+        },
+        "Ljungby": {
+            "label": "Ljungby",
+            "description": "Ljungby is a locality and the seat of Ljungby Municipality, Kronoberg County, Sweden, with 15,205 inhabitants in 2010. Wikipedia",
+            "type": "City in Sweden",
+            "Area ": [
+                "4.606 sq miles (11.93 km²)"
+            ],
+            "Weather ": [
+                "59°F (15°C)",
+                " Wind SE at 3 mph (5 km/h)",
+                " 39% Humidity"
+            ],
+            "Local time ": [
+                "Friday 303 PM"
+            ],
+            "See results about": []
+        },
+        "Nikkō Ice Bucks": {
+            "label": "Nikkō Ice Bucks",
+            "description": "The HC Nikkō Ice Bucks are an Asia League Ice Hockey team based in Nikkō, Tochigi, Japan.\nLogo design The word IceBucks in italicized English in black with white trim, with the words \"NIKKO KOBE\" in ... Wikipedia",
+            "type": ""
+        },
+        "Rubin Tyumen": {
+            "label": "Rubin Tyumen",
+            "description": "Rubin Tyumen is an ice hockey team in Tyumen, Russia. They play in the VHL, the second level of Russian ice hockey. Wikipedia",
+            "type": ""
+        },
+        "Edmonton Ice": {
+            "label": "Edmonton Ice",
+            "description": "The Edmonton Ice were a junior ice hockey team based in Edmonton, Alberta that played two seasons in the Western Hockey League. Wikipedia",
+            "type": "Ice hockey team",
+            "Location ": [
+                "Edmonton"
+            ]
+        },
+        "Melbourne Ice": {
+            "label": "Melbourne Ice",
+            "description": "The Melbourne Ice are a semi-professional ice hockey team in the Australian Ice Hockey League. The team plays its home games at the Medibank Icehouse in Melbourne, which was completed in 2010. Wikipedia",
+            "type": ""
+        },
+        "Melville Millionaires": {
+            "label": "Melville Millionaires",
+            "description": "The Melville Millionaires are a Junior \"A\" ice hockey team based in Melville, Saskatchewan. They are members of the Saskatchewan Junior Hockey League. Wikipedia",
+            "type": "Ice hockey team"
+        },
+        "St. George Dukes": {
+            "label": "St. George Dukes",
+            "description": "The St. George Dukes are a Canadian Junior ice hockey team based in St. George, Ontario, Canada. They play in the Niagara & District Junior C Hockey League of the Ontario Hockey Association. Wikipedia",
+            "type": "Ice hockey team"
+        },
+        "AZ Havířov": {
+            "label": "AZ Havířov",
+            "description": "AZ Havířov is an ice hockey team in the Second National Hockey League from Havířov.\nThe city of Havířov was established in 1955. Wikipedia",
+            "type": "",
+            "Location ": [
+                "Havířov"
+            ]
+        },
+        "Beauport Harfangs": {
+            "label": "Beauport Harfangs",
+            "description": "The Beauport Harfangs were a junior ice hockey team in the Quebec Major Junior Hockey League from 1990 to 1997. The team played its home games at the Aréna Marcel Bédard in the Quebec City suburb of Beauport. Wikipedia",
+            "type": "Ice hockey team"
+        },
+        "HC Slezan Opava": {
+            "label": "HC Slezan Opava",
+            "description": "",
+            "type": "",
+            "People also search for": []
+        },
+        "Wightlink Raiders": {
+            "label": "Wightlink Raiders",
+            "description": "The Wightlink Raiders are an ice hockey team based in Ryde on the Isle of Wight, England. They are sponsored by Wightlink and play in the third-tier English National Ice Hockey League. Wikipedia",
+            "type": ""
+        },
+        "Saint-Jérôme Panthers": {
+            "label": "Saint-Jérôme Panthers",
+            "description": "Les Panthères de Saint-Jérome are a Canadian Junior ice hockey team from Saint-Jérôme, Quebec, Canada. They are a part of the Quebec Junior AAA Hockey League. Wikipedia",
+            "type": "Ice hockey team"
+        },
+        "Solway Sharks": {
+            "label": "Solway Sharks",
+            "description": "The Solway Sharks are the only senior ice hockey club in South West Scotland or Cumbria and play out of Dumfries Ice Bowl, King Street, Dumfries, Scotland. Wikipedia",
+            "type": ""
+        },
+        "Cambridge University Ice Hockey Club": {
+            "label": "Cambridge University Ice Hockey Club",
+            "description": "Cambridge University Ice Hockey Club at the University of Cambridge, Cambridge, England, is one of the oldest ice hockey teams in the world. Wikipedia",
+            "type": ""
+        },
+        "California Seals": {
+            "label": "California Golden Seals",
+            "description": "The California Golden Seals were a team in the National Hockey League from 1967–76. Initially named California Seals, the team was renamed Oakland Seals partway through the 1967–68 season, and then to California Golden Seals in 1970. Wikipedia",
+            "type": "Ice hockey team"
+        },
+        "Toronto Blueshirts": {
+            "label": "Toronto Blueshirts",
+            "description": "The Toronto Hockey Club, known as the Torontos and the Toronto Blue Shirts were a professional National Hockey Association team that played in Toronto, Ontario, Canada. Wikipedia",
+            "type": ""
+        },
+        "Brampton Battalion": {
+            "label": "Brampton Battalion",
+            "description": "The Brampton Battalion were a junior ice hockey team in the Ontario Hockey League. The team was based in Brampton, Ontario and started playing in 1998. Wikipedia",
+            "type": "Ice hockey team",
+            "Division ": [
+                "Central Division"
+            ],
+            "Conference ": [
+                "Eastern Conference"
+            ]
+        },
+        "Barrie Colts": {
+            "label": "Barrie Colts",
+            "description": "The Barrie Colts are a junior ice hockey team in Ontario Hockey League, based in Barrie, Ontario, Canada. Wikipedia",
+            "type": "Ice hockey team",
+            "Arena/Stadium ": [
+                "Barrie Molson Centre"
+            ],
+            "Division ": [
+                "Central Division"
+            ],
+            "Conference ": [
+                "Eastern Conference"
+            ]
+        },
+        "Belleville Bulls": {
+            "label": "Belleville Bulls",
+            "description": "The Belleville Bulls are a junior ice hockey team, founded in 1981 based in Belleville, Ontario, Canada. The team plays in the Eastern Division of the Eastern Conference of the Ontario Hockey League. Wikipedia",
+            "type": "Ice hockey team",
+            "Division ": [
+                "East Division"
+            ],
+            "Conference ": [
+                "Eastern Conference"
+            ]
+        },
+        "Kingston Frontenacs": {
+            "label": "Kingston Frontenacs",
+            "description": "The Kingston Frontenacs are a junior ice hockey team in the Ontario Hockey League, based in Kingston, Ontario, Canada. The team is coached by Todd Gill and Doug Gilmour is the General Manager. Wikipedia",
+            "type": "Ice hockey team",
+            "Arena/Stadium ": [
+                "Rogers K-Rock Centre"
+            ],
+            "Division ": [
+                "East Division"
+            ],
+            "Conference ": [
+                "Eastern Conference"
+            ]
+        },
+        "Kitchener Rangers": {
+            "label": "Kitchener Rangers",
+            "description": "The Kitchener Rangers are a major junior ice hockey team in the Ontario Hockey League that have called Kitchener, Ontario, Canada, their home since 1963. Wikipedia",
+            "type": "Ice hockey team",
+            "Arena/Stadium ": [
+                "Kitchener Memorial Auditorium"
+            ],
+            "Location ": [
+                "Kitchener"
+            ],
+            "Division ": [
+                "Midwest Division"
+            ],
+            "Conference ": [
+                "Western Conference"
+            ],
+            "Mascots ": [
+                "Flip",
+                " Chuck",
+                " Tex"
+            ]
+        },
+        "Niagara IceDogs": {
+            "label": "Niagara IceDogs",
+            "description": "The Niagara IceDogs are a major junior ice hockey team in the Ontario Hockey League based in St. Catharines, Ontario, Canada. The franchise was originally known as the Mississauga IceDogs and founded in 1996. Wikipedia",
+            "type": "Ice hockey team",
+            "Division ": [
+                "Central Division"
+            ],
+            "Conference ": [
+                "Eastern Conference"
+            ]
+        },
+        "Ottawa 67's": {
+            "label": "Ottawa 67's",
+            "description": "The Ottawa 67’s are a junior ice hockey team based in Ottawa, Ontario. They have played in the Ontario Hockey League since 1967, Canada's centennial year. The current coach is Chris Byrne. Wikipedia",
+            "type": "Ice hockey team",
+            "Arena/Stadium ": [
+                "Canadian Tire Centre"
+            ],
+            "Location ": [
+                "Ottawa"
+            ],
+            "Division ": [
+                "East Division"
+            ],
+            "Conference ": [
+                "Eastern Conference"
+            ]
+        },
+        "Owen Sound Attack": {
+            "label": "Owen Sound Attack",
+            "description": "The Owen Sound Attack are a junior ice hockey in the Ontario Hockey League based in Owen Sound, Ontario, Canada. Wikipedia",
+            "type": "Ice hockey team",
+            "Division ": [
+                "Midwest Division"
+            ],
+            "Conference ": [
+                "Western Conference"
+            ]
+        },
+        "Sarnia Sting": {
+            "label": "Sarnia Sting",
+            "description": "The Sarnia Sting are a junior ice hockey team based in Sarnia, Ontario, Canada. They are one of the 20 teams that make up the Ontario Hockey League. They play out of the RBC Centre. Wikipedia",
+            "type": "Ice hockey team",
+            "Division ": [
+                "West Division"
+            ],
+            "Conference ": [
+                "Western Conference"
+            ]
+        },
+        "Saginaw Spirit": {
+            "label": "Saginaw Spirit",
+            "description": "The Saginaw Spirit is a major junior ice hockey team based in Saginaw, Michigan. They are members of the West Division of the Western Conference of the Ontario Hockey League, one of the Major Junior leagues of the Canadian Hockey League. Wikipedia",
+            "type": "Ice hockey team",
+            "Division ": [
+                "West Division"
+            ],
+            "Conference ": [
+                "Western Conference"
+            ]
+        },
+        "Plymouth Whalers": {
+            "label": "Plymouth Whalers",
+            "description": "",
+            "type": "",
+            "People also search for": []
+        },
+        "Peterborough Petes": {
+            "label": "Peterborough Petes",
+            "description": "The Peterborough Petes are a junior ice hockey team in the Ontario Hockey League. The team has played in Peterborough, Ontario, Canada, since 1956, and is the oldest continuously operating team in the league. Wikipedia",
+            "type": "Ice hockey team",
+            "Division ": [
+                "East Division"
+            ],
+            "Conference ": [
+                "Eastern Conference"
+            ]
+        },
+        "Sault Ste. Marie Greyhounds": {
+            "label": "Sault Ste. Marie Greyhounds",
+            "description": "The Sault Ste. Marie Greyhounds are a major junior ice hockey team in the Ontario Hockey League. The Greyhounds play home games at the Essar Centre. The present team was founded in 1962 as a team in the Northern Ontario Hockey Association. Wikipedia",
+            "type": "Ice hockey team",
+            "Division ": [
+                "West Division"
+            ],
+            "Conference ": [
+                "Western Conference"
+            ]
+        },
+        "Windsor Spitfires": {
+            "label": "Windsor Spitfires",
+            "description": "The Windsor Spitfires are a junior ice hockey team in the Ontario Hockey League. The team is based in Windsor, Ontario, Canada. Founded in 1971, the franchise was promoted to the Ontario Major Junior Hockey League for the 1975–76 season. Wikipedia",
+            "type": "Ice hockey team",
+            "Division ": [
+                "West Division"
+            ],
+            "Conference ": [
+                "Western Conference"
+            ]
+        },
+        "Richmond Flyers": {
+            "label": "Richmond Flyers",
+            "description": "The Richmond Flyers are a defunct ice hockey team who were founded in 1977 as the London Phoenix Flyers, changing their name to Richmond Flyers in 1980. Wikipedia",
+            "type": ""
+        },
+        "HC Dukla Jihlava": {
+            "label": "HC Dukla Jihlava",
+            "description": "HC Dukla Jihlava, founded in 1956, is an ice hockey team in the Czech Republic. It won the Czechoslovak Extraliga title 12 times six consecutive championships beginning in 1967, then in 1974, four ... Wikipedia",
+            "type": ""
+        },
+        "Anglet Hormadi Élite": {
+            "label": "Anglet Hormadi Elite",
+            "description": "",
+            "type": ""
+        },
+        "Swift Current Broncos": {
+            "label": "Swift Current Broncos",
+            "description": "The Swift Current Broncos are a junior ice hockey team in the Western Hockey League. Founded during 1967 in Swift Current, Saskatchewan, the Broncos played seven seasons before relocating to Lethbridge from 1974 to 1986 as the Lethbridge Broncos. Wikipedia",
+            "type": "Ice hockey team"
+        },
+        "Riga": {
+            "label": "Riga",
+            "description": "Riga is the capital and largest city of Latvia. With 693,064 inhabitants, Riga is the largest city of the Baltic states and home to more than one third of Latvia's population. The city lies on the Gulf of Riga, at the mouth of the Daugava. Wikipedia",
+            "type": "Capital of Latvia",
+            "Area ": [
+                "117.4 sq miles (304 km²)"
+            ],
+            "Weather ": [
+                "48°F (9°C)",
+                " Wind N at 15 mph (24 km/h)",
+                " 50% Humidity"
+            ],
+            "Local time ": [
+                "Friday 403 PM"
+            ],
+            "Population ": [
+                "703",
+                "260 (2010)"
+            ],
+            "Colleges and Universities ": [
+                "University of Latvia",
+                " Riga Technical University",
+                " Riga Stradiņš University",
+                " School of Business Administration Turiba",
+                " Art Academy of Latvia",
+                " Latvia Business College",
+                " Riga Graduate School of Law",
+                " Transport and Telecommunication Institute",
+                " RTU Riga Business School",
+                " Jāzeps Vītols Latvian Academy of MusicMore"
+            ],
+            "Points of interest": []
+        },
+        "MHC Martin": {
+            "label": "MHC Martin",
+            "description": "MHC Mountfield is a professional ice hockey team in the Slovak Extraliga. Wikipedia",
+            "type": ""
+        },
+        "Brantford Blast": {
+            "label": "Brantford Blast",
+            "description": "thumbnail\nBrantford Blast are a Canadian senior ice hockey teams in the Ontario Hockey Association's Allan Cup Hockey, from Brantford, Ontario. The team was established in 2000, and play their games at the Brantford Civic Centre. Wikipedia",
+            "type": "Ice hockey team"
+        },
+        "Calgary Wranglers": {
+            "label": "Calgary Wranglers",
+            "description": "The Calgary Wranglers were a junior ice hockey team that played in the Western Hockey League from 1977 until 1987. The Wranglers played their home games in Calgary, Alberta, at the Stampede Corral. Wikipedia",
+            "type": "Ice hockey team",
+            "Arena/Stadium ": [
+                "Stampede Corral"
+            ]
+        },
+        "Oxford City Stars": {
+            "label": "Oxford City Stars",
+            "description": "The Oxford City Stars are an ice hockey team based in Oxford, England. They currently play in the National Ice Hockey League South 2. Wikipedia",
+            "type": ""
+        },
+        "Petrolia Squires": {
+            "label": "Petrolia Squires",
+            "description": "The Petrolia Squires are a Canadian Senior ice hockey team based in Petrolia, Ontario, Canada. They play in the Western Ontario Athletic Association Senior Hockey League and are two-time Allan Cup National Champions. Wikipedia",
+            "type": "Ice hockey team"
+        },
+        "Vernon Vipers": {
+            "label": "Vernon Vipers",
+            "description": "The Vernon Vipers are a Junior \"A\" ice hockey team based in Vernon, British Columbia, Canada. They are members of the Interior Conference of the British Columbia Hockey League. They play their home games at Kal Tire Centre. Wikipedia",
+            "type": "Ice hockey team",
+            "Arena/Stadium ": [
+                "Kal Tire Place"
+            ]
+        },
+        "Powell River Kings": {
+            "label": "Powell River Kings",
+            "description": "The Powell River Kings are a junior \"A\" ice hockey team based in Powell River, British Columbia, Canada. They are members of the Coastal Conference of the British Columbia Hockey League. They play their home games at Hap Parker Arena. Wikipedia",
+            "type": "Ice hockey team"
+        },
+        "Durham Thundercats": {
+            "label": "Durham Thundercats",
+            "description": "The Durham Thundercats, originally the Durham 72's, are a senior hockey team based out of Durham, Ontario, Canada. Wikipedia",
+            "type": "Ice hockey team"
+        },
+        "Grimsby Red Wings": {
+            "label": "Grimsby Red Wings",
+            "description": "The Grimsby Red Wings are a British ice hockey club.\nThe Red Wings were founded in 1932 making them one of the oldest teams still in operation. The team currently competes in the North 2 division of the ENIHL. Wikipedia",
+            "type": ""
+        },
+        "Powell River Regals": {
+            "label": "Powell River Regals",
+            "description": "The Powell River Regals are a Canadian Senior ice hockey team from Powell River, British Columbia. The Regals play an independent schedule under the supervision of the BC Amateur Hockey Assosciation. Wikipedia",
+            "type": ""
+        },
+        "Bonnyville Pontiacs": {
+            "label": "Bonnyville Pontiacs",
+            "description": "The Bonnyville Pontiacs are an ice hockey team in the Alberta Junior Hockey League. They play in Bonnyville, Alberta, Canada at the R. J. Lalonde Arena, capacity 2700. Wikipedia",
+            "type": ""
+        },
+        "Marathon Renegades": {
+            "label": "Marathon Renegades",
+            "description": "The Marathon Renegades are a Junior \"A\" ice hockey team from Marathon, Ontario. They are currently members of the Superior International Junior Hockey League. Wikipedia",
+            "type": "Ice hockey team"
+        },
+        "Thunder Bay Bearcats": {
+            "label": "Thunder Bay Bearcats",
+            "description": "The Thunder Bay Bearcats were a Junior \"A\" ice hockey team from Thunder Bay, Ontario, Canada. They were a part of the Superior International Junior Hockey League. Wikipedia",
+            "type": "Ice hockey team"
+        },
+        "IK Göta Ishockey": {
+            "label": "IK Göta",
+            "description": "IK Göta is a Swedish sports club, which was very successful in ice hockey in the early to mid 20th century, winning the Swedish championship nine times, including the inaugural Swedish ice hockey championship in 1922. Wikipedia",
+            "type": "Ice hockey team",
+            "Founded ": "October 1, 1900"
+        },
+        "Nottawasaga River Rats": {
+            "label": "Nottawasaga River Rats",
+            "description": "The Nottawasaga River Rats were a senior hockey team based out of CFB Borden. They played in the Western Ontario Athletic Association Senior Hockey League. Wikipedia",
+            "type": "Ice hockey team"
+        },
+        "Kanata Stallions": {
+            "label": "Kanata Stallions Hockey",
+            "description": "",
+            "type": "",
+            "People also search for": []
+        },
+        "London Knights": {
+            "label": "London Knights",
+            "description": "",
+            "type": "",
+            "People also search for": []
+        }
+    },
+    "summary": {
+        "label": 64,
+        "description": 64,
+        "type": 64,
+        "Arena/Stadium ": 10,
+        "Captain ": 5,
+        "Location ": 10,
+        "Division ": 17,
+        "Coach ": 4,
+        "Stanley Cup wins ": 2,
+        "Roster": 5,
+        "Conference ": 14,
+        "Founded ": 3,
+        "Mascot ": 2,
+        "CEO ": 1,
+        "Founders ": 1,
+        "Area ": 2,
+        "Weather ": 2,
+        "Local time ": 2,
+        "See results about": 1,
+        "People also search for": 4,
+        "Mascots ": 1,
+        "Population ": 1,
+        "Colleges and Universities ": 1,
+        "Points of interest": 1
+    },
+    "infoboxless": [
+        "Cleveland Barons (NHL)",
+        "Pittsburgh Pirates (NHL)",
+        "Canberra Knights",
+        "Dynamo Balashikha",
+        "HC Fassa",
+        "HK Orange 20",
+        "HYC Herentals",
+        "Phantoms Deurne",
+        "Saskatoon Blades",
+        "Majadahonda HC",
+        "Tingsryds AIF",
+        "White Caps Turnhout",
+        "Maddogs München",
+        "Sicamous Eagles",
+        "Slough Jets ENL",
+        "Chase Chiefs",
+        "Grand Forks Border Bruins",
+        "London Admirals",
+        "Princeton Posse",
+        "Undrafted",
+        "Louisville River Frogs",
+        "Assist (ice hockey)",
+        "SC Riessersee",
+        "Dakota College at Bottineau Lumberjacks men's ice hockey",
+        "Revelstoke Grizzlies",
+        "Fort Frances Thunderhawks",
+        "Nottingham Lions",
+        "Creston Valley Thunder Cats",
+        "Detroit Jr. Red Wings (SOJHL)",
+        "Montreal Bleu Blanc Rouge",
+        "Ritten Sport",
+        "Seattle Thunderbirds",
+        "Telford Tigers",
+        "Wawa Travellers",
+        "Toronto Arenas",
+        "St. Albert Saints"
+    ]
+}

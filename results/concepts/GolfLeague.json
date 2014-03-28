@@ -1,0 +1,38 @@
+{
+    "instances": {
+        "PGA Tour": {
+            "label": "PGA Tour",
+            "description": "The PGA Tour is the organizer of the main professional golf tours played primarily by men in the United States and North America. Wikipedia",
+            "type": "Division",
+            "Headquarters ": [
+                "Ponte Vedra Beach",
+                " FL"
+            ],
+            "Founded ": [
+                "1929"
+            ],
+            "Recent posts": []
+        }
+    },
+    "summary": {
+        "label": 1,
+        "description": 1,
+        "type": 1,
+        "Headquarters ": 1,
+        "Founded ": 1,
+        "Recent posts": 1
+    },
+    "infoboxless": [
+        "Asian Tour",
+        "Japan Golf Tour",
+        "PGA European Tour",
+        "PGA Tour of Australasia",
+        "Professional Golfers' Association of America",
+        "National Golf Foundation",
+        "Sunshine Tour",
+        "LPGA",
+        "Champions Tour",
+        "PGA Tour Canada",
+        "Ladies European Tour"
+    ]
+}
