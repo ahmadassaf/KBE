@@ -30,19 +30,21 @@ The application is run in the console and the output will be available in result
 
 
 ## Crawling Configuration
-There are four default options that can be found in file ```KBE.js```
+These are the default options that can be found in file ```KBE.js```
 ```js
 cache_dbpedia_concepts       : true,
 limit_dbpedia_concepts       : true,
 limit_dbpedia_instances      : true,
 limit_dbpedia_concepts_value : 10,
-limit_dbpedia_instances_value: 10
+limit_dbpedia_instances_value: 10,
+proxy                        : null
 ```
 - ```cache_dbpedia_concepts``` cache the concepts retrieved from DBpedia.
 - ```limit_dbpedia_concepts``` limit the number of concepts retrieved by DBpedia, false will retrieve all the concepts
 - ```limit_dbpedia_instances``` limit the number of instances retrieved for each concept, false will retrieve all the instances
 - ```limit_dbpedia_concepts_value``` the number of concepts you wish to retrieve
 - ```limit_dbpedia_instances_value``` the number of instances you wish to retrieve for each concept
+- ```proxy``` the proxy address string containing ports i.e ```http:\\proxy:8080```
 
 For our experiment the parameters are:
 ```js
@@ -50,5 +52,6 @@ cache_dbpedia_concepts       : true,
 limit_dbpedia_concepts       : false,
 limit_dbpedia_instances      : true,
 limit_dbpedia_concepts_value : null,
-limit_dbpedia_instances_value: 100
+limit_dbpedia_instances_value: 100,
+proxy                        : null
 ```
