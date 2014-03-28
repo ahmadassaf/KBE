@@ -13,6 +13,9 @@ The Algorithm used is the following:
      + if Google suggests disambiguation in an infobox parse all the links in it -> its best to find which suggestion maps to the current data-type we are using -> check the Freebase - DBpedia mappings
  - Cluster properties for each concept 
 
+-> You will find the final result for our expirement in the results folder: results/result.json
+-> For more detailed view for each DBpedia class, you can check the files in: results/concepts
+
 ## How to run ..
 
  - Clone the repo to your local machine
