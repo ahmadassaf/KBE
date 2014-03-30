@@ -1,24 +1,23 @@
 Knowledge-base Extractor
 =======================
 
-This is a node.js application that aims at extracting the knowledge represented in the Google infoboxes. 
+This is a node.js application that aims at extracting the knowledge represented in the Google infoboxes (aka Google Knowlege Graph Panel). 
 
-The Algorithm used is the following:
- - Query DBpedia for all concepts (types) that are also linked to Freebase IDs via <sameAs> links 
+The Algorithm implemented is the following:
+ - Query DBpedia for all concepts (types) for which there is at least one instance that has a <sameAs> link to a Freebase ID 
  - For each of these concepts pick (n) instances randomly 
  - For each instance, issue a Google Search query:
      + if an infobox is available -> scrap the infobox to extract the properties
-     + if no infoxbox is available, check if Google suggests do you mean ... ? and if so, traverse the link and look for an infobox
-     + if no infobox or correction is available, augment the concept (type) to the search query and check if you will get an infobox 
-     + if Google suggests disambiguation in an infobox parse all the links in it -> its best to find which suggestion maps to the current data-type we are using -> check the Freebase - DBpedia mappings
+     + if no infoxbox is available, check if Google suggests "do you mean ... ?" and if so, traverse the link and look for an infobox
+     + if no infobox or correction is available, disambiguate the concept (type) used in the search query and check if an infobox is returned 
+     + if Google suggests disambiguation in an infobox parse all the links in it -> it is best to find which suggestion maps to the current data-type we are using -> check the Freebase - DBpedia mappings
  - Cluster properties for each concept 
 
-###Notes
-- You will find the final result for our expirement in the results folder ```results/result.json```
-- For more detailed view for each DBpedia class, you can check the files in ```results/concepts```
+### Notes
+- The result of our expirement is in the results folder ```results/dbpedia.json```
+- For a more detailed view for each DBpedia class, one can check the files in ```results/dbpedia```
 
-## How to run ..
-
+## How to run?
  - Clone the repo to your local machine
  - run ```npm install``` on the root of the local project directory 
 
@@ -29,9 +28,7 @@ You have to create 4 folders for caching ...
  	+ folder called ```instances``` inside the cache folder: This will hold the DBpedia instances for each concept (type)
 
  - run ```npm server.js```
- - 
-The application is run in the console and the output will be available in results/result.json
-
+ - The application is run in the console and the output will be available in results/result.json
 
 ## Crawling Configuration
 These are the default options that can be found in file ```KBE.js```
