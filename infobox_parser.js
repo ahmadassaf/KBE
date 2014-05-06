@@ -10,11 +10,11 @@ var infobox_parser = function(proxy) {
 	this.knowledgePanel = {
 		knowledgeBox  				: '#kno-result',
 		knowledgeBox_disambiguate	: '.kp-blk',
-		property                    : '._Hl',
+		property                    : '._Nl',
 		property_value              : '.kno-fv',
 		label                       : '.kno-ecr-pt',
 		description                 : '.kno-rdesc',
-		type                        : '._Xw',
+		type                        : '._kx',
 		images                      : '.bicc',
 		special_property            : '.kno-sh',
 		special_property_value      : '._Zh',
@@ -39,7 +39,7 @@ infobox_parser.prototype.parse = function(instance, type, callback) {
 
 infobox_parser.prototype.query = function(instance, type,cache_filename,callback) {
 
-	var infobox_parser = this; 
+	var infobox_parser = this;
 	var parsed_infobox = undefined;
 	var knowledgePanel = this.knowledgePanel;
 	var addToObj       =	function(obj, values, properties,mergeCallback) {
@@ -89,9 +89,9 @@ infobox_parser.prototype.query = function(instance, type,cache_filename,callback
 				} else if ($(knowledgePanel.knowledgeBox_disambiguate).length > 0 && type ) infobox_parser.parse(instance + ' ' + type.substr(type.lastIndexOf('/') + 1),null,callback);
 					// No infobox or disambiguation infobox has been found for this instance
 					else callback(null,false);
-			} else { 
-				console.log("Apparently Google blocked Me ..."); 
-				process.exit(); 
+			} else {
+				console.log("Apparently Google blocked Me ...");
+				process.exit();
 			}
 		}
 	});
