@@ -61,7 +61,7 @@ morestring=[b][\color{blue}]\",
 
 \begin{abstract}
 Entities play a key role in knowledge bases in general and in the Web of Data in particular. Entities are generally described with a lot of properties, this is the case for DBpedia. It is, however, difficult to assess which ones are more ``important'' than others for particular tasks such as visualizing the key facts of an entity or filtering out the ones which will yield better instance matching. In this paper, we perform a reverse engineering of the Google Knowledge graph panel to find out what are the most ``important'' properties for an entity according to Google. We compare these results with a survey we conducted on 152 users. We finally show how we can represent and explicit this knowledge using the Fresnel vocabulary.
-\keywords{Entities, Google Knowledge Graph, visualization, knowledge extraction}
+\keywords{Entities, Google Knowledge Graph, knowledge extraction}
 \end{abstract}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%
@@ -70,9 +70,8 @@ Entities play a key role in knowledge bases in general and in the Web of Data in
 
 \section{Introduction}
 \label{sec:introduction}
-In many knowledge bases, entities are described with numerous properties. However, not all properties have the same importance. Some properties are considered as keys for performing instance matching tasks while other properties are generally chosen for quickly providing a summary of the key facts attached to an entity. Our motivation is to provide a method enabling to select what properties should be used when depicting the summary of an entity, for example in a multimedia question answering system such as QakisMedia\footnote{\url{http://qakis.org/}} or in a second screen application providing more information about a particular TV program\footnote{\url{http://www.linkedtv.eu/demos/linkednews/}}.
-
-Our approach consists in: (i) reverse engineering the Google Knowledge Panel by extracting the properties that Google considers as sufficiently important to show (Section~\ref{sec:knowledge-graph}), and (ii) analyzing users' preferences by conducting a user survey and comparing the results (Section~\ref{sec:evaluation}). We finally show how we can explicitly represent this knowledge of preferred properties to attach to an entity using the Fresnel vocabulary before concluding (Section \ref{sec:conclusion}).
+In many knowledge bases, entities are described with numerous properties. However, not all properties have the same importance. Some properties are considered as keys for performing instance matching tasks while other properties are generally chosen for quickly providing a summary of the key facts attached to an entity. Our motivation is to provide a method enabling to select what properties should be used when depicting the summary of an entity, for example in a multimedia question answering system such as QakisMedia\footnote{\url{http://qakis.org/}} or in a second screen application providing more information about a particular TV program\footnote{\url{http://www.linkedtv.eu/demos/linkednews/}}. Our approach consists in: (i) reverse engineering the Google Knowledge Panel by extracting the properties that Google considers as sufficiently important to show (Section~\ref{sec:knowledge-graph}), and (ii) analyzing users' preferences by conducting a user survey and comparing the results (Section~\ref{sec:evaluation}). We finally show how we can explicitly represent this knowledge of preferred properties to attach to an entity using the Fresnel vocabulary before concluding (Section \ref{sec:conclusion}).
+\vspace{-0.4cm}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%  2. Reverse Engineering the Google Knowledge Graph Panel  %%%
@@ -81,9 +80,6 @@ Our approach consists in: (i) reverse engineering the Google Knowledge Panel by 
 \section{Reverse Engineering the Google KG Panel}
 \label{sec:knowledge-graph}
 Web scraping is a technique for extracting data from Web pages. We aim at capturing the properties depicted in the Google Knowledge Panel (GKP) that are injected in search result pages~\cite{Bergman2012}. We have developed a Node.js application that queries all DBpedia concepts that have at least one instance which is \texttt{owl:sameAs} with a Freebase resource in order to increase the probability that the search engine result page (SERP) for this resource will contain a GKP. We assume in our experiments that the properties displayed for an entity are type and context dependent (country, time, query) which can affect the results. Moreover, we filter out generic concepts by excluding those who are direct subclasses of \texttt{owl:Thing} since they will trigger ambiguous queries. We obtained a list of $352$ concepts\footnote{See also the SPARQL query at \url{http://goo.gl/EYuGm1}}.
-
-For each of these concepts, we retrieve $n$ instances (in our experiment, $n$ was equal to 100 random instances). For each of these instances, we issue a search query to Google containing the instance label. Google does not serve the GKP for all user agents and we had to mimic a browser behavior by setting the $User-Agent$ to a particular browser. We use CSS selectors to check the existence of and to extract data from a GKP. An example of a query selector is $.\_om$ (all elements with class name $\_om$) which returns the property DOM element(s) for the concept described in the GKP. From our experiments, we found out that we do not always get a GKP in a SERP. If this happens, we try to disambiguate the instance by issuing a new query with the concept type attached. However, if no GKP was found again, we capture that for manual inspection later on. Listing~\ref{algoscrapping} gives the high level algorithm for extracting the GKP. The full implementation can be found at \url{https://github.com/ahmadassaf/KBE}. We finally observe that this experiment is only valid for the English Google.com search results since GKP varies according to top level names.
-
 \begin{algorithm}[h]\scriptsize
 \caption{Google Knowledge Panel reverse engineering algorithm} \label{algoscrapping}
 \begin{algorithmic}[1]
@@ -110,6 +106,8 @@ For each of these concepts, we retrieve $n$ instances (in our experiment, $n$ wa
 \end{algorithmic}
 \end{algorithm}
 \normalsize
+For each of these concepts, we retrieve $n$ instances (in our experiment, $n$ was equal to 100 random instances). For each of these instances, we issue a search query to Google containing the instance label. Google does not serve the GKP for all user agents and we had to mimic a browser behavior by setting the $User-Agent$ to a particular browser. We use CSS selectors to check the existence of and to extract data from a GKP. An example of a query selector is $.\_om$ (all elements with class name $\_om$) which returns the property DOM element(s) for the concept described in the GKP. From our experiments, we found out that we do not always get a GKP in a SERP. If this happens, we try to disambiguate the instance by issuing a new query with the concept type attached. However, if no GKP was found again, we capture that for manual inspection later on. Listing~\ref{algoscrapping} gives the high level algorithm for extracting the GKP. The full implementation can be found at \url{https://github.com/ahmadassaf/KBE}. We finally observe that this experiment is only valid for the English Google.com search results since GKP varies according to top level names.
+\vspace{-0.6cm}
 
 %%%%%%%%%%%%%%%%%%%%%%%
 %%%  3. Evaluation  %%%
@@ -155,9 +153,10 @@ Fresnel\footnote{\url{http://www.w3.org/2005/04/fresnel-info/}} is a presentatio
     <http://www.google.com/insidesearch/features/search/knowledge.html> .	
 \end{lstlisting}
 \normalsize
+\vspace{-0.6cm}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%  5. Conclusion and Future Work  %%%
+%%%  4. Conclusion and Future Work  %%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Conclusion and Future Work}
@@ -169,7 +168,7 @@ We have shown that it is possible to reveal what are the ``important'' propertie
 %%%%%%%%%%%%%%%%%%%%%%%%%
 
 \paragraph{\textbf{Acknowledgments.}} %\label{sec:acknowledgments}
-This work has been partially supported by the ANR Datalift (ANR-10-CORD-009) and UCN (ANR-11-LABX-0031-01) projects.
+This work has been partially supported by Datalift (ANR-10-CORD-009), UCN (ANR-11-LABX-0031-01) and LinkedTV (GA 287911).
 
 \bibliographystyle{abbrv}
 \nocite{*}
