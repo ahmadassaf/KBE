@@ -29,10 +29,11 @@
             ],
             "Mountains": []
         },
-        "Türnitz Alps": {
-            "label": "Türnitz Alps",
-            "description": "The Türnitz Alps are a mountain range of the Northern Limestone Alps in southern Lower Austria and the adjacent state of Styria. They stretch from the Erlauf valley in the west to the valleys of the Traisen and Unrechttraisen in the east. Wikipedia",
-            "type": ""
+        "Steinernes Meer": {
+            "label": "Steinernes Meer",
+            "description": "The Steinernes Meer is a high karst plateau in the Northern Limestone Alps. As one of the nine sub-ranges of the Berchtesgaden Alps the Steinernes Meer belongs partly to Bavaria and partly to Salzburg. Wikipedia",
+            "type": "",
+            "People also search for": []
         },
         "Stubai Alps": {
             "label": "Stubai Alps",
@@ -46,12 +47,6 @@
             ],
             "Mountains": []
         },
-        "Steinernes Meer": {
-            "label": "Steinernes Meer",
-            "description": "The Steinernes Meer is a high karst plateau in the Northern Limestone Alps. As one of the nine sub-ranges of the Berchtesgaden Alps the Steinernes Meer belongs partly to Bavaria and partly to Salzburg. Wikipedia",
-            "type": "",
-            "People also search for": []
-        },
         "Styrian Prealps": {
             "label": "Styrian Prealps",
             "description": "The Styrian Prealps are a mountain range in the eastern part of the Alps. They are located in Austria and, marginally, in Slovenia and Hungary. Wikipedia",
@@ -63,18 +58,10 @@
                 "Ameringkogel"
             ]
         },
-        "Tordrillo Mountains": {
-            "label": "Tordrillo Mountains",
-            "description": "The Tordrillo Mountains are a small mountain range in the Matanuska-Susitna and Kenai Peninsula Boroughs in the southcentral region of the U.S. state of Alaska. They lie approximately 75 miles west-northwest of Anchorage. Wikipedia",
-            "type": "Mountain range",
-            "Highest point ": [
-                "Mount Torbert"
-            ],
-            "Mountains ": [
-                "Mount Spurr",
-                " Mount Torbert",
-                " Hayes Volcano"
-            ]
+        "Türnitz Alps": {
+            "label": "Türnitz Alps",
+            "description": "The Türnitz Alps are a mountain range of the Northern Limestone Alps in southern Lower Austria and the adjacent state of Styria. They stretch from the Erlauf valley in the west to the valleys of the Traisen and Unrechttraisen in the east. Wikipedia",
+            "type": ""
         },
         "Tenasserim Hills": {
             "label": "Tenasserim Hills",
@@ -92,15 +79,17 @@
                 " Khao Ok Talu"
             ]
         },
-        "United States Range": {
-            "label": "United States Range",
-            "description": "The United States Range is one of the most northern mountain ranges in the world and of the Arctic Cordillera and is surpassed only by the Challenger Mountains to the northwest. Wikipedia",
-            "type": "Mountain range in Canada",
+        "Tordrillo Mountains": {
+            "label": "Tordrillo Mountains",
+            "description": "The Tordrillo Mountains are a small mountain range in the Matanuska-Susitna and Kenai Peninsula Boroughs in the southcentral region of the U.S. state of Alaska. They lie approximately 75 miles west-northwest of Anchorage. Wikipedia",
+            "type": "Mountain range",
             "Highest point ": [
-                "Mount Eugene"
+                "Mount Torbert"
             ],
             "Mountains ": [
-                "Mount Eugene"
+                "Mount Spurr",
+                " Mount Torbert",
+                " Hayes Volcano"
             ]
         },
         "Vanoise massif": {
@@ -118,13 +107,37 @@
             ],
             "Mountains": []
         },
-        "Sierra Carapé": {
-            "label": "Sierra Carapé",
-            "description": "Sierra Carapé or Sierra de Carapé is a hill range located in Maldonado Department, in southern Uruguay. The range crosses the Maldonado Department from west to east and enters the Rocha Department. Wikipedia",
-            "type": "Mountain range in Uruguay",
+        "Wetterstein": {
+            "label": "Wetterstein",
+            "description": "The Wetterstein, is a mountain range in the Northern Limestone Alps. It is a compact range between Garmisch-Partenkirchen, Mittenwald, Seefeld in Tirol and Ehrwald; partially in Bavaria, Germany and partially in Tyrol, Austria. Wikipedia",
+            "type": "Mountain range in Germany",
+            "Highest point ": [
+                "Zugspitze"
+            ],
             "Country ": [
-                "Uruguay"
+                "Germany"
+            ],
+            "Mountains": []
+        },
+        "United States Range": {
+            "label": "United States Range",
+            "description": "The United States Range is one of the most northern mountain ranges in the world and of the Arctic Cordillera and is surpassed only by the Challenger Mountains to the northwest. Wikipedia",
+            "type": "Mountain range in Canada",
+            "Highest point ": [
+                "Mount Eugene"
+            ],
+            "Mountains ": [
+                "Mount Eugene"
             ]
+        },
+        "Wrangell Mountains": {
+            "label": "Wrangell Mountains",
+            "description": "The Wrangell Mountains are a high mountain range of eastern Alaska in the United States. Much of the range is included in Wrangell-Saint Elias National Park and Preserve. Wikipedia",
+            "type": "Mountain range in Alaska",
+            "Highest point ": [
+                "Mount Blackburn"
+            ],
+            "Mountains": []
         },
         "Sierra Madre Oriental": {
             "label": "Sierra Madre Oriental",
@@ -138,48 +151,13 @@
             ],
             "See results about": []
         },
-        "Wrangell Mountains": {
-            "label": "Wrangell Mountains",
-            "description": "The Wrangell Mountains are a high mountain range of eastern Alaska in the United States. Much of the range is included in Wrangell-Saint Elias National Park and Preserve. Wikipedia",
-            "type": "Mountain range in Alaska",
-            "Highest point ": [
-                "Mount Blackburn"
-            ],
-            "Mountains": []
-        },
-        "Wetterstein": {
-            "label": "Wetterstein",
-            "description": "The Wetterstein, is a mountain range in the Northern Limestone Alps. It is a compact range between Garmisch-Partenkirchen, Mittenwald, Seefeld in Tirol and Ehrwald; partially in Bavaria, Germany and partially in Tyrol, Austria. Wikipedia",
-            "type": "Mountain range in Germany",
-            "Highest point ": [
-                "Zugspitze"
-            ],
+        "Sierra Carapé": {
+            "label": "Sierra Carapé",
+            "description": "Sierra Carapé or Sierra de Carapé is a hill range located in Maldonado Department, in southern Uruguay. The range crosses the Maldonado Department from west to east and enters the Rocha Department. Wikipedia",
+            "type": "Mountain range in Uruguay",
             "Country ": [
-                "Germany"
-            ],
-            "Mountains": []
-        },
-        "Ural Mountains": {
-            "label": "Ural Mountains",
-            "description": "The Ural Mountains, or simply the Urals, are a mountain range that runs approximately from north to south through western Russia, from the coast of the Arctic Ocean to the Ural River and northwestern Kazakhstan. Wikipedia",
-            "type": "Mountain range",
-            "Elevation ": [
-                "6",
-                "217' (1",
-                "895 m)"
-            ],
-            "Area ": [
-                "859",
-                "100 sq miles (2.225 million km²)"
-            ],
-            "Highest point ": [
-                "Mount Narodnaya"
-            ],
-            "Countries ": [
-                "Kazakhstan",
-                " Russia"
-            ],
-            "Mountains": []
+                "Uruguay"
+            ]
         },
         "Tian Shan": {
             "label": "Tian Shan",
@@ -206,11 +184,6 @@
             ],
             "Mountains": []
         },
-        "Sierra Salvada": {
-            "label": "Sierra Salvada",
-            "description": "Sierra Salvada is a mountain range situated to the northwest of Burgos, and it is also part of Alava and Orduña. The southern slope of this mountain range, whose rivers flow to the mediterranean sea, is included in the province of Burgos. Wikipedia",
-            "type": ""
-        },
         "Vindhya Range": {
             "label": "Vindhya Range",
             "description": "The Vindhya Range is a range of older rounded mountains and hills in the west-central Indian subcontinent, which geographically separates the Indian subcontinent into northern India and Southern India. Wikipedia",
@@ -219,9 +192,31 @@
                 "India"
             ]
         },
-        "Şimleu Mountains": {
-            "label": "Şimleu Mountains",
-            "description": "The Şimleu Mountains is a mountain range in Transylvania, Romania, which belongs to the Apuseni Mountains. Wikipedia",
+        "Ural Mountains": {
+            "label": "Ural Mountains",
+            "description": "The Ural Mountains, or simply the Urals, are a mountain range that runs approximately from north to south through western Russia, from the coast of the Arctic Ocean to the Ural River and northwestern Kazakhstan. Wikipedia",
+            "type": "Mountain range",
+            "Elevation ": [
+                "6",
+                "217' (1",
+                "895 m)"
+            ],
+            "Area ": [
+                "859",
+                "100 sq miles (2.225 million km²)"
+            ],
+            "Highest point ": [
+                "Mount Narodnaya"
+            ],
+            "Countries ": [
+                "Kazakhstan",
+                " Russia"
+            ],
+            "Mountains": []
+        },
+        "Sierra Salvada": {
+            "label": "Sierra Salvada",
+            "description": "Sierra Salvada is a mountain range situated to the northwest of Burgos, and it is also part of Alava and Orduña. The southern slope of this mountain range, whose rivers flow to the mediterranean sea, is included in the province of Burgos. Wikipedia",
             "type": ""
         },
         "Sierra del Lacandón": {
@@ -237,6 +232,16 @@
                 "029 km²)"
             ]
         },
+        "Şimleu Mountains": {
+            "label": "Şimleu Mountains",
+            "description": "The Şimleu Mountains is a mountain range in Transylvania, Romania, which belongs to the Apuseni Mountains. Wikipedia",
+            "type": ""
+        },
+        "Sir Sandford Range": {
+            "label": "Sir Sandford Range",
+            "description": "The Sir Sandford Range is a subrange of the Big Bend Ranges of the Selkirk Mountains of the Columbia Mountains in southeastern British Columbia, Canada, located between Gold and Palmer Creek just southwest of the Gold Arm of Kinbasket Lake. Wikipedia",
+            "type": ""
+        },
         "Shokanbetsudake Mountains": {
             "label": "Shokanbetsudake Mountains",
             "description": "Shokanbetsudake Mountains are a group of volcanic mountains on the western coast of Hokkaidō. It is part of the Mashike Mountains, separated from the other part of the Mashike Mountains to the south, the Kabato Mountains by the Hamamasu River. Wikipedia",
@@ -249,11 +254,6 @@
                 " Mount Okutoppu"
             ]
         },
-        "Sir Sandford Range": {
-            "label": "Sir Sandford Range",
-            "description": "The Sir Sandford Range is a subrange of the Big Bend Ranges of the Selkirk Mountains of the Columbia Mountains in southeastern British Columbia, Canada, located between Gold and Palmer Creek just southwest of the Gold Arm of Kinbasket Lake. Wikipedia",
-            "type": ""
-        },
         "Slovenian Prealps": {
             "label": "Slovenian Prealps",
             "description": "The Slovenian Prealps are a group of mountain ranges in the eastern part of the Alps. They are located in Slovenia and, for a small part of their northernmost area, in Austria. Wikipedia",
@@ -265,6 +265,11 @@
                 "Porezen"
             ]
         },
+        "Selter (hills)": {
+            "label": "Selter",
+            "description": "The Selter is a ridge, up to 395 m above NN, in the Lower Saxon Hills in the districts of Hildesheim, Holzminden and Northeim in the German state of Lower Saxony. Wikipedia",
+            "type": "Hills"
+        },
         "Seymour Range": {
             "label": "Seymour Range",
             "description": "The Seymour Range is a low and small mountain range comprising the mountains/hills between the valley of Cowichan Lake and that of the San Juan River on southern Vancouver Island, British Columbia, Canada. Wikipedia",
@@ -272,11 +277,6 @@
             "Area ": [
                 "342.9 sq miles (888 km²)"
             ]
-        },
-        "Selter (hills)": {
-            "label": "Selter",
-            "description": "The Selter is a ridge, up to 395 m above NN, in the Lower Saxon Hills in the districts of Hildesheim, Holzminden and Northeim in the German state of Lower Saxony. Wikipedia",
-            "type": "Hills"
         },
         "Shawangunk Ridge": {
             "label": "Shawangunk Ridge",
@@ -341,15 +341,6 @@
             ],
             "People also search for": []
         },
-        "Swan Range": {
-            "label": "Swan Range",
-            "description": "The Swan Range is a mountain range in western Montana in the United States. Its peaks typically rise to around 8,000 to 9,000 feet. Wikipedia",
-            "type": "",
-            "Area ": [
-                "757 sq miles (1",
-                "961 km²)"
-            ]
-        },
         "Spearhead Range": {
             "label": "Spearhead Range",
             "description": "The Spearhead Range is a short subrange of the Garibaldi Ranges of southwestern British Columbia, Canada, adjacent to the resort town of Whistler, British Columbia and ending at its northwestern apex ... Wikipedia",
@@ -362,6 +353,24 @@
             "label": "Supramonte",
             "description": "The Supramonte is an area of mountains and highlands located in central-eastern Sardinia, Italy. It lies northeast of the Gennargentu massif, spanning eastwards until it reaches the Tyrrenian See in the Gulf of Orosei. Wikipedia",
             "type": ""
+        },
+        "Swan Range": {
+            "label": "Swan Range",
+            "description": "The Swan Range is a mountain range in western Montana in the United States. Its peaks typically rise to around 8,000 to 9,000 feet. Wikipedia",
+            "type": "",
+            "Area ": [
+                "757 sq miles (1",
+                "961 km²)"
+            ]
+        },
+        "Taconic Mountains": {
+            "label": "Taconic Mountains",
+            "description": "The Taconic Mountains or Taconic Range are a physiographic section of the larger New England province and part of the Appalachian Mountains, running along the eastern border of New York State and adjacent ... Wikipedia",
+            "type": "Mountain range",
+            "Highest point ": [
+                "Equinox Mountain"
+            ],
+            "People also search for": []
         },
         "Trinity Alps": {
             "label": "Trinity Alps",
@@ -393,15 +402,6 @@
             ],
             "Mountains": []
         },
-        "Taconic Mountains": {
-            "label": "Taconic Mountains",
-            "description": "The Taconic Mountains or Taconic Range are a physiographic section of the larger New England province and part of the Appalachian Mountains, running along the eastern border of New York State and adjacent ... Wikipedia",
-            "type": "Mountain range",
-            "Highest point ": [
-                "Equinox Mountain"
-            ],
-            "People also search for": []
-        },
         "Warm Springs, Nevada": {
             "label": "Warm Springs",
             "description": "Warm Springs is an unincorporated community in the Tonopah Basin and Nye County, Nevada, near the mountain pass which divides the Kawich and Hot Creek ranges. Wikipedia",
@@ -420,6 +420,12 @@
             "label": "Selenite Range",
             "description": "The Selenite Range is a mountain range in western Pershing County, Nevada. The range is a north–south trending feature approximately 27 miles long and 4 miles wide. Wikipedia",
             "type": "Mountain range in Nevada"
+        },
+        "Southern Rocky Mountains": {
+            "label": "Southern Rocky Mountains",
+            "description": "The Southern Rocky Mountains are a major subregion of the Rocky Mountains of North America located in the southern portion of the U.S. state of Wyoming, the central and western portions of Colorado, ... Wikipedia",
+            "type": "Mountain range",
+            "See results about": []
         },
         "Stokes Range": {
             "label": "Stokes Range",
@@ -440,6 +446,11 @@
             "description": "The Palisades are a mountain range in Napa County, California. The Palisades are located in Robert Louis Stevenson State Park on the other side of California 29 as Mt. St. Helena. Wikipedia",
             "type": "Mountain range in California"
         },
+        "Sierra Vicuña Mackenna": {
+            "label": "Sierra Vicuña Mackenna",
+            "description": "The Cordillera Vicuña Mackenna is the highest section of the Chilean Coast Range located in northern Chile, west of Pampa del Tamarugal. Its peak reaches over 3000 meters. It runs north-south for approximately 170 km parallel to the Andes. Wikipedia",
+            "type": "Mountain range"
+        },
         "Świętokrzyskie Mountains": {
             "label": "Świętokrzyskie Mountains",
             "description": "The Świętokrzyskie Mountains, or Holy Cross Mountains, are a mountain range in central Poland, in the vicinity of the city of Kielce.\nThe mountain range comprises several lesser ranges, the highest of which is Łysogóry. Wikipedia",
@@ -455,17 +466,6 @@
                 " Łysica"
             ],
             "People also search for": []
-        },
-        "Southern Rocky Mountains": {
-            "label": "Southern Rocky Mountains",
-            "description": "The Southern Rocky Mountains are a major subregion of the Rocky Mountains of North America located in the southern portion of the U.S. state of Wyoming, the central and western portions of Colorado, ... Wikipedia",
-            "type": "Mountain range",
-            "See results about": []
-        },
-        "Sierra Vicuña Mackenna": {
-            "label": "Sierra Vicuña Mackenna",
-            "description": "The Cordillera Vicuña Mackenna is the highest section of the Chilean Coast Range located in northern Chile, west of Pampa del Tamarugal. Its peak reaches over 3000 meters. It runs north-south for approximately 170 km parallel to the Andes. Wikipedia",
-            "type": "Mountain range"
         },
         "Sierra de Chinajá": {
             "label": "Sierra de Chinajá",
@@ -487,18 +487,6 @@
             "description": "The Western Carpathians are a mountain range and geomorphological province that forms the western part of the Carpathian Mountains. Wikipedia",
             "type": "",
             "People also search for": []
-        },
-        "Selamiut Range": {
-            "label": "Selamiut Range",
-            "description": "The Selamiut Range is a mountain range on the northernmost tip of Labrador, Canada. It is a subrange of the Torngat Mountains which in turn form part of the southern section of the Arctic Cordillera mountain system. Wikipedia",
-            "type": "Mountain range",
-            "Highest point ": [
-                "Torngarsoak Mountain"
-            ],
-            "Mountains ": [
-                "Torngarsoak Mountain",
-                " Cirque Mountain"
-            ]
         },
         "Wicklow Mountains": {
             "label": "Wicklow Mountains",
@@ -524,6 +512,18 @@
             ],
             "People also search for": []
         },
+        "Selamiut Range": {
+            "label": "Selamiut Range",
+            "description": "The Selamiut Range is a mountain range on the northernmost tip of Labrador, Canada. It is a subrange of the Torngat Mountains which in turn form part of the southern section of the Arctic Cordillera mountain system. Wikipedia",
+            "type": "Mountain range",
+            "Highest point ": [
+                "Torngarsoak Mountain"
+            ],
+            "Mountains ": [
+                "Torngarsoak Mountain",
+                " Cirque Mountain"
+            ]
+        },
         "Sibola Range": {
             "label": "Sibola Range",
             "description": "The Sibola Range is a subrange of the Tahtsa Ranges, located north of Tahtsa Lake in northern British Columbia, Canada. Wikipedia",
@@ -539,17 +539,22 @@
             "description": "The Slamgeesh Range is a small subrange of the Skeena Mountains of the Interior Mountains, located between the Skeena River and Slamgeesh River in northern British Columbia, Canada. Wikipedia",
             "type": ""
         },
+        "Sourland Mountain": {
+            "label": "Sourland Mountain",
+            "description": "Sourland Mountain is a 17 miles long ridge in central New Jersey, extending from the Delaware River at Lambertville to the western end of Hillsborough Township near the community of Neshanic, through ... Wikipedia",
+            "type": "",
+            "See results about": []
+        },
         "South Hills (Montana)": {
             "label": "South Hills",
             "description": "The South Hills, is a term for a number of small foothills in various Montana communities, most notably those at el. 3,592 feet, south of Missoula, Montana in Missoula County, Montana. Wikipedia",
             "type": "Foothills in Montana",
             "See results about": []
         },
-        "Sourland Mountain": {
-            "label": "Sourland Mountain",
-            "description": "Sourland Mountain is a 17 miles long ridge in central New Jersey, extending from the Delaware River at Lambertville to the western end of Hillsborough Township near the community of Neshanic, through ... Wikipedia",
-            "type": "",
-            "See results about": []
+        "Strata Range": {
+            "label": "Strata Range",
+            "description": "The Strata Range is a small subrange of the Skeena Mountains of the Interior Mountains, located between the Bell-Irving River and Taylor River in northern British Columbia, Canada. Wikipedia",
+            "type": ""
         },
         "Tangra Mountains": {
             "label": "Tangra Mountains",
@@ -582,9 +587,9 @@
                 "British Columbia"
             ]
         },
-        "Strata Range": {
-            "label": "Strata Range",
-            "description": "The Strata Range is a small subrange of the Skeena Mountains of the Interior Mountains, located between the Bell-Irving River and Taylor River in northern British Columbia, Canada. Wikipedia",
+        "Telkwa Range": {
+            "label": "Telkwa Range",
+            "description": "The Telkwa Range is a subrange of the Bulkley Ranges, located south of the junction of the Telkwa River and Bulkley River in northern British Columbia, Canada. Wikipedia",
             "type": ""
         },
         "The Pine Hills": {
@@ -593,10 +598,10 @@
             "type": "",
             "People also search for": []
         },
-        "Telkwa Range": {
-            "label": "Telkwa Range",
-            "description": "The Telkwa Range is a subrange of the Bulkley Ranges, located south of the junction of the Telkwa River and Bulkley River in northern British Columbia, Canada. Wikipedia",
-            "type": ""
+        "Thiel Mountains": {
+            "label": "Thiel Mountains",
+            "description": "The Thiel Mountains are an isolated, mainly snow-capped mountain range in Antarctica which are 72 km long. Wikipedia",
+            "type": "Mountain range in Antarctica"
         },
         "Three Buttes": {
             "label": "Three Buttes",
@@ -612,18 +617,6 @@
             "label": "Valkyr Range",
             "description": "The Valkyr Range is a subrange of the Selkirk Mountains of the Columbia Mountains in southeastern British Columbia, Canada, located on the east side of Lower Arrow Lake west of Nelson. Wikipedia",
             "type": ""
-        },
-        "Vital Range": {
-            "label": "Vital Health Foods",
-            "description": "",
-            "type": "",
-            "People also search for": []
-        },
-        "Waterman Mountains": {
-            "label": "Waterman Mountains",
-            "description": "The Waterman Mountains are a low mountainous landform in Pima County, United States. Notable among the tree species is the Elephant tree which species exhibits a contorted multi-furcate architecture; most of these froze in the cold winter of 2011. Wikipedia",
-            "type": "",
-            "See results about": []
         },
         "Vancouver Island Ranges": {
             "label": "Vancouver Island Ranges",
@@ -642,25 +635,37 @@
             ],
             "Mountains": []
         },
-        "Thiel Mountains": {
-            "label": "Thiel Mountains",
-            "description": "The Thiel Mountains are an isolated, mainly snow-capped mountain range in Antarctica which are 72 km long. Wikipedia",
-            "type": "Mountain range in Antarctica"
+        "Vital Range": {
+            "label": "Vital Health Foods",
+            "description": "",
+            "type": "",
+            "People also search for": []
         },
-        "Whitesail Range": {
-            "label": "Whitesail Range",
-            "description": "The Whitesail Range is a subrange of the Tahtsa Ranges, located north of Whitesail River in northern British Columbia, Canada. Wikipedia",
-            "type": ""
+        "Waterman Mountains": {
+            "label": "Waterman Mountains",
+            "description": "The Waterman Mountains are a low mountainous landform in Pima County, United States. Notable among the tree species is the Elephant tree which species exhibits a contorted multi-furcate architecture; most of these froze in the cold winter of 2011. Wikipedia",
+            "type": "",
+            "See results about": []
         },
         "Whatshan Range": {
             "label": "Whatshan Range",
             "description": "The Whatshan Range is a subrange of the Monashee Mountains of the Columbia Mountains in southeastern British Columbia, Canada, located south of South Fosthall Creek. Wikipedia",
             "type": ""
         },
+        "Whitesail Range": {
+            "label": "Whitesail Range",
+            "description": "The Whitesail Range is a subrange of the Tahtsa Ranges, located north of Whitesail River in northern British Columbia, Canada. Wikipedia",
+            "type": ""
+        },
         "Southern Limestone Alps": {
             "label": "Southern Limestone Alps",
             "description": "The Southern Limestone Alps are the ranges of the Eastern Alps south of the Central Eastern Alps mainly located in northern Italy and the adjacent lands of Austria and Slovenia. Wikipedia",
             "type": "Mountain range"
+        },
+        "Upper Austrian Prealps": {
+            "label": "Upper Austrian Prealps",
+            "description": "The Upper Austrian Prealps is a mountain range in Austria which, according to the Categorisation of the Eastern Alps, covers the region between the valley of the Traun in the west and the Enns valley in the east, from Steyr in the north. Wikipedia",
+            "type": ""
         },
         "White Mountains (New Hampshire)": {
             "label": "White Mountains",
@@ -688,29 +693,6 @@
             ],
             "Mountains": []
         },
-        "Upper Austrian Prealps": {
-            "label": "Upper Austrian Prealps",
-            "description": "The Upper Austrian Prealps is a mountain range in Austria which, according to the Categorisation of the Eastern Alps, covers the region between the valley of the Traun in the west and the Enns valley in the east, from Steyr in the north. Wikipedia",
-            "type": ""
-        },
-        "Tibesti Mountains": {
-            "label": "Tibesti Mountains",
-            "description": "The Tibesti Mountains are a mountain range in the central Sahara, primarily located in the extreme north of Chad, with a small extension into southern Libya. Wikipedia",
-            "type": "Mountain range in Africa",
-            "Area ": [
-                "38",
-                "610 sq miles (100",
-                "000 km²)"
-            ],
-            "Highest point ": [
-                "Emi Koussi"
-            ],
-            "Countries ": [
-                "Chad",
-                " Libya"
-            ],
-            "Mountains": []
-        },
         "Sudetes": {
             "label": "Sudetes",
             "description": "The Sudetes is the scientific name of a mountain range in Central Europe also known in English – from their local designation in, respectively, German and Czech/Polish – as the Sudeten or Sudety mountains. Wikipedia",
@@ -727,14 +709,6 @@
                 "Przełęcz Karkonoska"
             ],
             "Mountains": []
-        },
-        "Zhiguli Mountains": {
-            "label": "Zhiguli Mountains",
-            "description": "The Zhiguli Mountains or simply Zhiguli, sometimes called The Zhiguli Heights - Жигулëвская возвышенность [Zhigulyovskaya vozvyshennost], are a range of wooded mountains located in Russia on the right bank of the Volga River, in the Samara bend. Wikipedia",
-            "type": "Mountain range in Russia",
-            "Country ": [
-                "Russia"
-            ]
         },
         "White Carpathians": {
             "label": "White Carpathians",
@@ -768,6 +742,14 @@
             ],
             "People also search for": []
         },
+        "Zhiguli Mountains": {
+            "label": "Zhiguli Mountains",
+            "description": "The Zhiguli Mountains or simply Zhiguli, sometimes called The Zhiguli Heights - Жигулëвская возвышенность [Zhigulyovskaya vozvyshennost], are a range of wooded mountains located in Russia on the right bank of the Volga River, in the Samara bend. Wikipedia",
+            "type": "Mountain range in Russia",
+            "Country ": [
+                "Russia"
+            ]
+        },
         "Zillertal Alps": {
             "label": "Zillertal Alps",
             "description": "The Zillertal Alps are a mountain range of the Central Eastern Alps on the border of Austria and Italy. The range is named after the Zillertal on its north. Wikipedia",
@@ -786,48 +768,65 @@
             "description": "The Shadow Mountains are located in the Mojave Desert of eastern California in the United States. The mountains lie in a generally north-south direction south of the Kingston Range and east of the Avawatz Mountains and the Silurian Hills. Wikipedia",
             "type": "Mountain range in California",
             "See results about": []
+        },
+        "Tibesti Mountains": {
+            "label": "Tibesti Mountains",
+            "description": "The Tibesti Mountains are a mountain range in the central Sahara, primarily located in the extreme north of Chad, with a small extension into southern Libya. Wikipedia",
+            "type": "Mountain range in Africa",
+            "Area ": [
+                "38",
+                "610 sq miles (100",
+                "000 km²)"
+            ],
+            "Highest point ": [
+                "Emi Koussi"
+            ],
+            "Countries ": [
+                "Chad",
+                " Libya"
+            ],
+            "Mountains": []
         }
     },
     "summary": {
         "label": 78,
         "description": 78,
         "type": 78,
-        "Address ": 4,
-        "Highest point ": 31,
-        "Passes ": 6,
-        "Mountains": 14,
-        "Country ": 14,
-        "People also search for": 10,
-        "Mountains ": 14,
-        "See results about": 7,
-        "Elevation ": 7,
-        "Area ": 13,
-        "Countries ": 6,
-        "Local time ": 1,
-        "Province ": 3
+        "address": 1,
+        "highest_point": 1,
+        "passes": 1,
+        "mountains": 1,
+        "people_also_search_for": 1,
+        "country": 1,
+        "see_results_about": 1,
+        "elevation": 1,
+        "countries": 1,
+        "area": 1,
+        "local_time": 1,
+        "province": 1
     },
     "infoboxless": [
-        "Sir Winston Churchill Range",
-        "Three Sisters (Siskiyou County)",
-        "Steinberg (Leine Uplands)",
-        "Three Sisters (Riverside County)",
-        "Sicintine Range",
-        "Sitlika Range",
-        "Spear Hills",
-        "Takla Range",
-        "Tochquonyalla Range",
-        "Spiller Range",
         "Skagit Range",
         "South Downs",
+        "Sir Winston Churchill Range",
         "Somerset Range",
-        "Sentinel Range",
+        "Three Sisters (Siskiyou County)",
         "Wichita Mountains",
+        "Steinberg (Leine Uplands)",
+        "Three Sisters (Riverside County)",
+        "Sentinel Range",
+        "Sicintine Range",
+        "Sitlika Range",
         "Spanish Peaks (Montana)",
-        "The Wedge (Montana)",
-        "Wilson Range",
+        "Spear Hills",
+        "Takla Range",
         "The Pinnacles (Montana)",
+        "The Wedge (Montana)",
+        "Tochquonyalla Range",
+        "Wilson Range",
         "Windermere Hills",
-        "Tyrol Schistose Alps",
-        "Sylvania Mountains"
+        "Sylvania Mountains",
+        "Spiller Range",
+        "Tyrol Schistose Alps"
     ]
 }

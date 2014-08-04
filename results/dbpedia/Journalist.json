@@ -1,5 +1,23 @@
 {
     "instances": {
+        "José Arraño Acevedo": {
+            "label": "José Arraño Acevedo",
+            "description": "José Santos Arraño Acevedo was a Chilean journalist and historian, who worked in several regional newspapers, including El Rancagüino from Rancagua, La Discusión from Chillán, amid others. Wikipedia",
+            "type": "Journalist",
+            "Born ": "October 14, 1921, Pichilemu, Chile",
+            "Died ": "November 23, 2009, Pichilemu, Chile",
+            "People also search for": []
+        },
+        "Helen Pearson (journalist)": {
+            "label": "Helen Pearson",
+            "description": "Helen Pearson is an English presenter and journalist employed by ITV Breakfast. Wikipedia",
+            "type": "Presenter",
+            "Born ": "February 8, 1981 (age 33), Cornwall, United Kingdom",
+            "TV shows ": [
+                "ITV News Lookaround"
+            ],
+            "People also search for": []
+        },
         "Lisa Aziz": {
             "label": "Lisa Aziz",
             "description": "Lisa Aziz is an English news presenter. She is best known as the co-presenter of the Bristol based ITV West Country nightly weekday news programme The West Country Tonight. Wikipedia",
@@ -14,16 +32,6 @@
             ],
             "People also search for": []
         },
-        "Helen Pearson (journalist)": {
-            "label": "Helen Pearson",
-            "description": "Helen Pearson is an English presenter and journalist employed by ITV Breakfast. Wikipedia",
-            "type": "Presenter",
-            "Born ": "February 8, 1981 (age 33), Cornwall, United Kingdom",
-            "TV shows ": [
-                "ITV News Lookaround"
-            ],
-            "People also search for": []
-        },
         "Fareena Alam": {
             "label": "Fareena Alam",
             "description": "Fareena Alam is an English journalist and editor of British Muslim magazine Q News. Wikipedia",
@@ -35,6 +43,17 @@
             "label": "Intermediate School 98 Herman Ridder",
             "description": "",
             "type": "",
+            "People also search for": []
+        },
+        "Nurul Islam (broadcaster)": {
+            "label": "Nurul Islam",
+            "description": "Nurul Islam was a Bangladeshi broadcast journalist, producer and presenter, best known for his work with the World Service at the BBC. Wikipedia",
+            "type": "Presenter",
+            "Born ": "November 25, 1928, Dhaka",
+            "Died ": "October 7, 2006, Surrey, United Kingdom",
+            "Education ": [
+                "London School of Economics and Political Science"
+            ],
             "People also search for": []
         },
         "Serajur Rahman": {
@@ -72,14 +91,6 @@
                 " Hamoodur RahmanMore"
             ]
         },
-        "José Arraño Acevedo": {
-            "label": "José Arraño Acevedo",
-            "description": "José Santos Arraño Acevedo was a Chilean journalist and historian, who worked in several regional newspapers, including El Rancagüino from Rancagua, La Discusión from Chillán, amid others. Wikipedia",
-            "type": "Journalist",
-            "Born ": "October 14, 1921, Pichilemu, Chile",
-            "Died ": "November 23, 2009, Pichilemu, Chile",
-            "People also search for": []
-        },
         "Nina Hossain": {
             "label": "Nina Hossain",
             "description": "Nina Hossain is an English journalist and presenter employed by ITN. Wikipedia",
@@ -107,17 +118,6 @@
             ],
             "Movies ": [
                 "The Green Hornet"
-            ],
-            "People also search for": []
-        },
-        "Nurul Islam (broadcaster)": {
-            "label": "Nurul Islam",
-            "description": "Nurul Islam was a Bangladeshi broadcast journalist, producer and presenter, best known for his work with the World Service at the BBC. Wikipedia",
-            "type": "Presenter",
-            "Born ": "November 25, 1928, Dhaka",
-            "Died ": "October 7, 2006, Surrey, United Kingdom",
-            "Education ": [
-                "London School of Economics and Political Science"
             ],
             "People also search for": []
         },
@@ -177,14 +177,13 @@
         "label": 13,
         "description": 13,
         "type": 13,
-        "Born ": 12,
-        "Education ": 7,
-        "TV shows ": 3,
-        "People also search for": 10,
-        "People also search for ": 3,
-        "Died ": 3,
-        "Nationality ": 1,
-        "Movies ": 1
+        "born": 1,
+        "died": 1,
+        "people_also_search_for": 1,
+        "tv_shows": 1,
+        "education": 1,
+        "nationality": 1,
+        "movies": 1
     },
     "infoboxless": [
         "Khalid Altowelli"

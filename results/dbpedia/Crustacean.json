@@ -37,20 +37,18 @@
             ],
             "See results about": []
         },
-        "Asellidae": {
-            "label": "Asellidae",
-            "description": "The Asellidae are a family of isopod crustaceans, one of the largest families of freshwater isopods, living in both epigean and hypogean habitats in North America and Europe. Wikipedia",
+        "Branchiura": {
+            "label": "Branchiura",
+            "description": "Branchiura is a group of crustaceans ranked as a subclass of the class Maxillopoda. It comprises the fish lice of the family Argulidae, and the prehistoric Cyclida. Wikipedia",
             "type": "",
             "Scientific name ": [
-                "Asellidae"
+                "Argulidae"
             ],
             "Rank ": [
                 "Family"
             ],
-            "Lower classifications ": [
-                "Caecidotea",
-                " Proasellus",
-                " Lirceus"
+            "Higher classification ": [
+                "Arguloida"
             ]
         },
         "Asellus aquaticus": {
@@ -67,18 +65,20 @@
                 "Asellus"
             ]
         },
-        "Branchiura": {
-            "label": "Branchiura",
-            "description": "Branchiura is a group of crustaceans ranked as a subclass of the class Maxillopoda. It comprises the fish lice of the family Argulidae, and the prehistoric Cyclida. Wikipedia",
+        "Asellidae": {
+            "label": "Asellidae",
+            "description": "The Asellidae are a family of isopod crustaceans, one of the largest families of freshwater isopods, living in both epigean and hypogean habitats in North America and Europe. Wikipedia",
             "type": "",
             "Scientific name ": [
-                "Argulidae"
+                "Asellidae"
             ],
             "Rank ": [
                 "Family"
             ],
-            "Higher classification ": [
-                "Arguloida"
+            "Lower classifications ": [
+                "Caecidotea",
+                " Proasellus",
+                " Lirceus"
             ]
         },
         "Carcinus aestuarii": {
@@ -89,18 +89,18 @@
                 "Carcinus aestuarii"
             ]
         },
-        "Chinese mitten crab": {
-            "label": "Chinese mitten crab",
-            "description": "The Chinese mitten crab, Eriocheir sinensis is a medium-sized burrowing crab that is named for its furry claws, which resemble mittens, and is native to the coastal estuaries of eastern Asia from Korea ... Wikipedia",
+        "Crangon crangon": {
+            "label": "Crangon crangon",
+            "description": "Crangon crangon is a commercially important species of caridean shrimp fished mainly in the southern North Sea, although also found in the Irish Sea, Baltic Sea, Mediterranean Sea and Black Sea, as well ... Wikipedia",
             "type": "",
             "Scientific name ": [
-                "Eriocheir sinensis"
+                "Crangon crangon"
             ],
             "Rank ": [
                 "Species"
             ],
             "Higher classification ": [
-                "Eriocheir"
+                "Crangon"
             ]
         },
         "Cardisoma armatum": {
@@ -117,18 +117,18 @@
                 "Cardisoma"
             ]
         },
-        "Crangon crangon": {
-            "label": "Crangon crangon",
-            "description": "Crangon crangon is a commercially important species of caridean shrimp fished mainly in the southern North Sea, although also found in the Irish Sea, Baltic Sea, Mediterranean Sea and Black Sea, as well ... Wikipedia",
+        "Chinese mitten crab": {
+            "label": "Chinese mitten crab",
+            "description": "The Chinese mitten crab, Eriocheir sinensis is a medium-sized burrowing crab that is named for its furry claws, which resemble mittens, and is native to the coastal estuaries of eastern Asia from Korea ... Wikipedia",
             "type": "",
             "Scientific name ": [
-                "Crangon crangon"
+                "Eriocheir sinensis"
             ],
             "Rank ": [
                 "Species"
             ],
             "Higher classification ": [
-                "Crangon"
+                "Eriocheir"
             ]
         },
         "Curassanthura bermudensis": {
@@ -159,14 +159,6 @@
                 "Cyclopidae"
             ]
         },
-        "Daphnia pulex": {
-            "label": "Daphnia pulex",
-            "description": "Daphnia pulex is the most common species of water flea. It has a cosmopolitan distribution the species is found throughout the Americas, Europe and Australia. It is a model species, and was the first crustacean to have its genome sequenced. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Daphnia pulex"
-            ]
-        },
         "Hyperiidea": {
             "label": "Hyperiidea",
             "description": "Hyperiidea is a suborder of amphipods, small aquatic crustaceans. Unlike the other suborders of Amphipoda, hyperiids are exclusively marine and do not occur in freshwater. Hyperiids are distinguished by their large eyes and planktonic habitat. Wikipedia",
@@ -179,6 +171,14 @@
             ],
             "Higher classification ": [
                 "Amphipoda"
+            ]
+        },
+        "Daphnia pulex": {
+            "label": "Daphnia pulex",
+            "description": "Daphnia pulex is the most common species of water flea. It has a cosmopolitan distribution the species is found throughout the Americas, Europe and Australia. It is a model species, and was the first crustacean to have its genome sequenced. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Daphnia pulex"
             ]
         },
         "Lepidurus": {
@@ -205,14 +205,6 @@
             "description": "Leptodora is a genus containing two species of large, nearly transparent predatory water fleas. They grow up to 21 mm long, with two large antennae used for swimming and a single compound eye. Wikipedia",
             "type": ""
         },
-        "Palinurus mauritanicus": {
-            "label": "Palinurus mauritanicus",
-            "description": "Palinurus mauritanicus is a species of spiny lobster. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Palinurus mauritanicus"
-            ]
-        },
         "Ocypodidae": {
             "label": "Ocypodidae",
             "description": "The Ocypodidae are a family of semiterrestrial crabs that includes the ghost crabs and fiddler crabs. Wikipedia",
@@ -230,6 +222,28 @@
                 "Ocypodoidea"
             ],
             "See results about": []
+        },
+        "Pandalus borealis": {
+            "label": "Pandalus borealis",
+            "description": "Pandalus borealis is a species of caridean shrimp found in cold parts of the Atlantic and Pacific Oceans. The FAO refers to them as the northern prawn. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Pandalus borealis"
+            ],
+            "Rank ": [
+                "Species"
+            ],
+            "Higher classification ": [
+                "Pandalus"
+            ]
+        },
+        "Palinurus mauritanicus": {
+            "label": "Palinurus mauritanicus",
+            "description": "Palinurus mauritanicus is a species of spiny lobster. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Palinurus mauritanicus"
+            ]
         },
         "Panulirus versicolor": {
             "label": "Panulirus versicolor",
@@ -262,20 +276,6 @@
                 "Paralithodes"
             ]
         },
-        "Porcelain crab": {
-            "label": "Porcelain crab",
-            "description": "Porcelain crabs are decapod crustaceans in the widespread family Porcellanidae, which superficially resemble true crabs. They are typically less than 15 mm wide, and have flattened bodies as an adaptation for living in rock crevices. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Porcellanidae"
-            ],
-            "Lower classifications ": [
-                "Petrolisthes"
-            ],
-            "Rank ": [
-                "Family"
-            ]
-        },
         "Portunidae": {
             "label": "Portunidae",
             "description": "Portunidae is a family of crabs which contains the swimming crabs. Wikipedia",
@@ -302,6 +302,20 @@
                 " Goniosupradens",
                 " Carcinus",
                 " LissocarcinusMore"
+            ]
+        },
+        "Porcelain crab": {
+            "label": "Porcelain crab",
+            "description": "Porcelain crabs are decapod crustaceans in the widespread family Porcellanidae, which superficially resemble true crabs. They are typically less than 15 mm wide, and have flattened bodies as an adaptation for living in rock crevices. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Porcellanidae"
+            ],
+            "Lower classifications ": [
+                "Petrolisthes"
+            ],
+            "Rank ": [
+                "Family"
             ]
         },
         "Proasellus": {
@@ -332,6 +346,17 @@
                 "Family"
             ]
         },
+        "Anostraca": {
+            "label": "Anostraca",
+            "description": "Anostraca is one of the four orders of crustaceans in the class Branchiopoda; its members are also known as fairy shrimp. They are usually 6–25 mm long. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Anostraca"
+            ],
+            "Rank ": [
+                "Order"
+            ]
+        },
         "Amphipoda": {
             "label": "Amphipoda",
             "description": "Amphipoda is an order of malacostracan crustaceans with no carapace and generally with laterally compressed bodies. Amphipods range in size from 1 to 340 millimetres and are mostly detritivores or scavengers. Wikipedia",
@@ -347,17 +372,6 @@
                 " Hyperiidea",
                 " Gammaridea",
                 " Corophiida"
-            ]
-        },
-        "Anostraca": {
-            "label": "Anostraca",
-            "description": "Anostraca is one of the four orders of crustaceans in the class Branchiopoda; its members are also known as fairy shrimp. They are usually 6–25 mm long. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Anostraca"
-            ],
-            "Rank ": [
-                "Order"
             ]
         },
         "Astacidae": {
@@ -399,20 +413,6 @@
             ],
             "See results about": []
         },
-        "Pandalus borealis": {
-            "label": "Pandalus borealis",
-            "description": "Pandalus borealis is a species of caridean shrimp found in cold parts of the Atlantic and Pacific Oceans. The FAO refers to them as the northern prawn. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Pandalus borealis"
-            ],
-            "Rank ": [
-                "Species"
-            ],
-            "Higher classification ": [
-                "Pandalus"
-            ]
-        },
         "Boeckella": {
             "label": "Boeckella",
             "description": "Boeckella is a genus of copepods in the family Centropagidae. Wikipedia",
@@ -446,6 +446,17 @@
                 "Clibanarius"
             ]
         },
+        "Coconut crab": {
+            "label": "Coconut crab",
+            "description": "The coconut crab, Birgus latro, is a species of terrestrial hermit crab, also known as the robber crab or palm thief. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Birgus latro"
+            ],
+            "Rank ": [
+                "Genus"
+            ]
+        },
         "Coenobitidae": {
             "label": "Coenobitidae",
             "description": "The Coenobitidae are a family of hermit crabs, widely known for their terrestrial habits, with 17 species in two genera\nCoenobita Latreille, 1829\nCoenobita brevimanus Dana, 1852\nCoenobita carnescens ... Wikipedia",
@@ -461,17 +472,6 @@
             ],
             "Rank ": [
                 "Family"
-            ]
-        },
-        "Coconut crab": {
-            "label": "Coconut crab",
-            "description": "The coconut crab, Birgus latro, is a species of terrestrial hermit crab, also known as the robber crab or palm thief. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Birgus latro"
-            ],
-            "Rank ": [
-                "Genus"
             ]
         },
         "Crangonidae": {
@@ -542,22 +542,6 @@
             "Lower classifications ": [
                 "Eucarida"
             ]
-        },
-        "Euphausia": {
-            "label": "Euphausia",
-            "description": "Euphausia is the largest genus of krill, and is placed in the family Euphausiidae. There are 31 species known in this genus, including Antarctic krill and ice krill from the Southern Ocean, and North Pacific krill in the Pacific Ocean. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Euphausia"
-            ],
-            "Rank ": [
-                "Genus"
-            ],
-            "Lower classifications ": [
-                "Euphausia pacifica",
-                " Antarctic krill"
-            ],
-            "See results about": []
         },
         "Gammaridea": {
             "label": "Gammaridea",
@@ -633,6 +617,22 @@
                 "Grapsoidea"
             ]
         },
+        "Euphausia": {
+            "label": "Euphausia",
+            "description": "Euphausia is the largest genus of krill, and is placed in the family Euphausiidae. There are 31 species known in this genus, including Antarctic krill and ice krill from the Southern Ocean, and North Pacific krill in the Pacific Ocean. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Euphausia"
+            ],
+            "Rank ": [
+                "Genus"
+            ],
+            "Lower classifications ": [
+                "Euphausia pacifica",
+                " Antarctic krill"
+            ],
+            "See results about": []
+        },
         "Grapsoidea": {
             "label": "Grapsoidea",
             "description": "Grapsoidea is a superfamily of crabs. These crabs are well known and contain many taxa which are terrestrial, semi-terrestrial or limnic. Another well-known member with a more conventional lifestyle is the Chinese mitten crab, Eriocheir sinensis. Wikipedia",
@@ -665,20 +665,6 @@
                 "Latreilliidae"
             ]
         },
-        "Heikegani": {
-            "label": "Heikegani",
-            "description": "Heikegani is a species of crab native to Japan, with a shell that bears a pattern resembling a human face which many believed to be the face of an angry samurai hence the nickname Samurai Crab. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Heikea japonica"
-            ],
-            "Rank ": [
-                "Species"
-            ],
-            "Higher classification ": [
-                "Heikea"
-            ]
-        },
         "Malacostraca": {
             "label": "Malacostraca",
             "description": "The Malacostraca, malacostracans, are the largest of the six classes of crustaceans, containing over 25,000 extant species, divided among 16 orders. Wikipedia",
@@ -694,6 +680,20 @@
             ],
             "Lower classifications ": [
                 "Eumalacostraca"
+            ]
+        },
+        "Heikegani": {
+            "label": "Heikegani",
+            "description": "Heikegani is a species of crab native to Japan, with a shell that bears a pattern resembling a human face which many believed to be the face of an angry samurai hence the nickname Samurai Crab. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Heikea japonica"
+            ],
+            "Rank ": [
+                "Species"
+            ],
+            "Higher classification ": [
+                "Heikea"
             ]
         },
         "Myodocopa": {
@@ -728,20 +728,6 @@
                 "Maxillopoda"
             ]
         },
-        "Notostraca": {
-            "label": "Notostraca",
-            "description": "The order Notostraca comprises the single family Triopsidae, containing the tadpole shrimp or shield shrimp. The two genera, Triops and Lepidurus, are considered living fossils, having not changed significantly in outward form since the Triassic. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Triopsidae"
-            ],
-            "Rank ": [
-                "Family"
-            ],
-            "Lower classifications ": [
-                "Lepidurus"
-            ]
-        },
         "Paguridae": {
             "label": "Paguridae",
             "description": "The Paguridae are a family of hermit crabs of the order Decapoda. It contains 542 species in over 70 genera\nAcanthopagurus de Saint Laurent, 1968\nAgaricochirus McLaughlin, 1981\nAlainopaguroides ... Wikipedia",
@@ -759,15 +745,18 @@
                 "Pagurus"
             ]
         },
-        "Pandalidae": {
-            "label": "Pandalidae",
-            "description": "The family Pandalidae is a taxon of caridean shrimp. These species are commonly called pandalid shrimp. They are edible and have high economic value. Wikipedia",
+        "Notostraca": {
+            "label": "Notostraca",
+            "description": "The order Notostraca comprises the single family Triopsidae, containing the tadpole shrimp or shield shrimp. The two genera, Triops and Lepidurus, are considered living fossils, having not changed significantly in outward form since the Triassic. Wikipedia",
             "type": "",
             "Scientific name ": [
-                "Pandalidae"
+                "Triopsidae"
             ],
             "Rank ": [
                 "Family"
+            ],
+            "Lower classifications ": [
+                "Lepidurus"
             ]
         },
         "Panulirus": {
@@ -792,6 +781,17 @@
                 " California spiny lobsterMore"
             ],
             "See results about": []
+        },
+        "Pandalidae": {
+            "label": "Pandalidae",
+            "description": "The family Pandalidae is a taxon of caridean shrimp. These species are commonly called pandalid shrimp. They are edible and have high economic value. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Pandalidae"
+            ],
+            "Rank ": [
+                "Family"
+            ]
         },
         "Penaeidae": {
             "label": "Penaeidae",
@@ -875,6 +875,11 @@
                 "Nectiopoda"
             ]
         },
+        "Rhizocephala": {
+            "label": "Rhizocephala",
+            "description": "Rhizocephala are derived barnacles that parasitise decapod crustaceans. Their bauplan is uniquely reduced in an extreme adaptation to their parasitic lifestyle, and makes their relationship to other barnacles unrecognisable in the adult form. Wikipedia",
+            "type": ""
+        },
         "Talitridae": {
             "label": "Talitridae",
             "description": "Talitridae is a family of amphipods. Terrestrial species are often referred to as landhoppers and beach dwellers are called sandhoppers or sand fleas. Marine amphipods are often washed up in the strandline, but die rapidly on drying out. Wikipedia",
@@ -894,17 +899,6 @@
                 " Orchestia"
             ]
         },
-        "Rhizocephala": {
-            "label": "Rhizocephala",
-            "description": "Rhizocephala are derived barnacles that parasitise decapod crustaceans. Their bauplan is uniquely reduced in an extreme adaptation to their parasitic lifestyle, and makes their relationship to other barnacles unrecognisable in the adult form. Wikipedia",
-            "type": ""
-        },
-        "Thoracica": {
-            "label": "Thoracica",
-            "description": "Thoracica is a superorder of crustaceans which contains the most familiar species of barnacles found on rocky coasts, such as Semibalanus balanoides and Chthamalus stellatus. They have six well-developed limbs, and may be either stalked or sessile. Wikipedia",
-            "type": "",
-            "See results about": []
-        },
         "Woodlouse": {
             "label": "Woodlouse",
             "description": "A woodlouse is a crustacean with a rigid, segmented, long exoskeleton and fourteen jointed limbs. Woodlice form the suborder Oniscidea within the order Isopoda, with over 5,000 known species. Wikipedia",
@@ -921,6 +915,12 @@
             "Rank ": [
                 "Suborder"
             ],
+            "See results about": []
+        },
+        "Thoracica": {
+            "label": "Thoracica",
+            "description": "Thoracica is a superorder of crustaceans which contains the most familiar species of barnacles found on rocky coasts, such as Semibalanus balanoides and Chthamalus stellatus. They have six well-developed limbs, and may be either stalked or sessile. Wikipedia",
+            "type": "",
             "See results about": []
         },
         "Caridina multidentata": {
@@ -1026,20 +1026,20 @@
             ],
             "See results about": []
         },
-        "Corophiidea": {
-            "label": "Corophiida",
-            "description": "Corophiida is an infraorder of amphipods that contains the two parvorders Caprellidira and Corophiidira. Wikipedia",
-            "type": "",
-            "Higher classification ": [
-                "Amphipoda"
-            ]
-        },
         "Common yabby": {
             "label": "Common yabby",
             "description": "The common yabby, Cherax destructor, is an Australian freshwater crustacean in the Parastacidae family. Wikipedia",
             "type": "",
             "Scientific name ": [
                 "Cherax destructor"
+            ]
+        },
+        "Corophiidea": {
+            "label": "Corophiida",
+            "description": "Corophiida is an infraorder of amphipods that contains the two parvorders Caprellidira and Corophiidira. Wikipedia",
+            "type": "",
+            "Higher classification ": [
+                "Amphipoda"
             ]
         },
         "Cymothoidae": {
@@ -1079,6 +1079,20 @@
             "type": "",
             "Scientific name ": [
                 "Daphnia magna"
+            ]
+        },
+        "Diogenes (genus)": {
+            "label": "Diogenes",
+            "description": "Diogenes is a genus of hermit crabs. Wikipedia",
+            "type": "Genus",
+            "Scientific name ": [
+                "Diogenes"
+            ],
+            "Rank ": [
+                "Genus"
+            ],
+            "Lower classifications ": [
+                "Diogenes pugilator"
             ]
         },
         "Flabellifera": {
@@ -1138,34 +1152,6 @@
                 "Geosesarma malayanum"
             ]
         },
-        "Great spider crab": {
-            "label": "Great spider crab",
-            "description": "The great spider crab, Hyas araneus, is a species of crab found in Atlantic waters and the North Sea, usually below the tidal zone.\nIn 2003 it was discovered around the Antarctic Peninsula apparently transported by human agency. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Hyas araneus"
-            ],
-            "Rank ": [
-                "Species"
-            ],
-            "Higher classification ": [
-                "Hyas"
-            ]
-        },
-        "Glypheoidea": {
-            "label": "Glypheoidea",
-            "description": "The Glypheoidea, is a group of lobster-like decapod crustaceans which forms an important part of fossil faunas, such as the Solnhofen limestone. These fossils included taxa such as Glyphea, and Mecochirus, mostly with elongated chelipeds. Wikipedia",
-            "type": "Animal",
-            "Scientific name ": [
-                "Glypheoidea"
-            ],
-            "Rank ": [
-                "Superfamily"
-            ],
-            "Higher classification ": [
-                "Astacidea"
-            ]
-        },
         "Ghost crab": {
             "label": "Ghost crab",
             "description": "Ghost crabs are semiterrestrial crabs of the subfamily Ocypodinae. They are common shore crabs in tropical and subtropical regions throughout the world, inhabiting deep burrows in the intertidal zone. Wikipedia",
@@ -1181,6 +1167,20 @@
             ],
             "See results about": []
         },
+        "Glypheoidea": {
+            "label": "Glypheoidea",
+            "description": "The Glypheoidea, is a group of lobster-like decapod crustaceans which forms an important part of fossil faunas, such as the Solnhofen limestone. These fossils included taxa such as Glyphea, and Mecochirus, mostly with elongated chelipeds. Wikipedia",
+            "type": "Animal",
+            "Scientific name ": [
+                "Glypheoidea"
+            ],
+            "Rank ": [
+                "Superfamily"
+            ],
+            "Higher classification ": [
+                "Astacidea"
+            ]
+        },
         "Hippolyte (genus)": {
             "label": "Hippolyte",
             "description": "Hippolyte is a genus of shrimp of the family Hippolytidae, containing the following species\nHippolyte acuta\nHippolyte australiensis\nHippolyte bifidirostris\nHippolyte californiensis Holmes, 1895\nHippolyte ... Wikipedia",
@@ -1193,6 +1193,20 @@
             ],
             "Higher classification ": [
                 "Hippolytidae"
+            ]
+        },
+        "Great spider crab": {
+            "label": "Great spider crab",
+            "description": "The great spider crab, Hyas araneus, is a species of crab found in Atlantic waters and the North Sea, usually below the tidal zone.\nIn 2003 it was discovered around the Antarctic Peninsula apparently transported by human agency. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Hyas araneus"
+            ],
+            "Rank ": [
+                "Species"
+            ],
+            "Higher classification ": [
+                "Hyas"
             ]
         },
         "Hyalella azteca": {
@@ -1247,6 +1261,14 @@
                 "Genus"
             ]
         },
+        "Lysmata debelius": {
+            "label": "Lysmata debelius",
+            "description": "Lysmata debelius is a species of cleaner shrimp indigenous to the Indo-Pacific. It is popular in the aquarium trade, where it is known as the fire shrimp, blood shrimp or scarlet cleaner shrimp. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Lysmata debelius"
+            ]
+        },
         "Lysmata amboinensis": {
             "label": "Lysmata amboinensis",
             "description": "Lysmata amboinensis, the northern cleaner shrimp, scarlet cleaner shrimp, skunk cleaner shrimp or Pacific cleaner shrimp, is an omnivorous shrimp species, which will generally scavenge and eat parasites and dead tissue. Wikipedia",
@@ -1259,22 +1281,6 @@
             ],
             "Higher classification ": [
                 "Lysmata"
-            ]
-        },
-        "Lysmata debelius": {
-            "label": "Lysmata debelius",
-            "description": "Lysmata debelius is a species of cleaner shrimp indigenous to the Indo-Pacific. It is popular in the aquarium trade, where it is known as the fire shrimp, blood shrimp or scarlet cleaner shrimp. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Lysmata debelius"
-            ]
-        },
-        "Mysis relicta": {
-            "label": "Mysis relicta",
-            "description": "Mysis relicta is a shrimp-like crustacean in the Mysida order, native to lakes of Northern Europe and to the brackish Baltic Sea. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Mysis relicta"
             ]
         },
         "Monoporeia": {
@@ -1291,18 +1297,12 @@
                 "Monoporeia"
             ]
         },
-        "Diogenes (genus)": {
-            "label": "Diogenes",
-            "description": "Diogenes is a genus of hermit crabs. Wikipedia",
-            "type": "Genus",
+        "Mysis relicta": {
+            "label": "Mysis relicta",
+            "description": "Mysis relicta is a shrimp-like crustacean in the Mysida order, native to lakes of Northern Europe and to the brackish Baltic Sea. Wikipedia",
+            "type": "",
             "Scientific name ": [
-                "Diogenes"
-            ],
-            "Rank ": [
-                "Genus"
-            ],
-            "Lower classifications ": [
-                "Diogenes pugilator"
+                "Mysis relicta"
             ]
         }
     },
@@ -1310,22 +1310,22 @@
         "label": 91,
         "description": 91,
         "type": 91,
-        "Scientific name ": 80,
-        "Rank ": 73,
-        "Lower classifications ": 37,
-        "Higher classification ": 52,
-        "See results about": 14,
-        "Length ": 1,
-        "Nutrition Facts": 1,
-        "People also search for": 1
+        "scientific_name": 1,
+        "rank": 1,
+        "lower_classifications": 1,
+        "higher_classification": 1,
+        "see_results_about": 1,
+        "length": 1,
+        "nutrition_facts": 1,
+        "people_also_search_for": 1
     },
     "infoboxless": [
         "Onychopoda",
         "Alpheoidea",
         "Crustacean",
         "Cymothoida",
-        "Penaeoidea",
         "Goose barnacle",
+        "Penaeoidea",
         "Sphaeromatidea",
         "Xenocarida",
         "Euxanthus"

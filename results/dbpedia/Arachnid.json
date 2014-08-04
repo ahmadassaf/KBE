@@ -101,46 +101,6 @@
             ],
             "See results about": []
         },
-        "Hydrachnidiae": {
-            "label": "Hydrachnidiae",
-            "description": "Hydrachnidiae are a group of mites containing over 5,000 species found in freshwater habitat. Wikipedia",
-            "type": ""
-        },
-        "Hadrurus arizonensis": {
-            "label": "Hadrurus arizonensis",
-            "description": "Hadrurus arizonensis, the giant desert hairy scorpion, giant hairy scorpion, or Arizona Desert hairy scorpion, is the largest scorpion in North America, and one of the 8–9 species of Hadrurus in the United States, attaining a length of 14 cm. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Hadrurus arizonensis"
-            ]
-        },
-        "Ixodes ricinus": {
-            "label": "Ixodes ricinus",
-            "description": "Ixodes ricinus, the castor bean tick, is a chiefly European species of hard-bodied tick. It may reach a length of 11 mm when engorged with a blood meal, and can transmit both bacterial and viral pathogens ... Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Ixodes ricinus"
-            ]
-        },
-        "Meta menardi": {
-            "label": "Meta menardi",
-            "description": "The European cave spider, Meta menardi, is a long-jawed orb-weaving spider it is also known as the Orbweaving cave spider, the Cave orbweaver and simply the Cave spider. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Meta menardi"
-            ]
-        },
-        "Mesostigmata": {
-            "label": "Mesostigmata",
-            "description": "Mesostigmata is an order of mites belonging to the Parasitiformes. Unlike most members of that group, many of these mites are not parasitic but free-living and predatory. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Mesostigmata"
-            ],
-            "Rank ": [
-                "Order"
-            ]
-        },
         "Grammostola": {
             "label": "Grammostola",
             "description": "Grammostola is a genus of the tarantula family, Theraphosidae, being native to tropical South America.\nThese spiders are medium to large in size and usually brown in color, with pinkish or orangish-red hairs. Wikipedia",
@@ -150,12 +110,34 @@
             ],
             "See results about": []
         },
-        "Micrommata virescens": {
-            "label": "Micrommata virescens",
-            "description": "The green huntsman spider is a spider with a palearctic distribution, of the huntsman spider family. M. virescens is a species occurring naturally in Northern and Central Europe, including Denmark. Wikipedia",
+        "Hadrurus arizonensis": {
+            "label": "Hadrurus arizonensis",
+            "description": "Hadrurus arizonensis, the giant desert hairy scorpion, giant hairy scorpion, or Arizona Desert hairy scorpion, is the largest scorpion in North America, and one of the 8–9 species of Hadrurus in the United States, attaining a length of 14 cm. Wikipedia",
             "type": "",
             "Scientific name ": [
-                "Micrommata virescens"
+                "Hadrurus arizonensis"
+            ]
+        },
+        "Hydrachnidiae": {
+            "label": "Hydrachnidiae",
+            "description": "Hydrachnidiae are a group of mites containing over 5,000 species found in freshwater habitat. Wikipedia",
+            "type": ""
+        },
+        "Metellina": {
+            "label": "Metellina",
+            "description": "Metellina is a genus of tetragnathid spiders that occurs mostly in Eurasia, with two species found in North America. M. segmentata was introduced to Canada.\nSome researchers consider this genus to belong to a distinct family, the Metidae. Wikipedia",
+            "type": "",
+            "Rank ": [
+                "Genus"
+            ],
+            "See results about": []
+        },
+        "Meta menardi": {
+            "label": "Meta menardi",
+            "description": "The European cave spider, Meta menardi, is a long-jawed orb-weaving spider it is also known as the Orbweaving cave spider, the Cave orbweaver and simply the Cave spider. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Meta menardi"
             ]
         },
         "Metellina segmentata": {
@@ -164,6 +146,14 @@
             "type": "",
             "Scientific name ": [
                 "Metellina segmentata"
+            ]
+        },
+        "Micrommata virescens": {
+            "label": "Micrommata virescens",
+            "description": "The green huntsman spider is a spider with a palearctic distribution, of the huntsman spider family. M. virescens is a species occurring naturally in Northern and Central Europe, including Denmark. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Micrommata virescens"
             ]
         },
         "Oribatida": {
@@ -225,6 +215,20 @@
                 "Uroplectes olivaceus"
             ]
         },
+        "Aelurillinae": {
+            "label": "Aelurillinae",
+            "description": "Aelurillinae is a subfamily of jumping spiders. Nearly all species live in the Old World, except Phlegra hentzi. Wikipedia",
+            "type": "Spider",
+            "Scientific name ": [
+                "Aelurillinae"
+            ],
+            "Rank ": [
+                "Subfamily"
+            ],
+            "Higher classification ": [
+                "Jumping spider"
+            ]
+        },
         "Amaurobiidae": {
             "label": "Amaurobiidae",
             "description": "The Amaurobiidae are three-clawed cribellate or ecribellate spiders found in most parts of the world and difficult to distinguish from related spiders in other families, especially Agelenidae, Desidae and Amphinectidae. Wikipedia",
@@ -240,20 +244,6 @@
             ],
             "Lower classifications ": [
                 "Amaurobius"
-            ]
-        },
-        "Aelurillinae": {
-            "label": "Aelurillinae",
-            "description": "Aelurillinae is a subfamily of jumping spiders. Nearly all species live in the Old World, except Phlegra hentzi. Wikipedia",
-            "type": "Spider",
-            "Scientific name ": [
-                "Aelurillinae"
-            ],
-            "Rank ": [
-                "Subfamily"
-            ],
-            "Higher classification ": [
-                "Jumping spider"
             ]
         },
         "Amblyomma": {
@@ -303,6 +293,11 @@
             "description": "The Archaeidae are a spider family with 25 described species in three genera.\nTheir common name pelican spider stems from their specialised anatomy they have evolved elongated chelicerae and necks for catching other spiders. Wikipedia",
             "type": ""
         },
+        "Caponiidae": {
+            "label": "Caponiidae",
+            "description": "Spiders of the ecribellate haplogyne family Caponiidae are unusual in that most species have only two eyes, which is unheard of in other spiders. Other species have four, six or eight eyes. Wikipedia",
+            "type": ""
+        },
         "Chinattus": {
             "label": "Chinattus",
             "description": "Chinattus is a genus of the spider family Salticidae. Most of the described species occur in China and nearby countries, with C. caucasicus reaching into Iran. C. parvulus is found in North America. Wikipedia",
@@ -311,11 +306,6 @@
                 "Genus"
             ],
             "See results about": []
-        },
-        "Caponiidae": {
-            "label": "Caponiidae",
-            "description": "Spiders of the ecribellate haplogyne family Caponiidae are unusual in that most species have only two eyes, which is unheard of in other spiders. Other species have four, six or eight eyes. Wikipedia",
-            "type": ""
         },
         "Chummidae": {
             "label": "Chummidae",
@@ -342,16 +332,6 @@
             "description": "The crevice weaver spiders contain primitive cribellate spiders. They are haplogyne weavers of funnel or tube webs. The family contains 17 genera and more than hundred described species worldwide. Wikipedia",
             "type": ""
         },
-        "Cyatholipidae": {
-            "label": "Cyatholipidae",
-            "description": "The Cyatholipidae are a spider family with 58 described species in 23 genera.\nThey were discovered in the late 19th century in Africa. Cyatholipidae live mostly in moist, montane forests. Wikipedia",
-            "type": ""
-        },
-        "Deinopidae": {
-            "label": "Deinopidae",
-            "description": "The spider family Deinopidae consists of stick-like elongate spiders that build unusual webs that they suspend between the front legs. Wikipedia",
-            "type": ""
-        },
         "Cybaeidae": {
             "label": "Cybaeidae",
             "description": "Cybaeidae is a family of spiders comprising twelve genera. Wikipedia",
@@ -368,6 +348,16 @@
             "Lower classifications ": [
                 "Argyroneta"
             ]
+        },
+        "Cyatholipidae": {
+            "label": "Cyatholipidae",
+            "description": "The Cyatholipidae are a spider family with 58 described species in 23 genera.\nThey were discovered in the late 19th century in Africa. Cyatholipidae live mostly in moist, montane forests. Wikipedia",
+            "type": ""
+        },
+        "Deinopidae": {
+            "label": "Deinopidae",
+            "description": "The spider family Deinopidae consists of stick-like elongate spiders that build unusual webs that they suspend between the front legs. Wikipedia",
+            "type": ""
         },
         "Dictynidae": {
             "label": "Dictynidae",
@@ -402,6 +392,14 @@
                 " Harpactea"
             ]
         },
+        "Envia garciai": {
+            "label": "Envia garciai",
+            "description": "Envia garciai is a small pale yellow species of mygalomorph spider from Brazil. It is the only described species in genus Envia. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Envia garciai"
+            ]
+        },
         "Euophrys omnisuperstes": {
             "label": "Euophrys omnisuperstes",
             "description": "Euophrys omnisuperstes, the himalayan jumping spider, is a small jumping spider that lives at elevations of up to 6,700 metres on Mount Everest, making it a candidate for the highest known permanent resident on earth. Wikipedia",
@@ -414,14 +412,6 @@
             ],
             "Higher classification ": [
                 "Euophrys"
-            ]
-        },
-        "Envia garciai": {
-            "label": "Envia garciai",
-            "description": "Envia garciai is a small pale yellow species of mygalomorph spider from Brazil. It is the only described species in genus Envia. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Envia garciai"
             ]
         },
         "Feaellidae": {
@@ -534,11 +524,6 @@
                 " Tinus"
             ]
         },
-        "Nemesiidae": {
-            "label": "Nemesiidae",
-            "description": "The Nemesiidae are a spider family of the infraorder Mygalomorphae, and the only member of the superfamily Nemesioidea. They were formerly considered part of the Dipluridae family. Wikipedia",
-            "type": ""
-        },
         "Malkaridae": {
             "label": "Malkaridae",
             "description": "Malkaridae is a small spider family with ten species in four genera. Wikipedia",
@@ -562,14 +547,19 @@
                 " Tuberculotae"
             ]
         },
+        "Mysmenidae": {
+            "label": "Mysmenidae",
+            "description": "Mysmenidae is a spider family with almost 100 described species in more than twenty genera. Wikipedia",
+            "type": ""
+        },
+        "Nemesiidae": {
+            "label": "Nemesiidae",
+            "description": "The Nemesiidae are a spider family of the infraorder Mygalomorphae, and the only member of the superfamily Nemesioidea. They were formerly considered part of the Dipluridae family. Wikipedia",
+            "type": ""
+        },
         "Nephilidae": {
             "label": "Nephilidae",
             "description": "The Nephilidae are a spider family with 75 described species in four genera. They were formerly grouped in the families Araneidae and Tetragnathidae. The genus Singafrotypa was moved to Araneidae in 2002. Wikipedia",
-            "type": ""
-        },
-        "Oonopidae": {
-            "label": "Oonopidae",
-            "description": "The spider family Oonopidae, commonly known as goblin spiders, includes over 2000 species in about 88 genera worldwide. The type genus of the family is Oonops Keyserling, 1835. They are generally tiny haplogyne araneomorph spiders. Wikipedia",
             "type": ""
         },
         "Oecobiidae": {
@@ -577,6 +567,11 @@
             "description": "The spider family Oecobiidae includes about 100 described species so far.\nThe Oecobiidae are small- to moderate-sized spiders; The larger species tend to be desert-dwelling. Wikipedia",
             "type": "",
             "See results about": []
+        },
+        "Oonopidae": {
+            "label": "Oonopidae",
+            "description": "The spider family Oonopidae, commonly known as goblin spiders, includes over 2000 species in about 88 genera worldwide. The type genus of the family is Oonops Keyserling, 1835. They are generally tiny haplogyne araneomorph spiders. Wikipedia",
+            "type": ""
         },
         "Opiliones": {
             "label": "Opiliones",
@@ -633,14 +628,14 @@
                 "Arachnid"
             ]
         },
-        "Paratropididae": {
-            "label": "Paratropididae",
-            "description": "The baldlegged spiders are a small spider family with eight species. They are mygalomomorphs more closely related to tarantulas and allies, than to most other 'web-building' spiders. Wikipedia",
-            "type": ""
-        },
         "Philodromidae": {
             "label": "Philodromidae",
             "description": "Philodromidae is a family of spiders commonly known as philodromid crab spiders or running crab spiders. This family is superficially similar to the \"true\" crab spiders in the family Thomisidae. Wikipedia",
+            "type": ""
+        },
+        "Paratropididae": {
+            "label": "Paratropididae",
+            "description": "The baldlegged spiders are a small spider family with eight species. They are mygalomomorphs more closely related to tarantulas and allies, than to most other 'web-building' spiders. Wikipedia",
             "type": ""
         },
         "Pholcidae": {
@@ -657,11 +652,6 @@
                 "Family"
             ]
         },
-        "Prodidomidae": {
-            "label": "Prodidomidae",
-            "description": "The Prodidomidae are a spider family with about 300 species in 31 genera. They are sometimes called Long-Spinneret Ground Spiders.\nThis family is part of the superfamily Gnaphosoidea. Wikipedia",
-            "type": ""
-        },
         "Plectreurid spider": {
             "label": "Plectreurid spider",
             "description": "Plectreuridae, often called Plectreurid spiders, are a small spider family confined to the North American deserts and the island of Cuba. Only two living genera are known - the nominate genus Plectreurys and Kibramoa. Wikipedia",
@@ -670,6 +660,11 @@
         "Psechridae": {
             "label": "Psechridae",
             "description": "The Psechridae are a family of spiders with about 50 species in two extant genera, recently revised by Bayer.\nThey belong to the \"RTA\" clade of spiders, spiders that all have a Retrolateral Tibial Apophysis on the male pedipalp. Wikipedia",
+            "type": ""
+        },
+        "Prodidomidae": {
+            "label": "Prodidomidae",
+            "description": "The Prodidomidae are a spider family with about 300 species in 31 genera. They are sometimes called Long-Spinneret Ground Spiders.\nThis family is part of the superfamily Gnaphosoidea. Wikipedia",
             "type": ""
         },
         "Ray spider": {
@@ -706,24 +701,15 @@
             ],
             "See results about": []
         },
-        "Sicariidae": {
-            "label": "Sicariidae",
-            "description": "Sicariidae is a family of six-eyed venomous spiders known for their necrotic bites. The members of this family are haplogyne, possessing unsclerotised genitals in females. Wikipedia",
-            "type": "",
-            "See results about": []
-        },
         "Senoculidae": {
             "label": "Senoculidae",
             "description": "Senoculidae is a spider family with 31 described species in one genus. They belong to the superfamily Lycosoidea. \"Bark Hunter\" is the common name used by researchers. Wikipedia",
             "type": ""
         },
-        "Metellina": {
-            "label": "Metellina",
-            "description": "Metellina is a genus of tetragnathid spiders that occurs mostly in Eurasia, with two species found in North America. M. segmentata was introduced to Canada.\nSome researchers consider this genus to belong to a distinct family, the Metidae. Wikipedia",
+        "Sicariidae": {
+            "label": "Sicariidae",
+            "description": "Sicariidae is a family of six-eyed venomous spiders known for their necrotic bites. The members of this family are haplogyne, possessing unsclerotised genitals in females. Wikipedia",
             "type": "",
-            "Rank ": [
-                "Genus"
-            ],
             "See results about": []
         },
         "Solifugae": {
@@ -753,6 +739,11 @@
                 " Galeodidae",
                 " KarschiidaeMore"
             ]
+        },
+        "Synotaxidae": {
+            "label": "Synotaxidae",
+            "description": "The Synotaxidae are a spider family with 68 described species in 13 genera. Wikipedia",
+            "type": ""
         },
         "Telemidae": {
             "label": "Telemidae",
@@ -785,26 +776,35 @@
             "description": "Uloboridae, the cribellate orb weavers or hackled orb weavers, is a family of non-venomous spiders. Their lack of venom glands is a secondarily evolved trait. Instead, they kill their prey by crushing with over 140 metres of thread. Wikipedia",
             "type": ""
         },
-        "Mysmenidae": {
-            "label": "Mysmenidae",
-            "description": "Mysmenidae is a spider family with almost 100 described species in more than twenty genera. Wikipedia",
-            "type": ""
+        "Mesostigmata": {
+            "label": "Mesostigmata",
+            "description": "Mesostigmata is an order of mites belonging to the Parasitiformes. Unlike most members of that group, many of these mites are not parasitic but free-living and predatory. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Mesostigmata"
+            ],
+            "Rank ": [
+                "Order"
+            ]
         },
-        "Synotaxidae": {
-            "label": "Synotaxidae",
-            "description": "The Synotaxidae are a spider family with 68 described species in 13 genera. Wikipedia",
-            "type": ""
+        "Ixodes ricinus": {
+            "label": "Ixodes ricinus",
+            "description": "Ixodes ricinus, the castor bean tick, is a chiefly European species of hard-bodied tick. It may reach a length of 11 mm when engorged with a blood meal, and can transmit both bacterial and viral pathogens ... Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Ixodes ricinus"
+            ]
         }
     },
     "summary": {
         "label": 82,
         "description": 82,
         "type": 82,
-        "Scientific name ": 38,
-        "Rank ": 34,
-        "Lower classifications ": 15,
-        "See results about": 16,
-        "Higher classification ": 21
+        "scientific_name": 1,
+        "rank": 1,
+        "lower_classifications": 1,
+        "see_results_about": 1,
+        "higher_classification": 1
     },
     "infoboxless": [
         "Spintharus",
@@ -812,18 +812,18 @@
         "Atypoidea",
         "Austrochiloidea",
         "Caponioidea",
-        "Eresoidea",
         "Corinnoidea",
         "Cryptothele (spider)",
+        "Eresoidea",
         "Garypoidea",
         "Leptonetoidea",
         "Mimetoidea",
         "Palpimanoidea",
-        "Sac spider",
         "Pholcoidea",
+        "Sac spider",
         "Scytodoidea",
         "Spartaeinae",
-        "Titanoecoidea",
-        "Synaphridae"
+        "Synaphridae",
+        "Titanoecoidea"
     ]
 }

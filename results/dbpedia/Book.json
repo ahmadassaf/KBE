@@ -1,25 +1,5 @@
 {
     "instances": {
-        "A Crown of Swords": {
-            "label": "A Crown of Swords",
-            "description": "A Crown of Swords is the seventh book of The Wheel of Time fantasy series written by American author Robert Jordan. It was published by Tor Books and released on May 15, 1996. A Crown of Swords consists of a prologue and 41 chapters. Wikipedia",
-            "type": "",
-            "Published ": "May 15, 1996",
-            "Author ": [
-                "Robert Jordan"
-            ],
-            "Preceded by ": [
-                "Lord of Chaos"
-            ],
-            "Followed by ": [
-                "The Path of Daggers"
-            ],
-            "Genres ": [
-                "Fantasy",
-                " Speculative fiction"
-            ],
-            "People also search for": []
-        },
         "'Salem's Lot": {
             "label": "'Salem's Lot",
             "description": "'Salem's Lot is a 1975 horror fiction novel written by the American author Stephen King. It was his second published novel. Wikipedia",
@@ -49,20 +29,25 @@
             ],
             "People also search for": []
         },
-        "A Descent into the Maelström": {
-            "label": "A Descent into the Maelström",
-            "description": "\"A Descent into the Maelström\" is an 1841 short story by Edgar Allan Poe. In the tale, a man recounts how he survived a shipwreck and a whirlpool. Wikipedia",
+        "A Crown of Swords": {
+            "label": "A Crown of Swords",
+            "description": "A Crown of Swords is the seventh book of The Wheel of Time fantasy series written by American author Robert Jordan. It was published by Tor Books and released on May 15, 1996. A Crown of Swords consists of a prologue and 41 chapters. Wikipedia",
             "type": "",
-            "Published ": [
-                "April 1841"
-            ],
+            "Published ": "May 15, 1996",
             "Author ": [
-                "Edgar Allan Poe"
+                "Robert Jordan"
             ],
-            "Genre ": [
-                "Science Fiction"
+            "Preceded by ": [
+                "Lord of Chaos"
             ],
-            "Related Edgar Allan Poe books": []
+            "Followed by ": [
+                "The Path of Daggers"
+            ],
+            "Genres ": [
+                "Fantasy",
+                " Speculative fiction"
+            ],
+            "People also search for": []
         },
         "A Dance with Dragons": {
             "label": "A Dance with Dragons",
@@ -93,6 +78,44 @@
             ],
             "People also search for": []
         },
+        "A Descent into the Maelström": {
+            "label": "A Descent into the Maelström",
+            "description": "\"A Descent into the Maelström\" is an 1841 short story by Edgar Allan Poe. In the tale, a man recounts how he survived a shipwreck and a whirlpool. Wikipedia",
+            "type": "",
+            "Published ": [
+                "April 1841"
+            ],
+            "Author ": [
+                "Edgar Allan Poe"
+            ],
+            "Genre ": [
+                "Science Fiction"
+            ],
+            "Related Edgar Allan Poe books": []
+        },
+        "A Drama in Livonia": {
+            "label": "A Drama in Livonia",
+            "description": "A Drama in Livonia is a novel written by Jules Verne in 1893, revised in 1903 and first published in 1904. Wikipedia",
+            "type": "",
+            "Published ": [
+                "1904"
+            ],
+            "Author ": [
+                "Jules Verne"
+            ],
+            "Genre ": [
+                "Adventure fiction"
+            ],
+            "People also search for": []
+        },
+        "A Guide to the Project Management Body of Knowledge": {
+            "label": "A Guide to the Project Management Body of Knowledge",
+            "description": "A Guide to the Project Management Body of Knowledge is a book which presents a set of standard terminology and guidelines for project management. The Fifth Edition is the document resulting from work overseen by the Project Management Institute. Wikipedia",
+            "type": "",
+            "Published ": [
+                "2013"
+            ]
+        },
         "A Drama in Mexico": {
             "label": "A Drama in Mexico",
             "description": "\"A Drama in Mexico\" is a historical short story by Jules Verne, first published in July 1851 under the title \"The First Ships of the Mexican Navy\". Wikipedia",
@@ -110,13 +133,74 @@
             ],
             "Related Jules Verne books": []
         },
-        "A Guide to the Project Management Body of Knowledge": {
-            "label": "A Guide to the Project Management Body of Knowledge",
-            "description": "A Guide to the Project Management Body of Knowledge is a book which presents a set of standard terminology and guidelines for project management. The Fifth Edition is the document resulting from work overseen by the Project Management Institute. Wikipedia",
+        "A Hero of Our Time": {
+            "label": "A Hero of Our Time",
+            "description": "A Hero of Our Time is a novel by Mikhail Lermontov, written in 1839 and revised in 1841. It is an example of the superfluous man novel, noted for its compelling Byronic hero Pechorin and for the beautiful descriptions of the Caucasus. Wikipedia",
             "type": "",
             "Published ": [
-                "2013"
-            ]
+                "1840"
+            ],
+            "Author ": [
+                "Mikhail Lermontov"
+            ],
+            "Genre ": [
+                "Adventure fiction"
+            ],
+            "Adaptations ": [
+                "A Hero of Our Time (1985)"
+            ],
+            "Characters ": [
+                "Maxim Maximych",
+                " Grushnitsky",
+                " Grigory Alexandrovich Pechorin",
+                " Vera"
+            ],
+            "People also search for": []
+        },
+        "A Journal of the Plague Year": {
+            "label": "A Journal of the Plague Year",
+            "description": "A Journal of the Plague Year is a novel by Daniel Defoe, 1660-1731, first published in March 1722.\nThe novel is a fictionalised account of one man's experiences of the year 1665, in which the Great Plague struck the city of London. Wikipedia",
+            "type": "",
+            "Published ": [
+                "1722"
+            ],
+            "Author ": [
+                "Daniel Defoe"
+            ],
+            "Adaptations ": [
+                "The Periwig-Maker (2000)"
+            ],
+            "Genres ": [
+                "Fiction",
+                " Historical novel",
+                " Historical fiction"
+            ],
+            "People also search for": []
+        },
+        "A Man Called Horse (short story)": {
+            "label": "A Man Called Horse",
+            "description": "A Man Called Horse by Dorothy M. Johnson was originally published as a short story in Collier's magazine, January 7, 1950, and was reprinted in 1968 as a short story in her book Indian Country. Wikipedia",
+            "type": "",
+            "Published ": [
+                "1968"
+            ],
+            "Author ": [
+                "Dorothy M. Johnson"
+            ],
+            "Genre ": [
+                "Short story"
+            ],
+            "Related Dorothy M. Johnson books": []
+        },
+        "A Man Without a Country": {
+            "label": "A Man Without a Country",
+            "description": "A Man Without a Country is an essay collection published in 2005 by the author Kurt Vonnegut. The extremely short essays that make up this book deal with topics ranging from the importance of humor, to ... Wikipedia",
+            "type": "",
+            "Published ": "January 1, 2005",
+            "Author ": [
+                "Kurt Vonnegut"
+            ],
+            "Kurt Vonnegut books": []
         },
         "A People's History of the United States": {
             "label": "A People's History of the United States",
@@ -153,31 +237,23 @@
             ],
             "See results about": []
         },
-        "A Man Called Horse (short story)": {
-            "label": "A Man Called Horse",
-            "description": "A Man Called Horse by Dorothy M. Johnson was originally published as a short story in Collier's magazine, January 7, 1950, and was reprinted in 1968 as a short story in her book Indian Country. Wikipedia",
+        "A Short History of Nearly Everything": {
+            "label": "A Short History of Nearly Everything",
+            "description": "A Short History of Nearly Everything by American author Bill Bryson is a popular science book that explains some areas of science, using a style of language which aims to be more accessible to the ... Wikipedia",
             "type": "",
             "Published ": [
-                "1968"
+                "2003"
             ],
             "Author ": [
-                "Dorothy M. Johnson"
+                "Bill Bryson"
             ],
             "Genre ": [
-                "Short story"
+                "Non-fiction"
             ],
-            "Related Dorothy M. Johnson books": []
-        },
-        "A fekete város": {
-            "label": "A fekete város",
-            "description": "A fekete város is a Hungarian novel of Kálmán Mikszáth set in the town of Lőcse, today Levoča. It is based on real historical events, but the story and dialogue are fictional. Wikipedia",
-            "type": "",
-            "Published ": [
-                "1910"
+            "Preceded by ": [
+                "Bill Bryson's African Diary"
             ],
-            "Author ": [
-                "Kálmán Mikszáth"
-            ]
+            "People also search for": []
         },
         "A Storm of Swords": {
             "label": "A Storm of Swords",
@@ -213,63 +289,6 @@
             ],
             "People also search for": []
         },
-        "A Widow for One Year": {
-            "label": "A Widow for One Year",
-            "description": "A Widow for One Year is a 1998 bestselling work of fiction by John Irving, the ninth of his novels to be published.\nThe first section of the novel was made into the movie The Door in the Floor in 2004. Wikipedia",
-            "type": "",
-            "Published ": "May 5, 1998",
-            "Author ": [
-                "John Irving"
-            ],
-            "Adaptations ": [
-                "The Door in the Floor (2004)"
-            ],
-            "Characters ": [
-                "Ruth Cole",
-                " Eddie O'Hare",
-                " Marion Cole",
-                " Ted Cole"
-            ],
-            "Genres ": [
-                "Fiction",
-                " Speculative fiction"
-            ],
-            "Related John Irving books": []
-        },
-        "A Drama in Livonia": {
-            "label": "A Drama in Livonia",
-            "description": "A Drama in Livonia is a novel written by Jules Verne in 1893, revised in 1903 and first published in 1904. Wikipedia",
-            "type": "",
-            "Published ": [
-                "1904"
-            ],
-            "Author ": [
-                "Jules Verne"
-            ],
-            "Genre ": [
-                "Adventure fiction"
-            ],
-            "People also search for": []
-        },
-        "Against the Fall of Night": {
-            "label": "Against the Fall of Night",
-            "description": "Against the Fall of Night is a science fiction novel by British writer Arthur C. Clarke. Originally appearing in the November, 1948 issue of the magazine Startling Stories, it was first published in book form in 1953 by Gnome Press. Wikipedia",
-            "type": "",
-            "Published ": [
-                "1953"
-            ],
-            "Author ": [
-                "Arthur C. Clarke"
-            ],
-            "Followed by ": [
-                "The City and the Stars"
-            ],
-            "Genres ": [
-                "Science Fiction",
-                " Speculative fiction"
-            ],
-            "People also search for": []
-        },
         "A Study in Scarlet": {
             "label": "A Study in Scarlet",
             "description": "A Study in Scarlet is a detective mystery novel written by Sir Arthur Conan Doyle, introducing his new characters, \"consulting detective\" Sherlock Holmes and his friend and chronicler, Dr. John Watson, ... Wikipedia",
@@ -297,6 +316,89 @@
                 " Crime Fiction",
                 " Detective fiction",
                 " Mystery"
+            ],
+            "People also search for": []
+        },
+        "A fekete város": {
+            "label": "A fekete város",
+            "description": "A fekete város is a Hungarian novel of Kálmán Mikszáth set in the town of Lőcse, today Levoča. It is based on real historical events, but the story and dialogue are fictional. Wikipedia",
+            "type": "",
+            "Published ": [
+                "1910"
+            ],
+            "Author ": [
+                "Kálmán Mikszáth"
+            ]
+        },
+        "A Widow for One Year": {
+            "label": "A Widow for One Year",
+            "description": "A Widow for One Year is a 1998 bestselling work of fiction by John Irving, the ninth of his novels to be published.\nThe first section of the novel was made into the movie The Door in the Floor in 2004. Wikipedia",
+            "type": "",
+            "Published ": "May 5, 1998",
+            "Author ": [
+                "John Irving"
+            ],
+            "Adaptations ": [
+                "The Door in the Floor (2004)"
+            ],
+            "Characters ": [
+                "Ruth Cole",
+                " Eddie O'Hare",
+                " Marion Cole",
+                " Ted Cole"
+            ],
+            "Genres ": [
+                "Fiction",
+                " Speculative fiction"
+            ],
+            "Related John Irving books": []
+        },
+        "Against the Fall of Night": {
+            "label": "Against the Fall of Night",
+            "description": "Against the Fall of Night is a science fiction novel by British writer Arthur C. Clarke. Originally appearing in the November, 1948 issue of the magazine Startling Stories, it was first published in book form in 1953 by Gnome Press. Wikipedia",
+            "type": "",
+            "Published ": [
+                "1953"
+            ],
+            "Author ": [
+                "Arthur C. Clarke"
+            ],
+            "Followed by ": [
+                "The City and the Stars"
+            ],
+            "Genres ": [
+                "Science Fiction",
+                " Speculative fiction"
+            ],
+            "People also search for": []
+        },
+        "Agnes Grey": {
+            "label": "Agnes Grey",
+            "description": "Agnes Grey is the debut novel of English author Anne Brontë, first published in December 1847, and republished in a second edition in 1850. The novel follows Agnes Grey, a governess, as she works in several bourgeois families. Wikipedia",
+            "type": "",
+            "Published ": [
+                "December 1847"
+            ],
+            "Authors ": [
+                "Anne Brontë",
+                " Emily Brontë"
+            ],
+            "Followed by ": [
+                "The Tenant of Wildfell Hall"
+            ],
+            "Characters ": [
+                "Mr. Weston",
+                " Mrs. Grey",
+                " Mrs. Murray",
+                " Mr. Murray",
+                " Tom Bloomfield",
+                " Mary Ann Bloomfield",
+                " Rosalie Murray",
+                " Mathilda Murray",
+                " Mary Grey",
+                " Mr. Bloomfield",
+                " Agnes Grey",
+                " Mrs. BloomfieldMore"
             ],
             "People also search for": []
         },
@@ -331,21 +433,45 @@
             "Cast": [],
             "People also search for": []
         },
-        "A Short History of Nearly Everything": {
-            "label": "A Short History of Nearly Everything",
-            "description": "A Short History of Nearly Everything by American author Bill Bryson is a popular science book that explains some areas of science, using a style of language which aims to be more accessible to the ... Wikipedia",
+        "An American Tragedy": {
+            "label": "An American Tragedy",
+            "description": "An American Tragedy is a novel by the American writer Theodore Dreiser. Wikipedia",
             "type": "",
             "Published ": [
-                "2003"
+                "1925"
             ],
             "Author ": [
-                "Bill Bryson"
+                "Theodore Dreiser"
             ],
-            "Genre ": [
-                "Non-fiction"
+            "Adaptations ": [
+                "Avana Ivan (1962)",
+                " A Place in the Sun (1951)"
             ],
-            "Preceded by ": [
-                "Bill Bryson's African Diary"
+            "Genres ": [
+                "Fiction",
+                " Crime Fiction"
+            ],
+            "People also search for": []
+        },
+        "Alice Adams (novel)": {
+            "label": "Alice Adams",
+            "description": "Alice Adams is a 1921 Pulitzer Prize-winning novel by Booth Tarkington. It was adapted as a film in 1923 by Rowland V. Lee and, more famously, in 1935 by George Stevens. Wikipedia",
+            "type": "",
+            "Published ": [
+                "June 1921"
+            ],
+            "Author ": [
+                "Booth Tarkington"
+            ],
+            "Genres ": [
+                "Fiction",
+                " Fantasy",
+                " Novel",
+                " Romance novel"
+            ],
+            "Adaptations ": [
+                "Alice Adams (1935)",
+                " Alice Adams (1923)"
             ],
             "People also search for": []
         },
@@ -392,132 +518,6 @@
             ],
             "People also search for": []
         },
-        "Alice Adams (novel)": {
-            "label": "Alice Adams",
-            "description": "Alice Adams is a 1921 Pulitzer Prize-winning novel by Booth Tarkington. It was adapted as a film in 1923 by Rowland V. Lee and, more famously, in 1935 by George Stevens. Wikipedia",
-            "type": "",
-            "Published ": [
-                "June 1921"
-            ],
-            "Author ": [
-                "Booth Tarkington"
-            ],
-            "Genres ": [
-                "Fiction",
-                " Fantasy",
-                " Novel",
-                " Romance novel"
-            ],
-            "Adaptations ": [
-                "Alice Adams (1935)",
-                " Alice Adams (1923)"
-            ],
-            "People also search for": []
-        },
-        "An American Tragedy": {
-            "label": "An American Tragedy",
-            "description": "An American Tragedy is a novel by the American writer Theodore Dreiser. Wikipedia",
-            "type": "",
-            "Published ": [
-                "1925"
-            ],
-            "Author ": [
-                "Theodore Dreiser"
-            ],
-            "Adaptations ": [
-                "Avana Ivan (1962)",
-                " A Place in the Sun (1951)"
-            ],
-            "Genres ": [
-                "Fiction",
-                " Crime Fiction"
-            ],
-            "People also search for": []
-        },
-        "A Journal of the Plague Year": {
-            "label": "A Journal of the Plague Year",
-            "description": "A Journal of the Plague Year is a novel by Daniel Defoe, 1660-1731, first published in March 1722.\nThe novel is a fictionalised account of one man's experiences of the year 1665, in which the Great Plague struck the city of London. Wikipedia",
-            "type": "",
-            "Published ": [
-                "1722"
-            ],
-            "Author ": [
-                "Daniel Defoe"
-            ],
-            "Adaptations ": [
-                "The Periwig-Maker (2000)"
-            ],
-            "Genres ": [
-                "Fiction",
-                " Historical novel",
-                " Historical fiction"
-            ],
-            "People also search for": []
-        },
-        "A Hero of Our Time": {
-            "label": "A Hero of Our Time",
-            "description": "A Hero of Our Time is a novel by Mikhail Lermontov, written in 1839 and revised in 1841. It is an example of the superfluous man novel, noted for its compelling Byronic hero Pechorin and for the beautiful descriptions of the Caucasus. Wikipedia",
-            "type": "",
-            "Published ": [
-                "1840"
-            ],
-            "Author ": [
-                "Mikhail Lermontov"
-            ],
-            "Genre ": [
-                "Adventure fiction"
-            ],
-            "Adaptations ": [
-                "A Hero of Our Time (1985)"
-            ],
-            "Characters ": [
-                "Maxim Maximych",
-                " Grushnitsky",
-                " Grigory Alexandrovich Pechorin",
-                " Vera"
-            ],
-            "People also search for": []
-        },
-        "A Man Without a Country": {
-            "label": "A Man Without a Country",
-            "description": "A Man Without a Country is an essay collection published in 2005 by the author Kurt Vonnegut. The extremely short essays that make up this book deal with topics ranging from the importance of humor, to ... Wikipedia",
-            "type": "",
-            "Published ": "January 1, 2005",
-            "Author ": [
-                "Kurt Vonnegut"
-            ],
-            "Kurt Vonnegut books": []
-        },
-        "Agnes Grey": {
-            "label": "Agnes Grey",
-            "description": "Agnes Grey is the debut novel of English author Anne Brontë, first published in December 1847, and republished in a second edition in 1850. The novel follows Agnes Grey, a governess, as she works in several bourgeois families. Wikipedia",
-            "type": "",
-            "Published ": [
-                "December 1847"
-            ],
-            "Authors ": [
-                "Anne Brontë",
-                " Emily Brontë"
-            ],
-            "Followed by ": [
-                "The Tenant of Wildfell Hall"
-            ],
-            "Characters ": [
-                "Mr. Weston",
-                " Mrs. Grey",
-                " Mrs. Murray",
-                " Mr. Murray",
-                " Tom Bloomfield",
-                " Mary Ann Bloomfield",
-                " Rosalie Murray",
-                " Mathilda Murray",
-                " Mary Grey",
-                " Mr. Bloomfield",
-                " Agnes Grey",
-                " Mrs. BloomfieldMore"
-            ],
-            "People also search for": []
-        },
         "Angels & Demons": {
             "label": "Angels and Demons",
             "description": "Angels & Demons is a 2009 American mystery thriller directed by Ron Howard and based on Dan Brown's novel by the same name. As a film it is the sequel to the 2006 film, The Da Vinci Code, also directed by Ron Howard. Wikipedia",
@@ -550,6 +550,28 @@
             ],
             "People also search for": []
         },
+        "Ark Angel": {
+            "label": "Ark Angel",
+            "description": "Ark Angel is the sixth book in the Alex Rider series written by British author Anthony Horowitz. The book was released in the United Kingdom on April 1, 2005 and in the United States on April 20, 2006. Wikipedia",
+            "type": "",
+            "Published ": "April 1, 2006",
+            "Author ": [
+                "Anthony Horowitz"
+            ],
+            "Characters ": [
+                "Alex Rider",
+                " Nikolei Vladimir Drevin",
+                " Tamara Knight",
+                " Paul Drevin",
+                " Magnus Payne"
+            ],
+            "Genres ": [
+                "Thriller",
+                " Adventure fiction",
+                " Spy fiction"
+            ],
+            "People also search for": []
+        },
         "Ardiente paciencia": {
             "label": "Ardiente paciencia",
             "description": "Ardiente Paciencia, or El Cartero De Neruda, is a 1985 novel by Antonio Skármeta. The novel was published in the English market under the title The Postman. Wikipedia",
@@ -573,114 +595,21 @@
             ],
             "People also search for": []
         },
-        "Ark Angel": {
-            "label": "Ark Angel",
-            "description": "Ark Angel is the sixth book in the Alex Rider series written by British author Anthony Horowitz. The book was released in the United Kingdom on April 1, 2005 and in the United States on April 20, 2006. Wikipedia",
-            "type": "",
-            "Published ": "April 1, 2006",
-            "Author ": [
-                "Anthony Horowitz"
-            ],
-            "Characters ": [
-                "Alex Rider",
-                " Nikolei Vladimir Drevin",
-                " Tamara Knight",
-                " Paul Drevin",
-                " Magnus Payne"
-            ],
-            "Genres ": [
-                "Thriller",
-                " Adventure fiction",
-                " Spy fiction"
-            ],
-            "People also search for": []
-        },
-        "Atop an Underwood: Early Stories and Other Writings": {
-            "label": "Atop an Underwood Early Stories and Other Writings",
-            "description": "Atop an Underwood Early Stories and Other Writings is an anthology of American Beat writer Jack Kerouac's early work, published by Viking Press in 1999. Wikipedia",
-            "type": "",
-            "Author ": [
-                "Jack Kerouac"
-            ],
-            "Preceded by ": [
-                "The Sea is My Brother"
-            ],
-            "Genres ": [
-                "Short story",
-                " Novel",
-                " Short story collection"
-            ],
-            "Related Jack Kerouac books": []
-        },
-        "Between Planets": {
-            "label": "Between Planets",
-            "description": "Between Planets is a science fiction novel by Robert A. Heinlein, originally serialized in Blue Book magazine in 1951 as \"Planets in Combat\". It was published in hardcover that year by Scribner's as part of the Heinlein juveniles. Wikipedia",
+        "Atala (novella)": {
+            "label": "Atala*",
+            "description": "Atala is an early novella by François-René de Chateaubriand, first published on 12 germinal IX. The work, inspired by his travels in North America, had an immense impact on early Romanticism, and went through five editions in its first year. Wikipedia",
             "type": "",
             "Published ": [
-                "1951"
+                "1801"
             ],
             "Author ": [
-                "Robert A. Heinlein"
+                "François-René de Chateaubriand"
             ],
             "Genres ": [
-                "Fiction",
-                " Novel",
-                " Science Fiction",
-                " Children's literature",
-                " Speculative fiction"
+                "Novella",
+                " Romanticism"
             ],
-            "People also search for": []
-        },
-        "Before Night Falls": {
-            "label": "Before Night Falls",
-            "description": "Before Night Falls is a 2000 American drama film directed by Julian Schnabel. The screenplay is based on the autobiography of the same name of Reinaldo Arenas, which was published in English in 1993. Wikipedia",
-            "type": "",
-            "Initial release ": "September 3, 2000",
-            "Director ": [
-                "Julian Schnabel"
-            ],
-            "Story by ": [
-                "Jana Boková",
-                " Reinaldo Arenas"
-            ],
-            "Screenplay ": [
-                "Cunningham O'Keefe",
-                " Lázaro Gómez Carriles",
-                " Julian Schnabel"
-            ],
-            "Languages ": [
-                "Russian",
-                " Spanish",
-                " French",
-                " English"
-            ],
-            "Cast": [],
-            "People also search for": []
-        },
-        "Black Robe": {
-            "label": "Black Robe",
-            "description": "Black Robe is a 1991 film directed by Bruce Beresford. The screenplay was written by Irish Canadian author Brian Moore, who adapted it from his novel of the same name. Wikipedia",
-            "type": "",
-            "Initial release ": "September 5, 1991",
-            "Director ": [
-                "Bruce Beresford"
-            ],
-            "MPAA rating ": [
-                "R"
-            ],
-            "Initial DVD release ": "July 7, 1998",
-            "Awards ": [
-                "Academy of Canadian Cinema and Television Award for Best Motion Picture",
-                " Golden Reel Award",
-                " Academy of Canadian Cinema and Television Award for Best Performance by an Actor in a Supporting Role",
-                " Genie Award for Best Achievement in Art Direction/Production Design",
-                " Academy of Canadian Cinema and Television Award for Best Achievement in Cinematography",
-                " Academy of Canadian Cinema and Television Award for Best Achievement in Direction",
-                " Genie Award for Best Screenplay",
-                " AACTA Award for Best CinematographyMore"
-            ],
-            "Cast": [],
-            "People also search for": []
+            "François-René de Chateaubriand books": []
         },
         "Atonement (novel)": {
             "label": "Atonement",
@@ -712,6 +641,38 @@
             ],
             "People also search for": []
         },
+        "Atop an Underwood: Early Stories and Other Writings": {
+            "label": "Atop an Underwood Early Stories and Other Writings",
+            "description": "Atop an Underwood Early Stories and Other Writings is an anthology of American Beat writer Jack Kerouac's early work, published by Viking Press in 1999. Wikipedia",
+            "type": "",
+            "Author ": [
+                "Jack Kerouac"
+            ],
+            "Preceded by ": [
+                "The Sea is My Brother"
+            ],
+            "Genres ": [
+                "Short story",
+                " Novel",
+                " Short story collection"
+            ],
+            "Related Jack Kerouac books": []
+        },
+        "Awful End": {
+            "label": "Awful End",
+            "description": "Awful End is a 2000 children's novel by Philip Ardagh and the first book of the Eddie Dickens trilogy, which was followed by The Further Adventures of Eddie Dickens.\nIt was shortlisted for the 2002 Stockton Children's Book of the Year Award. Wikipedia",
+            "type": "",
+            "Published ": [
+                "2000"
+            ],
+            "Author ": [
+                "Philip Ardagh"
+            ],
+            "Genre ": [
+                "Children's literature"
+            ],
+            "Philip Ardagh books": []
+        },
         "Baudolino": {
             "label": "Baudolino",
             "description": "Baudolino is a 2000 novel by Umberto Eco about the adventures of a young man named Baudolino in the known and mythical Christian world of the 12th century.\nBaudolino was translated into English in 2001 by William Weaver. Wikipedia",
@@ -735,21 +696,57 @@
             ],
             "Umberto Eco books": []
         },
-        "Atala (novella)": {
-            "label": "Atala*",
-            "description": "Atala is an early novella by François-René de Chateaubriand, first published on 12 germinal IX. The work, inspired by his travels in North America, had an immense impact on early Romanticism, and went through five editions in its first year. Wikipedia",
+        "Before Night Falls": {
+            "label": "Before Night Falls",
+            "description": "Before Night Falls is a 2000 American drama film directed by Julian Schnabel. The screenplay is based on the autobiography of the same name of Reinaldo Arenas, which was published in English in 1993. Wikipedia",
+            "type": "",
+            "Initial release ": "September 3, 2000",
+            "Director ": [
+                "Julian Schnabel"
+            ],
+            "Story by ": [
+                "Jana Boková",
+                " Reinaldo Arenas"
+            ],
+            "Screenplay ": [
+                "Cunningham O'Keefe",
+                " Lázaro Gómez Carriles",
+                " Julian Schnabel"
+            ],
+            "Languages ": [
+                "Russian",
+                " Spanish",
+                " French",
+                " English"
+            ],
+            "Cast": [],
+            "People also search for": []
+        },
+        "Berlin Alexanderplatz": {
+            "label": "Berlin Alexanderplatz",
+            "description": "Berlin Alexanderplatz originally broadcast in 1980, is a 14-part West German television miniseries, adapted and directed by Rainer Werner Fassbinder from the Alfred Döblin novel of the same name, and ... Wikipedia",
+            "type": "",
+            "Cast": [],
+            "People also search for": []
+        },
+        "Between Planets": {
+            "label": "Between Planets",
+            "description": "Between Planets is a science fiction novel by Robert A. Heinlein, originally serialized in Blue Book magazine in 1951 as \"Planets in Combat\". It was published in hardcover that year by Scribner's as part of the Heinlein juveniles. Wikipedia",
             "type": "",
             "Published ": [
-                "1801"
+                "1951"
             ],
             "Author ": [
-                "François-René de Chateaubriand"
+                "Robert A. Heinlein"
             ],
             "Genres ": [
-                "Novella",
-                " Romanticism"
+                "Fiction",
+                " Novel",
+                " Science Fiction",
+                " Children's literature",
+                " Speculative fiction"
             ],
-            "François-René de Chateaubriand books": []
+            "People also search for": []
         },
         "Billy Budd": {
             "label": "Billy Budd",
@@ -778,6 +775,31 @@
                 " Children's literature"
             ],
             "See results about": []
+        },
+        "Black Robe": {
+            "label": "Black Robe",
+            "description": "Black Robe is a 1991 film directed by Bruce Beresford. The screenplay was written by Irish Canadian author Brian Moore, who adapted it from his novel of the same name. Wikipedia",
+            "type": "",
+            "Initial release ": "September 5, 1991",
+            "Director ": [
+                "Bruce Beresford"
+            ],
+            "MPAA rating ": [
+                "R"
+            ],
+            "Initial DVD release ": "July 7, 1998",
+            "Awards ": [
+                "Academy of Canadian Cinema and Television Award for Best Motion Picture",
+                " Golden Reel Award",
+                " Academy of Canadian Cinema and Television Award for Best Performance by an Actor in a Supporting Role",
+                " Genie Award for Best Achievement in Art Direction/Production Design",
+                " Academy of Canadian Cinema and Television Award for Best Achievement in Cinematography",
+                " Academy of Canadian Cinema and Television Award for Best Achievement in Direction",
+                " Genie Award for Best Screenplay",
+                " AACTA Award for Best CinematographyMore"
+            ],
+            "Cast": [],
+            "People also search for": []
         },
         "Bored of the Rings": {
             "label": "Bored of the Rings",
@@ -813,6 +835,21 @@
             ],
             "People also search for": []
         },
+        "Bug-Jargal": {
+            "label": "Bug-Jargal",
+            "description": "Bug-Jargal is a novel by the French writer Victor Hugo. First published in 1826, it is a reworked version of an earlier short story of the same name published in the Hugo brothers' magazine Le Conservateur littéraire in 1820. Wikipedia",
+            "type": "",
+            "Published ": [
+                "1826"
+            ],
+            "Author ": [
+                "Victor Hugo"
+            ],
+            "Genre ": [
+                "Fiction"
+            ],
+            "Victor Hugo books": []
+        },
         "Busman's Honeymoon": {
             "label": "Busman's Honeymoon",
             "description": "Busman's Honeymoon is a 1937 novel by Dorothy L. Sayers, her eleventh featuring Lord Peter Wimsey. It is the fourth and last novel to feature Harriet Vane. Wikipedia",
@@ -841,198 +878,6 @@
                 " Mystery"
             ],
             "See results about": []
-        },
-        "Awful End": {
-            "label": "Awful End",
-            "description": "Awful End is a 2000 children's novel by Philip Ardagh and the first book of the Eddie Dickens trilogy, which was followed by The Further Adventures of Eddie Dickens.\nIt was shortlisted for the 2002 Stockton Children's Book of the Year Award. Wikipedia",
-            "type": "",
-            "Published ": [
-                "2000"
-            ],
-            "Author ": [
-                "Philip Ardagh"
-            ],
-            "Genre ": [
-                "Children's literature"
-            ],
-            "Philip Ardagh books": []
-        },
-        "Castle Rackrent": {
-            "label": "Castle Rackrent",
-            "description": "Castle Rackrent, a short novel by Maria Edgeworth published in 1800, is often regarded as the first historical novel, the first regional novel in English, the first Anglo-Irish novel, the first Big House novel and the first saga novel. Wikipedia",
-            "type": "",
-            "Published ": [
-                "1800"
-            ],
-            "Author ": [
-                "Maria Edgeworth"
-            ],
-            "Genres ": [
-                "Fiction",
-                " Historical novel"
-            ],
-            "People also search for": []
-        },
-        "Bug-Jargal": {
-            "label": "Bug-Jargal",
-            "description": "Bug-Jargal is a novel by the French writer Victor Hugo. First published in 1826, it is a reworked version of an earlier short story of the same name published in the Hugo brothers' magazine Le Conservateur littéraire in 1820. Wikipedia",
-            "type": "",
-            "Published ": [
-                "1826"
-            ],
-            "Author ": [
-                "Victor Hugo"
-            ],
-            "Genre ": [
-                "Fiction"
-            ],
-            "Victor Hugo books": []
-        },
-        "Chain of Attack": {
-            "label": "Chain of Attack",
-            "description": "Chain of Attack is a Star Trek The Original Series novel written by Gene DeWeese. Wikipedia",
-            "type": "",
-            "Published ": "February 1, 1987",
-            "Author ": [
-                "Gene DeWeese"
-            ],
-            "Preceded by ": [
-                "Battlestations!"
-            ],
-            "Followed by ": [
-                "Deep Domain"
-            ],
-            "Genres ": [
-                "Science Fiction",
-                " Speculative fiction"
-            ],
-            "People also search for": []
-        },
-        "Clear and Present Danger": {
-            "label": "Clear and Present Danger",
-            "description": "Clear and Present Danger is a 1994 spy thriller film directed by Phillip Noyce, based on Tom Clancy's book of the same name. Wikipedia",
-            "type": "",
-            "Release date ": "August 3, 1994 (USA)",
-            "Director ": [
-                "Phillip Noyce"
-            ],
-            "Story by ": [
-                "Tom Clancy"
-            ],
-            "MPAA rating ": [
-                "PG-13"
-            ],
-            "Screenplay ": [
-                "John Milius",
-                " Steven Zaillian",
-                " Donald E. Stewart"
-            ],
-            "Cast": [],
-            "People also search for": []
-        },
-        "City of the Beasts": {
-            "label": "City of the Beasts",
-            "description": "City of the Beasts is the first young adult novel by Chilean-American writer Isabel Allende, whose first cousin once removed is Salvador Allende, a former president of Chile. Published in 2002, the story is set in the Amazon rainforest. Wikipedia",
-            "type": "",
-            "Published ": [
-                "2002"
-            ],
-            "Author ": [
-                "Isabel Allende"
-            ],
-            "Followed by ": [
-                "Kingdom of the Golden Dragon"
-            ],
-            "Characters ": [
-                "Ludovic Leblanc",
-                " Alexander Cold",
-                " Karakawe",
-                " Mauro Carias",
-                " Kate Cold",
-                " Dr. Omayra Torres",
-                " César Santos",
-                " Nadia Santos"
-            ],
-            "Genres ": [
-                "Fiction",
-                " Young adult literature",
-                " Children's literature",
-                " Speculative fiction"
-            ],
-            "People also search for": []
-        },
-        "Chasm City": {
-            "label": "Chasm City",
-            "description": "Chasm City is a 2001 science fiction novel by author Alastair Reynolds, set in the Revelation Space universe. Wikipedia",
-            "type": "",
-            "Published ": [
-                "2001"
-            ],
-            "Author ": [
-                "Alastair Reynolds"
-            ],
-            "Followed by ": [
-                "Revelation Space"
-            ],
-            "Genres ": [
-                "Fantasy",
-                " Novel",
-                " Science Fiction",
-                " Hard science fiction",
-                " Speculative fiction"
-            ],
-            "People also search for": []
-        },
-        "Cloud Atlas (novel)": {
-            "label": "Cloud Atlas",
-            "description": "Cloud Atlas is a 2004 novel, the third book by British author David Mitchell. It consists of six nested stories that take the reader from the remote South Pacific in the nineteenth century to a distant, post-apocalyptic future. Wikipedia",
-            "type": "",
-            "Published ": [
-                "March 2004"
-            ],
-            "Author ": [
-                "David Mitchell"
-            ],
-            "Adaptations ": [
-                "Cloud Atlas (2012)"
-            ],
-            "Original language ": [
-                "English"
-            ],
-            "Characters ": [
-                "Sonmi~451",
-                " Robert Frobisher",
-                " Adam Ewing",
-                " Timothy Cavendish",
-                " Luisa Rey"
-            ],
-            "Genres ": [
-                "Fiction",
-                " Fantasy",
-                " Novel",
-                " Drama"
-            ],
-            "People also search for": []
-        },
-        "Citizen of the Galaxy": {
-            "label": "Citizen of the Galaxy",
-            "description": "Citizen of the Galaxy is a science fiction novel by American writer Robert A. Heinlein, originally serialized in Astounding Science Fiction and published in hardcover in 1957 as one of the Heinlein juveniles by Scribner's. Wikipedia",
-            "type": "",
-            "Published ": [
-                "1957"
-            ],
-            "Author ": [
-                "Robert A. Heinlein"
-            ],
-            "Followed by ": [
-                "Have Space Suit—Will Travel"
-            ],
-            "Genres ": [
-                "Fiction",
-                " Science Fiction",
-                " Speculative fiction"
-            ],
-            "People also search for": []
         },
         "Carrie (novel)": {
             "label": "Carrie",
@@ -1070,6 +915,168 @@
             ],
             "Stephen King books": []
         },
+        "Castle Rackrent": {
+            "label": "Castle Rackrent",
+            "description": "Castle Rackrent, a short novel by Maria Edgeworth published in 1800, is often regarded as the first historical novel, the first regional novel in English, the first Anglo-Irish novel, the first Big House novel and the first saga novel. Wikipedia",
+            "type": "",
+            "Published ": [
+                "1800"
+            ],
+            "Author ": [
+                "Maria Edgeworth"
+            ],
+            "Genres ": [
+                "Fiction",
+                " Historical novel"
+            ],
+            "People also search for": []
+        },
+        "Chain of Attack": {
+            "label": "Chain of Attack",
+            "description": "Chain of Attack is a Star Trek The Original Series novel written by Gene DeWeese. Wikipedia",
+            "type": "",
+            "Published ": "February 1, 1987",
+            "Author ": [
+                "Gene DeWeese"
+            ],
+            "Preceded by ": [
+                "Battlestations!"
+            ],
+            "Followed by ": [
+                "Deep Domain"
+            ],
+            "Genres ": [
+                "Science Fiction",
+                " Speculative fiction"
+            ],
+            "People also search for": []
+        },
+        "Chasm City": {
+            "label": "Chasm City",
+            "description": "Chasm City is a 2001 science fiction novel by author Alastair Reynolds, set in the Revelation Space universe. Wikipedia",
+            "type": "",
+            "Published ": [
+                "2001"
+            ],
+            "Author ": [
+                "Alastair Reynolds"
+            ],
+            "Followed by ": [
+                "Revelation Space"
+            ],
+            "Genres ": [
+                "Fantasy",
+                " Novel",
+                " Science Fiction",
+                " Hard science fiction",
+                " Speculative fiction"
+            ],
+            "People also search for": []
+        },
+        "Citizen of the Galaxy": {
+            "label": "Citizen of the Galaxy",
+            "description": "Citizen of the Galaxy is a science fiction novel by American writer Robert A. Heinlein, originally serialized in Astounding Science Fiction and published in hardcover in 1957 as one of the Heinlein juveniles by Scribner's. Wikipedia",
+            "type": "",
+            "Published ": [
+                "1957"
+            ],
+            "Author ": [
+                "Robert A. Heinlein"
+            ],
+            "Followed by ": [
+                "Have Space Suit—Will Travel"
+            ],
+            "Genres ": [
+                "Fiction",
+                " Science Fiction",
+                " Speculative fiction"
+            ],
+            "People also search for": []
+        },
+        "City of the Beasts": {
+            "label": "City of the Beasts",
+            "description": "City of the Beasts is the first young adult novel by Chilean-American writer Isabel Allende, whose first cousin once removed is Salvador Allende, a former president of Chile. Published in 2002, the story is set in the Amazon rainforest. Wikipedia",
+            "type": "",
+            "Published ": [
+                "2002"
+            ],
+            "Author ": [
+                "Isabel Allende"
+            ],
+            "Followed by ": [
+                "Kingdom of the Golden Dragon"
+            ],
+            "Characters ": [
+                "Ludovic Leblanc",
+                " Alexander Cold",
+                " Karakawe",
+                " Mauro Carias",
+                " Kate Cold",
+                " Dr. Omayra Torres",
+                " César Santos",
+                " Nadia Santos"
+            ],
+            "Genres ": [
+                "Fiction",
+                " Young adult literature",
+                " Children's literature",
+                " Speculative fiction"
+            ],
+            "People also search for": []
+        },
+        "Clear and Present Danger": {
+            "label": "Clear and Present Danger",
+            "description": "Clear and Present Danger is a 1994 spy thriller film directed by Phillip Noyce, based on Tom Clancy's book of the same name. Wikipedia",
+            "type": "",
+            "Release date ": "August 3, 1994 (USA)",
+            "Director ": [
+                "Phillip Noyce"
+            ],
+            "Story by ": [
+                "Tom Clancy"
+            ],
+            "MPAA rating ": [
+                "PG-13"
+            ],
+            "Screenplay ": [
+                "John Milius",
+                " Steven Zaillian",
+                " Donald E. Stewart"
+            ],
+            "Cast": [],
+            "People also search for": []
+        },
+        "Cloud Atlas (novel)": {
+            "label": "Cloud Atlas",
+            "description": "Cloud Atlas is a 2004 novel, the third book by British author David Mitchell. It consists of six nested stories that take the reader from the remote South Pacific in the nineteenth century to a distant, post-apocalyptic future. Wikipedia",
+            "type": "",
+            "Published ": [
+                "March 2004"
+            ],
+            "Author ": [
+                "David Mitchell"
+            ],
+            "Adaptations ": [
+                "Cloud Atlas (2012)"
+            ],
+            "Original language ": [
+                "English"
+            ],
+            "Characters ": [
+                "Sonmi~451",
+                " Robert Frobisher",
+                " Adam Ewing",
+                " Timothy Cavendish",
+                " Luisa Rey"
+            ],
+            "Genres ": [
+                "Fiction",
+                " Fantasy",
+                " Novel",
+                " Drama"
+            ],
+            "People also search for": []
+        },
         "Clouds of Witness": {
             "label": "Clouds of Witness",
             "description": "Clouds of Witness is a 1926 novel by Dorothy L. Sayers, the second in her series featuring Lord Peter Wimsey.\nIt was adapted for television in 1972, as part of a series starring Ian Carmichael as Lord Peter. Wikipedia",
@@ -1093,34 +1100,19 @@
             ],
             "People also search for": []
         },
-        "Coot Club": {
-            "label": "Coot Club",
-            "description": "Coot Club is the fifth book of Arthur Ransome's Swallows and Amazons series of children's books, published in 1934. Wikipedia",
+        "Consciousness Explained": {
+            "label": "Consciousness Explained",
+            "description": "Consciousness Explained is a 1991 book by the American philosopher Daniel Dennett which offers an account of how consciousness arises from interaction of physical and cognitive processes in the brain. Wikipedia",
             "type": "",
             "Published ": [
-                "1934"
+                "1991"
             ],
             "Author ": [
-                "Arthur Ransome"
-            ],
-            "Preceded by ": [
-                "Winter Holiday"
-            ],
-            "Characters ": [
-                "Nancy Blackett",
-                " Titty Walker",
-                " Dick Callum",
-                " Bridget Walker",
-                " Peggy Blackett",
-                " Dorothea Callum",
-                " Roger Walker",
-                " Susan Walker",
-                " John WalkerMore"
+                "Daniel Dennett"
             ],
             "Genres ": [
-                "Fiction",
-                " Adventure fiction",
-                " Children's literature"
+                "Philosophy",
+                " Science"
             ],
             "People also search for": []
         },
@@ -1154,6 +1146,51 @@
             ],
             "People also search for": []
         },
+        "Cool Gardens": {
+            "label": "Cool Gardens",
+            "description": "Cool Gardens is a poetry book by the lead singer of the band System of a Down, Serj Tankian. It was published by MTV Books and was released on October 1, 2002. Wikipedia",
+            "type": "",
+            "Published ": [
+                "2001"
+            ],
+            "Author ": [
+                "Serj Tankian"
+            ],
+            "Genre ": [
+                "Poetry"
+            ]
+        },
+        "Coot Club": {
+            "label": "Coot Club",
+            "description": "Coot Club is the fifth book of Arthur Ransome's Swallows and Amazons series of children's books, published in 1934. Wikipedia",
+            "type": "",
+            "Published ": [
+                "1934"
+            ],
+            "Author ": [
+                "Arthur Ransome"
+            ],
+            "Preceded by ": [
+                "Winter Holiday"
+            ],
+            "Characters ": [
+                "Nancy Blackett",
+                " Titty Walker",
+                " Dick Callum",
+                " Bridget Walker",
+                " Peggy Blackett",
+                " Dorothea Callum",
+                " Roger Walker",
+                " Susan Walker",
+                " John WalkerMore"
+            ],
+            "Genres ": [
+                "Fiction",
+                " Adventure fiction",
+                " Children's literature"
+            ],
+            "People also search for": []
+        },
         "Cosmicomics": {
             "label": "Cosmicomics",
             "description": "Cosmicomics is a book of short stories by Italo Calvino first published in Italian in 1965 and in English in 1968. Each story takes a scientific \"fact\", and builds an imaginative story around it. Wikipedia",
@@ -1171,6 +1208,43 @@
                 " Speculative fiction"
             ],
             "Related Italo Calvino books": []
+        },
+        "Count Zero": {
+            "label": "Count Zero",
+            "description": "Count Zero is a science fiction novel written by William Gibson, originally published 1986. It is the second volume of the Sprawl trilogy, which begins with Neuromancer and concludes with Mona Lisa ... Wikipedia",
+            "type": "",
+            "Published ": [
+                "1986"
+            ],
+            "Author ": [
+                "William Gibson"
+            ],
+            "Preceded by ": [
+                "Neuromancer"
+            ],
+            "Genres ": [
+                "Cyberpunk",
+                " Science Fiction",
+                " Dystopia",
+                " Speculative fiction"
+            ],
+            "People also search for": []
+        },
+        "Creatures of Light and Darkness": {
+            "label": "Creatures of Light and Darkness",
+            "description": "Creatures of Light and Darkness is a 1969 science fiction novel by Roger Zelazny. Long out of print, it was reissued in April 2010. Wikipedia",
+            "type": "",
+            "Published ": [
+                "1969"
+            ],
+            "Author ": [
+                "Roger Zelazny"
+            ],
+            "Genres ": [
+                "Science Fiction",
+                " Speculative fiction"
+            ],
+            "People also search for": []
         },
         "Curtain (novel)": {
             "label": "Curtain",
@@ -1197,23 +1271,22 @@
             ],
             "Related Agatha Christie books": []
         },
-        "Count Zero": {
-            "label": "Count Zero",
-            "description": "Count Zero is a science fiction novel written by William Gibson, originally published 1986. It is the second volume of the Sprawl trilogy, which begins with Neuromancer and concludes with Mona Lisa ... Wikipedia",
+        "Daughter of Fortune": {
+            "label": "Daughter of Fortune",
+            "description": "Daughter of Fortune is a novel by Isabel Allende, and was chosen as an Oprah's Book Club selection in February 2000. Wikipedia",
             "type": "",
             "Published ": [
-                "1986"
+                "1999"
             ],
             "Author ": [
-                "William Gibson"
+                "Isabel Allende"
             ],
-            "Preceded by ": [
-                "Neuromancer"
+            "Followed by ": [
+                "Portrait in Sepia"
             ],
             "Genres ": [
-                "Cyberpunk",
-                " Science Fiction",
-                " Dystopia",
+                "Fiction",
+                " Novel",
                 " Speculative fiction"
             ],
             "People also search for": []
@@ -1236,38 +1309,6 @@
             ],
             "See results about": []
         },
-        "Creatures of Light and Darkness": {
-            "label": "Creatures of Light and Darkness",
-            "description": "Creatures of Light and Darkness is a 1969 science fiction novel by Roger Zelazny. Long out of print, it was reissued in April 2010. Wikipedia",
-            "type": "",
-            "Published ": [
-                "1969"
-            ],
-            "Author ": [
-                "Roger Zelazny"
-            ],
-            "Genres ": [
-                "Science Fiction",
-                " Speculative fiction"
-            ],
-            "People also search for": []
-        },
-        "Consciousness Explained": {
-            "label": "Consciousness Explained",
-            "description": "Consciousness Explained is a 1991 book by the American philosopher Daniel Dennett which offers an account of how consciousness arises from interaction of physical and cognitive processes in the brain. Wikipedia",
-            "type": "",
-            "Published ": [
-                "1991"
-            ],
-            "Author ": [
-                "Daniel Dennett"
-            ],
-            "Genres ": [
-                "Philosophy",
-                " Science"
-            ],
-            "People also search for": []
-        },
         "De nakomer": {
             "label": "De nakomer",
             "description": "De nakomer is a novel by Dutch author Maarten 't Hart. It was first published in 1996. Wikipedia",
@@ -1277,23 +1318,36 @@
             ],
             "Related Maarten 't Hart books": []
         },
-        "Daughter of Fortune": {
-            "label": "Daughter of Fortune",
-            "description": "Daughter of Fortune is a novel by Isabel Allende, and was chosen as an Oprah's Book Club selection in February 2000. Wikipedia",
+        "De re metallica": {
+            "label": "De Re Metallica",
+            "description": "De re metallica is a book cataloguing the state of the art of mining, refining, and smelting metals, published a year posthumously in 1556 due to a delay in preparing woodcuts for the text. Wikipedia",
             "type": "",
             "Published ": [
-                "1999"
+                "1556"
             ],
             "Author ": [
-                "Isabel Allende"
+                "Georgius Agricola"
             ],
-            "Followed by ": [
-                "Portrait in Sepia"
+            "Genre ": [
+                "Non-fiction"
             ],
-            "Genres ": [
-                "Fiction",
-                " Novel",
-                " Speculative fiction"
+            "People also search for": []
+        },
+        "Dead Souls": {
+            "label": "Dead Souls",
+            "description": "Dead Souls is a novel by Nikolai Gogol, first published in 1842, and widely regarded as an exemplar of 19th-century Russian literature. The purpose of the novel was to demonstrate the flaws and faults of the Russian mentality and character. Wikipedia",
+            "type": "",
+            "Published ": [
+                "1842"
+            ],
+            "Author ": [
+                "Nikolai Gogol"
+            ],
+            "Adaptations ": [
+                "Dead Souls (1984)"
+            ],
+            "Genre ": [
+                "Fiction"
             ],
             "People also search for": []
         },
@@ -1320,46 +1374,39 @@
             ],
             "People also search for": []
         },
-        "Dead Souls": {
-            "label": "Dead Souls",
-            "description": "Dead Souls is a novel by Nikolai Gogol, first published in 1842, and widely regarded as an exemplar of 19th-century Russian literature. The purpose of the novel was to demonstrate the flaws and faults of the Russian mentality and character. Wikipedia",
+        "Dialectic of Enlightenment": {
+            "label": "Dialectic of Enlightenment",
+            "description": "Dialectic of Enlightenment is a work of philosophy and social criticism written by Frankfurt School philosophers Max Horkheimer and Theodor W. Adorno and first published in 1944. Wikipedia",
             "type": "",
             "Published ": [
-                "1842"
+                "1944"
             ],
-            "Author ": [
-                "Nikolai Gogol"
-            ],
-            "Adaptations ": [
-                "Dead Souls (1984)"
-            ],
-            "Genre ": [
-                "Fiction"
+            "Authors ": [
+                "Theodor W. Adorno",
+                " Max Horkheimer"
             ],
             "People also search for": []
         },
-        "Disgrace (novel)": {
-            "label": "Disgrace",
-            "description": "Disgrace is a novel by J. M. Coetzee, published in 1999. It won the Booker Prize. The writer was also awarded the Nobel Prize in Literature four years after its publication. Wikipedia",
+        "Dictionary of the Khazars": {
+            "label": "Dictionary of the Khazars",
+            "description": "Dictionary of the Khazars A Lexicon Novel is the first novel by Serbian writer Milorad Pavić, published in 1984. Originally written in Serbian, the novel has been translated into many languages. Wikipedia",
             "type": "",
-            "Published ": "July 1, 1999",
+            "Published ": [
+                "1984"
+            ],
             "Author ": [
-                "J. M. Coetzee"
+                "Milorad Pavić"
             ],
-            "Adaptations ": [
-                "Disgrace (2008)"
-            ],
-            "Genre ": [
-                "Novel"
-            ],
-            "Characters ": [
-                "Melanie Isaacs",
-                " Bev Shaw",
-                " David Lurie",
-                " Lucy Lurie",
-                " Soraya"
+            "Genres ": [
+                "Novel",
+                " Speculative fiction"
             ],
             "People also search for": []
+        },
+        "Dictionary of American Naval Fighting Ships": {
+            "label": "Dictionary of American Naval Fighting Ships",
+            "description": "The Dictionary of American Naval Fighting Ships is the official reference work for the basic facts about ships used by the United States Navy. Wikipedia",
+            "type": ""
         },
         "Die Feuerzangenbowle": {
             "label": "Die Feuerzangenbowle",
@@ -1398,48 +1445,90 @@
             ],
             "Related Stephen King books": []
         },
-        "Dictionary of the Khazars": {
-            "label": "Dictionary of the Khazars",
-            "description": "Dictionary of the Khazars A Lexicon Novel is the first novel by Serbian writer Milorad Pavić, published in 1984. Originally written in Serbian, the novel has been translated into many languages. Wikipedia",
+        "Digital Fortress": {
+            "label": "Digital Fortress",
+            "description": "Digital Fortress is a techno-thriller novel written by American author Dan Brown and published in 1998 by St. Martin's Press. Wikipedia",
             "type": "",
             "Published ": [
-                "1984"
+                "1998"
             ],
             "Author ": [
-                "Milorad Pavić"
+                "Dan Brown"
             ],
             "Genres ": [
-                "Novel",
-                " Speculative fiction"
+                "Fiction",
+                " Science Fiction",
+                " Techno-thriller",
+                " Mystery"
             ],
-            "People also search for": []
+            "Dan Brown books": []
         },
-        "De re metallica": {
-            "label": "De Re Metallica",
-            "description": "De re metallica is a book cataloguing the state of the art of mining, refining, and smelting metals, published a year posthumously in 1556 due to a delay in preparing woodcuts for the text. Wikipedia",
+        "Disgrace (novel)": {
+            "label": "Disgrace",
+            "description": "Disgrace is a novel by J. M. Coetzee, published in 1999. It won the Booker Prize. The writer was also awarded the Nobel Prize in Literature four years after its publication. Wikipedia",
             "type": "",
-            "Published ": [
-                "1556"
-            ],
+            "Published ": "July 1, 1999",
             "Author ": [
-                "Georgius Agricola"
+                "J. M. Coetzee"
+            ],
+            "Adaptations ": [
+                "Disgrace (2008)"
             ],
             "Genre ": [
-                "Non-fiction"
+                "Novel"
+            ],
+            "Characters ": [
+                "Melanie Isaacs",
+                " Bev Shaw",
+                " David Lurie",
+                " Lucy Lurie",
+                " Soraya"
             ],
             "People also search for": []
         },
-        "Dialectic of Enlightenment": {
-            "label": "Dialectic of Enlightenment",
-            "description": "Dialectic of Enlightenment is a work of philosophy and social criticism written by Frankfurt School philosophers Max Horkheimer and Theodor W. Adorno and first published in 1944. Wikipedia",
+        "Doctor Sax": {
+            "label": "Doctor Sax",
+            "description": "Doctor Sax is a novel by Jack Kerouac published in 1959. Kerouac wrote it in 1952 while living with William S. Burroughs in Mexico City. Wikipedia",
             "type": "",
             "Published ": [
-                "1944"
+                "1959"
             ],
-            "Authors ": [
-                "Theodor W. Adorno",
-                " Max Horkheimer"
+            "Author ": [
+                "Jack Kerouac"
             ],
+            "Preceded by ": [
+                "The Dharma Bums"
+            ],
+            "Followed by ": [
+                "Maggie Cassidy"
+            ],
+            "Genres ": [
+                "Fiction",
+                " Novel"
+            ],
+            "Related Jack Kerouac books": []
+        },
+        "Dodsworth": {
+            "label": "Dodsworth",
+            "description": "Dodsworth is a 1936 American drama film directed by William Wyler. Sidney Howard based the screenplay on his 1934 stage adaptation of the 1929 novel of the same name by Sinclair Lewis. Wikipedia",
+            "type": "",
+            "Initial release ": [
+                "1936"
+            ],
+            "Director ": [
+                "William Wyler"
+            ],
+            "Story by ": [
+                "Sinclair Lewis"
+            ],
+            "Screenplay ": [
+                "Sidney Howard"
+            ],
+            "Adapted from ": [
+                "Dodsworth",
+                " Dodsworth"
+            ],
+            "Cast": [],
             "People also search for": []
         },
         "Dragonflight": {
@@ -1480,71 +1569,18 @@
             ],
             "People also search for": []
         },
-        "Dodsworth": {
-            "label": "Dodsworth",
-            "description": "Dodsworth is a 1936 American drama film directed by William Wyler. Sidney Howard based the screenplay on his 1934 stage adaptation of the 1929 novel of the same name by Sinclair Lewis. Wikipedia",
-            "type": "",
-            "Initial release ": [
-                "1936"
-            ],
-            "Director ": [
-                "William Wyler"
-            ],
-            "Story by ": [
-                "Sinclair Lewis"
-            ],
-            "Screenplay ": [
-                "Sidney Howard"
-            ],
-            "Adapted from ": [
-                "Dodsworth",
-                " Dodsworth"
-            ],
-            "Cast": [],
-            "People also search for": []
-        },
-        "Doctor Sax": {
-            "label": "Doctor Sax",
-            "description": "Doctor Sax is a novel by Jack Kerouac published in 1959. Kerouac wrote it in 1952 while living with William S. Burroughs in Mexico City. Wikipedia",
+        "Dred: A Tale of the Great Dismal Swamp": {
+            "label": "Dred A Tale of the Great Dismal Swamp",
+            "description": "Dred A Tale of the Great Dismal Swamp is the second popular novel from American author Harriet Beecher Stowe. It was first published in two volumes by Phillips, Sampson and Company in 1856. Wikipedia",
             "type": "",
             "Published ": [
-                "1959"
+                "1856"
             ],
             "Author ": [
-                "Jack Kerouac"
+                "Harriet Beecher Stowe"
             ],
-            "Preceded by ": [
-                "The Dharma Bums"
-            ],
-            "Followed by ": [
-                "Maggie Cassidy"
-            ],
-            "Genres ": [
-                "Fiction",
-                " Novel"
-            ],
-            "Related Jack Kerouac books": []
-        },
-        "Dictionary of American Naval Fighting Ships": {
-            "label": "Dictionary of American Naval Fighting Ships",
-            "description": "The Dictionary of American Naval Fighting Ships is the official reference work for the basic facts about ships used by the United States Navy. Wikipedia",
-            "type": ""
-        },
-        "Dune: The Butlerian Jihad": {
-            "label": "Dune The Butlerian Jihad",
-            "description": "Dune The Butlerian Jihad is a 2002 science fiction novel by Brian Herbert and Kevin J. Anderson, set in the fictional Dune universe created by Frank Herbert. Wikipedia",
-            "type": "",
-            "Published ": "September 17, 2002",
-            "Authors ": [
-                "Kevin J. Anderson",
-                " Brian Herbert"
-            ],
-            "Followed by ": [
-                "Dune The Machine Crusade"
-            ],
-            "Genres ": [
-                "Science Fiction",
-                " Speculative fiction"
+            "Genre ": [
+                "Novel"
             ],
             "People also search for": []
         },
@@ -1598,6 +1634,75 @@
             ],
             "People also search for": []
         },
+        "Dune: The Butlerian Jihad": {
+            "label": "Dune The Butlerian Jihad",
+            "description": "Dune The Butlerian Jihad is a 2002 science fiction novel by Brian Herbert and Kevin J. Anderson, set in the fictional Dune universe created by Frank Herbert. Wikipedia",
+            "type": "",
+            "Published ": "September 17, 2002",
+            "Authors ": [
+                "Kevin J. Anderson",
+                " Brian Herbert"
+            ],
+            "Followed by ": [
+                "Dune The Machine Crusade"
+            ],
+            "Genres ": [
+                "Science Fiction",
+                " Speculative fiction"
+            ],
+            "People also search for": []
+        },
+        "Eagle Strike": {
+            "label": "Eagle Strike",
+            "description": "Eagle Strike is the fourth book in the Alex Rider series written by British author Anthony Horowitz. The book was released in the United Kingdom on September 4, 2003 and in the United States on April 12, 2004. Wikipedia",
+            "type": "",
+            "Published ": "September 4, 2003",
+            "Author ": [
+                "Anthony Horowitz"
+            ],
+            "Preceded by ": [
+                "Alex Rider Secret Weapon"
+            ],
+            "Genres ": [
+                "Fiction",
+                " Thriller",
+                " Adventure fiction",
+                " Children's literature",
+                " Spy fiction"
+            ],
+            "Anthony Horowitz books": []
+        },
+        "Eine Billion Dollar": {
+            "label": "Eine Billion Dollar",
+            "description": "Eine Billion Dollar is a 2001 novel by German writer Andreas Eschbach. Its plot revolves around a young pizza driver from New York City, who inherits a trillion US dollars from one of his ancestors who lived in 16th century Florence. Wikipedia",
+            "type": "",
+            "Published ": [
+                "September 2001"
+            ],
+            "Author ": [
+                "Andreas Eschbach"
+            ],
+            "People also search for ": [
+                "Jesus Video",
+                " The Carpet Makers",
+                " Die Haarteppichknüpfer"
+            ]
+        },
+        "Eleven Minutes": {
+            "label": "Eleven Minutes",
+            "description": "Eleven Minutes is a 2003 novel by Brazilian novelist Paulo Coelho based on the experiences of a young Brazilian prostitute called Maria, whose first innocent brushes with love leave her heartbroken. Wikipedia",
+            "type": "",
+            "Published ": [
+                "2003"
+            ],
+            "Author ": [
+                "Paulo Coelho"
+            ],
+            "Genre ": [
+                "Fiction"
+            ],
+            "Paulo Coelho books": []
+        },
         "Ender's Shadow": {
             "label": "Ender's Shadow",
             "description": "Ender's Shadow is a parallel science fiction novel by the American author Orson Scott Card, taking place at the same time as the novel Ender's Game and depicting some of the same events from the point ... Wikipedia",
@@ -1626,70 +1731,6 @@
             ],
             "People also search for": []
         },
-        "Eleven Minutes": {
-            "label": "Eleven Minutes",
-            "description": "Eleven Minutes is a 2003 novel by Brazilian novelist Paulo Coelho based on the experiences of a young Brazilian prostitute called Maria, whose first innocent brushes with love leave her heartbroken. Wikipedia",
-            "type": "",
-            "Published ": [
-                "2003"
-            ],
-            "Author ": [
-                "Paulo Coelho"
-            ],
-            "Genre ": [
-                "Fiction"
-            ],
-            "Paulo Coelho books": []
-        },
-        "Eine Billion Dollar": {
-            "label": "Eine Billion Dollar",
-            "description": "Eine Billion Dollar is a 2001 novel by German writer Andreas Eschbach. Its plot revolves around a young pizza driver from New York City, who inherits a trillion US dollars from one of his ancestors who lived in 16th century Florence. Wikipedia",
-            "type": "",
-            "Published ": [
-                "September 2001"
-            ],
-            "Author ": [
-                "Andreas Eschbach"
-            ],
-            "People also search for ": [
-                "Jesus Video",
-                " The Carpet Makers",
-                " Die Haarteppichknüpfer"
-            ]
-        },
-        "Digital Fortress": {
-            "label": "Digital Fortress",
-            "description": "Digital Fortress is a techno-thriller novel written by American author Dan Brown and published in 1998 by St. Martin's Press. Wikipedia",
-            "type": "",
-            "Published ": [
-                "1998"
-            ],
-            "Author ": [
-                "Dan Brown"
-            ],
-            "Genres ": [
-                "Fiction",
-                " Science Fiction",
-                " Techno-thriller",
-                " Mystery"
-            ],
-            "Dan Brown books": []
-        },
-        "Dred: A Tale of the Great Dismal Swamp": {
-            "label": "Dred A Tale of the Great Dismal Swamp",
-            "description": "Dred A Tale of the Great Dismal Swamp is the second popular novel from American author Harriet Beecher Stowe. It was first published in two volumes by Phillips, Sampson and Company in 1856. Wikipedia",
-            "type": "",
-            "Published ": [
-                "1856"
-            ],
-            "Author ": [
-                "Harriet Beecher Stowe"
-            ],
-            "Genre ": [
-                "Novel"
-            ],
-            "People also search for": []
-        },
         "Engines of Creation": {
             "label": "Engines of Creation",
             "description": "Engines of Creation The Coming Era of Nanotechnology is a 1986 molecular nanotechnology book written by K. Eric Drexler with a foreword by Marvin Minsky. An updated version was released in 2007. Wikipedia",
@@ -1701,26 +1742,6 @@
                 "K. Eric Drexler"
             ],
             "People also search for": []
-        },
-        "Eagle Strike": {
-            "label": "Eagle Strike",
-            "description": "Eagle Strike is the fourth book in the Alex Rider series written by British author Anthony Horowitz. The book was released in the United Kingdom on September 4, 2003 and in the United States on April 12, 2004. Wikipedia",
-            "type": "",
-            "Published ": "September 4, 2003",
-            "Author ": [
-                "Anthony Horowitz"
-            ],
-            "Preceded by ": [
-                "Alex Rider Secret Weapon"
-            ],
-            "Genres ": [
-                "Fiction",
-                " Thriller",
-                " Adventure fiction",
-                " Children's literature",
-                " Spy fiction"
-            ],
-            "Anthony Horowitz books": []
         },
         "English As She Is Spoke": {
             "label": "English As She Is Spoke",
@@ -1734,30 +1755,6 @@
                 " The Perishable Empire",
                 " To Ruhleben – And Back"
             ]
-        },
-        "Family Without a Name": {
-            "label": "Family Without a Name",
-            "description": "Family Without a Name is an 1889 adventure novel by Jules Verne about the life of a family in Lower Canada during the Lower Canada Rebellion of 1837 and 1838 that sought an independent and democratic republic for Lower Canada. Wikipedia",
-            "type": "",
-            "Published ": [
-                "1889"
-            ],
-            "Author ": [
-                "Jules Verne"
-            ],
-            "Preceded by ": [
-                "Two Years' Vacation"
-            ],
-            "Followed by ": [
-                "The Purchase of the North Pole"
-            ],
-            "Genres ": [
-                "Fiction",
-                " Novel",
-                " Adventure fiction",
-                " Historical fiction"
-            ],
-            "People also search for": []
         },
         "Excession": {
             "label": "Excession",
@@ -1775,45 +1772,6 @@
             "Genres ": [
                 "Science Fiction",
                 " Speculative fiction"
-            ],
-            "People also search for": []
-        },
-        "Expedition to Earth": {
-            "label": "Expedition to Earth",
-            "description": "Expedition to Earth is a collection of science fiction short stories by Arthur C. Clarke.\nThere are at least two variants of this book's table of contents—in different editions of the book. Wikipedia",
-            "type": "",
-            "Published ": [
-                "1953"
-            ],
-            "Author ": [
-                "Arthur C. Clarke"
-            ],
-            "Genres ": [
-                "Short story",
-                " Science Fiction",
-                " Speculative fiction"
-            ],
-            "People also search for": []
-        },
-        "Fanny Hill": {
-            "label": "Fanny Hill",
-            "description": "Memoirs of a Woman of Pleasure is an erotic novel by English novelist John Cleland first published in London in 1748. Wikipedia",
-            "type": "",
-            "Author ": [
-                "John Cleland"
-            ],
-            "Illustrator ": [
-                "Édouard-Henri Avril"
-            ],
-            "Adaptations ": [
-                "Fanny Hill Unrated (2007)",
-                " Paprika (1991)",
-                " Fanny Hill (1983)",
-                " Fanny Hill"
-            ],
-            "Genres ": [
-                "Fiction",
-                " Erotic literature"
             ],
             "People also search for": []
         },
@@ -1848,247 +1806,133 @@
             ],
             "People also search for": []
         },
-        "A Little Princess": {
-            "label": "A Little Princess",
-            "description": "A Little Princess is a 1905 children's novel by Frances Hodgson Burnett. It is a revised and expanded version of Burnett's 1888 serialised novel entitled Sara Crewe or, What Happened at Miss Minchin's ... Wikipedia",
+        "Expedition to Earth": {
+            "label": "Expedition to Earth",
+            "description": "Expedition to Earth is a collection of science fiction short stories by Arthur C. Clarke.\nThere are at least two variants of this book's table of contents—in different editions of the book. Wikipedia",
             "type": "",
             "Published ": [
-                "1905"
+                "1953"
             ],
             "Author ": [
-                "Frances Hodgson Burnett"
-            ],
-            "Adaptations ": [
-                "A Little Princess (1995)",
-                " A Little Princess (1986)",
-                " Princess Sarah (1985)",
-                " A Little Princess (1973)",
-                " A Little Princess (1939)",
-                " The Little Princess (1917)More"
-            ],
-            "Characters ": [
-                "Miss Minchin",
-                " Capt. Crewe",
-                " Sara Crewe",
-                " Ermengarde",
-                " Jane"
+                "Arthur C. Clarke"
             ],
             "Genres ": [
-                "Fiction",
-                " Children's literature",
+                "Short story",
+                " Science Fiction",
                 " Speculative fiction"
             ],
             "People also search for": []
         },
-        "Better Than Life": {
-            "label": "Better Than Life",
-            "description": "Better Than Life is a science fiction comedy novel by Grant Naylor, the collective name for Rob Grant and Doug Naylor, co-creators and writers of the Red Dwarf television series, on which the novel is based. Wikipedia",
-            "type": "",
-            "Published ": "October 25, 1990",
-            "Authors ": [
-                "Rob Grant",
-                " Doug Naylor"
-            ],
-            "Genres ": [
-                "Science Fiction",
-                " Speculative fiction"
-            ],
-            "People also search for": []
-        },
-        "Children of Dune": {
-            "label": "Children of Dune",
-            "description": "Children of Dune is a 1976 science fiction novel by Frank Herbert, third in a series of six novels set in his Dune universe. Initially selling over 75,000 copies, it became the first hardcover best-seller ever in the science fiction field. Wikipedia",
+        "Family Without a Name": {
+            "label": "Family Without a Name",
+            "description": "Family Without a Name is an 1889 adventure novel by Jules Verne about the life of a family in Lower Canada during the Lower Canada Rebellion of 1837 and 1838 that sought an independent and democratic republic for Lower Canada. Wikipedia",
             "type": "",
             "Published ": [
-                "1976"
+                "1889"
             ],
             "Author ": [
-                "Frank Herbert"
+                "Jules Verne"
             ],
             "Preceded by ": [
-                "Dune Messiah"
+                "Two Years' Vacation"
             ],
             "Followed by ": [
-                "God Emperor of Dune"
-            ],
-            "Adaptations ": [
-                "Frank Herbert's Children of Dune (2003)",
-                " Frank Herbert's Children of Dune"
-            ],
-            "Characters ": [
-                "Paul Atreides",
-                " Irulan Corrino",
-                " Hayt"
-            ],
-            "People also search for": []
-        },
-        "Billy Liar": {
-            "label": "Billy Liar",
-            "description": "Billy Liar is a 1959 novel by Keith Waterhouse, which was later adapted into a play, a film, a musical and a TV series. The work has inspired and featured in a number of popular songs. Wikipedia",
-            "type": "",
-            "Published ": [
-                "1959"
-            ],
-            "Author ": [
-                "Keith Waterhouse"
-            ],
-            "Genre ": [
-                "Fiction"
-            ],
-            "Adaptations ": [
-                "Billy Liar (1963)",
-                " Billy Liar"
-            ],
-            "Related Keith Waterhouse books": []
-        },
-        "Berlin Alexanderplatz": {
-            "label": "Berlin Alexanderplatz",
-            "description": "Berlin Alexanderplatz is a 1929 novel by Alfred Döblin and is considered one of the most important and innovative works of the Weimar Republic. Wikipedia",
-            "type": "",
-            "Author ": [
-                "Alfred Döblin"
-            ],
-            "Genre ": [
-                "Novel"
-            ],
-            "Adaptations ": [
-                "Berlin Alexanderplatz (1980)",
-                " Berlin-Alexanderplatz (1931)"
-            ],
-            "People also search for": []
-        },
-        "Death in the Afternoon": {
-            "label": "Death in the Afternoon",
-            "description": "Death in the Afternoon is a non-fiction book written by Ernest Hemingway about the ceremony and traditions of Spanish bullfighting, published in 1932. Wikipedia",
-            "type": "",
-            "Published ": [
-                "1932"
-            ],
-            "Author ": [
-                "Ernest Hemingway"
-            ],
-            "Preceded by ": [
-                "A Farewell to Arms"
-            ],
-            "Followed by ": [
-                "Winner Take Nothing"
-            ],
-            "Genres ": [
-                "Fiction",
-                " Travel literature"
-            ],
-            "Related Ernest Hemingway books": []
-        },
-        "Eugene Onegin": {
-            "label": "Eugene Onegin",
-            "description": "Eugene Onegin is a novel in verse written by Alexander Pushkin.\nIt is a classic of Russian literature, and its eponymous protagonist has served as the model for a number of Russian literary heroes. Wikipedia",
-            "type": "",
-            "Published ": [
-                "1825"
-            ],
-            "Authors ": [
-                "Aleksandr Pushkin",
-                " Aleksandr Sergeevich Pushkin"
-            ],
-            "Original language ": [
-                "Russian"
-            ],
-            "Adaptations ": [
-                "Eugene Onegin (Glyndebourne Opera) (2002)",
-                " Eugene Onegin"
-            ],
-            "Characters ": [
-                "Vladimir Lensky",
-                " Olga Larina",
-                " Tatyana Larina",
-                " Eugene Onegin"
+                "The Purchase of the North Pole"
             ],
             "Genres ": [
                 "Fiction",
                 " Novel",
-                " Poetry"
+                " Adventure fiction",
+                " Historical fiction"
             ],
             "People also search for": []
         },
-        "Empire Falls": {
-            "label": "Empire Falls",
-            "description": "Empire Falls is a 2001 novel written by Richard Russo. It won the Pulitzer Prize for Fiction in 2002, and follows the story of Miles Roby in a fictional, small blue-collar town in Maine and the people, ... Wikipedia",
+        "Fanny Hill": {
+            "label": "Fanny Hill",
+            "description": "Memoirs of a Woman of Pleasure is an erotic novel by English novelist John Cleland first published in London in 1748. Wikipedia",
             "type": "",
-            "Published ": "May 8, 2001",
             "Author ": [
-                "Richard Russo"
+                "John Cleland"
+            ],
+            "Illustrator ": [
+                "Édouard-Henri Avril"
             ],
             "Adaptations ": [
-                "Empire Falls (2005)",
-                " Empire Falls (2005)"
+                "Fanny Hill Unrated (2007)",
+                " Paprika (1991)",
+                " Fanny Hill (1983)",
+                " Fanny Hill"
             ],
             "Genres ": [
                 "Fiction",
-                " Novel"
+                " Erotic literature"
             ],
             "People also search for": []
         }
     },
     "summary": {
-        "label": 96,
-        "description": 96,
-        "type": 96,
-        "Published ": 83,
-        "Author ": 76,
-        "Preceded by ": 26,
-        "Followed by ": 27,
-        "Genres ": 58,
-        "People also search for": 66,
-        "Adaptations ": 26,
-        "Characters ": 25,
-        "Genre ": 15,
-        "Related Edgar Allan Poe books": 1,
-        "Related Jules Verne books": 1,
-        "Playwright ": 3,
-        "Illustrator ": 3,
-        "See results about": 4,
-        "Related Dorothy M. Johnson books": 1,
-        "Related John Irving books": 1,
-        "Release date ": 3,
-        "Director ": 7,
-        "Adapted from ": 4,
-        "Story by ": 4,
-        "Awards ": 2,
-        "Cast": 7,
-        "Kurt Vonnegut books": 1,
-        "Authors ": 7,
-        "Prequel ": 1,
-        "Sequel ": 1,
-        "Related Jack Kerouac books": 2,
-        "Initial release ": 4,
-        "Screenplay ": 4,
-        "Languages ": 1,
-        "MPAA rating ": 2,
-        "Initial DVD release ": 1,
-        "Umberto Eco books": 1,
-        "François-René de Chateaubriand books": 1,
-        "Philip Ardagh books": 1,
-        "Victor Hugo books": 1,
-        "Original language ": 3,
-        "Stephen King books": 1,
-        "Related Italo Calvino books": 1,
-        "Related Agatha Christie books": 1,
-        "Books ": 1,
-        "Related Maarten 't Hart books": 1,
-        "Running time ": 1,
-        "Music composed by ": 1,
-        "Related Stephen King books": 1,
-        "Paulo Coelho books": 1,
-        "People also search for ": 2,
-        "Dan Brown books": 1,
-        "Anthony Horowitz books": 1,
-        "Related Keith Waterhouse books": 1,
-        "Related Ernest Hemingway books": 1
+        "label": 90,
+        "description": 90,
+        "type": 90,
+        "published": 1,
+        "author": 1,
+        "preceded_by": 1,
+        "followed_by": 1,
+        "adaptations": 1,
+        "characters": 1,
+        "people_also_search_for": 1,
+        "genres": 1,
+        "genre": 1,
+        "related_edgar_allan_poe_books": 1,
+        "related_jules_verne_books": 1,
+        "related_dorothy_m._johnson_books": 1,
+        "kurt_vonnegut_books": 1,
+        "playwright": 1,
+        "illustrator": 1,
+        "see_results_about": 1,
+        "related_john_irving_books": 1,
+        "authors": 1,
+        "release_date": 1,
+        "director": 1,
+        "adapted_from": 1,
+        "story_by": 1,
+        "awards": 1,
+        "cast": 1,
+        "prequel": 1,
+        "sequel": 1,
+        "françois-rené_de_chateaubriand_books": 1,
+        "related_jack_kerouac_books": 1,
+        "philip_ardagh_books": 1,
+        "umberto_eco_books": 1,
+        "initial_release": 1,
+        "screenplay": 1,
+        "languages": 1,
+        "mpaa_rating": 1,
+        "initial_dvd_release": 1,
+        "victor_hugo_books": 1,
+        "stephen_king_books": 1,
+        "original_language": 1,
+        "related_italo_calvino_books": 1,
+        "related_agatha_christie_books": 1,
+        "books": 1,
+        "related_maarten_'t_hart_books": 1,
+        "running_time": 1,
+        "music_composed_by": 1,
+        "related_stephen_king_books": 1,
+        "dan_brown_books": 1,
+        "anthony_horowitz_books": 1,
+        "paulo_coelho_books": 1
     },
     "infoboxless": [
         "A Dangerous Game",
+        "A Little Princess",
+        "Better Than Life",
+        "Billy Liar",
         "Bratrstvo",
-        "Executive Orders",
-        "Cool Gardens"
+        "Children of Dune",
+        "Death in the Afternoon",
+        "Empire Falls",
+        "Eugene Onegin",
+        "Executive Orders"
     ]
 }

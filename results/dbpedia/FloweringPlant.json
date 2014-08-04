@@ -33,17 +33,6 @@
                 "Common Grape Vine"
             ]
         },
-        "Albana (grape)": {
-            "label": "Albana",
-            "description": "Albana is a white Italian wine grape planted primarily in the Emilia-Romagna region.\nThe wine made from the grape, Albana di Romagna, was first awarded DOCG status in 1987. Wikipedia",
-            "type": "",
-            "Rank ": [
-                "Cultivar"
-            ],
-            "Higher classification ": [
-                "Common Grape Vine"
-            ]
-        },
         "Agrostis capillaris": {
             "label": "Agrostis capillaris",
             "description": "Agrostis capillaris is a rhizomatous and stoloniferous perennial in the grass family. It is native to Eurasia and has been widely introduced in many parts of the world. Wikipedia",
@@ -57,6 +46,36 @@
             "Rank ": [
                 "Species"
             ]
+        },
+        "Albana (grape)": {
+            "label": "Albana",
+            "description": "Albana is a white Italian wine grape planted primarily in the Emilia-Romagna region.\nThe wine made from the grape, Albana di Romagna, was first awarded DOCG status in 1987. Wikipedia",
+            "type": "",
+            "Rank ": [
+                "Cultivar"
+            ],
+            "Higher classification ": [
+                "Common Grape Vine"
+            ]
+        },
+        "Ampelopsis": {
+            "label": "Ampelopsis",
+            "description": "Ampelopsis is a genus of climbing shrubs, in the grape family Vitaceae. The name is derived from the Greek word ampelos, which means \"vine\". The genus was named in 1803. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Ampelopsis"
+            ],
+            "Rank ": [
+                "Genus"
+            ],
+            "Higher classification ": [
+                "Vitaceae"
+            ],
+            "Lower classifications ": [
+                "Ampelopsis arborea",
+                " Ampelopsis brevipedunculata"
+            ],
+            "See results about": []
         },
         "Ancellotta": {
             "label": "Ancellotta",
@@ -82,25 +101,6 @@
             "Rank ": [
                 "Species"
             ]
-        },
-        "Ampelopsis": {
-            "label": "Ampelopsis",
-            "description": "Ampelopsis is a genus of climbing shrubs, in the grape family Vitaceae. The name is derived from the Greek word ampelos, which means \"vine\". The genus was named in 1803. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Ampelopsis"
-            ],
-            "Rank ": [
-                "Genus"
-            ],
-            "Higher classification ": [
-                "Vitaceae"
-            ],
-            "Lower classifications ": [
-                "Ampelopsis arborea",
-                " Ampelopsis brevipedunculata"
-            ],
-            "See results about": []
         },
         "Anemone trifolia": {
             "label": "Anemone trifolia",
@@ -135,10 +135,16 @@
                 "Common Grape Vine"
             ]
         },
-        "Bombino Bianco": {
-            "label": "Bombino bianco",
-            "description": "Bombino bianco is a white Italian wine grape variety planted primarily along Italy's Adriatic coast line, most notably in Puglia. The vine is prone to high yields and often produces neutral flavor wines. Wikipedia",
-            "type": "Grape Variety"
+        "Blauburger": {
+            "label": "Blauburger",
+            "description": "Blauburger is a red wine grape variety that is grown a little in Austria and Hungary. Wikipedia",
+            "type": "Grape Variety",
+            "Rank ": [
+                "Cultivar"
+            ],
+            "Higher classification ": [
+                "Common Grape Vine"
+            ]
         },
         "Blaufränkisch": {
             "label": "Blaufränkisch",
@@ -151,16 +157,10 @@
                 "Common Grape Vine"
             ]
         },
-        "Blauburger": {
-            "label": "Blauburger",
-            "description": "Blauburger is a red wine grape variety that is grown a little in Austria and Hungary. Wikipedia",
-            "type": "Grape Variety",
-            "Rank ": [
-                "Cultivar"
-            ],
-            "Higher classification ": [
-                "Common Grape Vine"
-            ]
+        "Bombino Bianco": {
+            "label": "Bombino bianco",
+            "description": "Bombino bianco is a white Italian wine grape variety planted primarily along Italy's Adriatic coast line, most notably in Puglia. The vine is prone to high yields and often produces neutral flavor wines. Wikipedia",
+            "type": "Grape Variety"
         },
         "Breidecker": {
             "label": "Breidecker",
@@ -169,6 +169,11 @@
             "Rank ": [
                 "Hybrid"
             ]
+        },
+        "Bronner (grape)": {
+            "label": "Bronner",
+            "description": "Bronner is a white grape variety used for wine. It was bred in 1975 by Norbert Becker at the viticultural institute in Freiburg, Germany. Wikipedia",
+            "type": "Grape Variety"
         },
         "Burmese grape": {
             "label": "Baccaurea ramiflora",
@@ -185,9 +190,17 @@
             ],
             "People also search for": []
         },
-        "Bronner (grape)": {
-            "label": "Bronner",
-            "description": "Bronner is a white grape variety used for wine. It was bred in 1975 by Norbert Becker at the viticultural institute in Freiburg, Germany. Wikipedia",
+        "Ciliegiolo": {
+            "label": "Ciliegiolo",
+            "description": "Ciliegiolo is a variety of red wine grape from Italy, named after the Italian for 'cherry'. It is a minor component of traditional blends such as Chianti, but interest has revived in recent years. Wikipedia",
+            "type": "Grape Variety",
+            "Rank ": [
+                "Cultivar"
+            ]
+        },
+        "Colombard": {
+            "label": "Colombard",
+            "description": "Colombard is a white French wine grape variety that is the offspring of Gouais blanc and Chenin blanc. This makes the grape the sibling of the Armagnac Meslier-Saint-François and the nearly extinct Cognac grape Balzac blanc. Wikipedia",
             "type": "Grape Variety"
         },
         "Combretaceae": {
@@ -211,22 +224,6 @@
                 " Buchenavia",
                 " Anogeissus",
                 " Terminalia"
-            ]
-        },
-        "Colombard": {
-            "label": "Colombard",
-            "description": "Colombard is a white French wine grape variety that is the offspring of Gouais blanc and Chenin blanc. This makes the grape the sibling of the Armagnac Meslier-Saint-François and the nearly extinct Cognac grape Balzac blanc. Wikipedia",
-            "type": "Grape Variety"
-        },
-        "Cornus alba": {
-            "label": "Cornus alba",
-            "description": "Cornus alba is a species of flowering plant in the family Cornaceae, native to Siberia, northern China and Korea. It is a large suckering shrub that can be grown as a small tree. Wikipedia",
-            "type": "Plant",
-            "Scientific name ": [
-                "Cornus alba"
-            ],
-            "Higher classification ": [
-                "Cornus"
             ]
         },
         "Conocarpus": {
@@ -265,6 +262,25 @@
                 " Consolida ajacis"
             ],
             "See results about": []
+        },
+        "Cornus alba": {
+            "label": "Cornus alba",
+            "description": "Cornus alba is a species of flowering plant in the family Cornaceae, native to Siberia, northern China and Korea. It is a large suckering shrub that can be grown as a small tree. Wikipedia",
+            "type": "Plant",
+            "Scientific name ": [
+                "Cornus alba"
+            ],
+            "Higher classification ": [
+                "Cornus"
+            ]
+        },
+        "Decaisnea": {
+            "label": "Decaisnea",
+            "description": "Decaisnea, known commonly as dead man's fingers, is a genus of flowering plant in the family Lardizabalaceae. It is native to eastern Asia, from China west to Nepal and south to Myanmar. Wikipedia",
+            "type": "",
+            "Rank ": [
+                "Genus"
+            ]
         },
         "Dendrobium": {
             "label": "Dendrobium",
@@ -333,26 +349,21 @@
                 " …"
             ]
         },
-        "Ciliegiolo": {
-            "label": "Ciliegiolo",
-            "description": "Ciliegiolo is a variety of red wine grape from Italy, named after the Italian for 'cherry'. It is a minor component of traditional blends such as Chianti, but interest has revived in recent years. Wikipedia",
-            "type": "Grape Variety",
+        "Dillhoffia": {
+            "label": "Dillhoffia",
+            "description": "Dillhoffia is an extinct monotypic genus of flowering plant with a single species, Dillhoffia cachensis known from Ypresian age Eocene fossils found in British Columbia, Canada, and Washington, USA. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Dillhoffia cachensis"
+            ],
             "Rank ": [
-                "Cultivar"
+                "Genus"
             ]
         },
         "Diolinoir": {
             "label": "Diolinoir",
             "description": "Diolinoir is a variety of red wine grape. It was created by André Jaquinet at Station Fédérale de Recheres en Production Végétale de Changins in 1970 by crossing Rouge de Diolly and Pinot noir. Wikipedia",
             "type": ""
-        },
-        "Decaisnea": {
-            "label": "Decaisnea",
-            "description": "Decaisnea, known commonly as dead man's fingers, is a genus of flowering plant in the family Lardizabalaceae. It is native to eastern Asia, from China west to Nepal and south to Myanmar. Wikipedia",
-            "type": "",
-            "Rank ": [
-                "Genus"
-            ]
         },
         "Dornfelder": {
             "label": "Dornfelder",
@@ -365,16 +376,10 @@
                 "Common Grape Vine"
             ]
         },
-        "Dillhoffia": {
-            "label": "Dillhoffia",
-            "description": "Dillhoffia is an extinct monotypic genus of flowering plant with a single species, Dillhoffia cachensis known from Ypresian age Eocene fossils found in British Columbia, Canada, and Washington, USA. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Dillhoffia cachensis"
-            ],
-            "Rank ": [
-                "Genus"
-            ]
+        "Epilobium parviflorum": {
+            "label": "Epilobium parviflorum",
+            "description": "Epilobium parviflorum, commonly known as Smallflower Hairy Willowherb, is a herbaceous perennial plant belonging to the Onagraceae family. Wikipedia",
+            "type": ""
         },
         "Erodium cicutarium": {
             "label": "Erodium cicutarium",
@@ -390,16 +395,6 @@
                 "Species"
             ]
         },
-        "Faberrebe": {
-            "label": "Faberrebe",
-            "description": "Faberrebe or Faber is a grape variety used for white wine. It was created in 1929 by Georg Scheu at the Landesanstalt für Rebenzüchtung in Alzey and was released with varietal protection in 1967. Wikipedia",
-            "type": "Grape Variety"
-        },
-        "Freisamer": {
-            "label": "Freisamer",
-            "description": "Freisamer is a white German wine grape variety grown primarily in the Baden region with some plantings in eastern Switzerland. Wikipedia",
-            "type": "Grape Variety"
-        },
         "Erodium moschatum": {
             "label": "Erodium moschatum",
             "description": "Erodium moschatum is a species of flowering plant in the geranium family known by the common names musky stork's bill and whitestem filaree. Wikipedia",
@@ -414,14 +409,24 @@
                 "Erodium"
             ]
         },
-        "Epilobium parviflorum": {
-            "label": "Epilobium parviflorum",
-            "description": "Epilobium parviflorum, commonly known as Smallflower Hairy Willowherb, is a herbaceous perennial plant belonging to the Onagraceae family. Wikipedia",
-            "type": ""
+        "Faberrebe": {
+            "label": "Faberrebe",
+            "description": "Faberrebe or Faber is a grape variety used for white wine. It was created in 1929 by Georg Scheu at the Landesanstalt für Rebenzüchtung in Alzey and was released with varietal protection in 1967. Wikipedia",
+            "type": "Grape Variety"
         },
         "Falanghina": {
             "label": "Falanghina",
             "description": "Falanghina, also called Falanghina Greco, is a variety of wine grape, Vitis vinifera, used for white wines. It is an ancient grape variety which may have provided a basis for the classical Falernian wine, and has considerable character. Wikipedia",
+            "type": "Grape Variety"
+        },
+        "Freisamer": {
+            "label": "Freisamer",
+            "description": "Freisamer is a white German wine grape variety grown primarily in the Baden region with some plantings in eastern Switzerland. Wikipedia",
+            "type": "Grape Variety"
+        },
+        "Garganega": {
+            "label": "Garganega",
+            "description": "Garganega is a variety of white Italian wine grape widely grown in the Veneto region of North East Italy, particularly in the provinces of Verona and Vicenza. It is Italy's 6th most widely planted white grape. Wikipedia",
             "type": "Grape Variety"
         },
         "Gaglioppo": {
@@ -440,19 +445,6 @@
             "description": "Geranium columbinum, common name Long-stalked Crane's-bill or Longstalk Cranesbill, is a herbaceous annual plant in the Geraniaceae family. Wikipedia",
             "type": ""
         },
-        "Garganega": {
-            "label": "Garganega",
-            "description": "Garganega is a variety of white Italian wine grape widely grown in the Veneto region of North East Italy, particularly in the provinces of Verona and Vicenza. It is Italy's 6th most widely planted white grape. Wikipedia",
-            "type": "Grape Variety"
-        },
-        "Geranium macrorrhizum": {
-            "label": "Geranium macrorrhizum",
-            "description": "Geranium macrorrhizum is a species of hardy flowering herbaceous perennial plant in the genus Geranium, Geraniaceae family. It is native to the South east Alps and the Balkans. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Geranium macrorrhizum"
-            ]
-        },
         "Geranium dissectum": {
             "label": "Geranium dissectum",
             "description": "Geranium dissectum or Cut-leaved Cranesbill is a plant species of the genus Geranium. It is native to Europe.\nIt can be found on other continents as an introduced species. Wikipedia",
@@ -467,18 +459,12 @@
                 "Geranium"
             ]
         },
-        "Geranium sylvaticum": {
-            "label": "Geranium sylvaticum",
-            "description": "Geranium sylvaticum is a species of hardy flowering plant in the Geraniaceae family, native to Europe and northern Turkey. Wikipedia",
-            "type": "Plant",
+        "Geranium macrorrhizum": {
+            "label": "Geranium macrorrhizum",
+            "description": "Geranium macrorrhizum is a species of hardy flowering herbaceous perennial plant in the genus Geranium, Geraniaceae family. It is native to the South east Alps and the Balkans. Wikipedia",
+            "type": "",
             "Scientific name ": [
-                "Geranium sylvaticum"
-            ],
-            "Higher classification ": [
-                "Geranium"
-            ],
-            "Rank ": [
-                "Species"
+                "Geranium macrorrhizum"
             ]
         },
         "Geranium sanguineum": {
@@ -487,6 +473,20 @@
             "type": "Plant",
             "Scientific name ": [
                 "Geranium sanguineum"
+            ],
+            "Higher classification ": [
+                "Geranium"
+            ],
+            "Rank ": [
+                "Species"
+            ]
+        },
+        "Geranium sylvaticum": {
+            "label": "Geranium sylvaticum",
+            "description": "Geranium sylvaticum is a species of hardy flowering plant in the Geraniaceae family, native to Europe and northern Turkey. Wikipedia",
+            "type": "Plant",
+            "Scientific name ": [
+                "Geranium sylvaticum"
             ],
             "Higher classification ": [
                 "Geranium"
@@ -519,27 +519,6 @@
             "Higher classification ": [
                 "Common Grape Vine"
             ]
-        },
-        "Heroldrebe": {
-            "label": "Heroldrebe",
-            "description": "Heroldrebe is a red German wine grape variety produced by crossing Blauer Portugieser and Lemberger. It was created by August Herold at the grape breeding institute in Weinsberg in the Württemberg region in 1929, and was named after him. Wikipedia",
-            "type": "Grape Variety",
-            "Rank ": [
-                "Cultivar"
-            ],
-            "Higher classification ": [
-                "Common Grape Vine"
-            ]
-        },
-        "Kerner (grape)": {
-            "label": "Kerner",
-            "description": "The Kerner grape is an aromatic white grape variety. It was bred in 1929 by August Herold by crossing Trollinger and Riesling. Herold was working at a plant breeding station in Lauffen in the Württemberg region of Germany. Wikipedia",
-            "type": "Grape Variety"
-        },
-        "Huxelrebe": {
-            "label": "Huxelrebe",
-            "description": "Huxelrebe is a white grape used for wine. Huxelrebe is primarily found in Germany, where the cultivated area covered 677 hectares in 2006, with a decreasing trend. It is primarily found in the German wine regions Rheinhessen, Palatinate and Nahe. Wikipedia",
-            "type": "Grape Variety"
         },
         "Heliconia": {
             "label": "Heliconia",
@@ -575,10 +554,26 @@
                 " Heliconia berryiMore"
             ]
         },
-        "Lumnitzera": {
-            "label": "Lumnitzera",
-            "description": "Lumnitzera is an Indo-West Pacific mangrove genus in the family Combretaceae. The English common name is Black Mangrove. Wikipedia",
-            "type": ""
+        "Heroldrebe": {
+            "label": "Heroldrebe",
+            "description": "Heroldrebe is a red German wine grape variety produced by crossing Blauer Portugieser and Lemberger. It was created by August Herold at the grape breeding institute in Weinsberg in the Württemberg region in 1929, and was named after him. Wikipedia",
+            "type": "Grape Variety",
+            "Rank ": [
+                "Cultivar"
+            ],
+            "Higher classification ": [
+                "Common Grape Vine"
+            ]
+        },
+        "Huxelrebe": {
+            "label": "Huxelrebe",
+            "description": "Huxelrebe is a white grape used for wine. Huxelrebe is primarily found in Germany, where the cultivated area covered 677 hectares in 2006, with a decreasing trend. It is primarily found in the German wine regions Rheinhessen, Palatinate and Nahe. Wikipedia",
+            "type": "Grape Variety"
+        },
+        "Kerner (grape)": {
+            "label": "Kerner",
+            "description": "The Kerner grape is an aromatic white grape variety. It was bred in 1929 by August Herold by crossing Trollinger and Riesling. Herold was working at a plant breeding station in Lauffen in the Württemberg region of Germany. Wikipedia",
+            "type": "Grape Variety"
         },
         "Lesser celandine": {
             "label": "Lesser celandine",
@@ -595,19 +590,10 @@
             ],
             "People also search for": []
         },
-        "Lythrum portula": {
-            "label": "Lythrum portula",
-            "description": "Lythrum portula is a species of flowering plant in the loosestrife family known by the common name spatulaleaf loosestrife. It is native to Europe, and it is found in parts of western North America as an introduced species. Wikipedia",
-            "type": "Plant",
-            "Scientific name ": [
-                "Lythrum portula"
-            ],
-            "Rank ": [
-                "Species"
-            ],
-            "Higher classification ": [
-                "Lythrum"
-            ]
+        "Lumnitzera": {
+            "label": "Lumnitzera",
+            "description": "Lumnitzera is an Indo-West Pacific mangrove genus in the family Combretaceae. The English common name is Black Mangrove. Wikipedia",
+            "type": ""
         },
         "Mangifera indica": {
             "label": "Mangifera indica",
@@ -623,6 +609,20 @@
                 "Mangifera"
             ],
             "See results about": []
+        },
+        "Lythrum portula": {
+            "label": "Lythrum portula",
+            "description": "Lythrum portula is a species of flowering plant in the loosestrife family known by the common name spatulaleaf loosestrife. It is native to Europe, and it is found in parts of western North America as an introduced species. Wikipedia",
+            "type": "Plant",
+            "Scientific name ": [
+                "Lythrum portula"
+            ],
+            "Rank ": [
+                "Species"
+            ],
+            "Higher classification ": [
+                "Lythrum"
+            ]
         },
         "Melaleuca": {
             "label": "Melaleuca",
@@ -664,10 +664,32 @@
                 "Common Grape Vine"
             ]
         },
+        "Muscat Ottonel": {
+            "label": "Muscat Ottonel",
+            "description": "Muscat Ottonel or Muskat-Ottonel is a white wine grape that is a member of the Muscat family of Vitis vinifera. It is most notable for its use in dessert wines from Austria, Croatia and Serbia as well as dry wines from Alsace and Hungary. Wikipedia",
+            "type": "Varietal",
+            "Rank ": [
+                "Cultivar"
+            ],
+            "Higher classification ": [
+                "Common Grape Vine"
+            ]
+        },
         "Negroamaro": {
             "label": "Negroamaro",
             "description": "Negroamaro, is a red wine grape variety native to southern Italy. It is grown almost exclusively in Puglia and particularly in Salento, the peninsula which can be visualised as the “heel” of Italy. The grape can produce wines very deep in color. Wikipedia",
             "type": "Grape Variety",
+            "Rank ": [
+                "Cultivar"
+            ],
+            "Higher classification ": [
+                "Common Grape Vine"
+            ]
+        },
+        "Optima (grape)": {
+            "label": "Optima",
+            "description": "Optima is a white wine grape that was created by viticulturalist Peter Morio at the Geilweilerhof Institute for Grape Breeding in the Palatinate in 1930. Morio crossed a Riesling x Silvaner cross with Müller-Thurgau. Wikipedia",
+            "type": "Plant",
             "Rank ": [
                 "Cultivar"
             ],
@@ -739,39 +761,6 @@
                 " …"
             ]
         },
-        "Muscat Ottonel": {
-            "label": "Muscat Ottonel",
-            "description": "Muscat Ottonel or Muskat-Ottonel is a white wine grape that is a member of the Muscat family of Vitis vinifera. It is most notable for its use in dessert wines from Austria, Croatia and Serbia as well as dry wines from Alsace and Hungary. Wikipedia",
-            "type": "Varietal",
-            "Rank ": [
-                "Cultivar"
-            ],
-            "Higher classification ": [
-                "Common Grape Vine"
-            ]
-        },
-        "Optima (grape)": {
-            "label": "Optima",
-            "description": "Optima is a white wine grape that was created by viticulturalist Peter Morio at the Geilweilerhof Institute for Grape Breeding in the Palatinate in 1930. Morio crossed a Riesling x Silvaner cross with Müller-Thurgau. Wikipedia",
-            "type": "Plant",
-            "Rank ": [
-                "Cultivar"
-            ],
-            "Higher classification ": [
-                "Common Grape Vine"
-            ]
-        },
-        "Pelaverga": {
-            "label": "Pelaverga",
-            "description": "Pelaverga is a red wine grape variety native to Piedmont. It is described as rare and pale, prone to make lightly sparkling, strawberry-flavoured wines.\nIt may also be used as a table grape. Wikipedia",
-            "type": "Grape Variety",
-            "Rank ": [
-                "Cultivar"
-            ],
-            "Higher classification ": [
-                "Common Grape Vine"
-            ]
-        },
         "Pelargonium sidoides": {
             "label": "Pelargonium sidoides",
             "description": "Pelargonium sidoides is a medicinal plant native to South Africa. Its common names include Umckaloabo and South African Geranium. Wikipedia",
@@ -784,6 +773,17 @@
             "label": "Pearl of Csaba",
             "description": "Pearl of Csaba is a white variety of grape. It was created in 1904 by the Hungarian viticulturalist Adolf Stark, presumably by crossing Madeleine Angevine × Muscat Courtillier. Wikipedia",
             "type": "Grape Variety"
+        },
+        "Pelaverga": {
+            "label": "Pelaverga",
+            "description": "Pelaverga is a red wine grape variety native to Piedmont. It is described as rare and pale, prone to make lightly sparkling, strawberry-flavoured wines.\nIt may also be used as a table grape. Wikipedia",
+            "type": "Grape Variety",
+            "Rank ": [
+                "Cultivar"
+            ],
+            "Higher classification ": [
+                "Common Grape Vine"
+            ]
         },
         "Petit Manseng": {
             "label": "Petit Manseng",
@@ -801,6 +801,11 @@
                 "Common Grape Vine"
             ]
         },
+        "Petit Meslier": {
+            "label": "Petit Meslier",
+            "description": "Petit Meslier is a rare white wine grape that is a minor component of some Champagne blends. It is valued for its ability to retain acidity even in hot vintages. In the very rare cases where it is not blended, it makes crisp wines tasting of apples. Wikipedia",
+            "type": "Grape Variety"
+        },
         "Pink Ivory": {
             "label": "Pink Ivory",
             "description": "Pink Ivory, also called Red Ivory, umNini or umGoloty, is a very rare African wood used to make luxury products. The Pink Ivory tree grows predominantly in Zimbabwe, Mozambique and South Africa. Wikipedia",
@@ -808,11 +813,6 @@
             "Scientific name ": [
                 "Berchemia zeyheri"
             ]
-        },
-        "Petit Meslier": {
-            "label": "Petit Meslier",
-            "description": "Petit Meslier is a rare white wine grape that is a minor component of some Champagne blends. It is valued for its ability to retain acidity even in hot vintages. In the very rare cases where it is not blended, it makes crisp wines tasting of apples. Wikipedia",
-            "type": "Grape Variety"
         },
         "Pinot gris": {
             "label": "Pinot Gris",
@@ -823,39 +823,6 @@
             ],
             "Rank ": [
                 "Cultivar"
-            ]
-        },
-        "Planera aquatica": {
-            "label": "Planera aquatica",
-            "description": "Planera aquatica, or Water Elm is single species in the southeastern United States, a small deciduous tree 10–15 m tall, closely related to the Elms but with a softly, prickly nut 10–15 mm diameter, instead of a winged seed. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Planera aquatica"
-            ],
-            "Rank ": [
-                "Species"
-            ],
-            "Higher classification ": [
-                "Planera"
-            ]
-        },
-        "Rotberger": {
-            "label": "Rotberger",
-            "description": "Rotberger is a wine grape variety. Its parentage is not known with certainty but it is thought to be from a cross of Trollinger and Riesling grapes. Dr. Heinrich Birk produced the cross at the Geisenheim Grape Breeding Institute in 1928. Wikipedia",
-            "type": "Grape Variety",
-            "Rank ": [
-                "Cultivar"
-            ],
-            "Higher classification ": [
-                "Common Grape Vine"
-            ]
-        },
-        "Rhamnella": {
-            "label": "Rhamnella",
-            "description": "Rhamnella is a genus of plant in the family Rhamnaceae.\nSpecies include\nRhamnella caudata Merr. & Chun\nRhamnella forrestii W.W. Sm.\nRhamnella franguloides Weberb.\nRhamnella gilgitica Mansf. & Melch.\nRhamnella julianae C.K. Schneid. Wikipedia",
-            "type": "",
-            "Rank ": [
-                "Genus"
             ]
         },
         "Rhamnales": {
@@ -877,26 +844,48 @@
                 " Elaeagnaceae"
             ]
         },
+        "Planera aquatica": {
+            "label": "Planera aquatica",
+            "description": "Planera aquatica, or Water Elm is single species in the southeastern United States, a small deciduous tree 10–15 m tall, closely related to the Elms but with a softly, prickly nut 10–15 mm diameter, instead of a winged seed. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Planera aquatica"
+            ],
+            "Rank ": [
+                "Species"
+            ],
+            "Higher classification ": [
+                "Planera"
+            ]
+        },
+        "Rhamnella": {
+            "label": "Rhamnella",
+            "description": "Rhamnella is a genus of plant in the family Rhamnaceae.\nSpecies include\nRhamnella caudata Merr. & Chun\nRhamnella forrestii W.W. Sm.\nRhamnella franguloides Weberb.\nRhamnella gilgitica Mansf. & Melch.\nRhamnella julianae C.K. Schneid. Wikipedia",
+            "type": "",
+            "Rank ": [
+                "Genus"
+            ]
+        },
         "Rieslaner": {
             "label": "Rieslaner",
             "description": "Rieslaner is a breed cross of the Silvaner and Riesling grape that was first bred in Veitshöcheim, Franconia, Germany in 1921 by the grape breeder August Ziegler. It is a late ripening grape that is fairly high in acidity. Wikipedia",
             "type": "Grape Variety"
         },
+        "Rotberger": {
+            "label": "Rotberger",
+            "description": "Rotberger is a wine grape variety. Its parentage is not known with certainty but it is thought to be from a cross of Trollinger and Riesling grapes. Dr. Heinrich Birk produced the cross at the Geisenheim Grape Breeding Institute in 1928. Wikipedia",
+            "type": "Grape Variety",
+            "Rank ": [
+                "Cultivar"
+            ],
+            "Higher classification ": [
+                "Common Grape Vine"
+            ]
+        },
         "Rotgipfler": {
             "label": "Rotgipfler",
             "description": "Rotgipfler is a grape variety used to make aromatic white wine. It is almost exclusively found in the Gumpoldskirchen district of the Thermenregion in Austria. It is often blended with Zierfandler to make \"Spätrot-Rotgipfler\". Wikipedia",
             "type": "Grape Variety"
-        },
-        "Sangiovese": {
-            "label": "Sangiovese",
-            "description": "Sangiovese is a red Italian wine grape variety whose name derives from the Latin sanguis Jovis, \"the blood of Jove\". Wikipedia",
-            "type": "Grape Variety",
-            "Higher classification ": [
-                "Common Grape Vine"
-            ],
-            "Rank ": [
-                "Cultivar"
-            ]
         },
         "Roussanne": {
             "label": "Roussanne",
@@ -914,24 +903,35 @@
                 "Common Grape Vine"
             ]
         },
+        "Sangiovese": {
+            "label": "Sangiovese",
+            "description": "Sangiovese is a red Italian wine grape variety whose name derives from the Latin sanguis Jovis, \"the blood of Jove\". Wikipedia",
+            "type": "Grape Variety",
+            "Higher classification ": [
+                "Common Grape Vine"
+            ],
+            "Rank ": [
+                "Cultivar"
+            ]
+        },
+        "Scheurebe": {
+            "label": "Scheurebe",
+            "description": "Scheurebe or Sämling 88 is a white wine grape variety. It is primarily grown in Germany and Austria, where it often is called Sämling 88, and some parts of the New World. Wikipedia",
+            "type": "Grape Variety"
+        },
+        "Sarcococca": {
+            "label": "Sarcococca",
+            "description": "Sarcococca is a genus of 16-20 species of flowering plants in the box family Buxaceae, native to eastern and southeastern Asia and the Himalayas. They are slow-growing, monoecious, evergreen shrubs 1–2 m tall. Wikipedia",
+            "type": "",
+            "Rank ": [
+                "Genus"
+            ],
+            "See results about": []
+        },
         "Siegerrebe": {
             "label": "Siegerrebe",
             "description": "Siegerrebe is a white wine grape that is grown primarily in Germany with some plantings in England, Washington State, British Columbia's North Okanagan and Nova Scotia's Annapolis Valley. Wikipedia",
             "type": "Varietal"
-        },
-        "Sutherlandia frutescens": {
-            "label": "Sutherlandia frutescens",
-            "description": "Sutherlandia frutescens is a southern African legume which has traditionally been used as an indigenous medicine for a variety of ailments.\nIt is a shrub with bitter, aromatic leaves. Red-orange flowers appear in spring to mid-summer. Wikipedia",
-            "type": "Plant",
-            "Scientific name ": [
-                "Sutherlandia frutescens"
-            ],
-            "Rank ": [
-                "Species"
-            ],
-            "Higher classification ": [
-                "Lessertia"
-            ]
         },
         "Sonneratia": {
             "label": "Sonneratia",
@@ -948,10 +948,33 @@
             ],
             "See results about": []
         },
-        "Scheurebe": {
-            "label": "Scheurebe",
-            "description": "Scheurebe or Sämling 88 is a white wine grape variety. It is primarily grown in Germany and Austria, where it often is called Sämling 88, and some parts of the New World. Wikipedia",
-            "type": "Grape Variety"
+        "Sutherlandia frutescens": {
+            "label": "Sutherlandia frutescens",
+            "description": "Sutherlandia frutescens is a southern African legume which has traditionally been used as an indigenous medicine for a variety of ailments.\nIt is a shrub with bitter, aromatic leaves. Red-orange flowers appear in spring to mid-summer. Wikipedia",
+            "type": "Plant",
+            "Scientific name ": [
+                "Sutherlandia frutescens"
+            ],
+            "Rank ": [
+                "Species"
+            ],
+            "Higher classification ": [
+                "Lessertia"
+            ]
+        },
+        "Terminalia catappa": {
+            "label": "Terminalia catappa",
+            "description": "Terminalia catappa is a large tropical tree in the leadwood tree family, Combretaceae, that grows mainly in the tropical regions of Asia, Africa, and Australia. Wikipedia",
+            "type": "Plant",
+            "Scientific name ": [
+                "Terminalia catappa"
+            ],
+            "Higher classification ": [
+                "Terminalia"
+            ],
+            "Rank ": [
+                "Species"
+            ]
         },
         "Terminalia (plant)": {
             "label": "Terminalia",
@@ -973,61 +996,38 @@
                 " Terminalia superba",
                 " Terminalia catappa"
             ]
-        },
-        "Sarcococca": {
-            "label": "Sarcococca",
-            "description": "Sarcococca is a genus of 16-20 species of flowering plants in the box family Buxaceae, native to eastern and southeastern Asia and the Himalayas. They are slow-growing, monoecious, evergreen shrubs 1–2 m tall. Wikipedia",
-            "type": "",
-            "Rank ": [
-                "Genus"
-            ],
-            "See results about": []
-        },
-        "Terminalia catappa": {
-            "label": "Terminalia catappa",
-            "description": "Terminalia catappa is a large tropical tree in the leadwood tree family, Combretaceae, that grows mainly in the tropical regions of Asia, Africa, and Australia. Wikipedia",
-            "type": "Plant",
-            "Scientific name ": [
-                "Terminalia catappa"
-            ],
-            "Higher classification ": [
-                "Terminalia"
-            ],
-            "Rank ": [
-                "Species"
-            ]
         }
     },
     "summary": {
         "label": 82,
         "description": 82,
         "type": 82,
-        "Scientific name ": 34,
-        "Higher classification ": 46,
-        "Rank ": 54,
-        "Lower classifications ": 10,
-        "See results about": 8,
-        "People also search for": 2,
-        "Founder ": 1
+        "scientific_name": 1,
+        "higher_classification": 1,
+        "rank": 1,
+        "lower_classifications": 1,
+        "see_results_about": 1,
+        "people_also_search_for": 1,
+        "founder": 1
     },
     "infoboxless": [
         "Arbois (grape)",
         "Arnsburger",
         "Assyrtiko",
+        "Bladdernut",
         "Catarratto",
         "Chasselas",
         "Fetească albă",
         "Goldburger",
         "Goldriesling",
-        "Malverina",
-        "Petite Arvine",
-        "Rotala rotundifolia",
-        "Sassafras",
-        "Bladdernut",
         "Helfensteiner",
+        "Malverina",
         "Momordica",
-        "Neuburger",
         "Muscardin",
-        "Rapistrum"
+        "Neuburger",
+        "Petite Arvine",
+        "Rapistrum",
+        "Rotala rotundifolia",
+        "Sassafras"
     ]
 }

@@ -6,10 +6,22 @@
             "type": "Concert tour",
             "See results about": []
         },
-        "Space Shuttle Pathfinder": {
-            "label": "Space Shuttle Pathfinder",
-            "description": "The Space Shuttle Orbiter Pathfinder is a Space Shuttle test simulator made of steel and wood. Constructed by NASA in 1977 as an unnamed facilities test article, it was purchased in the early 1980s by ... Wikipedia",
-            "type": ""
+        "Space Shuttle Challenger": {
+            "label": "Space Shuttle Challenger",
+            "description": "Space Shuttle Challenger was NASA's second Space Shuttle orbiter to be put into service, Columbia having been the first. The shuttle was built by Rockwell International's Space Transportation Systems Division in Downey, California. Wikipedia",
+            "type": "",
+            "Max speed ": [
+                "18",
+                "000 mph (28",
+                "968 km/h)"
+            ],
+            "Cost ": [
+                "196 billion USD (2011)"
+            ],
+            "Manufacturer ": [
+                "Rockwell International"
+            ],
+            "People also search for": []
         },
         "Boeing X-20 Dyna-Soar": {
             "label": "Boeing X-20 Dyna-Soar",
@@ -43,9 +55,14 @@
                 "Boeing"
             ]
         },
-        "Space Shuttle Explorer": {
-            "label": "Space Shuttle Independence",
-            "description": "Space Shuttle Independence, formerly known as Explorer, is a full-scale, high-fidelity replica of the Space Shuttle. It was built in Apopka, Florida, by Guard-Lee and installed at Kennedy Space Center Visitor Complex in 1993. Wikipedia",
+        "Space Shuttle Pathfinder": {
+            "label": "Space Shuttle Pathfinder",
+            "description": "The Space Shuttle Orbiter Pathfinder is a Space Shuttle test simulator made of steel and wood. Constructed by NASA in 1977 as an unnamed facilities test article, it was purchased in the early 1980s by ... Wikipedia",
+            "type": ""
+        },
+        "Space Shuttle Atlantis": {
+            "label": "Space Shuttle Atlantis",
+            "description": "",
             "type": ""
         },
         "Space Shuttle Enterprise": {
@@ -60,26 +77,9 @@
             ],
             "People also search for": []
         },
-        "Space Shuttle Challenger": {
-            "label": "Space Shuttle Challenger",
-            "description": "Space Shuttle Challenger was NASA's second Space Shuttle orbiter to be put into service, Columbia having been the first. The shuttle was built by Rockwell International's Space Transportation Systems Division in Downey, California. Wikipedia",
-            "type": "",
-            "Max speed ": [
-                "18",
-                "000 mph (28",
-                "968 km/h)"
-            ],
-            "Cost ": [
-                "196 billion USD (2011)"
-            ],
-            "Manufacturer ": [
-                "Rockwell International"
-            ],
-            "People also search for": []
-        },
-        "Space Shuttle Atlantis": {
-            "label": "Space Shuttle Atlantis",
-            "description": "",
+        "Space Shuttle Explorer": {
+            "label": "Space Shuttle Independence",
+            "description": "Space Shuttle Independence, formerly known as Explorer, is a full-scale, high-fidelity replica of the Space Shuttle. It was built in Apopka, Florida, by Guard-Lee and installed at Kennedy Space Center Visitor Complex in 1993. Wikipedia",
             "type": ""
         }
     },
@@ -87,29 +87,29 @@
         "label": 7,
         "description": 7,
         "type": 7,
-        "See results about": 1,
-        "Top speed ": 1,
-        "Range ": 1,
-        "Length ": 1,
-        "Wingspan ": 1,
-        "Weight ": 1,
-        "Engine type ": 1,
-        "Manufacturer ": 3,
-        "Cost ": 2,
-        "People also search for": 2,
-        "Max speed ": 1
+        "see_results_about": 1,
+        "max_speed": 1,
+        "cost": 1,
+        "manufacturer": 1,
+        "people_also_search_for": 1,
+        "top_speed": 1,
+        "range": 1,
+        "length": 1,
+        "wingspan": 1,
+        "weight": 1,
+        "engine_type": 1
     },
     "infoboxless": [
-        "Hermes (spacecraft)",
         "Ptichka (spacecraft)",
+        "Hermes (spacecraft)",
         "OK-GLI",
-        "Buran (spacecraft)",
+        "Space Shuttle Columbia",
         "Space Shuttle Discovery",
+        "Buran (spacecraft)",
         "Shuttle 2.01",
         "Shuttle 2.02",
         "Shuttle 2.03",
-        "Space Shuttle Inspiration",
         "Hopper (spacecraft)",
-        "Space Shuttle Columbia"
+        "Space Shuttle Inspiration"
     ]
 }

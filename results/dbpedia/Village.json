@@ -16,14 +16,14 @@
                 "Tuesday 1117 AM"
             ]
         },
-        "Úžice, Kutná Hora": {
-            "label": "Úžice (Kutná Hora District)",
-            "description": "Úžice (Kutná Hora District) is a village and municipality in Kutná Hora District in the Central Bohemian Region of the Czech Republic. Wikipedia",
+        "Ørnes": {
+            "label": "Ørnes",
+            "description": "Ørnes is a village and the administrative centre of the municipality of Meløy in Nordland county, Norway. It is located along Norwegian County Road 17, about 6 kilometres south of Reipå and about 5 kilometres north of Eidbukta. Wikipedia",
             "type": "",
             "Weather ": [
-                "43°F (6°C)",
-                " Wind SW at 5 mph (8 km/h)",
-                " 85% Humidity"
+                "50°F (10°C)",
+                " Wind 0 mph (0 km/h)",
+                " 16% Humidity"
             ],
             "Local time ": [
                 "Tuesday 1217 PM"
@@ -42,27 +42,14 @@
                 "Tuesday 1217 PM"
             ]
         },
-        "Ørnes": {
-            "label": "Ørnes",
-            "description": "Ørnes is a village and the administrative centre of the municipality of Meløy in Nordland county, Norway. It is located along Norwegian County Road 17, about 6 kilometres south of Reipå and about 5 kilometres north of Eidbukta. Wikipedia",
+        "Úžice, Kutná Hora": {
+            "label": "Úžice (Kutná Hora District)",
+            "description": "Úžice (Kutná Hora District) is a village and municipality in Kutná Hora District in the Central Bohemian Region of the Czech Republic. Wikipedia",
             "type": "",
             "Weather ": [
-                "50°F (10°C)",
-                " Wind 0 mph (0 km/h)",
-                " 16% Humidity"
-            ],
-            "Local time ": [
-                "Tuesday 1217 PM"
-            ]
-        },
-        "Černíky": {
-            "label": "Černíky",
-            "description": "Černíky is a village and municipality in Nymburk District in the Central Bohemian Region of the Czech Republic. Wikipedia",
-            "type": "",
-            "Weather ": [
-                "41°F (5°C)",
-                " Wind N at 1 mph (2 km/h)",
-                " 91% Humidity"
+                "43°F (6°C)",
+                " Wind SW at 5 mph (8 km/h)",
+                " 85% Humidity"
             ],
             "Local time ": [
                 "Tuesday 1217 PM"
@@ -92,6 +79,35 @@
                 "38°F (3°C)",
                 " Wind SE at 1 mph (2 km/h)",
                 " 91% Humidity"
+            ],
+            "Local time ": [
+                "Tuesday 1217 PM"
+            ]
+        },
+        "Černíky": {
+            "label": "Černíky",
+            "description": "Černíky is a village and municipality in Nymburk District in the Central Bohemian Region of the Czech Republic. Wikipedia",
+            "type": "",
+            "Weather ": [
+                "41°F (5°C)",
+                " Wind N at 1 mph (2 km/h)",
+                " 91% Humidity"
+            ],
+            "Local time ": [
+                "Tuesday 1217 PM"
+            ]
+        },
+        "Černíny": {
+            "label": "Černíny",
+            "description": "Černíny is a village and municipality in Kutná Hora District in the Central Bohemian Region of the Czech Republic. The municipality covers an area of 3.48 square kilometres and as of 2006 it had a population of 384. Wikipedia",
+            "type": "",
+            "Area ": [
+                "6.22 sq miles (16.11 km²)"
+            ],
+            "Weather ": [
+                "44°F (7°C)",
+                " Wind NW at 9 mph (14 km/h)",
+                " 70% Humidity"
             ],
             "Local time ": [
                 "Tuesday 1217 PM"
@@ -187,19 +203,6 @@
                 "Tuesday 1217 PM"
             ]
         },
-        "Łyna, Warmian-Masurian Voivodeship": {
-            "label": "Łyna, Warmian-Masurian Voivodeship",
-            "description": "Łyna is a village in the Warmian-Masurian Voivodeship in Poland, 16 km north of Nidzica in Nidzica County. It has a population of 440. It lies approximately 9 kilometres north of Nidzica and 40 km south of the regional capital Olsztyn. Wikipedia",
-            "type": "",
-            "Weather ": [
-                "38°F (3°C)",
-                " Wind S at 9 mph (14 km/h)",
-                " 97% Humidity"
-            ],
-            "Local time ": [
-                "Tuesday 1217 PM"
-            ]
-        },
         "Čistá (Rakovník District)": {
             "label": "Čistá (Rakovník District)",
             "description": "Čistá (Rakovník District) is a village and municipality in Rakovník District in the Central Bohemian Region of the Czech Republic. Wikipedia",
@@ -208,6 +211,19 @@
                 "43°F (6°C)",
                 " Wind NE at 4 mph (6 km/h)",
                 " 78% Humidity"
+            ],
+            "Local time ": [
+                "Tuesday 1217 PM"
+            ]
+        },
+        "Łyna, Warmian-Masurian Voivodeship": {
+            "label": "Łyna, Warmian-Masurian Voivodeship",
+            "description": "Łyna is a village in the Warmian-Masurian Voivodeship in Poland, 16 km north of Nidzica in Nidzica County. It has a population of 440. It lies approximately 9 kilometres north of Nidzica and 40 km south of the regional capital Olsztyn. Wikipedia",
+            "type": "",
+            "Weather ": [
+                "38°F (3°C)",
+                " Wind S at 9 mph (14 km/h)",
+                " 97% Humidity"
             ],
             "Local time ": [
                 "Tuesday 1217 PM"
@@ -383,6 +399,22 @@
                 "Tuesday 1218 PM"
             ]
         },
+        "Štipoklasy": {
+            "label": "Štipoklasy",
+            "description": "Štipoklasy is a village and municipality in Kutná Hora District in the Central Bohemian Region of the Czech Republic. The municipality covers an area of 3.78 square kilometres and as of 2006 it had a population of 133. Wikipedia",
+            "type": "",
+            "Area ": [
+                "1.459 sq miles (3.78 km²)"
+            ],
+            "Weather ": [
+                "44°F (7°C)",
+                " Wind NW at 9 mph (14 km/h)",
+                " 70% Humidity"
+            ],
+            "Local time ": [
+                "Tuesday 1218 PM"
+            ]
+        },
         "Żółwin, Masovian Voivodeship": {
             "label": "Żółwin, Masovian Voivodeship",
             "description": "Żółwin is a village in the administrative district of Gmina Brwinów, within Pruszków County, Masovian Voivodeship, in east-central Poland. Wikipedia",
@@ -396,17 +428,14 @@
                 "Tuesday 1218 PM"
             ]
         },
-        "Štipoklasy": {
-            "label": "Štipoklasy",
-            "description": "Štipoklasy is a village and municipality in Kutná Hora District in the Central Bohemian Region of the Czech Republic. The municipality covers an area of 3.78 square kilometres and as of 2006 it had a population of 133. Wikipedia",
+        "Žďár nad Orlicí": {
+            "label": "Žďár nad Orlicí",
+            "description": "Žďár nad Orlicí is a village and municipality in Rychnov nad Kněžnou District in the Hradec Králové Region of the Czech Republic.\nThe grocery store is in the municipal office building. Wikipedia",
             "type": "",
-            "Area ": [
-                "1.459 sq miles (3.78 km²)"
-            ],
             "Weather ": [
-                "44°F (7°C)",
-                " Wind NW at 9 mph (14 km/h)",
-                " 70% Humidity"
+                "47°F (8°C)",
+                " Wind N at 3 mph (5 km/h)",
+                " 66% Humidity"
             ],
             "Local time ": [
                 "Tuesday 1218 PM"
@@ -444,6 +473,22 @@
                 "Tuesday 1218 PM"
             ]
         },
+        "Žerčice": {
+            "label": "Žerčice",
+            "description": "Žerčice is a village and municipality in Mladá Boleslav District in the Central Bohemian Region of the Czech Republic. Wikipedia",
+            "type": "",
+            "Area ": [
+                "3.004 sq miles (7.78 km²)"
+            ],
+            "Weather ": [
+                "39°F (4°C)",
+                " Wind 0 mph (0 km/h)",
+                " 88% Humidity"
+            ],
+            "Local time ": [
+                "Tuesday 1218 PM"
+            ]
+        },
         "Ženklava": {
             "label": "Ženklava",
             "description": "Ženklava is a village and municipality in Nový Jičín District in the Moravian-Silesian Region of the Czech Republic. The German-speaking carpenter and itinerant evangelist Christian David was born here. Wikipedia",
@@ -460,17 +505,14 @@
                 "Tuesday 1218 PM"
             ]
         },
-        "Žerčice": {
-            "label": "Žerčice",
-            "description": "Žerčice is a village and municipality in Mladá Boleslav District in the Central Bohemian Region of the Czech Republic. Wikipedia",
+        "Žeretice": {
+            "label": "Žeretice",
+            "description": "Žeretice is a village and municipality in Jičín District in the Hradec Králové Region of the Czech Republic. Wikipedia",
             "type": "",
-            "Area ": [
-                "3.004 sq miles (7.78 km²)"
-            ],
             "Weather ": [
-                "39°F (4°C)",
-                " Wind 0 mph (0 km/h)",
-                " 88% Humidity"
+                "44°F (7°C)",
+                " Wind N at 3 mph (5 km/h)",
+                " 73% Humidity"
             ],
             "Local time ": [
                 "Tuesday 1218 PM"
@@ -496,33 +538,19 @@
                 "Tuesday 1218 PM"
             ]
         },
-        "Žeretice": {
-            "label": "Žeretice",
-            "description": "Žeretice is a village and municipality in Jičín District in the Hradec Králové Region of the Czech Republic. Wikipedia",
+        "Acme, Alberta": {
+            "label": "Acme",
+            "description": "Acme is a village in south-central Alberta, Canada. It is located 83 kilometres northeast of Calgary. It was the first village to be incorporated in Kneehill County.\nThe name Acme is derived from the village's railway heritage. Wikipedia",
             "type": "",
-            "Weather ": [
-                "44°F (7°C)",
-                " Wind N at 3 mph (5 km/h)",
-                " 73% Humidity"
+            "Elevation ": [
+                "2",
+                "969' (905 m)"
             ],
-            "Local time ": [
-                "Tuesday 1218 PM"
-            ]
-        },
-        "Černíny": {
-            "label": "Černíny",
-            "description": "Černíny is a village and municipality in Kutná Hora District in the Central Bohemian Region of the Czech Republic. The municipality covers an area of 3.48 square kilometres and as of 2006 it had a population of 384. Wikipedia",
-            "type": "",
             "Area ": [
-                "6.22 sq miles (16.11 km²)"
-            ],
-            "Weather ": [
-                "44°F (7°C)",
-                " Wind NW at 9 mph (14 km/h)",
-                " 70% Humidity"
+                "610 acres (247 ha)"
             ],
             "Local time ": [
-                "Tuesday 1217 PM"
+                "Tuesday 518 AM"
             ]
         },
         "Ada, Ohio": {
@@ -546,21 +574,6 @@
             ],
             "University ": [
                 "Ohio Northern University"
-            ]
-        },
-        "Acme, Alberta": {
-            "label": "Acme",
-            "description": "Acme is a village in south-central Alberta, Canada. It is located 83 kilometres northeast of Calgary. It was the first village to be incorporated in Kneehill County.\nThe name Acme is derived from the village's railway heritage. Wikipedia",
-            "type": "",
-            "Elevation ": [
-                "2",
-                "969' (905 m)"
-            ],
-            "Area ": [
-                "610 acres (247 ha)"
-            ],
-            "Local time ": [
-                "Tuesday 518 AM"
             ]
         },
         "Adell, Wisconsin": {
@@ -694,19 +707,6 @@
                 "313 (2012)"
             ]
         },
-        "Amherst, Wisconsin": {
-            "label": "Amherst",
-            "description": "Amherst is a town in Portage County, Wisconsin, United States. The population was 1,435 at the 2000 census. The ghost town of Lake Emily was located in the town. Wikipedia",
-            "type": "",
-            "Weather ": [
-                "12°F (-11°C)",
-                " Wind N at 3 mph (5 km/h)",
-                " 87% Humidity"
-            ],
-            "Local time ": [
-                "Tuesday 618 AM"
-            ]
-        },
         "Amelia, Ohio": {
             "label": "Amelia",
             "description": "Amelia is a village in Clermont County, Ohio, United States. The population was 4,801 at the 2010 census. Wikipedia",
@@ -727,57 +727,17 @@
                 "855 (2012)"
             ]
         },
-        "Anna, Ohio": {
-            "label": "Anna",
-            "description": "Anna is a village in Shelby County, Ohio, United States. The population was 1,567 at the 2010 census.\nAnna is the location of a Honda of America Manufacturing Plant that produces engines and other components for a range of Honda vehicles. Wikipedia",
-            "type": "",
-            "Area ": [
-                "1.031 sq miles (2.67 km²)"
-            ],
-            "Weather ": [
-                "23°F (-5°C)",
-                " Wind 0 mph (0 km/h)",
-                " 81% Humidity"
-            ],
-            "Local time ": [
-                "Tuesday 718 AM"
-            ],
-            "Population ": [
-                "1",
-                "552 (2012)"
-            ]
-        },
-        "Žďár nad Orlicí": {
-            "label": "Žďár nad Orlicí",
-            "description": "Žďár nad Orlicí is a village and municipality in Rychnov nad Kněžnou District in the Hradec Králové Region of the Czech Republic.\nThe grocery store is in the municipal office building. Wikipedia",
+        "Amherst, Wisconsin": {
+            "label": "Amherst",
+            "description": "Amherst is a town in Portage County, Wisconsin, United States. The population was 1,435 at the 2000 census. The ghost town of Lake Emily was located in the town. Wikipedia",
             "type": "",
             "Weather ": [
-                "47°F (8°C)",
+                "12°F (-11°C)",
                 " Wind N at 3 mph (5 km/h)",
-                " 66% Humidity"
+                " 87% Humidity"
             ],
             "Local time ": [
-                "Tuesday 1218 PM"
-            ]
-        },
-        "Andover (village), New York": {
-            "label": "Andover",
-            "description": "Andover is a village located in the Town of Andover in Allegany County, New York, United States. The population was 1,042 at the 2010 census. The name is derived from Andover, Vermont. Wikipedia",
-            "type": "",
-            "Area ": [
-                "640 acres (259 ha)"
-            ],
-            "Weather ": [
-                "16°F (-9°C)",
-                " Wind SW at 5 mph (8 km/h)",
-                " 71% Humidity"
-            ],
-            "Local time ": [
-                "Tuesday 718 AM"
-            ],
-            "Population ": [
-                "1",
-                "024 (2012)"
+                "Tuesday 618 AM"
             ]
         },
         "Angola, New York": {
@@ -803,6 +763,26 @@
                 "Erie 2 Chautauqua Cattaraugus BOCES"
             ]
         },
+        "Andover (village), New York": {
+            "label": "Andover",
+            "description": "Andover is a village located in the Town of Andover in Allegany County, New York, United States. The population was 1,042 at the 2010 census. The name is derived from Andover, Vermont. Wikipedia",
+            "type": "",
+            "Area ": [
+                "640 acres (259 ha)"
+            ],
+            "Weather ": [
+                "16°F (-9°C)",
+                " Wind SW at 5 mph (8 km/h)",
+                " 71% Humidity"
+            ],
+            "Local time ": [
+                "Tuesday 718 AM"
+            ],
+            "Population ": [
+                "1",
+                "024 (2012)"
+            ]
+        },
         "Applegate, Michigan": {
             "label": "Applegate",
             "description": "Applegate is a village in Sanilac County of the U.S. state of Michigan. The population was 248 at the 2010 census. Applegate is in the southeast corner of Washington Township on the boundary with Sanilac Township. Wikipedia",
@@ -822,23 +802,24 @@
                 "244 (2012)"
             ]
         },
-        "Arcadia, Nebraska": {
-            "label": "Arcadia",
-            "description": "Arcadia is a village in Valley County, Nebraska, United States. The population was 311 at the 2010 census. Wikipedia",
+        "Anna, Ohio": {
+            "label": "Anna",
+            "description": "Anna is a village in Shelby County, Ohio, United States. The population was 1,567 at the 2010 census.\nAnna is the location of a Honda of America Manufacturing Plant that produces engines and other components for a range of Honda vehicles. Wikipedia",
             "type": "",
             "Area ": [
-                "366 acres (148 ha)"
+                "1.031 sq miles (2.67 km²)"
             ],
             "Weather ": [
-                "17°F (-8°C)",
-                " Wind W at 2 mph (3 km/h)",
+                "23°F (-5°C)",
+                " Wind 0 mph (0 km/h)",
                 " 81% Humidity"
             ],
             "Local time ": [
-                "Tuesday 618 AM"
+                "Tuesday 718 AM"
             ],
             "Population ": [
-                "308 (2012)"
+                "1",
+                "552 (2012)"
             ]
         },
         "Arcade (village), New York": {
@@ -861,6 +842,41 @@
                 "057 (2012)"
             ]
         },
+        "Archlebov": {
+            "label": "Archlebov",
+            "description": "Archlebov is a village in the South Moravian Region of the Czech Republic. It is located 25 km northwest of Hodonín and has a population of 864. Wikipedia",
+            "type": "",
+            "Area ": [
+                "5.143 sq miles (13.32 km²)"
+            ],
+            "Weather ": [
+                "46°F (8°C)",
+                " Wind NW at 3 mph (5 km/h)",
+                " 23% Humidity"
+            ],
+            "Local time ": [
+                "Tuesday 1218 PM"
+            ]
+        },
+        "Arcadia, Nebraska": {
+            "label": "Arcadia",
+            "description": "Arcadia is a village in Valley County, Nebraska, United States. The population was 311 at the 2010 census. Wikipedia",
+            "type": "",
+            "Area ": [
+                "366 acres (148 ha)"
+            ],
+            "Weather ": [
+                "17°F (-8°C)",
+                " Wind W at 2 mph (3 km/h)",
+                " 81% Humidity"
+            ],
+            "Local time ": [
+                "Tuesday 618 AM"
+            ],
+            "Population ": [
+                "308 (2012)"
+            ]
+        },
         "Arcola, Missouri": {
             "label": "Arcola",
             "description": "Arcola is a village in Dade County, Missouri, United States. The population was 55 at the 2010 census. Wikipedia",
@@ -878,22 +894,6 @@
             ],
             "Population ": [
                 "53 (2012)"
-            ]
-        },
-        "Archlebov": {
-            "label": "Archlebov",
-            "description": "Archlebov is a village in the South Moravian Region of the Czech Republic. It is located 25 km northwest of Hodonín and has a population of 864. Wikipedia",
-            "type": "",
-            "Area ": [
-                "5.143 sq miles (13.32 km²)"
-            ],
-            "Weather ": [
-                "46°F (8°C)",
-                " Wind NW at 3 mph (5 km/h)",
-                " 23% Humidity"
-            ],
-            "Local time ": [
-                "Tuesday 1218 PM"
             ]
         },
         "Arlington, Wisconsin": {
@@ -935,49 +935,6 @@
                 "301 (2012)"
             ]
         },
-        "Arlington Heights, Ohio": {
-            "label": "Arlington Heights",
-            "description": "Arlington Heights is a village in Hamilton County, Ohio, United States. The population was 745 at the 2010 census. Wikipedia",
-            "type": "",
-            "Area ": [
-                "192 acres (78 ha)"
-            ],
-            "Weather ": [
-                "30°F (-1°C)",
-                " Wind 0 mph (0 km/h)",
-                " 64% Humidity"
-            ],
-            "Local time ": [
-                "Tuesday 718 AM"
-            ],
-            "Population ": [
-                "742 (2012)"
-            ]
-        },
-        "Arnarstapi": {
-            "label": "Arnarstapi",
-            "description": "Arnarstapi or Stapi is a small fishing village at the foot of Mt. Stapafell between Hellnar village and Breiðavík farms on the southern side of Snæfellsnes, Iceland. Wikipedia",
-            "type": ""
-        },
-        "Ashley, Michigan": {
-            "label": "Ashley",
-            "description": "Ashley is a village in Gratiot County in the U.S. state of Michigan. The population was 563 at the 2010 census. The village is located in the northwest corner of Elba Township. Wikipedia",
-            "type": "",
-            "Area ": [
-                "410 acres (166 ha)"
-            ],
-            "Weather ": [
-                "25°F (-4°C)",
-                " Wind SW at 5 mph (8 km/h)",
-                " 89% Humidity"
-            ],
-            "Local time ": [
-                "Tuesday 718 AM"
-            ],
-            "Population ": [
-                "558 (2012)"
-            ]
-        },
         "Armada, Michigan": {
             "label": "Armada",
             "description": "Armada is a village in Macomb County in the U.S. state of Michigan. The population was 1,730 at the 2010 census. The 2008 Census Bureau Estimate places the population at 1,657. The village is located within Armada Township. Wikipedia",
@@ -999,6 +956,44 @@
             ],
             "See results about": []
         },
+        "Arlington Heights, Ohio": {
+            "label": "Arlington Heights",
+            "description": "Arlington Heights is a village in Hamilton County, Ohio, United States. The population was 745 at the 2010 census. Wikipedia",
+            "type": "",
+            "Area ": [
+                "192 acres (78 ha)"
+            ],
+            "Weather ": [
+                "30°F (-1°C)",
+                " Wind 0 mph (0 km/h)",
+                " 64% Humidity"
+            ],
+            "Local time ": [
+                "Tuesday 718 AM"
+            ],
+            "Population ": [
+                "742 (2012)"
+            ]
+        },
+        "Ashley, Michigan": {
+            "label": "Ashley",
+            "description": "Ashley is a village in Gratiot County in the U.S. state of Michigan. The population was 563 at the 2010 census. The village is located in the northwest corner of Elba Township. Wikipedia",
+            "type": "",
+            "Area ": [
+                "410 acres (166 ha)"
+            ],
+            "Weather ": [
+                "25°F (-4°C)",
+                " Wind SW at 5 mph (8 km/h)",
+                " 89% Humidity"
+            ],
+            "Local time ": [
+                "Tuesday 718 AM"
+            ],
+            "Population ": [
+                "558 (2012)"
+            ]
+        },
         "Arthur, Nebraska": {
             "label": "Arthur",
             "description": "Arthur is a village in, and the county seat of Arthur County, Nebraska, United States. The population was 117 at the 2010 census. Wikipedia",
@@ -1014,24 +1009,10 @@
             ],
             "See results about": []
         },
-        "Atlanta, Nebraska": {
-            "label": "Atlanta",
-            "description": "Atlanta is a village in Phelps County, Nebraska, in the United States. The population was 131 at the 2010 Census. Wikipedia",
-            "type": "",
-            "Area ": [
-                "128 acres (52 ha)"
-            ],
-            "Weather ": [
-                "26°F (-3°C)",
-                " Wind N at 17 mph (27 km/h)",
-                " 59% Humidity"
-            ],
-            "Local time ": [
-                "Tuesday 618 AM"
-            ],
-            "Population ": [
-                "131 (2012)"
-            ]
+        "Arnarstapi": {
+            "label": "Arnarstapi",
+            "description": "Arnarstapi or Stapi is a small fishing village at the foot of Mt. Stapafell between Hellnar village and Breiðavík farms on the southern side of Snæfellsnes, Iceland. Wikipedia",
+            "type": ""
         },
         "Athalia, Ohio": {
             "label": "Athalia",
@@ -1052,23 +1033,23 @@
                 "373 (2012)"
             ]
         },
-        "Avoca, Wisconsin": {
-            "label": "Avoca",
-            "description": "Avoca is a village in Iowa County, Wisconsin, United States. The population was 637 at the 2010 census. It is part of the Madison Metropolitan Statistical Area. It is named after Avoca in Ireland. Wikipedia",
+        "Axtell, Nebraska": {
+            "label": "Axtell",
+            "description": "Axtell is a village in Kearney County, Nebraska, United States. It is part of the Kearney, Nebraska Micropolitan Statistical Area. The population was 726 at the 2010 census. Wikipedia",
             "type": "",
             "Area ": [
-                "2.44 sq miles (6.32 km²)"
+                "282 acres (114 ha)"
             ],
             "Weather ": [
-                "19°F (-7°C)",
-                " Wind W at 6 mph (10 km/h)",
-                " 65% Humidity"
+                "26°F (-3°C)",
+                " Wind N at 17 mph (27 km/h)",
+                " 59% Humidity"
             ],
             "Local time ": [
                 "Tuesday 619 AM"
             ],
             "Population ": [
-                "636 (2012)"
+                "718 (2012)"
             ]
         },
         "Atlantic Beach, New York": {
@@ -1091,12 +1072,12 @@
                 "904 (2012)"
             ]
         },
-        "Axtell, Nebraska": {
-            "label": "Axtell",
-            "description": "Axtell is a village in Kearney County, Nebraska, United States. It is part of the Kearney, Nebraska Micropolitan Statistical Area. The population was 726 at the 2010 census. Wikipedia",
+        "Atlanta, Nebraska": {
+            "label": "Atlanta",
+            "description": "Atlanta is a village in Phelps County, Nebraska, in the United States. The population was 131 at the 2010 Census. Wikipedia",
             "type": "",
             "Area ": [
-                "282 acres (114 ha)"
+                "128 acres (52 ha)"
             ],
             "Weather ": [
                 "26°F (-3°C)",
@@ -1104,10 +1085,46 @@
                 " 59% Humidity"
             ],
             "Local time ": [
+                "Tuesday 618 AM"
+            ],
+            "Population ": [
+                "131 (2012)"
+            ]
+        },
+        "Avoca, Wisconsin": {
+            "label": "Avoca",
+            "description": "Avoca is a village in Iowa County, Wisconsin, United States. The population was 637 at the 2010 census. It is part of the Madison Metropolitan Statistical Area. It is named after Avoca in Ireland. Wikipedia",
+            "type": "",
+            "Area ": [
+                "2.44 sq miles (6.32 km²)"
+            ],
+            "Weather ": [
+                "19°F (-7°C)",
+                " Wind W at 6 mph (10 km/h)",
+                " 65% Humidity"
+            ],
+            "Local time ": [
                 "Tuesday 619 AM"
             ],
             "Population ": [
-                "718 (2012)"
+                "636 (2012)"
+            ]
+        },
+        "Bělá (Semily District)": {
+            "label": "Bělá (Semily District)",
+            "description": "Bělá (Semily District) is a village and municipality in Semily District in the Liberec Region of the Czech Republic. Wikipedia",
+            "type": "",
+            "Elevation ": [
+                "1",
+                "240' (378 m)"
+            ],
+            "Weather ": [
+                "41°F (5°C)",
+                " Wind NW at 7 mph (11 km/h)",
+                " 78% Humidity"
+            ],
+            "Local time ": [
+                "Tuesday 1219 PM"
             ]
         },
         "Bílá Třemešná": {
@@ -1147,23 +1164,6 @@
                 "44°F (7°C)",
                 " Wind W at 5 mph (8 km/h)",
                 " 58% Humidity"
-            ],
-            "Local time ": [
-                "Tuesday 1219 PM"
-            ]
-        },
-        "Bělá (Semily District)": {
-            "label": "Bělá (Semily District)",
-            "description": "Bělá (Semily District) is a village and municipality in Semily District in the Liberec Region of the Czech Republic. Wikipedia",
-            "type": "",
-            "Elevation ": [
-                "1",
-                "240' (378 m)"
-            ],
-            "Weather ": [
-                "41°F (5°C)",
-                " Wind NW at 7 mph (11 km/h)",
-                " 78% Humidity"
             ],
             "Local time ": [
                 "Tuesday 1219 PM"
@@ -1221,14 +1221,6 @@
                 "Tuesday 1219 PM"
             ]
         },
-        "Babrungas": {
-            "label": "Babrungas",
-            "description": "Babrungas is a village in the Plungė district municipality, Lithuania. It is located on the bank of Babrungas River.\nBabrungas is an administrative center of Babrungas eldership.\nAs of 2001, there were 616 inhabbitants living in this village. Wikipedia",
-            "type": "",
-            "Local time ": [
-                "Tuesday 119 PM"
-            ]
-        },
         "Bailey's Prairie, Texas": {
             "label": "Bailey's Prairie",
             "description": "Bailey's Prairie is a village in Brazoria County, in the U.S. state of Texas. The population was 727 at the 2010 census. Wikipedia",
@@ -1247,6 +1239,19 @@
             "Population ": [
                 "729 (2012)"
             ]
+        },
+        "Babrungas": {
+            "label": "Babrungas",
+            "description": "Babrungas is a village in the Plungė district municipality, Lithuania. It is located on the bank of Babrungas River.\nBabrungas is an administrative center of Babrungas eldership.\nAs of 2001, there were 616 inhabbitants living in this village. Wikipedia",
+            "type": "",
+            "Local time ": [
+                "Tuesday 119 PM"
+            ]
+        },
+        "Balatonmagyaród": {
+            "label": "Balatonmagyaród",
+            "description": "Balatonmagyaród is a village in Zala county, Hungary. Wikipedia",
+            "type": ""
         },
         "Baldwin, Michigan": {
             "label": "Baldwin",
@@ -1267,11 +1272,6 @@
                 "1",
                 "216 (2012)"
             ]
-        },
-        "Balatonmagyaród": {
-            "label": "Balatonmagyaród",
-            "description": "Balatonmagyaród is a village in Zala county, Hungary. Wikipedia",
-            "type": ""
         },
         "Baloň": {
             "label": "Baloň",
@@ -1345,6 +1345,25 @@
             ],
             "See results about": []
         },
+        "Barker, Niagara County, New York": {
+            "label": "Barker",
+            "description": "Barker is a village in Niagara County, New York, USA. The population was 533 at the 2010 census. The mail ZIP code is 14012. It is part of the Buffalo–Niagara Falls Metropolitan Statistical Area. Wikipedia",
+            "type": "",
+            "Area ": [
+                "256 acres (104 ha)"
+            ],
+            "Weather ": [
+                "19°F (-7°C)",
+                " Wind S at 6 mph (10 km/h)",
+                " 94% Humidity"
+            ],
+            "Local time ": [
+                "Tuesday 719 AM"
+            ],
+            "Population ": [
+                "526 (2012)"
+            ]
+        },
         "Barboursville, West Virginia": {
             "label": "Barboursville",
             "description": "Barboursville is a village in Cabell County, West Virginia, United States. It is located near the second largest city in the state, Huntington. The population was 3,964 at the 2010 census. Wikipedia",
@@ -1363,25 +1382,6 @@
             "Population ": [
                 "4",
                 "065 (2012)"
-            ]
-        },
-        "Barker, Niagara County, New York": {
-            "label": "Barker",
-            "description": "Barker is a village in Niagara County, New York, USA. The population was 533 at the 2010 census. The mail ZIP code is 14012. It is part of the Buffalo–Niagara Falls Metropolitan Statistical Area. Wikipedia",
-            "type": "",
-            "Area ": [
-                "256 acres (104 ha)"
-            ],
-            "Weather ": [
-                "19°F (-7°C)",
-                " Wind S at 6 mph (10 km/h)",
-                " 94% Humidity"
-            ],
-            "Local time ": [
-                "Tuesday 719 AM"
-            ],
-            "Population ": [
-                "526 (2012)"
             ]
         },
         "Barchovice": {
@@ -1412,6 +1412,19 @@
                 "145 (2012)"
             ]
         },
+        "Batňovice": {
+            "label": "Batňovice",
+            "description": "Batňovice is a village and municipality in Trutnov District in the Hradec Králové Region of the Czech Republic. Wikipedia",
+            "type": "",
+            "Weather ": [
+                "42°F (6°C)",
+                " Wind S at 2 mph (3 km/h)",
+                " 87% Humidity"
+            ],
+            "Local time ": [
+                "Tuesday 1219 PM"
+            ]
+        },
         "Barneveld, New York": {
             "label": "Barneveld",
             "description": "Barneveld is a village located within the Town of Trenton in Oneida County, New York, United States. The population was 284 at the 2010 census. The village name is derived from the name of the Dutch statesman Johan van Oldenbarnevelt. Wikipedia",
@@ -1431,14 +1444,17 @@
                 "284 (2012)"
             ]
         },
-        "Batňovice": {
-            "label": "Batňovice",
-            "description": "Batňovice is a village and municipality in Trutnov District in the Hradec Králové Region of the Czech Republic. Wikipedia",
+        "Bavoryně": {
+            "label": "Bavoryně",
+            "description": "Bavoryně is a municipality and village in Beroun District in the Central Bohemian Region of the Czech Republic. Wikipedia",
             "type": "",
+            "Area ": [
+                "549 acres (222 ha)"
+            ],
             "Weather ": [
-                "42°F (6°C)",
-                " Wind S at 2 mph (3 km/h)",
-                " 87% Humidity"
+                "45°F (7°C)",
+                " Wind S at 4 mph (6 km/h)",
+                " 74% Humidity"
             ],
             "Local time ": [
                 "Tuesday 1219 PM"
@@ -1464,22 +1480,6 @@
                 "005 (2012)"
             ]
         },
-        "Bavoryně": {
-            "label": "Bavoryně",
-            "description": "Bavoryně is a municipality and village in Beroun District in the Central Bohemian Region of the Czech Republic. Wikipedia",
-            "type": "",
-            "Area ": [
-                "549 acres (222 ha)"
-            ],
-            "Weather ": [
-                "45°F (7°C)",
-                " Wind S at 4 mph (6 km/h)",
-                " 74% Humidity"
-            ],
-            "Local time ": [
-                "Tuesday 1219 PM"
-            ]
-        },
         "Bdín": {
             "label": "Bdín",
             "description": "Bdín is a village and municipality in Rakovník District in the Central Bohemian Region of the Czech Republic. Wikipedia",
@@ -1491,26 +1491,6 @@
             ],
             "Local time ": [
                 "Tuesday 1219 PM"
-            ]
-        },
-        "Beach City, Ohio": {
-            "label": "Beach City",
-            "description": "Beach City is a village in Stark County, Ohio, United States. The population was 1,033 at the 2010 census. It is part of the Canton–Massillon Metropolitan Statistical Area. Wikipedia",
-            "type": "",
-            "Area ": [
-                "294 acres (119 ha)"
-            ],
-            "Weather ": [
-                "17°F (-8°C)",
-                " Wind 0 mph (0 km/h)",
-                " 88% Humidity"
-            ],
-            "Local time ": [
-                "Tuesday 719 AM"
-            ],
-            "Population ": [
-                "1",
-                "023 (2012)"
             ]
         },
         "Bayville, New York": {
@@ -1532,25 +1512,45 @@
                 "6",
                 "717 (2012)"
             ]
+        },
+        "Beach City, Ohio": {
+            "label": "Beach City",
+            "description": "Beach City is a village in Stark County, Ohio, United States. The population was 1,033 at the 2010 census. It is part of the Canton–Massillon Metropolitan Statistical Area. Wikipedia",
+            "type": "",
+            "Area ": [
+                "294 acres (119 ha)"
+            ],
+            "Weather ": [
+                "17°F (-8°C)",
+                " Wind 0 mph (0 km/h)",
+                " 88% Humidity"
+            ],
+            "Local time ": [
+                "Tuesday 719 AM"
+            ],
+            "Population ": [
+                "1",
+                "023 (2012)"
+            ]
         }
     },
     "summary": {
         "label": 96,
         "description": 96,
         "type": 96,
-        "Local time ": 93,
-        "Weather ": 85,
-        "Area ": 61,
-        "Elevation ": 4,
-        "People also search for": 1,
-        "Population ": 39,
-        "University ": 3,
-        "See results about": 7
+        "local_time": 1,
+        "weather": 1,
+        "area": 1,
+        "elevation": 1,
+        "people_also_search_for": 1,
+        "population": 1,
+        "university": 1,
+        "see_results_about": 1
     },
     "infoboxless": [
         "Červený Újezd (Benešov District)",
-        "Aruvälja, Pärnu County",
         "Řeka",
-        "Arpin, Wisconsin"
+        "Arpin, Wisconsin",
+        "Aruvälja, Pärnu County"
     ]
 }

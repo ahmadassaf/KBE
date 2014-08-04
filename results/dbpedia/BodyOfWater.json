@@ -27,6 +27,20 @@
                 " Sandö Bridge"
             ]
         },
+        "Åsnen": {
+            "label": "Åsnen",
+            "description": "Åsnen is a large lake in southern Småland, Sweden, roughly 150 km² in size. The river Mörrumsån flows south from Åsnen into the Baltic Sea. Wikipedia",
+            "type": "",
+            "Surface elevation ": [
+                "453' (138 m)"
+            ],
+            "Area ": [
+                "61.78 sq miles (160 km²)"
+            ],
+            "Outflow location ": [
+                "Mörrumsån"
+            ]
+        },
         "Åre River": {
             "label": "Öre River",
             "description": "Öre River is a river in Sweden. Wikipedia",
@@ -45,20 +59,6 @@
             ],
             "Mouth ": [
                 "Gulf of Bothnia"
-            ]
-        },
-        "Åsnen": {
-            "label": "Åsnen",
-            "description": "Åsnen is a large lake in southern Småland, Sweden, roughly 150 km² in size. The river Mörrumsån flows south from Åsnen into the Baltic Sea. Wikipedia",
-            "type": "",
-            "Surface elevation ": [
-                "453' (138 m)"
-            ],
-            "Area ": [
-                "61.78 sq miles (160 km²)"
-            ],
-            "Outflow location ": [
-                "Mörrumsån"
             ]
         },
         "Öskjuvatn": {
@@ -89,6 +89,30 @@
                 "Gulf of Bothnia"
             ]
         },
+        "Ösper": {
+            "label": "Ösper",
+            "description": "Ösper is a river of North Rhine-Westphalia, Germany. Wikipedia",
+            "type": ""
+        },
+        "Üür River": {
+            "label": "Üür River",
+            "description": "The Üür River is a river in northeastern Khövsgöl, mainly in Tsagaan-Üür sum. The river is a tributary of the Eg River. Wikipedia",
+            "type": "",
+            "Length ": [
+                "206 miles (331 km)"
+            ],
+            "Basin area ": [
+                "4",
+                "749 sq miles (12",
+                "300 km²)"
+            ],
+            "Mouth ": [
+                "Eg River"
+            ],
+            "Country ": [
+                "Mongolia"
+            ]
+        },
         "Černé jezero": {
             "label": "Černé jezero",
             "description": "Černé jezero in the Bohemian Forest is the largest and deepest natural lake in the Czech Republic.\nThis triangular lake surrounded with spruce forest is located about 6 km northwest of Železná Ruda under a 300-metre-high cliff on Jezerní hora. Wikipedia",
@@ -116,25 +140,6 @@
                 "316 acres (128 ha)"
             ],
             "People also search for": []
-        },
-        "Üür River": {
-            "label": "Üür River",
-            "description": "The Üür River is a river in northeastern Khövsgöl, mainly in Tsagaan-Üür sum. The river is a tributary of the Eg River. Wikipedia",
-            "type": "",
-            "Length ": [
-                "206 miles (331 km)"
-            ],
-            "Basin area ": [
-                "4",
-                "749 sq miles (12",
-                "300 km²)"
-            ],
-            "Mouth ": [
-                "Eg River"
-            ],
-            "Country ": [
-                "Mongolia"
-            ]
         },
         "Śniardwy": {
             "label": "Śniardwy",
@@ -164,10 +169,24 @@
                 "236 acres (96 ha)"
             ]
         },
-        "Ösper": {
-            "label": "Ösper",
-            "description": "Ösper is a river of North Rhine-Westphalia, Germany. Wikipedia",
-            "type": ""
+        "Ažytė": {
+            "label": "Ažytė",
+            "description": "The Ažytė is a river of Kėdainiai district municipality, Kaunas County, central Lithuania. It flows for 20 kilometres and has a basin area of 98 km². Wikipedia",
+            "type": "",
+            "Length ": [
+                "12 miles (20 km)"
+            ],
+            "Mouth ": [
+                "Šušvė"
+            ]
+        },
+        "Aalkistensee": {
+            "label": "Aalkistensee",
+            "description": "Aalkistensee is a lake in Kraichgau, Baden-Württemberg, Germany. At an elevation of ca 250 m, its surface area is 0.136 km². Wikipedia",
+            "type": "",
+            "Area ": [
+                "34 acres (14 ha)"
+            ]
         },
         "Aar (Lahn)": {
             "label": "Aar",
@@ -186,12 +205,12 @@
                 "Germany"
             ]
         },
-        "Aalkistensee": {
-            "label": "Aalkistensee",
-            "description": "Aalkistensee is a lake in Kraichgau, Baden-Württemberg, Germany. At an elevation of ca 250 m, its surface area is 0.136 km². Wikipedia",
+        "Aasee (Bocholt)": {
+            "label": "Aasee",
+            "description": "Aasee is a lake in Bocholt, Kreis Borken, North Rhine-Westphalia, Germany. At an elevation of 23.8 meter, its surface area is 0.32 km². Wikipedia",
             "type": "",
             "Area ": [
-                "34 acres (14 ha)"
+                "79 acres (32 ha)"
             ]
         },
         "Ablach (Danube)": {
@@ -213,12 +232,23 @@
                 "6 miles (10 km)"
             ]
         },
-        "Aasee (Bocholt)": {
-            "label": "Aasee",
-            "description": "Aasee is a lake in Bocholt, Kreis Borken, North Rhine-Westphalia, Germany. At an elevation of 23.8 meter, its surface area is 0.32 km². Wikipedia",
+        "Achit Lake": {
+            "label": "Achit Lake",
+            "description": "Achit Lake is the largest freshwater lake in the Uvs Aimag of Mongolia, in the west of the country. At an elevation of 1,435 m above sea level it covers an area of 290 km². It is 28 km long, 16 km wide, and 10 m deep. Wikipedia",
             "type": "",
+            "Surface elevation ": [
+                "4",
+                "708' (1",
+                "435 m)"
+            ],
             "Area ": [
-                "79 acres (32 ha)"
+                "112 sq miles (290 km²)"
+            ],
+            "Length ": [
+                "17.4 miles (28 km)"
+            ],
+            "Width ": [
+                "9.942 miles (16 km)"
             ]
         },
         "Adolfosee": {
@@ -257,25 +287,6 @@
             ],
             "Country ": [
                 "Philippines"
-            ]
-        },
-        "Achit Lake": {
-            "label": "Achit Lake",
-            "description": "Achit Lake is the largest freshwater lake in the Uvs Aimag of Mongolia, in the west of the country. At an elevation of 1,435 m above sea level it covers an area of 290 km². It is 28 km long, 16 km wide, and 10 m deep. Wikipedia",
-            "type": "",
-            "Surface elevation ": [
-                "4",
-                "708' (1",
-                "435 m)"
-            ],
-            "Area ": [
-                "112 sq miles (290 km²)"
-            ],
-            "Length ": [
-                "17.4 miles (28 km)"
-            ],
-            "Width ": [
-                "9.942 miles (16 km)"
             ]
         },
         "Aibi Lake": {
@@ -349,17 +360,6 @@
             ],
             "Outflow location ": [
                 "Lule River"
-            ]
-        },
-        "Ažytė": {
-            "label": "Ažytė",
-            "description": "The Ažytė is a river of Kėdainiai district municipality, Kaunas County, central Lithuania. It flows for 20 kilometres and has a basin area of 98 km². Wikipedia",
-            "type": "",
-            "Length ": [
-                "12 miles (20 km)"
-            ],
-            "Mouth ": [
-                "Šušvė"
             ]
         },
         "Aksu River (China)": {
@@ -489,6 +489,20 @@
             "description": "Apfelstädt (Gera) is a river of Thuringia, Germany. Wikipedia",
             "type": ""
         },
+        "Anaktuvuk River": {
+            "label": "Anaktuvuk River",
+            "description": "The Anaktuvuk River is a river in Alaska's North Slope. One hundred and thirty-five miles long, it flows west from glaciers in the Endicott Mountains changing direction just north of Anaktuvuk Pass to ... Wikipedia",
+            "type": "",
+            "Length ": [
+                "135 miles (217 km)"
+            ],
+            "Mouth ": [
+                "Colville River"
+            ],
+            "Country ": [
+                "United States of America"
+            ]
+        },
         "Arda (Maritsa)": {
             "label": "Arda",
             "description": "The Arda is a 290 km long river in Bulgaria and Greece. It is a tributary of the Maritsa. Its source lies in the Bulgarian Rhodope Mountains near the village Arda, part of the municipality of Smolyan. Wikipedia",
@@ -529,16 +543,21 @@
             ],
             "People also search for": []
         },
-        "Artillery Lake": {
-            "label": "Artillery Lake",
-            "description": "Artillery Lake is a lake in the Northwest Territories, Canada about 20 miles east of Great Slave Lake. George Back reached it in 1834. Wikipedia",
+        "Argazi Reservoir": {
+            "label": "Argazi Reservoir",
+            "description": "Argazi Reservoir is a reservoir, created on the Miass River in Chelyabinsk Oblast in 1946. The Argazi Lake has become a part of the Argazi Reservoir ever since. The reservoir has a surface area of 102 km² and a water volume of 0,65 cubic km. Wikipedia",
             "type": "",
-            "Surface elevation ": [
-                "1",
-                "198' (365 m)"
-            ],
             "Area ": [
-                "207 sq miles (536 km²)"
+                "39.38 sq miles (102 km²)"
+            ],
+            "Mean depth ": [
+                "21' 4\" (6.50 m)"
+            ],
+            "Inflow source ": [
+                "Miass River"
+            ],
+            "Outflow location ": [
+                "Miass River"
             ]
         },
         "Arsenyevka River": {
@@ -556,6 +575,18 @@
             ],
             "Country ": [
                 "Russia"
+            ]
+        },
+        "Artillery Lake": {
+            "label": "Artillery Lake",
+            "description": "Artillery Lake is a lake in the Northwest Territories, Canada about 20 miles east of Great Slave Lake. George Back reached it in 1834. Wikipedia",
+            "type": "",
+            "Surface elevation ": [
+                "1",
+                "198' (365 m)"
+            ],
+            "Area ": [
+                "207 sq miles (536 km²)"
             ]
         },
         "Assiniboine River": {
@@ -583,69 +614,6 @@
                 "Maryland Bridge"
             ]
         },
-        "Anaktuvuk River": {
-            "label": "Anaktuvuk River",
-            "description": "The Anaktuvuk River is a river in Alaska's North Slope. One hundred and thirty-five miles long, it flows west from glaciers in the Endicott Mountains changing direction just north of Anaktuvuk Pass to ... Wikipedia",
-            "type": "",
-            "Length ": [
-                "135 miles (217 km)"
-            ],
-            "Mouth ": [
-                "Colville River"
-            ],
-            "Country ": [
-                "United States of America"
-            ]
-        },
-        "Argazi Reservoir": {
-            "label": "Argazi Reservoir",
-            "description": "Argazi Reservoir is a reservoir, created on the Miass River in Chelyabinsk Oblast in 1946. The Argazi Lake has become a part of the Argazi Reservoir ever since. The reservoir has a surface area of 102 km² and a water volume of 0,65 cubic km. Wikipedia",
-            "type": "",
-            "Area ": [
-                "39.38 sq miles (102 km²)"
-            ],
-            "Mean depth ": [
-                "21' 4\" (6.50 m)"
-            ],
-            "Inflow source ": [
-                "Miass River"
-            ],
-            "Outflow location ": [
-                "Miass River"
-            ]
-        },
-        "Auma (river)": {
-            "label": "Auma",
-            "description": "Auma is a river of Thuringia, Germany. Wikipedia",
-            "type": "",
-            "Length ": [
-                "21 miles (34 km)"
-            ],
-            "Source ": [
-                "Linda bei Neustadt an der Orla"
-            ],
-            "Country ": [
-                "Germany"
-            ]
-        },
-        "Ausa River": {
-            "label": "Ausa River",
-            "description": "The Ausa River is a minor river some 17 kilometres in length which traverses part of northern San Marino and Emilia–Romagna in Italy. The source of the river is Monte Titano in central San Marino. Wikipedia",
-            "type": "",
-            "Length ": [
-                "11 miles (17 km)"
-            ],
-            "Source ": [
-                "Monte Titano"
-            ],
-            "Mouth ": [
-                "Adriatic Sea"
-            ],
-            "Countries ": [
-                "San Marino",
-                " Italy"
-            ]
-        },
         "Aube (river)": {
             "label": "Aube",
             "description": "The Aube is a river in France, right tributary of the Seine. It is 248 km long. The river gives its name to the Aube département.\nIts source is in the Haute-Marne département, on the plateau of Langres, near the town Auberive. Wikipedia",
@@ -669,15 +637,41 @@
                 "Seine"
             ]
         },
-        "Awali (river)": {
-            "label": "Awali",
-            "description": "The Awali is a perennial river flowing in Southern Lebanon. In ancient times it was known as the River Asclepius. It is 48 kilometres long, originating from the Barouk mountain at a height of 1,492 metres and the Niha mountain. Wikipedia",
+        "Auma (river)": {
+            "label": "Auma",
+            "description": "Auma is a river of Thuringia, Germany. Wikipedia",
             "type": "",
             "Length ": [
-                "30 miles (48 km)"
+                "21 miles (34 km)"
             ],
-            "Discharge ": [
-                "358.9 ft³/s (10.16 m³/s)"
+            "Source ": [
+                "Linda bei Neustadt an der Orla"
+            ],
+            "Country ": [
+                "Germany"
+            ]
+        },
+        "Aurach (Regnitz, Mittelfranken)": {
+            "label": "Aurach (Regnitz, Mittelfranken)",
+            "description": "Aurach (Regnitz, Mittelfranken) is a river of Bavaria, Germany. It is a tributary of the river Regnitz.\nThe river Aurach starts in Frankenhöhe to the west of Klaus Aurach in the municipality of Markt Erlbach. Wikipedia",
+            "type": ""
+        },
+        "Ausa River": {
+            "label": "Ausa River",
+            "description": "The Ausa River is a minor river some 17 kilometres in length which traverses part of northern San Marino and Emilia–Romagna in Italy. The source of the river is Monte Titano in central San Marino. Wikipedia",
+            "type": "",
+            "Length ": [
+                "11 miles (17 km)"
+            ],
+            "Source ": [
+                "Monte Titano"
+            ],
+            "Mouth ": [
+                "Adriatic Sea"
+            ],
+            "Countries ": [
+                "San Marino",
+                " Italy"
             ]
         },
         "Aveyron (river)": {
@@ -701,6 +695,17 @@
             ],
             "Mouth ": [
                 "Tarn"
+            ]
+        },
+        "Awali (river)": {
+            "label": "Awali",
+            "description": "The Awali is a perennial river flowing in Southern Lebanon. In ancient times it was known as the River Asclepius. It is 48 kilometres long, originating from the Barouk mountain at a height of 1,492 metres and the Niha mountain. Wikipedia",
+            "type": "",
+            "Length ": [
+                "30 miles (48 km)"
+            ],
+            "Discharge ": [
+                "358.9 ft³/s (10.16 m³/s)"
             ]
         },
         "Ayalon River": {
@@ -807,11 +812,6 @@
             ],
             "See results about": []
         },
-        "Aurach (Regnitz, Mittelfranken)": {
-            "label": "Aurach (Regnitz, Mittelfranken)",
-            "description": "Aurach (Regnitz, Mittelfranken) is a river of Bavaria, Germany. It is a tributary of the river Regnitz.\nThe river Aurach starts in Frankenhöhe to the west of Klaus Aurach in the municipality of Markt Erlbach. Wikipedia",
-            "type": ""
-        },
         "Baberowsee": {
             "label": "Baberowsee",
             "description": "Baberowsee is a lake in Brandenburg, Germany. It is located in Kagel, an Ortsteil of the municipality of Grünheide, Oder-Spree district. Wikipedia",
@@ -882,23 +882,11 @@
             ],
             "See results about": []
         },
-        "Baker River (Washington)": {
-            "label": "Baker River",
-            "description": "The Baker River is an approximately 30-mile, southward-flowing tributary of the Skagit River in northwestern Washington in the United States. Wikipedia",
+        "Bartlett Lake": {
+            "label": "Bartlett Lake Marina",
+            "description": "",
             "type": "",
-            "Length ": [
-                "30 miles (48 km)"
-            ],
-            "Discharge ": [
-                "2",
-                "649 ft³/s (75.01 m³/s)"
-            ],
-            "Basin area ": [
-                "297 sq miles (769.2 km²)"
-            ],
-            "Mouth ": [
-                "Skagit River"
-            ]
+            "People also search for": []
         },
         "Bala Lake": {
             "label": "Bala Lake",
@@ -926,11 +914,23 @@
             ],
             "See results about": []
         },
-        "Bartlett Lake": {
-            "label": "Bartlett Lake Marina",
-            "description": "",
+        "Baker River (Washington)": {
+            "label": "Baker River",
+            "description": "The Baker River is an approximately 30-mile, southward-flowing tributary of the Skagit River in northwestern Washington in the United States. Wikipedia",
             "type": "",
-            "People also search for": []
+            "Length ": [
+                "30 miles (48 km)"
+            ],
+            "Discharge ": [
+                "2",
+                "649 ft³/s (75.01 m³/s)"
+            ],
+            "Basin area ": [
+                "297 sq miles (769.2 km²)"
+            ],
+            "Mouth ": [
+                "Skagit River"
+            ]
         },
         "Bečva": {
             "label": "Bečva",
@@ -949,17 +949,6 @@
                 "Czech Republic"
             ],
             "See results about": []
-        },
-        "Bei River": {
-            "label": "Bei River",
-            "description": "Bei River is the northern tributary of the Pearl River in southern China. The other two main tributaries of the Pearl River are the Xijiang River and the Dongjiang River.\nThe Bei River is 63.34 kilometers long and located in northern Guangdong. Wikipedia",
-            "type": "",
-            "Length ": [
-                "39 miles (63 km)"
-            ],
-            "Country ": [
-                "China"
-            ]
         },
         "Behler See": {
             "label": "Behler See",
@@ -983,26 +972,50 @@
                 " Grebin"
             ]
         },
-        "Black Elster": {
-            "label": "Black Elster",
-            "description": "The Black Elster or Schwarze Elster is a 179 km long river in eastern Germany, in the states Saxony, Brandenburg and Saxony-Anhalt, right tributary of the Elbe. Its source is in the Upper Lusatia region, near Elstra. Wikipedia",
+        "Bear River (Washington)": {
+            "label": "Bear River",
+            "description": "The Bear River is a river in the U.S. state of Washington. Its upper reach is known as Bear Branch. Wikipedia",
+            "type": ""
+        },
+        "Bei River": {
+            "label": "Bei River",
+            "description": "Bei River is the northern tributary of the Pearl River in southern China. The other two main tributaries of the Pearl River are the Xijiang River and the Dongjiang River.\nThe Bei River is 63.34 kilometers long and located in northern Guangdong. Wikipedia",
             "type": "",
             "Length ": [
-                "111 miles (179 km)"
-            ],
-            "Source elevation ": [
-                "1",
-                "040' (317 m)"
-            ],
-            "Mouth ": [
-                "Elbe"
+                "39 miles (63 km)"
             ],
             "Country ": [
-                "Germany"
+                "China"
+            ]
+        },
+        "Ben Hai River": {
+            "label": "Bến Hải River",
+            "description": "The Bến Hải River is a river in central Vietnam which became an important landmark in the partition of the country into a northern and a southern zone along the 17th parallel by the Geneva Accords of 1954. Wikipedia",
+            "type": "",
+            "Length ": [
+                "62 miles (100 km)"
             ],
-            "Sources ": [
-                "Upper Lusatia",
-                " Lusatia"
+            "Mouth ": [
+                "South China Sea"
+            ],
+            "Country ": [
+                "Vietnam"
+            ]
+        },
+        "Berner Au": {
+            "label": "Berner Au",
+            "description": "Berner Au is a river of Hamburg, Germany. Wikipedia",
+            "type": ""
+        },
+        "Big Quilcene River": {
+            "label": "Big Quilcene River",
+            "description": "The Big Quilcene River is a river on the Olympic Peninsula in the U.S. state of Washington. It rises in the Buckhorn Wilderness near Marmot Pass, south of Buckhorn Mountain, and near Mount Constance. Wikipedia",
+            "type": "",
+            "Source ": [
+                "Olympic Mountains"
+            ],
+            "Mouth ": [
+                "Hood Canal"
             ]
         },
         "Biya River": {
@@ -1028,10 +1041,27 @@
                 "Russia"
             ]
         },
-        "Blackbrook Reservoir": {
-            "label": "Blackbrook Reservoir",
-            "description": "Blackbrook Reservoir is a large body of water near Shepshed, Leicestershire, in England. The reservoir was constructed in 1796 in order to feed the Charnwood Forest Canal, which has long since vanished. Wikipedia",
-            "type": ""
+        "Black Elster": {
+            "label": "Black Elster",
+            "description": "The Black Elster or Schwarze Elster is a 179 km long river in eastern Germany, in the states Saxony, Brandenburg and Saxony-Anhalt, right tributary of the Elbe. Its source is in the Upper Lusatia region, near Elstra. Wikipedia",
+            "type": "",
+            "Length ": [
+                "111 miles (179 km)"
+            ],
+            "Source elevation ": [
+                "1",
+                "040' (317 m)"
+            ],
+            "Mouth ": [
+                "Elbe"
+            ],
+            "Country ": [
+                "Germany"
+            ],
+            "Sources ": [
+                "Upper Lusatia",
+                " Lusatia"
+            ]
         },
         "Blanice (Sázava)": {
             "label": "Blanice",
@@ -1088,9 +1118,9 @@
                 "Bolshaya Kokshaga River"
             ]
         },
-        "Bear River (Washington)": {
-            "label": "Bear River",
-            "description": "The Bear River is a river in the U.S. state of Washington. Its upper reach is known as Bear Branch. Wikipedia",
+        "Blackbrook Reservoir": {
+            "label": "Blackbrook Reservoir",
+            "description": "Blackbrook Reservoir is a large body of water near Shepshed, Leicestershire, in England. The reservoir was constructed in 1796 in order to feed the Charnwood Forest Canal, which has long since vanished. Wikipedia",
             "type": ""
         },
         "Bolzer See": {
@@ -1103,36 +1133,6 @@
             "Area ": [
                 "200 acres (81 ha)"
             ]
-        },
-        "Big Quilcene River": {
-            "label": "Big Quilcene River",
-            "description": "The Big Quilcene River is a river on the Olympic Peninsula in the U.S. state of Washington. It rises in the Buckhorn Wilderness near Marmot Pass, south of Buckhorn Mountain, and near Mount Constance. Wikipedia",
-            "type": "",
-            "Source ": [
-                "Olympic Mountains"
-            ],
-            "Mouth ": [
-                "Hood Canal"
-            ]
-        },
-        "Ben Hai River": {
-            "label": "Bến Hải River",
-            "description": "The Bến Hải River is a river in central Vietnam which became an important landmark in the partition of the country into a northern and a southern zone along the 17th parallel by the Geneva Accords of 1954. Wikipedia",
-            "type": "",
-            "Length ": [
-                "62 miles (100 km)"
-            ],
-            "Mouth ": [
-                "South China Sea"
-            ],
-            "Country ": [
-                "Vietnam"
-            ]
-        },
-        "Berner Au": {
-            "label": "Berner Au",
-            "description": "Berner Au is a river of Hamburg, Germany. Wikipedia",
-            "type": ""
         },
         "Brandenberger Ache": {
             "label": "Brandenberger Ache",
@@ -1168,6 +1168,28 @@
             ],
             "People also search for": []
         },
+        "Breiðárlón": {
+            "label": "Breiðárlón",
+            "description": "Breiðárlón is a glacier lake at the south end of the Icelandic glacier Vatnajökull.\nThe glacier calving into the lagoon is a part of Vatnajökull National Park and the better known glacier lake Jökulsárlón is not far from there. Wikipedia",
+            "type": ""
+        },
+        "Brenz (river)": {
+            "label": "Brenz",
+            "description": "The Brenz is a river in Baden-Württemberg and Bavaria, Germany. It is a left tributary of the Danube. Wikipedia",
+            "type": "",
+            "Length ": [
+                "34 miles (55 km)"
+            ],
+            "Source ": [
+                "Swabian Jura"
+            ],
+            "Mouth ": [
+                "Danube"
+            ],
+            "Country ": [
+                "Germany"
+            ]
+        },
         "Brennersee": {
             "label": "Brennersee",
             "description": "The lake Brennersee lies approximately 1.15 km north of the Brenner Pass, 1310 metres above sea level. With an area of approximately 19 ha, it is the biggest lake in the Wipptal. Wikipedia",
@@ -1189,11 +1211,6 @@
             "Cities ": [
                 "Gries am Brenner"
             ]
-        },
-        "Breiðárlón": {
-            "label": "Breiðárlón",
-            "description": "Breiðárlón is a glacier lake at the south end of the Icelandic glacier Vatnajökull.\nThe glacier calving into the lagoon is a part of Vatnajökull National Park and the better known glacier lake Jökulsárlón is not far from there. Wikipedia",
-            "type": ""
         },
         "Bridgwater and Taunton Canal": {
             "label": "Bridgwater and Taunton Canal",
@@ -1305,6 +1322,48 @@
                 "12 acres (5 ha)"
             ]
         },
+        "Cayuga Lake": {
+            "label": "Cayuga Lake",
+            "description": "Cayuga Lake is the longest of central New York's glacial Finger Lakes, and is the second largest in surface area and second largest in volume. It is just under 40 miles long. Wikipedia",
+            "type": "",
+            "Area ": [
+                "66.41 sq miles (172 km²)"
+            ],
+            "Surface elevation ": [
+                "382' (116 m)"
+            ],
+            "Width ": [
+                "3.48 miles (5.6 km)"
+            ],
+            "Length ": [
+                "37.9 miles (61 km)"
+            ],
+            "Fish ": [
+                "Atlantic salmon",
+                " Northern pike",
+                " Rainbow trout",
+                " Lake trout",
+                " Brown trout",
+                " Largemouth bass",
+                " Smallmouth bass",
+                " Yellow perch"
+            ],
+            "Islands ": [
+                "Frontenac Island"
+            ],
+            "People also search for": []
+        },
+        "Cebollatí River": {
+            "label": "Cebollatí River",
+            "description": "Cebollati river is a Uruguayan river that rises in Cuchilla Grande, flows southwest to northeast and forms a border between Treinta y Tres and Rocha. At roughly 235 kilometres, it is one of the longest rivers in Uruguay. Wikipedia",
+            "type": "",
+            "Length ": [
+                "146 miles (235 km)"
+            ],
+            "Country ": [
+                "Uruguay"
+            ]
+        },
         "Chagodoshcha River": {
             "label": "Chagodoshcha River",
             "description": "The Chagodoshcha is a river in Boksitogorsky District of Leningrad Oblast and in Chagodoshchensky, Babayevsky, and Ustyuzhensky Districts of Vologda Oblast in Russia. It is a left tributary of the Mologa River. Wikipedia",
@@ -1376,112 +1435,53 @@
                 " Berkeley Lake"
             ],
             "See results about": []
-        },
-        "Cebollatí River": {
-            "label": "Cebollatí River",
-            "description": "Cebollati river is a Uruguayan river that rises in Cuchilla Grande, flows southwest to northeast and forms a border between Treinta y Tres and Rocha. At roughly 235 kilometres, it is one of the longest rivers in Uruguay. Wikipedia",
-            "type": "",
-            "Length ": [
-                "146 miles (235 km)"
-            ],
-            "Country ": [
-                "Uruguay"
-            ]
-        },
-        "Cayuga Lake": {
-            "label": "Cayuga Lake",
-            "description": "Cayuga Lake is the longest of central New York's glacial Finger Lakes, and is the second largest in surface area and second largest in volume. It is just under 40 miles long. Wikipedia",
-            "type": "",
-            "Area ": [
-                "66.41 sq miles (172 km²)"
-            ],
-            "Surface elevation ": [
-                "382' (116 m)"
-            ],
-            "Width ": [
-                "3.48 miles (5.6 km)"
-            ],
-            "Length ": [
-                "37.9 miles (61 km)"
-            ],
-            "Fish ": [
-                "Atlantic salmon",
-                " Northern pike",
-                " Rainbow trout",
-                " Lake trout",
-                " Brown trout",
-                " Largemouth bass",
-                " Smallmouth bass",
-                " Yellow perch"
-            ],
-            "Islands ": [
-                "Frontenac Island"
-            ],
-            "People also search for": []
-        },
-        "Brenz (river)": {
-            "label": "Brenz",
-            "description": "The Brenz is a river in Baden-Württemberg and Bavaria, Germany. It is a left tributary of the Danube. Wikipedia",
-            "type": "",
-            "Length ": [
-                "34 miles (55 km)"
-            ],
-            "Source ": [
-                "Swabian Jura"
-            ],
-            "Mouth ": [
-                "Danube"
-            ],
-            "Country ": [
-                "Germany"
-            ]
         }
     },
     "summary": {
         "label": 90,
         "description": 90,
         "type": 90,
-        "Length ": 56,
-        "Discharge ": 20,
-        "Basin area ": 19,
-        "Mouth ": 34,
-        "Country ": 26,
-        "Bridges ": 4,
-        "Surface elevation ": 20,
-        "Area ": 26,
-        "Outflow location ": 7,
-        "Width ": 9,
-        "Mean depth ": 5,
-        "Catchment area ": 2,
-        "People also search for": 12,
-        "Source ": 21,
-        "Cities ": 9,
-        "Source elevation ": 2,
-        "Mouths ": 3,
-        "Countries ": 3,
-        "Inflow source ": 5,
-        "Scientific name ": 1,
-        "Higher classification ": 1,
-        "Mass ": 1,
-        "Gestation period ": 1,
-        "Rank ": 1,
-        "Tail length ": 1,
-        "Body length ": 1,
-        "See results about": 7,
-        "Sources ": 1,
-        "Fish ": 1,
-        "Islands ": 1
+        "length": 1,
+        "discharge": 1,
+        "basin_area": 1,
+        "mouth": 1,
+        "country": 1,
+        "bridges": 1,
+        "surface_elevation": 1,
+        "area": 1,
+        "outflow_location": 1,
+        "width": 1,
+        "mean_depth": 1,
+        "catchment_area": 1,
+        "people_also_search_for": 1,
+        "source": 1,
+        "cities": 1,
+        "source_elevation": 1,
+        "mouths": 1,
+        "countries": 1,
+        "inflow_source": 1,
+        "scientific_name": 1,
+        "higher_classification": 1,
+        "mass": 1,
+        "gestation_period": 1,
+        "rank": 1,
+        "tail_length": 1,
+        "body_length": 1,
+        "see_results_about": 1,
+        "sources": 1,
+        "fish": 1,
+        "islands": 1
     },
     "infoboxless": [
-        "Alkupis (Nevėžis)",
         "Świna",
+        "Alkupis (Nevėžis)",
         "Aukštoji Gervė",
-        "Baagebach",
-        "Brampton Lake",
-        "Bracht (river)",
+        "Bära",
         "Bühler (river)",
+        "Baagebach",
         "Biber (Möhne)",
-        "Buy River",
-        "Bära"
+        "Bracht (river)",
+        "Brampton Lake",
+        "Buy River"
     ]
 }

@@ -1,5 +1,11 @@
 {
     "instances": {
+        "Bathyscaphe Trieste": {
+            "label": "Bathyscaphe Trieste",
+            "description": "Trieste is a Swiss-designed, Italian-built deep-diving research bathyscaphe, which with her crew of two reached a record maximum depth of about 10,911 metres, in the deepest known part of the Earth's ... Wikipedia",
+            "type": "Ship",
+            "Launched ": "August 26, 1953"
+        },
         "Brazilian aircraft carrier Minas Gerais": {
             "label": "Brazilian aircraft carrier Minas Gerais",
             "description": "NAeL Minas Gerais was a Colossus-class aircraft carrier operated by the Marinha do Brasil from 1960 until 2001. Wikipedia",
@@ -10,18 +16,20 @@
                 "Swan Hunter"
             ]
         },
-        "Bathyscaphe Trieste": {
-            "label": "Bathyscaphe Trieste",
-            "description": "Trieste is a Swiss-designed, Italian-built deep-diving research bathyscaphe, which with her crew of two reached a record maximum depth of about 10,911 metres, in the deepest known part of the Earth's ... Wikipedia",
-            "type": "Ship",
-            "Launched ": "August 26, 1953"
-        },
         "Bulgaria (ship)": {
             "label": "Bulgaria",
             "description": "Bulgaria was a class 785/OL800 Russian river cruise ship which operated in the Volga-Don basin. On 10 July 2011, Bulgaria sank in the Kuybyshev Reservoir of the Volga River near Syukeyevo, Kamsko-Ustyinsky ... Wikipedia",
             "type": "Ship",
             "Launched ": [
                 "1955"
+            ]
+        },
+        "COSCO Guangzhou": {
+            "label": "COSCO Guangzhou",
+            "description": "COSCO Guangzhou is a container ship, and one of the largest currently in service. She was built for Cosco Ship Management in 2006 at the company's shipyards. Wikipedia",
+            "type": "Ship",
+            "Launched ": [
+                "2006"
             ]
         },
         "CSS Alabama": {
@@ -46,14 +54,6 @@
             "type": "Boat",
             "Launched ": [
                 "1856"
-            ]
-        },
-        "COSCO Guangzhou": {
-            "label": "COSCO Guangzhou",
-            "description": "COSCO Guangzhou is a container ship, and one of the largest currently in service. She was built for Cosco Ship Management in 2006 at the company's shipyards. Wikipedia",
-            "type": "Ship",
-            "Launched ": [
-                "2006"
             ]
         },
         "CSS Virginia": {
@@ -110,15 +110,6 @@
             "Construction started ": "June 12, 1927",
             "Launched ": "April 20, 1928"
         },
-        "French cruiser De Grasse": {
-            "label": "French cruiser De Grasse",
-            "description": "The De Grasse was an anti-aircraft cruiser of the French Navy. She was the first French vessel named in honour of François Joseph Paul, marquis de Grasetilly, comte de Grasse. She was involved in the nuclear test campaigns in Mururoa. Wikipedia",
-            "type": "",
-            "Construction started ": [
-                "1939"
-            ],
-            "Launched ": "September 11, 1946"
-        },
         "French cruiser Colbert (C611)": {
             "label": "French cruiser Colbert",
             "description": "Colbert was an anti-air cruiser, later transformed into a missile cruiser, of the French Navy. She was the sixth ship of the French Navy to be named after Jean-Baptiste Colbert. Wikipedia",
@@ -127,6 +118,15 @@
                 "December 1953"
             ],
             "Launched ": "March 24, 1956"
+        },
+        "French cruiser De Grasse": {
+            "label": "French cruiser De Grasse",
+            "description": "The De Grasse was an anti-aircraft cruiser of the French Navy. She was the first French vessel named in honour of François Joseph Paul, marquis de Grasetilly, comte de Grasse. She was involved in the nuclear test campaigns in Mururoa. Wikipedia",
+            "type": "",
+            "Construction started ": [
+                "1939"
+            ],
+            "Launched ": "September 11, 1946"
         },
         "French cruiser Jeanne d'Arc (R97)": {
             "label": "French cruiser Jeanne d'Arc",
@@ -139,19 +139,19 @@
                 "1961"
             ]
         },
-        "French cruiser Tourville": {
-            "label": "French cruiser Tourville",
-            "description": "The Tourville was a French Duquesne class heavy cruiser that served during World War II. Wikipedia",
-            "type": "Duquesne-class cruiser",
-            "Construction started ": "March 4, 1925",
-            "Launched ": "August 24, 1926"
-        },
         "French cruiser Primauguet (1924)": {
             "label": "French cruiser Primauguet",
             "description": "Primauguet was a French Duguay-Trouin-class light cruiser built after World War I and destroyed by US naval gunfire from the battleship Massachusetts. She was named after the 15th century Breton captain Hervé de Portzmoguer, nicknamed \"Primauguet\". Wikipedia",
             "type": "Duguay-Trouin-class cruiser",
             "Construction started ": "August 16, 1923",
             "Launched ": "May 21, 1924"
+        },
+        "French cruiser Tourville": {
+            "label": "French cruiser Tourville",
+            "description": "The Tourville was a French Duquesne class heavy cruiser that served during World War II. Wikipedia",
+            "type": "Duquesne-class cruiser",
+            "Construction started ": "March 4, 1925",
+            "Launched ": "August 24, 1926"
         },
         "French destroyer Aconit (F65)": {
             "label": "French destroyer Aconit",
@@ -168,6 +168,12 @@
                 "February 1786"
             ],
             "Launched ": "August 9, 1787"
+        },
+        "French submarine Surcouf (N N 3)": {
+            "label": "French submarine Surcouf",
+            "description": "Surcouf was a French submarine ordered to be built in December 1927, launched on 18 October 1929, and commissioned in May 1934. Wikipedia",
+            "type": "",
+            "Launched ": "October 18, 1929"
         },
         "French ironclad Gloire": {
             "label": "French ironclad Gloire",
@@ -191,12 +197,6 @@
             "type": "Ship",
             "Construction started ": "May 20, 1975",
             "Launched ": "March 28, 1976"
-        },
-        "French submarine Surcouf (N N 3)": {
-            "label": "French submarine Surcouf",
-            "description": "Surcouf was a French submarine ordered to be built in December 1927, launched on 18 October 1929, and commissioned in May 1934. Wikipedia",
-            "type": "",
-            "Launched ": "October 18, 1929"
         },
         "German aircraft carrier Graf Zeppelin": {
             "label": "German aircraft carrier Graf Zeppelin",
@@ -232,12 +232,6 @@
             "Construction started ": "April 12, 1966",
             "Launched ": "April 13, 1967"
         },
-        "German submarine Deutschland": {
-            "label": "German submarine Deutschland",
-            "description": "Deutschland was a blockade-breaking German merchant submarine used during World War I. It was developed with private funds and operated by the North German Lloyd Line. Wikipedia",
-            "type": "Boat",
-            "Launched ": "March 28, 1918"
-        },
         "German night fighter direction vessel Togo": {
             "label": "German night fighter direction vessel Togo",
             "description": "The MS Togo was a German merchant ship that was launched in 1938. Requisitioned by the Kriegsmarine as Schiff 14, in April 1940 she participated in the invasion of Norway; in August 1940 was converted ... Wikipedia",
@@ -245,6 +239,22 @@
             "Launched ": "August 13, 1938",
             "Builder ": [
                 "Bremer Vulkan"
+            ]
+        },
+        "German submarine Deutschland": {
+            "label": "German submarine Deutschland",
+            "description": "Deutschland was a blockade-breaking German merchant submarine used during World War I. It was developed with private funds and operated by the North German Lloyd Line. Wikipedia",
+            "type": "Boat",
+            "Launched ": "March 28, 1918"
+        },
+        "German submarine U-2511": {
+            "label": "German submarine U-2511",
+            "description": "German submarine U-2511 was a Type XXI U-boat of Nazi Germany's Kriegsmarine during World War II. The Elektroboote submarine was laid down on 7 July 1944 at the Blohm & Voss yard at Hamburg, launched ... Wikipedia",
+            "type": "Type XXI submarine",
+            "Construction started ": "July 7, 1944",
+            "Launched ": "September 2, 1944",
+            "Builder ": [
+                "Blohm + Voss"
             ]
         },
         "Golden Hind": {
@@ -269,32 +279,18 @@
             ],
             "People also search for": []
         },
-        "German submarine U-2511": {
-            "label": "German submarine U-2511",
-            "description": "German submarine U-2511 was a Type XXI U-boat of Nazi Germany's Kriegsmarine during World War II. The Elektroboote submarine was laid down on 7 July 1944 at the Blohm & Voss yard at Hamburg, launched ... Wikipedia",
-            "type": "Type XXI submarine",
-            "Construction started ": "July 7, 1944",
-            "Launched ": "September 2, 1944",
-            "Builder ": [
-                "Blohm + Voss"
-            ]
+        "H. L. Hunley (submarine)": {
+            "label": "H.L. Hunley Confederate Submarine",
+            "description": "",
+            "type": "",
+            "People also search for": []
         },
-        "HMHS Britannic": {
-            "label": "HMHS Britannic",
-            "description": "HMHS Britannic was the third and largest Olympic-class ocean liner of the White Star Line. She was the sister ship of RMS Olympic and RMS Titanic, and was intended to enter service as the transatlantic passenger liner, RMS Britannic. Wikipedia",
-            "type": "Olympic Class Ocean Liner",
-            "Construction started ": "November 30, 1911",
-            "Launched ": "February 26, 1914",
-            "Length ": [
-                "883' (269 m)"
-            ],
-            "Weight ": [
-                "48",
-                "080 tons"
-            ],
-            "Builder ": [
-                "Harland and Wolff"
-            ]
+        "HMAS Nizam (G38)": {
+            "label": "HMAS Nizam",
+            "description": "HMAS Nizam was an N class destroyer of the Royal Australian Navy. The destroyer, named after Sir Osman Ali Khan, the last Nizam of Hyderabad, was commissioned into the RAN in 1940, although the ship ... Wikipedia",
+            "type": "Ship",
+            "Construction started ": "July 27, 1939",
+            "Launched ": "July 4, 1940"
         },
         "HMAS Sydney (1912)": {
             "label": "HMAS Sydney",
@@ -320,18 +316,22 @@
                 " United Kingdom"
             ]
         },
-        "HMAS Nizam (G38)": {
-            "label": "HMAS Nizam",
-            "description": "HMAS Nizam was an N class destroyer of the Royal Australian Navy. The destroyer, named after Sir Osman Ali Khan, the last Nizam of Hyderabad, was commissioned into the RAN in 1940, although the ship ... Wikipedia",
-            "type": "Ship",
-            "Construction started ": "July 27, 1939",
-            "Launched ": "July 4, 1940"
-        },
-        "H. L. Hunley (submarine)": {
-            "label": "H.L. Hunley Confederate Submarine",
-            "description": "",
-            "type": "",
-            "People also search for": []
+        "HMHS Britannic": {
+            "label": "HMHS Britannic",
+            "description": "HMHS Britannic was the third and largest Olympic-class ocean liner of the White Star Line. She was the sister ship of RMS Olympic and RMS Titanic, and was intended to enter service as the transatlantic passenger liner, RMS Britannic. Wikipedia",
+            "type": "Olympic Class Ocean Liner",
+            "Construction started ": "November 30, 1911",
+            "Launched ": "February 26, 1914",
+            "Length ": [
+                "883' (269 m)"
+            ],
+            "Weight ": [
+                "48",
+                "080 tons"
+            ],
+            "Builder ": [
+                "Harland and Wolff"
+            ]
         },
         "HMNZS Achilles (70)": {
             "label": "HMNZS Achilles",
@@ -350,12 +350,39 @@
             "Construction started ": "March 23, 1971",
             "Launched ": "March 16, 1972"
         },
+        "HMS Berwick (65)": {
+            "label": "HMS Berwick (65)",
+            "description": "HMS Berwick (65) was a Royal Navy County class heavy cruiser, of the Kent subclass. She was built by Fairfield Shipbuilding and Engineering Company, with the keel being laid down on 15 September 1924. Wikipedia",
+            "type": "County-class cruiser",
+            "Construction started ": "September 15, 1924",
+            "Launched ": "March 30, 1926",
+            "Builder ": [
+                "Fairfield Shipbuilding and Engineering Company"
+            ]
+        },
         "HMS Canopus (1897)": {
             "label": "HMS Canopus",
             "description": "HMS Canopus was a pre-dreadnought battleship of the British Royal Navy and the lead ship of the Canopus class. At the beginning of the First world war she was involved in the search for the German East Asia Squadron of Admiral Graf Spee. Wikipedia",
             "type": "Canopus-class battleship",
             "Construction started ": "January 4, 1897",
             "Launched ": "October 13, 1897"
+        },
+        "HMS Crescent (1892)": {
+            "label": "HMS Crescent",
+            "description": "HMS Crescent was a first class cruiser of the Edgar class. Crescent, and her sister ship Royal Arthur, were built to a slightly modified design and are sometimes considered a separate class. She was built at Portsmouth and launched on 30 March 1892. Wikipedia",
+            "type": "Ship",
+            "Construction started ": "October 13, 1890",
+            "Launched ": "March 30, 1892",
+            "Builder ": [
+                "HMNB Portsmouth"
+            ]
+        },
+        "HMS Furious (47)": {
+            "label": "HMS Furious",
+            "description": "HMS Furious was a modified Courageous-class battlecruiser built for the Royal Navy during the First World War. Wikipedia",
+            "type": "Courageous-class aircraft carrier",
+            "Construction started ": "June 8, 1915",
+            "Launched ": "August 15, 1916"
         },
         "HMS Hasty (H24)": {
             "label": "HMS Hasty (H24)",
@@ -377,43 +404,6 @@
                 "HMNB Portsmouth"
             ]
         },
-        "HMS Berwick (65)": {
-            "label": "HMS Berwick (65)",
-            "description": "HMS Berwick (65) was a Royal Navy County class heavy cruiser, of the Kent subclass. She was built by Fairfield Shipbuilding and Engineering Company, with the keel being laid down on 15 September 1924. Wikipedia",
-            "type": "County-class cruiser",
-            "Construction started ": "September 15, 1924",
-            "Launched ": "March 30, 1926",
-            "Builder ": [
-                "Fairfield Shipbuilding and Engineering Company"
-            ]
-        },
-        "HMS Cumberland (57)": {
-            "label": "HMS Cumberland",
-            "description": "HMS Cumberland was a County class heavy cruiser of the Royal Navy that saw action during the Second World War. Wikipedia",
-            "type": "County-class cruiser",
-            "Construction started ": "October 18, 1924",
-            "Launched ": "March 16, 1926",
-            "Builder ": [
-                "Vickers-Armstrongs"
-            ]
-        },
-        "HMS Crescent (1892)": {
-            "label": "HMS Crescent",
-            "description": "HMS Crescent was a first class cruiser of the Edgar class. Crescent, and her sister ship Royal Arthur, were built to a slightly modified design and are sometimes considered a separate class. She was built at Portsmouth and launched on 30 March 1892. Wikipedia",
-            "type": "Ship",
-            "Construction started ": "October 13, 1890",
-            "Launched ": "March 30, 1892",
-            "Builder ": [
-                "HMNB Portsmouth"
-            ]
-        },
-        "HMS Furious (47)": {
-            "label": "HMS Furious",
-            "description": "HMS Furious was a modified Courageous-class battlecruiser built for the Royal Navy during the First World War. Wikipedia",
-            "type": "Courageous-class aircraft carrier",
-            "Construction started ": "June 8, 1915",
-            "Launched ": "August 15, 1916"
-        },
         "HMS Hood (1891)": {
             "label": "HMS Hood",
             "description": "HMS Hood was a modified Royal Sovereign-class pre-dreadnought battleship built for the Royal Navy in the early 1890s and the last of the eight built. Wikipedia",
@@ -431,6 +421,13 @@
                 "Scotts Shipbuilding and Engineering Company"
             ]
         },
+        "HMS Hermes (95)": {
+            "label": "HMS Hermes",
+            "description": "HMS Hermes was an aircraft carrier built for the Royal Navy. The ship was begun during World War I and finished after the war ended. Wikipedia",
+            "type": "Ship",
+            "Construction started ": "January 15, 1918",
+            "Launched ": "September 11, 1919"
+        },
         "HMS Invincible (R05)": {
             "label": "HMS Invincible",
             "description": "HMS Invincible was the Royal Navy's lead ship of the three light aircraft carriers in her class. She was launched on 3 May 1977 as the seventh ship to carry the name. Wikipedia",
@@ -443,22 +440,15 @@
                 "Vickers Shipbuilding and Engineering"
             ]
         },
-        "HMS Neptune (20)": {
-            "label": "HMS Neptune",
-            "description": "HMS Neptune was a Leander-class light cruiser which served with the Royal Navy during World War II.\nNeptune was the fourth ship of its class and was the ninth Royal Navy vessel to carry the name. Wikipedia",
-            "type": "Leander-class cruiser",
-            "Construction started ": "September 24, 1931",
-            "Launched ": "January 31, 1933",
+        "HMS London (69)": {
+            "label": "HMS London",
+            "description": "HMS London was a member of the second group of the County class heavy cruiser of the Royal Navy. She and her sisters; HMS Sussex, Shropshire, and Devonshire differed from the earlier group of Counties, ... Wikipedia",
+            "type": "County-class cruiser",
+            "Construction started ": "February 23, 1926",
+            "Launched ": "September 14, 1927",
             "Builder ": [
                 "HMNB Portsmouth"
             ]
-        },
-        "HMS Hermes (95)": {
-            "label": "HMS Hermes",
-            "description": "HMS Hermes was an aircraft carrier built for the Royal Navy. The ship was begun during World War I and finished after the war ended. Wikipedia",
-            "type": "Ship",
-            "Construction started ": "January 15, 1918",
-            "Launched ": "September 11, 1919"
         },
         "HMS Lion (1910)": {
             "label": "HMS Lion",
@@ -474,12 +464,12 @@
             "Construction started ": "October 20, 1913",
             "Launched ": "March 18, 1915"
         },
-        "HMS London (69)": {
-            "label": "HMS London",
-            "description": "HMS London was a member of the second group of the County class heavy cruiser of the Royal Navy. She and her sisters; HMS Sussex, Shropshire, and Devonshire differed from the earlier group of Counties, ... Wikipedia",
-            "type": "County-class cruiser",
-            "Construction started ": "February 23, 1926",
-            "Launched ": "September 14, 1927",
+        "HMS Neptune (20)": {
+            "label": "HMS Neptune",
+            "description": "HMS Neptune was a Leander-class light cruiser which served with the Royal Navy during World War II.\nNeptune was the fourth ship of its class and was the ninth Royal Navy vessel to carry the name. Wikipedia",
+            "type": "Leander-class cruiser",
+            "Construction started ": "September 24, 1931",
+            "Launched ": "January 31, 1933",
             "Builder ": [
                 "HMNB Portsmouth"
             ]
@@ -532,13 +522,6 @@
             "type": "Ship",
             "Launched ": "May 29, 1915"
         },
-        "HMS Royal Sovereign (05)": {
-            "label": "HMS Royal Sovereign",
-            "description": "HMS Royal Sovereign was a Revenge-class battleship of the Royal Navy displacing 28,000 metric tons and armed with eight 15-inch guns in four twin turrets. Wikipedia",
-            "type": "Ship",
-            "Construction started ": "January 15, 1914",
-            "Launched ": "April 29, 1915"
-        },
         "HMS Sheffield (D80)": {
             "label": "HMS Sheffield",
             "description": "HMS Sheffield was the second Royal Navy ship to be named after the city of Sheffield in Yorkshire. She was a Type 42 Guided Missile Destroyer laid down by Vickers Shipbuilding and Engineering at Barrow-in-Furness on 15 January 1970. Wikipedia",
@@ -548,6 +531,13 @@
             "Builder ": [
                 "Vickers Shipbuilding and Engineering"
             ]
+        },
+        "HMS Royal Sovereign (05)": {
+            "label": "HMS Royal Sovereign",
+            "description": "HMS Royal Sovereign was a Revenge-class battleship of the Royal Navy displacing 28,000 metric tons and armed with eight 15-inch guns in four twin turrets. Wikipedia",
+            "type": "Ship",
+            "Construction started ": "January 15, 1914",
+            "Launched ": "April 29, 1915"
         },
         "HMS Shropshire (73)": {
             "label": "HMS Shropshire",
@@ -609,6 +599,17 @@
                 "+56 41 274 5520"
             ]
         },
+        "INS Lahav": {
+            "label": "INS Lahav",
+            "description": "The INS Lahav is a Sa'ar 5-class corvette of the Israeli Navy that was built by Northrop Grumman Ship Systems in 1993. She is one of three Sa'ar 5-class corvettes in service with the Israeli Navy and her homeport is Haifa, Israel. Wikipedia",
+            "type": "Sa'ar 5-class corvette",
+            "Launched ": [
+                "August 1993"
+            ],
+            "Builder ": [
+                "Ingalls Shipbuilding"
+            ]
+        },
         "INS Viraat": {
             "label": "INS Viraat (R22)",
             "description": "INS Viraat (R22) is a Centaur-class aircraft carrier in service with the Indian Navy. INS Viraat is the flagship of the Indian Navy, the oldest carrier in service and one of three aircraft carriers based in the Indian Ocean Region. Wikipedia",
@@ -619,6 +620,25 @@
                 "Vickers Shipbuilding and Engineering"
             ],
             "See results about": []
+        },
+        "Italian aircraft carrier Giuseppe Garibaldi (551)": {
+            "label": "Italian aircraft carrier Giuseppe Garibaldi",
+            "description": "Giuseppe Garibaldi is an Italian aircraft carrier, the first through deck aviation ship ever built for the Italian Navy, and the first Italian ship built to operate fixed-wing aircraft. Wikipedia",
+            "type": "Ship",
+            "Construction started ": [
+                "March 1981"
+            ],
+            "Launched ": "June 11, 1983",
+            "Builder ": [
+                "Fincantieri"
+            ]
+        },
+        "Italian cruiser Eugenio di Savoia": {
+            "label": "Italian cruiser Eugenio di Savoia",
+            "description": "Eugenio di Savoia was a Condottieri class light cruiser, which served in the Regia Marina during World War II. She survived the war but was given as a war reparation to the Hellenic Navy in 1947. She was renamed Elli and served until 1964. Wikipedia",
+            "type": "Ship",
+            "Construction started ": "July 6, 1933",
+            "Launched ": "March 16, 1935"
         },
         "Italian aircraft carrier Sparviero": {
             "label": "Italian aircraft carrier Sparviero",
@@ -633,35 +653,16 @@
             "Construction started ": "June 6, 1909",
             "Launched ": "August 20, 1910"
         },
-        "Italian aircraft carrier Giuseppe Garibaldi (551)": {
-            "label": "Italian aircraft carrier Giuseppe Garibaldi",
-            "description": "Giuseppe Garibaldi is an Italian aircraft carrier, the first through deck aviation ship ever built for the Italian Navy, and the first Italian ship built to operate fixed-wing aircraft. Wikipedia",
-            "type": "Ship",
+        "Italian cruiser Gorizia": {
+            "label": "Italian cruiser Gorizia",
+            "description": "Gorizia was an Italian Zara class heavy cruiser, which served in the Regia Marina during World War II. The ship was named after the city of Gorizia. She was the only surviving cruiser of her class after the Battle of Cape Matapan in 1941. Wikipedia",
+            "type": "Zara-class cruiser",
             "Construction started ": [
-                "March 1981"
+                "1930"
             ],
-            "Launched ": "June 11, 1983",
-            "Builder ": [
-                "Fincantieri"
-            ]
-        },
-        "INS Lahav": {
-            "label": "INS Lahav",
-            "description": "The INS Lahav is a Sa'ar 5-class corvette of the Israeli Navy that was built by Northrop Grumman Ship Systems in 1993. She is one of three Sa'ar 5-class corvettes in service with the Israeli Navy and her homeport is Haifa, Israel. Wikipedia",
-            "type": "Sa'ar 5-class corvette",
             "Launched ": [
-                "August 1993"
-            ],
-            "Builder ": [
-                "Ingalls Shipbuilding"
+                "1930"
             ]
-        },
-        "Italian cruiser Eugenio di Savoia": {
-            "label": "Italian cruiser Eugenio di Savoia",
-            "description": "Eugenio di Savoia was a Condottieri class light cruiser, which served in the Regia Marina during World War II. She survived the war but was given as a war reparation to the Hellenic Navy in 1947. She was renamed Elli and served until 1964. Wikipedia",
-            "type": "Ship",
-            "Construction started ": "July 6, 1933",
-            "Launched ": "March 16, 1935"
         },
         "Italian cruiser Pola": {
             "label": "Italian cruiser Pola",
@@ -669,20 +670,6 @@
             "type": "Ship",
             "Construction started ": "March 17, 1930",
             "Launched ": "February 5, 1931",
-            "See results about": []
-        },
-        "Italian cruiser Raimondo Montecuccoli": {
-            "label": "Italian cruiser Raimondo Montecuccoli",
-            "description": "Raimondo Montecuccoli was a Condottieri-class light cruiser serving with the Italian Regia Marina during World War II. She survived the war and served in the post-war Marina Militare until 1964. Wikipedia",
-            "type": "",
-            "Construction started ": "October 1, 1931",
-            "Launched ": "August 2, 1934"
-        },
-        "Japanese aircraft carrier Kaiyo": {
-            "label": "Japanese aircraft carrier Kaiyo",
-            "description": "Kaiyo was an escort carrier operated by the Imperial Japanese Navy during World War II. The ship was originally built as the ocean liner Argentina Maru. Wikipedia",
-            "type": "Ship",
-            "Launched ": "December 9, 1938",
             "See results about": []
         },
         "Italian training ship Amerigo Vespucci": {
@@ -694,6 +681,13 @@
             ],
             "Launched ": "February 22, 1931"
         },
+        "Italian cruiser Raimondo Montecuccoli": {
+            "label": "Italian cruiser Raimondo Montecuccoli",
+            "description": "Raimondo Montecuccoli was a Condottieri-class light cruiser serving with the Italian Regia Marina during World War II. She survived the war and served in the post-war Marina Militare until 1964. Wikipedia",
+            "type": "",
+            "Construction started ": "October 1, 1931",
+            "Launched ": "August 2, 1934"
+        },
         "Italian cruiser Zara": {
             "label": "Italian cruiser Zara",
             "description": "Zara was an Italian Zara class heavy cruiser, which served in the Regia Marina during World War II. The cruiser was named after the Adriatic city of Zara. Wikipedia",
@@ -701,19 +695,19 @@
             "Construction started ": "July 4, 1929",
             "Launched ": "April 27, 1930"
         },
+        "Japanese aircraft carrier Kaiyo": {
+            "label": "Japanese aircraft carrier Kaiyo",
+            "description": "Kaiyo was an escort carrier operated by the Imperial Japanese Navy during World War II. The ship was originally built as the ocean liner Argentina Maru. Wikipedia",
+            "type": "Ship",
+            "Launched ": "December 9, 1938",
+            "See results about": []
+        },
         "Japanese cruiser Kinugasa": {
             "label": "Japanese cruiser Kinugasa",
             "description": "IJN Kinugasa was the second vessel in the two-vessel Aoba-class of heavy cruisers in the Imperial Japanese Navy. It was named after Mount Kinugasa, located in Yokosuka, Kanagawa, Japan. Wikipedia",
             "type": "Aoba-class cruiser",
             "Construction started ": "October 24, 1924",
             "Launched ": "October 24, 1926"
-        },
-        "Japanese cruiser Nachi": {
-            "label": "Japanese cruiser Nachi",
-            "description": "Nachi was the second of four Myōkō-class heavy cruisers built for the Imperial Japanese Navy — the other ships of the class being Myōkō, Ashigara and Haguro. She was named after a mountain in Wakayama Prefecture. Wikipedia",
-            "type": "Ship",
-            "Construction started ": "November 26, 1924",
-            "Launched ": "June 15, 1927"
         },
         "Japanese cruiser Furutaka": {
             "label": "Japanese cruiser Furutaka",
@@ -726,16 +720,12 @@
                 " Ltd."
             ]
         },
-        "Italian cruiser Gorizia": {
-            "label": "Italian cruiser Gorizia",
-            "description": "Gorizia was an Italian Zara class heavy cruiser, which served in the Regia Marina during World War II. The ship was named after the city of Gorizia. She was the only surviving cruiser of her class after the Battle of Cape Matapan in 1941. Wikipedia",
-            "type": "Zara-class cruiser",
-            "Construction started ": [
-                "1930"
-            ],
-            "Launched ": [
-                "1930"
-            ]
+        "Japanese cruiser Nachi": {
+            "label": "Japanese cruiser Nachi",
+            "description": "Nachi was the second of four Myōkō-class heavy cruisers built for the Imperial Japanese Navy — the other ships of the class being Myōkō, Ashigara and Haguro. She was named after a mountain in Wakayama Prefecture. Wikipedia",
+            "type": "Ship",
+            "Construction started ": "November 26, 1924",
+            "Launched ": "June 15, 1927"
         },
         "Japanese cruiser Suzuya (1934)": {
             "label": "Japanese cruiser Suzuya",
@@ -770,13 +760,6 @@
             "Construction started ": "December 8, 1941",
             "Launched ": "June 29, 1942"
         },
-        "Japanese destroyer Shimakaze (1942)": {
-            "label": "Japanese destroyer Shimakaze",
-            "description": "Shimakaze was a one-off super-destroyer built for the Imperial Japanese Navy during World War II. She was armed with six 127 mm dual purpose guns and conventional anti-aircraft and anti-submarine weaponry. Wikipedia",
-            "type": "Ship",
-            "Construction started ": "August 8, 1941",
-            "Launched ": "July 18, 1942"
-        },
         "Japanese destroyer Satsuki (1925)": {
             "label": "Japanese destroyer Satsuki",
             "description": "Satsuki was one of twelve Mutsuki-class destroyers, built for the Imperial Japanese Navy following World War I. Wikipedia",
@@ -789,43 +772,60 @@
             "description": "Wakamiya was a seaplane carrier of the Imperial Japanese Navy and the first Japanese aircraft carrier. She was converted from a transport ship into a seaplane carrier and commissioned in August 1914. Wikipedia",
             "type": "Ship",
             "Launched ": "September 21, 1900"
+        },
+        "Japanese destroyer Shimakaze (1942)": {
+            "label": "Japanese destroyer Shimakaze",
+            "description": "Shimakaze was a one-off super-destroyer built for the Imperial Japanese Navy during World War II. She was armed with six 127 mm dual purpose guns and conventional anti-aircraft and anti-submarine weaponry. Wikipedia",
+            "type": "Ship",
+            "Construction started ": "August 8, 1941",
+            "Launched ": "July 18, 1942"
+        },
+        "HMS Cumberland (57)": {
+            "label": "HMS Cumberland",
+            "description": "HMS Cumberland was a County class heavy cruiser of the Royal Navy that saw action during the Second World War. Wikipedia",
+            "type": "County-class cruiser",
+            "Construction started ": "October 18, 1924",
+            "Launched ": "March 16, 1926",
+            "Builder ": [
+                "Vickers-Armstrongs"
+            ]
         }
     },
     "summary": {
         "label": 86,
         "description": 86,
         "type": 86,
-        "Construction started ": 64,
-        "Launched ": 83,
-        "Builder ": 25,
-        "Place built ": 5,
-        "Length ": 4,
-        "Hull material ": 3,
-        "See results about": 4,
-        "Designer ": 1,
-        "Address ": 2,
-        "Hours ": 1,
-        "Owner ": 2,
-        "People also search for": 2,
-        "Weight ": 3,
-        "Beam ": 2,
-        "Propulsion ": 1,
-        "Phone ": 1
+        "launched": 1,
+        "construction_started": 1,
+        "builder": 1,
+        "place_built": 1,
+        "length": 1,
+        "hull_material": 1,
+        "see_results_about": 1,
+        "designer": 1,
+        "address": 1,
+        "hours": 1,
+        "owner": 1,
+        "people_also_search_for": 1,
+        "weight": 1,
+        "beam": 1,
+        "propulsion": 1,
+        "phone": 1
     },
     "infoboxless": [
         "Batavia (ship)",
         "Big Four (White Star Line)",
         "Britannia class steamship",
         "CSS Scorpion",
+        "Eritrea (ship)",
+        "French cruiser Jeanne d'Arc (1930)",
         "French frigate Sérieuse (1779)",
         "German Type XIV submarine",
         "HMS Carnarvon (1903)",
         "HNLMS Kortenaer (1925)",
-        "Eritrea (ship)",
-        "French cruiser Jeanne d'Arc (1930)",
-        "Japanese destroyer Amagiri",
-        "Japanese cruiser Yahagi (1942)",
         "Japanese cruiser Tone (1937)",
+        "Japanese cruiser Yahagi (1942)",
+        "Japanese destroyer Amagiri",
         "Japanese destroyer Asashio"
     ]
 }

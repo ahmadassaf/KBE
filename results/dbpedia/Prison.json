@@ -1,5 +1,22 @@
 {
     "instances": {
+        "Columbia Correctional Institution": {
+            "label": "Columbia Correctional Institution",
+            "description": "The Columbia Correctional Institution is an adult male maximum-security correctional facility operated by the Wisconsin Department of Corrections Division of Adult Institutions in Portage, Wisconsin. The operating capacity is 541. Wikipedia",
+            "type": "Correctional facility",
+            "Address ": [
+                "2925 Columbia Dr",
+                " Portage",
+                " WI 53901",
+                " United States"
+            ],
+            "Hours ": [
+                "Wisconsin Dept Of Corrections School District"
+            ],
+            "District ": [
+                "(608) 742-9100"
+            ]
+        },
         "California Institution for Men": {
             "label": "California Institution for Men",
             "description": "California Institution for Men is a male-only state prison located in the city of Chino, San Bernardino County, California. It is often colloquially referenced as \"Chino.\" Wikipedia",
@@ -22,42 +39,14 @@
                 " United States"
             ]
         },
-        "Columbia Correctional Institution": {
-            "label": "Columbia Correctional Institution",
-            "description": "The Columbia Correctional Institution is an adult male maximum-security correctional facility operated by the Wisconsin Department of Corrections Division of Adult Institutions in Portage, Wisconsin. The operating capacity is 541. Wikipedia",
-            "type": "Correctional facility",
-            "Address ": [
-                "2925 Columbia Dr",
-                " Portage",
-                " WI 53901",
-                " United States"
-            ],
-            "Hours ": [
-                "Wisconsin Dept Of Corrections School District"
-            ],
-            "District ": [
-                "(608) 742-9100"
-            ]
-        },
-        "Lansing Correctional Facility": {
-            "label": "Lansing Correctional Facility",
-            "description": "Lansing Correctional Facility is a state prison operated by the Kansas Department of Corrections. LCF is located in Lansing, Kansas, in Leavenworth County. Wikipedia",
+        "Ely State Prison": {
+            "label": "Ely State Prison",
+            "description": "Ely State Prison is a maximum security penitentiary located in unincorporated White Pine County, Nevada, north of Ely. The facility, operated by the Nevada Department of Corrections, opened in July 1989. Wikipedia",
             "type": "",
             "Address ": [
-                "301 E Kansas Ave",
-                " Lansing",
-                " KS 66043",
-                " United States"
-            ]
-        },
-        "Washington State Penitentiary": {
-            "label": "Washington State Penitentiary",
-            "description": "Washington State Penitentiary is a Washington State Department of Corrections men's prison located in Walla Walla, Washington. With an operating capacity of 2200, it is the second largest prison in the state and is surrounded by wheat fields. Wikipedia",
-            "type": "",
-            "Address ": [
-                "1313 N 13th Ave",
-                " Walla Walla",
-                " WA 99362",
+                "4569 Nevada 490",
+                " Ely",
+                " NV 89301",
                 " United States"
             ]
         },
@@ -72,6 +61,22 @@
                 " United States"
             ]
         },
+        "Dodge Correctional Institution": {
+            "label": "Dodge Correctional Institution",
+            "description": "Dodge Correctional Institution, is an adult male maximum-security correctional facility operated by the Wisconsin Department of Corrections Division of Adult Institutions in Waupun, Wisconsin. Wikipedia",
+            "type": "Correctional facility"
+        },
+        "Lansing Correctional Facility": {
+            "label": "Lansing Correctional Facility",
+            "description": "Lansing Correctional Facility is a state prison operated by the Kansas Department of Corrections. LCF is located in Lansing, Kansas, in Leavenworth County. Wikipedia",
+            "type": "",
+            "Address ": [
+                "301 E Kansas Ave",
+                " Lansing",
+                " KS 66043",
+                " United States"
+            ]
+        },
         "Lowell Correctional Institution": {
             "label": "Lowell Correctional Institution",
             "description": "Lowell Correctional Institution located in unincorporated Marion County, Florida, near Ocala, was the first Florida prison for women. It was opened in April 1956 as the Florida Correctional Institution. Wikipedia",
@@ -83,27 +88,10 @@
                 " United States"
             ]
         },
-        "Vestre Fængsel": {
-            "label": "Vestre Fængsel",
-            "description": "Vestre Fængsel is the main jail of the Danish capital, Copenhagen. Erected in 1895, it is Denmark's largest prison with a total capacity of 530 inmates. It primarily houses pretrial detainees, not convicted felons. Wikipedia",
-            "type": "",
-            "Address ": [
-                "København SV",
-                " København",
-                " Denmark"
-            ]
-        },
         "Black Beach": {
             "label": "Black's Beach",
             "description": "Black's Beach is a secluded section of beach beneath the bluffs of Torrey Pines on the Pacific Ocean in La Jolla, San Diego, California, United States. It is officially part of Torrey Pines State Beach. Wikipedia",
             "type": ""
-        },
-        "Landsberg Prison": {
-            "label": "Landsberg Prison",
-            "description": "Landsberg Prison is a penal facility located in the town of Landsberg am Lech in the southwest of the German state of Bavaria, about 65 kilometres west of Munich and 35 kilometres south of Augsburg. Wikipedia",
-            "type": "",
-            "Address ": "Hindenburgring 12, 86899 Landsberg am Lech, Germany",
-            "People also search for": []
         },
         "Oklahoma State Reformatory": {
             "label": "Oklahoma State Reformatory",
@@ -116,6 +104,29 @@
                 " United States"
             ]
         },
+        "Washington State Penitentiary": {
+            "label": "Washington State Penitentiary",
+            "description": "Washington State Penitentiary is a Washington State Department of Corrections men's prison located in Walla Walla, Washington. With an operating capacity of 2200, it is the second largest prison in the state and is surrounded by wheat fields. Wikipedia",
+            "type": "",
+            "Address ": [
+                "1313 N 13th Ave",
+                " Walla Walla",
+                " WA 99362",
+                " United States"
+            ]
+        },
+        "Landsberg Prison": {
+            "label": "Landsberg Prison",
+            "description": "Landsberg Prison is a penal facility located in the town of Landsberg am Lech in the southwest of the German state of Bavaria, about 65 kilometres west of Munich and 35 kilometres south of Augsburg. Wikipedia",
+            "type": "",
+            "Address ": "Hindenburgring 12, 86899 Landsberg am Lech, Germany",
+            "People also search for": []
+        },
+        "Cooma Correctional Centre": {
+            "label": "Cooma Correctional Centre",
+            "description": "Cooma Correctional Centre, an Australian minimum to medium prison for males and females, is located in Cooma, New South Wales. Wikipedia",
+            "type": "Prison"
+        },
         "Bandyup Women's Prison": {
             "label": "Bandyup Women's Prison",
             "description": "Bandyup Women's Prison is located in the northeastern rural Perth suburb of West Swan, Western Australia. Prior to its construction, the female prisoners were at Fremantle Prison, which was overcrowded and offered women limited opportunities. Wikipedia",
@@ -124,6 +135,21 @@
                 "95-100 Middle Swan Rd",
                 " Middle Swan Western Australia 6055",
                 " Australia"
+            ]
+        },
+        "Sugar House Prison (Utah)": {
+            "label": "Sugar House Prison",
+            "description": "Sugar House Prison, previously the Utah Territorial Penitentiary, was a prison in the Sugar House neighborhood of Salt Lake City, Utah, United States. The 180-acre prison housed more than 400 inmates. Wikipedia",
+            "type": "Utah"
+        },
+        "Vestre Fængsel": {
+            "label": "Vestre Fængsel",
+            "description": "Vestre Fængsel is the main jail of the Danish capital, Copenhagen. Erected in 1895, it is Denmark's largest prison with a total capacity of 530 inmates. It primarily houses pretrial detainees, not convicted felons. Wikipedia",
+            "type": "",
+            "Address ": [
+                "København SV",
+                " København",
+                " Denmark"
             ]
         },
         "Minnesota Correctional Facility – Oak Park Heights": {
@@ -137,31 +163,15 @@
                 " United States"
             ]
         },
-        "Ely State Prison": {
-            "label": "Ely State Prison",
-            "description": "Ely State Prison is a maximum security penitentiary located in unincorporated White Pine County, Nevada, north of Ely. The facility, operated by the Nevada Department of Corrections, opened in July 1989. Wikipedia",
-            "type": "",
-            "Address ": [
-                "4569 Nevada 490",
-                " Ely",
-                " NV 89301",
-                " United States"
-            ]
-        },
-        "Dodge Correctional Institution": {
-            "label": "Dodge Correctional Institution",
-            "description": "Dodge Correctional Institution, is an adult male maximum-security correctional facility operated by the Wisconsin Department of Corrections Division of Adult Institutions in Waupun, Wisconsin. Wikipedia",
-            "type": "Correctional facility"
-        },
-        "Cooma Correctional Centre": {
-            "label": "Cooma Correctional Centre",
-            "description": "Cooma Correctional Centre, an Australian minimum to medium prison for males and females, is located in Cooma, New South Wales. Wikipedia",
+        "Parramatta Correctional Centre": {
+            "label": "Parramatta Correctional Centre",
+            "description": "Parramatta Correctional Centre, a former Australian medium security prison for males, was in operation between 1798 and 2011. Wikipedia",
             "type": "Prison"
         },
-        "Sugar House Prison (Utah)": {
-            "label": "Sugar House Prison",
-            "description": "Sugar House Prison, previously the Utah Territorial Penitentiary, was a prison in the Sugar House neighborhood of Salt Lake City, Utah, United States. The 180-acre prison housed more than 400 inmates. Wikipedia",
-            "type": "Utah"
+        "Southern Queensland Correctional Centre": {
+            "label": "Southern Queensland Correctional Centre",
+            "description": "The Southern Queensland Correctional Centre is an Australian prison facility located in the Lockyer Valley, 15 km north from Gatton, and 94 km west from Brisbane, Queensland. Wikipedia",
+            "type": ""
         },
         "Naini Central Prison": {
             "label": "Naini Central Prison",
@@ -175,15 +185,21 @@
                 " India"
             ]
         },
-        "Parramatta Correctional Centre": {
-            "label": "Parramatta Correctional Centre",
-            "description": "Parramatta Correctional Centre, a former Australian medium security prison for males, was in operation between 1798 and 2011. Wikipedia",
-            "type": "Prison"
-        },
         "Oberon Correctional Centre": {
             "label": "Oberon Correctional Centre",
             "description": "Oberon Correctional Centre, an Australian minimum security prison for young male offenders, is located 40 kilometres from Oberon, New South Wales. Wikipedia",
             "type": "Prison"
+        },
+        "Federal Correctional Institution, Lompoc": {
+            "label": "Federal Correctional Institution, Lompoc",
+            "description": "The Federal Correctional Institution, Lompoc is a low-security United States federal prison for male inmates in California. Wikipedia",
+            "type": "Prison",
+            "Address ": [
+                "3600 Guard Rd",
+                " Lompoc",
+                " CA 93436",
+                " United States"
+            ]
         },
         "Chuckawalla Valley State Prison": {
             "label": "Chuckawalla Valley State Prison",
@@ -196,24 +212,74 @@
                 " United States"
             ]
         },
-        "Southern Queensland Correctional Centre": {
-            "label": "Southern Queensland Correctional Centre",
-            "description": "The Southern Queensland Correctional Centre is an Australian prison facility located in the Lockyer Valley, 15 km north from Gatton, and 94 km west from Brisbane, Queensland. Wikipedia",
-            "type": ""
+        "Federal Correctional Institution, Fort Worth": {
+            "label": "Federal Correctional Institution, Fort Worth",
+            "description": "The Federal Correctional Institution is a low-security United States federal prison for male inmates located in the city of Fort Worth, Texas. It is operated by the Federal Bureau of Prisons, a division of the United States Department of Justice. Wikipedia",
+            "type": "Prison",
+            "Address ": [
+                "3150 Horton Rd",
+                " Fort Worth",
+                " TX 76119",
+                " United States"
+            ]
         },
         "Joliet Correctional Center": {
             "label": "Joliet Correctional Center",
             "description": "Joliet Correctional Center was a prison in Joliet, Illinois, United States from 1858 to 2002. It is featured in the motion picture The Blues Brothers as the prison from which Jake Blues is released at the beginning of the movie. Wikipedia",
             "type": "Prison"
         },
-        "Federal Correctional Institution, Lompoc": {
-            "label": "Federal Correctional Institution, Lompoc",
-            "description": "The Federal Correctional Institution, Lompoc is a low-security United States federal prison for male inmates in California. Wikipedia",
+        "Portlaoise Prison": {
+            "label": "Portlaoise Prison",
+            "description": "Portlaoise Prison is Ireland's only high security prison. It is located in Portlaoise, County Laois. It should not be confused with the Midlands Prison, which is a newer, medium security prison situated directly beside it. Wikipedia",
+            "type": "",
+            "Address ": [
+                "Dublin Rd",
+                " Portlaoise",
+                " Co. Laois",
+                " Ireland"
+            ],
+            "People also search for": []
+        },
+        "Coyote Ridge Corrections Center": {
+            "label": "Coyote Ridge Corrections Center",
+            "description": "Coyote Ridge Corrections Center is a medium security prison located in Connell, Washington. Inmates held here typically have more than five years up to life to serve. Wikipedia",
             "type": "Prison",
             "Address ": [
-                "3600 Guard Rd",
-                " Lompoc",
-                " CA 93436",
+                "1301 N Ephrata Ave",
+                " Connell",
+                " WA 99326",
+                " United States"
+            ]
+        },
+        "Beechworth Correctional Centre": {
+            "label": "Beechworth Correctional Centre",
+            "description": "The Beechworth Correctional Centre is a minimum security prison, located in Beechworth, Victoria, Australia. It was opened in January 2005 as a replacement for the now-closed HM Prison Beechworth. Wikipedia",
+            "type": "",
+            "Address ": [
+                "Flat Rock Rd",
+                " Beechworth VIC 3747",
+                " Australia"
+            ]
+        },
+        "Kern Valley State Prison": {
+            "label": "Kern Valley State Prison",
+            "description": "Kern Valley State Prison is a male-only state prison in Delano, California. Kern Valley is a Level IV Maximum Security institution. This prison houses 4,171 inmates with a design capacity of 2,448 or 170.4 percent. Wikipedia",
+            "type": "",
+            "Address ": [
+                "3000 W Cecil Ave",
+                " Delano",
+                " CA 93215",
+                " United States"
+            ]
+        },
+        "Tennessee State Prison": {
+            "label": "Tennessee State Prison",
+            "description": "Tennessee State Prison is a former correctional facility located near downtown Nashville, Tennessee. Opened in 1898, the prison has been closed since 1992. Wikipedia",
+            "type": "",
+            "Address ": [
+                "100 Bomar Blvd",
+                " Nashville",
+                " TN 37209",
                 " United States"
             ]
         },
@@ -228,54 +294,10 @@
                 " United States"
             ]
         },
-        "Kern Valley State Prison": {
-            "label": "Kern Valley State Prison",
-            "description": "Kern Valley State Prison is a male-only state prison in Delano, California. Kern Valley is a Level IV Maximum Security institution. This prison houses 4,171 inmates with a design capacity of 2,448 or 170.4 percent. Wikipedia",
-            "type": "",
-            "Address ": [
-                "3000 W Cecil Ave",
-                " Delano",
-                " CA 93215",
-                " United States"
-            ]
-        },
         "Puzhal Central Prison": {
             "label": "Puzhal Central Prison",
             "description": "Puzhal Central Prison is located in Tiruvallur District near Chennai, India. It is about 23 km from the city centre. The prison began operational from year 2006 replacing the erstwhile Chennai Central Prison. Wikipedia",
             "type": ""
-        },
-        "Tennessee State Prison": {
-            "label": "Tennessee State Prison",
-            "description": "Tennessee State Prison is a former correctional facility located near downtown Nashville, Tennessee. Opened in 1898, the prison has been closed since 1992. Wikipedia",
-            "type": "",
-            "Address ": [
-                "100 Bomar Blvd",
-                " Nashville",
-                " TN 37209",
-                " United States"
-            ]
-        },
-        "Coyote Ridge Corrections Center": {
-            "label": "Coyote Ridge Corrections Center",
-            "description": "Coyote Ridge Corrections Center is a medium security prison located in Connell, Washington. Inmates held here typically have more than five years up to life to serve. Wikipedia",
-            "type": "Prison",
-            "Address ": [
-                "1301 N Ephrata Ave",
-                " Connell",
-                " WA 99326",
-                " United States"
-            ]
-        },
-        "Federal Correctional Institution, Fort Worth": {
-            "label": "Federal Correctional Institution, Fort Worth",
-            "description": "The Federal Correctional Institution is a low-security United States federal prison for male inmates located in the city of Fort Worth, Texas. It is operated by the Federal Bureau of Prisons, a division of the United States Department of Justice. Wikipedia",
-            "type": "Prison",
-            "Address ": [
-                "3150 Horton Rd",
-                " Fort Worth",
-                " TX 76119",
-                " United States"
-            ]
         },
         "Massachusetts Correctional Institution – Shirley": {
             "label": "Massachusetts Correctional Institution – Shirley",
@@ -298,27 +320,6 @@
                 " United States"
             ]
         },
-        "Beechworth Correctional Centre": {
-            "label": "Beechworth Correctional Centre",
-            "description": "The Beechworth Correctional Centre is a minimum security prison, located in Beechworth, Victoria, Australia. It was opened in January 2005 as a replacement for the now-closed HM Prison Beechworth. Wikipedia",
-            "type": "",
-            "Address ": [
-                "Flat Rock Rd",
-                " Beechworth VIC 3747",
-                " Australia"
-            ]
-        },
-        "Federal Correctional Complex, Beaumont": {
-            "label": "United States Penitentiary, Beaumont",
-            "description": "The United States Penitentiary, Beaumont is a high-security United States federal prison for male inmates in Texas. Wikipedia",
-            "type": "",
-            "Address ": [
-                "4550 Hebert Rd",
-                " Beaumont",
-                " TX 77705",
-                " United States"
-            ]
-        },
         "Chillicothe Correctional Institution": {
             "label": "Chillicothe Correctional Institution",
             "description": "Chillicothe Correction Institution, or CCI, is a state run medium security prison on the west bank of the Scioto River just outside Chillicothe, Ohio. Wikipedia",
@@ -335,16 +336,6 @@
             "description": "Emu Plains Correctional Centre, an Australian minimum security prison for females, is located on Old Bathurst Rd, Emu Plains, New South Wales. Wikipedia",
             "type": "Prison"
         },
-        "Junction City Prison": {
-            "label": "Junction City Prison",
-            "description": "Junction City Prison was located at the intersection of S Adcock Road and Pen Road NW near Junction City, Ohio. Wikipedia",
-            "type": ""
-        },
-        "Wildman River Wilderness Work Camp": {
-            "label": "Wildman River Wilderness Work Camp",
-            "description": "Wildman River Wilderness Work Camp, an Australian minimum security prison for juvenile males, is located in the Mary River National Park at Wildman River, approximately 170 kilometres from Darwin, Northern Territory, Australia. Wikipedia",
-            "type": "Prison"
-        },
         "Avenal State Prison": {
             "label": "Avenal State Prison",
             "description": "Avenal State Prison is a male-only state prison in the city of Avenal, Kings County, California. Wikipedia",
@@ -356,17 +347,15 @@
                 " United States"
             ]
         },
-        "Portlaoise Prison": {
-            "label": "Portlaoise Prison",
-            "description": "Portlaoise Prison is Ireland's only high security prison. It is located in Portlaoise, County Laois. It should not be confused with the Midlands Prison, which is a newer, medium security prison situated directly beside it. Wikipedia",
-            "type": "",
+        "Parklea Correctional Centre": {
+            "label": "Parklea Correctional Centre",
+            "description": "Parklea Correctional Centre, a privately managed Australian maximum and minimum security prison for males, is located at Parklea, in the north-western suburbs of Sydney, New South Wales. Wikipedia",
+            "type": "Prison",
             "Address ": [
-                "Dublin Rd",
-                " Portlaoise",
-                " Co. Laois",
-                " Ireland"
-            ],
-            "People also search for": []
+                "Sentry Dr",
+                " Parklea NSW 2768",
+                " Australia"
+            ]
         },
         "United States Penitentiary, Big Sandy": {
             "label": "United States Penitentiary, Big Sandy",
@@ -383,25 +372,26 @@
                 " Australia"
             ]
         },
-        "Arbour Hill Prison": {
-            "label": "Arbour Hill Prison",
-            "description": "Arbour Hill Prison is a prison and military cemetery located in the Arbour Hill area near Heuston Station in the centre of Dublin, Ireland. The prison is the national centre for male sex offenders. Wikipedia",
+        "Federal Correctional Complex, Beaumont": {
+            "label": "United States Penitentiary, Beaumont",
+            "description": "The United States Penitentiary, Beaumont is a high-security United States federal prison for male inmates in Texas. Wikipedia",
             "type": "",
             "Address ": [
-                "Ireland"
-            ],
-            "People also search for": []
-        },
-        "Massachusetts Correctional Institution – Plymouth": {
-            "label": "Massachusetts Correctional Institution – Plymouth",
-            "description": "Massachusetts Correctional Institution – Plymouth or MCI - Plymouth is a minimum-security prison facility located in the Myles Standish State Forest in Plymouth, Massachusetts. Wikipedia",
-            "type": "Prison",
-            "Address ": [
-                "1 Bumps Pond Rd",
-                " South Carver",
-                " MA 02366",
+                "4550 Hebert Rd",
+                " Beaumont",
+                " TX 77705",
                 " United States"
             ]
+        },
+        "Wildman River Wilderness Work Camp": {
+            "label": "Wildman River Wilderness Work Camp",
+            "description": "Wildman River Wilderness Work Camp, an Australian minimum security prison for juvenile males, is located in the Mary River National Park at Wildman River, approximately 170 kilometres from Darwin, Northern Territory, Australia. Wikipedia",
+            "type": "Prison"
+        },
+        "Junction City Prison": {
+            "label": "Junction City Prison",
+            "description": "Junction City Prison was located at the intersection of S Adcock Road and Pen Road NW near Junction City, Ohio. Wikipedia",
+            "type": ""
         },
         "Salinas Valley State Prison": {
             "label": "Salinas Valley State Prison",
@@ -414,6 +404,20 @@
                 " United States"
             ]
         },
+        "Arbour Hill Prison": {
+            "label": "Arbour Hill Prison",
+            "description": "Arbour Hill Prison is a prison and military cemetery located in the Arbour Hill area near Heuston Station in the centre of Dublin, Ireland. The prison is the national centre for male sex offenders. Wikipedia",
+            "type": "",
+            "Address ": [
+                "Ireland"
+            ],
+            "People also search for": []
+        },
+        "Federal Correctional Institution, Ray Brook": {
+            "label": "Federal Correctional Institution, Ray Brook",
+            "description": "The Federal Correctional Institution, Ray Brook is a medium-security United States federal prison for male inmates in New York State. It is operated by the Federal Bureau of Prisons, a division of the United States Department of Justice. Wikipedia",
+            "type": "Prison"
+        },
         "Richard J. Donovan Correctional Facility": {
             "label": "Richard J. Donovan Correctional Facility",
             "description": "Richard J. Donovan Correctional Facility is a state prison located in unincorporated southern San Diego County, California, near San Diego. It is a part of the California Department of Corrections and Rehabilitation. It is a 780-acre facility. Wikipedia",
@@ -425,24 +429,14 @@
                 " United States"
             ]
         },
-        "Federal Correctional Institution, Ray Brook": {
-            "label": "Federal Correctional Institution, Ray Brook",
-            "description": "The Federal Correctional Institution, Ray Brook is a medium-security United States federal prison for male inmates in New York State. It is operated by the Federal Bureau of Prisons, a division of the United States Department of Justice. Wikipedia",
-            "type": "Prison"
-        },
-        "People detained by the International Criminal Court": {
-            "label": "People detained by the International Criminal Court",
-            "description": "People detained by the International Criminal Court are held in the ICC's detention centre, which is located within a Dutch prison in Scheveningen, The Hague. Wikipedia",
-            "type": "Prison"
-        },
-        "Wasco State Prison": {
-            "label": "Wasco State Prison",
-            "description": "Wasco State Prison-Reception Center is a 634-acre state prison located in Wasco, Kern County, California. Wikipedia",
-            "type": "",
+        "Massachusetts Correctional Institution – Plymouth": {
+            "label": "Massachusetts Correctional Institution – Plymouth",
+            "description": "Massachusetts Correctional Institution – Plymouth or MCI - Plymouth is a minimum-security prison facility located in the Myles Standish State Forest in Plymouth, Massachusetts. Wikipedia",
+            "type": "Prison",
             "Address ": [
-                "701 Scofield Ave",
-                " Wasco",
-                " CA 93280",
+                "1 Bumps Pond Rd",
+                " South Carver",
+                " MA 02366",
                 " United States"
             ]
         },
@@ -457,24 +451,23 @@
                 " United States"
             ]
         },
-        "Pul-e-Charkhi prison": {
-            "label": "Pul-e-Charkhi prison",
-            "description": "Pul-e-Charkhi, also known as Afghan National Detention Facility, is the largest prison in Afghanistan east of Kabul. Construction of the jail began in the 1970s by order of former president Mohammed Daoud Khan and was completed during the 1980s. Wikipedia",
+        "Wasco State Prison": {
+            "label": "Wasco State Prison",
+            "description": "Wasco State Prison-Reception Center is a 634-acre state prison located in Wasco, Kern County, California. Wikipedia",
             "type": "",
             "Address ": [
-                "Kabul",
-                " Afghanistan"
-            ]
-        },
-        "Federal Correctional Institution, Terminal Island": {
-            "label": "Federal Correctional Institution, Terminal Island",
-            "description": "The Federal Correctional Institution, Terminal Island is a low-security United States federal prison for male inmates in California. It is operated by the Federal Bureau of Prisons, a division of the United States Department of Justice. Wikipedia",
-            "type": "Prison",
-            "Address ": [
-                "1299 S Seaside Ave",
-                " CA 90731",
+                "701 Scofield Ave",
+                " Wasco",
+                " CA 93280",
                 " United States"
             ]
+        },
+        "HM Prison Maze": {
+            "label": "HM Prison Maze",
+            "description": "Her Majesty's Prison Maze was a prison in Northern Ireland that was used to house paramilitary prisoners during the Troubles from mid-1971 to mid-2000.\nIt was situated at the former Royal Air Force station of Long Kesh, on the outskirts of Lisburn. Wikipedia",
+            "type": "",
+            "Opened ": "August 9, 1971",
+            "People also search for": []
         },
         "Waupun Correctional Institution": {
             "label": "Waupun Correctional Institution",
@@ -496,17 +489,34 @@
                 "Wisconsin Dept Of Corrections School District"
             ]
         },
+        "Federal Correctional Institution, Terminal Island": {
+            "label": "Federal Correctional Institution, Terminal Island",
+            "description": "The Federal Correctional Institution, Terminal Island is a low-security United States federal prison for male inmates in California. It is operated by the Federal Bureau of Prisons, a division of the United States Department of Justice. Wikipedia",
+            "type": "Prison",
+            "Address ": [
+                "1299 S Seaside Ave",
+                " CA 90731",
+                " United States"
+            ]
+        },
+        "People detained by the International Criminal Court": {
+            "label": "People detained by the International Criminal Court",
+            "description": "People detained by the International Criminal Court are held in the ICC's detention centre, which is located within a Dutch prison in Scheveningen, The Hague. Wikipedia",
+            "type": "Prison"
+        },
+        "Pul-e-Charkhi prison": {
+            "label": "Pul-e-Charkhi prison",
+            "description": "Pul-e-Charkhi, also known as Afghan National Detention Facility, is the largest prison in Afghanistan east of Kabul. Construction of the jail began in the 1970s by order of former president Mohammed Daoud Khan and was completed during the 1980s. Wikipedia",
+            "type": "",
+            "Address ": [
+                "Kabul",
+                " Afghanistan"
+            ]
+        },
         "California Men's Colony": {
             "label": "California Men's Colony",
             "description": "California Men's Colony is a male-only state prison located northwest of the city of San Luis Obispo, San Luis Obispo County, California, along the central California coast approximately halfway between Los Angeles and San Francisco. Wikipedia",
             "type": "Prison"
-        },
-        "HM Prison Maze": {
-            "label": "HM Prison Maze",
-            "description": "Her Majesty's Prison Maze was a prison in Northern Ireland that was used to house paramilitary prisoners during the Troubles from mid-1971 to mid-2000.\nIt was situated at the former Royal Air Force station of Long Kesh, on the outskirts of Lisburn. Wikipedia",
-            "type": "",
-            "Opened ": "August 9, 1971",
-            "People also search for": []
         },
         "California State Prison, Sacramento": {
             "label": "California State Prison, SacramentoCalifornia Department of Corrections and Rehabilitation",
@@ -525,25 +535,15 @@
                 " Isle of Man"
             ]
         },
-        "Long Bay Correctional Centre": {
-            "label": "Long Bay Correctional Centre",
-            "description": "Long Bay Correctional Complex, an Australian maximum and minimum security prison for males and females, is located at Malabar, Sydney, New South Wales, Australia. The complex is located approximately 14 kilometres south of the Sydney CBD. Wikipedia",
-            "type": "Prison",
-            "Address ": [
-                "1300 Anzac Parade",
-                " Malabar NSW 2036",
-                " Australia"
-            ]
-        },
-        "United States Penitentiary, Leavenworth": {
-            "label": "United States Penitentiary, Leavenworth",
-            "description": "The United States Penitentiary, Leavenworth is a medium-security United States federal prison for male inmates in Kansas. It is operated by the Federal Bureau of Prisons, a division of the United States Department of Justice. Wikipedia",
+        "Morton Hall Immigration Removal Centre": {
+            "label": "Morton Hall Immigration Removal Centre",
+            "description": "IRC Morton Hall is an Immigration Removal Centre located in the village of Morton Hall in Lincolnshire, England. The centre is operated by Her Majesty's Prison Service, and was previously a women's prison. Wikipedia",
             "type": "",
             "Address ": [
-                "1300 Metropolitan Ave",
-                " Leavenworth",
-                " KS 66048",
-                " United States"
+                "Swinderby",
+                " Lincoln",
+                " Lincoln LN6 9PT",
+                " United Kingdom"
             ]
         },
         "Bordeaux Prison": {
@@ -557,20 +557,30 @@
                 " Canada"
             ]
         },
+        "Long Bay Correctional Centre": {
+            "label": "Long Bay Correctional Centre",
+            "description": "Long Bay Correctional Complex, an Australian maximum and minimum security prison for males and females, is located at Malabar, Sydney, New South Wales, Australia. The complex is located approximately 14 kilometres south of the Sydney CBD. Wikipedia",
+            "type": "Prison",
+            "Address ": [
+                "1300 Anzac Parade",
+                " Malabar NSW 2036",
+                " Australia"
+            ]
+        },
         "District Jail Rawalpindi": {
             "label": "District Jail Rawalpindi",
             "description": "District Jail Rawalpindi had been a prominent jail in Rawalpindi, Pakistan located near District Courts of Rawalpindi city. The Jail was inherited by the Punjab Prisons Department besides 18 other Jails after independence. Wikipedia",
             "type": ""
         },
-        "Morton Hall Immigration Removal Centre": {
-            "label": "Morton Hall Immigration Removal Centre",
-            "description": "IRC Morton Hall is an Immigration Removal Centre located in the village of Morton Hall in Lincolnshire, England. The centre is operated by Her Majesty's Prison Service, and was previously a women's prison. Wikipedia",
+        "United States Penitentiary, Leavenworth": {
+            "label": "United States Penitentiary, Leavenworth",
+            "description": "The United States Penitentiary, Leavenworth is a medium-security United States federal prison for male inmates in Kansas. It is operated by the Federal Bureau of Prisons, a division of the United States Department of Justice. Wikipedia",
             "type": "",
             "Address ": [
-                "Swinderby",
-                " Lincoln",
-                " Lincoln LN6 9PT",
-                " United Kingdom"
+                "1300 Metropolitan Ave",
+                " Leavenworth",
+                " KS 66048",
+                " United States"
             ]
         },
         "Kirkconnell Correctional Centre": {
@@ -584,17 +594,6 @@
             "type": "Prison",
             "Province ": [
                 "Québec"
-            ]
-        },
-        "Federal Detention Center, Houston": {
-            "label": "Federal Detention Center, Houston",
-            "description": "The Federal Detention Center, Houston is a United States federal prison in downtown Houston, Texas which holds male and female inmates prior to and during court proceedings, as well an inmates serving short sentences. Wikipedia",
-            "type": "",
-            "Address ": [
-                "1200 Texas Ave",
-                " Houston",
-                " TX 77002",
-                " United States"
             ]
         },
         "Mittelbau-Dora": {
@@ -612,19 +611,21 @@
             "description": "Clemens Unit is a prison farm of the Texas Department of Criminal Justice in unincorporated Brazoria County, Texas in Greater Houston. Wikipedia",
             "type": ""
         },
-        "Boggo Road Gaol": {
-            "label": "Boggo Road Gaol",
-            "description": "Boggo Road Gaol was a notorious and heritage-listed Australian prison located on Annerley Road in Dutton Park, an inner southern suburb of Brisbane, Queensland, Australia. Wikipedia",
-            "type": "",
-            "Opened ": [
-                "1883"
-            ],
-            "People also search for": []
-        },
         "Clerkenwell Prison": {
             "label": "Clerkenwell Prison",
             "description": "Clerkenwell Prison, also known as the Clerkenwell House of Detention or Middlesex House of Detention was a prison in Clerkenwell, London. It held prisoners awaiting trial. Wikipedia",
             "type": ""
+        },
+        "Federal Detention Center, Houston": {
+            "label": "Federal Detention Center, Houston",
+            "description": "The Federal Detention Center, Houston is a United States federal prison in downtown Houston, Texas which holds male and female inmates prior to and during court proceedings, as well an inmates serving short sentences. Wikipedia",
+            "type": "",
+            "Address ": [
+                "1200 Texas Ave",
+                " Houston",
+                " TX 77002",
+                " United States"
+            ]
         },
         "Adelaide Gaol": {
             "label": "Adelaide Gaol",
@@ -640,6 +641,15 @@
             ],
             "Function ": [
                 "+61 8 8231 4062"
+            ],
+            "People also search for": []
+        },
+        "Boggo Road Gaol": {
+            "label": "Boggo Road Gaol",
+            "description": "Boggo Road Gaol was a notorious and heritage-listed Australian prison located on Annerley Road in Dutton Park, an inner southern suburb of Brisbane, Queensland, Australia. Wikipedia",
+            "type": "",
+            "Opened ": [
+                "1883"
             ],
             "People also search for": []
         },
@@ -663,10 +673,10 @@
             ],
             "People also search for": []
         },
-        "Marshalsea": {
-            "label": "Marshalsea",
-            "description": "The Marshalsea was an infamous prison in England, located on the south bank of the River Thames in Southwark, now part of London. Wikipedia",
-            "type": "Prison",
+        "J Ward": {
+            "label": "J Ward",
+            "description": "J Ward was an Australian prison used to house the criminally insane, located in Ararat, Victoria, Australia.\nConstruction of the goal commenced in 1859 and the facility was opened in October 1861. Wikipedia",
+            "type": "Museum",
             "People also search for": []
         },
         "Old Melbourne Gaol": {
@@ -687,11 +697,16 @@
             ],
             "People also search for": []
         },
-        "J Ward": {
-            "label": "J Ward",
-            "description": "J Ward was an Australian prison used to house the criminally insane, located in Ararat, Victoria, Australia.\nConstruction of the goal commenced in 1859 and the facility was opened in October 1861. Wikipedia",
-            "type": "Museum",
+        "Marshalsea": {
+            "label": "Marshalsea",
+            "description": "The Marshalsea was an infamous prison in England, located on the south bank of the River Thames in Southwark, now part of London. Wikipedia",
+            "type": "Prison",
             "People also search for": []
+        },
+        "El Manzano (prison)": {
+            "label": "El Manzano",
+            "description": "El Manzano is a prison in the city of Concepción, Chile. After the 2010 Chile earthquake a prison riot began following a failed escape attempt by the inmates. Wikipedia",
+            "type": "Prison"
         },
         "Elayn Hunt Correctional Center": {
             "label": "Elayn Hunt Correctional Center",
@@ -713,10 +728,16 @@
                 "Special School District # 1"
             ]
         },
-        "El Manzano (prison)": {
-            "label": "El Manzano",
-            "description": "El Manzano is a prison in the city of Concepción, Chile. After the 2010 Chile earthquake a prison riot began following a failed escape attempt by the inmates. Wikipedia",
-            "type": "Prison"
+        "Women's Huron Valley Correctional Facility": {
+            "label": "Women's Huron Valley Correctional Facility",
+            "description": "Women's Huron Valley Correctional Facility is a prison for women located in Pittsfield Township, operated by the Michigan Department of Corrections. The 3 letter designation for this facility is WHV. Wikipedia",
+            "type": "",
+            "Address ": [
+                "3201 Bemis Rd",
+                " Ypsilanti Township",
+                " MI 48197",
+                " United States"
+            ]
         },
         "Santa Rita Jail": {
             "label": "Santa Rita Jail",
@@ -729,22 +750,6 @@
                 " United States"
             ],
             "People also search for": []
-        },
-        "Women's Huron Valley Correctional Facility": {
-            "label": "Women's Huron Valley Correctional Facility",
-            "description": "Women's Huron Valley Correctional Facility is a prison for women located in Pittsfield Township, operated by the Michigan Department of Corrections. The 3 letter designation for this facility is WHV. Wikipedia",
-            "type": "",
-            "Address ": [
-                "3201 Bemis Rd",
-                " Ypsilanti Township",
-                " MI 48197",
-                " United States"
-            ]
-        },
-        "Metropolitan Detention Center, Guaynabo": {
-            "label": "Metropolitan Detention Center",
-            "description": "",
-            "type": ""
         },
         "Cherlapally Central Jail": {
             "label": "Cherlapally Central Jail",
@@ -762,44 +767,15 @@
                 " India"
             ]
         },
+        "Metropolitan Detention Center, Guaynabo": {
+            "label": "Metropolitan Detention Center",
+            "description": "",
+            "type": ""
+        },
         "Musheerabad Jail": {
             "label": "Musheerabad Jail",
             "description": "Musheerabad Jail was a correctional facility located in Musheerabad area of Hyderabad, India. The facility was demolished in 2003 and a hospital and a medical college were constructed in the same area. Wikipedia",
             "type": ""
-        },
-        "State Correctional Institution – Dallas": {
-            "label": "State Correctional Institution – Dallas",
-            "description": "The State Correctional Institution at Dallas, commonly referred to as SCI Dallas, is a Pennsylvania Department of Corrections prison located in Luzerne County, Pennsylvania, United States. Jerome Walsh is the institution's Superintendent. Wikipedia",
-            "type": "Prison",
-            "Address ": [
-                "1000 Follies Rd",
-                " Dallas",
-                " PA 18612",
-                " United States"
-            ]
-        },
-        "Clinton Correctional Facility": {
-            "label": "Clinton Correctional Facility",
-            "description": "Clinton Correctional Facility is a New York State Department of Correctional Services state prison for men located in the Village of Dannemora, New York. Wikipedia",
-            "type": "",
-            "Address ": [
-                "1156 Cook St",
-                " Dannemora",
-                " NY 12929",
-                " United States"
-            ],
-            "Hours ": [
-                "(518) 492-2511"
-            ],
-            "Phone ": [
-                "New York State Department Of Correctional Services School District"
-            ]
-        },
-        "State Correctional Institution – Coal Township": {
-            "label": "SCI Coal Township",
-            "description": "",
-            "type": "",
-            "See results about": []
         },
         "State Correctional Institution – Camp Hill": {
             "label": "State Correctional Institution – Camp Hill",
@@ -812,29 +788,21 @@
                 " United States"
             ]
         },
-        "Richmond Gaol": {
-            "label": "Richmond Gaol",
-            "description": "The Richmond Gaol is a convict era building and tourist attraction in Richmond, Tasmania, and is the oldest intact gaol in Australia. Building of the gaol commenced in 1825, and predates the establishment of the penal colony at Port Arthur in 1833. Wikipedia",
+        "State Correctional Institution – Coal Township": {
+            "label": "SCI Coal Township",
+            "description": "",
             "type": "",
-            "Address ": [
-                "37 Bathurst Street",
-                " Richmond TAS 7025",
-                " Australia"
-            ],
-            "Hours ": [
-                "+61 3 6260 2127"
-            ],
-            "People also search for": []
+            "See results about": []
         },
-        "Sullivan Correctional Facility": {
-            "label": "Sullivan Correctional Facility",
-            "description": "Sullivan Correctional Facility is a New York State correctional facility located in Fallsburg, New York. It is operated by the New York State Department of Correctional Services. It is a maximum security prison for male inmates. Wikipedia",
-            "type": "",
+        "State Correctional Institution – Dallas": {
+            "label": "State Correctional Institution – Dallas",
+            "description": "The State Correctional Institution at Dallas, commonly referred to as SCI Dallas, is a Pennsylvania Department of Corrections prison located in Luzerne County, Pennsylvania, United States. Jerome Walsh is the institution's Superintendent. Wikipedia",
+            "type": "Prison",
             "Address ": [
-                "United States"
-            ],
-            "District ": [
-                "New York State Department Of Correctional Services School District"
+                "1000 Follies Rd",
+                " Dallas",
+                " PA 18612",
+                " United States"
             ]
         },
         "Wetumpka State Penitentiary": {
@@ -855,14 +823,46 @@
                 " Fort Toulouse"
             ]
         },
-        "Parklea Correctional Centre": {
-            "label": "Parklea Correctional Centre",
-            "description": "Parklea Correctional Centre, a privately managed Australian maximum and minimum security prison for males, is located at Parklea, in the north-western suburbs of Sydney, New South Wales. Wikipedia",
-            "type": "Prison",
+        "Clinton Correctional Facility": {
+            "label": "Clinton Correctional Facility",
+            "description": "Clinton Correctional Facility is a New York State Department of Correctional Services state prison for men located in the Village of Dannemora, New York. Wikipedia",
+            "type": "",
             "Address ": [
-                "Sentry Dr",
-                " Parklea NSW 2768",
+                "1156 Cook St",
+                " Dannemora",
+                " NY 12929",
+                " United States"
+            ],
+            "Hours ": [
+                "(518) 492-2511"
+            ],
+            "Phone ": [
+                "New York State Department Of Correctional Services School District"
+            ]
+        },
+        "Richmond Gaol": {
+            "label": "Richmond Gaol",
+            "description": "The Richmond Gaol is a convict era building and tourist attraction in Richmond, Tasmania, and is the oldest intact gaol in Australia. Building of the gaol commenced in 1825, and predates the establishment of the penal colony at Port Arthur in 1833. Wikipedia",
+            "type": "",
+            "Address ": [
+                "37 Bathurst Street",
+                " Richmond TAS 7025",
                 " Australia"
+            ],
+            "Hours ": [
+                "+61 3 6260 2127"
+            ],
+            "People also search for": []
+        },
+        "Great Meadow Correctional Facility": {
+            "label": "Great Meadow Correctional Facility",
+            "description": "Great Meadow Correctional Facility is a maximum security prison in New York in the USA. The prison is in Comstock, a hamlet right outside of Fort Ann, in Washington County, New York. As of September 3, 2008 it was home to 1,663 inmates. Wikipedia",
+            "type": "",
+            "Phone ": [
+                "(518) 639-5516"
+            ],
+            "District ": [
+                "New York State Department Of Correctional Services School District"
             ]
         },
         "Sing Sing": {
@@ -876,12 +876,12 @@
                 " United States"
             ]
         },
-        "Great Meadow Correctional Facility": {
-            "label": "Great Meadow Correctional Facility",
-            "description": "Great Meadow Correctional Facility is a maximum security prison in New York in the USA. The prison is in Comstock, a hamlet right outside of Fort Ann, in Washington County, New York. As of September 3, 2008 it was home to 1,663 inmates. Wikipedia",
+        "Sullivan Correctional Facility": {
+            "label": "Sullivan Correctional Facility",
+            "description": "Sullivan Correctional Facility is a New York State correctional facility located in Fallsburg, New York. It is operated by the New York State Department of Correctional Services. It is a maximum security prison for male inmates. Wikipedia",
             "type": "",
-            "Phone ": [
-                "(518) 639-5516"
+            "Address ": [
+                "United States"
             ],
             "District ": [
                 "New York State Department Of Correctional Services School District"
@@ -891,34 +891,28 @@
             "label": "Adelaide Pre-Release Centre",
             "description": "The Adelaide Pre-Release Centre is a minimum security Australian prison facility in Regency Park, South Australia, Australia.\nAdelaide Pre-Release Centre Wikipedia",
             "type": "Prison"
-        },
-        "Federal Correctional Complex, Forrest City": {
-            "label": "Federal Correctional Institution",
-            "description": "",
-            "type": "",
-            "People also search for": []
         }
     },
     "summary": {
-        "label": 95,
-        "description": 95,
-        "type": 95,
-        "Address ": 59,
-        "Hours ": 7,
-        "District ": 4,
-        "People also search for": 15,
-        "Area ": 3,
-        "Phone ": 4,
-        "Opened ": 3,
-        "See results about": 2,
-        "Province ": 1,
-        "Function ": 3,
-        "People also search for ": 1
+        "label": 94,
+        "description": 94,
+        "type": 94,
+        "address": 1,
+        "hours": 1,
+        "district": 1,
+        "people_also_search_for": 1,
+        "opened": 1,
+        "area": 1,
+        "phone": 1,
+        "see_results_about": 1,
+        "province": 1,
+        "function": 1
     },
     "infoboxless": [
-        "Monroe Correctional Complex",
-        "United States Penitentiary, Lee",
         "Nevada State Prison",
+        "Monroe Correctional Complex",
+        "Federal Correctional Complex, Forrest City",
+        "United States Penitentiary, Lee",
         "Brampton Jail",
         "Washington Correctional Facility"
     ]

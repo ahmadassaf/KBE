@@ -22,6 +22,21 @@
             ],
             "Movies": []
         },
+        "Amy Crawford (pageant titleholder)": {
+            "label": "Amy Crawford",
+            "description": "Amy Crawford is a beauty queen from Auburn, Washington who has competed in the Miss USA pageant.\nCrawford won the Miss Washington USA 2005 title in a state pageant held in Seattle in late 2004. Wikipedia",
+            "type": "Pageant titleholder",
+            "Born ": [
+                "Auburn",
+                " Washington",
+                " United States"
+            ],
+            "Education ": [
+                "University of Washington",
+                " Auburn Riverside High School"
+            ],
+            "People also search for": []
+        },
         "Caitlin Brunell": {
             "label": "Caitlin Brunell",
             "description": "Caitlin Brunell from Great Falls, Virginia won the Miss America's Outstanding Teen 2008 title in August 2007.\nBrunell is the daughter of Stacey and Mark Brunell, a former NFL quarterback. Wikipedia",
@@ -40,37 +55,11 @@
             ],
             "People also search for": []
         },
-        "Amy Crawford (pageant titleholder)": {
-            "label": "Amy Crawford",
-            "description": "Amy Crawford is a beauty queen from Auburn, Washington who has competed in the Miss USA pageant.\nCrawford won the Miss Washington USA 2005 title in a state pageant held in Seattle in late 2004. Wikipedia",
-            "type": "Pageant titleholder",
-            "Born ": [
-                "Auburn",
-                " Washington",
-                " United States"
-            ],
-            "Education ": [
-                "University of Washington",
-                " Auburn Riverside High School"
-            ],
-            "People also search for": []
-        },
         "Despina Delios": {
             "label": "Despina Delios",
             "description": "Despina Delios is a beauty queen from Lynn, Massachusetts who competed in the Miss USA pageant in 2007.\nDelios won the Miss Massachusetts USA 2007 title in a state pageant held in Quincy, Massachusetts on 19 November 2006. Wikipedia",
             "type": "",
             "Born ": "January 29, 1984 (age 30), Lynn, Massachusetts, United States",
-            "People also search for": []
-        },
-        "Erika Harold": {
-            "label": "Erika Harold",
-            "description": "Erika N. L. Harold is an attorney, a former Miss America, and a former two-time Republican candidate for the 13th Congressional District seat in the State of Illinois. Wikipedia",
-            "type": "",
-            "Born ": "February 20, 1980 (age 34), Urbana, Illinois, United States",
-            "Education ": [
-                "University of Illinois at Urbana-Champaign",
-                " Harvard Law School"
-            ],
             "People also search for": []
         },
         "Dorothy Anstett": {
@@ -91,14 +80,14 @@
             ],
             "People also search for": []
         },
-        "Evelyn Ay Sempier": {
-            "label": "Evelyn Ay Sempier",
-            "description": "Evelyn Margaret Ay Sempier was winner of the 1954 Miss America beauty pageant. Wikipedia",
+        "Erika Harold": {
+            "label": "Erika Harold",
+            "description": "Erika N. L. Harold is an attorney, a former Miss America, and a former two-time Republican candidate for the 13th Congressional District seat in the State of Illinois. Wikipedia",
             "type": "",
-            "Born ": "March 8, 1933, Ephrata, Pennsylvania, United States",
-            "Died ": "October 18, 2008",
+            "Born ": "February 20, 1980 (age 34), Urbana, Illinois, United States",
             "Education ": [
-                "Ephrata High School (1951)"
+                "University of Illinois at Urbana-Champaign",
+                " Harvard Law School"
             ],
             "People also search for": []
         },
@@ -109,6 +98,17 @@
             "Born ": "February 6, 1982 (age 32), Puyallup, Washington, United States",
             "Education ": [
                 "California Baptist University"
+            ],
+            "People also search for": []
+        },
+        "Evelyn Ay Sempier": {
+            "label": "Evelyn Ay Sempier",
+            "description": "Evelyn Margaret Ay Sempier was winner of the 1954 Miss America beauty pageant. Wikipedia",
+            "type": "",
+            "Born ": "March 8, 1933, Ephrata, Pennsylvania, United States",
+            "Died ": "October 18, 2008",
+            "Education ": [
+                "Ephrata High School (1951)"
             ],
             "People also search for": []
         },
@@ -164,11 +164,22 @@
             ],
             "People also search for": []
         },
-        "Maria Lekkakos": {
-            "label": "Maria Lekkakos",
-            "description": "Maria Lekkakos, born and raised in Lynn, MA is a beauty pageant contestant who later grew up in Rockport, Massachusetts who has competed in the Miss USA pageant. Wikipedia",
+        "Laura Tanguy": {
+            "label": "Laura Tanguy",
+            "description": "Laura Tanguy is a French beauty pageant contestant who was elected second runner-up of Miss France 2008. Wikipedia",
             "type": "",
-            "Born ": "October 1, 1978 (age 35), Lynn, Massachusetts, United States",
+            "Born ": "August 2, 1987 (age 26), Angers, France",
+            "People also search for": []
+        },
+        "Kristi Lauren Glakas": {
+            "label": "Kristi Lauren Glakas",
+            "description": "Kristi Lauren Glakas Ingram is an American beauty pageant contestant. Wikipedia",
+            "type": "",
+            "Born ": "March 16, 1981 (age 33), Centreville, Virginia, United States",
+            "Education ": [
+                "George Mason University",
+                " University of Virginia"
+            ],
             "People also search for": []
         },
         "Leanza Cornett": {
@@ -186,17 +197,6 @@
                 "Entertainment Tonight",
                 " AKC/Eukanuba National Championship",
                 " Miss America"
-            ],
-            "People also search for": []
-        },
-        "Kristi Lauren Glakas": {
-            "label": "Kristi Lauren Glakas",
-            "description": "Kristi Lauren Glakas Ingram is an American beauty pageant contestant. Wikipedia",
-            "type": "",
-            "Born ": "March 16, 1981 (age 33), Centreville, Virginia, United States",
-            "Education ": [
-                "George Mason University",
-                " University of Virginia"
             ],
             "People also search for": []
         },
@@ -220,36 +220,6 @@
             ],
             "People also search for": []
         },
-        "Laura Tanguy": {
-            "label": "Laura Tanguy",
-            "description": "Laura Tanguy is a French beauty pageant contestant who was elected second runner-up of Miss France 2008. Wikipedia",
-            "type": "",
-            "Born ": "August 2, 1987 (age 26), Angers, France",
-            "People also search for": []
-        },
-        "Sharlene Wells Hawkes": {
-            "label": "Sharlene Wells Hawkes",
-            "description": "Sharlene Wells Hawkes, from Salt Lake City, Utah, was Miss America 1985. Wikipedia",
-            "type": "",
-            "Born ": "March 16, 1964 (age 50), Asunción, Paraguay",
-            "Parents ": [
-                "Robert E. Wells"
-            ],
-            "Education ": [
-                "Brigham Young University (1988)"
-            ],
-            "Songs": []
-        },
-        "Zeynep Sever": {
-            "label": "Zeynep Sever",
-            "description": "Zeynep Kübra Sever Demirel, was Miss Belgium 2009. She is of Turkish descent and moved to Belgium when she was 12 years old. Wikipedia",
-            "type": "",
-            "Born ": "July 9, 1989 (age 24), Istanbul, Turkey",
-            "Spouse ": [
-                "Volkan Demirel (m. 2010)"
-            ],
-            "People also search for": []
-        },
         "Tiffany Doorn": {
             "label": "Tiffany Tessa Doorn",
             "description": "Tiffany Tessa Doorn is a beauty queen from Woodinville, Washington who has competed in the Miss USA pageant.\nDoorn won the Miss Washington USA 2006 title in a state pageant held in late 2005. Wikipedia",
@@ -263,6 +233,13 @@
             "Movies ": [
                 "Cross"
             ],
+            "People also search for": []
+        },
+        "Maria Lekkakos": {
+            "label": "Maria Lekkakos",
+            "description": "Maria Lekkakos, born and raised in Lynn, MA is a beauty pageant contestant who later grew up in Rockport, Massachusetts who has competed in the Miss USA pageant. Wikipedia",
+            "type": "",
+            "Born ": "October 1, 1978 (age 35), Lynn, Massachusetts, United States",
             "People also search for": []
         },
         "Cynthia Olavarría": {
@@ -279,6 +256,16 @@
             "Born ": "April 10, 1989 (age 24), Rome, Italy",
             "People also search for": []
         },
+        "Zeynep Sever": {
+            "label": "Zeynep Sever",
+            "description": "Zeynep Kübra Sever Demirel, was Miss Belgium 2009. She is of Turkish descent and moved to Belgium when she was 12 years old. Wikipedia",
+            "type": "",
+            "Born ": "July 9, 1989 (age 24), Istanbul, Turkey",
+            "Spouse ": [
+                "Volkan Demirel (m. 2010)"
+            ],
+            "People also search for": []
+        },
         "Gabriela Palacio": {
             "label": "Gabriela Palacio",
             "description": "Gabriela Palacio Díaz de León is a Mexican beauty pageant titleholder who obtained the 2010 Nuestra Belleza Internacional México title. Wikipedia",
@@ -286,18 +273,31 @@
             "Born ": "March 28, 1989 (age 25), Aguascalientes, Mexico",
             "People also search for": []
         },
-        "Kateřina Sokolová": {
-            "label": "Kateřina Sokolová",
-            "description": "Kateřina Sokolová is a beauty queen who won Miss Czech Republic as an 18-year-old student and represented her country in Miss World 2007 in China.\nSokolová appeared on the cover of the June 2008 issue of the Czech language edition of Playboy. Wikipedia",
+        "Sharlene Wells Hawkes": {
+            "label": "Sharlene Wells Hawkes",
+            "description": "Sharlene Wells Hawkes, from Salt Lake City, Utah, was Miss America 1985. Wikipedia",
             "type": "",
-            "Born ": "April 4, 1989 (age 24), Přerov, Czech Republic",
-            "People also search for": []
+            "Born ": "March 16, 1964 (age 50), Asunción, Paraguay",
+            "Parents ": [
+                "Robert E. Wells"
+            ],
+            "Education ": [
+                "Brigham Young University (1988)"
+            ],
+            "Songs": []
         },
         "Pia Pakarinen": {
             "label": "Pia Pakarinen",
             "description": "Pia Pakarinen is a Finnish beauty pageant titleholder who was crowned Miss Suomi 2011, the official representative of Finland to the 2011 Miss Universe pageant. Wikipedia",
             "type": "",
             "Born ": "October 5, 1990 (age 23), Juuka, Finland",
+            "People also search for": []
+        },
+        "Brenda Liz Lopez": {
+            "label": "Brenda Liz Lopez",
+            "description": "Brenda Liz López Ramos is a Puerto Rican beauty pageant titleholder. Brenda previously held the title of Miss Puerto Rico Universe 1999 in which later on she placed at the Top 10 in Miss Universe 1999 and won the Miss Photogenic award. Wikipedia",
+            "type": "",
+            "Born ": "January 8, 1976 (age 38), Puerto Rico, United States, with Territories",
             "People also search for": []
         },
         "Irene Esser": {
@@ -310,11 +310,18 @@
             ],
             "People also search for": []
         },
-        "Brenda Liz Lopez": {
-            "label": "Brenda Liz Lopez",
-            "description": "Brenda Liz López Ramos is a Puerto Rican beauty pageant titleholder. Brenda previously held the title of Miss Puerto Rico Universe 1999 in which later on she placed at the Top 10 in Miss Universe 1999 and won the Miss Photogenic award. Wikipedia",
+        "Kateřina Sokolová": {
+            "label": "Kateřina Sokolová",
+            "description": "Kateřina Sokolová is a beauty queen who won Miss Czech Republic as an 18-year-old student and represented her country in Miss World 2007 in China.\nSokolová appeared on the cover of the June 2008 issue of the Czech language edition of Playboy. Wikipedia",
             "type": "",
-            "Born ": "January 8, 1976 (age 38), Puerto Rico, United States, with Territories",
+            "Born ": "April 4, 1989 (age 24), Přerov, Czech Republic",
+            "People also search for": []
+        },
+        "Larissa Ramos": {
+            "label": "Larissa Ramos",
+            "description": "Larissa Ramos Costa is a Brazilian beauty pageant titleholder who won Miss Terra Brasil 2009 and Miss Earth 2009, becoming the second Brazilian to win the title. Wikipedia",
+            "type": "",
+            "Born ": "February 4, 1989 (age 25), Manaus, Amazonas, Brazil",
             "People also search for": []
         },
         "Elda Dushi": {
@@ -328,13 +335,6 @@
             ],
             "People also search for": []
         },
-        "Irene Ferreira": {
-            "label": "Irene Ferreira",
-            "description": "Irene Esther Ferreira Izquierdo is a former Miss World Venezuela who won the Best National Costume award and placed second runner-up to Miss World 1994 as Miss World Americas. Wikipedia",
-            "type": "",
-            "Born ": "March 22, 1976 (age 38), Caracas, Venezuela",
-            "People also search for": []
-        },
         "Jennifer Palm Lundberg": {
             "label": "Jennifer Palm Lundberg",
             "description": "Jennifer Palm Lundberg is Miss World Sweden 2008 and represented Sweden in Miss World 2008, in Johannesburg, South Africa. Wikipedia",
@@ -342,28 +342,11 @@
             "Born ": "April 28, 1986 (age 27), Sigtuna, Sweden",
             "People also search for": []
         },
-        "Larissa Ramos": {
-            "label": "Larissa Ramos",
-            "description": "Larissa Ramos Costa is a Brazilian beauty pageant titleholder who won Miss Terra Brasil 2009 and Miss Earth 2009, becoming the second Brazilian to win the title. Wikipedia",
+        "Irene Ferreira": {
+            "label": "Irene Ferreira",
+            "description": "Irene Esther Ferreira Izquierdo is a former Miss World Venezuela who won the Best National Costume award and placed second runner-up to Miss World 1994 as Miss World Americas. Wikipedia",
             "type": "",
-            "Born ": "February 4, 1989 (age 25), Manaus, Amazonas, Brazil",
-            "People also search for": []
-        },
-        "Lina Mosquera": {
-            "label": "Lina Mosquera",
-            "description": "Lina Mosquera is a Colombian Model and titleholder who currently holds the title of Miss Continente Americano 2009. Wikipedia",
-            "type": "",
-            "Born ": [
-                "Chocó department",
-                " Colombia"
-            ],
-            "People also search for": []
-        },
-        "Lucie Váchová": {
-            "label": "Lucie Váchová",
-            "description": "Lucie Váchová is a beauty queen who won Miss Czech Republic as an 18-year-old and represented her country in Miss World 2003 in China. Wikipedia",
-            "type": "",
-            "Born ": "August 4, 1984 (age 29), Příbram, Czech Republic",
+            "Born ": "March 22, 1976 (age 38), Caracas, Venezuela",
             "People also search for": []
         },
         "Lucille Lambert": {
@@ -376,10 +359,21 @@
             ],
             "People also search for": []
         },
-        "Omasan Buwa": {
-            "label": "Omasan Buwa",
-            "description": "Omasan Tokurbo Buwa is a Nigerian lawyer, political appointee, and free-lance magazine columnist, currently working as the Executive Assistant to the governor and technocrat of social welfare in Delta State. Wikipedia",
+        "Lucie Váchová": {
+            "label": "Lucie Váchová",
+            "description": "Lucie Váchová is a beauty queen who won Miss Czech Republic as an 18-year-old and represented her country in Miss World 2003 in China. Wikipedia",
             "type": "",
+            "Born ": "August 4, 1984 (age 29), Příbram, Czech Republic",
+            "People also search for": []
+        },
+        "Lina Mosquera": {
+            "label": "Lina Mosquera",
+            "description": "Lina Mosquera is a Colombian Model and titleholder who currently holds the title of Miss Continente Americano 2009. Wikipedia",
+            "type": "",
+            "Born ": [
+                "Chocó department",
+                " Colombia"
+            ],
             "People also search for": []
         },
         "Maja Maraš": {
@@ -403,6 +397,13 @@
             ],
             "People also search for": []
         },
+        "Lourdes Figueroa": {
+            "label": "Lourdes Figueroa",
+            "description": "Lourdes Figueroa is an actress, model and aspiring fashion designer from Guatemala City, Guatemala. In May 2009, she was crowned Miss Guatemala 2009 and participated in the Miss Universe 2009 pageant that was broadcast live on NBC, August 23, 2009. Wikipedia",
+            "type": "",
+            "Born ": "April 21, 1988 (age 25), Guatemala City, Guatemala",
+            "People also search for": []
+        },
         "Lourdes Arévalos": {
             "label": "Lourdes Arévalos",
             "description": "Lourdes Verónica Arévalos Elias represented her country in the Miss Universe 2006 pageant, held in Los Angeles, USA on July 23, 2006. She won the title of 3rd Runner-up. Wikipedia",
@@ -414,18 +415,10 @@
             ],
             "People also search for": []
         },
-        "Lourdes Figueroa": {
-            "label": "Lourdes Figueroa",
-            "description": "Lourdes Figueroa is an actress, model and aspiring fashion designer from Guatemala City, Guatemala. In May 2009, she was crowned Miss Guatemala 2009 and participated in the Miss Universe 2009 pageant that was broadcast live on NBC, August 23, 2009. Wikipedia",
+        "Omasan Buwa": {
+            "label": "Omasan Buwa",
+            "description": "Omasan Tokurbo Buwa is a Nigerian lawyer, political appointee, and free-lance magazine columnist, currently working as the Executive Assistant to the governor and technocrat of social welfare in Delta State. Wikipedia",
             "type": "",
-            "Born ": "April 21, 1988 (age 25), Guatemala City, Guatemala",
-            "People also search for": []
-        },
-        "Alizée Poulicek": {
-            "label": "Alizée Poulicek",
-            "description": "Alizée Poulicek is a beauty pageant contestant who won the title of Miss Belgium 2008 and represented her country in Miss Universe 2008 in Nha Trang, Vietnam. She went unplaced at the latter pageant. Wikipedia",
-            "type": "",
-            "Born ": "June 26, 1987 (age 26), Uccle, Belgium",
             "People also search for": []
         },
         "Brittany Swann": {
@@ -435,19 +428,12 @@
             "Born ": "December 25, 1983 (age 30), Tyrone, Georgia, United States",
             "People also search for": []
         },
-        "Kandice Pelletier": {
-            "label": "Kandice Pelletier",
-            "description": "Kandice Pelletier is a beauty queen from Marietta, Georgia who has competed in the Miss America pageant and on two series of the reality television show The Amazing Race. She is currently the president of Kandice Pelletier Swimwear. Wikipedia",
-            "type": "Television Actor",
-            "Born ": "November 21, 1981 (age 32), Marietta, Georgia, United States",
-            "Movies ": [
-                "The Producers"
-            ],
-            "Education ": [
-                "Kennesaw State University",
-                " North Cobb High School",
-                " New York University"
-            ]
+        "Kim Ashfield": {
+            "label": "Kim Ashfield",
+            "description": "Kim Ashfield is a former model who was Miss United Kingdom in 1980 and as Miss Wales competed in Miss Universe 1980. She placed as the 4th runner-up in the Miss World 1980 pageant. Wikipedia",
+            "type": "Model",
+            "Born ": "January 5, 1959 (age 55), Wales, United Kingdom",
+            "People also search for": []
         },
         "Gloria Diaz": {
             "label": "Gloria Diaz",
@@ -471,11 +457,18 @@
             ],
             "Movies": []
         },
-        "Kim Ashfield": {
-            "label": "Kim Ashfield",
-            "description": "Kim Ashfield is a former model who was Miss United Kingdom in 1980 and as Miss Wales competed in Miss Universe 1980. She placed as the 4th runner-up in the Miss World 1980 pageant. Wikipedia",
-            "type": "Model",
-            "Born ": "January 5, 1959 (age 55), Wales, United Kingdom",
+        "Alizée Poulicek": {
+            "label": "Alizée Poulicek",
+            "description": "Alizée Poulicek is a beauty pageant contestant who won the title of Miss Belgium 2008 and represented her country in Miss Universe 2008 in Nha Trang, Vietnam. She went unplaced at the latter pageant. Wikipedia",
+            "type": "",
+            "Born ": "June 26, 1987 (age 26), Uccle, Belgium",
+            "People also search for": []
+        },
+        "Naziah Ali": {
+            "label": "Naziah Ali",
+            "description": "Naziah Ali held the title of Miss India Fiji 2009. She represented Fiji to the Miss India Worldwide Pageant in Durban, in February 2009. She is the first Indo Fijian from Fiji to represent Fiji to the pageant. Wikipedia",
+            "type": "",
+            "Born ": "April 3, 1982 (age 31), Fiji",
             "People also search for": []
         },
         "Mary Lou Farrell": {
@@ -496,13 +489,6 @@
             ],
             "People also search for": []
         },
-        "Naziah Ali": {
-            "label": "Naziah Ali",
-            "description": "Naziah Ali held the title of Miss India Fiji 2009. She represented Fiji to the Miss India Worldwide Pageant in Durban, in February 2009. She is the first Indo Fijian from Fiji to represent Fiji to the pageant. Wikipedia",
-            "type": "",
-            "Born ": "April 3, 1982 (age 31), Fiji",
-            "People also search for": []
-        },
         "LauRen Merola": {
             "label": "LauRen Merola",
             "description": "LauRen Merola is a model and beauty queen from Pittsburgh, Pennsylvania who competed in the Miss USA pageant in 2008.\nMerola competed in her first Miss Universe Organization pageant in 1998 when she was a semi-finalist at Miss Florida Teen USA 1999. Wikipedia",
@@ -512,6 +498,37 @@
                 "Broward Community College",
                 " Piper High School"
             ],
+            "People also search for": []
+        },
+        "Kandice Pelletier": {
+            "label": "Kandice Pelletier",
+            "description": "Kandice Pelletier is a beauty queen from Marietta, Georgia who has competed in the Miss America pageant and on two series of the reality television show The Amazing Race. She is currently the president of Kandice Pelletier Swimwear. Wikipedia",
+            "type": "Television Actor",
+            "Born ": "November 21, 1981 (age 32), Marietta, Georgia, United States",
+            "Movies ": [
+                "The Producers"
+            ],
+            "Education ": [
+                "Kennesaw State University",
+                " North Cobb High School",
+                " New York University"
+            ]
+        },
+        "Sylvia Hitchcock": {
+            "label": "Sylvia Hitchcock",
+            "description": "Sylvia Louise Hitchcock-Carson is a pageant titleholder who held the Miss Alabama USA 1967, Miss USA 1967 and Miss Universe 1967 titles.\nHitchcock was born in Haverhill, Massachusetts and grew up on a chicken farm in Miami, Florida. Wikipedia",
+            "type": "",
+            "Born ": "January 31, 1946, Haverhill, Massachusetts, United States",
+            "Education ": [
+                "University of Alabama"
+            ],
+            "People also search for": []
+        },
+        "Veruska Ramírez": {
+            "label": "Veruska Ramírez",
+            "description": "Veruska Tatiana Ramírez is Miss Venezuela 1997, winner of the Best in Swimsuit award and first runner-up to Miss Universe 1998. Wikipedia",
+            "type": "",
+            "Born ": "July 30, 1979 (age 34), Táriba, Venezuela",
             "People also search for": []
         },
         "Shelley Hennig": {
@@ -535,23 +552,6 @@
             "Nominations ": [
                 "Daytime Emmy Award for Outstanding Younger Actress in a Drama Series"
             ],
-            "People also search for": []
-        },
-        "Sylvia Hitchcock": {
-            "label": "Sylvia Hitchcock",
-            "description": "Sylvia Louise Hitchcock-Carson is a pageant titleholder who held the Miss Alabama USA 1967, Miss USA 1967 and Miss Universe 1967 titles.\nHitchcock was born in Haverhill, Massachusetts and grew up on a chicken farm in Miami, Florida. Wikipedia",
-            "type": "",
-            "Born ": "January 31, 1946, Haverhill, Massachusetts, United States",
-            "Education ": [
-                "University of Alabama"
-            ],
-            "People also search for": []
-        },
-        "Veruska Ramírez": {
-            "label": "Veruska Ramírez",
-            "description": "Veruska Tatiana Ramírez is Miss Venezuela 1997, winner of the Best in Swimsuit award and first runner-up to Miss Universe 1998. Wikipedia",
-            "type": "",
-            "Born ": "July 30, 1979 (age 34), Táriba, Venezuela",
             "People also search for": []
         },
         "Sonia Rolland": {
@@ -582,16 +582,16 @@
             "Born ": "September 9, 1983 (age 30), Cabimas, Venezuela",
             "People also search for": []
         },
-        "Ericka Dunlap": {
-            "label": "Ericka Dunlap",
-            "description": "Ericka Dunlap is an American beauty pageant titleholder from Orlando, Florida who was named Miss Florida 2003 and subsequently crowned Miss America 2004. Dunlap was the first African American woman to be crowned Miss Florida. Wikipedia",
-            "type": "Model",
-            "Born ": "December 29, 1981 (age 32), Orlando, Florida, United States",
-            "Education ": [
-                "University of Central Florida"
+        "Amanda Rammell": {
+            "label": "Amanda Rammell",
+            "description": "Amanda Rammell is an American actress and former beauty pageant titleholder from Rexburg, Idaho who has competed in the Miss Teen USA pageant and the Miss USA competition. She is the eldest daughter of politician Rex Rammell. Wikipedia",
+            "type": "",
+            "Born ": "May 22, 1985 (age 28), Rexburg, Idaho, United States",
+            "Parents ": [
+                "Rex Rammell"
             ],
-            "TV shows ": [
-                "Miss America"
+            "Education ": [
+                "Madison High School"
             ],
             "People also search for": []
         },
@@ -609,28 +609,24 @@
             ],
             "People also search for": []
         },
-        "Jedah Hernandez": {
-            "label": "Jedah Hernandez",
-            "description": "Jedah Casabuela Hernandez. She is famous for being the Mutya ng Pilipinas 2004 titleholder.\nStanding at 5'9\", Jedah also won the 4th Runner-up, Miss Asia Pacific International and the Special Award for ... Wikipedia",
-            "type": "",
-            "Born ": [
-                "1984",
-                " Cabuyao",
-                " Philippines"
+        "Ericka Dunlap": {
+            "label": "Ericka Dunlap",
+            "description": "Ericka Dunlap is an American beauty pageant titleholder from Orlando, Florida who was named Miss Florida 2003 and subsequently crowned Miss America 2004. Dunlap was the first African American woman to be crowned Miss Florida. Wikipedia",
+            "type": "Model",
+            "Born ": "December 29, 1981 (age 32), Orlando, Florida, United States",
+            "Education ": [
+                "University of Central Florida"
+            ],
+            "TV shows ": [
+                "Miss America"
             ],
             "People also search for": []
         },
-        "Amanda Rammell": {
-            "label": "Amanda Rammell",
-            "description": "Amanda Rammell is an American actress and former beauty pageant titleholder from Rexburg, Idaho who has competed in the Miss Teen USA pageant and the Miss USA competition. She is the eldest daughter of politician Rex Rammell. Wikipedia",
+        "Joanne Black": {
+            "label": "Joanne Black",
+            "description": "Joanne Black is a former Irish model and actress, later working as a stylist in London. She took part in beauty pageants, becoming Miss Limerick Photogenic, then Miss Ireland in 1995, at the age of 20. Wikipedia",
             "type": "",
-            "Born ": "May 22, 1985 (age 28), Rexburg, Idaho, United States",
-            "Parents ": [
-                "Rex Rammell"
-            ],
-            "Education ": [
-                "Madison High School"
-            ],
+            "Born ": "October 25, 1974 (age 39), Cavan, Republic of Ireland",
             "People also search for": []
         },
         "Jessica Rafalowski": {
@@ -643,11 +639,26 @@
             ],
             "People also search for": []
         },
-        "Joanne Black": {
-            "label": "Joanne Black",
-            "description": "Joanne Black is a former Irish model and actress, later working as a stylist in London. She took part in beauty pageants, becoming Miss Limerick Photogenic, then Miss Ireland in 1995, at the age of 20. Wikipedia",
+        "Jedah Hernandez": {
+            "label": "Jedah Hernandez",
+            "description": "Jedah Casabuela Hernandez. She is famous for being the Mutya ng Pilipinas 2004 titleholder.\nStanding at 5'9\", Jedah also won the 4th Runner-up, Miss Asia Pacific International and the Special Award for ... Wikipedia",
             "type": "",
-            "Born ": "October 25, 1974 (age 39), Cavan, Republic of Ireland",
+            "Born ": [
+                "1984",
+                " Cabuyao",
+                " Philippines"
+            ],
+            "People also search for": []
+        },
+        "Julie Hayek": {
+            "label": "Julie Hayek",
+            "description": "Julie Lynne Hayek is an American beauty queen and actress who was Miss USA 1983. Wikipedia",
+            "type": "",
+            "Born ": "October 4, 1960 (age 53), California, United States",
+            "Education ": [
+                "University of California",
+                " Los Angeles"
+            ],
             "People also search for": []
         },
         "Kimberly Tomes": {
@@ -665,17 +676,6 @@
             ],
             "People also search for": []
         },
-        "Julie Hayek": {
-            "label": "Julie Hayek",
-            "description": "Julie Lynne Hayek is an American beauty queen and actress who was Miss USA 1983. Wikipedia",
-            "type": "",
-            "Born ": "October 4, 1960 (age 53), California, United States",
-            "Education ": [
-                "University of California",
-                " Los Angeles"
-            ],
-            "People also search for": []
-        },
         "Maria Remenyi": {
             "label": "Maria Remenyi",
             "description": "Maria Remenyi is a beauty queen and, later, an astrophysicist and cosmologist, who held the title of Miss USA 1966. Wikipedia",
@@ -683,17 +683,6 @@
             "Born ": [
                 "1946",
                 " Denmark"
-            ],
-            "People also search for": []
-        },
-        "Mary Leona Gage": {
-            "label": "Mary Leona Gage",
-            "description": "Mary Leona Gage was a beauty queen from Maryland who was crowned Miss USA 1957, the first from that state to capture the Miss USA crown. She was stripped of her title when it was revealed that she was 18, married, and the mother of two children. Wikipedia",
-            "type": "",
-            "Born ": "April 8, 1939, Longview, Texas, United States",
-            "Died ": "October 5, 2010",
-            "Movies ": [
-                "Tales of Terror"
             ],
             "People also search for": []
         },
@@ -709,14 +698,14 @@
             ],
             "People also search for": []
         },
-        "Sinéad Noonan": {
-            "label": "Sinéad Noonan",
-            "description": "Sinéad Noonan is an Irish model and actress who won Miss Ireland 2008.\nNoonan was born in Dublin to Peter and Stephanie Noonan, and grew up in Dunboyne, Meath. As a child, she endured bullies who picked on her because of her size. Wikipedia",
+        "Mary Leona Gage": {
+            "label": "Mary Leona Gage",
+            "description": "Mary Leona Gage was a beauty queen from Maryland who was crowned Miss USA 1957, the first from that state to capture the Miss USA crown. She was stripped of her title when it was revealed that she was 18, married, and the mother of two children. Wikipedia",
             "type": "",
-            "Born ": [
-                "1987",
-                " Dublin",
-                " Republic of Ireland"
+            "Born ": "April 8, 1939, Longview, Texas, United States",
+            "Died ": "October 5, 2010",
+            "Movies ": [
+                "Tales of Terror"
             ],
             "People also search for": []
         },
@@ -725,30 +714,6 @@
             "description": "Nathaly Andreína Navas Pérez is a model and pageant titleholder, born in La Guaira, Venezuela, on February 8, 1987. She represented the Delta Amacuro state in the Miss Venezuela 2008 pageant, on September 10, 2008. Wikipedia",
             "type": "",
             "Born ": "February 8, 1987 (age 27), La Guaira, Venezuela",
-            "People also search for": []
-        },
-        "Tanya Wilson": {
-            "label": "Tanya Wilson",
-            "description": "Tanya Wilson is a beauty queen from Honolulu, Hawaii who held the Miss USA 1972 title.\nWilson placed second runner-up in the Miss Nevada pageant in 1969 and also competed in 1970. Wikipedia",
-            "type": "",
-            "Born ": "June 13, 1950 (age 63)",
-            "People also search for": []
-        },
-        "Zuzana Jandová": {
-            "label": "Zuzana Jandová",
-            "description": "Zuzana Jandová is a beauty pageant contestant who won Miss Czech Republic and represented her country in Miss World 2008 in South Africa. Wikipedia",
-            "type": "",
-            "Born ": "August 18, 1987 (age 26), Karviná, Czech Republic",
-            "People also search for": []
-        },
-        "Lolita Morena": {
-            "label": "Lolita Morena",
-            "description": "Lolita Laure Morena is a Swiss model, actress and television hostess. Wikipedia",
-            "type": "Actress",
-            "Born ": "October 15, 1960 (age 53), Cantiano, Italy",
-            "Spouse ": [
-                "Lothar Matthäus (m. 1994–1999)"
-            ],
             "People also search for": []
         },
         "Terri Utley": {
@@ -760,11 +725,65 @@
             ],
             "People also search for": []
         },
+        "Tanya Wilson": {
+            "label": "Tanya Wilson",
+            "description": "Tanya Wilson is a beauty queen from Honolulu, Hawaii who held the Miss USA 1972 title.\nWilson placed second runner-up in the Miss Nevada pageant in 1969 and also competed in 1970. Wikipedia",
+            "type": "",
+            "Born ": "June 13, 1950 (age 63)",
+            "People also search for": []
+        },
+        "Sinéad Noonan": {
+            "label": "Sinéad Noonan",
+            "description": "Sinéad Noonan is an Irish model and actress who won Miss Ireland 2008.\nNoonan was born in Dublin to Peter and Stephanie Noonan, and grew up in Dunboyne, Meath. As a child, she endured bullies who picked on her because of her size. Wikipedia",
+            "type": "",
+            "Born ": [
+                "1987",
+                " Dublin",
+                " Republic of Ireland"
+            ],
+            "People also search for": []
+        },
+        "Zuzana Jandová": {
+            "label": "Zuzana Jandová",
+            "description": "Zuzana Jandová is a beauty pageant contestant who won Miss Czech Republic and represented her country in Miss World 2008 in South Africa. Wikipedia",
+            "type": "",
+            "Born ": "August 18, 1987 (age 26), Karviná, Czech Republic",
+            "People also search for": []
+        },
+        "Natasha Suri": {
+            "label": "Natasha Suri",
+            "description": "Natasha Suri is an Indian beauty pageant winner from Mumbai. In 2006 she won the prestigious Femina Miss India World title and placed in the top 15 semifinals in the Miss World contest. Suri places in the 'Top Models' bracket in India. Wikipedia",
+            "type": "Model",
+            "Born ": "May 15, 1984 (age 29), Mumbai, India",
+            "Education ": [
+                "Jai Hind College"
+            ]
+        },
+        "Lolita Morena": {
+            "label": "Lolita Morena",
+            "description": "Lolita Laure Morena is a Swiss model, actress and television hostess. Wikipedia",
+            "type": "Actress",
+            "Born ": "October 15, 1960 (age 53), Cantiano, Italy",
+            "Spouse ": [
+                "Lothar Matthäus (m. 1994–1999)"
+            ],
+            "People also search for": []
+        },
         "Lucie Králová": {
             "label": "Lucie Králová",
             "description": "Lucie Králová is a beauty pageant titleholder who won Miss Czech Republic as a 23-year-old in 2005. Wikipedia",
             "type": "",
             "Born ": "February 10, 1982 (age 32), Teplice, Czech Republic",
+            "People also search for": []
+        },
+        "Ris Low": {
+            "label": "Ris Low",
+            "description": "Ris Low was crowned Miss Singapore World 2009 on 31 July 2009. She stepped down on 29 September 2009 after her previous credit fraud case was revealed. Wikipedia",
+            "type": "",
+            "Born ": "May 28, 1990 (age 23), Singapore",
+            "Education ": [
+                "Management Development Institute of Singapore"
+            ],
             "People also search for": []
         },
         "Tereza Chlebovská": {
@@ -777,53 +796,14 @@
             ],
             "People also search for": []
         },
-        "Natasha Suri": {
-            "label": "Natasha Suri",
-            "description": "Natasha Suri is an Indian beauty pageant winner from Mumbai. In 2006 she won the prestigious Femina Miss India World title and placed in the top 15 semifinals in the Miss World contest. Suri places in the 'Top Models' bracket in India. Wikipedia",
-            "type": "Model",
-            "Born ": "May 15, 1984 (age 29), Mumbai, India",
-            "Education ": [
-                "Jai Hind College"
-            ]
-        },
-        "Ris Low": {
-            "label": "Ris Low",
-            "description": "Ris Low was crowned Miss Singapore World 2009 on 31 July 2009. She stepped down on 29 September 2009 after her previous credit fraud case was revealed. Wikipedia",
+        "Bui Bich Phuong": {
+            "label": "Bùi Bích Phương",
+            "description": "Bùi Bích Phương was crowned Miss Vietnam in 1988. During this period she was a first year English student at the University of Hanoi. She was the first person ever to be crowned Miss Vietnam. Wikipedia",
             "type": "",
-            "Born ": "May 28, 1990 (age 23), Singapore",
-            "Education ": [
-                "Management Development Institute of Singapore"
-            ],
-            "People also search for": []
-        },
-        "Maria Fletcher": {
-            "label": "Maria Fletcher",
-            "description": "Maria Beale Fletcher was Miss America 1962.\nFletcher was born to Charles \"Beale\" and Margaret Gatley Fletcher, who were the founders of the Asheville-area Fletcher School of Dance and the Land of the Sky Civic Ballet. Wikipedia",
-            "type": "",
-            "Born ": "June 23, 1942 (age 71), Asheville, North Carolina, United States",
-            "Education ": [
-                "A. C. Reynolds High School"
-            ],
-            "People also search for": []
-        },
-        "Jeanne Harn": {
-            "label": "Jeanne Harn",
-            "description": "Jeanne Angeles Harn is a Filipina fashion and ramp model, environmentalist, and beauty queen. She competed and won the national beauty pageant Miss Philippines Earth 2007. She was crowned by Miss Philippines Earth 2006 Catherine Untalan. Wikipedia",
-            "type": "Model",
             "Born ": [
-                "1982",
-                " Philippines"
-            ],
-            "People also search for": []
-        },
-        "XiXi Yang": {
-            "label": "XiXi Yang",
-            "description": "XiXi Yang is an American TV personality and former beauty queen. She was recently crowned Miss China 2008 Hawaiian Tropic and finished in the top 10 at the 25th Annual Hawaiian Tropic International Pageant. Wikipedia",
-            "type": "",
-            "Born ": "February 16, 1989 (age 25), China",
-            "Education ": [
-                "North Allegheny Senior High School",
-                " New York University"
+                "1971",
+                " Hanoi",
+                " Vietnam"
             ],
             "People also search for": []
         },
@@ -844,6 +824,16 @@
             ],
             "People also search for": []
         },
+        "Jeanne Harn": {
+            "label": "Jeanne Harn",
+            "description": "Jeanne Angeles Harn is a Filipina fashion and ramp model, environmentalist, and beauty queen. She competed and won the national beauty pageant Miss Philippines Earth 2007. She was crowned by Miss Philippines Earth 2006 Catherine Untalan. Wikipedia",
+            "type": "Model",
+            "Born ": [
+                "1982",
+                " Philippines"
+            ],
+            "People also search for": []
+        },
         "Francis Gago": {
             "label": "Francis Gago",
             "description": "Francis del Valle Gago Aponte is a former Miss World Venezuela who won Reina Sudamericana 1992 and placed second runner-up to Miss World 1992 as Miss World Americas. Wikipedia",
@@ -855,14 +845,13 @@
             ],
             "People also search for": []
         },
-        "Bui Bich Phuong": {
-            "label": "Bùi Bích Phương",
-            "description": "Bùi Bích Phương was crowned Miss Vietnam in 1988. During this period she was a first year English student at the University of Hanoi. She was the first person ever to be crowned Miss Vietnam. Wikipedia",
+        "Maria Fletcher": {
+            "label": "Maria Fletcher",
+            "description": "Maria Beale Fletcher was Miss America 1962.\nFletcher was born to Charles \"Beale\" and Margaret Gatley Fletcher, who were the founders of the Asheville-area Fletcher School of Dance and the Land of the Sky Civic Ballet. Wikipedia",
             "type": "",
-            "Born ": [
-                "1971",
-                " Hanoi",
-                " Vietnam"
+            "Born ": "June 23, 1942 (age 71), Asheville, North Carolina, United States",
+            "Education ": [
+                "A. C. Reynolds High School"
             ],
             "People also search for": []
         },
@@ -887,14 +876,14 @@
             ],
             "People also search for": []
         },
-        "Sehr Mahmood": {
-            "label": "Sehr Mahmood",
-            "description": "Sehr Mahmood from Karachi, Pakistan was crowned Miss Pakistan World 2006 on April 1, 2006 in Toronto, Canada. Wikipedia",
+        "XiXi Yang": {
+            "label": "XiXi Yang",
+            "description": "XiXi Yang is an American TV personality and former beauty queen. She was recently crowned Miss China 2008 Hawaiian Tropic and finished in the top 10 at the 25th Annual Hawaiian Tropic International Pageant. Wikipedia",
             "type": "",
-            "Born ": [
-                "1981",
-                " Karachi",
-                " Pakistan"
+            "Born ": "February 16, 1989 (age 25), China",
+            "Education ": [
+                "North Allegheny Senior High School",
+                " New York University"
             ],
             "People also search for": []
         },
@@ -929,33 +918,6 @@
             ],
             "People also search for": []
         },
-        "Candace Michelle Brown": {
-            "label": "Candace Michelle Brown",
-            "description": "Candace Michelle Brown is a beauty pageant titleholder from the United States who was crowned Miss Alabama USA and placed first runner-up to Miss USA 1992. Wikipedia",
-            "type": "",
-            "Born ": "November 21, 1968 (age 45), Calhoun, Georgia, United States",
-            "Education ": [
-                "Auburn University"
-            ],
-            "People also search for": []
-        },
-        "Jenny Cho": {
-            "label": "Jenny Cho",
-            "description": "Jenny Hyo-bin Cho, better known as Jenny Jo and often nicknamed \"J.Cho\" or \"Miss J.Cho\", is a second generation Korean American model and beauty queen, now turned Radio/TV host and reporter, based in South Korea. Wikipedia",
-            "type": "",
-            "Born ": "August 21, 1983 (age 30), Los Angeles, California, United States",
-            "Education ": [
-                "University of California",
-                " Davis"
-            ]
-        },
-        "Agnes Benítez": {
-            "label": "Agnes Benítez",
-            "description": "Agnes Benítez is a Puerto Rican beauty pageant titleholder. Wikipedia",
-            "type": "",
-            "Born ": "October 1, 1986 (age 27), Bayamón, Puerto Rico",
-            "People also search for": []
-        },
         "Sara Angelini": {
             "label": "Sara Angelini",
             "description": "Sara Johanna Angelini Giacche is a model and pageant titleholder, born in Valencia, Venezuela in December 1987. She was represented the Yaracuy state in the Miss Venezuela 2006 pageant, on September 14, 2006. Wikipedia",
@@ -964,6 +926,17 @@
                 "1987",
                 " Valencia",
                 " Venezuela"
+            ],
+            "People also search for": []
+        },
+        "Sehr Mahmood": {
+            "label": "Sehr Mahmood",
+            "description": "Sehr Mahmood from Karachi, Pakistan was crowned Miss Pakistan World 2006 on April 1, 2006 in Toronto, Canada. Wikipedia",
+            "type": "",
+            "Born ": [
+                "1981",
+                " Karachi",
+                " Pakistan"
             ],
             "People also search for": []
         },
@@ -977,14 +950,20 @@
             ],
             "People also search for": []
         },
-        "Macarena Mina": {
-            "label": "Macarena Mina",
-            "description": "Macarena Mina Garachena is a pageant titleholder, was born in Coihaique, Chile on October 18, 1968. She is the Miss Chile titleholder for 1989 and was the official representative of Chile to the Miss Universe 1989 pageant held in Cancún, México. Wikipedia",
+        "Agnes Benítez": {
+            "label": "Agnes Benítez",
+            "description": "Agnes Benítez is a Puerto Rican beauty pageant titleholder. Wikipedia",
             "type": "",
-            "Born ": [
-                "1968",
-                " Coyhaique",
-                " Chile"
+            "Born ": "October 1, 1986 (age 27), Bayamón, Puerto Rico",
+            "People also search for": []
+        },
+        "Candace Michelle Brown": {
+            "label": "Candace Michelle Brown",
+            "description": "Candace Michelle Brown is a beauty pageant titleholder from the United States who was crowned Miss Alabama USA and placed first runner-up to Miss USA 1992. Wikipedia",
+            "type": "",
+            "Born ": "November 21, 1968 (age 45), Calhoun, Georgia, United States",
+            "Education ": [
+                "Auburn University"
             ],
             "People also search for": []
         },
@@ -999,6 +978,16 @@
             ],
             "People also search for": []
         },
+        "Jenny Cho": {
+            "label": "Jenny Cho",
+            "description": "Jenny Hyo-bin Cho, better known as Jenny Jo and often nicknamed \"J.Cho\" or \"Miss J.Cho\", is a second generation Korean American model and beauty queen, now turned Radio/TV host and reporter, based in South Korea. Wikipedia",
+            "type": "",
+            "Born ": "August 21, 1983 (age 30), Los Angeles, California, United States",
+            "Education ": [
+                "University of California",
+                " Davis"
+            ]
+        },
         "Brooke Daniels": {
             "label": "Brooke Daniels",
             "description": "Brooke Nicole Daniels is a pageant titleholder from Tomball, Texas, who competed in the Miss USA pageant in 2009. She was born to Michael & Valerie Chachere Daniels. She has one sister named Cassidy, and one brother named Michael. Wikipedia",
@@ -1006,21 +995,6 @@
             "Born ": "June 30, 1986 (age 27), Tomball, Texas, United States",
             "Education ": [
                 "Sam Houston State University"
-            ],
-            "People also search for": []
-        },
-        "Melissa Chaty": {
-            "label": "Melissa Chaty",
-            "description": "Melissa Ivonne Chaty is a beauty queen from Ukiah, California. She held the titles of Miss Teenage California 2003 and Miss California 2007 and finished in the top 8 at Miss America in 2008. Wikipedia",
-            "type": "",
-            "Born ": [
-                "1984",
-                " Ukiah",
-                " California",
-                " United States"
-            ],
-            "Education ": [
-                "Westmont College"
             ],
             "People also search for": []
         },
@@ -1043,33 +1017,58 @@
             "type": "",
             "Born ": "July 30, 1988 (age 25), Prague, Czech Republic",
             "People also search for": []
+        },
+        "Melissa Chaty": {
+            "label": "Melissa Chaty",
+            "description": "Melissa Ivonne Chaty is a beauty queen from Ukiah, California. She held the titles of Miss Teenage California 2003 and Miss California 2007 and finished in the top 8 at Miss America in 2008. Wikipedia",
+            "type": "",
+            "Born ": [
+                "1984",
+                " Ukiah",
+                " California",
+                " United States"
+            ],
+            "Education ": [
+                "Westmont College"
+            ],
+            "People also search for": []
+        },
+        "Macarena Mina": {
+            "label": "Macarena Mina",
+            "description": "Macarena Mina Garachena is a pageant titleholder, was born in Coihaique, Chile on October 18, 1968. She is the Miss Chile titleholder for 1989 and was the official representative of Chile to the Miss Universe 1989 pageant held in Cancún, México. Wikipedia",
+            "type": "",
+            "Born ": [
+                "1968",
+                " Coyhaique",
+                " Chile"
+            ],
+            "People also search for": []
         }
     },
     "summary": {
         "label": 97,
         "description": 97,
         "type": 97,
-        "Born ": 96,
-        "Height ": 4,
-        "Spouse ": 9,
-        "TV shows ": 6,
-        "Education ": 40,
-        "Movies": 2,
-        "Parents ": 4,
-        "People also search for": 88,
-        "Died ": 4,
-        "Children ": 4,
-        "Movies and TV shows": 2,
-        "Songs": 1,
-        "Movies ": 3,
-        "Siblings ": 2,
-        "Awards ": 1,
-        "Nationality ": 1,
-        "Nominations ": 1
+        "born": 1,
+        "height": 1,
+        "spouse": 1,
+        "tv_shows": 1,
+        "education": 1,
+        "movies": 1,
+        "people_also_search_for": 1,
+        "parents": 1,
+        "died": 1,
+        "children": 1,
+        "movies_and_tv_shows": 1,
+        "songs": 1,
+        "siblings": 1,
+        "awards": 1,
+        "nationality": 1,
+        "nominations": 1
     },
     "infoboxless": [
-        "Katherine Carson",
         "Shelly Moore",
+        "Katherine Carson",
         "Karen Morrison-Comstock"
     ]
 }

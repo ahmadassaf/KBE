@@ -50,6 +50,11 @@
             "type": "Space Mission",
             "See results about": []
         },
+        "Salyut 4": {
+            "label": "Salyut 4",
+            "description": "Salyut 4 was a Salyut space station launched on December 26, 1974 into an orbit with an apogee of 355 km, a perigee of 343 km and an orbital inclination of 51.6 degrees. Wikipedia",
+            "type": "Space Mission"
+        },
         "Manned Orbiting Laboratory": {
             "label": "Manned Orbiting Laboratory",
             "description": "The Manned Orbiting Laboratory, originally referred to as the Manned Orbital Laboratory, was part of the United States Air Force's manned spaceflight program, a successor to the cancelled Boeing X-20 ... Wikipedia",
@@ -59,21 +64,16 @@
             ],
             "People also search for": []
         },
-        "Salyut 4": {
-            "label": "Salyut 4",
-            "description": "Salyut 4 was a Salyut space station launched on December 26, 1974 into an orbit with an apogee of 355 km, a perigee of 343 km and an orbital inclination of 51.6 degrees. Wikipedia",
-            "type": "Space Mission"
-        },
-        "Salyut 3": {
-            "label": "Salyut 3",
-            "description": "Salyut 3 was a Soviet space station launched on June 25, 1974. It was the second Almaz military space station, and the first such station to be launched successfully. It was included in the Salyut program to disguise its true military nature. Wikipedia",
-            "type": "Space Mission"
-        },
         "Salyut 2": {
             "label": "Salyut 2",
             "description": "Salyut 2 was a Soviet space station which was launched in 1973 as part of the Salyut programme. It was the first Almaz military space station to fly. Wikipedia",
             "type": "Space Mission",
             "See results about": []
+        },
+        "Salyut 3": {
+            "label": "Salyut 3",
+            "description": "Salyut 3 was a Soviet space station launched on June 25, 1974. It was the second Almaz military space station, and the first such station to be launched successfully. It was included in the Salyut program to disguise its true military nature. Wikipedia",
+            "type": "Space Mission"
         },
         "Salyut 6": {
             "label": "Salyut 6",
@@ -149,47 +149,47 @@
         "label": 14,
         "description": 14,
         "type": 14,
-        "Initial release ": 1,
-        "Director ": 1,
-        "Running time ": 1,
-        "Sequel ": 1,
-        "Screenplay ": 1,
-        "Cast": 1,
-        "People also search for": 5,
-        "Orbit height ": 3,
-        "Speed on orbit ": 3,
-        "Max speed ": 2,
-        "Launch date ": 3,
-        "Cost ": 2,
-        "Manufacturer ": 3,
-        "See results about": 4,
-        "Related topics": 1,
-        "Launch site ": 1
+        "initial_release": 1,
+        "director": 1,
+        "running_time": 1,
+        "sequel": 1,
+        "screenplay": 1,
+        "cast": 1,
+        "people_also_search_for": 1,
+        "orbit_height": 1,
+        "speed_on_orbit": 1,
+        "max_speed": 1,
+        "launch_date": 1,
+        "cost": 1,
+        "manufacturer": 1,
+        "see_results_about": 1,
+        "related_topics": 1,
+        "launch_site": 1
     },
     "infoboxless": [
+        "Genesis I",
         "Kosmos 1686",
         "Kosmos 557",
+        "Sundancer",
         "Galaxy (spacecraft)",
         "Orbital Piloted Assembly and Experiment Complex",
         "Zvezda (ISS module)",
         "Skylab B",
         "BA 2100",
-        "Bigelow Commercial Space Station",
-        "BA 330",
         "Pirs (ISS module)",
+        "BA 330",
+        "Bigelow Commercial Space Station",
         "DOS-2",
         "Orbital Technologies Commercial Space Station",
+        "Harmony (ISS module)",
         "Mir Core Module",
         "Space Station Freedom",
-        "Harmony (ISS module)",
+        "Priroda",
         "Tiangong-2",
         "Tiangong-3",
-        "Tiangong-1",
         "Zarya",
+        "Tiangong-1",
         "Pirs docking compartment",
-        "Pakistan Mission Control Center",
-        "Genesis I",
-        "Sundancer",
-        "Priroda"
+        "Pakistan Mission Control Center"
     ]
 }

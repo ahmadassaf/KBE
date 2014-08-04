@@ -8,16 +8,23 @@
                 "1968"
             ]
         },
+        "1. FC Eschborn": {
+            "label": "1. FC Eschborn",
+            "description": "",
+            "type": "",
+            "People also search for": []
+        },
         "1. FC Heidenheim": {
             "label": "1. FC Heidenheim",
             "description": "1. FC Heidenheim 1846 is a German association football club from the city of Heidenheim, Baden-Württemberg. Wikipedia",
             "type": "",
             "Founded ": "August 14, 1846"
         },
-        "1. HFC Humenné": {
-            "label": "1. Hfc Humenné",
-            "description": "",
-            "type": ""
+        "1. FC Pforzheim": {
+            "label": "1. FC Pforzheim",
+            "description": "1. FC Pforzheim was a German association football club playing in Pforzheim, Baden-Württemberg. The club was established on 5 May 1896 and was a founding member of the German Football Association in Leipzig in 1900. Wikipedia",
+            "type": "",
+            "Founded ": "May 5, 1896"
         },
         "1. FFC 08 Niederkirchen": {
             "label": "1. FFC 08 Niederkirchen",
@@ -31,17 +38,10 @@
             "type": "",
             "Founded ": "April 3, 2003"
         },
-        "1. FC Pforzheim": {
-            "label": "1. FC Pforzheim",
-            "description": "1. FC Pforzheim was a German association football club playing in Pforzheim, Baden-Württemberg. The club was established on 5 May 1896 and was a founding member of the German Football Association in Leipzig in 1900. Wikipedia",
-            "type": "",
-            "Founded ": "May 5, 1896"
-        },
-        "1. FC Eschborn": {
-            "label": "1. FC Eschborn",
+        "1. HFC Humenné": {
+            "label": "1. Hfc Humenné",
             "description": "",
-            "type": "",
-            "People also search for": []
+            "type": ""
         },
         "ACF Gloria 1922 Bistriţa": {
             "label": "ACF Gloria Bistrița",
@@ -54,6 +54,27 @@
                 "Liga I"
             ]
         },
+        "AC Arles-Avignon": {
+            "label": "AC Arles-Avignon",
+            "description": "Athlétic Club Arles-Avignon is a French association football club originally based in Arles. The club was founded in 1912 as a result of a merger and was formerly known as Athlétic Club Arles, but in ... Wikipedia",
+            "type": "",
+            "Founded ": [
+                "1913"
+            ],
+            "League ": [
+                "Ligue 2"
+            ],
+            "Roster": []
+        },
+        "AC Horsens": {
+            "label": "AC Horsens",
+            "description": "AC Horsens is a professional Danish football team, playing in the Danish 1st Division. They play on Casa Arena Horsens in Horsens. The club was founded in 1994, as a superstructure on Horsens fS and the merger of Dagnæs IF and B 1940; FC Horsens. Wikipedia",
+            "type": "",
+            "Founded ": "January 1, 1994",
+            "League ": [
+                "Danish Superliga"
+            ]
+        },
         "AD Arganda": {
             "label": "AD Arganda",
             "description": "Agrupación Deportiva Arganda is a football club based in Arganda del Rey, Community of Madrid, Spain. Wikipedia",
@@ -62,12 +83,47 @@
                 "1964"
             ]
         },
+        "AEL Limassol": {
+            "label": "AEL Limassol",
+            "description": "'Αthlitiki Enosi Lemesou, commonly known as AEL Limassol, is a Cypriot multisport club based in the city of Limassol, the port of Cyprus and also out of the three sports clubs that are located there, AEL is the top of them. Wikipedia",
+            "type": "",
+            "Founded ": "October 4, 1930",
+            "League ": [
+                "Cypriot First Division"
+            ],
+            "See results about": []
+        },
         "AFC Progresul Bucureşti": {
             "label": "FC Progresul București",
             "description": "Fotbal Club Progresul Bucureşti is a Romanian football club from Bucharest, founded in 1944.\nIt played for 32 seasons in the Liga I, being ranked 15th in the Liga I All-Time Table. Wikipedia",
             "type": "",
             "Founded ": [
                 "1944"
+            ]
+        },
+        "AGOVV Apeldoorn": {
+            "label": "Agovv Apeldoorn",
+            "description": "",
+            "type": "",
+            "People also search for": []
+        },
+        "AS Cherbourg Football": {
+            "label": "AS Cherbourg Football",
+            "description": "AS Cherbourg or the Association Sportive de Cherbourg Football is a French football club currently playing in the Championnat de France amateur, which is the fourth division in France. Wikipedia",
+            "type": "",
+            "Founded ": [
+                "1945"
+            ],
+            "League ": [
+                "Championnat National"
+            ]
+        },
+        "AS Moulins": {
+            "label": "AS Moulins",
+            "description": "Association Sportive Moulins Football 03 Auvergne, commonly known as AS Moulins or simply Moulins, is a French football club based in Moulins. Wikipedia",
+            "type": "",
+            "Founded ": [
+                "1927"
             ]
         },
         "Amiens SC": {
@@ -101,25 +157,6 @@
                 "Ekstraklasa"
             ]
         },
-        "AS Cherbourg Football": {
-            "label": "AS Cherbourg Football",
-            "description": "AS Cherbourg or the Association Sportive de Cherbourg Football is a French football club currently playing in the Championnat de France amateur, which is the fourth division in France. Wikipedia",
-            "type": "",
-            "Founded ": [
-                "1945"
-            ],
-            "League ": [
-                "Championnat National"
-            ]
-        },
-        "AS Moulins": {
-            "label": "AS Moulins",
-            "description": "Association Sportive Moulins Football 03 Auvergne, commonly known as AS Moulins or simply Moulins, is a French football club based in Moulins. Wikipedia",
-            "type": "",
-            "Founded ": [
-                "1927"
-            ]
-        },
         "Angers SCO": {
             "label": "Angers SCO",
             "description": "Angers Sporting Club de l'Ouest is a French association football club based in Angers. The club was founded in 1919 and currently play in Ligue 2, the second division of French football having achieved promotion to the league in 2007. Wikipedia",
@@ -131,33 +168,69 @@
                 "Ligue 2"
             ]
         },
-        "CD Roquetas": {
-            "label": "CD Roquetas",
-            "description": "Club Deportivo Puerto Roquetas, also known as Roquetas is a Spanish football team based in Roquetas de Mar, in the autonomous community of Andalusia. Wikipedia",
+        "B68 Toftir": {
+            "label": "B68 Toftir",
+            "description": "B68 Toftir is a Faroese football club, playing in the village of Toftir in Effodeildin. After being promoted to the 1. deild in 1980, they won the league 3 times in 1984, 1985, and 1992. In 2004 they were relegated. Wikipedia",
             "type": "",
-            "Founded ": [
-                "1933"
-            ]
+            "Founded ": "December 21, 1962",
+            "League ": [
+                "Faroe Islands Premier League"
+            ],
+            "See results about": []
         },
-        "Central Córdoba de Rosario": {
-            "label": "Club Atlético Central Córdoba",
-            "description": "Club Atlético Central Córdoba, usually just Central Córdoba, is an Argentine football club based in the city of Rosario, Santa Fe. Wikipedia",
-            "type": "",
-            "Founded ": "October 20, 1906"
-        },
-        "CF Rapa Nui": {
-            "label": "CF Rapa Nui",
-            "description": "CF Rapa Nui is an association football team from Chile which represents the territory of Easter Island at association football. Their home games are played at the Estadio de Hanga Roa, which has a capacity of approximately 2,500 people. Wikipedia",
-            "type": "",
-            "Founded ": [
-                "2009"
-            ]
-        },
-        "AGOVV Apeldoorn": {
-            "label": "Agovv Apeldoorn",
+        "Argentino de Quilmes": {
+            "label": "Club Atlético Argentino de Quilmes",
             "description": "",
             "type": "",
             "People also search for": []
+        },
+        "BFV Hassia Bingen": {
+            "label": "BFV Hassia Bingen",
+            "description": "The BFV Hassia Bingen is a German association football club from the city of Bingen am Rhein, Rhineland-Palatinate.\nHassia, at times, has played at the highest level of German football, the last time in 1952–53. Wikipedia",
+            "type": "",
+            "Founded ": [
+                "1910"
+            ]
+        },
+        "BK Häcken": {
+            "label": "BK Häcken",
+            "description": "Bollklubben Häcken, also known simply as BK Häcken, is a Swedish professional football club based in Gothenburg. The club is affiliated to Göteborgs Fotbollförbund and play their home games at Rambergsvallen. Wikipedia",
+            "type": "",
+            "Founded ": "August 2, 1940",
+            "League ": [
+                "Allsvenskan"
+            ]
+        },
+        "Bonner SC": {
+            "label": "Bonner SC",
+            "description": "Bonner SC is a German association football club based in Bonn. The club was formed in 1965 through the merger of Bonner FV and Tura Bonn. Wikipedia",
+            "type": "",
+            "Founded ": [
+                "1965"
+            ]
+        },
+        "Besëlidhja Lezhë": {
+            "label": "Besëlidhja Lezhë",
+            "description": "Klubi Sportiv Besëlidhja Lezhë is an Albanian football club based in the northern city of Lezhë. Their home ground is the Stadiumi Besëlidhja which has a seating capacity. Wikipedia",
+            "type": "",
+            "Founded ": "November 17, 1930"
+        },
+        "Borussia Fulda": {
+            "label": "Borussia Fulda",
+            "description": "Borussia Fulda is a German association football club from Fulda, Hesse. The club was founded 4 July 1904 as FC Borussia 1904 Fulda and underwent a number of changes in 1923 when they were first joined ... Wikipedia",
+            "type": "",
+            "Founded ": "July 4, 1904"
+        },
+        "Balzan Youths F.C.": {
+            "label": "Balzan F.C.",
+            "description": "Balzan Football Club is a Maltese football club from the village of Balzan, which currently plays in the Maltese Premier League. The club was founded in 1937, and has played top-level football once before in 2003–04. Wikipedia",
+            "type": "",
+            "Founded ": [
+                "1937"
+            ],
+            "Arena/Stadium ": [
+                "Ta' Qali National Stadium"
+            ]
         },
         "Bradford City A.F.C.": {
             "label": "Bradford City A.F.C.",
@@ -185,157 +258,6 @@
             ],
             "Awards ": [
                 "Best Fan Marketing Campaign"
-            ]
-        },
-        "Bonner SC": {
-            "label": "Bonner SC",
-            "description": "Bonner SC is a German association football club based in Bonn. The club was formed in 1965 through the merger of Bonner FV and Tura Bonn. Wikipedia",
-            "type": "",
-            "Founded ": [
-                "1965"
-            ]
-        },
-        "Borussia Fulda": {
-            "label": "Borussia Fulda",
-            "description": "Borussia Fulda is a German association football club from Fulda, Hesse. The club was founded 4 July 1904 as FC Borussia 1904 Fulda and underwent a number of changes in 1923 when they were first joined ... Wikipedia",
-            "type": "",
-            "Founded ": "July 4, 1904"
-        },
-        "BK Häcken": {
-            "label": "BK Häcken",
-            "description": "Bollklubben Häcken, also known simply as BK Häcken, is a Swedish professional football club based in Gothenburg. The club is affiliated to Göteborgs Fotbollförbund and play their home games at Rambergsvallen. Wikipedia",
-            "type": "",
-            "Founded ": "August 2, 1940",
-            "League ": [
-                "Allsvenskan"
-            ]
-        },
-        "Chamois Niortais F.C.": {
-            "label": "Chamois Niortais F.C.",
-            "description": "Chamois Niortais Football Club is a French association football club based in the commune of Niort, in the Deux-Sèvres department of western France. It was founded in 1925 by Charles Boinot, the son of the owner of a local chamois leather factory. Wikipedia",
-            "type": "",
-            "Founded ": [
-                "1925"
-            ],
-            "Arena/Stadium ": [
-                "Stade René Gaillard"
-            ],
-            "League ": [
-                "Ligue 2"
-            ]
-        },
-        "CD Manacor": {
-            "label": "CE Manacor",
-            "description": "Club Esportiu Manacor is a Spanish football team based in Manacor, in the autonomous community of Balearic Islands. Founded on 23 June 1923, it plays in Tercera División – Group 11. Wikipedia",
-            "type": "",
-            "Founded ": [
-                "1923"
-            ]
-        },
-        "CD Teruel": {
-            "label": "CD Teruel",
-            "description": "Club Deportivo Teruel is a Spanish football team based in Teruel, in the autonomous community of Aragon. Founded in 1946 it plays in Tercera División, holding home games at Estadio Pinilla, with a capacity of 5,000 seats. Wikipedia",
-            "type": "",
-            "Founded ": [
-                "1946"
-            ]
-        },
-        "DSV Leoben": {
-            "label": "DSV Leoben Stadion Errichtungs- und Betriebs GmbH",
-            "description": "",
-            "type": "",
-            "See results about": []
-        },
-        "FC Anker Wismar": {
-            "label": "FC Anker Wismar",
-            "description": "FC Anker Wismar is a German association football club based in Wismar, Germany, currently playing in the NOFV-Oberliga Nord. Wikipedia",
-            "type": "",
-            "Founded ": "June 12, 1997"
-        },
-        "Besëlidhja Lezhë": {
-            "label": "Besëlidhja Lezhë",
-            "description": "Klubi Sportiv Besëlidhja Lezhë is an Albanian football club based in the northern city of Lezhë. Their home ground is the Stadiumi Besëlidhja which has a seating capacity. Wikipedia",
-            "type": "",
-            "Founded ": "November 17, 1930"
-        },
-        "Eintracht Duisburg 1848": {
-            "label": "Eintracht Duisburg 1848",
-            "description": "Eintracht Duisburg is a German sportsclub from the city of Duisburg, North Rhine-Westphalia. Founded in 1848 it is one of the country's oldest sport associations. Wikipedia",
-            "type": "",
-            "Founded ": [
-                "1848"
-            ]
-        },
-        "B68 Toftir": {
-            "label": "B68 Toftir",
-            "description": "B68 Toftir is a Faroese football club, playing in the village of Toftir in Effodeildin. After being promoted to the 1. deild in 1980, they won the league 3 times in 1984, 1985, and 1992. In 2004 they were relegated. Wikipedia",
-            "type": "",
-            "Founded ": "December 21, 1962",
-            "League ": [
-                "Faroe Islands Premier League"
-            ],
-            "See results about": []
-        },
-        "FC Anzhi Makhachkala": {
-            "label": "FC Anzhi Makhachkala",
-            "description": "Football Club Anzhi Makhachkala is a Russian football club based in Makhachkala, capital of the Republic of Dagestan. Founded in 1991, the club competes in the Russian Premier League, playing their home games at the Anzhi-Arena. Wikipedia",
-            "type": "",
-            "Founded ": [
-                "1991"
-            ],
-            "Arena/Stadium ": [
-                "Anzhi-Arena"
-            ],
-            "Location ": [
-                "Makhachkala"
-            ],
-            "League ": [
-                "Russian Football Premier League"
-            ],
-            "Manager ": [
-                "Gadzhi Gadzhiyev"
-            ],
-            "Training ground ": [
-                "FC Anzhi Makhachkala Training Ground"
-            ],
-            "Roster": []
-        },
-        "Balzan Youths F.C.": {
-            "label": "Balzan F.C.",
-            "description": "Balzan Football Club is a Maltese football club from the village of Balzan, which currently plays in the Maltese Premier League. The club was founded in 1937, and has played top-level football once before in 2003–04. Wikipedia",
-            "type": "",
-            "Founded ": [
-                "1937"
-            ],
-            "Arena/Stadium ": [
-                "Ta' Qali National Stadium"
-            ]
-        },
-        "Changchun Yatai F.C.": {
-            "label": "Changchun Yatai F.C.",
-            "description": "Changchun Yatai Football Club is a professional Chinese football club based in the 25,000 seater Development Area Stadium in Changchun, Jilin while currently participating in the Chinese Super League where they are managed by Svetozar Šapurić. Wikipedia",
-            "type": "",
-            "Founded ": [
-                "1996"
-            ],
-            "League ": [
-                "Chinese Super League"
-            ]
-        },
-        "FC Baulmes": {
-            "label": "FC Baulmes",
-            "description": "FC Baulmes is a Swiss football club based in Baulmes in canton Vaud. The club currently plays in the 1. Liga. Wikipedia",
-            "type": "",
-            "Founded ": [
-                "1940"
-            ]
-        },
-        "FC Chiasso": {
-            "label": "FC Chiasso",
-            "description": "FC Chiasso is a Swiss football club based in Chiasso. It was founded in 1905. Chiasso also played in the Italian first league between 1914 and 1923. Wikipedia",
-            "type": "",
-            "Founded ": [
-                "1905"
             ]
         },
         "Bury F.C.": {
@@ -367,20 +289,64 @@
                 " Family Club of the Year (League Two)"
             ]
         },
-        "FC Eintracht Rheine": {
-            "label": "FC Eintracht Rheine",
-            "description": "FC Eintracht Rheine is a German association football club from the city of Rheine, North Rhine-Westphalia. Wikipedia",
+        "CD Manacor": {
+            "label": "CE Manacor",
+            "description": "Club Esportiu Manacor is a Spanish football team based in Manacor, in the autonomous community of Balearic Islands. Founded on 23 June 1923, it plays in Tercera División – Group 11. Wikipedia",
             "type": "",
             "Founded ": [
-                "1994"
+                "1923"
             ]
         },
-        "BFV Hassia Bingen": {
-            "label": "BFV Hassia Bingen",
-            "description": "The BFV Hassia Bingen is a German association football club from the city of Bingen am Rhein, Rhineland-Palatinate.\nHassia, at times, has played at the highest level of German football, the last time in 1952–53. Wikipedia",
+        "CD Mirandés": {
+            "label": "CD Mirandés",
+            "description": "Club Deportivo Mirandés is a Spanish football team based in Miranda de Ebro, Province of Burgos, in the autonomous community of Castile and León. Wikipedia",
             "type": "",
             "Founded ": [
-                "1910"
+                "1927"
+            ],
+            "League ": [
+                "Segunda División"
+            ]
+        },
+        "CF Rapa Nui": {
+            "label": "CF Rapa Nui",
+            "description": "CF Rapa Nui is an association football team from Chile which represents the territory of Easter Island at association football. Their home games are played at the Estadio de Hanga Roa, which has a capacity of approximately 2,500 people. Wikipedia",
+            "type": "",
+            "Founded ": [
+                "2009"
+            ]
+        },
+        "CD Teruel": {
+            "label": "CD Teruel",
+            "description": "Club Deportivo Teruel is a Spanish football team based in Teruel, in the autonomous community of Aragon. Founded in 1946 it plays in Tercera División, holding home games at Estadio Pinilla, with a capacity of 5,000 seats. Wikipedia",
+            "type": "",
+            "Founded ": [
+                "1946"
+            ]
+        },
+        "CD Roquetas": {
+            "label": "CD Roquetas",
+            "description": "Club Deportivo Puerto Roquetas, also known as Roquetas is a Spanish football team based in Roquetas de Mar, in the autonomous community of Andalusia. Wikipedia",
+            "type": "",
+            "Founded ": [
+                "1933"
+            ]
+        },
+        "Central Córdoba de Rosario": {
+            "label": "Club Atlético Central Córdoba",
+            "description": "Club Atlético Central Córdoba, usually just Central Córdoba, is an Argentine football club based in the city of Rosario, Santa Fe. Wikipedia",
+            "type": "",
+            "Founded ": "October 20, 1906"
+        },
+        "Changchun Yatai F.C.": {
+            "label": "Changchun Yatai F.C.",
+            "description": "Changchun Yatai Football Club is a professional Chinese football club based in the 25,000 seater Development Area Stadium in Changchun, Jilin while currently participating in the Chinese Super League where they are managed by Svetozar Šapurić. Wikipedia",
+            "type": "",
+            "Founded ": [
+                "1996"
+            ],
+            "League ": [
+                "Chinese Super League"
             ]
         },
         "Clapham Rovers F.C.": {
@@ -389,73 +355,34 @@
             "type": "",
             "Founded ": "August 10, 1869"
         },
-        "Fremad Amager": {
-            "label": "Fremad Amager",
-            "description": "",
-            "type": "",
-            "People also search for": []
-        },
-        "Coruxo FC": {
-            "label": "Coruxo FC",
-            "description": "Coruxo Fútbol Club, is a Spanish football club based in the parish of Coruxo, Vigo, in the autonomous community of Galicia. Founded in 1930 it plays in Segunda División B – Group 1, holding home matches at O Vao, with a capacity of 1,500 spectators. Wikipedia",
+        "Chamois Niortais F.C.": {
+            "label": "Chamois Niortais F.C.",
+            "description": "Chamois Niortais Football Club is a French association football club based in the commune of Niort, in the Deux-Sèvres department of western France. It was founded in 1925 by Charles Boinot, the son of the owner of a local chamois leather factory. Wikipedia",
             "type": "",
             "Founded ": [
-                "1930"
-            ]
-        },
-        "FC Arsenal Kyiv": {
-            "label": "FC Arsenal Kyiv",
-            "description": "Football Club Arsenal Kyiv was a Ukrainian professional football club based in Kiev that went bankrupt in late 2013. Wikipedia",
-            "type": "",
-            "Founded ": [
-                "1993"
-            ],
-            "League ": [
-                "Ukrainian Premier League"
+                "1925"
             ],
             "Arena/Stadium ": [
-                "Valeriy Lobanovskyi Dynamo Stadium"
-            ]
-        },
-        "FC Malamuk": {
-            "label": "FC Malamuk",
-            "description": "FC Malamuk is a football club from Greenland based in Uummannaq. All league games, however, are played in the national stadium in Nuuk.\nMalamuk midfielder Kaassa Zeeb featured in the Greenland national football team at the 2006 ELF Cup. Wikipedia",
-            "type": "",
-            "Founded ": [
-                "1979"
-            ],
-            "League ": [
-                "Coca Cola GM"
-            ]
-        },
-        "AC Arles-Avignon": {
-            "label": "AC Arles-Avignon",
-            "description": "Athlétic Club Arles-Avignon is a French association football club originally based in Arles. The club was founded in 1912 as a result of a merger and was formerly known as Athlétic Club Arles, but in ... Wikipedia",
-            "type": "",
-            "Founded ": [
-                "1913"
+                "Stade René Gaillard"
             ],
             "League ": [
                 "Ligue 2"
-            ],
-            "Roster": []
-        },
-        "HŠK Zrinjski Mostar": {
-            "label": "HŠK Zrinjski Mostar",
-            "description": "HŠK Zrinjski Mostar is a football team from the city of Mostar, Bosnia and Herzegovina. The club plays in the Premier League of Bosnia and Herzegovina, and has been one of the top teams in the country over the years. Wikipedia",
-            "type": "",
-            "Founded ": [
-                "1905"
-            ],
-            "League ": [
-                "Premier League of Bosnia and Herzegovina"
             ]
         },
-        "Argentino de Quilmes": {
-            "label": "Club Atlético Argentino de Quilmes",
+        "Corinthian F.C.": {
+            "label": "Corinthian F.C.",
+            "description": "Corinthian Football Club is an English association football club formed in 1972 at Hartley, near Sevenoaks in Kent by a millionaire builder named Ron Billings, mainly to give his sons a club to play for. Wikipedia",
+            "type": "",
+            "Founded ": [
+                "1972"
+            ],
+            "See results about": []
+        },
+        "DSV Leoben": {
+            "label": "DSV Leoben Stadion Errichtungs- und Betriebs GmbH",
             "description": "",
             "type": "",
-            "People also search for": []
+            "See results about": []
         },
         "Dijon FCO": {
             "label": "Dijon FCO",
@@ -472,87 +399,143 @@
             ],
             "Roster": []
         },
-        "FK Pěnčín-Turnov": {
-            "label": "FK Pěnčín-Turnov",
-            "description": "FK Pěnčín-Turnov is a Czech football club located in Turnov. It currently plays in Divize C, which is in the Czech Fourth Division. Wikipedia",
+        "Coruxo FC": {
+            "label": "Coruxo FC",
+            "description": "Coruxo Fútbol Club, is a Spanish football club based in the parish of Coruxo, Vigo, in the autonomous community of Galicia. Founded in 1930 it plays in Segunda División B – Group 1, holding home matches at O Vao, with a capacity of 1,500 spectators. Wikipedia",
             "type": "",
             "Founded ": [
-                "2004"
+                "1930"
             ]
         },
-        "FK Leotar": {
-            "label": "FK Leotar",
-            "description": "FK Leotar is a professional football club from the city of Trebinje, Bosnia and Herzegovina. They play in the Premier League of Bosnia and Herzegovina. The club's home ground is the 8,500-seater Police Stadium, and the club are nicknamed \"Tigrovi\". Wikipedia",
+        "Eintracht Duisburg 1848": {
+            "label": "Eintracht Duisburg 1848",
+            "description": "Eintracht Duisburg is a German sportsclub from the city of Duisburg, North Rhine-Westphalia. Founded in 1848 it is one of the country's oldest sport associations. Wikipedia",
             "type": "",
             "Founded ": [
-                "1925"
+                "1848"
+            ]
+        },
+        "FC Anzhi Makhachkala": {
+            "label": "FC Anzhi Makhachkala",
+            "description": "Football Club Anzhi Makhachkala is a Russian football club based in Makhachkala, capital of the Republic of Dagestan. Founded in 1991, the club competes in the Russian Premier League, playing their home games at the Anzhi-Arena. Wikipedia",
+            "type": "",
+            "Founded ": [
+                "1991"
             ],
             "Arena/Stadium ": [
-                "Stadion Police"
+                "Anzhi-Arena"
+            ],
+            "Location ": [
+                "Makhachkala"
             ],
             "League ": [
-                "Premier League of Bosnia and Herzegovina"
-            ]
+                "Russian Football Premier League"
+            ],
+            "Manager ": [
+                "Gadzhi Gadzhiyev"
+            ],
+            "Training ground ": [
+                "FC Anzhi Makhachkala Training Ground"
+            ],
+            "Roster": []
         },
-        "Freiburger FC": {
-            "label": "Freiburger FC",
-            "description": "Freiburger FC is a German association football club based in Freiburg, Baden-Württemberg. Freiburger FC was a founding Clubs of the DFB in 1900. Wikipedia",
+        "FC Anker Wismar": {
+            "label": "FC Anker Wismar",
+            "description": "FC Anker Wismar is a German association football club based in Wismar, Germany, currently playing in the NOFV-Oberliga Nord. Wikipedia",
+            "type": "",
+            "Founded ": "June 12, 1997"
+        },
+        "Evian Thonon Gaillard F.C.": {
+            "label": "Evian Thonon Gaillard F.C.",
+            "description": "Évian Thonon Gaillard Football Club is a French association football club originally based in Gaillard near the Swiss border and the city of Geneva. In 2007, the club moved to Thonon-les-Bains. Wikipedia",
             "type": "",
             "Founded ": [
-                "1897"
-            ]
-        },
-        "FK Kareda Kaunas": {
-            "label": "FK Kareda Kaunas",
-            "description": "FK Kareda Kaunas is a Lithuanian football team from the city of Kaunas, founded in 1935. Moved from Šiauliai to Kaunas in 2000. It was dissolved in 2003.\nBefore 2000 it was known as \"Kareda Šiauliai\". Wikipedia",
-            "type": "",
-            "Founded ": [
-                "1935"
+                "2003"
+            ],
+            "Arena/Stadium ": [
+                "Parc des Sports"
             ],
             "League ": [
-                "A Lyga"
-            ]
+                "Ligue 1"
+            ],
+            "Manager ": [
+                "Pascal Dupraz"
+            ],
+            "Roster": []
         },
-        "FV Motor Eberswalde": {
-            "label": "FV Motor Eberswalde",
-            "description": "FV Motor Eberswalde is a German association football club from Eberswalde, Brandenberg northeast of Berlin. Wikipedia",
+        "FC Arsenal Kyiv": {
+            "label": "FC Arsenal Kyiv",
+            "description": "Football Club Arsenal Kyiv was a Ukrainian professional football club based in Kiev that went bankrupt in late 2013. Wikipedia",
             "type": "",
             "Founded ": [
-                "1909"
-            ]
-        },
-        "Fotbal Fulnek": {
-            "label": "Fotbal Fulnek",
-            "description": "Fotbal Fulnek is an association football team from Fulnek in the Czech Republic, as of the 2013–14 season playing in the eighth level of the Czech football league. Wikipedia",
-            "type": "",
-            "Founded ": [
-                "1947"
-            ]
-        },
-        "AC Horsens": {
-            "label": "AC Horsens",
-            "description": "AC Horsens is a professional Danish football team, playing in the Danish 1st Division. They play on Casa Arena Horsens in Horsens. The club was founded in 1994, as a superstructure on Horsens fS and the merger of Dagnæs IF and B 1940; FC Horsens. Wikipedia",
-            "type": "",
-            "Founded ": "January 1, 1994",
-            "League ": [
-                "Danish Superliga"
-            ]
-        },
-        "CD Mirandés": {
-            "label": "CD Mirandés",
-            "description": "Club Deportivo Mirandés is a Spanish football team based in Miranda de Ebro, Province of Burgos, in the autonomous community of Castile and León. Wikipedia",
-            "type": "",
-            "Founded ": [
-                "1927"
+                "1993"
             ],
             "League ": [
-                "Segunda División"
+                "Ukrainian Premier League"
+            ],
+            "Arena/Stadium ": [
+                "Valeriy Lobanovskyi Dynamo Stadium"
             ]
         },
-        "FK Hvězda Cheb": {
-            "label": "FK Hvězda Cheb",
-            "description": "FK Hvězda Cheb is a Czech football club, playing in the town of Cheb. The club was founded in 1951 and refounded in 2001 after a bankruptcy in 1996. Wikipedia",
-            "type": ""
+        "FC Baulmes": {
+            "label": "FC Baulmes",
+            "description": "FC Baulmes is a Swiss football club based in Baulmes in canton Vaud. The club currently plays in the 1. Liga. Wikipedia",
+            "type": "",
+            "Founded ": [
+                "1940"
+            ]
+        },
+        "FC Chiasso": {
+            "label": "FC Chiasso",
+            "description": "FC Chiasso is a Swiss football club based in Chiasso. It was founded in 1905. Chiasso also played in the Italian first league between 1914 and 1923. Wikipedia",
+            "type": "",
+            "Founded ": [
+                "1905"
+            ]
+        },
+        "FC Bayern Alzenau": {
+            "label": "FC Bayern Alzenau",
+            "description": "FC Bayern Alzenau is a German football club based in Alzenau, Bavaria. Wikipedia",
+            "type": "",
+            "Founded ": "March 27, 1920"
+        },
+        "FC Eintracht Rheine": {
+            "label": "FC Eintracht Rheine",
+            "description": "FC Eintracht Rheine is a German association football club from the city of Rheine, North Rhine-Westphalia. Wikipedia",
+            "type": "",
+            "Founded ": [
+                "1994"
+            ]
+        },
+        "FC Istres": {
+            "label": "FC Istres",
+            "description": "Football Club Istres Ouest Provence is a French association football club based in Istres. The club was formed in 1920 and currently play in Ligue 2, the second level of French football having achieved ... Wikipedia",
+            "type": "",
+            "Founded ": [
+                "1920"
+            ],
+            "League ": [
+                "Ligue 2"
+            ]
+        },
+        "FC Kryvbas Kryvyi Rih": {
+            "label": "FC Kryvbas Kryvyi Rih",
+            "description": "Football Club Kryvbas Kryvyi Rih was a Ukrainian professional football club based in Kryvyi Rih. In June 2013 the club went bankrupt and was expelled from the Ukrainian Premier League. Wikipedia",
+            "type": "",
+            "Founded ": [
+                "1959"
+            ],
+            "League ": [
+                "Ukrainian Premier League"
+            ]
+        },
+        "FC MSA Dolní Benešov": {
+            "label": "FC MSA Dolní Benešov",
+            "description": "FC MSA Dolní Benešov is a Czech football club located in the village of Dolní Benešov in the Moravian–Silesian Region. It currently plays in the Czech Fourth Division. Wikipedia",
+            "type": "",
+            "Founded ": [
+                "1926"
+            ]
         },
         "FC Lustenau 07": {
             "label": "FC Lustenau 07",
@@ -565,91 +548,22 @@
                 "Austrian Football First League"
             ]
         },
-        "Gretna F.C.": {
-            "label": "Gretna F.C.",
-            "description": "Gretna Football Club was a Scottish football club that represented the town of Gretna, Dumfries and Galloway, close to the border between England and Scotland. Wikipedia",
+        "FC Malamuk": {
+            "label": "FC Malamuk",
+            "description": "FC Malamuk is a football club from Greenland based in Uummannaq. All league games, however, are played in the national stadium in Nuuk.\nMalamuk midfielder Kaassa Zeeb featured in the Greenland national football team at the 2006 ELF Cup. Wikipedia",
             "type": "",
             "Founded ": [
-                "1946"
-            ],
-            "See results about": []
-        },
-        "FK Senica": {
-            "label": "FK Senica",
-            "description": "FK Senica is a Slovak football team, based in the town of Senica. The club was founded in 1921. Wikipedia",
-            "type": "",
-            "Founded ": [
-                "1921"
+                "1979"
             ],
             "League ": [
-                "Slovak Super Liga"
+                "Coca Cola GM"
             ]
         },
-        "FK Teplice": {
-            "label": "FK Teplice",
-            "description": "FK Teplice is a Czech football club based in the city of Teplice, 80 km north of Prague. The club currently plays in the Gambrinus liga.\nThe club was founded after World War II in 1945. Wikipedia",
+        "FC Nöttingen": {
+            "label": "FC Nöttingen",
+            "description": "FC Nöttingen is a German association football club from the Nöttingen district of Remchingen, Baden-Württemberg. Wikipedia",
             "type": "",
-            "Founded ": [
-                "1945"
-            ],
-            "League ": [
-                "Gambrinus liga"
-            ]
-        },
-        "AEL Limassol": {
-            "label": "AEL Limassol",
-            "description": "'Αthlitiki Enosi Lemesou, commonly known as AEL Limassol, is a Cypriot multisport club based in the city of Limassol, the port of Cyprus and also out of the three sports clubs that are located there, AEL is the top of them. Wikipedia",
-            "type": "",
-            "Founded ": "October 4, 1930",
-            "League ": [
-                "Cypriot First Division"
-            ],
-            "See results about": []
-        },
-        "FK LAFC Lučenec": {
-            "label": "FK LAFC Lučenec",
-            "description": "FK LAFC Lučenec is a Slovak football team, based in the city of Lučenec. Wikipedia",
-            "type": "",
-            "Founded ": [
-                "1902"
-            ],
-            "Arena/Stadium ": [
-                "Mestský štadión"
-            ],
-            "League ": [
-                "Slovak Super Liga"
-            ]
-        },
-        "FK Renova": {
-            "label": "FK Renova",
-            "description": "FK Renova is a football club based in Džepčište, Republic of Macedonia playing in the Macedonian First League. Wikipedia",
-            "type": "",
-            "Founded ": [
-                "2002"
-            ],
-            "Arena/Stadium ": [
-                "Gradski stadion Tetovo"
-            ],
-            "League ": [
-                "First Macedonian Football League"
-            ]
-        },
-        "FK Chmel Blšany": {
-            "label": "FK Chmel Blšany",
-            "description": "FK Chmel Blšany is a Czech football club based in the village of Blšany, most noted for playing a number of seasons in the Gambrinus liga between 1998 and 2006. Wikipedia",
-            "type": "",
-            "Founded ": [
-                "1946"
-            ],
-            "See results about": []
-        },
-        "FC Vaslui": {
-            "label": "FC Vaslui",
-            "description": "Fotbal Club Vaslui is a Romanian football club from Vaslui, which plays in Liga I, the top level of Romanian football. Wikipedia",
-            "type": "",
-            "League ": [
-                "Liga I"
-            ]
+            "Founded ": "July 2, 1957"
         },
         "FC Rostov": {
             "label": "FC Rostov",
@@ -672,6 +586,14 @@
             ],
             "Roster": []
         },
+        "FC Pommern Stralsund": {
+            "label": "FC Pommern Stralsund",
+            "description": "FC Pommern Stralsund is a German association football club from the city of Stralsund, Mecklenburg-Vorpommern. Wikipedia",
+            "type": "",
+            "Founded ": [
+                "1994"
+            ]
+        },
         "FC Slavia-Mozyr": {
             "label": "FC Slavia-Mozyr",
             "description": "FC Slavia-Mozyr is a Belarusian football team, based in Mozyr, Belarus. Wikipedia",
@@ -683,28 +605,12 @@
                 "Belarusian Premier League"
             ]
         },
-        "FC Pommern Stralsund": {
-            "label": "FC Pommern Stralsund",
-            "description": "FC Pommern Stralsund is a German association football club from the city of Stralsund, Mecklenburg-Vorpommern. Wikipedia",
+        "FC Sopron": {
+            "label": "FC Sopron",
+            "description": "FC Sopron, was a Hungarian football club from the town of Sopron, near the Austrian border. It was founded in 1921 as Soproni Postás. The club's home stadium is Stadion Városi with a capacity of 5,300.. Wikipedia",
             "type": "",
             "Founded ": [
-                "1994"
-            ]
-        },
-        "FC Zenit Čáslav": {
-            "label": "FK Čáslav",
-            "description": "FK Čáslav are a Czech football club from Čáslav. They currently play in the Bohemian Football League. Wikipedia",
-            "type": "",
-            "Founded ": [
-                "1902"
-            ]
-        },
-        "FC Zličín": {
-            "label": "FC Zličín",
-            "description": "FC Zličín is a football club located in Prague-Zličín, Czech Republic. It currently plays in the Czech Fourth Division. Wikipedia",
-            "type": "",
-            "Founded ": [
-                "1929"
+                "1921"
             ]
         },
         "FC Swarovski Tirol": {
@@ -716,35 +622,6 @@
             ],
             "See results about": []
         },
-        "FK Admira Prague": {
-            "label": "FK Admira Prague",
-            "description": "FK Admira Prague is a Czech football club located in Prague-Kobylisy, Czech Republic. It currently plays in the Bohemian Football League, which is the third level of competition in the country. Wikipedia",
-            "type": "",
-            "Founded ": [
-                "1907"
-            ]
-        },
-        "FC Victoria Rosport": {
-            "label": "FC Victoria Rosport",
-            "description": "Football Club Victoria Rosport is a football club, based in Rosport, in eastern Luxembourg.\nIn 2005, Rosport took on IFK Gothenburg in the first round of the Intertoto Cup. Wikipedia",
-            "type": "",
-            "Founded ": "October 1, 1928"
-        },
-        "FC Bayern Alzenau": {
-            "label": "FC Bayern Alzenau",
-            "description": "FC Bayern Alzenau is a German football club based in Alzenau, Bavaria. Wikipedia",
-            "type": "",
-            "Founded ": "March 27, 1920"
-        },
-        "Corinthian F.C.": {
-            "label": "Corinthian F.C.",
-            "description": "Corinthian Football Club is an English association football club formed in 1972 at Hartley, near Sevenoaks in Kent by a millionaire builder named Ron Billings, mainly to give his sons a club to play for. Wikipedia",
-            "type": "",
-            "Founded ": [
-                "1972"
-            ],
-            "See results about": []
-        },
         "FC Universitatea Cluj": {
             "label": "FC Universitatea Cluj",
             "description": "Fotbal Club Universitatea Cluj is a Romanian professional football club from Cluj-Napoca, founded in 1919 by Iuliu Hațieganu. Wikipedia",
@@ -752,6 +629,14 @@
             "Founded ": [
                 "September 1919"
             ],
+            "League ": [
+                "Liga I"
+            ]
+        },
+        "FC Vaslui": {
+            "label": "FC Vaslui",
+            "description": "Fotbal Club Vaslui is a Romanian football club from Vaslui, which plays in Liga I, the top level of Romanian football. Wikipedia",
+            "type": "",
             "League ": [
                 "Liga I"
             ]
@@ -773,31 +658,197 @@
                 "Gambrinus liga"
             ]
         },
-        "FC Kryvbas Kryvyi Rih": {
-            "label": "FC Kryvbas Kryvyi Rih",
-            "description": "Football Club Kryvbas Kryvyi Rih was a Ukrainian professional football club based in Kryvyi Rih. In June 2013 the club went bankrupt and was expelled from the Ukrainian Premier League. Wikipedia",
+        "FC Wohlen": {
+            "label": "FC Wohlen",
+            "description": "FC Wohlen is a Swiss football club based in the town Wohlen in Canton Aargau. They play in the Challenge League, the second highest league in the country. Wikipedia",
             "type": "",
             "Founded ": [
-                "1959"
+                "1904"
+            ]
+        },
+        "FC Victoria Rosport": {
+            "label": "FC Victoria Rosport",
+            "description": "Football Club Victoria Rosport is a football club, based in Rosport, in eastern Luxembourg.\nIn 2005, Rosport took on IFK Gothenburg in the first round of the Intertoto Cup. Wikipedia",
+            "type": "",
+            "Founded ": "October 1, 1928"
+        },
+        "FC Zenit Čáslav": {
+            "label": "FK Čáslav",
+            "description": "FK Čáslav are a Czech football club from Čáslav. They currently play in the Bohemian Football League. Wikipedia",
+            "type": "",
+            "Founded ": [
+                "1902"
+            ]
+        },
+        "FC Zličín": {
+            "label": "FC Zličín",
+            "description": "FC Zličín is a football club located in Prague-Zličín, Czech Republic. It currently plays in the Czech Fourth Division. Wikipedia",
+            "type": "",
+            "Founded ": [
+                "1929"
+            ]
+        },
+        "FK Admira Prague": {
+            "label": "FK Admira Prague",
+            "description": "FK Admira Prague is a Czech football club located in Prague-Kobylisy, Czech Republic. It currently plays in the Bohemian Football League, which is the third level of competition in the country. Wikipedia",
+            "type": "",
+            "Founded ": [
+                "1907"
+            ]
+        },
+        "FC Znamya Truda Orekhovo-Zuyevo": {
+            "label": "FC Znamya Truda Orekhovo-Zuyevo",
+            "description": "Znamya Truda is a Russian football club from Orekhovo-Zuevo, Moscow Oblast. The club is most noted for the fact that they are the oldest now playing club in Russia, founded in 1909. They currently play in the Russian Second Division. Wikipedia",
+            "type": "",
+            "Founded ": "November 16, 1909"
+        },
+        "FK Chmel Blšany": {
+            "label": "FK Chmel Blšany",
+            "description": "FK Chmel Blšany is a Czech football club based in the village of Blšany, most noted for playing a number of seasons in the Gambrinus liga between 1998 and 2006. Wikipedia",
+            "type": "",
+            "Founded ": [
+                "1946"
+            ],
+            "See results about": []
+        },
+        "FK Hvězda Cheb": {
+            "label": "FK Hvězda Cheb",
+            "description": "FK Hvězda Cheb is a Czech football club, playing in the town of Cheb. The club was founded in 1951 and refounded in 2001 after a bankruptcy in 1996. Wikipedia",
+            "type": ""
+        },
+        "FK Kareda Kaunas": {
+            "label": "FK Kareda Kaunas",
+            "description": "FK Kareda Kaunas is a Lithuanian football team from the city of Kaunas, founded in 1935. Moved from Šiauliai to Kaunas in 2000. It was dissolved in 2003.\nBefore 2000 it was known as \"Kareda Šiauliai\". Wikipedia",
+            "type": "",
+            "Founded ": [
+                "1935"
             ],
             "League ": [
-                "Ukrainian Premier League"
+                "A Lyga"
             ]
         },
-        "FC MSA Dolní Benešov": {
-            "label": "FC MSA Dolní Benešov",
-            "description": "FC MSA Dolní Benešov is a Czech football club located in the village of Dolní Benešov in the Moravian–Silesian Region. It currently plays in the Czech Fourth Division. Wikipedia",
+        "FK LAFC Lučenec": {
+            "label": "FK LAFC Lučenec",
+            "description": "FK LAFC Lučenec is a Slovak football team, based in the city of Lučenec. Wikipedia",
             "type": "",
             "Founded ": [
-                "1926"
+                "1902"
+            ],
+            "Arena/Stadium ": [
+                "Mestský štadión"
+            ],
+            "League ": [
+                "Slovak Super Liga"
             ]
         },
-        "FC Sopron": {
-            "label": "FC Sopron",
-            "description": "FC Sopron, was a Hungarian football club from the town of Sopron, near the Austrian border. It was founded in 1921 as Soproni Postás. The club's home stadium is Stadion Városi with a capacity of 5,300.. Wikipedia",
+        "FK Leotar": {
+            "label": "FK Leotar",
+            "description": "FK Leotar is a professional football club from the city of Trebinje, Bosnia and Herzegovina. They play in the Premier League of Bosnia and Herzegovina. The club's home ground is the 8,500-seater Police Stadium, and the club are nicknamed \"Tigrovi\". Wikipedia",
+            "type": "",
+            "Founded ": [
+                "1925"
+            ],
+            "Arena/Stadium ": [
+                "Stadion Police"
+            ],
+            "League ": [
+                "Premier League of Bosnia and Herzegovina"
+            ]
+        },
+        "FK Pěnčín-Turnov": {
+            "label": "FK Pěnčín-Turnov",
+            "description": "FK Pěnčín-Turnov is a Czech football club located in Turnov. It currently plays in Divize C, which is in the Czech Fourth Division. Wikipedia",
+            "type": "",
+            "Founded ": [
+                "2004"
+            ]
+        },
+        "FK Renova": {
+            "label": "FK Renova",
+            "description": "FK Renova is a football club based in Džepčište, Republic of Macedonia playing in the Macedonian First League. Wikipedia",
+            "type": "",
+            "Founded ": [
+                "2002"
+            ],
+            "Arena/Stadium ": [
+                "Gradski stadion Tetovo"
+            ],
+            "League ": [
+                "First Macedonian Football League"
+            ]
+        },
+        "FK Senica": {
+            "label": "FK Senica",
+            "description": "FK Senica is a Slovak football team, based in the town of Senica. The club was founded in 1921. Wikipedia",
             "type": "",
             "Founded ": [
                 "1921"
+            ],
+            "League ": [
+                "Slovak Super Liga"
+            ]
+        },
+        "FK Shamkir": {
+            "label": "Shamkir FK",
+            "description": "Shamkir FK, is an Azerbaijani football club based in Şəmkir, that currently plays in the Azerbaijan First Division. Wikipedia",
+            "type": "",
+            "Founded ": [
+                "1954"
+            ],
+            "Arena/Stadium ": [
+                "Shamkir City Stadium"
+            ]
+        },
+        "FK Teplice": {
+            "label": "FK Teplice",
+            "description": "FK Teplice is a Czech football club based in the city of Teplice, 80 km north of Prague. The club currently plays in the Gambrinus liga.\nThe club was founded after World War II in 1945. Wikipedia",
+            "type": "",
+            "Founded ": [
+                "1945"
+            ],
+            "League ": [
+                "Gambrinus liga"
+            ]
+        },
+        "FV Motor Eberswalde": {
+            "label": "FV Motor Eberswalde",
+            "description": "FV Motor Eberswalde is a German association football club from Eberswalde, Brandenberg northeast of Berlin. Wikipedia",
+            "type": "",
+            "Founded ": [
+                "1909"
+            ]
+        },
+        "Fotbal Fulnek": {
+            "label": "Fotbal Fulnek",
+            "description": "Fotbal Fulnek is an association football team from Fulnek in the Czech Republic, as of the 2013–14 season playing in the eighth level of the Czech football league. Wikipedia",
+            "type": "",
+            "Founded ": [
+                "1947"
+            ]
+        },
+        "Freiburger FC": {
+            "label": "Freiburger FC",
+            "description": "Freiburger FC is a German association football club based in Freiburg, Baden-Württemberg. Freiburger FC was a founding Clubs of the DFB in 1900. Wikipedia",
+            "type": "",
+            "Founded ": [
+                "1897"
+            ]
+        },
+        "Fremad Amager": {
+            "label": "Fremad Amager",
+            "description": "",
+            "type": "",
+            "People also search for": []
+        },
+        "Górnik Łęczna": {
+            "label": "GKS Bogdanka",
+            "description": "GKS Górnik Łęczna is a Polish sports club club based in Łęczna, Poland. It is best known for its men's professional football team, which competes in I Liga, the second-highest division in the Polish football league system. Wikipedia",
+            "type": "",
+            "Founded ": [
+                "1979"
+            ],
+            "League ": [
+                "I liga"
             ]
         },
         "Gil Vicente F.C.": {
@@ -818,75 +869,24 @@
             ],
             "Roster": []
         },
-        "FC Nöttingen": {
-            "label": "FC Nöttingen",
-            "description": "FC Nöttingen is a German association football club from the Nöttingen district of Remchingen, Baden-Württemberg. Wikipedia",
-            "type": "",
-            "Founded ": "July 2, 1957"
-        },
-        "Górnik Łęczna": {
-            "label": "GKS Bogdanka",
-            "description": "GKS Górnik Łęczna is a Polish sports club club based in Łęczna, Poland. It is best known for its men's professional football team, which competes in I Liga, the second-highest division in the Polish football league system. Wikipedia",
+        "Gretna F.C.": {
+            "label": "Gretna F.C.",
+            "description": "Gretna Football Club was a Scottish football club that represented the town of Gretna, Dumfries and Galloway, close to the border between England and Scotland. Wikipedia",
             "type": "",
             "Founded ": [
-                "1979"
+                "1946"
+            ],
+            "See results about": []
+        },
+        "HŠK Zrinjski Mostar": {
+            "label": "HŠK Zrinjski Mostar",
+            "description": "HŠK Zrinjski Mostar is a football team from the city of Mostar, Bosnia and Herzegovina. The club plays in the Premier League of Bosnia and Herzegovina, and has been one of the top teams in the country over the years. Wikipedia",
+            "type": "",
+            "Founded ": [
+                "1905"
             ],
             "League ": [
-                "I liga"
-            ]
-        },
-        "FK Shamkir": {
-            "label": "Shamkir FK",
-            "description": "Shamkir FK, is an Azerbaijani football club based in Şəmkir, that currently plays in the Azerbaijan First Division. Wikipedia",
-            "type": "",
-            "Founded ": [
-                "1954"
-            ],
-            "Arena/Stadium ": [
-                "Shamkir City Stadium"
-            ]
-        },
-        "Evian Thonon Gaillard F.C.": {
-            "label": "Evian Thonon Gaillard F.C.",
-            "description": "Évian Thonon Gaillard Football Club is a French association football club originally based in Gaillard near the Swiss border and the city of Geneva. In 2007, the club moved to Thonon-les-Bains. Wikipedia",
-            "type": "",
-            "Founded ": [
-                "2003"
-            ],
-            "Arena/Stadium ": [
-                "Parc des Sports"
-            ],
-            "League ": [
-                "Ligue 1"
-            ],
-            "Manager ": [
-                "Pascal Dupraz"
-            ],
-            "Roster": []
-        },
-        "FC Wohlen": {
-            "label": "FC Wohlen",
-            "description": "FC Wohlen is a Swiss football club based in the town Wohlen in Canton Aargau. They play in the Challenge League, the second highest league in the country. Wikipedia",
-            "type": "",
-            "Founded ": [
-                "1904"
-            ]
-        },
-        "FC Znamya Truda Orekhovo-Zuyevo": {
-            "label": "FC Znamya Truda Orekhovo-Zuyevo",
-            "description": "Znamya Truda is a Russian football club from Orekhovo-Zuevo, Moscow Oblast. The club is most noted for the fact that they are the oldest now playing club in Russia, founded in 1909. They currently play in the Russian Second Division. Wikipedia",
-            "type": "",
-            "Founded ": "November 16, 1909"
-        },
-        "FC Istres": {
-            "label": "FC Istres",
-            "description": "Football Club Istres Ouest Provence is a French association football club based in Istres. The club was formed in 1920 and currently play in Ligue 2, the second level of French football having achieved ... Wikipedia",
-            "type": "",
-            "Founded ": [
-                "1920"
-            ],
-            "League ": [
-                "Ligue 2"
+                "Premier League of Bosnia and Herzegovina"
             ]
         }
     },
@@ -894,31 +894,31 @@
         "label": 90,
         "description": 90,
         "type": 90,
-        "Founded ": 82,
-        "People also search for": 4,
-        "League ": 35,
-        "See results about": 8,
-        "Arena/Stadium ": 15,
-        "Manager ": 6,
-        "Training ground ": 2,
-        "Leagues ": 2,
-        "Mascots ": 1,
-        "Awards ": 2,
-        "Location ": 3,
-        "Roster": 6,
-        "Locations ": 1,
-        "Nominations ": 1
+        "founded": 1,
+        "people_also_search_for": 1,
+        "league": 1,
+        "roster": 1,
+        "see_results_about": 1,
+        "arena/stadium": 1,
+        "manager": 1,
+        "training_ground": 1,
+        "leagues": 1,
+        "mascots": 1,
+        "awards": 1,
+        "locations": 1,
+        "nominations": 1,
+        "location": 1
     },
     "infoboxless": [
         "A.D. Fafe",
         "A.S. Taranto Calcio",
         "C.D. Aves",
-        "F.B.C. Torinese",
         "C.D. Feirense",
-        "FK Mutěnice",
+        "F.B.C. Torinese",
         "F.C. Barreirense",
-        "G.D. Chaves",
         "FC Dosta Bystrc-Kníničky",
-        "Farsley Celtic A.F.C."
+        "FK Mutěnice",
+        "Farsley Celtic A.F.C.",
+        "G.D. Chaves"
     ]
 }

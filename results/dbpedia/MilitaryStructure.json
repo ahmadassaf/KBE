@@ -1,17 +1,5 @@
 {
     "instances": {
-        "Edwards Air Force Base": {
-            "label": "Edwards Air Force Base",
-            "description": "Edwards Air Force Base is a United States Air Force base located approximately 22 miles northeast of Lancaster, California. Wikipedia",
-            "type": "",
-            "Elevation ": [
-                "2",
-                "303' (702 m)"
-            ],
-            "Code ": [
-                "EDW"
-            ]
-        },
         "Dyess Air Force Base": {
             "label": "Dyess Air Force Base",
             "description": "Dyess Air Force Base is a United States Air Force base located approximately 7 miles southwest of Abilene, Texas.\nThe host unit at Dyess is the 7th Bomb Wing assigned to the Air Combat Command Twelfth Air Force. Wikipedia",
@@ -39,6 +27,18 @@
                 "+39 0434 301110"
             ]
         },
+        "Edwards Air Force Base": {
+            "label": "Edwards Air Force Base",
+            "description": "Edwards Air Force Base is a United States Air Force base located approximately 22 miles northeast of Lancaster, California. Wikipedia",
+            "type": "",
+            "Elevation ": [
+                "2",
+                "303' (702 m)"
+            ],
+            "Code ": [
+                "EDW"
+            ]
+        },
         "Ellsworth Air Force Base": {
             "label": "Ellsworth Air Force Base",
             "description": "Ellsworth Air Force Base is a United States Air Force base located approximately 10 miles northeast of Rapid City, South Dakota just north of Box Elder, South Dakota. Wikipedia",
@@ -60,15 +60,6 @@
                 "(605) 385-1000"
             ]
         },
-        "Fort Drum": {
-            "label": "Fort Drum",
-            "description": "Fort Drum is a census-designated place and U.S. Army military reservation in Jefferson County, New York, United States. The population was 12,955 at the 2010 census. It is home to the 10th Mountain Division.\nFort Drum consists of 107,265 acres. Wikipedia",
-            "type": "Military post",
-            "Area ": [
-                "25.37 sq miles (65.7 km²)"
-            ],
-            "See results about": []
-        },
         "Fort Bragg": {
             "label": "Fort Bragg",
             "description": "Fort Bragg is a large United States Army installation, located in Cumberland, Hoke, Harnett and Moore counties, North Carolina, mostly in Fayetteville but also partly in the town of Spring Lake. Wikipedia",
@@ -81,6 +72,15 @@
                 "19 sq miles (49.21 km²)"
             ],
             "Founded ": "September 4, 1918",
+            "See results about": []
+        },
+        "Fort Drum": {
+            "label": "Fort Drum",
+            "description": "Fort Drum is a census-designated place and U.S. Army military reservation in Jefferson County, New York, United States. The population was 12,955 at the 2010 census. It is home to the 10th Mountain Division.\nFort Drum consists of 107,265 acres. Wikipedia",
+            "type": "Military post",
+            "Area ": [
+                "25.37 sq miles (65.7 km²)"
+            ],
             "See results about": []
         },
         "Hill Air Force Base": {
@@ -102,25 +102,6 @@
                 " United States"
             ]
         },
-        "MacDill Air Force Base": {
-            "label": "MacDill Air Force Base",
-            "description": "MacDill Air Force Base is an active United States Air Force base located approximately 6.4 km south-southwest of downtown Tampa, Florida. Wikipedia",
-            "type": "",
-            "Address ": [
-                "6801 South Dale Mabry Highway",
-                " Tampa",
-                " FL 33621",
-                " United States"
-            ]
-        },
-        "Malmstrom Air Force Base": {
-            "label": "Malmstrom Air Force Base",
-            "description": "Malmstrom Air Force Base is a United States Air Force base and census-designated place in Great Falls, Cascade County, Montana, United States. It was named in honor of World War II POW Colonel Einar Axel Malmstrom. Wikipedia",
-            "type": "",
-            "Code ": [
-                "GFA"
-            ]
-        },
         "Luke Air Force Base": {
             "label": "Luke Air Force Base",
             "description": "Luke Air Force Base is a United States Air Force base located seven miles west of the central business district of Glendale, in Maricopa County, Arizona, United States. It is also about 15 miles west of Phoenix, Arizona. Wikipedia",
@@ -140,6 +121,25 @@
             ],
             "Phone ": [
                 "(623) 856-5853"
+            ]
+        },
+        "MacDill Air Force Base": {
+            "label": "MacDill Air Force Base",
+            "description": "MacDill Air Force Base is an active United States Air Force base located approximately 6.4 km south-southwest of downtown Tampa, Florida. Wikipedia",
+            "type": "",
+            "Address ": [
+                "6801 South Dale Mabry Highway",
+                " Tampa",
+                " FL 33621",
+                " United States"
+            ]
+        },
+        "Malmstrom Air Force Base": {
+            "label": "Malmstrom Air Force Base",
+            "description": "Malmstrom Air Force Base is a United States Air Force base and census-designated place in Great Falls, Cascade County, Montana, United States. It was named in honor of World War II POW Colonel Einar Axel Malmstrom. Wikipedia",
+            "type": "",
+            "Code ": [
+                "GFA"
             ]
         },
         "Maxwell Air Force Base": {
@@ -221,17 +221,16 @@
                 "+49 6371 479196"
             ]
         },
-        "Wolf's Lair": {
-            "label": "Wolf's Lair",
-            "description": "Wolf's Lair was Adolf Hitler's first Eastern Front military headquarters in World War II. The complex, which would become one of several Führerhauptquartiere located in various parts of occupied Europe, ... Wikipedia",
+        "Whiteman Air Force Base": {
+            "label": "Whiteman Air Force Base",
+            "description": "Whiteman Air Force Base is a United States Air Force base located approximately 2 miles south of Knob Noster, Missouri; 70 miles east-southeast of Kansas City, Missouri. Wikipedia",
             "type": "",
-            "Address ": [
-                "Gierłoż",
-                " 11-400 Kętrzyn",
-                " Poland"
+            "Elevation ": [
+                "869' (265 m)"
             ],
-            "Opened ": "June 21, 1941",
-            "People also search for": []
+            "Code ": [
+                "SZL"
+            ]
         },
         "Seymour Johnson Air Force Base": {
             "label": "Seymour Johnson Air Force Base",
@@ -252,16 +251,17 @@
                 "(919) 722-1110"
             ]
         },
-        "Whiteman Air Force Base": {
-            "label": "Whiteman Air Force Base",
-            "description": "Whiteman Air Force Base is a United States Air Force base located approximately 2 miles south of Knob Noster, Missouri; 70 miles east-southeast of Kansas City, Missouri. Wikipedia",
+        "Wolf's Lair": {
+            "label": "Wolf's Lair",
+            "description": "Wolf's Lair was Adolf Hitler's first Eastern Front military headquarters in World War II. The complex, which would become one of several Führerhauptquartiere located in various parts of occupied Europe, ... Wikipedia",
             "type": "",
-            "Elevation ": [
-                "869' (265 m)"
+            "Address ": [
+                "Gierłoż",
+                " 11-400 Kętrzyn",
+                " Poland"
             ],
-            "Code ": [
-                "SZL"
-            ]
+            "Opened ": "June 21, 1941",
+            "People also search for": []
         },
         "Barcaldine Castle": {
             "label": "Barcaldine Castle",
@@ -279,20 +279,6 @@
             "type": "",
             "People also search for": []
         },
-        "Camp David": {
-            "label": "Camp David",
-            "description": "Camp David is the country retreat of the President of the United States. It is located in wooded hills about 62 miles north-northwest of Washington, D.C., in Catoctin Mountain Park near Thurmont, Maryland. Wikipedia",
-            "type": "Military post",
-            "Address ": [
-                "Catoctin Mountain Park",
-                " MD",
-                " United States"
-            ],
-            "Phone ": [
-                "(202) 456-1414"
-            ],
-            "People also search for": []
-        },
         "Brodick Castle": {
             "label": "Brodick Castle",
             "description": "Brodick Castle is a castle situated outside the port of Brodick on the Isle of Arran, an island in the Firth of Clyde, Scotland. It was previously a seat of the Dukes of Hamilton, but is now owned by the National Trust for Scotland. Wikipedia",
@@ -307,16 +293,19 @@
             ],
             "People also search for": []
         },
-        "Ertholmene": {
-            "label": "Ertholmene",
-            "description": "Ertholmene, generally called Christiansø, is a small archipelago situated approximately 18 km northeast of Bornholm in the Baltic Sea. Its permanent population is 90 and its area is 39 hectares. Wikipedia",
-            "type": "Archipelago in Denmark"
-        },
-        "Castello di Lunghezza": {
-            "label": "Castello di Lunghezza",
-            "description": "The Castello di Lunghezza is a medieval fortification situated roughly 20 kilometers east of Rome, Italy. It lies in Municipio VIII of Rome, and probably sits on the site of the ancient town of Collatia. Wikipedia",
-            "type": "",
-            "Address ": "Via della Tenuta del Cavaliere, 230, 00010 Lunghezza Roma, Italy"
+        "Camp David": {
+            "label": "Camp David",
+            "description": "Camp David is the country retreat of the President of the United States. It is located in wooded hills about 62 miles north-northwest of Washington, D.C., in Catoctin Mountain Park near Thurmont, Maryland. Wikipedia",
+            "type": "Military post",
+            "Address ": [
+                "Catoctin Mountain Park",
+                " MD",
+                " United States"
+            ],
+            "Phone ": [
+                "(202) 456-1414"
+            ],
+            "People also search for": []
         },
         "Castel Nuovo": {
             "label": "Castel Nuovo",
@@ -334,6 +323,17 @@
                 "+39 081 795 7713"
             ],
             "People also search for": []
+        },
+        "Castello di Lunghezza": {
+            "label": "Castello di Lunghezza",
+            "description": "The Castello di Lunghezza is a medieval fortification situated roughly 20 kilometers east of Rome, Italy. It lies in Municipio VIII of Rome, and probably sits on the site of the ancient town of Collatia. Wikipedia",
+            "type": "",
+            "Address ": "Via della Tenuta del Cavaliere, 230, 00010 Lunghezza Roma, Italy"
+        },
+        "Ertholmene": {
+            "label": "Ertholmene",
+            "description": "Ertholmene, generally called Christiansø, is a small archipelago situated approximately 18 km northeast of Bornholm in the Baltic Sea. Its permanent population is 90 and its area is 39 hectares. Wikipedia",
+            "type": "Archipelago in Denmark"
         },
         "Glamis Castle": {
             "label": "Glamis Castle",
@@ -358,6 +358,12 @@
             ],
             "People also search for": []
         },
+        "Hartlebury Castle": {
+            "label": "Hartlebury Castle Preservation Trust",
+            "description": "",
+            "type": "",
+            "People also search for": []
+        },
         "Huntly Castle": {
             "label": "Huntly Castle",
             "description": "Huntly Castle is a ruined castle in Huntly in Aberdeenshire, Scotland. It was the ancestral home of the chief of Clan Gordon, Earl of Huntly. Wikipedia",
@@ -369,24 +375,6 @@
             ],
             "Hours ": [
                 "+44 1466 793191"
-            ],
-            "People also search for": []
-        },
-        "Hartlebury Castle": {
-            "label": "Hartlebury Castle Preservation Trust",
-            "description": "",
-            "type": "",
-            "People also search for": []
-        },
-        "Lunt Roman Fort": {
-            "label": "Lunt Roman Fort",
-            "description": "The Lunt Roman Fort is the archaeological site of a Roman fort, of unknown name, in the Roman province of Britannia. It is open to the public and located in the village of Baginton outside Coventry, Warwickshire. Wikipedia",
-            "type": "",
-            "Address ": [
-                "Coventry Rd",
-                " Baginton",
-                " Coventry CV8 3AJ",
-                " United Kingdom"
             ],
             "People also search for": []
         },
@@ -404,6 +392,29 @@
                 "+44 870 333 1181"
             ],
             "People also search for": []
+        },
+        "Lunt Roman Fort": {
+            "label": "Lunt Roman Fort",
+            "description": "The Lunt Roman Fort is the archaeological site of a Roman fort, of unknown name, in the Roman province of Britannia. It is open to the public and located in the village of Baginton outside Coventry, Warwickshire. Wikipedia",
+            "type": "",
+            "Address ": [
+                "Coventry Rd",
+                " Baginton",
+                " Coventry CV8 3AJ",
+                " United Kingdom"
+            ],
+            "People also search for": []
+        },
+        "Leslie Castle": {
+            "label": "Castle Leslie",
+            "description": "Castle Leslie, home to an Irish branch of Clan Leslie and located on the 4 km², Castle Leslie is both the name of a historic Country House and 1,000-acre Estate adjacent to the village of Glaslough, ... Wikipedia",
+            "type": "",
+            "Address ": [
+                "Glaslough",
+                " Co. Monaghan",
+                " Ireland"
+            ],
+            "See results about": []
         },
         "Pendennis Castle": {
             "label": "Pendennis Castle",
@@ -426,6 +437,12 @@
             ],
             "People also search for": []
         },
+        "Pitsligo Castle": {
+            "label": "Pitsligo Castle",
+            "description": "Pitsligo Castle is a ruined castle half a mile east of Rosehearty, Aberdeenshire, Scotland. It was described by W. Douglas Simpson as one of the nine castles of the Knuckle, referring to the rocky headland of north-east Aberdeenshire. Wikipedia",
+            "type": "Building",
+            "People also search for": []
+        },
         "Portland Castle": {
             "label": "Portland Castle",
             "description": "Portland Castle is one of the Device Forts, also known as Henrician Castles, built in 1539 by Henry VIII on the Isle of Portland to guard the natural Portland anchorage known as the Portland Roads. Wikipedia",
@@ -438,27 +455,16 @@
             ],
             "People also search for": []
         },
+        "RAF Holmpton": {
+            "label": "RAF Holmpton",
+            "description": "RAF Holmpton is a former Cold War era nuclear bunker that was built in the 1950s as an early warning radar station. Wikipedia",
+            "type": ""
+        },
         "Saddell Castle": {
             "label": "Saddell Castle",
             "description": "Saddell Castle is a 16th-century tower house on the shore of the Kilbrannan Sound near Saddell, Kintyre, Argyll and Bute, Scotland. Wikipedia",
             "type": "",
             "See results about": []
-        },
-        "Leslie Castle": {
-            "label": "Castle Leslie",
-            "description": "Castle Leslie, home to an Irish branch of Clan Leslie and located on the 4 km², Castle Leslie is both the name of a historic Country House and 1,000-acre Estate adjacent to the village of Glaslough, ... Wikipedia",
-            "type": "",
-            "Address ": [
-                "Glaslough",
-                " Co. Monaghan",
-                " Ireland"
-            ],
-            "See results about": []
-        },
-        "RAF Holmpton": {
-            "label": "RAF Holmpton",
-            "description": "RAF Holmpton is a former Cold War era nuclear bunker that was built in the 1950s as an early warning radar station. Wikipedia",
-            "type": ""
         },
         "Southsea Castle": {
             "label": "Southsea Castle",
@@ -501,12 +507,6 @@
             ],
             "People also search for": []
         },
-        "Westgate, Canterbury": {
-            "label": "Westgate, Canterbury",
-            "description": "The Westgate is a medieval gatehouse in Canterbury, Kent, England. This 60-foot-high western gate of the city wall is the largest surviving city gate in England. Wikipedia",
-            "type": "",
-            "People also search for": []
-        },
         "Vindolanda": {
             "label": "Vindolanda",
             "description": "Vindolanda was a Roman auxiliary fort just south of Hadrian's Wall in northern England. Located near the modern village of Bardon Mill, it guarded the Stanegate, the Roman road from the River Tyne to the Solway Firth. Wikipedia",
@@ -531,11 +531,31 @@
             ],
             "People also search for": []
         },
-        "Pitsligo Castle": {
-            "label": "Pitsligo Castle",
-            "description": "Pitsligo Castle is a ruined castle half a mile east of Rosehearty, Aberdeenshire, Scotland. It was described by W. Douglas Simpson as one of the nine castles of the Knuckle, referring to the rocky headland of north-east Aberdeenshire. Wikipedia",
-            "type": "Building",
+        "Westgate, Canterbury": {
+            "label": "Westgate, Canterbury",
+            "description": "The Westgate is a medieval gatehouse in Canterbury, Kent, England. This 60-foot-high western gate of the city wall is the largest surviving city gate in England. Wikipedia",
+            "type": "",
             "People also search for": []
+        },
+        "Yarmouth Castle": {
+            "label": "Yarmouth Castle",
+            "description": "Yarmouth Castle is a small off-square blockhouse built by Henry VIII in 1547, to guard Yarmouth harbour on the Isle of Wight. Wikipedia",
+            "type": "",
+            "Address ": [
+                "Quay St",
+                " Yarmouth",
+                " Isle of Wight PO41 0PB",
+                " United Kingdom"
+            ],
+            "Phone ": [
+                "+44 870 333 1181"
+            ],
+            "People also search for": []
+        },
+        "Alnarp Castle": {
+            "label": "Alnarp Castle",
+            "description": "Alnarp Castle is located in Alnarp, Lomma Municipality, Scania, approximately 10 km north of Malmö in southern Sweden. The original castle on the property was built in the 12th century. Wikipedia",
+            "type": ""
         },
         "Asen's Fortress": {
             "label": "Asen's Fortress",
@@ -560,26 +580,6 @@
             ],
             "People also search for": []
         },
-        "Yarmouth Castle": {
-            "label": "Yarmouth Castle",
-            "description": "Yarmouth Castle is a small off-square blockhouse built by Henry VIII in 1547, to guard Yarmouth harbour on the Isle of Wight. Wikipedia",
-            "type": "",
-            "Address ": [
-                "Quay St",
-                " Yarmouth",
-                " Isle of Wight PO41 0PB",
-                " United Kingdom"
-            ],
-            "Phone ": [
-                "+44 870 333 1181"
-            ],
-            "People also search for": []
-        },
-        "Alnarp Castle": {
-            "label": "Alnarp Castle",
-            "description": "Alnarp Castle is located in Alnarp, Lomma Municipality, Scania, approximately 10 km north of Malmö in southern Sweden. The original castle on the property was built in the 12th century. Wikipedia",
-            "type": ""
-        },
         "Diu Fort": {
             "label": "Diu Fort",
             "description": "The Diu Fort, is located on the west coast of India in Diu, a Union Territory, administered by the Government of India. The fort was built by the Portuguese during their colonial rule of the Diu island. Wikipedia",
@@ -589,6 +589,12 @@
                 " Daman and Diu 362520",
                 " India"
             ]
+        },
+        "Fort Drum (El Fraile Island)": {
+            "label": "Fort Drum (El Fraile Island)",
+            "description": "Fort Drum (El Fraile Island), also known as the “concrete battleship,” is a heavily fortified island fortress situated at the mouth of Manila Bay in the Philippines, due south of Corregidor Island. Wikipedia",
+            "type": "",
+            "People also search for": []
         },
         "Hamina Fortress": {
             "label": "Hamina Fortress",
@@ -609,11 +615,10 @@
                 "Croatia"
             ]
         },
-        "Fort Drum (El Fraile Island)": {
-            "label": "Fort Drum (El Fraile Island)",
-            "description": "Fort Drum (El Fraile Island), also known as the “concrete battleship,” is a heavily fortified island fortress situated at the mouth of Manila Bay in the Philippines, due south of Corregidor Island. Wikipedia",
-            "type": "",
-            "People also search for": []
+        "Ktenia (fortress)": {
+            "label": "Ktenia",
+            "description": "Ktenia is a ruined Roman and medieval fortress, situated 2.1 km to the north of the village of Lozarevo in Sungurlare Municipality, Burgas Province, south-eastern Bulgaria. Wikipedia",
+            "type": "Fortress"
         },
         "Tsepina": {
             "label": "Tsepina",
@@ -626,11 +631,6 @@
             "type": "",
             "People also search for": []
         },
-        "Ktenia (fortress)": {
-            "label": "Ktenia",
-            "description": "Ktenia is a ruined Roman and medieval fortress, situated 2.1 km to the north of the village of Lozarevo in Sungurlare Municipality, Burgas Province, south-eastern Bulgaria. Wikipedia",
-            "type": "Fortress"
-        },
         "Przemyśl Fortress": {
             "label": "Przemyśl Fortress",
             "description": "Przemyśl fortress was a series of fortifications constructed at Przemyśl by the Austro-Hungarian Empire from the mid 19th century until the First World War. Wikipedia",
@@ -640,6 +640,23 @@
             "label": "Brough Castle",
             "description": "Brough Castle is a ruined castle in the village of Brough, England. The castle was built by William Rufus around 1092 within the old Roman fort of Verterae to protect a key route through the Pennine mountains. Wikipedia",
             "type": "",
+            "People also search for": []
+        },
+        "Brougham Castle": {
+            "label": "Brougham Castle",
+            "description": "Brougham Castle is a medieval building about 2 miles south-east of Penrith, Cumbria, England. The castle was founded by Robert de Vieuxpont in the early 13th century. Wikipedia",
+            "type": "",
+            "Address ": [
+                "Moor Ln",
+                " Penrith CA10 2AA",
+                " United Kingdom"
+            ],
+            "Hours ": [
+                "+44 870 333 1181"
+            ],
+            "Phone ": [
+                "Roger de Vieuxpont"
+            ],
             "People also search for": []
         },
         "Clare Castle": {
@@ -663,9 +680,19 @@
             ],
             "People also search for": []
         },
+        "HMNB Clyde": {
+            "label": "HMNB Clyde",
+            "description": "Her Majesty's Naval Base Clyde is one of three operating bases in the United Kingdom of Great Britain and Northern Ireland for the Royal Navy. Wikipedia",
+            "type": ""
+        },
         "Olavsvern": {
             "label": "Olavsvern",
             "description": "Olavsvern is a Royal Norwegian Navy auxiliary base located just outside the city of Tromsø. It is located along the European route E8 at the entrance to the Ramfjorden from the Balsfjorden. Wikipedia",
+            "type": ""
+        },
+        "Achstetten Castle": {
+            "label": "Achstetten Castle",
+            "description": "Achstetten Castle is a classicist mansion in the southern German municipality of Achstetten in Upper Swabia. Wikipedia",
             "type": ""
         },
         "Brock Barracks": {
@@ -682,23 +709,6 @@
                 " Switzerland"
             ]
         },
-        "Brougham Castle": {
-            "label": "Brougham Castle",
-            "description": "Brougham Castle is a medieval building about 2 miles south-east of Penrith, Cumbria, England. The castle was founded by Robert de Vieuxpont in the early 13th century. Wikipedia",
-            "type": "",
-            "Address ": [
-                "Moor Ln",
-                " Penrith CA10 2AA",
-                " United Kingdom"
-            ],
-            "Hours ": [
-                "+44 870 333 1181"
-            ],
-            "Phone ": [
-                "Roger de Vieuxpont"
-            ],
-            "People also search for": []
-        },
         "Buxa Fort": {
             "label": "Buxa Fort",
             "description": "Buxa Fort, 26°45′17.86″N 89°34′49.04″E﻿ / ﻿26.7549611°N 89.5802889°E is located at an altitude of 867 metres in the Buxa Tiger Reserve, Jalpaiguri district, West Bengal. It is located 30 kilometres from Alipurduar, the nearest town. Wikipedia",
@@ -714,11 +724,6 @@
             "description": "Known as Castelasc in Lombard local language, the Castle of Cuasso is one of the most important defensive buildings in the province of Varese and Insubria. Wikipedia",
             "type": ""
         },
-        "HMNB Clyde": {
-            "label": "HMNB Clyde",
-            "description": "Her Majesty's Naval Base Clyde is one of three operating bases in the United Kingdom of Great Britain and Northern Ireland for the Royal Navy. Wikipedia",
-            "type": ""
-        },
         "Edinburgh town walls": {
             "label": "Edinburgh town walls",
             "description": "There have been several town walls around Edinburgh, Scotland, since the 12th century. Some form of wall probably existed from the foundation of the royal burgh in around 1125, though the first building ... Wikipedia",
@@ -729,10 +734,19 @@
             "description": "Fort La Baye was a French military post at La Baye, which was built in 1717, and occupied until 1760.\nBy 1718, there were a number of French Canadian families living in the area near the fort. Wikipedia",
             "type": ""
         },
-        "Achstetten Castle": {
-            "label": "Achstetten Castle",
-            "description": "Achstetten Castle is a classicist mansion in the southern German municipality of Achstetten in Upper Swabia. Wikipedia",
-            "type": ""
+        "Fort Lowell": {
+            "label": "Ft. Lowell",
+            "description": "Fort Lowell was a United States Army post active from 1873 to 1891 on the outskirts of Tucson, Arizona. Fort Lowell was the successor to Camp Lowell, an earlier Army installation. Wikipedia",
+            "type": "",
+            "Address ": [
+                "2900 N Craycroft Rd",
+                " Tucson",
+                " AZ 85712",
+                " United States"
+            ],
+            "Area ": [
+                "20 acres (8 ha)"
+            ]
         },
         "Kacenštajn Castle": {
             "label": "Kacenštajn Castle",
@@ -749,24 +763,10 @@
             "description": "Marine Corps Base Camp Smedley D. Butler is a United States Marine Corps base located in the Japanese prefecture of Okinawa. It was named for legendary Marine Smedley D. Butler. Wikipedia",
             "type": ""
         },
-        "Onstaborg (Sauwerd)": {
-            "label": "Onstaborg",
-            "description": "Onstaborg was a borg in the northeast Netherland. It was located in Sauwerd, Groningen. The borg was founded in or before 1325 by the family Onsta. The Onsta family belonged to one of the oldest and most prominent families of the Ommelanden. Wikipedia",
-            "type": "Sauwerd"
-        },
-        "Fort Lowell": {
-            "label": "Ft. Lowell",
-            "description": "Fort Lowell was a United States Army post active from 1873 to 1891 on the outskirts of Tucson, Arizona. Fort Lowell was the successor to Camp Lowell, an earlier Army installation. Wikipedia",
-            "type": "",
-            "Address ": [
-                "2900 N Craycroft Rd",
-                " Tucson",
-                " AZ 85712",
-                " United States"
-            ],
-            "Area ": [
-                "20 acres (8 ha)"
-            ]
+        "Oflag IV-B Koenigstein": {
+            "label": "Oflag IV-B Koenigstein",
+            "description": "Oflag IV-B Koenigstein was a Nazi POW camp for Allied officers during World War II. It was located in Festung Königstein near the town of Königstein in Saxony. Wikipedia",
+            "type": ""
         },
         "Oflag VII-B": {
             "label": "Oflag VII-B",
@@ -774,27 +774,22 @@
             "type": "Prison",
             "See results about": []
         },
+        "Onstaborg (Sauwerd)": {
+            "label": "Onstaborg",
+            "description": "Onstaborg was a borg in the northeast Netherland. It was located in Sauwerd, Groningen. The borg was founded in or before 1325 by the family Onsta. The Onsta family belonged to one of the oldest and most prominent families of the Ommelanden. Wikipedia",
+            "type": "Sauwerd"
+        },
         "Ouvrage Bréhain": {
             "label": "Ouvrage Bréhain",
             "description": "Ouvrage Bréhain is part of the Fortified Sector of the Crusnes of the Maginot Line, located near the community of Bréhain-la-Ville in the Meurthe-et-Moselle département of France. Bréhain is flanked by petits ouvrages Mauvais Bois and Aumetz. Wikipedia",
             "type": "",
             "People also search for": []
         },
-        "Oflag IV-B Koenigstein": {
-            "label": "Oflag IV-B Koenigstein",
-            "description": "Oflag IV-B Koenigstein was a Nazi POW camp for Allied officers during World War II. It was located in Festung Königstein near the town of Königstein in Saxony. Wikipedia",
-            "type": ""
-        },
         "Ouvrage Sainte-Agnès": {
             "label": "Ouvrage Sainte-Agnès",
             "description": "Ouvrage Sainte-Agnès was a work of the Maginot Line's Alpine extension, the Alpine Line, also called the Little Maginot Line. The fortification was built between 1932 and 1938. Wikipedia",
             "type": "Fortification",
             "People also search for": []
-        },
-        "Peterborough Castle": {
-            "label": "Peterborough Castle",
-            "description": "Peterborough Castle, also known as Mount Thorold and Touthill, was a medieval motte and bailey castle in Peterborough, Cambridgeshire, England. Wikipedia",
-            "type": ""
         },
         "Ouvrage Schoenenbourg": {
             "label": "Ouvrage Schoenenbourg",
@@ -806,15 +801,10 @@
                 " France"
             ]
         },
-        "RAF Deenethorpe": {
-            "label": "RAF Deenethorpe",
-            "description": "RAF Deenethorpe is a former Second World War airfield in Northamptonshire, England, about two miles east of Corby. Wikipedia",
-            "type": "",
-            "Address ": [
-                "Deenethorpe",
-                " Northamptonshire NN17 3AN",
-                " United Kingdom"
-            ]
+        "Peterborough Castle": {
+            "label": "Peterborough Castle",
+            "description": "Peterborough Castle, also known as Mount Thorold and Touthill, was a medieval motte and bailey castle in Peterborough, Cambridgeshire, England. Wikipedia",
+            "type": ""
         },
         "RAF Grafton Underwood": {
             "label": "RAF Grafton Underwood",
@@ -826,16 +816,20 @@
             "description": "Stalag II-B was a German World War II prisoner-of-war camp situated 2.4 kilometres west of the village of Hammerstein, Pomerania on the north side of the railway line. Wikipedia",
             "type": ""
         },
+        "RAF Deenethorpe": {
+            "label": "RAF Deenethorpe",
+            "description": "RAF Deenethorpe is a former Second World War airfield in Northamptonshire, England, about two miles east of Corby. Wikipedia",
+            "type": "",
+            "Address ": [
+                "Deenethorpe",
+                " Northamptonshire NN17 3AN",
+                " United Kingdom"
+            ]
+        },
         "Stalag XIII-D": {
             "label": "Stalag XIII-D",
             "description": "Stalag XIII-D Nürnberg Langwasser was a German Army World War II prisoner-of-war camp built on what had been the Nazi party rally grounds in Nuremberg, northern Bavaria. Wikipedia",
             "type": ""
-        },
-        "Fort Harmar": {
-            "label": "Fort Harmar",
-            "description": "Fort Harmar was an early United States frontier military fort, built in pentagonal shape during 1785 at the confluence of the Ohio and Muskingum rivers, on the west side of the mouth of the Muskingum River. Wikipedia",
-            "type": "",
-            "People also search for": []
         },
         "Tal Ashtah Air Base": {
             "label": "Tal Ashtah Air Base",
@@ -855,6 +849,12 @@
                 "Moindou",
                 " New Caledonia"
             ]
+        },
+        "Fort Harmar": {
+            "label": "Fort Harmar",
+            "description": "Fort Harmar was an early United States frontier military fort, built in pentagonal shape during 1785 at the confluence of the Ohio and Muskingum rivers, on the west side of the mouth of the Muskingum River. Wikipedia",
+            "type": "",
+            "People also search for": []
         },
         "Balapur Fort": {
             "label": "Balapur Fort",
@@ -876,6 +876,22 @@
                 "Newfoundland and Labrador"
             ]
         },
+        "Dudhkundi Airfield": {
+            "label": "Dudhkundi Airfield",
+            "description": "Dudhkundi Airfield is an abandoned airfield in India, located 12 miles SE of Jhargram, in the Paschim Medinipur district in the Indian state of West Bengal. Wikipedia",
+            "type": ""
+        },
+        "Fort de Buade": {
+            "label": "Fort de Buade",
+            "description": "Fort de Buade was a French fort at the present site of St. Ignace in the U.S. state of Michigan. It was garrisoned between 1683 and 1701. Wikipedia",
+            "type": "",
+            "People also search for": []
+        },
+        "HMAS Leeuwin (naval base)": {
+            "label": "Leeuwin Barracks",
+            "description": "",
+            "type": ""
+        },
         "Harrisburg Air National Guard Base": {
             "label": "Harrisburg Air National Guard Base",
             "description": "Harrisburg Air National Guard Base is a United States Air Force base, located at Harrisburg International Airport, Pennsylvania. It is located 1.7 miles west-southwest of Middletown, Pennsylvania. Wikipedia",
@@ -886,22 +902,6 @@
                 " PA 17057",
                 " United States"
             ]
-        },
-        "HMAS Leeuwin (naval base)": {
-            "label": "Leeuwin Barracks",
-            "description": "",
-            "type": ""
-        },
-        "Fort de Buade": {
-            "label": "Fort de Buade",
-            "description": "Fort de Buade was a French fort at the present site of St. Ignace in the U.S. state of Michigan. It was garrisoned between 1683 and 1701. Wikipedia",
-            "type": "",
-            "People also search for": []
-        },
-        "Dudhkundi Airfield": {
-            "label": "Dudhkundi Airfield",
-            "description": "Dudhkundi Airfield is an abandoned airfield in India, located 12 miles SE of Jhargram, in the Paschim Medinipur district in the Indian state of West Bengal. Wikipedia",
-            "type": ""
         },
         "Kokmuiža Manor": {
             "label": "Kokmuiža Manor",
@@ -918,28 +918,28 @@
         "label": 95,
         "description": 95,
         "type": 95,
-        "Elevation ": 12,
-        "Code ": 13,
-        "Address ": 39,
-        "Phone ": 14,
-        "Hours ": 9,
-        "Area ": 3,
-        "See results about": 7,
-        "Population ": 2,
-        "Founded ": 1,
-        "Opened ": 4,
-        "People also search for": 31,
-        "Function ": 3,
-        "Architects ": 1,
-        "Established ": 1,
-        "Closed ": 1,
-        "Province ": 1
+        "elevation": 1,
+        "code": 1,
+        "address": 1,
+        "phone": 1,
+        "hours": 1,
+        "population": 1,
+        "area": 1,
+        "founded": 1,
+        "see_results_about": 1,
+        "opened": 1,
+        "people_also_search_for": 1,
+        "function": 1,
+        "architects": 1,
+        "established": 1,
+        "closed": 1,
+        "province": 1
     },
     "infoboxless": [
         "K. I. Sawyer Air Force Base",
+        "Ustra",
         "Mittelwerk",
-        "La Vieille Airfield",
         "Abri du Ancien Camp",
-        "Ustra"
+        "La Vieille Airfield"
     ]
 }

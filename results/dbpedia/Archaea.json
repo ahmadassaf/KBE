@@ -1,5 +1,14 @@
 {
     "instances": {
+        "Cenarchaeum": {
+            "label": "Cenarchaeum",
+            "description": "In taxonomy, Cenarchaeum is a genus of the Cenarchaeaceae. The marine archaean Cenarchaeum symbiosum lives within the sponge Axinella mexicana. Wikipedia",
+            "type": "",
+            "Rank ": [
+                "Genus"
+            ],
+            "See results about": []
+        },
         "Haloquadratum": {
             "label": "Haloquadratum",
             "description": "Haloquadratum is a genus of the family Halobacteriaceae. The first species to be identified in this group, Haloquadratum walsbyi, is highly unusual since its cells are shaped like flat, square boxes.\nFirst discovered in 1980 by A.E. Wikipedia",
@@ -22,15 +31,6 @@
                 "Species"
             ]
         },
-        "Cenarchaeum": {
-            "label": "Cenarchaeum",
-            "description": "In taxonomy, Cenarchaeum is a genus of the Cenarchaeaceae. The marine archaean Cenarchaeum symbiosum lives within the sponge Axinella mexicana. Wikipedia",
-            "type": "",
-            "Rank ": [
-                "Genus"
-            ],
-            "See results about": []
-        },
         "Sulfolobus": {
             "label": "Sulfolobus",
             "description": "Sulfolobus is a genus of microorganism in the family Sulfolobaceae. It belongs to the archaea domain. Wikipedia",
@@ -38,6 +38,18 @@
             "Rank ": [
                 "Genus"
             ]
+        },
+        "Halobacterium": {
+            "label": "Halobacterium",
+            "description": "In taxonomy, Halobacterium is a genus of the Halobacteriaceae.\nThe genus Halobacterium consists of several species of archaea with an aerobic metabolism which require an environment with a high ... Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Halobacterium"
+            ],
+            "Rank ": [
+                "Genus"
+            ],
+            "See results about": []
         },
         "Korarchaeota": {
             "label": "Korarchaeota",
@@ -64,21 +76,21 @@
                 "Methanopyrus kandleri"
             ]
         },
-        "Archaeoglobales": {
-            "label": "Archaeoglobales",
-            "description": "In taxonomy, the Archaeoglobales are an order of the Archaeoglobi. Wikipedia",
+        "Nanoarchaeota": {
+            "label": "Nanoarchaeota",
+            "description": "In taxonomy, the Nanoarchaeota are a phylum of the Archaea. This phylum currently has only one representative, Nanoarchaeum equitans. Wikipedia",
             "type": "",
-            "Scientific name ": [
-                "Archaeoglobales"
-            ],
-            "Rank ": [
-                "Order"
-            ],
             "Higher classification ": [
-                "Archaeoglobi"
+                "Archaea"
             ],
-            "Lower classifications ": [
-                "Archaeoglobaceae"
+            "See results about": []
+        },
+        "Thermoproteus": {
+            "label": "Thermoproteus",
+            "description": "In taxonomy, Thermoproteus is a genus of the Thermoproteaceae. These prokaryotes are thermophilic sulphur-dependent organisms related to the genera Sulfolobus, Pyrodictium and Desulfurococcus. Wikipedia",
+            "type": "",
+            "Rank ": [
+                "Genus"
             ]
         },
         "Strain 121": {
@@ -95,34 +107,22 @@
                 "Geogemma"
             ]
         },
-        "Halobacterium": {
-            "label": "Halobacterium",
-            "description": "In taxonomy, Halobacterium is a genus of the Halobacteriaceae.\nThe genus Halobacterium consists of several species of archaea with an aerobic metabolism which require an environment with a high ... Wikipedia",
+        "Archaeoglobales": {
+            "label": "Archaeoglobales",
+            "description": "In taxonomy, the Archaeoglobales are an order of the Archaeoglobi. Wikipedia",
             "type": "",
             "Scientific name ": [
-                "Halobacterium"
+                "Archaeoglobales"
             ],
             "Rank ": [
-                "Genus"
+                "Order"
             ],
-            "See results about": []
-        },
-        "Thermoproteus": {
-            "label": "Thermoproteus",
-            "description": "In taxonomy, Thermoproteus is a genus of the Thermoproteaceae. These prokaryotes are thermophilic sulphur-dependent organisms related to the genera Sulfolobus, Pyrodictium and Desulfurococcus. Wikipedia",
-            "type": "",
-            "Rank ": [
-                "Genus"
-            ]
-        },
-        "Nanoarchaeota": {
-            "label": "Nanoarchaeota",
-            "description": "In taxonomy, the Nanoarchaeota are a phylum of the Archaea. This phylum currently has only one representative, Nanoarchaeum equitans. Wikipedia",
-            "type": "",
             "Higher classification ": [
-                "Archaea"
+                "Archaeoglobi"
             ],
-            "See results about": []
+            "Lower classifications ": [
+                "Archaeoglobaceae"
+            ]
         },
         "Halobacteriaceae": {
             "label": "Halobacteriaceae",
@@ -163,23 +163,23 @@
                 "Halobacterium salinarium"
             ]
         },
-        "Halobiforma": {
-            "label": "Halobiforma",
-            "description": "In taxonomy, Halobiforma is a genus of the Halobacteriaceae. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Halobiforma"
-            ],
-            "Rank ": [
-                "Genus"
-            ]
-        },
         "Halobaculum": {
             "label": "Halobaculum",
             "description": "In taxonomy, Halobaculum is a genus of the Halobacteriaceae. Wikipedia",
             "type": "",
             "Scientific name ": [
                 "Halobaculum"
+            ],
+            "Rank ": [
+                "Genus"
+            ]
+        },
+        "Halobiforma": {
+            "label": "Halobiforma",
+            "description": "In taxonomy, Halobiforma is a genus of the Halobacteriaceae. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Halobiforma"
             ],
             "Rank ": [
                 "Genus"
@@ -202,17 +202,6 @@
             "type": "",
             "Scientific name ": [
                 "Halosarcina"
-            ],
-            "Rank ": [
-                "Genus"
-            ]
-        },
-        "Methanofollis": {
-            "label": "Methanofollis",
-            "description": "In taxonomy, Methanofollis is a genus of the Methanomicrobiaceae. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Methanofollis"
             ],
             "Rank ": [
                 "Genus"
@@ -241,6 +230,37 @@
             ],
             "See results about": []
         },
+        "Methanofollis": {
+            "label": "Methanofollis",
+            "description": "In taxonomy, Methanofollis is a genus of the Methanomicrobiaceae. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Methanofollis"
+            ],
+            "Rank ": [
+                "Genus"
+            ]
+        },
+        "Methanogenium": {
+            "label": "Methanogenium",
+            "description": "In taxonomy, Methanogenium is a genus of the Methanomicrobiaceae. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Methanogenium"
+            ],
+            "Rank ": [
+                "Genus"
+            ],
+            "See results about": []
+        },
+        "Methanomicrobiales": {
+            "label": "Methanomicrobiales",
+            "description": "In the taxonomy of microorganisms, the Methanomicrobiales are an order of the Methanomicrobia. Methanomicrobiales are strictly carbon dioxide reducing methanogens, using hydrogen or formate as the reducing agent. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Methanomicrobiales"
+            ]
+        },
         "Methanoplanus": {
             "label": "Methanoplanus",
             "description": "In taxonomy, Methanoplanus is a genus of the Methanomicrobiaceae, comprising three species of methanogenic, or methane-producing, archaea. Wikipedia",
@@ -250,14 +270,6 @@
             ],
             "Rank ": [
                 "Genus"
-            ]
-        },
-        "Methanomicrobiales": {
-            "label": "Methanomicrobiales",
-            "description": "In the taxonomy of microorganisms, the Methanomicrobiales are an order of the Methanomicrobia. Methanomicrobiales are strictly carbon dioxide reducing methanogens, using hydrogen or formate as the reducing agent. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Methanomicrobiales"
             ]
         },
         "Methanoregula": {
@@ -293,17 +305,6 @@
                 "Methanobacteriaceae"
             ]
         },
-        "Methanothermococcus": {
-            "label": "Methanothermococcus",
-            "description": "In taxonomy, Methanothermococcus is a genus of the Methanococcaceae. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Methanothermococcus"
-            ],
-            "Rank ": [
-                "Genus"
-            ]
-        },
         "Natronomonas": {
             "label": "Natronomonas",
             "description": "In taxonomy, Natronomonas is a genus of the Halobacteriaceae. Wikipedia",
@@ -315,38 +316,12 @@
                 "Genus"
             ]
         },
-        "Methanotorris": {
-            "label": "Methanotorris",
-            "description": "In taxonomy, Methanotorris is a genus of the Methanocaldococcaceae. Wikipedia",
+        "Methanothermococcus": {
+            "label": "Methanothermococcus",
+            "description": "In taxonomy, Methanothermococcus is a genus of the Methanococcaceae. Wikipedia",
             "type": "",
             "Scientific name ": [
-                "Methanotorris"
-            ],
-            "Rank ": [
-                "Genus"
-            ],
-            "Higher classification ": [
-                "Methanococcaceae"
-            ]
-        },
-        "Methanogenium": {
-            "label": "Methanogenium",
-            "description": "In taxonomy, Methanogenium is a genus of the Methanomicrobiaceae. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Methanogenium"
-            ],
-            "Rank ": [
-                "Genus"
-            ],
-            "See results about": []
-        },
-        "Ferroplasma": {
-            "label": "Ferroplasma",
-            "description": "In taxonomy, Ferroplasma is a genus of the Ferroplasmaceae.\nThe genus Ferroplasma consists solely of three species. Its type species, F. acidophilum, is an acidophilic iron-oxidizing member of the Euryarchaeota. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Ferroplasma"
+                "Methanothermococcus"
             ],
             "Rank ": [
                 "Genus"
@@ -367,23 +342,18 @@
                 " Nanoarchaeota"
             ]
         },
-        "Thermococcaceae": {
-            "label": "Thermococcaceae",
-            "description": "In taxonomy, the Thermococcaceae are a family of the Thermococcales. Wikipedia",
+        "Methanotorris": {
+            "label": "Methanotorris",
+            "description": "In taxonomy, Methanotorris is a genus of the Methanocaldococcaceae. Wikipedia",
             "type": "",
             "Scientific name ": [
-                "Thermococcaceae"
+                "Methanotorris"
             ],
             "Rank ": [
-                "Family"
+                "Genus"
             ],
             "Higher classification ": [
-                "Thermococcales"
-            ],
-            "Lower classifications ": [
-                "Thermococcus",
-                " Palaeococcus",
-                " Pyrococcus"
+                "Methanococcaceae"
             ]
         },
         "Thermococcus gammatolerans": {
@@ -400,20 +370,12 @@
                 "Thermococcus"
             ]
         },
-        "Thermoplasma": {
-            "label": "Thermoplasma",
-            "description": "In taxonomy, Thermoplasma is a genus of the Thermoplasmataceae.\nThermoplasma is a genus of archaea. It belongs to the Thermoplasmata, which thrive in acidic and high-temperature environments. Wikipedia",
-            "type": "",
-            "Rank ": [
-                "Genus"
-            ]
-        },
-        "Picrophilus": {
-            "label": "Picrophilus",
-            "description": "In taxonomy, Picrophilus is an archaean genus of the family Picrophilaceae.\nPicrophilus is an extremely acidophilic genus within Euryarchaeota. Wikipedia",
+        "Ferroplasma": {
+            "label": "Ferroplasma",
+            "description": "In taxonomy, Ferroplasma is a genus of the Ferroplasmaceae.\nThe genus Ferroplasma consists solely of three species. Its type species, F. acidophilum, is an acidophilic iron-oxidizing member of the Euryarchaeota. Wikipedia",
             "type": "",
             "Scientific name ": [
-                "Picrophilus"
+                "Ferroplasma"
             ],
             "Rank ": [
                 "Genus"
@@ -436,6 +398,25 @@
                 "Picrophilaceae",
                 " Thermoplasmataceae",
                 " Ferroplasmaceae"
+            ]
+        },
+        "Picrophilus": {
+            "label": "Picrophilus",
+            "description": "In taxonomy, Picrophilus is an archaean genus of the family Picrophilaceae.\nPicrophilus is an extremely acidophilic genus within Euryarchaeota. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Picrophilus"
+            ],
+            "Rank ": [
+                "Genus"
+            ]
+        },
+        "Thermoplasma": {
+            "label": "Thermoplasma",
+            "description": "In taxonomy, Thermoplasma is a genus of the Thermoplasmataceae.\nThermoplasma is a genus of archaea. It belongs to the Thermoplasmata, which thrive in acidic and high-temperature environments. Wikipedia",
+            "type": "",
+            "Rank ": [
+                "Genus"
             ]
         },
         "Geoglobus": {
@@ -487,6 +468,23 @@
                 " Methanocaldococcaceae"
             ]
         },
+        "Methanomicrobia": {
+            "label": "Methanomicrobia",
+            "description": "In the taxonomy of microorganisms, the Methanomicrobia are a class of the Euryarchaeota. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Methanomicrobia"
+            ],
+            "Rank ": [
+                "Class"
+            ],
+            "Higher classification ": [
+                "Euryarchaeota"
+            ],
+            "Lower classifications ": [
+                "Methanosarcinales"
+            ]
+        },
         "Methanopyraceae": {
             "label": "Methanopyraceae",
             "description": "In taxonomy, the Methanopyraceae are a family of the Methanopyrales. Wikipedia",
@@ -512,29 +510,74 @@
                 "Methanomicrobiales"
             ]
         },
-        "Methanomicrobia": {
-            "label": "Methanomicrobia",
-            "description": "In the taxonomy of microorganisms, the Methanomicrobia are a class of the Euryarchaeota. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Methanomicrobia"
-            ],
-            "Rank ": [
-                "Class"
-            ],
-            "Higher classification ": [
-                "Euryarchaeota"
-            ],
-            "Lower classifications ": [
-                "Methanosarcinales"
-            ]
-        },
         "Methanobrevibacter smithii": {
             "label": "Methanobrevibacter smithii",
             "description": "Methanobrevibacter smithii is the predominant archaeon in the human gut. It plays an important role in the efficient digestion of polysaccharides by consuming the end products of bacterial fermentation. Wikipedia",
             "type": "",
             "Scientific name ": [
                 "Methanobrevibacter smithii"
+            ]
+        },
+        "Thermoprotei": {
+            "label": "Thermoprotei",
+            "description": "The Thermoprotei are a class of the Crenarchaeota. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Thermoprotei"
+            ],
+            "Higher classification ": [
+                "Crenarchaeota"
+            ],
+            "Rank ": [
+                "Class"
+            ],
+            "Lower classifications ": [
+                "Acidilobales",
+                " Desulfurococcales"
+            ]
+        },
+        "Acidococcus": {
+            "label": "Acidococcus",
+            "description": "In taxonomy, Acidococcus is a genus of the Desulfurococcaceae. Wikipedia",
+            "type": "",
+            "Rank ": [
+                "Genus"
+            ]
+        },
+        "Thermococcaceae": {
+            "label": "Thermococcaceae",
+            "description": "In taxonomy, the Thermococcaceae are a family of the Thermococcales. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Thermococcaceae"
+            ],
+            "Rank ": [
+                "Family"
+            ],
+            "Higher classification ": [
+                "Thermococcales"
+            ],
+            "Lower classifications ": [
+                "Thermococcus",
+                " Palaeococcus",
+                " Pyrococcus"
+            ]
+        },
+        "Caldisphaeraceae": {
+            "label": "Caldisphaeraceae",
+            "description": "In taxonomy, the Caldisphaeraceae are a family of the Acidilobales. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Caldisphaeraceae"
+            ],
+            "Rank ": [
+                "Family"
+            ],
+            "Higher classification ": [
+                "Acidilobales"
+            ],
+            "Lower classifications ": [
+                "Caldisphaera"
             ]
         },
         "Ignisphaera": {
@@ -557,77 +600,6 @@
             ],
             "Rank ": [
                 "Genus"
-            ]
-        },
-        "Methanolacinia": {
-            "label": "Methanolacinia",
-            "description": "In taxonomy, Methanolacinia is a genus of the Methanomicrobiaceae. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Methanolacinia"
-            ],
-            "Rank ": [
-                "Genus"
-            ]
-        },
-        "Acidococcus": {
-            "label": "Acidococcus",
-            "description": "In taxonomy, Acidococcus is a genus of the Desulfurococcaceae. Wikipedia",
-            "type": "",
-            "Rank ": [
-                "Genus"
-            ]
-        },
-        "Caldisphaeraceae": {
-            "label": "Caldisphaeraceae",
-            "description": "In taxonomy, the Caldisphaeraceae are a family of the Acidilobales. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Caldisphaeraceae"
-            ],
-            "Rank ": [
-                "Family"
-            ],
-            "Higher classification ": [
-                "Acidilobales"
-            ],
-            "Lower classifications ": [
-                "Caldisphaera"
-            ]
-        },
-        "Methanopyrales": {
-            "label": "Methanopyrales",
-            "description": "In taxonomy, the Methanopyrales are an order of the methanopyri. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Methanopyrales"
-            ],
-            "Rank ": [
-                "Order"
-            ],
-            "Higher classification ": [
-                "Methanopyri"
-            ],
-            "Lower classifications ": [
-                "Methanopyraceae"
-            ]
-        },
-        "Thermoprotei": {
-            "label": "Thermoprotei",
-            "description": "The Thermoprotei are a class of the Crenarchaeota. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Thermoprotei"
-            ],
-            "Higher classification ": [
-                "Crenarchaeota"
-            ],
-            "Rank ": [
-                "Class"
-            ],
-            "Lower classifications ": [
-                "Acidilobales",
-                " Desulfurococcales"
             ]
         },
         "Methanosarcina": {
@@ -667,14 +639,6 @@
                 "Genus"
             ]
         },
-        "Acidianus": {
-            "label": "Acidianus",
-            "description": "In taxonomy, Acidianus is a genus of the Sulfolobaceae. Wikipedia",
-            "type": "",
-            "Rank ": [
-                "Genus"
-            ]
-        },
         "Natronorubrum": {
             "label": "Natronorubrum",
             "description": "In taxonomy, Natronorubrum is a genus of the Halobacteriaceae. Wikipedia",
@@ -708,6 +672,14 @@
                 "Genus"
             ]
         },
+        "Acidianus": {
+            "label": "Acidianus",
+            "description": "In taxonomy, Acidianus is a genus of the Sulfolobaceae. Wikipedia",
+            "type": "",
+            "Rank ": [
+                "Genus"
+            ]
+        },
         "Aeropyrum": {
             "label": "Aeropyrum",
             "description": "In taxonomy, Aeropyrum is a genus of the Desulfurococcaceae. Wikipedia",
@@ -725,10 +697,13 @@
                 "Genus"
             ]
         },
-        "Nitrosopumilus": {
-            "label": "Nitrosopumilus",
-            "description": "Nitrosopumilus maritimus is an extremely common archaeon living in seawater. It is the first member of the Group 1a Crenarchaeota to be isolated in pure culture. Wikipedia",
-            "type": ""
+        "Metallosphaera": {
+            "label": "Metallosphaera",
+            "description": "In taxonomy, Metallosphaera is a genus of the Sulfolobaceae. Wikipedia",
+            "type": "",
+            "Rank ": [
+                "Genus"
+            ]
         },
         "Methanopyri": {
             "label": "Methanopyri",
@@ -748,30 +723,10 @@
             ],
             "See results about": []
         },
-        "Thermoplasmata": {
-            "label": "Thermoplasmata",
-            "description": "In taxonomy, the Thermoplasmata are a class of the Euryarchaeota.\nAll are acidophiles, growing optimally at pH below 2. Picrophilus is currently the most acidophilic of all known organisms growing at a minimum pH of 0.06. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Thermoplasmata"
-            ],
-            "Rank ": [
-                "Class"
-            ],
-            "Higher classification ": [
-                "Euryarchaeota"
-            ],
-            "Lower classifications ": [
-                "Thermoplasmatales"
-            ]
-        },
-        "Metallosphaera": {
-            "label": "Metallosphaera",
-            "description": "In taxonomy, Metallosphaera is a genus of the Sulfolobaceae. Wikipedia",
-            "type": "",
-            "Rank ": [
-                "Genus"
-            ]
+        "Nitrosopumilus": {
+            "label": "Nitrosopumilus",
+            "description": "Nitrosopumilus maritimus is an extremely common archaeon living in seawater. It is the first member of the Group 1a Crenarchaeota to be isolated in pure culture. Wikipedia",
+            "type": ""
         },
         "Stetteria": {
             "label": "Stetteria",
@@ -787,6 +742,23 @@
             "type": "",
             "Rank ": [
                 "Genus"
+            ]
+        },
+        "Thermoplasmata": {
+            "label": "Thermoplasmata",
+            "description": "In taxonomy, the Thermoplasmata are a class of the Euryarchaeota.\nAll are acidophiles, growing optimally at pH below 2. Picrophilus is currently the most acidophilic of all known organisms growing at a minimum pH of 0.06. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Thermoplasmata"
+            ],
+            "Rank ": [
+                "Class"
+            ],
+            "Higher classification ": [
+                "Euryarchaeota"
+            ],
+            "Lower classifications ": [
+                "Thermoplasmatales"
             ]
         },
         "Thermosphaera": {
@@ -847,14 +819,6 @@
                 " Geogemma"
             ]
         },
-        "Thaumarchaeota": {
-            "label": "Thaumarchaeota",
-            "description": "The Thaumarchaeota are a phylum of the Archaea proposed in 2008 after the genome of Cenarchaeum symbiosum was sequenced and found to differ significantly from other members of the hyperthermophilic phylum Crenarchaeota. Wikipedia",
-            "type": "",
-            "Higher classification ": [
-                "Archaea"
-            ]
-        },
         "Sulfophobococcus": {
             "label": "Sulfophobococcus",
             "description": "In taxonomy, Sulfophobococcus is a genus of the Desulfurococcaceae. Wikipedia",
@@ -863,9 +827,17 @@
                 "Genus"
             ]
         },
-        "Vulcanisaeta": {
-            "label": "Vulcanisaeta",
-            "description": "In taxonomy, Vulcanisaeta is a genus of the Thermoproteaceae. Wikipedia",
+        "Thaumarchaeota": {
+            "label": "Thaumarchaeota",
+            "description": "The Thaumarchaeota are a phylum of the Archaea proposed in 2008 after the genome of Cenarchaeum symbiosum was sequenced and found to differ significantly from other members of the hyperthermophilic phylum Crenarchaeota. Wikipedia",
+            "type": "",
+            "Higher classification ": [
+                "Archaea"
+            ]
+        },
+        "Thermodiscus": {
+            "label": "Thermodiscus",
+            "description": "In taxonomy, Thermodiscus is a genus of the Desulfurococcaceae. Wikipedia",
             "type": "",
             "Rank ": [
                 "Genus"
@@ -879,17 +851,17 @@
                 "Genus"
             ]
         },
-        "Caldococcus": {
-            "label": "Caldococcus",
-            "description": "In taxonomy, Caldococcus is a genus of the Desulfurococcales. Wikipedia",
+        "Vulcanisaeta": {
+            "label": "Vulcanisaeta",
+            "description": "In taxonomy, Vulcanisaeta is a genus of the Thermoproteaceae. Wikipedia",
             "type": "",
             "Rank ": [
                 "Genus"
             ]
         },
-        "Thermodiscus": {
-            "label": "Thermodiscus",
-            "description": "In taxonomy, Thermodiscus is a genus of the Desulfurococcaceae. Wikipedia",
+        "Caldococcus": {
+            "label": "Caldococcus",
+            "description": "In taxonomy, Caldococcus is a genus of the Desulfurococcales. Wikipedia",
             "type": "",
             "Rank ": [
                 "Genus"
@@ -939,23 +911,23 @@
                 "Genus"
             ]
         },
-        "Halopiger": {
-            "label": "Halopiger",
-            "description": "In taxonomy, Halopiger is a genus of the Halobacteriaceae. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Halopiger"
-            ],
-            "Rank ": [
-                "Genus"
-            ]
-        },
         "Halomicrobium": {
             "label": "Halomicrobium",
             "description": "In taxonomy, Halomicrobium is a genus of the Halobacteriaceae. Wikipedia",
             "type": "",
             "Scientific name ": [
                 "Halomicrobium"
+            ],
+            "Rank ": [
+                "Genus"
+            ]
+        },
+        "Halopiger": {
+            "label": "Halopiger",
+            "description": "In taxonomy, Halopiger is a genus of the Halobacteriaceae. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Halopiger"
             ],
             "Rank ": [
                 "Genus"
@@ -975,17 +947,6 @@
                 "Halorubrum salsolis"
             ],
             "See results about": []
-        },
-        "Haloterrigena": {
-            "label": "Haloterrigena",
-            "description": "In taxonomy, Haloterrigena is a genus of the Halobacteriaceae. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Haloterrigena"
-            ],
-            "Rank ": [
-                "Genus"
-            ]
         },
         "Halostagnicola": {
             "label": "Halostagnicola",
@@ -1020,6 +981,17 @@
                 "Genus"
             ]
         },
+        "Haloterrigena": {
+            "label": "Haloterrigena",
+            "description": "In taxonomy, Haloterrigena is a genus of the Halobacteriaceae. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Haloterrigena"
+            ],
+            "Rank ": [
+                "Genus"
+            ]
+        },
         "Methanobacteriales": {
             "label": "Methanobacteriales",
             "description": "In taxonomy, the Methanobacteriales are an order of the Methanobacteria. Wikipedia",
@@ -1038,14 +1010,6 @@
                 " Methanobacteriaceae"
             ]
         },
-        "Methanogenium boonei": {
-            "label": "Methanogenium boonei",
-            "description": "Methanogenium boonei is a methanogenic archaean. Cells are non-motile irregular cocci 1.0-2.5 μm in diameter. This mesophile grows optimally at 19.4°C, pH6.4-7.8, salinity 0.3-0.5M Na+. It was first isolated from Skan Bay, Alaska. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Methanogenium boonei"
-            ]
-        },
         "Methanohalobium": {
             "label": "Methanohalobium",
             "description": "In taxonomy, Methanohalobium is a genus of the Methanosarcinaceae. Its genome has been sequenced. Wikipedia",
@@ -1056,28 +1020,64 @@
             "Rank ": [
                 "Genus"
             ]
+        },
+        "Methanogenium boonei": {
+            "label": "Methanogenium boonei",
+            "description": "Methanogenium boonei is a methanogenic archaean. Cells are non-motile irregular cocci 1.0-2.5 μm in diameter. This mesophile grows optimally at 19.4°C, pH6.4-7.8, salinity 0.3-0.5M Na+. It was first isolated from Skan Bay, Alaska. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Methanogenium boonei"
+            ]
+        },
+        "Methanopyrales": {
+            "label": "Methanopyrales",
+            "description": "In taxonomy, the Methanopyrales are an order of the methanopyri. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Methanopyrales"
+            ],
+            "Rank ": [
+                "Order"
+            ],
+            "Higher classification ": [
+                "Methanopyri"
+            ],
+            "Lower classifications ": [
+                "Methanopyraceae"
+            ]
+        },
+        "Methanolacinia": {
+            "label": "Methanolacinia",
+            "description": "In taxonomy, Methanolacinia is a genus of the Methanomicrobiaceae. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Methanolacinia"
+            ],
+            "Rank ": [
+                "Genus"
+            ]
         }
     },
     "summary": {
         "label": 90,
         "description": 90,
         "type": 90,
-        "Scientific name ": 65,
-        "Rank ": 79,
-        "See results about": 9,
-        "Higher classification ": 28,
-        "Lower classifications ": 19
+        "rank": 1,
+        "see_results_about": 1,
+        "scientific_name": 1,
+        "higher_classification": 1,
+        "lower_classifications": 1
     },
     "infoboxless": [
         "Cenarchaeales",
         "Nitrosopumilaceae",
         "Nitrosopumilales",
-        "Desulfurococcaceae",
-        "Sulfolobales",
         "Halobacteria",
         "Methanobacteria",
-        "Methanococci",
         "Methanobrevibacter",
-        "Pyrolobus"
+        "Desulfurococcaceae",
+        "Methanococci",
+        "Pyrolobus",
+        "Sulfolobales"
     ]
 }

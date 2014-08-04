@@ -5,6 +5,16 @@
             "description": "Reading Racers were a British motorcycle speedway team. Formed in 1968, they won four British League titles during their history. The club closed in October 2008 after the lease on Smallmead Stadium expired and the site was demolished. Wikipedia",
             "type": "Soccer team"
         },
+        "PSŻ Poznań": {
+            "label": "PSŻ Poznań",
+            "description": "Poznańskie Stowarzyszenie Żużlowe is a Polish speedway team based in Poznań who currently race in First League. The club never rode in the Polish top division. Their nickname is \"The Scorpions\". Wikipedia",
+            "type": ""
+        },
+        "Hackney Wick Wolves": {
+            "label": "Hackney Wick Wolves",
+            "description": "Hackney Wick Wolves speedway opened in 1935 at Hackney Wick Stadium, Waterden Road, London, and operated until the outbreak of World War II in 1939. Wikipedia",
+            "type": ""
+        },
         "ZKŻ Zielona Góra": {
             "label": "ZKŻ Zielona Góra",
             "description": "Falubaz Zielona Góra is a Polish speedway team based in Zielona Góra who currently races in Speedway Ekstraliga. The club has won Polish Speedway League six times. It is commonly known as Falubaz due to one of its former names. Wikipedia",
@@ -12,11 +22,6 @@
             "Founded ": [
                 "1946"
             ]
-        },
-        "Hackney Wick Wolves": {
-            "label": "Hackney Wick Wolves",
-            "description": "Hackney Wick Wolves speedway opened in 1935 at Hackney Wick Stadium, Waterden Road, London, and operated until the outbreak of World War II in 1939. Wikipedia",
-            "type": ""
         },
         "Włókniarz Częstochowa": {
             "label": "Włókniarz Częstochowa",
@@ -34,11 +39,6 @@
             "description": "Cradley Heathens are a motorcycle speedway team from Dudley, England. The team was founded in 1945 and competed at the top level of British speedway until its closure in 1995. Wikipedia",
             "type": ""
         },
-        "PSŻ Poznań": {
-            "label": "PSŻ Poznań",
-            "description": "Poznańskie Stowarzyszenie Żużlowe is a Polish speedway team based in Poznań who currently race in First League. The club never rode in the Polish top division. Their nickname is \"The Scorpions\". Wikipedia",
-            "type": ""
-        },
         "Weymouth Wildcats": {
             "label": "Weymouth Wildcats",
             "description": "The Weymouth Wildcats were a British motorcycle speedway team based in Weymouth, England who raced in the National League. Wikipedia",
@@ -53,6 +53,17 @@
             "label": "Scunthorpe Scorpions",
             "description": "The Scunthorpe Scorpions are a speedway team in the British Premier League. After three successful years in the Conference League the side were accepted into the Premier League for 2008. Wikipedia",
             "type": ""
+        },
+        "Stal Gorzów Wielkopolski": {
+            "label": "Stal Gorzów Wielkopolski",
+            "description": "Stal Gorzów Wielkopolski - polish speedway team based in Gorzów Wielkopolski who currently race in Speedway Ekstraliga. Wikipedia",
+            "type": "",
+            "Founded ": [
+                "1947"
+            ],
+            "Location ": [
+                "Poland"
+            ]
         },
         "GTŻ Grudziądz": {
             "label": "GTŻ Grudziądz",
@@ -69,17 +80,6 @@
             "label": "Isle of Wight Islanders",
             "description": "The Isle of Wight Wightlink Islanders are a British speedway team. They currently compete in the National League and are holders of the National Trphy after winning it in June 2013, and ride their home meetings at the Smallbrook Stadium. Wikipedia",
             "type": "Soccer team"
-        },
-        "Stal Gorzów Wielkopolski": {
-            "label": "Stal Gorzów Wielkopolski",
-            "description": "Stal Gorzów Wielkopolski - polish speedway team based in Gorzów Wielkopolski who currently race in Speedway Ekstraliga. Wikipedia",
-            "type": "",
-            "Founded ": [
-                "1947"
-            ],
-            "Location ": [
-                "Poland"
-            ]
         },
         "RKM Rybnik": {
             "label": "RKM Rybnik",
@@ -120,13 +120,13 @@
         "label": 14,
         "description": 14,
         "type": 14,
-        "Founded ": 6,
-        "Location ": 5,
-        "Manager ": 1,
-        "Arena/Stadium ": 1,
-        "Training ground ": 1,
-        "Leagues ": 1,
-        "Roster": 1
+        "founded": 1,
+        "location": 1,
+        "manager": 1,
+        "arena/stadium": 1,
+        "training_ground": 1,
+        "leagues": 1,
+        "roster": 1
     },
     "infoboxless": [
         "Wybrzeże Gdańsk",
@@ -134,64 +134,64 @@
         "Nottingham (speedway)",
         "Rochdale Hornets (speedway)",
         "West Ham Hammers",
-        "Hastings Saxons",
         "Trelawny Pitbulls",
         "WTS Wrocław",
+        "Hastings Saxons",
         "Norwich Stars",
-        "Barrow Bombers",
         "Wembley Lions (speedway)",
+        "Barrow Bombers",
         "Stamford Bridge Pensioners",
-        "Crewe Kings",
         "Nelson Admirals",
+        "Crewe Kings",
         "Ellesmere Port Gunners",
+        "Hackney Kestrels",
         "Leicester Hunters",
         "Milton Keynes Knights",
-        "Hackney Kestrels",
         "Rayleigh Rockets",
         "Romford Bombers",
         "Buxton Hitmen",
+        "Canterbury Crusaders (speedway)",
         "White City Rebels",
-        "Masarna",
         "Dackarna",
         "Exeter Falcons",
+        "Masarna",
         "Unia Leszno",
-        "Canterbury Crusaders (speedway)",
+        "Bradford Dukes",
         "Lokomotiv Daugavpils",
         "Oxford Lions",
         "Västervik Speedway",
-        "Bradford Dukes",
-        "Ikaros Smederna",
         "Hull Vikings",
+        "Ikaros Smederna",
         "KM Ostrów Wielkopolski",
         "Middlesbrough Bears",
         "Oxford Cheetahs",
+        "Redcar Cubs",
         "Rospiggarna",
         "Start Gniezno",
         "Stoke Spitfires",
-        "Sittingbourne Crusaders",
-        "Redcar Cubs",
         "Sunderland Stars",
+        "Sittingbourne Crusaders",
         "Lejonen",
+        "London Lions (speedway)",
         "Halifax Dukes",
         "Harringay Racers (speedway)",
-        "London Lions (speedway)",
         "Indianerna",
         "New Cross Rangers",
         "Rye House Cobras",
+        "Team Bikab",
+        "Yarmouth Bloaters",
         "Trelawny Tigers",
         "Doncaster Stallions",
-        "Team Bikab",
         "Crayford Kestrels",
-        "Paisley Lions",
-        "Motherwell Eagles",
-        "Yarmouth Bloaters",
         "Fleetwood Flyers",
+        "Motherwell Eagles",
+        "Paisley Lions",
         "St Austell Gulls",
         "Long Eaton Speedway",
-        "Walthamstow Wolves",
-        "Polonia Bydgoszcz",
         "Boston Barracudas",
-        "Leicester Stadium (speedway team)",
-        "Wimbledon Dons"
+        "Walthamstow Wolves",
+        "Wimbledon Dons",
+        "Polonia Bydgoszcz",
+        "Leicester Stadium (speedway team)"
     ]
 }

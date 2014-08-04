@@ -28,20 +28,6 @@
                 "Ephedra"
             ]
         },
-        "Ephedra aspera": {
-            "label": "Ephedra aspera",
-            "description": "Ephedra aspera is a species of Ephedra known by the common names rough jointfir, boundary ephedra, and pitamoreal.\nIt is native to the southwestern United States from California to Texas and parts of northern Mexico. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Ephedra aspera"
-            ],
-            "Rank ": [
-                "Species"
-            ],
-            "Higher classification ": [
-                "Ephedra"
-            ]
-        },
         "Ephedra altissima": {
             "label": "Ephedra altissima",
             "description": "Ephedra altissima is a species of Ephedra that is native to the Mediterranean region in Southern Europe and North Africa.\nThe species is cultivated as an ornamental plant. Wikipedia",
@@ -56,12 +42,12 @@
                 "Ephedra"
             ]
         },
-        "Ephedra boelckei": {
-            "label": "Ephedra boelckei",
-            "description": "Ephedra boelckei is a species of Ephedra that is native to Argentina.\n\nIt was originally described by Fidel Antonio Roig in 1984. It has been placed in section Alatae. Wikipedia",
+        "Ephedra aspera": {
+            "label": "Ephedra aspera",
+            "description": "Ephedra aspera is a species of Ephedra known by the common names rough jointfir, boundary ephedra, and pitamoreal.\nIt is native to the southwestern United States from California to Texas and parts of northern Mexico. Wikipedia",
             "type": "",
             "Scientific name ": [
-                "Ephedra boelckei"
+                "Ephedra aspera"
             ],
             "Rank ": [
                 "Species"
@@ -84,12 +70,12 @@
                 "Ephedra"
             ]
         },
-        "Ephedra foliata": {
-            "label": "Ephedra foliata",
-            "description": "Ephedra foliata, with the common name shrubby horsetail, is a species of Ephedra.\nThe plant is native to Western Asia, the Middle East, and Central Asia, from Egypt to Iran and India. Wikipedia",
+        "Ephedra fasciculata": {
+            "label": "Ephedra fasciculata",
+            "description": "Ephedra fasciculata is a species of plant in the Ephedraceae family. Common names are Arizona Ephedra, Arizona Jointfir, and Desert Mormon-tea. Wikipedia",
             "type": "",
             "Scientific name ": [
-                "Ephedra foliata"
+                "Ephedra fasciculata"
             ],
             "Rank ": [
                 "Species"
@@ -112,12 +98,12 @@
                 "Ephedra"
             ]
         },
-        "Ephedra fasciculata": {
-            "label": "Ephedra fasciculata",
-            "description": "Ephedra fasciculata is a species of plant in the Ephedraceae family. Common names are Arizona Ephedra, Arizona Jointfir, and Desert Mormon-tea. Wikipedia",
+        "Ephedra boelckei": {
+            "label": "Ephedra boelckei",
+            "description": "Ephedra boelckei is a species of Ephedra that is native to Argentina.\n\nIt was originally described by Fidel Antonio Roig in 1984. It has been placed in section Alatae. Wikipedia",
             "type": "",
             "Scientific name ": [
-                "Ephedra fasciculata"
+                "Ephedra boelckei"
             ],
             "Rank ": [
                 "Species"
@@ -126,12 +112,18 @@
                 "Ephedra"
             ]
         },
-        "Ephedra frustillata": {
-            "label": "Ephedra frustillata",
-            "description": "Ephedra frustillata, the Patagonian ephedra, is a plant species in the genus Ephedra.\nThe plant is found in Patagonia, southern Argentina.\nE. frustillata contains apigeninidin, a 3-deoxyanthocyanidin. Wikipedia",
+        "Ephedra foliata": {
+            "label": "Ephedra foliata",
+            "description": "Ephedra foliata, with the common name shrubby horsetail, is a species of Ephedra.\nThe plant is native to Western Asia, the Middle East, and Central Asia, from Egypt to Iran and India. Wikipedia",
             "type": "",
             "Scientific name ": [
-                "Ephedra frustillata"
+                "Ephedra foliata"
+            ],
+            "Rank ": [
+                "Species"
+            ],
+            "Higher classification ": [
+                "Ephedra"
             ]
         },
         "Ephedra fragilis": {
@@ -148,18 +140,12 @@
                 "Ephedra"
             ]
         },
-        "Ephedra intermedia": {
-            "label": "Ephedra intermedia",
-            "description": "Ephedra intermedia, with the Chinese common name of Zhong Ma Huang, is a species of Ephedra that is native to Southwest Asia, the Middle East, Central Asia, and South Asia. Wikipedia",
+        "Ephedra frustillata": {
+            "label": "Ephedra frustillata",
+            "description": "Ephedra frustillata, the Patagonian ephedra, is a plant species in the genus Ephedra.\nThe plant is found in Patagonia, southern Argentina.\nE. frustillata contains apigeninidin, a 3-deoxyanthocyanidin. Wikipedia",
             "type": "",
             "Scientific name ": [
-                "Ephedra intermedia"
-            ],
-            "Rank ": [
-                "Species"
-            ],
-            "Higher classification ": [
-                "Ephedra"
+                "Ephedra frustillata"
             ]
         },
         "Ephedra funerea": {
@@ -176,6 +162,20 @@
                 "Species"
             ]
         },
+        "Ephedra intermedia": {
+            "label": "Ephedra intermedia",
+            "description": "Ephedra intermedia, with the Chinese common name of Zhong Ma Huang, is a species of Ephedra that is native to Southwest Asia, the Middle East, Central Asia, and South Asia. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Ephedra intermedia"
+            ],
+            "Rank ": [
+                "Species"
+            ],
+            "Higher classification ": [
+                "Ephedra"
+            ]
+        },
         "Ephedra nevadensis": {
             "label": "Ephedra nevadensis",
             "description": "Ephedra nevadensis is a species of Ephedra native to dry areas of western North America.\nIts range extends west to California and Oregon, east to Texas, and south to Mexico, including areas of the Great Basin, Colorado plateau and desert Southwest. Wikipedia",
@@ -190,12 +190,12 @@
                 "Species"
             ]
         },
-        "Ephedra torreyana": {
-            "label": "Ephedra torreyana",
-            "description": "Ephedra torreyana, with common names Torrey's jointfir or Torrey's Mormon tea, is a species of Ephedra that is native to the deserts and scrublands of the Southwestern United States and northern Mexico. Wikipedia",
+        "Ephedra przewalskii": {
+            "label": "Ephedra przewalskii",
+            "description": "Ephedra przewalskii is a species of Ephedra that is native to northwestern China and Mongolia.\n\nIt was originally described by Otto Stapf in 1889 and placed in section Alatae, tribe Tropidolepides. Wikipedia",
             "type": "",
             "Scientific name ": [
-                "Ephedra torreyana"
+                "Ephedra przewalskii"
             ],
             "Rank ": [
                 "Species"
@@ -232,12 +232,26 @@
                 "Ephedra"
             ]
         },
-        "Ephedra przewalskii": {
-            "label": "Ephedra przewalskii",
-            "description": "Ephedra przewalskii is a species of Ephedra that is native to northwestern China and Mongolia.\n\nIt was originally described by Otto Stapf in 1889 and placed in section Alatae, tribe Tropidolepides. Wikipedia",
+        "Ephedra trifurca": {
+            "label": "Ephedra trifurca",
+            "description": "Ephedra trifurca is a species of Ephedra known by the common names longleaf jointfir and Mexican tea. It is native to many of the northern states of Mexico and the southwestern United States, where it is a resident of desert scrub plant communities. Wikipedia",
             "type": "",
             "Scientific name ": [
-                "Ephedra przewalskii"
+                "Ephedra trifurca"
+            ],
+            "Rank ": [
+                "Species"
+            ],
+            "Higher classification ": [
+                "Ephedra"
+            ]
+        },
+        "Ephedra torreyana": {
+            "label": "Ephedra torreyana",
+            "description": "Ephedra torreyana, with common names Torrey's jointfir or Torrey's Mormon tea, is a species of Ephedra that is native to the deserts and scrublands of the Southwestern United States and northern Mexico. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Ephedra torreyana"
             ],
             "Rank ": [
                 "Species"
@@ -258,6 +272,20 @@
             ],
             "Rank ": [
                 "Species"
+            ]
+        },
+        "Gnetum africanum": {
+            "label": "Gnetum africanum",
+            "description": "Gnetum africanum is a vine gymnosperm species found natively throughout tropical Africa. Though bearing leaves, the genus Gnetum are gymnosperms, related to pine and other conifers. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Gnetum africanum"
+            ],
+            "Rank ": [
+                "Species"
+            ],
+            "Higher classification ": [
+                "Gnetum"
             ]
         },
         "Gnetum": {
@@ -290,34 +318,6 @@
                 "Species"
             ],
             "People also search for": []
-        },
-        "Ephedra trifurca": {
-            "label": "Ephedra trifurca",
-            "description": "Ephedra trifurca is a species of Ephedra known by the common names longleaf jointfir and Mexican tea. It is native to many of the northern states of Mexico and the southwestern United States, where it is a resident of desert scrub plant communities. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Ephedra trifurca"
-            ],
-            "Rank ": [
-                "Species"
-            ],
-            "Higher classification ": [
-                "Ephedra"
-            ]
-        },
-        "Gnetum africanum": {
-            "label": "Gnetum africanum",
-            "description": "Gnetum africanum is a vine gymnosperm species found natively throughout tropical Africa. Though bearing leaves, the genus Gnetum are gymnosperms, related to pine and other conifers. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Gnetum africanum"
-            ],
-            "Rank ": [
-                "Species"
-            ],
-            "Higher classification ": [
-                "Gnetum"
-            ]
         },
         "Ephedra (genus)": {
             "label": "Ephedra",
@@ -359,17 +359,17 @@
         "label": 24,
         "description": 24,
         "type": 24,
-        "Scientific name ": 24,
-        "Higher classification ": 21,
-        "Rank ": 23,
-        "Lower classifications ": 2,
-        "See results about": 1,
-        "People also search for": 1
+        "scientific_name": 1,
+        "higher_classification": 1,
+        "rank": 1,
+        "lower_classifications": 1,
+        "see_results_about": 1,
+        "people_also_search_for": 1
     },
     "infoboxless": [
+        "Ephedra holoptera",
         "Ephedra lomatolepis",
         "Ephedra monosperma",
-        "Gnetum cleistostachyum",
-        "Ephedra holoptera"
+        "Gnetum cleistostachyum"
     ]
 }

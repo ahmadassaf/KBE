@@ -52,23 +52,6 @@
             ],
             "See results about": []
         },
-        "AEG C.VII": {
-            "label": "AEG C.VII",
-            "description": "The AEG C.VII was a prototype two-seat biplane reconnaissance aircraft of World War I. It was developed from the C.IV but did not enter production. Wikipedia",
-            "type": "",
-            "Top speed ": [
-                "103 mph (165 km/h)"
-            ],
-            "Length ": [
-                "20' 4\" (6.20 m)"
-            ],
-            "Wingspan ": [
-                "36' (11 m)"
-            ],
-            "Manufacturer ": [
-                "AEG"
-            ]
-        },
         "AEG C.III": {
             "label": "AEG C.III",
             "description": "The AEG C.III was a two-seat biplane reconnaissance aircraft, a single prototype of which was built during World War I. Wikipedia",
@@ -86,6 +69,23 @@
                 "AEG"
             ],
             "See results about": []
+        },
+        "AEG C.VII": {
+            "label": "AEG C.VII",
+            "description": "The AEG C.VII was a prototype two-seat biplane reconnaissance aircraft of World War I. It was developed from the C.IV but did not enter production. Wikipedia",
+            "type": "",
+            "Top speed ": [
+                "103 mph (165 km/h)"
+            ],
+            "Length ": [
+                "20' 4\" (6.20 m)"
+            ],
+            "Wingspan ": [
+                "36' (11 m)"
+            ],
+            "Manufacturer ": [
+                "AEG"
+            ]
         },
         "AEG C.VIII": {
             "label": "AEG C.VIII",
@@ -136,29 +136,6 @@
             "type": "",
             "See results about": []
         },
-        "Aero A.10": {
-            "label": "Aero A.10",
-            "description": "The Aero Letňany A.10 was a biplane airliner produced in Czechoslovakia shortly after World War I. It was the first commercial aircraft to be built in Czechoslovakia and was known as the Ae-10 Limousine. Wikipedia",
-            "type": "",
-            "Top speed ": [
-                "99 mph (160 km/h)"
-            ],
-            "Length ": [
-                "33' (10 m)"
-            ],
-            "Wingspan ": [
-                "46' (14 m)"
-            ],
-            "First flight ": [
-                "1921"
-            ],
-            "Retired ": [
-                "1928"
-            ],
-            "Manufacturer ": [
-                "Aero Vodochody"
-            ]
-        },
         "AeroVironment RQ-14 Dragon Eye": {
             "label": "AeroVironment RQ-14 Dragon Eye",
             "description": "The Dragon Eye Unmanned Aerial Vehicle is a small reconnaissance UAV developed by the Naval Research Laboratory and the Marine Corps Warfighting Laboratory for use by the U.S. Marine Corps. Wikipedia",
@@ -183,6 +160,29 @@
             ],
             "Manufacturer ": [
                 "AeroVironment"
+            ]
+        },
+        "Aero A.10": {
+            "label": "Aero A.10",
+            "description": "The Aero Letňany A.10 was a biplane airliner produced in Czechoslovakia shortly after World War I. It was the first commercial aircraft to be built in Czechoslovakia and was known as the Ae-10 Limousine. Wikipedia",
+            "type": "",
+            "Top speed ": [
+                "99 mph (160 km/h)"
+            ],
+            "Length ": [
+                "33' (10 m)"
+            ],
+            "Wingspan ": [
+                "46' (14 m)"
+            ],
+            "First flight ": [
+                "1921"
+            ],
+            "Retired ": [
+                "1928"
+            ],
+            "Manufacturer ": [
+                "Aero Vodochody"
             ]
         },
         "Aero A.100": {
@@ -254,6 +254,23 @@
                 "Aero Vodochody"
             ]
         },
+        "Aero A.14": {
+            "label": "Aero A.14",
+            "description": "The Aero A.14 was a Czechoslovakian biplane military reconnaissance aircraft built in the 1920s. It was essentially a slightly modified version of the Hansa-Brandenburg B.I aircraft that Aero had been ... Wikipedia",
+            "type": "",
+            "Top speed ": [
+                "111 mph (179 km/h)"
+            ],
+            "Length ": [
+                "28' (8.40 m)"
+            ],
+            "Wingspan ": [
+                "40' (12 m)"
+            ],
+            "Manufacturer ": [
+                "Aero Vodochody"
+            ]
+        },
         "Aero A.12": {
             "label": "Aero A.12",
             "description": "The Aero A.12 was a Czechoslovakian biplane light bomber and military reconnaissance aircraft manufactured in small numbers shortly after World War I. Wikipedia",
@@ -275,23 +292,6 @@
             "label": "Aero A.18",
             "description": "The Aero A.18 was a biplane fighter aircraft built in Czechoslovakia in the 1920s. It was a development of the Ae 02 and Ae 04 fighters Aero had designed during World War I, but also borrowed from the more recent A.11 reconnaissance-bomber design. Wikipedia",
             "type": ""
-        },
-        "Aero A.14": {
-            "label": "Aero A.14",
-            "description": "The Aero A.14 was a Czechoslovakian biplane military reconnaissance aircraft built in the 1920s. It was essentially a slightly modified version of the Hansa-Brandenburg B.I aircraft that Aero had been ... Wikipedia",
-            "type": "",
-            "Top speed ": [
-                "111 mph (179 km/h)"
-            ],
-            "Length ": [
-                "28' (8.40 m)"
-            ],
-            "Wingspan ": [
-                "40' (12 m)"
-            ],
-            "Manufacturer ": [
-                "Aero Vodochody"
-            ]
         },
         "Aero A.200": {
             "label": "Aero A.200",
@@ -334,6 +334,11 @@
             ],
             "See results about": []
         },
+        "Aero A.300": {
+            "label": "Aero A.300",
+            "description": "The Aero A.300 was a Czechoslovakian bomber aircraft that first flew in 1938 as a much refined development of the A.304. Despite showing much promise, development and production of the aircraft was interrupted by the outbreak of World War II. Wikipedia",
+            "type": ""
+        },
         "Aero A.23": {
             "label": "Aero A.23",
             "description": "The Aero A.23 was a Czechoslovakian biplane airliner of the 1920s. Aero's previous airliner design, the A.10 had been a relatively crude machine drawing heavily on World War I military aircraft. Wikipedia",
@@ -357,10 +362,23 @@
                 "Aero Vodochody"
             ]
         },
-        "Aero A.300": {
-            "label": "Aero A.300",
-            "description": "The Aero A.300 was a Czechoslovakian bomber aircraft that first flew in 1938 as a much refined development of the A.304. Despite showing much promise, development and production of the aircraft was interrupted by the outbreak of World War II. Wikipedia",
-            "type": ""
+        "Aero A.304": {
+            "label": "Aero A.304",
+            "description": "The Aero A.304 was a Czechoslovakian bomber aircraft that first flew in 1937. It had originally been developed as an airliner, the A.204, but when Aero could not find buyers for the design, it was ... Wikipedia",
+            "type": "",
+            "Top speed ": [
+                "200 mph (322 km/h)"
+            ],
+            "Length ": [
+                "43' (13 m)"
+            ],
+            "Wingspan ": [
+                "63' (19 m)"
+            ],
+            "Manufacturers ": [
+                "Avia",
+                " Aero Vodochody"
+            ]
         },
         "Aero A.32": {
             "label": "Aero A.32",
@@ -380,24 +398,6 @@
             ],
             "Manufacturer ": [
                 "Aero Vodochody"
-            ]
-        },
-        "Aero A.304": {
-            "label": "Aero A.304",
-            "description": "The Aero A.304 was a Czechoslovakian bomber aircraft that first flew in 1937. It had originally been developed as an airliner, the A.204, but when Aero could not find buyers for the design, it was ... Wikipedia",
-            "type": "",
-            "Top speed ": [
-                "200 mph (322 km/h)"
-            ],
-            "Length ": [
-                "43' (13 m)"
-            ],
-            "Wingspan ": [
-                "63' (19 m)"
-            ],
-            "Manufacturers ": [
-                "Avia",
-                " Aero Vodochody"
             ]
         },
         "Aero A.35": {
@@ -426,34 +426,6 @@
             "label": "Aero A.42",
             "description": "The Aero A.42 was a Czechoslovakian bomber aircraft of 1929 that was only ever produced in prototype form. For its day, it was an advanced design, with a sleek monoplane configuration. Wikipedia",
             "type": ""
-        },
-        "Aero L-29 Delfín": {
-            "label": "Aero L-29 Delfín",
-            "description": "The Aero L-29 Delfín is a military jet trainer aircraft that became the standard jet trainer for the air forces of Warsaw Pact nations in the 1960s. It was Czechoslovakia's first locally designed and built jet aircraft. Wikipedia",
-            "type": "",
-            "Top speed ": [
-                "407 mph (655 km/h)"
-            ],
-            "Range ": [
-                "556 miles (894 km)"
-            ],
-            "Length ": [
-                "35' (11 m)"
-            ],
-            "Wingspan ": [
-                "34' (10 m)"
-            ],
-            "Weight ": [
-                "5",
-                "027 lbs (2",
-                "280 kg)"
-            ],
-            "Cruise speed ": [
-                "280 mph (450 km/h)"
-            ],
-            "Engine type ": [
-                "Motorlet M-701"
-            ]
         },
         "Aero Ae 01": {
             "label": "Aero Ae 01",
@@ -489,6 +461,34 @@
             "Manufacturers ": [
                 "Aero Vodochody",
                 " Let Kunovice"
+            ]
+        },
+        "Aero L-29 Delfín": {
+            "label": "Aero L-29 Delfín",
+            "description": "The Aero L-29 Delfín is a military jet trainer aircraft that became the standard jet trainer for the air forces of Warsaw Pact nations in the 1960s. It was Czechoslovakia's first locally designed and built jet aircraft. Wikipedia",
+            "type": "",
+            "Top speed ": [
+                "407 mph (655 km/h)"
+            ],
+            "Range ": [
+                "556 miles (894 km)"
+            ],
+            "Length ": [
+                "35' (11 m)"
+            ],
+            "Wingspan ": [
+                "34' (10 m)"
+            ],
+            "Weight ": [
+                "5",
+                "027 lbs (2",
+                "280 kg)"
+            ],
+            "Cruise speed ": [
+                "280 mph (450 km/h)"
+            ],
+            "Engine type ": [
+                "Motorlet M-701"
             ]
         },
         "Aichi B7A": {
@@ -529,51 +529,6 @@
             ],
             "Manufacturer ": [
                 "Aichi Kokuki"
-            ]
-        },
-        "Aero Spacelines Super Guppy": {
-            "label": "Aero Spacelines Super Guppy",
-            "description": "The Aero Spacelines Super Guppy is a large, wide-bodied cargo aircraft that is used for hauling outsized cargo components. It was the successor to the Pregnant Guppy, the first of the Guppy aircraft produced by Aero Spacelines. Wikipedia",
-            "type": "",
-            "Top speed ": [
-                "288 mph (463 km/h)"
-            ],
-            "Range ": [
-                "2",
-                "000 miles (3",
-                "219 km)"
-            ],
-            "Length ": [
-                "144' (44 m)"
-            ],
-            "Wingspan ": [
-                "156' (48 m)"
-            ],
-            "Weight ": [
-                "101",
-                "500 lbs (46",
-                "040 kg)"
-            ],
-            "Cruise speed ": [
-                "253 mph (407 km/h)"
-            ],
-            "Engine type ": [
-                "Turboprop"
-            ],
-            "See results about": []
-        },
-        "Aichi E11A": {
-            "label": "Aichi E11A",
-            "description": "The Aichi E11A was an Imperial Japanese Navy flying boat used during the first year of World War II for maritime patrol duties. The Allied reporting name for the type was \"Laura\"; the Japanese Navy designation was \"Type 98 Reconnaissance Seaplane\". Wikipedia",
-            "type": "",
-            "Top speed ": [
-                "135 mph (217 km/h)"
-            ],
-            "Length ": [
-                "35' (11 m)"
-            ],
-            "Wingspan ": [
-                "48' (14 m)"
             ]
         },
         "Aichi D3A": {
@@ -625,6 +580,51 @@
                 "Aichi Kokuki"
             ]
         },
+        "Aero Spacelines Super Guppy": {
+            "label": "Aero Spacelines Super Guppy",
+            "description": "The Aero Spacelines Super Guppy is a large, wide-bodied cargo aircraft that is used for hauling outsized cargo components. It was the successor to the Pregnant Guppy, the first of the Guppy aircraft produced by Aero Spacelines. Wikipedia",
+            "type": "",
+            "Top speed ": [
+                "288 mph (463 km/h)"
+            ],
+            "Range ": [
+                "2",
+                "000 miles (3",
+                "219 km)"
+            ],
+            "Length ": [
+                "144' (44 m)"
+            ],
+            "Wingspan ": [
+                "156' (48 m)"
+            ],
+            "Weight ": [
+                "101",
+                "500 lbs (46",
+                "040 kg)"
+            ],
+            "Cruise speed ": [
+                "253 mph (407 km/h)"
+            ],
+            "Engine type ": [
+                "Turboprop"
+            ],
+            "See results about": []
+        },
+        "Aichi E11A": {
+            "label": "Aichi E11A",
+            "description": "The Aichi E11A was an Imperial Japanese Navy flying boat used during the first year of World War II for maritime patrol duties. The Allied reporting name for the type was \"Laura\"; the Japanese Navy designation was \"Type 98 Reconnaissance Seaplane\". Wikipedia",
+            "type": "",
+            "Top speed ": [
+                "135 mph (217 km/h)"
+            ],
+            "Length ": [
+                "35' (11 m)"
+            ],
+            "Wingspan ": [
+                "48' (14 m)"
+            ]
+        },
         "Aichi H9A": {
             "label": "Aichi H9A",
             "description": "The Aichi H9A was an Imperial Japanese Navy Air Service flying boat used during the first years of World War II for crew training. Wikipedia",
@@ -641,11 +641,6 @@
             "Manufacturer ": [
                 "Aichi Kokuki"
             ]
-        },
-        "Aichi E16A": {
-            "label": "Aichi E16A",
-            "description": "The Aichi E16A Zuiun was a two-seat reconnaissance seaplane operated by the Imperial Japanese Navy during World War II. Wikipedia",
-            "type": ""
         },
         "Aichi M6A": {
             "label": "Aichi M6A1",
@@ -709,6 +704,40 @@
             ],
             "See results about": []
         },
+        "Airbus A330 MRTT": {
+            "label": "Airbus A330 MRTT",
+            "description": "The Airbus A330 Multi Role Tanker Transport is an aerial refuelling tanker aircraft based on the civilian Airbus Airbus A330. Wikipedia",
+            "type": "",
+            "Top speed ": [
+                "547 mph (880 km/h)"
+            ],
+            "Range ": [
+                "9",
+                "196 miles (14",
+                "800 km)"
+            ],
+            "Length ": [
+                "193' (59 m)"
+            ],
+            "Wingspan ": [
+                "198' (60 m)"
+            ],
+            "Cruise speed ": [
+                "534 mph (860 km/h)"
+            ],
+            "Engine type ": [
+                "Turbofan"
+            ],
+            "Manufacturers ": [
+                "Airbus Military",
+                " Airbus"
+            ]
+        },
+        "Aichi E16A": {
+            "label": "Aichi E16A",
+            "description": "The Aichi E16A Zuiun was a two-seat reconnaissance seaplane operated by the Imperial Japanese Navy during World War II. Wikipedia",
+            "type": ""
+        },
         "Airbus A400M": {
             "label": "Airbus A400M Atlas",
             "description": "The Airbus A400M Atlas is a multi-national four-engine turboprop military transport aircraft. It was designed by Airbus Military as a tactical airlifter with strategic capabilities. Wikipedia",
@@ -743,34 +772,11 @@
                 "800 USD (2010)"
             ]
         },
-        "Airbus A330 MRTT": {
-            "label": "Airbus A330 MRTT",
-            "description": "The Airbus A330 Multi Role Tanker Transport is an aerial refuelling tanker aircraft based on the civilian Airbus Airbus A330. Wikipedia",
+        "Airbus CC-150 Polaris": {
+            "label": "Airbus CC-150 Polaris",
+            "description": "The Airbus CC-150 Polaris is the designation for the civilian Airbus A310-300s which have been converted for use as the primary long distance transport aircraft for the Royal Canadian Air Force. Wikipedia",
             "type": "",
-            "Top speed ": [
-                "547 mph (880 km/h)"
-            ],
-            "Range ": [
-                "9",
-                "196 miles (14",
-                "800 km)"
-            ],
-            "Length ": [
-                "193' (59 m)"
-            ],
-            "Wingspan ": [
-                "198' (60 m)"
-            ],
-            "Cruise speed ": [
-                "534 mph (860 km/h)"
-            ],
-            "Engine type ": [
-                "Turbofan"
-            ],
-            "Manufacturers ": [
-                "Airbus Military",
-                " Airbus"
-            ]
+            "See results about": []
         },
         "Airco DH.1": {
             "label": "Airco DH.1",
@@ -799,6 +805,29 @@
             ],
             "See results about": []
         },
+        "Airco DH.4": {
+            "label": "Airco DH.4",
+            "description": "The Airco DH.4 was a British two-seat biplane day-bomber of the First World War. It was designed by Geoffrey de Havilland for Airco, and was the first British two seat light day-bomber to have an effective defensive armament. Wikipedia",
+            "type": ""
+        },
+        "Airspeed Oxford": {
+            "label": "Airspeed Oxford",
+            "description": "The Airspeed AS.10 Oxford was a twin-engine aircraft used for training British Commonwealth aircrews in navigation, radio-operating, bombing and gunnery during the Second World War. Wikipedia",
+            "type": "",
+            "Top speed ": [
+                "192 mph (309 km/h)"
+            ],
+            "Length ": [
+                "35' (11 m)"
+            ],
+            "Wingspan ": [
+                "53' (16 m)"
+            ],
+            "First flight ": "June 19, 1937",
+            "Manufacturer ": [
+                "Airspeed Ltd."
+            ]
+        },
         "Airco DH.2": {
             "label": "Airco DH.2",
             "description": "The Airco DH.2 was a single-seat biplane \"pusher\" aircraft which operated as a fighter during the First World War. It was the second pusher design by Geoffrey de Havilland for Airco, based on his earlier DH.1 two-seater. Wikipedia",
@@ -825,11 +854,6 @@
             "Engine type ": [
                 "Rotary engine"
             ]
-        },
-        "Airco DH.4": {
-            "label": "Airco DH.4",
-            "description": "The Airco DH.4 was a British two-seat biplane day-bomber of the First World War. It was designed by Geoffrey de Havilland for Airco, and was the first British two seat light day-bomber to have an effective defensive armament. Wikipedia",
-            "type": ""
         },
         "Airco DH.9": {
             "label": "Airco DH.9",
@@ -859,24 +883,6 @@
                 "Siddeley Puma"
             ],
             "See results about": []
-        },
-        "Airspeed Oxford": {
-            "label": "Airspeed Oxford",
-            "description": "The Airspeed AS.10 Oxford was a twin-engine aircraft used for training British Commonwealth aircrews in navigation, radio-operating, bombing and gunnery during the Second World War. Wikipedia",
-            "type": "",
-            "Top speed ": [
-                "192 mph (309 km/h)"
-            ],
-            "Length ": [
-                "35' (11 m)"
-            ],
-            "Wingspan ": [
-                "53' (16 m)"
-            ],
-            "First flight ": "June 19, 1937",
-            "Manufacturer ": [
-                "Airspeed Ltd."
-            ]
         },
         "Albatros C.III": {
             "label": "Albatros C.III",
@@ -1041,6 +1047,11 @@
                 "Turbomeca Makila"
             ]
         },
+        "Avia B-135": {
+            "label": "Avia B-135",
+            "description": "The Avia B.135 was a Czechoslovak cantilever monoplane fighter aircraft. It was the production version of the Avia B.35 developed shortly before the war, based on the B.35/3 prototype but featuring a new all-metal wing. Wikipedia",
+            "type": ""
+        },
         "Avia B-534": {
             "label": "Avia B-534",
             "description": "The Avia B-534 is a Czechoslovak biplane produced during the period between the Great War and World War II. Wikipedia",
@@ -1065,17 +1076,6 @@
                 "František Novotný"
             ]
         },
-        "Avia B-135": {
-            "label": "Avia B-135",
-            "description": "The Avia B.135 was a Czechoslovak cantilever monoplane fighter aircraft. It was the production version of the Avia B.35 developed shortly before the war, based on the B.35/3 prototype but featuring a new all-metal wing. Wikipedia",
-            "type": ""
-        },
-        "Airbus CC-150 Polaris": {
-            "label": "Airbus CC-150 Polaris",
-            "description": "The Airbus CC-150 Polaris is the designation for the civilian Airbus A310-300s which have been converted for use as the primary long distance transport aircraft for the Royal Canadian Air Force. Wikipedia",
-            "type": "",
-            "See results about": []
-        },
         "Avia B.122": {
             "label": "Avia B.122",
             "description": "The Avia B.122 Vosa was a Czechoslovak single-seat biplane trainer aircraft, which was developed in the mid-1930s. It saw some service in the first years of World War II. Wikipedia",
@@ -1097,6 +1097,26 @@
             "label": "Avia B.35",
             "description": "The Avia B.35 was a fighter aircraft built in Czechoslovakia shortly before World War II. It was designed to meet a 1935 requirement by the Czechoslovakian Air Force for a replacement for their B-534 fighter biplanes. Wikipedia",
             "type": ""
+        },
+        "Avia BH-21": {
+            "label": "Avia BH-21",
+            "description": "The Avia BH-21, first built in 1925, was a robust biplane that served an important role in securing Czechoslovak national security during the period between World War I and World War II. Wikipedia",
+            "type": "",
+            "Top speed ": [
+                "152 mph (245 km/h)"
+            ],
+            "Length ": [
+                "22' 6\" (6.87 m)"
+            ],
+            "Wingspan ": [
+                "29' (8.90 m)"
+            ],
+            "First flight ": [
+                "January 1925"
+            ],
+            "Manufacturer ": [
+                "Avia"
+            ]
         },
         "Avia BH-25": {
             "label": "Avia BH-25",
@@ -1136,26 +1156,6 @@
             ],
             "Retired ": [
                 "1927"
-            ],
-            "Manufacturer ": [
-                "Avia"
-            ]
-        },
-        "Avia BH-21": {
-            "label": "Avia BH-21",
-            "description": "The Avia BH-21, first built in 1925, was a robust biplane that served an important role in securing Czechoslovak national security during the period between World War I and World War II. Wikipedia",
-            "type": "",
-            "Top speed ": [
-                "152 mph (245 km/h)"
-            ],
-            "Length ": [
-                "22' 6\" (6.87 m)"
-            ],
-            "Wingspan ": [
-                "29' (8.90 m)"
-            ],
-            "First flight ": [
-                "January 1925"
             ],
             "Manufacturer ": [
                 "Avia"
@@ -1219,6 +1219,11 @@
                 "Avia"
             ]
         },
+        "Avia BH-7": {
+            "label": "Avia BH-7",
+            "description": "The Avia BH-7 was a prototype fighter aircraft built in Czechoslovakia in 1923. It was a parasol-wing monoplane developed in tandem with and as an alternative to the BH-6, which shared its fuselage and tail design. Wikipedia",
+            "type": ""
+        },
         "Avia BH-9": {
             "label": "Avia BH-9",
             "description": "The Avia BH-9 was a one-seat sport aircraft built in Czechoslovakia in 1923, based on the BH-5. As with other developments in the BH-1 lineage, the BH-9 was a low-wing braced monoplane that accommodated ... Wikipedia",
@@ -1235,11 +1240,6 @@
             "Manufacturer ": [
                 "Avia"
             ]
-        },
-        "Avia BH-7": {
-            "label": "Avia BH-7",
-            "description": "The Avia BH-7 was a prototype fighter aircraft built in Czechoslovakia in 1923. It was a parasol-wing monoplane developed in tandem with and as an alternative to the BH-6, which shared its fuselage and tail design. Wikipedia",
-            "type": ""
         },
         "Aviation Traders Carvair": {
             "label": "Aviation Traders Carvair",
@@ -1579,36 +1579,6 @@
             "description": "The Baade 152 also known as Dresden 152, VL-DDR 152 or simply 152 was the first German jet passenger airliner. It was built and tested in Dresden between 1956 and 1961, but failed to enter service. Wikipedia",
             "type": ""
         },
-        "Bede BD-5": {
-            "label": "Bede BD-5",
-            "description": "The BD-5 Micro is a series of small, single-seat homebuilt aircraft created in the late 1960s by US aircraft designer Jim Bede and introduced to the market primarily in \"kit\" form by the now-defunct Bede Aircraft Corporation in the early 1970s. Wikipedia",
-            "type": "",
-            "Top speed ": [
-                "212 mph (341 km/h)"
-            ],
-            "Range ": [
-                "1",
-                "010 miles (1",
-                "625 km)"
-            ],
-            "Length ": [
-                "13' 4\" (4.06 m)"
-            ],
-            "Wingspan ": [
-                "14' 5\" (4.40 m)"
-            ],
-            "Unit cost ": [
-                "2",
-                "675–2",
-                "875 USD (1970)"
-            ],
-            "Designer ": [
-                "Jim Bede"
-            ],
-            "Manufacturer ": [
-                "Bede Aircraft"
-            ]
-        },
         "Bartini Beriev VVA-14": {
             "label": "Bartini Beriev VVA-14",
             "description": "The Bartini Beriev VVA-14 Vertikal`no-Vzletayuschaya Amphibia was developed in the Soviet Union during the 1970s. Wikipedia",
@@ -1639,6 +1609,36 @@
                 "Turbofan"
             ]
         },
+        "Bede BD-5": {
+            "label": "Bede BD-5",
+            "description": "The BD-5 Micro is a series of small, single-seat homebuilt aircraft created in the late 1960s by US aircraft designer Jim Bede and introduced to the market primarily in \"kit\" form by the now-defunct Bede Aircraft Corporation in the early 1970s. Wikipedia",
+            "type": "",
+            "Top speed ": [
+                "212 mph (341 km/h)"
+            ],
+            "Range ": [
+                "1",
+                "010 miles (1",
+                "625 km)"
+            ],
+            "Length ": [
+                "13' 4\" (4.06 m)"
+            ],
+            "Wingspan ": [
+                "14' 5\" (4.40 m)"
+            ],
+            "Unit cost ": [
+                "2",
+                "675–2",
+                "875 USD (1970)"
+            ],
+            "Designer ": [
+                "Jim Bede"
+            ],
+            "Manufacturer ": [
+                "Bede Aircraft"
+            ]
+        },
         "Beechcraft Baron": {
             "label": "Beechcraft Baron",
             "description": "The Beechcraft Baron is a light, twin-engined piston aircraft developed by Beechcraft. The Baron is a variant of the Travel Air, and was introduced in 1961. Wikipedia",
@@ -1662,12 +1662,6 @@
                 "095",
                 "000 USD (2012)"
             ]
-        },
-        "Beechcraft King Air": {
-            "label": "Beechcraft King Air",
-            "description": "The Beechcraft King Air family is part of a line of twin-turboprop aircraft produced by Beechcraft. The King Air line comprises a number of models that have been divided into two families; the Model 90 ... Wikipedia",
-            "type": "",
-            "See results about": []
         },
         "Beechcraft Model 99": {
             "label": "Beechcraft Model 99",
@@ -1697,39 +1691,6 @@
             ],
             "Engine type ": [
                 "Pratt & Whitney Canada PT6"
-            ]
-        },
-        "Beechcraft T-6 Texan II": {
-            "label": "Beechcraft T-6 Texan II",
-            "description": "The Beechcraft T-6 Texan II is a single-engined turboprop aircraft built by the Raytheon Aircraft Company. Wikipedia",
-            "type": "",
-            "Top speed ": [
-                "364 mph (585 km/h)"
-            ],
-            "Range ": [
-                "1",
-                "036 miles (1",
-                "667 km)"
-            ],
-            "Length ": [
-                "33' (10 m)"
-            ],
-            "Wingspan ": [
-                "33' (10 m)"
-            ],
-            "Unit cost ": [
-                "3",
-                "900",
-                "000–6",
-                "000",
-                "000 USD"
-            ],
-            "Engine type ": [
-                "Pratt & Whitney Canada PT6"
-            ],
-            "Manufacturers ": [
-                "Hawker Beechcraft",
-                " Beechcraft"
             ]
         },
         "Bell Boeing V-22 Osprey": {
@@ -1765,26 +1726,58 @@
                 " Boeing Rotorcraft Systems"
             ]
         },
-        "Bell X-14": {
-            "label": "Bell X-14",
-            "description": "The Bell X-14 was an experimental VTOL aircraft flown in the United States in the 1950s. The main objective of the project was to demonstrate horizontal and vertical takeoff, hover, transition to forward flight, and vertical landing. Wikipedia",
+        "Beechcraft King Air": {
+            "label": "Beechcraft King Air",
+            "description": "The Beechcraft King Air family is part of a line of twin-turboprop aircraft produced by Beechcraft. The King Air line comprises a number of models that have been divided into two families; the Model 90 ... Wikipedia",
+            "type": "",
+            "See results about": []
+        },
+        "Beechcraft T-6 Texan II": {
+            "label": "Beechcraft T-6 Texan II",
+            "description": "The Beechcraft T-6 Texan II is a single-engined turboprop aircraft built by the Raytheon Aircraft Company. Wikipedia",
             "type": "",
             "Top speed ": [
-                "172 mph (277 km/h)"
+                "364 mph (585 km/h)"
+            ],
+            "Range ": [
+                "1",
+                "036 miles (1",
+                "667 km)"
             ],
             "Length ": [
-                "25' 0\" (7.62 m)"
+                "33' (10 m)"
             ],
             "Wingspan ": [
-                "34' (10 m)"
+                "33' (10 m)"
             ],
-            "First flight ": "February 19, 1957",
-            "Retired ": "May 29, 1981",
+            "Unit cost ": [
+                "3",
+                "900",
+                "000–6",
+                "000",
+                "000 USD"
+            ],
             "Engine type ": [
-                "Armstrong Siddeley Viper"
+                "Pratt & Whitney Canada PT6"
+            ],
+            "Manufacturers ": [
+                "Hawker Beechcraft",
+                " Beechcraft"
+            ]
+        },
+        "Bell UH-1 Iroquois": {
+            "label": "Bell UH-1 Iroquois",
+            "description": "The Bell UH-1 Iroquois is a military helicopter powered by a single, turboshaft engine, with a two-bladed main rotor and tail rotor. Wikipedia",
+            "type": "",
+            "First flight ": "October 20, 1956",
+            "Introduced ": [
+                "1959"
+            ],
+            "Engine type ": [
+                "Turboshaft"
             ],
             "Manufacturer ": [
-                "Bell Aircraft"
+                "Bell Helicopter"
             ]
         },
         "Bell X-16": {
@@ -1817,54 +1810,61 @@
                 "Bell Aircraft"
             ]
         },
+        "Bell X-14": {
+            "label": "Bell X-14",
+            "description": "The Bell X-14 was an experimental VTOL aircraft flown in the United States in the 1950s. The main objective of the project was to demonstrate horizontal and vertical takeoff, hover, transition to forward flight, and vertical landing. Wikipedia",
+            "type": "",
+            "Top speed ": [
+                "172 mph (277 km/h)"
+            ],
+            "Length ": [
+                "25' 0\" (7.62 m)"
+            ],
+            "Wingspan ": [
+                "34' (10 m)"
+            ],
+            "First flight ": "February 19, 1957",
+            "Retired ": "May 29, 1981",
+            "Engine type ": [
+                "Armstrong Siddeley Viper"
+            ],
+            "Manufacturer ": [
+                "Bell Aircraft"
+            ]
+        },
         "Bell XFL Airabonita": {
             "label": "Bell XFL Airabonita",
             "description": "The Bell XFL Airabonita was a United States experimental shipboard interceptor aircraft developed for the United States Navy by Bell Aircraft. Wikipedia",
             "type": ""
-        },
-        "Bell UH-1 Iroquois": {
-            "label": "Bell UH-1 Iroquois",
-            "description": "The Bell UH-1 Iroquois is a military helicopter powered by a single, turboshaft engine, with a two-bladed main rotor and tail rotor. Wikipedia",
-            "type": "",
-            "First flight ": "October 20, 1956",
-            "Introduced ": [
-                "1959"
-            ],
-            "Engine type ": [
-                "Turboshaft"
-            ],
-            "Manufacturer ": [
-                "Bell Helicopter"
-            ]
         }
     },
     "summary": {
         "label": 93,
         "description": 93,
         "type": 93,
-        "Length ": 74,
-        "Wingspan ": 73,
-        "Top speed ": 72,
-        "Range ": 20,
-        "Weight ": 18,
-        "Engine type ": 27,
-        "Manufacturer ": 55,
-        "First flight ": 39,
-        "Introduced ": 11,
-        "See results about": 12,
-        "Retired ": 16,
-        "Cruise speed ": 9,
-        "Manufacturers ": 7,
-        "Unit cost ": 5,
-        "Designer ": 8
+        "length": 1,
+        "wingspan": 1,
+        "top_speed": 1,
+        "range": 1,
+        "weight": 1,
+        "engine_type": 1,
+        "manufacturer": 1,
+        "first_flight": 1,
+        "introduced": 1,
+        "see_results_about": 1,
+        "cruise_speed": 1,
+        "retired": 1,
+        "manufacturers": 1,
+        "unit_cost": 1,
+        "designer": 1
     },
     "infoboxless": [
-        "AVIA FL.3",
-        "AGO Ao 192",
-        "Applebay Zuni",
-        "Avro Avis",
         "ABC Robin",
+        "AEG G.III",
+        "AGO Ao 192",
+        "AVIA FL.3",
         "Aero A.101",
-        "AEG G.III"
+        "Applebay Zuni",
+        "Avro Avis"
     ]
 }

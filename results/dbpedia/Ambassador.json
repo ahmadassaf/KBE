@@ -1,5 +1,13 @@
 {
     "instances": {
+        "Baron Karl von Macchio": {
+            "label": "Baron Karl von Macchio",
+            "description": "Karl Freiherr von Macchio, was an Austro-Hungarian diplomat active before and during World War I. Wikipedia",
+            "type": "",
+            "Born ": "February 23, 1859, Sibiu, Romania",
+            "Died ": "April 1, 1945, Vienna, Austria",
+            "People also search for": []
+        },
         "Charles Cotesworth Pinckney": {
             "label": "Charles Cotesworth Pinckney",
             "description": "Charles Cotesworth \"C. C.\" Pinckney, was an early American statesman of South Carolina, Revolutionary War veteran, and delegate to the Constitutional Convention. Wikipedia",
@@ -23,6 +31,16 @@
             ],
             "People also search for": []
         },
+        "Richard W. Graber": {
+            "label": "Richard W. Graber",
+            "description": "Richard W. Graber is an American lawyer from Wisconsin and Republican politician, who served as United States Ambassador to the Czech Republic from 2006-2009. He was appointed by George W. Bush on September 14, 2006. Wikipedia",
+            "type": "Lawyer",
+            "Education ": [
+                "Boston University",
+                " Duke University"
+            ],
+            "People also search for": []
+        },
         "Thomas R. Pickering": {
             "label": "Thomas R. Pickering",
             "description": "Thomas Reeve \"Tom\" Pickering, is a retired United States ambassador. Among his many diplomatic appointments, he served as U.S. Ambassador to the United Nations from 1989 to 1992. Wikipedia",
@@ -36,6 +54,25 @@
                 " Bowdoin College",
                 " The Fletcher School of Law and Diplomacy",
                 " University of Melbourne"
+            ],
+            "People also search for": []
+        },
+        "Alfred H. Moses": {
+            "label": "Alfred H. Moses",
+            "description": "Alfred H. Moses is an American attorney and diplomat who served as the U.S. Ambassador to Romania.\nAlfred Moses was born and raised in Baltimore, Maryland. Wikipedia",
+            "type": "Attorney",
+            "Born ": [
+                "1929",
+                " Baltimore",
+                " Maryland",
+                " United States"
+            ],
+            "Education ": [
+                "Woodrow Wilson School of Public and International Affairs",
+                " Princeton University",
+                " Georgetown University",
+                " Baltimore City College",
+                " Dartmouth CollegeMore"
             ],
             "People also search for": []
         },
@@ -66,24 +103,6 @@
             ],
             "People also search for": []
         },
-        "Baron Karl von Macchio": {
-            "label": "Baron Karl von Macchio",
-            "description": "Karl Freiherr von Macchio, was an Austro-Hungarian diplomat active before and during World War I. Wikipedia",
-            "type": "",
-            "Born ": "February 23, 1859, Sibiu, Romania",
-            "Died ": "April 1, 1945, Vienna, Austria",
-            "People also search for": []
-        },
-        "Richard W. Graber": {
-            "label": "Richard W. Graber",
-            "description": "Richard W. Graber is an American lawyer from Wisconsin and Republican politician, who served as United States Ambassador to the Czech Republic from 2006-2009. He was appointed by George W. Bush on September 14, 2006. Wikipedia",
-            "type": "Lawyer",
-            "Education ": [
-                "Boston University",
-                " Duke University"
-            ],
-            "People also search for": []
-        },
         "Anne W. Patterson": {
             "label": "Anne W. Patterson",
             "description": "Anne Woods Patterson is an American diplomat and career Foreign Service Officer. She currently serves as the Assistant Secretary of State for Near Eastern Affairs. Wikipedia",
@@ -108,25 +127,6 @@
             "Education ": [
                 "Harvard Law School",
                 " Harvard University"
-            ],
-            "People also search for": []
-        },
-        "Alfred H. Moses": {
-            "label": "Alfred H. Moses",
-            "description": "Alfred H. Moses is an American attorney and diplomat who served as the U.S. Ambassador to Romania.\nAlfred Moses was born and raised in Baltimore, Maryland. Wikipedia",
-            "type": "Attorney",
-            "Born ": [
-                "1929",
-                " Baltimore",
-                " Maryland",
-                " United States"
-            ],
-            "Education ": [
-                "Woodrow Wilson School of Public and International Affairs",
-                " Princeton University",
-                " Georgetown University",
-                " Baltimore City College",
-                " Dartmouth CollegeMore"
             ],
             "People also search for": []
         },
@@ -163,6 +163,18 @@
             ],
             "People also search for": []
         },
+        "Christopher Meyer": {
+            "label": "Christopher Meyer",
+            "description": "Sir Christopher John Rome Meyer, KCMG is a former British Ambassador to the United States, former Ambassador to Germany and the former chairman of the Press Complaints Commission. Wikipedia",
+            "type": "",
+            "Born ": "February 22, 1944 (age 70), England, United Kingdom",
+            "Education ": [
+                "Johns Hopkins University",
+                " Peterhouse",
+                " Cambridge"
+            ],
+            "People also search for": []
+        },
         "Clay Constantinou": {
             "label": "Clay Constantinou",
             "description": "Clay Constantinou [born in New York, NY] is an American lawyer and diplomat. He served as US Ambassador to Luxembourg from 1994 to 1999 and as Dean of the Whitehead School of Diplomacy at Seton Hall University from 1999 to 2005. Wikipedia",
@@ -179,26 +191,16 @@
             ],
             "People also search for": []
         },
-        "Christopher Meyer": {
-            "label": "Christopher Meyer",
-            "description": "Sir Christopher John Rome Meyer, KCMG is a former British Ambassador to the United States, former Ambassador to Germany and the former chairman of the Press Complaints Commission. Wikipedia",
-            "type": "",
-            "Born ": "February 22, 1944 (age 70), England, United Kingdom",
-            "Education ": [
-                "Johns Hopkins University",
-                " Peterhouse",
-                " Cambridge"
+        "Cynthia G. Efird": {
+            "label": "Cynthia G. Efird",
+            "description": "Cynthia Grissom Efird is an American diplomat and career foreign service officer who served as the United States Ambassador to Angola from 2004 to 2007. She was succeeded by Dan Mozena. Wikipedia",
+            "type": "United States Ambassador to Angola",
+            "Born ": [
+                "United States of America"
             ],
-            "People also search for": []
-        },
-        "Edward B. Lawson": {
-            "label": "Edward B. Lawson",
-            "description": "Edward B. Lawson was a US Ambassador to Israel and Iceland. He was a World War I veteran. Wikipedia",
-            "type": "",
-            "Born ": "September 26, 1895, Newport, Tennessee, United States",
-            "Died ": "November 19, 1962, Washington, D.C., United States",
-            "Spouse ": [
-                "Jean Lawson"
+            "Education ": [
+                "Georgetown University",
+                " Duke University"
             ],
             "People also search for": []
         },
@@ -221,19 +223,6 @@
             ],
             "People also search for": []
         },
-        "Cynthia G. Efird": {
-            "label": "Cynthia G. Efird",
-            "description": "Cynthia Grissom Efird is an American diplomat and career foreign service officer who served as the United States Ambassador to Angola from 2004 to 2007. She was succeeded by Dan Mozena. Wikipedia",
-            "type": "United States Ambassador to Angola",
-            "Born ": [
-                "United States of America"
-            ],
-            "Education ": [
-                "Georgetown University",
-                " Duke University"
-            ],
-            "People also search for": []
-        },
         "Elizabeth Frawley Bagley": {
             "label": "Elizabeth Frawley Bagley",
             "description": "Elizabeth Frawley Bagley is an American attorney specializing in trade and international law, a diplomat, and a major Democratic party donor and fundraiser. Wikipedia",
@@ -241,6 +230,17 @@
             "Born ": "July 13, 1952 (age 61), Elmira, New York, United States",
             "Education ": [
                 "Regis College"
+            ],
+            "People also search for": []
+        },
+        "Edward B. Lawson": {
+            "label": "Edward B. Lawson",
+            "description": "Edward B. Lawson was a US Ambassador to Israel and Iceland. He was a World War I veteran. Wikipedia",
+            "type": "",
+            "Born ": "September 26, 1895, Newport, Tennessee, United States",
+            "Died ": "November 19, 1962, Washington, D.C., United States",
+            "Spouse ": [
+                "Jean Lawson"
             ],
             "People also search for": []
         },
@@ -309,16 +309,6 @@
             ],
             "People also search for": []
         },
-        "Gerald S. McGowan": {
-            "label": "Gerald S. McGowan",
-            "description": "Gerald Stephen \"Jerry\" McGowan is an American lawyer, and diplomat. He was appointed United States Ambassador to Portugal on November 10, 1997, and was sworn in by Vice President Al Gore. Wikipedia",
-            "type": "Lawyer",
-            "Born ": "September 3, 1946 (age 67), United States of America",
-            "Education ": [
-                "Georgetown University"
-            ],
-            "People also search for": []
-        },
         "Gregory W. Engle": {
             "label": "Gregory W. Engle",
             "description": "Gregory W. Engle is a United States Diplomat and former U.S. Ambassador to Togo. He was sworn in as ambassador on May 12, 2003. Greg Engle retired from the U.S. Wikipedia",
@@ -329,17 +319,13 @@
             ],
             "People also search for": []
         },
-        "Gregory J. Newell": {
-            "label": "Gregory J. Newell",
-            "description": "Gregory John Newell currently serves as the President of International Commerce Development Corporation. Wikipedia",
-            "type": "",
-            "Born ": "September 30, 1949 (age 64), Geneseo, Illinois, United States",
-            "Spouse ": [
-                "Candilyn Jones"
-            ],
+        "Gerald S. McGowan": {
+            "label": "Gerald S. McGowan",
+            "description": "Gerald Stephen \"Jerry\" McGowan is an American lawyer, and diplomat. He was appointed United States Ambassador to Portugal on November 10, 1997, and was sworn in by Vice President Al Gore. Wikipedia",
+            "type": "Lawyer",
+            "Born ": "September 3, 1946 (age 67), United States of America",
             "Education ": [
-                "Brigham Young University",
-                " Harvard University"
+                "Georgetown University"
             ],
             "People also search for": []
         },
@@ -356,6 +342,32 @@
                 " Duke University"
             ],
             "Books": []
+        },
+        "Gregory J. Newell": {
+            "label": "Gregory J. Newell",
+            "description": "Gregory John Newell currently serves as the President of International Commerce Development Corporation. Wikipedia",
+            "type": "",
+            "Born ": "September 30, 1949 (age 64), Geneseo, Illinois, United States",
+            "Spouse ": [
+                "Candilyn Jones"
+            ],
+            "Education ": [
+                "Brigham Young University",
+                " Harvard University"
+            ],
+            "People also search for": []
+        },
+        "Jack Wilson Lydman": {
+            "label": "Jack Wilson Lydman",
+            "description": "Jack Wilson Lydman was an actor, Foreign Service Officer, and a United States Ambassador to Malaysia. Wikipedia",
+            "type": "Actor",
+            "Born ": [
+                "1914"
+            ],
+            "Died ": [
+                "2005"
+            ],
+            "People also search for": []
         },
         "James Bryant Conant": {
             "label": "James Bryant Conant",
@@ -382,29 +394,6 @@
             ],
             "People also search for": []
         },
-        "Jack Wilson Lydman": {
-            "label": "Jack Wilson Lydman",
-            "description": "Jack Wilson Lydman was an actor, Foreign Service Officer, and a United States Ambassador to Malaysia. Wikipedia",
-            "type": "Actor",
-            "Born ": [
-                "1914"
-            ],
-            "Died ": [
-                "2005"
-            ],
-            "People also search for": []
-        },
-        "John E. Herbst": {
-            "label": "John E. Herbst",
-            "description": "John Edward Herbst is a retired American diplomat who was the United States Ambassador to Ukraine from September, 2003 to May, 2006 and United States Ambassador to Uzbekistan from 2000 to 2003. Wikipedia",
-            "type": "Diplomat",
-            "Born ": "August 12, 1952 (age 61), Rockville Centre, New York, United States",
-            "Education ": [
-                "Georgetown University",
-                " Johns Hopkins University"
-            ],
-            "People also search for": []
-        },
         "James Cason": {
             "label": "James Cason",
             "description": "James Cason is a retired U.S. Foreign Service officer, most recently serving as Ambassador to Paraguay, a post he held from 2006 to 2008. Prior to that post, he was the Principal Officer of the US Interests Section in Havana. Wikipedia",
@@ -417,17 +406,6 @@
             "Education ": [
                 "Johns Hopkins University",
                 " Dartmouth College"
-            ],
-            "People also search for": []
-        },
-        "John W. Blaney": {
-            "label": "John W. Blaney",
-            "description": "John William Blaney is a United States State Department official and former U.S. Ambassador to Liberia. Prior to joining the U.S Foreign Service, Blaney served as an officer in the U.S. Army. Wikipedia",
-            "type": "",
-            "Born ": [
-                "Santa Monica",
-                " California",
-                " United States"
             ],
             "People also search for": []
         },
@@ -446,15 +424,34 @@
             ],
             "People also search for": []
         },
-        "Laurence Steinhardt": {
-            "label": "Laurence Steinhardt",
-            "description": "Laurence Adolph Steinhardt was a United States diplomat. He served as the U.S. Minister to Sweden and U.S. Ambassador to Peru, the USSR, Turkey, Czechoslovakia, and Canada. He was the first United States Ambassador to be killed in office. Wikipedia",
+        "John E. Herbst": {
+            "label": "John E. Herbst",
+            "description": "John Edward Herbst is a retired American diplomat who was the United States Ambassador to Ukraine from September, 2003 to May, 2006 and United States Ambassador to Uzbekistan from 2000 to 2003. Wikipedia",
             "type": "Diplomat",
-            "Born ": "October 6, 1892, New York City, New York, United States",
-            "Died ": "March 28, 1950, Ramsayville, Ontario, Canada",
+            "Born ": "August 12, 1952 (age 61), Rockville Centre, New York, United States",
             "Education ": [
-                "Columbia University"
+                "Georgetown University",
+                " Johns Hopkins University"
             ],
+            "People also search for": []
+        },
+        "John W. Blaney": {
+            "label": "John W. Blaney",
+            "description": "John William Blaney is a United States State Department official and former U.S. Ambassador to Liberia. Prior to joining the U.S Foreign Service, Blaney served as an officer in the U.S. Army. Wikipedia",
+            "type": "",
+            "Born ": [
+                "Santa Monica",
+                " California",
+                " United States"
+            ],
+            "People also search for": []
+        },
+        "Llewellyn Thompson": {
+            "label": "Llewellyn Thompson",
+            "description": "Llewellyn E. \"Tommy\" Thompson Jr., was a United States diplomat. He served in Sri Lanka, Austria, and for a lengthy period in the Soviet Union where his tenure saw some of the most significant events of the Cold War. Wikipedia",
+            "type": "",
+            "Born ": "August 24, 1904, Las Animas, Colorado, United States",
+            "Died ": "February 6, 1972, Bethesda, Maryland, United States",
             "People also search for": []
         },
         "Mary Ann Casey": {
@@ -467,38 +464,14 @@
             ],
             "People also search for": []
         },
-        "Lyndon Lowell Olson, Jr.": {
-            "label": "Lyndon Lowell Olson, Jr.",
-            "description": "Lyndon Lowell Olson, Jr. is an American politician and diplomat.\nIn 1997 Olson was nominated by President Clinton to be Ambassador to Sweden and went on to serve in this capacity until 2001. Wikipedia",
-            "type": "",
-            "Born ": "March 7, 1947 (age 67), Waco, Texas, United States",
+        "Laurence Steinhardt": {
+            "label": "Laurence Steinhardt",
+            "description": "Laurence Adolph Steinhardt was a United States diplomat. He served as the U.S. Minister to Sweden and U.S. Ambassador to Peru, the USSR, Turkey, Czechoslovakia, and Canada. He was the first United States Ambassador to be killed in office. Wikipedia",
+            "type": "Diplomat",
+            "Born ": "October 6, 1892, New York City, New York, United States",
+            "Died ": "March 28, 1950, Ramsayville, Ontario, Canada",
             "Education ": [
-                "Baylor University",
-                " Baylor Law School"
-            ],
-            "People also search for": []
-        },
-        "Llewellyn Thompson": {
-            "label": "Llewellyn Thompson",
-            "description": "Llewellyn E. \"Tommy\" Thompson Jr., was a United States diplomat. He served in Sri Lanka, Austria, and for a lengthy period in the Soviet Union where his tenure saw some of the most significant events of the Cold War. Wikipedia",
-            "type": "",
-            "Born ": "August 24, 1904, Las Animas, Colorado, United States",
-            "Died ": "February 6, 1972, Bethesda, Maryland, United States",
-            "People also search for": []
-        },
-        "Midge Costanza": {
-            "label": "Midge Costanza",
-            "description": "Margaret Costanza, widely known as \"Midge\", was an American Presidential advisor, social and political activist. A lifelong champion of gay and women's rights, she was known for her wit, outspoken manner and commitment to her convictions. Wikipedia",
-            "type": "Political figure",
-            "Born ": "November 28, 1932, Le Roy, New York, United States",
-            "Died ": "March 23, 2010, Scripps Mercy Hospital, California, United States",
-            "Party ": [
-                "Democratic Party"
-            ],
-            "Education ": [
-                "University of Colorado Boulder",
-                " University of California",
-                " Los Angeles"
+                "Columbia University"
             ],
             "People also search for": []
         },
@@ -527,13 +500,16 @@
             ],
             "People also search for": []
         },
-        "Robert Strausz-Hupé": {
-            "label": "Robert Strausz-Hupé",
-            "description": "Robert Strausz-Hupé was a U.S. diplomat and geopolitician. Wikipedia",
+        "Lyndon Lowell Olson, Jr.": {
+            "label": "Lyndon Lowell Olson, Jr.",
+            "description": "Lyndon Lowell Olson, Jr. is an American politician and diplomat.\nIn 1997 Olson was nominated by President Clinton to be Ambassador to Sweden and went on to serve in this capacity until 2001. Wikipedia",
             "type": "",
-            "Born ": "March 25, 1903, Vienna, Austria",
-            "Died ": "February 24, 2002",
-            "Books": []
+            "Born ": "March 7, 1947 (age 67), Waco, Texas, United States",
+            "Education ": [
+                "Baylor University",
+                " Baylor Law School"
+            ],
+            "People also search for": []
         },
         "Roland Arnall": {
             "label": "Roland Arnall",
@@ -543,6 +519,43 @@
             "Died ": "March 17, 2008, Los Angeles, California, United States",
             "Spouse ": [
                 "Dawn Arnall"
+            ],
+            "People also search for": []
+        },
+        "Midge Costanza": {
+            "label": "Midge Costanza",
+            "description": "Margaret Costanza, widely known as \"Midge\", was an American Presidential advisor, social and political activist. A lifelong champion of gay and women's rights, she was known for her wit, outspoken manner and commitment to her convictions. Wikipedia",
+            "type": "Political figure",
+            "Born ": "November 28, 1932, Le Roy, New York, United States",
+            "Died ": "March 23, 2010, Scripps Mercy Hospital, California, United States",
+            "Party ": [
+                "Democratic Party"
+            ],
+            "Education ": [
+                "University of Colorado Boulder",
+                " University of California",
+                " Los Angeles"
+            ],
+            "People also search for": []
+        },
+        "Robert Strausz-Hupé": {
+            "label": "Robert Strausz-Hupé",
+            "description": "Robert Strausz-Hupé was a U.S. diplomat and geopolitician. Wikipedia",
+            "type": "",
+            "Born ": "March 25, 1903, Vienna, Austria",
+            "Died ": "February 24, 2002",
+            "Books": []
+        },
+        "Sada Cumber": {
+            "label": "Sada Cumber",
+            "description": "Sada Cumber assumed his duties as Special Envoy to the Organisation of the Islamic Conference on March 3, 2008, with his term ending January 20, 2009. Wikipedia",
+            "type": "",
+            "Born ": "December 3, 1951 (age 62), Karachi, Pakistan",
+            "Education ": [
+                "University of Karachi"
+            ],
+            "Party ": [
+                "Republican Party"
             ],
             "People also search for": []
         },
@@ -584,45 +597,6 @@
             ],
             "People also search for": []
         },
-        "Sargent Shriver": {
-            "label": "Sargent Shriver",
-            "description": "Robert Sargent \"Sarge\" Shriver, Jr. was an American statesman and activist. As the husband of Eunice Kennedy Shriver, he was part of the Kennedy family, serving in the Kennedy and Johnson administrations. Wikipedia",
-            "type": "American Statesman",
-            "Born ": "November 9, 1915, Westminster, Maryland, United States",
-            "Died ": "January 18, 2011, Bethesda, Maryland, United States",
-            "Spouse ": [
-                "Eunice Kennedy Shriver (m. 1953–2009)"
-            ],
-            "Children ": [
-                "Maria Shriver",
-                " Mark Shriver",
-                " Anthony Shriver",
-                " Bobby Shriver",
-                " Timothy Shriver"
-            ],
-            "Education ": [
-                "Canterbury School",
-                " Yale Law School",
-                " Yale University"
-            ],
-            "Siblings ": [
-                "Thomas Herbert Shriver"
-            ],
-            "People also search for": []
-        },
-        "Sada Cumber": {
-            "label": "Sada Cumber",
-            "description": "Sada Cumber assumed his duties as Special Envoy to the Organisation of the Islamic Conference on March 3, 2008, with his term ending January 20, 2009. Wikipedia",
-            "type": "",
-            "Born ": "December 3, 1951 (age 62), Karachi, Pakistan",
-            "Education ": [
-                "University of Karachi"
-            ],
-            "Party ": [
-                "Republican Party"
-            ],
-            "People also search for": []
-        },
         "Tom C. Korologos": {
             "label": "Tom C. Korologos",
             "description": "Tom Chris Korologos is a former United States Ambassador to Belgium. Wikipedia",
@@ -637,35 +611,6 @@
             "Education ": [
                 "University of Utah",
                 " Columbia University Graduate School of Journalism"
-            ],
-            "People also search for": []
-        },
-        "Robert J. McCloskey": {
-            "label": "Robert J. McCloskey",
-            "description": "Robert James McCloskey was born November 25, 1922 in Philadelphia, Pennsylvania – son of Thomas McCloskey and Anna Wallace; died November 28, 1996 in Chevy Chase, Maryland. Wikipedia",
-            "type": "",
-            "Born ": "November 25, 1922, Philadelphia, Pennsylvania, United States",
-            "Died ": [
-                "1996",
-                " Chevy Chase",
-                " Maryland",
-                " United States"
-            ],
-            "People also search for": []
-        },
-        "Walter Curley": {
-            "label": "Walter Curley",
-            "description": "Walter Joseph Patrick Curley II was the 57th United States Ambassador to France from 1989 to 1993 and the United States Ambassador to Ireland from 1975 to 1977. Wikipedia",
-            "type": "Business person",
-            "Born ": "September 17, 1922 (age 91), Pittsburgh, Pennsylvania, United States",
-            "Children ": [
-                "Patrick Curley",
-                " Margaret C. Wiles",
-                " James Curley"
-            ],
-            "Education ": [
-                "Harvard University",
-                " Yale University"
             ],
             "People also search for": []
         },
@@ -690,6 +635,22 @@
             "Parents ": [
                 "Gladys Payne",
                 " John E. Schieffer"
+            ],
+            "People also search for": []
+        },
+        "Walter Curley": {
+            "label": "Walter Curley",
+            "description": "Walter Joseph Patrick Curley II was the 57th United States Ambassador to France from 1989 to 1993 and the United States Ambassador to Ireland from 1975 to 1977. Wikipedia",
+            "type": "Business person",
+            "Born ": "September 17, 1922 (age 91), Pittsburgh, Pennsylvania, United States",
+            "Children ": [
+                "Patrick Curley",
+                " Margaret C. Wiles",
+                " James Curley"
+            ],
+            "Education ": [
+                "Harvard University",
+                " Yale University"
             ],
             "People also search for": []
         },
@@ -721,6 +682,58 @@
             ],
             "People also search for": []
         },
+        "Mary Ann Peters": {
+            "label": "Mary Ann Peters",
+            "description": "Ambassador Mary Ann Peters was United States Ambassador to Bangladesh from 2000-2003. She became the fourth provost of the United States Naval War College on September 18, 2008. Wikipedia",
+            "type": "",
+            "Born ": [
+                "1951",
+                " United States of America"
+            ],
+            "Education ": [
+                "Santa Clara University"
+            ],
+            "People also search for": []
+        },
+        "Robert J. McCloskey": {
+            "label": "Robert J. McCloskey",
+            "description": "Robert James McCloskey was born November 25, 1922 in Philadelphia, Pennsylvania – son of Thomas McCloskey and Anna Wallace; died November 28, 1996 in Chevy Chase, Maryland. Wikipedia",
+            "type": "",
+            "Born ": "November 25, 1922, Philadelphia, Pennsylvania, United States",
+            "Died ": [
+                "1996",
+                " Chevy Chase",
+                " Maryland",
+                " United States"
+            ],
+            "People also search for": []
+        },
+        "Sargent Shriver": {
+            "label": "Sargent Shriver",
+            "description": "Robert Sargent \"Sarge\" Shriver, Jr. was an American statesman and activist. As the husband of Eunice Kennedy Shriver, he was part of the Kennedy family, serving in the Kennedy and Johnson administrations. Wikipedia",
+            "type": "American Statesman",
+            "Born ": "November 9, 1915, Westminster, Maryland, United States",
+            "Died ": "January 18, 2011, Bethesda, Maryland, United States",
+            "Spouse ": [
+                "Eunice Kennedy Shriver (m. 1953–2009)"
+            ],
+            "Children ": [
+                "Maria Shriver",
+                " Mark Shriver",
+                " Anthony Shriver",
+                " Bobby Shriver",
+                " Timothy Shriver"
+            ],
+            "Education ": [
+                "Canterbury School",
+                " Yale Law School",
+                " Yale University"
+            ],
+            "Siblings ": [
+                "Thomas Herbert Shriver"
+            ],
+            "People also search for": []
+        },
         "William Milam": {
             "label": "William Milam",
             "description": "William Bryant Milam is an American diplomat, and is Senior Policy Scholar at the Woodrow Wilson International Center for Scholars in Washington, D.C. Wikipedia",
@@ -735,16 +748,13 @@
             ],
             "People also search for": []
         },
-        "Mary Ann Peters": {
-            "label": "Mary Ann Peters",
-            "description": "Ambassador Mary Ann Peters was United States Ambassador to Bangladesh from 2000-2003. She became the fourth provost of the United States Naval War College on September 18, 2008. Wikipedia",
+        "Alejandro Daniel Wolff": {
+            "label": "Alejandro Daniel Wolff",
+            "description": "Alejandro Daniel Wolff is an American diplomat who served as the US Ambassador to Chile from 2010 to 2013. He was the acting U.S. Permanent Representative to the United Nations until Zalmay Khalilzad was appointed as permanent representative. Wikipedia",
             "type": "",
-            "Born ": [
-                "1951",
-                " United States of America"
-            ],
             "Education ": [
-                "Santa Clara University"
+                "University of California",
+                " Los Angeles"
             ],
             "People also search for": []
         },
@@ -778,16 +788,6 @@
                 " Andrei Budberg"
             ]
         },
-        "Alejandro Daniel Wolff": {
-            "label": "Alejandro Daniel Wolff",
-            "description": "Alejandro Daniel Wolff is an American diplomat who served as the US Ambassador to Chile from 2010 to 2013. He was the acting U.S. Permanent Representative to the United Nations until Zalmay Khalilzad was appointed as permanent representative. Wikipedia",
-            "type": "",
-            "Education ": [
-                "University of California",
-                " Los Angeles"
-            ],
-            "People also search for": []
-        },
         "Bancroft Davis": {
             "label": "Bancroft Davis",
             "description": "John Chandler Bancroft Davis, commonly known as Bancroft Davis, was an American lawyer, judge, diplomat, and president of Newburgh and New York Railway Company. Wikipedia",
@@ -820,20 +820,6 @@
             ],
             "People also search for": []
         },
-        "Indalecio Liévano": {
-            "label": "Indalecio Liévano",
-            "description": "Indalecio Liévano Aguirre was a Colombian politician and diplomat, who as the 17th Permanent Representative of Colombia to the United Nations served as the 33rd President of the United Nations General Assembly in 1978. Wikipedia",
-            "type": "Politician",
-            "Born ": "July 24, 1917, Bogotá, Colombia",
-            "Died ": "March 29, 1982, Bogotá, Colombia",
-            "Education ": [
-                "Pontifical Xavierian University"
-            ],
-            "Party ": [
-                "Colombian Liberal Party"
-            ],
-            "People also search for": []
-        },
         "Benson Whitney": {
             "label": "Benson Whitney",
             "description": "Benson Kelley Whitney was the United States Ambassador to Norway from 2006 to 2009. He was managing general partner of the Gideon Hixon Fund and former President of the Minnesota Venture Capital Association. Wikipedia",
@@ -850,45 +836,17 @@
             ],
             "People also search for": []
         },
-        "Marquis Johann von Pallavicini": {
-            "label": "Marquis Johann von Pallavicini",
-            "description": "Johann Markgraf von Pallavicini, was an Austro-Hungarian diplomat, notably serving as Ambassador at the Sublime Porte during World War I. Wikipedia",
-            "type": "",
-            "Born ": "March 18, 1848, Padua, Italy",
-            "Died ": "May 4, 1941",
-            "People also search for ": [
-                "Count Alois Lexa von Aehrenthal",
-                " Hermann Pokorny",
-                " Ladislaus Hengelmüller von Hengervár",
-                " Carlo Pallavicino",
-                " Gustav Globočnik Edler von VojkaMore"
-            ]
-        },
-        "Mary Beth Cahill": {
-            "label": "Mary Beth Cahill",
-            "description": "Mary Beth Cahill is an American political figure, who served as the campaign manager of Senator John Kerry's campaign for the Democratic nomination for President. Wikipedia",
-            "type": "",
-            "Born ": [
-                "December 1954",
-                " Dorchester",
-                " Boston",
-                " Massachusetts",
-                " United States"
-            ],
+        "Indalecio Liévano": {
+            "label": "Indalecio Liévano",
+            "description": "Indalecio Liévano Aguirre was a Colombian politician and diplomat, who as the 17th Permanent Representative of Colombia to the United Nations served as the 33rd President of the United Nations General Assembly in 1978. Wikipedia",
+            "type": "Politician",
+            "Born ": "July 24, 1917, Bogotá, Colombia",
+            "Died ": "March 29, 1982, Bogotá, Colombia",
             "Education ": [
-                "Emmanuel College",
-                " Boston"
+                "Pontifical Xavierian University"
             ],
-            "People also search for": []
-        },
-        "Max Yalden": {
-            "label": "Max Yalden",
-            "description": "Maxwell Freeman Yalden, CC is a Canadian civil servant and diplomat.\nBorn in Toronto, Ontario, he received a Bachelor of Arts degree from the University of Toronto in 1952, a Master of Arts degree in ... Wikipedia",
-            "type": "",
-            "Born ": "April 12, 1930 (age 83), Toronto, Canada",
-            "Education ": [
-                "University of Toronto",
-                " University of Michigan"
+            "Party ": [
+                "Colombian Liberal Party"
             ],
             "People also search for": []
         },
@@ -907,13 +865,45 @@
             ],
             "People also search for": []
         },
-        "Minyon Moore": {
-            "label": "Minyon Moore",
-            "description": "Minyon Moore in Chicago, Illinois is a founder of Women Building for the Future, and heads Dewey Square Group's state and local practice. Wikipedia",
+        "Marquis Johann von Pallavicini": {
+            "label": "Marquis Johann von Pallavicini",
+            "description": "Johann Markgraf von Pallavicini, was an Austro-Hungarian diplomat, notably serving as Ambassador at the Sublime Porte during World War I. Wikipedia",
             "type": "",
-            "Born ": "May 16, 1958 (age 55), Chicago, Illinois, United States",
+            "Born ": "March 18, 1848, Padua, Italy",
+            "Died ": "May 4, 1941",
+            "People also search for ": [
+                "Count Alois Lexa von Aehrenthal",
+                " Hermann Pokorny",
+                " Ladislaus Hengelmüller von Hengervár",
+                " Carlo Pallavicino",
+                " Gustav Globočnik Edler von VojkaMore"
+            ]
+        },
+        "Max Yalden": {
+            "label": "Max Yalden",
+            "description": "Maxwell Freeman Yalden, CC is a Canadian civil servant and diplomat.\nBorn in Toronto, Ontario, he received a Bachelor of Arts degree from the University of Toronto in 1952, a Master of Arts degree in ... Wikipedia",
+            "type": "",
+            "Born ": "April 12, 1930 (age 83), Toronto, Canada",
             "Education ": [
-                "University of Illinois at Chicago"
+                "University of Toronto",
+                " University of Michigan"
+            ],
+            "People also search for": []
+        },
+        "Mary Beth Cahill": {
+            "label": "Mary Beth Cahill",
+            "description": "Mary Beth Cahill is an American political figure, who served as the campaign manager of Senator John Kerry's campaign for the Democratic nomination for President. Wikipedia",
+            "type": "",
+            "Born ": [
+                "December 1954",
+                " Dorchester",
+                " Boston",
+                " Massachusetts",
+                " United States"
+            ],
+            "Education ": [
+                "Emmanuel College",
+                " Boston"
             ],
             "People also search for": []
         },
@@ -927,6 +917,16 @@
             ],
             "Education ": [
                 "Colgate University"
+            ],
+            "People also search for": []
+        },
+        "Minyon Moore": {
+            "label": "Minyon Moore",
+            "description": "Minyon Moore in Chicago, Illinois is a founder of Women Building for the Future, and heads Dewey Square Group's state and local practice. Wikipedia",
+            "type": "",
+            "Born ": "May 16, 1958 (age 55), Chicago, Illinois, United States",
+            "Education ": [
+                "University of Illinois at Chicago"
             ],
             "People also search for": []
         },
@@ -956,6 +956,30 @@
             ],
             "People also search for": []
         },
+        "Robert Blackwill": {
+            "label": "Robert D. Blackwill",
+            "description": "Robert Dean Blackwill is a retired American diplomat, author, Senior Fellow at the Council of Foreign Relations and lobbyist. Wikipedia",
+            "type": "Diplomat",
+            "Born ": "August 8, 1939 (age 74), Kellogg, Idaho, United States",
+            "Books ": [
+                "Arms Control and the U. S.-Russian Relationship Report of an Independent Task Force"
+            ],
+            "People also search for": []
+        },
+        "Robert H. Tuttle": {
+            "label": "Robert H. Tuttle",
+            "description": "Robert Holmes Tuttle is a businessman specializing in car dealerships. He also held the post of United States Ambassador to the United Kingdom from July 2005 to February 2009. Wikipedia",
+            "type": "",
+            "Born ": "August 4, 1943 (age 70), California, United States",
+            "Spouse ": [
+                "Maria Hummer"
+            ],
+            "Education ": [
+                "University of Southern California",
+                " Stanford University"
+            ],
+            "People also search for": []
+        },
         "Teodoro Moscoso": {
             "label": "Teodoro Moscoso",
             "description": "José Teodoro Moscoso Mora, was a Puerto Rican businessman and politician known as \"the architect of Operation Bootstrap\". Wikipedia",
@@ -979,19 +1003,24 @@
             ],
             "People also search for": []
         },
-        "Robert H. Tuttle": {
-            "label": "Robert H. Tuttle",
-            "description": "Robert Holmes Tuttle is a businessman specializing in car dealerships. He also held the post of United States Ambassador to the United Kingdom from July 2005 to February 2009. Wikipedia",
+        "Joseph A. Presel": {
+            "label": "Joseph A. Presel",
+            "description": "Joseph A. Presel is an American diplomat and the former United States Ambassador to Uzbekistan. Wikipedia",
             "type": "",
-            "Born ": "August 4, 1943 (age 70), California, United States",
-            "Spouse ": [
-                "Maria Hummer"
+            "People also search for ": [
+                "Stanley Tuemler Escudero",
+                " Arthur A. Hartman",
+                " James Franklin Collins"
+            ]
+        },
+        "Cameron R. Hume": {
+            "label": "Cameron R. Hume",
+            "description": "Cameron R. Hume was the United States Ambassador to Indonesia. He presented his credentials on August 1, 2007 and served through July 2010. Wikipedia",
+            "type": "",
+            "Born ": [
+                "1947"
             ],
-            "Education ": [
-                "University of Southern California",
-                " Stanford University"
-            ],
-            "People also search for": []
+            "Books": []
         },
         "Pamela E. Bridgewater": {
             "label": "Pamela E. Bridgewater",
@@ -1004,32 +1033,20 @@
             ],
             "People also search for": []
         },
-        "Cameron R. Hume": {
-            "label": "Cameron R. Hume",
-            "description": "Cameron R. Hume was the United States Ambassador to Indonesia. He presented his credentials on August 1, 2007 and served through July 2010. Wikipedia",
-            "type": "",
-            "Born ": [
-                "1947"
+        "Álvaro Gómez Hurtado": {
+            "label": "Álvaro Gómez Hurtado",
+            "description": "Álvaro Gómez Hurtado was a Colombian lawyer, politician, journalist and active member of the Colombian Conservative Party. Gómez was a son of the former President of Colombia, Laureano Gómez. Wikipedia",
+            "type": "Lawyer",
+            "Born ": "May 8, 1919, Bogotá, Colombia",
+            "Died ": "November 2, 1995, Bogotá, Colombia",
+            "Education ": [
+                "Pontifical Xavierian University"
             ],
-            "Books": []
-        },
-        "Joseph A. Presel": {
-            "label": "Joseph A. Presel",
-            "description": "Joseph A. Presel is an American diplomat and the former United States Ambassador to Uzbekistan. Wikipedia",
-            "type": "",
-            "People also search for ": [
-                "Stanley Tuemler Escudero",
-                " Arthur A. Hartman",
-                " James Franklin Collins"
-            ]
-        },
-        "Robert Blackwill": {
-            "label": "Robert D. Blackwill",
-            "description": "Robert Dean Blackwill is a retired American diplomat, author, Senior Fellow at the Council of Foreign Relations and lobbyist. Wikipedia",
-            "type": "Diplomat",
-            "Born ": "August 8, 1939 (age 74), Kellogg, Idaho, United States",
-            "Books ": [
-                "Arms Control and the U. S.-Russian Relationship Report of an Independent Task Force"
+            "Spouse ": [
+                "Margarita Escobar López"
+            ],
+            "Parents ": [
+                "Laureano Gómez"
             ],
             "People also search for": []
         },
@@ -1048,23 +1065,6 @@
             "Education ": [
                 "Georgetown University",
                 " University of North Texas"
-            ],
-            "People also search for": []
-        },
-        "Álvaro Gómez Hurtado": {
-            "label": "Álvaro Gómez Hurtado",
-            "description": "Álvaro Gómez Hurtado was a Colombian lawyer, politician, journalist and active member of the Colombian Conservative Party. Gómez was a son of the former President of Colombia, Laureano Gómez. Wikipedia",
-            "type": "Lawyer",
-            "Born ": "May 8, 1919, Bogotá, Colombia",
-            "Died ": "November 2, 1995, Bogotá, Colombia",
-            "Education ": [
-                "Pontifical Xavierian University"
-            ],
-            "Spouse ": [
-                "Margarita Escobar López"
-            ],
-            "Parents ": [
-                "Laureano Gómez"
             ],
             "People also search for": []
         },
@@ -1092,6 +1092,20 @@
                 "Adlai Stevenson III",
                 " John Fell Stevenson",
                 " Borden Stevenson"
+            ],
+            "People also search for": []
+        },
+        "Adolph Dubs": {
+            "label": "Adolph Dubs",
+            "description": "Adolph \"Spike\" Dubs was the United States Ambassador to Afghanistan from May 13, 1978 until his death in 1979. He was killed in an exchange of gunfire after a kidnapping attempt. Wikipedia",
+            "type": "",
+            "Born ": "August 4, 1920, Chicago, Illinois, United States",
+            "Assassinated ": "February 14, 1979, Kabul, Afghanistan",
+            "Education ": [
+                "Georgetown University",
+                " Beloit College",
+                " Harvard University",
+                " Washington University in St. Louis"
             ],
             "People also search for": []
         },
@@ -1141,29 +1155,6 @@
                 " Richard T. McCormackMore"
             ]
         },
-        "Adolph Dubs": {
-            "label": "Adolph Dubs",
-            "description": "Adolph \"Spike\" Dubs was the United States Ambassador to Afghanistan from May 13, 1978 until his death in 1979. He was killed in an exchange of gunfire after a kidnapping attempt. Wikipedia",
-            "type": "",
-            "Born ": "August 4, 1920, Chicago, Illinois, United States",
-            "Assassinated ": "February 14, 1979, Kabul, Afghanistan",
-            "Education ": [
-                "Georgetown University",
-                " Beloit College",
-                " Harvard University",
-                " Washington University in St. Louis"
-            ],
-            "People also search for": []
-        },
-        "Alberto de la Campa y Roff": {
-            "label": "Alberto de la Campa y Roff",
-            "description": "Alberto de la Campa y Roff was a Cuban diplomat.\nCampa served as the Cuban Ambassador to Italy until January 3, 1959 when he resigned when the government of Fidel Castro overthrew Fulgencio Batista. Wikipedia",
-            "type": "Diplomat",
-            "Born ": "October 28, 1918 (age 95), Cuba",
-            "Spouse ": [
-                "Martha de la Torre"
-            ]
-        },
         "Alan Solomont": {
             "label": "Alan Solomont",
             "description": "Alan D. Solomont is the former United States Ambassador to Spain and Andorra. Selected by President Barack Obama, he was confirmed by the United States Senate on December 24, 2009. Wikipedia",
@@ -1201,21 +1192,6 @@
                 " Jr."
             ]
         },
-        "Arnold A. Chacón": {
-            "label": "Arnold A. Chacón",
-            "description": "Arnold A. Chacón began his duties as the United States Ambassador to Guatemala on Monday August 29, 2011, after presenting his credentials. A career U.S. Wikipedia",
-            "type": ""
-        },
-        "Anthony H. Gioia": {
-            "label": "Anthony H. Gioia",
-            "description": "Anthony H. Gioia was a United States State Department official and former United States Ambassador to Malta. Before becoming an ambassador, Gioia served as the president of Gioia Macaroni Company and as Chairman of the National Pasta Association. Wikipedia",
-            "type": "",
-            "Born ": "November 10, 1942 (age 71)",
-            "Education ": [
-                "University of Southern California"
-            ],
-            "People also search for": []
-        },
         "Alexander, Count of Hoyos": {
             "label": "Alexander, Count of Hoyos",
             "description": "Alexander Graf von Hoyos, Freiherr zu Stichsenstein, was an Austro-Hungarian diplomat who played a major role during the July Crisis while serving as chef de cabinet of the Foreign Minister at the outbreak of World War I in 1914. Wikipedia",
@@ -1223,6 +1199,28 @@
             "Born ": "May 13, 1876, Rijeka, Croatia",
             "Died ": "October 20, 1937, Schwertberg, Austria",
             "People also search for": []
+        },
+        "Alberto de la Campa y Roff": {
+            "label": "Alberto de la Campa y Roff",
+            "description": "Alberto de la Campa y Roff was a Cuban diplomat.\nCampa served as the Cuban Ambassador to Italy until January 3, 1959 when he resigned when the government of Fidel Castro overthrew Fulgencio Batista. Wikipedia",
+            "type": "Diplomat",
+            "Born ": "October 28, 1918 (age 95), Cuba",
+            "Spouse ": [
+                "Martha de la Torre"
+            ]
+        },
+        "Anne Slaughter Andrew": {
+            "label": "Anne Slaughter Andrew",
+            "description": "Anne Slaughter Andrew is an American environmental attorney and was appointed the current United States Ambassador to Costa Rica by President Barack Obama in 2009. Wikipedia",
+            "type": "Attorney",
+            "Born ": [
+                "Evansville",
+                " Indiana",
+                " United States"
+            ],
+            "Education ": [
+                "Georgetown University"
+            ]
         },
         "Alvin M. Owsley": {
             "label": "Alvin M. Owsley",
@@ -1238,6 +1236,21 @@
                 " University of Texas at Austin"
             ],
             "People also search for": []
+        },
+        "Anthony H. Gioia": {
+            "label": "Anthony H. Gioia",
+            "description": "Anthony H. Gioia was a United States State Department official and former United States Ambassador to Malta. Before becoming an ambassador, Gioia served as the president of Gioia Macaroni Company and as Chairman of the National Pasta Association. Wikipedia",
+            "type": "",
+            "Born ": "November 10, 1942 (age 71)",
+            "Education ": [
+                "University of Southern California"
+            ],
+            "People also search for": []
+        },
+        "Arnold A. Chacón": {
+            "label": "Arnold A. Chacón",
+            "description": "Arnold A. Chacón began his duties as the United States Ambassador to Guatemala on Monday August 29, 2011, after presenting his credentials. A career U.S. Wikipedia",
+            "type": ""
         },
         "Avis Bohlen": {
             "label": "Avis Bohlen",
@@ -1269,18 +1282,11 @@
             ],
             "People also search for": []
         },
-        "Anne Slaughter Andrew": {
-            "label": "Anne Slaughter Andrew",
-            "description": "Anne Slaughter Andrew is an American environmental attorney and was appointed the current United States Ambassador to Costa Rica by President Barack Obama in 2009. Wikipedia",
-            "type": "Attorney",
-            "Born ": [
-                "Evansville",
-                " Indiana",
-                " United States"
-            ],
-            "Education ": [
-                "Georgetown University"
-            ]
+        "Azizullah Karzai": {
+            "label": "Azizullah Karzai",
+            "description": "Azizulah Karzai is a politician in Afghanistan. He is serving as Ambassador to Russia, a position he held since 28 August 2010. Wikipedia",
+            "type": "",
+            "People also search for": []
         },
         "Balkrishna Shetty": {
             "label": "Balkrishna Shetty",
@@ -1304,10 +1310,14 @@
             ],
             "People also search for": []
         },
-        "Azizullah Karzai": {
-            "label": "Azizullah Karzai",
-            "description": "Azizulah Karzai is a politician in Afghanistan. He is serving as Ambassador to Russia, a position he held since 28 August 2010. Wikipedia",
+        "Barbara Tuge-Erecińska": {
+            "label": "Barbara Tuge-Erecińska",
+            "description": "Barbara Krystyna Tuge-Erecińska is the Ambassador of the Republic of Poland to the United Kingdom, appointed by President Lech Kaczyński on 24 October 2006. Wikipedia",
             "type": "",
+            "Born ": "March 24, 1956 (age 58), Gdańsk, Poland",
+            "Education ": [
+                "Gdańsk University"
+            ],
             "People also search for": []
         },
         "Baron Julius von Szilassy": {
@@ -1318,44 +1328,32 @@
             "Died ": [
                 "1935"
             ]
-        },
-        "Barbara Tuge-Erecińska": {
-            "label": "Barbara Tuge-Erecińska",
-            "description": "Barbara Krystyna Tuge-Erecińska is the Ambassador of the Republic of Poland to the United Kingdom, appointed by President Lech Kaczyński on 24 October 2006. Wikipedia",
-            "type": "",
-            "Born ": "March 24, 1956 (age 58), Gdańsk, Poland",
-            "Education ": [
-                "Gdańsk University"
-            ],
-            "People also search for": []
         }
     },
     "summary": {
         "label": 94,
         "description": 94,
         "type": 94,
-        "Born ": 89,
-        "Died ": 28,
-        "Spouse ": 27,
-        "Party ": 7,
-        "Siblings ": 6,
-        "Education ": 71,
-        "People also search for": 79,
-        "Parents ": 9,
-        "Children ": 11,
-        "People also search for ": 7,
-        "Books": 3,
-        "Books ": 6,
-        "Awards ": 2,
-        "Full name ": 1,
-        "Assassinated ": 1
+        "born": 1,
+        "died": 1,
+        "people_also_search_for": 1,
+        "spouse": 1,
+        "party": 1,
+        "siblings": 1,
+        "education": 1,
+        "parents": 1,
+        "children": 1,
+        "books": 1,
+        "awards": 1,
+        "full_name": 1,
+        "assassinated": 1
     },
     "infoboxless": [
         "L. Craig Johnstone",
+        "William Witman II",
         "R. Nicholas Burns",
         "Ashraf Haidari",
         "Alan Goodrich Kirk  1",
-        "B. Lynn Pascoe",
-        "William Witman II"
+        "B. Lynn Pascoe"
     ]
 }

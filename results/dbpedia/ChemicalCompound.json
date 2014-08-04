@@ -55,6 +55,25 @@
             ],
             "See results about": []
         },
+        "1,5-Pentanediol": {
+            "label": "1,5-Pentanediol",
+            "description": "1,5-Pentanediol is the organic compound with the formula HOCH2CH2CH2CH2CH2OH. Like other diols, this viscous colourless liquid is used as plasticizer and also forms polyesters that are used as emulsifying agents and resin intermediates. Wikipedia",
+            "type": "",
+            "Formula ": [
+                "C5H12O2"
+            ],
+            "Density ": [
+                "994.00 kg/m³"
+            ]
+        },
+        "1-Heptanol": {
+            "label": "1-Heptanol",
+            "description": "1-Heptanol is an alcohol with a seven carbon chain and the structural formula of CH3(CH2)6OH. It is a clear colorless liquid that is very slightly soluble in water, but miscible with ether and ethanol. Wikipedia",
+            "type": "",
+            "Density ": [
+                "818.70 kg/m³"
+            ]
+        },
         "1-Decanol": {
             "label": "1-Decanol",
             "description": "1-Decanol is a straight chain fatty alcohol with ten carbon atoms and the molecular formula C10H21OH. It is a colorless viscous liquid that is insoluble in water and has a strong odor. The interfacial tension against water at 20 °C is 8.97 mN/m. Wikipedia",
@@ -69,23 +88,26 @@
                 "158.28 g/mol"
             ]
         },
-        "1,5-Pentanediol": {
-            "label": "1,5-Pentanediol",
-            "description": "1,5-Pentanediol is the organic compound with the formula HOCH2CH2CH2CH2CH2OH. Like other diols, this viscous colourless liquid is used as plasticizer and also forms polyesters that are used as emulsifying agents and resin intermediates. Wikipedia",
-            "type": "",
-            "Formula ": [
-                "C5H12O2"
-            ],
-            "Density ": [
-                "994.00 kg/m³"
-            ]
-        },
         "1-Hexanol": {
             "label": "1-Hexanol",
             "description": "1-Hexanol is an organic alcohol with a six-carbon chain and a condensed structural formula of CH3(CH2)5OH. This colorless liquid is slightly soluble in water, but miscible with ether and ethanol. Wikipedia",
             "type": "",
             "Density ": [
                 "813.60 kg/m³"
+            ]
+        },
+        "1-Methylnaphthalene": {
+            "label": "1-Methylnaphthalene",
+            "description": "1-Methylnaphthalene is a polycyclic aromatic hydrocarbon. It has a cetane number of zero, and was previously used as the lower reference for cetane number. Wikipedia",
+            "type": "",
+            "Formula ": [
+                "C11H10"
+            ],
+            "Density ": [
+                "1.00 g/cm³"
+            ],
+            "Molar mass ": [
+                "142.2 g/mol"
             ]
         },
         "1-Naphthol": {
@@ -100,22 +122,6 @@
             ],
             "Density ": [
                 "1.10 g/cm³"
-            ]
-        },
-        "1-Heptanol": {
-            "label": "1-Heptanol",
-            "description": "1-Heptanol is an alcohol with a seven carbon chain and the structural formula of CH3(CH2)6OH. It is a clear colorless liquid that is very slightly soluble in water, but miscible with ether and ethanol. Wikipedia",
-            "type": "",
-            "Density ": [
-                "818.70 kg/m³"
-            ]
-        },
-        "1-Pentanol": {
-            "label": "1-Pentanol",
-            "description": "1-Pentanol, is an alcohol with five carbon atoms and the molecular formula C5H12O. 1-Pentanol is a colorless liquid with an unpleasant aroma. There are 8 alcohols with this molecular formula. Wikipedia",
-            "type": "",
-            "Density ": [
-                "814.40 kg/m³"
             ]
         },
         "1-Propanol": {
@@ -144,19 +150,25 @@
                 "Alcohol"
             ]
         },
-        "1-Methylnaphthalene": {
-            "label": "1-Methylnaphthalene",
-            "description": "1-Methylnaphthalene is a polycyclic aromatic hydrocarbon. It has a cetane number of zero, and was previously used as the lower reference for cetane number. Wikipedia",
+        "1-Pentanol": {
+            "label": "1-Pentanol",
+            "description": "1-Pentanol, is an alcohol with five carbon atoms and the molecular formula C5H12O. 1-Pentanol is a colorless liquid with an unpleasant aroma. There are 8 alcohols with this molecular formula. Wikipedia",
+            "type": "",
+            "Density ": [
+                "814.40 kg/m³"
+            ]
+        },
+        "2,5-Dimethoxy-4-methylamphetamine": {
+            "label": "2,5-Dimethoxy-4-methylamphetamine",
+            "description": "2,5-Dimethoxy-4-methylamphetamine is a psychedelic and a substituted amphetamine. It was first synthesized by Alexander Shulgin, and later reported in his book PiHKAL A Chemical Love Story. Wikipedia",
             "type": "",
             "Formula ": [
-                "C11H10"
-            ],
-            "Density ": [
-                "1.00 g/cm³"
+                "C12H19NO2"
             ],
             "Molar mass ": [
-                "142.2 g/mol"
-            ]
+                "209.29 g/mol"
+            ],
+            "See results about": []
         },
         "2-Butanol": {
             "label": "2-Butanol",
@@ -190,6 +202,15 @@
                 "-104.8°F (-76°C)"
             ]
         },
+        "2-Naphthol": {
+            "label": "2-Naphthol",
+            "description": "2-Naphthol, or β-naphthol, is a fluorescent colorless crystalline solid with the formula C10H7OH. It is an isomer of 1-naphthol, differing by the location of the hydroxyl group on naphthalene. Wikipedia",
+            "type": "",
+            "Density ": [
+                "1.22 g/cm³"
+            ],
+            "See results about": []
+        },
         "6-Phosphogluconic acid": {
             "label": "6-Phosphogluconic acid",
             "description": "6-Phosphogluconic acid is an intermediate in the pentose phosphate pathway and the Entner–Doudoroff pathway.\nIt is formed by 6-phosphogluconolactonase, and acted upon by phosphogluconate dehydrogenase to produce ribulose 5-phosphate. Wikipedia",
@@ -201,14 +222,13 @@
                 "276.135 g/mol"
             ]
         },
-        "2-Naphthol": {
-            "label": "2-Naphthol",
-            "description": "2-Naphthol, or β-naphthol, is a fluorescent colorless crystalline solid with the formula C10H7OH. It is an isomer of 1-naphthol, differing by the location of the hydroxyl group on naphthalene. Wikipedia",
+        "7-Dehydrocholesterol": {
+            "label": "7-Dehydrocholesterol",
+            "description": "7-Dehydrocholesterol is a zoosterol that functions in the serum as a cholesterol precursor, and is converted to vitamin D3 in the skin, therefore functioning as provitamin-D3. Wikipedia",
             "type": "",
-            "Density ": [
-                "1.22 g/cm³"
-            ],
-            "See results about": []
+            "Formula ": [
+                "C27H44O"
+            ]
         },
         "6-Phosphogluconolactone": {
             "label": "6-Phosphogluconolactone",
@@ -220,34 +240,6 @@
             "Molar mass ": [
                 "258.12 g/mol"
             ]
-        },
-        "7-Dehydrocholesterol": {
-            "label": "7-Dehydrocholesterol",
-            "description": "7-Dehydrocholesterol is a zoosterol that functions in the serum as a cholesterol precursor, and is converted to vitamin D3 in the skin, therefore functioning as provitamin-D3. Wikipedia",
-            "type": "",
-            "Formula ": [
-                "C27H44O"
-            ]
-        },
-        "Absinthin": {
-            "label": "Absinthin",
-            "description": "Absinthin is a naturally produced sesquiterpene lactone from the plant Artemisia absinthium. It constitutes one of the most bitter chemical agents responsible for Absinthe's distinct taste. Wikipedia",
-            "type": "",
-            "Formula ": [
-                "C30H40O6"
-            ]
-        },
-        "2,5-Dimethoxy-4-methylamphetamine": {
-            "label": "2,5-Dimethoxy-4-methylamphetamine",
-            "description": "2,5-Dimethoxy-4-methylamphetamine is a psychedelic and a substituted amphetamine. It was first synthesized by Alexander Shulgin, and later reported in his book PiHKAL A Chemical Love Story. Wikipedia",
-            "type": "",
-            "Formula ": [
-                "C12H19NO2"
-            ],
-            "Molar mass ": [
-                "209.29 g/mol"
-            ],
-            "See results about": []
         },
         "Acesulfame potassium": {
             "label": "Acesulfame potassium",
@@ -273,6 +265,28 @@
             ],
             "Soluble in ": [
                 "Water"
+            ]
+        },
+        "Absinthin": {
+            "label": "Absinthin",
+            "description": "Absinthin is a naturally produced sesquiterpene lactone from the plant Artemisia absinthium. It constitutes one of the most bitter chemical agents responsible for Absinthe's distinct taste. Wikipedia",
+            "type": "",
+            "Formula ": [
+                "C30H40O6"
+            ]
+        },
+        "Acetochlor": {
+            "label": "Acetochlor",
+            "description": "Acetochlor is a herbicide developed by Monsanto Company and Zeneca. It is a member of the class of herbicides known as chloroacetanilides. Wikipedia",
+            "type": "",
+            "Formula ": [
+                "C14H20ClNO2"
+            ],
+            "Density ": [
+                "1.10 g/cm³"
+            ],
+            "Molar mass ": [
+                "269.767 g/mol"
             ]
         },
         "Acetone peroxide": {
@@ -345,31 +359,6 @@
                 "Water"
             ]
         },
-        "Acetochlor": {
-            "label": "Acetochlor",
-            "description": "Acetochlor is a herbicide developed by Monsanto Company and Zeneca. It is a member of the class of herbicides known as chloroacetanilides. Wikipedia",
-            "type": "",
-            "Formula ": [
-                "C14H20ClNO2"
-            ],
-            "Density ": [
-                "1.10 g/cm³"
-            ],
-            "Molar mass ": [
-                "269.767 g/mol"
-            ]
-        },
-        "Allyl alcohol": {
-            "label": "Allyl alcohol",
-            "description": "Allyl alcohol is an organic compound with the structural formula CH2=CHCH2OH. Like many alcohols, it is a water-soluble, colourless liquid, but it is more toxic than typical small alcohols. Wikipedia",
-            "type": "",
-            "Density ": [
-                "854.00 kg/m³"
-            ],
-            "Boiling point ": [
-                "206.6°F (97°C)"
-            ]
-        },
         "Aluminium fluoride": {
             "label": "Aluminium fluoride",
             "description": "Aluminium fluoride is an inorganic compound used primarily in the production of aluminium. This colorless solid can be prepared synthetically but also occurs in nature. It is used in the production of aluminium metal. Wikipedia",
@@ -385,6 +374,17 @@
             ],
             "Classification ": [
                 "Alum compounds"
+            ]
+        },
+        "Allyl alcohol": {
+            "label": "Allyl alcohol",
+            "description": "Allyl alcohol is an organic compound with the structural formula CH2=CHCH2OH. Like many alcohols, it is a water-soluble, colourless liquid, but it is more toxic than typical small alcohols. Wikipedia",
+            "type": "",
+            "Density ": [
+                "854.00 kg/m³"
+            ],
+            "Boiling point ": [
+                "206.6°F (97°C)"
             ]
         },
         "Aluminium iodide": {
@@ -472,6 +472,14 @@
                 "[(6-O-β-D-glucopyranosyl-β-D-glucopyranosyl)oxy](phenyl)acetonitrile"
             ]
         },
+        "Amyl nitrite": {
+            "label": "Amyl nitrite",
+            "description": "Amyl nitrite is the chemical compound with the formula C5H11ONO. A variety of isomers are known, but they all feature an amyl group attached to the nitrito functional group. Wikipedia",
+            "type": "",
+            "Density ": [
+                "872.00 kg/m³"
+            ]
+        },
         "Anandamide": {
             "label": "Anandamide",
             "description": "Anandamide, also known as N-arachidonoylethanolamine or AEA, is an endogenous cannabinoid neurotransmitter. The name is taken from the Sanskrit word ananda, which means \"bliss, delight\", and amide. Wikipedia",
@@ -486,22 +494,6 @@
                 "972.1°F (522.3°C)"
             ]
         },
-        "Amyl nitrite": {
-            "label": "Amyl nitrite",
-            "description": "Amyl nitrite is the chemical compound with the formula C5H11ONO. A variety of isomers are known, but they all feature an amyl group attached to the nitrito functional group. Wikipedia",
-            "type": "",
-            "Density ": [
-                "872.00 kg/m³"
-            ]
-        },
-        "Arabinose": {
-            "label": "Arabinose",
-            "description": "Arabinose is an aldopentose – a monosaccharide containing five carbon atoms, and including an aldehyde functional group. Wikipedia",
-            "type": "",
-            "Density ": [
-                "1.58 g/cm³"
-            ]
-        },
         "Anthracene": {
             "label": "Anthracene",
             "description": "Anthracene is a solid polycyclic aromatic hydrocarbon of formula C14H10, consisting of three fused benzene rings. It is a component of coal tar. Anthracene is used in the production of the red dye alizarin and other dyes. Wikipedia",
@@ -513,21 +505,12 @@
                 "644°F (340°C)"
             ]
         },
-        "Arsenic pentoxide": {
-            "label": "Arsenic pentoxide",
-            "description": "Arsenic pentoxide is the inorganic compound with the formula As2O5. This glassy, white, deliquescent solid is relatively unstable, consistent with the rarity of the As oxidation state. Wikipedia",
+        "Arabinose": {
+            "label": "Arabinose",
+            "description": "Arabinose is an aldopentose – a monosaccharide containing five carbon atoms, and including an aldehyde functional group. Wikipedia",
             "type": "",
-            "Formula ": [
-                "As2O5"
-            ],
             "Density ": [
-                "4.32 g/cm³"
-            ],
-            "Molar mass ": [
-                "229.8402 g/mol"
-            ],
-            "Melting point ": [
-                "599°F (315°C)"
+                "1.58 g/cm³"
             ]
         },
         "Ascaridole": {
@@ -548,6 +531,23 @@
             ],
             "Boiling point ": [
                 "104°F (40°C)"
+            ]
+        },
+        "Arsenic pentoxide": {
+            "label": "Arsenic pentoxide",
+            "description": "Arsenic pentoxide is the inorganic compound with the formula As2O5. This glassy, white, deliquescent solid is relatively unstable, consistent with the rarity of the As oxidation state. Wikipedia",
+            "type": "",
+            "Formula ": [
+                "As2O5"
+            ],
+            "Density ": [
+                "4.32 g/cm³"
+            ],
+            "Molar mass ": [
+                "229.8402 g/mol"
+            ],
+            "Melting point ": [
+                "599°F (315°C)"
             ]
         },
         "Aurantinidin": {
@@ -589,11 +589,6 @@
                 "559.4°F (293°C)"
             ]
         },
-        "Azorubine": {
-            "label": "Azorubine",
-            "description": "Azorubine, carmoisine, Food Red 3, Azorubin S, Brillantcarmoisin O, Acid Red 14, or C.I. 14720 is a synthetic red food dye from the azo dye group. It usually comes as a disodium salt. It is a red to maroon powder. Wikipedia",
-            "type": ""
-        },
         "Barium borate": {
             "label": "Barium borate",
             "description": "Barium borate is an inorganic compound, a borate of barium with a chemical formula BaB2O4 or Ba(BO2)2. It is available as a hydrate or dehydrated form, as white powder or colorless crystals. Wikipedia",
@@ -606,6 +601,11 @@
                 "940°F (1",
                 "060°C)"
             ]
+        },
+        "Azorubine": {
+            "label": "Azorubine",
+            "description": "Azorubine, carmoisine, Food Red 3, Azorubin S, Brillantcarmoisin O, Acid Red 14, or C.I. 14720 is a synthetic red food dye from the azo dye group. It usually comes as a disodium salt. It is a red to maroon powder. Wikipedia",
+            "type": ""
         },
         "Barium chromate": {
             "label": "Barium chromate",
@@ -722,21 +722,6 @@
             "type": "",
             "See results about": []
         },
-        "Benzothiazole": {
-            "label": "Benzothiazole",
-            "description": "Benzothiazole is an aromatic heterocyclic compound with the chemical formula C\n7H\n5NS. It is colorless, slightly viscous liquid. Wikipedia",
-            "type": "",
-            "Density ": [
-                "1.24 g/cm³"
-            ],
-            "Molar mass ": [
-                "135.1863 g/mol"
-            ],
-            "Drugs in class ": [
-                "Riluzole"
-            ],
-            "People also search for": []
-        },
         "Beryllium chloride": {
             "label": "Beryllium chloride",
             "description": "Beryllium chloride is an inorganic compound with the formula BeCl2. It is a colourless, hygroscopic solid that dissolves well in many polar solvents. Wikipedia",
@@ -753,6 +738,26 @@
             "Boiling point ": [
                 "968°F (520°C)"
             ]
+        },
+        "Benzothiazole": {
+            "label": "Benzothiazole",
+            "description": "Benzothiazole is an aromatic heterocyclic compound with the chemical formula C\n7H\n5NS. It is colorless, slightly viscous liquid. Wikipedia",
+            "type": "",
+            "Density ": [
+                "1.24 g/cm³"
+            ],
+            "Molar mass ": [
+                "135.1863 g/mol"
+            ],
+            "Drugs in class ": [
+                "Riluzole"
+            ],
+            "People also search for": []
+        },
+        "Beta-Methylamino-L-alanine": {
+            "label": "beta-Methylamino-L-alanine",
+            "description": "β-Methylamino-L-alanine, or BMAA, is a non-proteinogenic amino acid produced by cyanobacteria. Wikipedia",
+            "type": ""
         },
         "Beta-Hydroxy beta-methylbutyric acid": {
             "label": "beta-Hydroxy beta-methylbutyric acid",
@@ -776,11 +781,6 @@
             "Boiling point ": [
                 "190.4°F (88°C)"
             ]
-        },
-        "Beta-Methylamino-L-alanine": {
-            "label": "beta-Methylamino-L-alanine",
-            "description": "β-Methylamino-L-alanine, or BMAA, is a non-proteinogenic amino acid produced by cyanobacteria. Wikipedia",
-            "type": ""
         },
         "Betulinic acid": {
             "label": "Betulinic acid",
@@ -836,6 +836,28 @@
             ],
             "See results about": []
         },
+        "Bisabolol": {
+            "label": "Bisabolol",
+            "description": "Bisabolol, or more formally α--bisabolol or also known as levomenol, is a natural monocyclic sesquiterpene alcohol. It is a colorless viscous oil that is the primary constituent of the essential oil from German chamomile and Myoporum crassifolium. Wikipedia",
+            "type": "",
+            "Density ": [
+                "920.00 kg/m³"
+            ]
+        },
+        "Bismuth(III) sulfide": {
+            "label": "Bismuth(III) sulfide",
+            "description": "Bismuth(III) sulfide is a chemical compound of bismuth and sulfur. It occurs in nature as the mineral bismuthinite. Wikipedia",
+            "type": "",
+            "Formula ": [
+                "Bi2S3"
+            ],
+            "Density ": [
+                "6.78 g/cm³"
+            ],
+            "Molar mass ": [
+                "514.16 g/mol"
+            ]
+        },
         "Bismuth(III) oxide": {
             "label": "Bismuth(III) oxide",
             "description": "Bismuth(III) oxide is perhaps the most industrially important compound of bismuth. It is also a common starting point for bismuth chemistry. Wikipedia",
@@ -857,28 +879,6 @@
                 "3",
                 "434°F (1",
                 "890°C)"
-            ]
-        },
-        "Bisabolol": {
-            "label": "Bisabolol",
-            "description": "Bisabolol, or more formally α--bisabolol or also known as levomenol, is a natural monocyclic sesquiterpene alcohol. It is a colorless viscous oil that is the primary constituent of the essential oil from German chamomile and Myoporum crassifolium. Wikipedia",
-            "type": "",
-            "Density ": [
-                "920.00 kg/m³"
-            ]
-        },
-        "Bismuth(III) sulfide": {
-            "label": "Bismuth(III) sulfide",
-            "description": "Bismuth(III) sulfide is a chemical compound of bismuth and sulfur. It occurs in nature as the mineral bismuthinite. Wikipedia",
-            "type": "",
-            "Formula ": [
-                "Bi2S3"
-            ],
-            "Density ": [
-                "6.78 g/cm³"
-            ],
-            "Molar mass ": [
-                "514.16 g/mol"
             ]
         },
         "Bismuthine": {
@@ -1046,6 +1046,23 @@
                 "Water"
             ]
         },
+        "Canavanine": {
+            "label": "Canavanine",
+            "description": "L---Canavanine is a non-proteinogenic α-amino acid found in certain leguminous plants. It is structurally related to the proteinogenic α-amino acid L-arginine, the sole difference being the replacement ... Wikipedia",
+            "type": "",
+            "Formula ": [
+                "C5N4H12O3"
+            ],
+            "Density ": [
+                "1.61 g/cm³"
+            ],
+            "Molar mass ": [
+                "176.1738 g/mol"
+            ],
+            "Boiling point ": [
+                "808.2°F (431.2°C)"
+            ]
+        },
         "Cantharidin": {
             "label": "Cantharidin",
             "description": "Cantharidin, a type of terpenoid, is a chemical compound secreted by many species of blister beetle, and most notably by the Spanish fly, Lytta vesicatoria. The false blister beetles, cardinal beetles and soldier beetles also produce cantharidin. Wikipedia",
@@ -1070,37 +1087,6 @@
                 "5-dione"
             ]
         },
-        "Canavanine": {
-            "label": "Canavanine",
-            "description": "L---Canavanine is a non-proteinogenic α-amino acid found in certain leguminous plants. It is structurally related to the proteinogenic α-amino acid L-arginine, the sole difference being the replacement ... Wikipedia",
-            "type": "",
-            "Formula ": [
-                "C5N4H12O3"
-            ],
-            "Density ": [
-                "1.61 g/cm³"
-            ],
-            "Molar mass ": [
-                "176.1738 g/mol"
-            ],
-            "Boiling point ": [
-                "808.2°F (431.2°C)"
-            ]
-        },
-        "Caprolactam": {
-            "label": "Caprolactam",
-            "description": "Caprolactam is an organic compound with the formula (CH2)5CNH. This colourless solid is a lactam or a cyclic amide of caproic acid. Approximately 4.5 billion kilograms are produced annually. Wikipedia",
-            "type": "",
-            "Formula ": [
-                "C6H11NO"
-            ],
-            "Melting point ": [
-                "154.4°F (68°C)"
-            ],
-            "Molar mass ": [
-                "113.16 g/mol"
-            ]
-        },
         "Carbazole": {
             "label": "Carbazole",
             "description": "Carbazole is an aromatic heterocyclic organic compound. It has a tricyclic structure, consisting of two six-membered benzene rings fused on either side of a five-membered nitrogen-containing ring. Wikipedia",
@@ -1119,6 +1105,20 @@
             ],
             "Boiling point ": [
                 "670.4°F (354.7°C)"
+            ]
+        },
+        "Caprolactam": {
+            "label": "Caprolactam",
+            "description": "Caprolactam is an organic compound with the formula (CH2)5CNH. This colourless solid is a lactam or a cyclic amide of caproic acid. Approximately 4.5 billion kilograms are produced annually. Wikipedia",
+            "type": "",
+            "Formula ": [
+                "C6H11NO"
+            ],
+            "Melting point ": [
+                "154.4°F (68°C)"
+            ],
+            "Molar mass ": [
+                "113.16 g/mol"
             ]
         },
         "Carbethopendecinium bromide": {
@@ -1140,6 +1140,11 @@
                 "1.18 g/cm³"
             ]
         },
+        "Carbosulfan": {
+            "label": "Carbosulfan",
+            "description": "Carbosulfan is an organic compound adherent to the carbamate class. At normal conditions, it is brown viscose liquid. It is not very stable; it decomposes slowly at room temperature. Wikipedia",
+            "type": ""
+        },
         "Carbon tetraiodide": {
             "label": "Carbon tetraiodide",
             "description": "Carbon tetraiodide is CI4, a tetrahalomethane. Being bright red, it is a relatively rare example of a highly colored methane derivative. It is only 2% by weight carbon, although other methane derivatives are known with still less carbon. Wikipedia",
@@ -1156,11 +1161,6 @@
             "Melting point ": [
                 "339.8°F (171°C)"
             ]
-        },
-        "Carbosulfan": {
-            "label": "Carbosulfan",
-            "description": "Carbosulfan is an organic compound adherent to the carbamate class. At normal conditions, it is brown viscose liquid. It is not very stable; it decomposes slowly at room temperature. Wikipedia",
-            "type": ""
         },
         "Carmustine": {
             "label": "Carmustine",
@@ -1216,6 +1216,20 @@
             ],
             "People also search for": []
         },
+        "Carvacrol": {
+            "label": "Carvacrol",
+            "description": "Carvacrol, or cymophenol, C6H3CH3, is a monoterpenoid phenol. It has a characteristic pungent, warm odor of oregano. Wikipedia",
+            "type": "",
+            "Density ": [
+                "977.20 kg/m³"
+            ],
+            "Formula ": [
+                "C10H14O"
+            ],
+            "Molar mass ": [
+                "150.217 g/mol"
+            ]
+        },
         "Cellobiose": {
             "label": "Cellobiose",
             "description": "Cellobiose is a disaccharide with the formula [HOCH2CHO(CHOH)3]2O. Cellobiose consists of two glucose molecules linked by a β bond. It can be hydrolyzed to glucose enzymatically or with acid. Wikipedia",
@@ -1229,11 +1243,6 @@
             "Boiling point ": [
                 "437°F (225°C)"
             ]
-        },
-        "Cetylpyridinium chloride": {
-            "label": "Cetylpyridinium chloride",
-            "description": "Cetylpyridinium chloride is a cationic quaternary ammonium compound used in some types of mouthwashes, toothpastes, lozenges, throat sprays, breath sprays, and nasal sprays. It is an antiseptic that kills bacteria and other microorganisms. Wikipedia",
-            "type": ""
         },
         "Chlordane": {
             "label": "Chlordane",
@@ -1254,6 +1263,11 @@
             "Boiling point ": [
                 "347°F (175°C)"
             ]
+        },
+        "Cetylpyridinium chloride": {
+            "label": "Cetylpyridinium chloride",
+            "description": "Cetylpyridinium chloride is a cationic quaternary ammonium compound used in some types of mouthwashes, toothpastes, lozenges, throat sprays, breath sprays, and nasal sprays. It is an antiseptic that kills bacteria and other microorganisms. Wikipedia",
+            "type": ""
         },
         "Chloroprene": {
             "label": "Chloroprene",
@@ -1317,20 +1331,6 @@
             "description": "Chorismic acid, more commonly known as its anionic form chorismate, is an important biochemical intermediate in plants and microorganisms. Wikipedia",
             "type": ""
         },
-        "Carvacrol": {
-            "label": "Carvacrol",
-            "description": "Carvacrol, or cymophenol, C6H3CH3, is a monoterpenoid phenol. It has a characteristic pungent, warm odor of oregano. Wikipedia",
-            "type": "",
-            "Density ": [
-                "977.20 kg/m³"
-            ],
-            "Formula ": [
-                "C10H14O"
-            ],
-            "Molar mass ": [
-                "150.217 g/mol"
-            ]
-        },
         "Chromium(IV) oxide": {
             "label": "Chromium(IV) oxide",
             "description": "Chromium dioxide or chromium(IV) oxide is a synthetic magnetic substance once widely used in magnetic tape emulsion. With the increasing popularity of CDs and DVDs, the use of chromium(IV) oxide has declined. Wikipedia",
@@ -1382,28 +1382,28 @@
         "label": 96,
         "description": 96,
         "type": 96,
-        "Density ": 60,
-        "Molar mass ": 64,
-        "See results about": 12,
-        "Formula ": 65,
-        "Melting point ": 28,
-        "Boiling point ": 27,
-        "IUPAC ID ": 11,
-        "Classification ": 2,
-        "Soluble in ": 6,
-        "Drugs in class ": 2,
-        "People also search for": 3,
-        "Brand names ": 1,
-        "CAS ID ": 1,
-        "Pregnancy risk ": 1,
-        "Drug class ": 1,
-        "Other drugs in same class ": 1,
-        "May treat ": 1
+        "density": 1,
+        "molar_mass": 1,
+        "see_results_about": 1,
+        "formula": 1,
+        "melting_point": 1,
+        "boiling_point": 1,
+        "iupac_id": 1,
+        "classification": 1,
+        "soluble_in": 1,
+        "drugs_in_class": 1,
+        "people_also_search_for": 1,
+        "brand_names": 1,
+        "cas_id": 1,
+        "pregnancy_risk": 1,
+        "drug_class": 1,
+        "other_drugs_in_same_class": 1,
+        "may_treat": 1
     },
     "infoboxless": [
-        "Aluminium monochloride",
         "Aluminium chloride",
-        "Carboxymethyl cellulose",
-        "Amyl nitrate"
+        "Aluminium monochloride",
+        "Amyl nitrate",
+        "Carboxymethyl cellulose"
     ]
 }

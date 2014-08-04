@@ -1,19 +1,5 @@
 {
     "instances": {
-        "Bernardo Rezende": {
-            "label": "Bernardo Rezende",
-            "description": "Bernardo Rocha de Rezende known as Bernardinho is a Brazilian volleyball coach and former volleyball player. He is the current coach of both Brazil men's national volleyball team and the female volleyball team Rio de Janeiro Vôlei Clube. Wikipedia",
-            "type": "Coach",
-            "Born ": "May 28, 1959 (age 54), Rio de Janeiro, Rio de Janeiro, Brazil",
-            "Spouse ": [
-                "Fernanda Venturini (m. 1999)"
-            ],
-            "Children ": [
-                "Bruno Rezende",
-                " Julia Rezende"
-            ],
-            "People also search for": []
-        },
         "Mike Hebert": {
             "label": "Mike Hebert",
             "description": "Mike Hebert is a retired American volleyball coach.\nHe coached since 1976 and in his career, he coached Pittsburgh men and women's team, New Mexico women's team, Illinois women's team, and Minnesota women's team. Wikipedia",
@@ -28,34 +14,25 @@
             ],
             "People also search for": []
         },
-        "Pete Waite": {
-            "label": "Pete Waite",
-            "description": "William Peter Waite is an American volleyball coach and author, and is a former head coach for the women's volleyball team at Wisconsin. Wikipedia",
-            "type": "Coach",
-            "Born ": [
-                "United States of America"
-            ],
-            "Education ": [
-                "Ball State University",
-                " Monona Grove High School"
-            ],
-            "People also search for": []
-        },
-        "Arnie Ball": {
-            "label": "Arnie Ball",
-            "description": "Armond J. \"Arnie\" Ball began his 30th season in 2010 as the head coach of the IPFW Men's Mastodon volleyball program. Coach Ball has established a legacy on the courts of both the Mastodons and the national scenes. Wikipedia",
-            "type": "Coach",
-            "Born ": "November 12, 1944 (age 69), United States of America",
-            "Education ": [
-                "Ball State University"
-            ],
-            "People also search for": []
-        },
         "Julio Velasco": {
             "label": "Julio Velasco",
             "description": "Julio Velasco is a professional volleyball coach from Argentina, who guided the Italian national men's team to several successes in the 1990s. After the 1996 Summer Olympics, where the Italians won silver, he switched to the Italian women's team. Wikipedia",
             "type": "",
             "Born ": "February 9, 1952 (age 62), La Plata, Argentina",
+            "People also search for": []
+        },
+        "Bernardo Rezende": {
+            "label": "Bernardo Rezende",
+            "description": "Bernardo Rocha de Rezende known as Bernardinho is a Brazilian volleyball coach and former volleyball player. He is the current coach of both Brazil men's national volleyball team and the female volleyball team Rio de Janeiro Vôlei Clube. Wikipedia",
+            "type": "Coach",
+            "Born ": "May 28, 1959 (age 54), Rio de Janeiro, Rio de Janeiro, Brazil",
+            "Spouse ": [
+                "Fernanda Venturini (m. 1999)"
+            ],
+            "Children ": [
+                "Bruno Rezende",
+                " Julia Rezende"
+            ],
             "People also search for": []
         },
         "Michael Sealy": {
@@ -67,6 +44,12 @@
                 "University of California",
                 " Los Angeles"
             ],
+            "People also search for": []
+        },
+        "John Speraw": {
+            "label": "John Speraw",
+            "description": "John Speraw, is an American volleyball coach. He is the head coach of the men's volleyball team at UCLA and United states national olympic volleyball team assistant coach. Wikipedia",
+            "type": "",
             "People also search for": []
         },
         "Harlan Cohen": {
@@ -121,23 +104,6 @@
             ],
             "People also search for": []
         },
-        "John Speraw": {
-            "label": "John Speraw",
-            "description": "John Speraw, is an American volleyball coach. He is the head coach of the men's volleyball team at UCLA and United states national olympic volleyball team assistant coach. Wikipedia",
-            "type": "",
-            "People also search for": []
-        },
-        "Cecile Reynaud": {
-            "label": "Cecile Reynaud",
-            "description": "Dr. Cecile Reynaud is a well-known volleyball educator and a retired coach of the Florida State Lady Seminoles volleyball team. She is currently an associate professor with the sport management program at Florida State University. Wikipedia",
-            "type": "",
-            "Born ": "August 7, 1953 (age 60), Webster Groves, Missouri, United States",
-            "Education ": [
-                "Florida State University",
-                " Missouri State University"
-            ],
-            "People also search for": []
-        },
         "Jan De Brandt": {
             "label": "Jan De Brandt",
             "description": "Jan De Brandt is a Belgian former volleyball player and current free agent coach. He last coached for Igtisadchi Baku for 2010-11 season. Wikipedia",
@@ -154,6 +120,40 @@
             "Born ": [
                 "Turkey"
             ]
+        },
+        "Pete Waite": {
+            "label": "Pete Waite",
+            "description": "William Peter Waite is an American volleyball coach and author, and is a former head coach for the women's volleyball team at Wisconsin. Wikipedia",
+            "type": "Coach",
+            "Born ": [
+                "United States of America"
+            ],
+            "Education ": [
+                "Ball State University",
+                " Monona Grove High School"
+            ],
+            "People also search for": []
+        },
+        "Arnie Ball": {
+            "label": "Arnie Ball",
+            "description": "Armond J. \"Arnie\" Ball began his 30th season in 2010 as the head coach of the IPFW Men's Mastodon volleyball program. Coach Ball has established a legacy on the courts of both the Mastodons and the national scenes. Wikipedia",
+            "type": "Coach",
+            "Born ": "November 12, 1944 (age 69), United States of America",
+            "Education ": [
+                "Ball State University"
+            ],
+            "People also search for": []
+        },
+        "Cecile Reynaud": {
+            "label": "Cecile Reynaud",
+            "description": "Dr. Cecile Reynaud is a well-known volleyball educator and a retired coach of the Florida State Lady Seminoles volleyball team. She is currently an associate professor with the sport management program at Florida State University. Wikipedia",
+            "type": "",
+            "Born ": "August 7, 1953 (age 60), Webster Groves, Missouri, United States",
+            "Education ": [
+                "Florida State University",
+                " Missouri State University"
+            ],
+            "People also search for": []
         },
         "Andy Banachowski": {
             "label": "Andy Banachowski",
@@ -190,13 +190,13 @@
         "label": 18,
         "description": 18,
         "type": 18,
-        "Born ": 17,
-        "Spouse ": 1,
-        "Children ": 1,
-        "People also search for": 15,
-        "Education ": 9,
-        "Books ": 1,
-        "Died ": 1
+        "born": 1,
+        "education": 1,
+        "people_also_search_for": 1,
+        "spouse": 1,
+        "children": 1,
+        "books": 1,
+        "died": 1
     },
     "infoboxless": []
 }

@@ -1,14 +1,8 @@
 {
     "instances": {
-        "Central Motorway Junction": {
-            "label": "Central Motorway Junction",
-            "description": "The Central Motorway Junction or CMJ, is the intersection of New Zealand State Highways 1 and 16, just south of the central business district of Auckland. Wikipedia",
-            "type": "",
-            "People also search for": []
-        },
-        "Newark Airport Interchange": {
-            "label": "Newark Airport Interchange",
-            "description": "The Newark Airport Interchange is a massive interchange of Interstate 78, U.S. Route 1-9, U.S. Route 22, New Jersey Route 21, and Interstate 95 at the northern edge of Newark Liberty International Airport in Newark, New Jersey. Wikipedia",
+        "Grandview Triangle": {
+            "label": "Grandview Triangle",
+            "description": "The 3-Trails Crossing Memorial Highway is the official name for a highway interchange in south Kansas City, Missouri that was once considered one of Missouri's most congested locations. Wikipedia",
             "type": ""
         },
         "El Toro Y": {
@@ -19,14 +13,20 @@
                 "Irvine"
             ]
         },
-        "Grandview Triangle": {
-            "label": "Grandview Triangle",
-            "description": "The 3-Trails Crossing Memorial Highway is the official name for a highway interchange in south Kansas City, Missouri that was once considered one of Missouri's most congested locations. Wikipedia",
+        "Newark Airport Interchange": {
+            "label": "Newark Airport Interchange",
+            "description": "The Newark Airport Interchange is a massive interchange of Interstate 78, U.S. Route 1-9, U.S. Route 22, New Jersey Route 21, and Interstate 95 at the northern edge of Newark Liberty International Airport in Newark, New Jersey. Wikipedia",
             "type": ""
         },
-        "Anna Flyover": {
-            "label": "Anna Flyover",
-            "description": "Anna Flyover, also known as Gemini Flyover, is a dual-armed flyover in the central business district of Chennai, India. Wikipedia",
+        "Central Motorway Junction": {
+            "label": "Central Motorway Junction",
+            "description": "The Central Motorway Junction or CMJ, is the intersection of New Zealand State Highways 1 and 16, just south of the central business district of Auckland. Wikipedia",
+            "type": "",
+            "People also search for": []
+        },
+        "Braintree Split": {
+            "label": "Braintree Split",
+            "description": "The Braintree Split is the intersection of Interstate 93/U.S. Route 1 and Massachusetts Route 3 located along the city line separating Braintree and Quincy, Massachusetts. Wikipedia",
             "type": ""
         },
         "Almondsbury Interchange": {
@@ -35,14 +35,9 @@
             "type": "",
             "People also search for": []
         },
-        "South Bay Interchange": {
-            "label": "South Bay Interchange",
-            "description": "The South Bay Interchange is a massive interchange in the South Bay region of Boston, Massachusetts, in the US. Wikipedia",
-            "type": ""
-        },
-        "Braintree Split": {
-            "label": "Braintree Split",
-            "description": "The Braintree Split is the intersection of Interstate 93/U.S. Route 1 and Massachusetts Route 3 located along the city line separating Braintree and Quincy, Massachusetts. Wikipedia",
+        "Anna Flyover": {
+            "label": "Anna Flyover",
+            "description": "Anna Flyover, also known as Gemini Flyover, is a dual-armed flyover in the central business district of Chennai, India. Wikipedia",
             "type": ""
         },
         "Cemetery Junction, Reading": {
@@ -50,15 +45,15 @@
             "description": "Cemetery Junction is a road junction in East Reading, bordering on Newtown, in the town of Reading in the English county of Berkshire. Wikipedia",
             "type": "Road in Reading, England"
         },
+        "South Bay Interchange": {
+            "label": "South Bay Interchange",
+            "description": "The South Bay Interchange is a massive interchange in the South Bay region of Boston, Massachusetts, in the US. Wikipedia",
+            "type": ""
+        },
         "Zoo Interchange": {
             "label": "Zoo Interchange",
             "description": "The Zoo Interchange is a freeway Interchange on the west side of Milwaukee, Wisconsin. It was built in 1963, as one of the first Interstate Highway projects in Wisconsin. It forms the junction of I-94, I-894, and US 45. Wikipedia",
             "type": "Freeway in Wisconsin"
-        },
-        "Neale Junction": {
-            "label": "Neale Junction",
-            "description": "",
-            "type": ""
         },
         "East Los Angeles Interchange": {
             "label": "East Los Angeles Interchange",
@@ -67,6 +62,11 @@
             "Major cities ": [
                 "Los Angeles"
             ]
+        },
+        "Neale Junction": {
+            "label": "Neale Junction",
+            "description": "",
+            "type": ""
         },
         "Anna J. Cooper Circle": {
             "label": "Anna J. Cooper Circle",
@@ -87,6 +87,11 @@
             "description": "",
             "type": ""
         },
+        "Kanfanar interchange": {
+            "label": "Kanfanar interchange",
+            "description": "The Kanfanar interchange is a cloverleaf interchange west of Kanfanar, Croatia. The interchange represents the western terminus of the A8 motorway and it connects the A8 route to the A9 motorway ... Wikipedia",
+            "type": ""
+        },
         "Penns Neck Circle": {
             "label": "Penns Neck Circle",
             "description": "Penns Neck Circle is a traffic circle in West Windsor Township, New Jersey. It is located at the junction of US 1 and Washington Road. It is a major intersection, as Washington Road is one of three connections between US 1 and Princeton, New Jersey. Wikipedia",
@@ -103,11 +108,6 @@
         "Tetteh Quarshie Interchange": {
             "label": "Tetteh Quarshie Interchange",
             "description": "The Tetteh Quarshie Interchange is a cloverleaf interchange carrying a six-lane motorway that links the Liberation Road from 37 military hospital to the Pantang junction through Madina in Accra, Ghana. Wikipedia",
-            "type": ""
-        },
-        "Kanfanar interchange": {
-            "label": "Kanfanar interchange",
-            "description": "The Kanfanar interchange is a cloverleaf interchange west of Kanfanar, Croatia. The interchange represents the western terminus of the A8 motorway and it connects the A8 route to the A9 motorway ... Wikipedia",
             "type": ""
         },
         "Makupa Circus": {
@@ -133,6 +133,11 @@
                 " D.C."
             ]
         },
+        "Bruckner Interchange": {
+            "label": "Bruckner Interchange",
+            "description": "The Bruckner Interchange is a complex interchange in the New York City borough of the Bronx in the United States. The junction connects four highways the Bruckner, Cross Bronx, and Hutchinson River expressways, and the Hutchinson River Parkway. Wikipedia",
+            "type": "Highway in New York City, New York"
+        },
         "Downtown freeway loop": {
             "label": "Downtown freeway loop",
             "description": "The downtown loop, also nicknamed the \"Alphabet Loop\", is a complex layout of highways in downtown Kansas City, Missouri involving 23 exits, four Interstate Highways, four U.S. Highways and numerous city streets. Wikipedia",
@@ -147,26 +152,24 @@
                 " San Dimas"
             ]
         },
-        "Four Mile Circle": {
-            "label": "Four Mile Circle",
-            "description": "Four Mile Circle is a traffic circle in the U.S. state of New Jersey. It is located at the junction of Route 70, Route 72, Buddtown Road, and New Lisbon Road. Wikipedia",
-            "type": ""
-        },
-        "Bruckner Interchange": {
-            "label": "Bruckner Interchange",
-            "description": "The Bruckner Interchange is a complex interchange in the New York City borough of the Bronx in the United States. The junction connects four highways the Bruckner, Cross Bronx, and Hutchinson River expressways, and the Hutchinson River Parkway. Wikipedia",
-            "type": "Highway in New York City, New York"
-        },
-        "Los Alamitos Circle": {
-            "label": "Traffic Circle",
-            "description": "The Los Alamitos Traffic Circle, informally known as the Long Beach Traffic Circle, is a roundabout at the intersection of Lakewood Boulevard, Pacific Coast Highway and Los Coyotes Diagonal in Long Beach, California. Wikipedia",
-            "type": ""
-        },
         "MacArthur Maze": {
             "label": "MacArthur Maze",
             "description": "The MacArthur Maze is a large freeway interchange located near the eastern end of the San Francisco–Oakland Bay Bridge in Oakland, California. Wikipedia",
             "type": "",
             "People also search for": []
+        },
+        "Four Mile Circle": {
+            "label": "Four Mile Circle",
+            "description": "Four Mile Circle is a traffic circle in the U.S. state of New Jersey. It is located at the junction of Route 70, Route 72, Buddtown Road, and New Lisbon Road. Wikipedia",
+            "type": ""
+        },
+        "Sam Yan": {
+            "label": "Sam Yan",
+            "description": "Sam Yan is the name of an intersection and its nearby neighbourhood in Bangkok, Thailand. It connects Rama IV Road with Phaya Thai Road to the north and Si Phraya Road to the south, and is located within ... Wikipedia",
+            "type": "",
+            "Address ": [
+                "Thailand"
+            ]
         },
         "Orange Crush interchange": {
             "label": "Orange Crush interchange",
@@ -175,6 +178,11 @@
             "Major cities ": [
                 "Orange"
             ]
+        },
+        "Los Alamitos Circle": {
+            "label": "Traffic Circle",
+            "description": "The Los Alamitos Traffic Circle, informally known as the Long Beach Traffic Circle, is a roundabout at the intersection of Lakewood Boulevard, Pacific Coast Highway and Los Coyotes Diagonal in Long Beach, California. Wikipedia",
+            "type": ""
         },
         "SuperRedTan Interchange": {
             "label": "SuperRedTan Interchange",
@@ -187,19 +195,6 @@
                 "Mesa"
             ]
         },
-        "Victory Circle": {
-            "label": "Victory Circle Chassis & Parts",
-            "description": "",
-            "type": ""
-        },
-        "Sam Yan": {
-            "label": "Sam Yan",
-            "description": "Sam Yan is the name of an intersection and its nearby neighbourhood in Bangkok, Thailand. It connects Rama IV Road with Phaya Thai Road to the north and Si Phraya Road to the south, and is located within ... Wikipedia",
-            "type": "",
-            "Address ": [
-                "Thailand"
-            ]
-        },
         "Chevy Chase Circle": {
             "label": "Chevy Chase Circle",
             "description": "Chevy Chase Circle is a traffic circle straddling the border of Chevy Chase, Washington, D.C. and Chevy Chase, Maryland. Wikipedia",
@@ -210,9 +205,19 @@
             "description": "Chennai Airport Flyover is a 1.6 km long flyover in front of the Chennai International Airport in Chennai city. Wikipedia",
             "type": ""
         },
-        "Madhya Kailash Junction": {
-            "label": "Madhya Kailash Junction",
-            "description": "The Madhya Kailash Junction is an important junction in the southern part of the city of Chennai. It is located at the beginning of the Rajiv Gandhi Salai which intersects the Sardar Patel Road in the form of \"T\". Wikipedia",
+        "Victory Circle": {
+            "label": "Victory Circle Chassis & Parts",
+            "description": "",
+            "type": ""
+        },
+        "Orehovica interchange": {
+            "label": "Orehovica interchange",
+            "description": "The Orehovica interchange is a trumpet interchange in Rijeka, Croatia. The interchange represents the southern terminus of the A6 motorway and it connects the A6 route to the A7 motorway between Škurinje ... Wikipedia",
+            "type": ""
+        },
+        "Ngauranga Interchange": {
+            "label": "Ngauranga Interchange",
+            "description": "The Ngauranga Interchange is a major interchange in the suburb of Ngauranga, in Wellington City, New Zealand. Wikipedia",
             "type": ""
         },
         "Turcot Interchange": {
@@ -226,25 +231,10 @@
                 "Montreal"
             ]
         },
-        "Ngauranga Interchange": {
-            "label": "Ngauranga Interchange",
-            "description": "The Ngauranga Interchange is a major interchange in the suburb of Ngauranga, in Wellington City, New Zealand. Wikipedia",
+        "Madhya Kailash Junction": {
+            "label": "Madhya Kailash Junction",
+            "description": "The Madhya Kailash Junction is an important junction in the southern part of the city of Chennai. It is located at the beginning of the Rajiv Gandhi Salai which intersects the Sardar Patel Road in the form of \"T\". Wikipedia",
             "type": ""
-        },
-        "Orehovica interchange": {
-            "label": "Orehovica interchange",
-            "description": "The Orehovica interchange is a trumpet interchange in Rijeka, Croatia. The interchange represents the southern terminus of the A6 motorway and it connects the A6 route to the A7 motorway between Škurinje ... Wikipedia",
-            "type": ""
-        },
-        "Judge Harry Pregerson Interchange": {
-            "label": "Judge Harry Pregerson Interchange",
-            "description": "The Judge Harry Pregerson Interchange is a stack interchange near the Athens and Watts communities of Los Angeles, California. Wikipedia",
-            "type": "Freeway in California",
-            "Major cities ": [
-                "Los Angeles",
-                " Gardena",
-                " Inglewood"
-            ]
         },
         "Spaghetti Bowl (Las Vegas)": {
             "label": "Spaghetti Bowl",
@@ -257,6 +247,11 @@
                 " United States"
             ]
         },
+        "Circle Interchange": {
+            "label": "Circle Interchange",
+            "description": "The Circle Interchange is an expressway interchange near downtown Chicago, Illinois. It is the junction between the Dan Ryan, Kennedy and Eisenhower Expressways, and Congress Parkway. Wikipedia",
+            "type": ""
+        },
         "Pinehurst Circle": {
             "label": "Pinehurst Circle",
             "description": "Pinehurst Circle is at the intersection of Western and Utah Avenues and 33rd and Worthington Streets in Northwest Washington, D.C. Wikipedia",
@@ -266,10 +261,15 @@
                 " D.C."
             ]
         },
-        "Circle Interchange": {
-            "label": "Circle Interchange",
-            "description": "The Circle Interchange is an expressway interchange near downtown Chicago, Illinois. It is the junction between the Dan Ryan, Kennedy and Eisenhower Expressways, and Congress Parkway. Wikipedia",
-            "type": ""
+        "Judge Harry Pregerson Interchange": {
+            "label": "Judge Harry Pregerson Interchange",
+            "description": "The Judge Harry Pregerson Interchange is a stack interchange near the Athens and Watts communities of Los Angeles, California. Wikipedia",
+            "type": "Freeway in California",
+            "Major cities ": [
+                "Los Angeles",
+                " Gardena",
+                " Inglewood"
+            ]
         },
         "Magic Roundabout (Swindon)": {
             "label": "Magic Roundabout",
@@ -293,14 +293,6 @@
                 " India"
             ]
         },
-        "High Five Interchange": {
-            "label": "High Five Interchange",
-            "description": "The High Five Interchange is the first five-level stack interchange built in Dallas, Texas. Located at the junction of the Lyndon B. Johnson Freeway and the Central Expressway, it replaces an antiquated ... Wikipedia",
-            "type": "Freeway in Texas",
-            "Major cities ": [
-                "Dallas"
-            ]
-        },
         "Mousetrap (Denver)": {
             "label": "Mousetrap",
             "description": "The Mousetrap is an informal name for the interchange of Interstate 25 and Interstate 70 in the northern part of Denver, Colorado, USA. Wikipedia",
@@ -310,6 +302,22 @@
             "label": "Pennsylvania Turnpike/Interstate 95 Interchange Project",
             "description": "The Pennsylvania Turnpike/Interstate 95 Interchange Project is a project in the United States to build an interchange where Interstate 95 crosses the Pennsylvania Turnpike in Bristol Township, Pennsylvania. Wikipedia",
             "type": "Turnpike in United States of America"
+        },
+        "High Five Interchange": {
+            "label": "High Five Interchange",
+            "description": "The High Five Interchange is the first five-level stack interchange built in Dallas, Texas. Located at the junction of the Lyndon B. Johnson Freeway and the Central Expressway, it replaces an antiquated ... Wikipedia",
+            "type": "Freeway in Texas",
+            "Major cities ": [
+                "Dallas"
+            ]
+        },
+        "Kennedy Interchange": {
+            "label": "Kennedy Interchange",
+            "description": "The Kennedy Interchange, unofficially, though universally, referred to as Spaghetti Junction, is the intersection of Interstates 64, 65 and 71 at the northeastern edge of downtown Louisville, Kentucky, USA. Wikipedia",
+            "type": "",
+            "Constructed ": [
+                "1964"
+            ]
         },
         "Red Cow interchange": {
             "label": "Red Cow interchange",
@@ -327,18 +335,18 @@
             "type": "",
             "People also search for": []
         },
-        "Kennedy Interchange": {
-            "label": "Kennedy Interchange",
-            "description": "The Kennedy Interchange, unofficially, though universally, referred to as Spaghetti Junction, is the intersection of Interstates 64, 65 and 71 at the northeastern edge of downtown Louisville, Kentucky, USA. Wikipedia",
-            "type": "",
-            "Constructed ": [
-                "1964"
-            ]
-        },
         "Barney Circle": {
             "label": "Barney Circle",
             "description": "Barney Circle is a small neighborhood located on the western bank of the Anacostia River in southeast Washington, D.C. The \"circle\" refers to the traffic circle that intersects Pennsylvania Avenue SE as it crosses the Anacostia. Wikipedia",
             "type": "Neighborhood in Washington, D.C."
+        },
+        "Four Level Interchange": {
+            "label": "Four Level Interchange",
+            "description": "The Four Level Interchange was the first stack interchange in the world. Completed in 1949 and fully opened in 1953 at the northern edge of Downtown Los Angeles, California, USA, it connects U.S. Route 101 to State Route 110. Wikipedia",
+            "type": "Freeway in California",
+            "Major cities ": [
+                "Hollywood"
+            ]
         },
         "Alemany Maze": {
             "label": "Alemany Maze",
@@ -353,23 +361,18 @@
             "description": "",
             "type": ""
         },
-        "Four Level Interchange": {
-            "label": "Four Level Interchange",
-            "description": "The Four Level Interchange was the first stack interchange in the world. Completed in 1949 and fully opened in 1953 at the northern edge of Downtown Los Angeles, California, USA, it connects U.S. Route 101 to State Route 110. Wikipedia",
-            "type": "Freeway in California",
-            "Major cities ": [
-                "Hollywood"
-            ]
-        },
         "Golden Glades Interchange": {
             "label": "Golden Glades Interchange",
             "description": "The Golden Glades Interchange, located in Miami Gardens and North Miami Beach, Florida, United States, is the confluence of five major roads serving eastern and southern Florida. Wikipedia",
             "type": ""
         },
-        "Midtown Interchange": {
-            "label": "Midtown Interchange",
-            "description": "The Midtown Interchange, located in the Civic Center and Overtown neighborhoods of Miami, Florida, USA, is the convergence of three major motorways I-95, I-395, and the Dolphin Expressway. Wikipedia",
-            "type": ""
+        "Marquette Interchange": {
+            "label": "Marquette Interchange",
+            "description": "The Marquette Interchange is a major freeway interchange in downtown Milwaukee, Wisconsin, located near Marquette University where Interstate 43, Interstate 94, Interstate 794, and U.S. Highway 41 meet. Wikipedia",
+            "type": "Freeway in Wisconsin",
+            "Constructed ": [
+                "1956"
+            ]
         },
         "Rainbow Interchange": {
             "label": "Rainbow Interchange",
@@ -379,71 +382,68 @@
                 "Fort Lauderdale"
             ]
         },
-        "Marquette Interchange": {
-            "label": "Marquette Interchange",
-            "description": "The Marquette Interchange is a major freeway interchange in downtown Milwaukee, Wisconsin, located near Marquette University where Interstate 43, Interstate 94, Interstate 794, and U.S. Highway 41 meet. Wikipedia",
-            "type": "Freeway in Wisconsin",
-            "Constructed ": [
-                "1956"
-            ]
+        "Midtown Interchange": {
+            "label": "Midtown Interchange",
+            "description": "The Midtown Interchange, located in the Civic Center and Overtown neighborhoods of Miami, Florida, USA, is the convergence of three major motorways I-95, I-395, and the Dolphin Expressway. Wikipedia",
+            "type": ""
         }
     },
     "summary": {
         "label": 57,
         "description": 57,
         "type": 57,
-        "People also search for": 4,
-        "Major cities ": 15,
-        "Weather ": 1,
-        "Local time ": 1,
-        "Constructed ": 4,
-        "Length ": 1,
-        "Address ": 4,
-        "Province ": 1
+        "major_cities": 1,
+        "people_also_search_for": 1,
+        "weather": 1,
+        "local_time": 1,
+        "constructed": 1,
+        "length": 1,
+        "address": 1,
+        "province": 1
     },
     "infoboxless": [
         "Istrian Y",
-        "Somerville Circle",
+        "Oxford Circus",
         "Scotch Corner",
+        "Somerville Circle",
         "Big I",
+        "Tropicana – Las Vegas Boulevard intersection",
         "Zero Point Interchange",
         "Ōizumi Junction",
         "Ben Shemen Interchange",
+        "Ivanja Reka interchange",
         "Kalma Chowk Flyover",
         "Lučko interchange",
         "West Bakersfield Interchange",
-        "Pole Tavern Circle",
         "Ledgewood Circle",
+        "Pole Tavern Circle",
         "Race Track Circle",
-        "Asokwa Interchange",
         "Abdullah Gul Interchange",
-        "Ako Adjei Interchange",
+        "Asokwa Interchange",
         "Airport Circle (Pennsauken)",
+        "Ako Adjei Interchange",
         "Cobb Cloverleaf",
         "Brielle Circle",
         "Eatontown Circle",
         "Bosiljevo 2 interchange",
-        "Edappally Junction",
         "Collingwood Circle",
+        "Edappally Junction",
         "Kew Gardens Interchange",
-        "Newhall Pass interchange",
         "Sredanci interchange",
+        "Newhall Pass interchange",
         "Jankomir interchange",
         "Geha Interchange",
         "Camp Merritt Memorial Circle",
+        "Latham Circle",
         "Marlton Circle",
         "Mini Stack",
+        "Portsmouth Traffic Circle",
         "Springfield Interchange",
-        "Hollywood Split",
         "Sofo Line Interchange",
+        "Hollywood Split",
+        "Berlin Circle (traffic circle)",
         "Can of Worms (interchange)",
         "Tom Moreland Interchange",
-        "Tonnele Circle",
-        "Oxford Circus",
-        "Ivanja Reka interchange",
-        "Portsmouth Traffic Circle",
-        "Tropicana – Las Vegas Boulevard intersection",
-        "Latham Circle",
-        "Berlin Circle (traffic circle)"
+        "Tonnele Circle"
     ]
 }

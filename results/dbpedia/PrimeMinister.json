@@ -1,20 +1,17 @@
 {
     "instances": {
-        "Émile Ollivier": {
-            "label": "Émile Ollivier",
-            "description": "Olivier Émile Ollivier was a French statesman. Starting as an avid republican opposed to Emperor Napoleon III, he pushed the Emperor toward liberal reforms and in turn came increasingly into Napoleon's grip. Wikipedia",
+        "Édouard Adolphe Casimir Joseph Mortier": {
+            "label": "Édouard Mortier, duc de Trévise",
+            "description": "Adolphe Édouard Casimir Joseph Mortier, 1st Duc de Trévise was a French general and Marshal of France under Napoleon I. Wikipedia",
             "type": "",
-            "Born ": "July 2, 1825, Marseille, France",
-            "Died ": "August 20, 1913, Saint-Gervais-les-Bains, France",
-            "Spouse ": [
-                "Blandine Liszt (m. 1857–1862)"
-            ],
+            "Born ": "February 13, 1768, Le Cateau-Cambrésis, France",
+            "Assassinated ": "July 28, 1835, Paris, France",
             "People also search for": []
         },
         "Édouard Herriot": {
             "label": "Édouard Herriot",
             "description": "Édouard Marie Herriot was a French Radical politician of the Third Republic who served three times as Prime Minister and for many years as President of the Chamber of Deputies.\nHérriot was born at Troyes, France. Wikipedia",
-            "type": "",
+            "type": "French Politician",
             "Born ": "July 5, 1872, Troyes, France",
             "Died ": "March 26, 1957, Saint-Genis-Laval, France",
             "Party ": [
@@ -26,12 +23,15 @@
             ],
             "People also search for": []
         },
-        "Édouard Adolphe Casimir Joseph Mortier": {
-            "label": "Édouard Mortier, duc de Trévise",
-            "description": "Adolphe Édouard Casimir Joseph Mortier, 1st Duc de Trévise was a French general and Marshal of France under Napoleon I. Wikipedia",
-            "type": "",
-            "Born ": "February 13, 1768, Le Cateau-Cambrésis, France",
-            "Assassinated ": "July 28, 1835, Paris, France",
+        "Émile Ollivier": {
+            "label": "Émile Ollivier",
+            "description": "Olivier Émile Ollivier was a French statesman. Starting as an avid republican opposed to Emperor Napoleon III, he pushed the Emperor toward liberal reforms and in turn came increasingly into Napoleon's grip. Wikipedia",
+            "type": "French Statesman",
+            "Born ": "July 2, 1825, Marseille, France",
+            "Died ": "August 20, 1913, Saint-Gervais-les-Bains, France",
+            "Spouse ": [
+                "Blandine Liszt (m. 1857–1862)"
+            ],
             "People also search for": []
         },
         "Adnan Menderes": {
@@ -65,6 +65,67 @@
             "Died ": "January 8, 1868",
             "People also search for": []
         },
+        "Adone Zoli": {
+            "label": "Adone Zoli",
+            "description": "Adone Zoli was a centre-left Italian politician and member of the Christian Democratic Party. He served as the 36th Prime Minister of Italy from 1957-1958. Wikipedia",
+            "type": "",
+            "Born ": "December 16, 1887, Cesena, Italy",
+            "Died ": "February 20, 1960, Rome, Italy",
+            "Party ": [
+                "Christian Democracy"
+            ],
+            "People also search for": []
+        },
+        "Agostino Depretis": {
+            "label": "Agostino Depretis",
+            "description": "Agostino Depretis was an Italian statesman. He was the Prime Minister of Italy from March 25, 1876 – March 24, 1878, December 19, 1878 – July 14, 1879, and May 29, 1881 – July 29, 1887. Wikipedia",
+            "type": "",
+            "Born ": "January 31, 1813, Stradella, Lombardy, Italy",
+            "Died ": "July 29, 1887, Stradella, Lombardy, Italy",
+            "People also search for": []
+        },
+        "Albert Sarraut": {
+            "label": "Albert Sarraut",
+            "description": "Albert-Pierre Sarraut was a French Radical politician, twice Prime Minister during the Third Republic.\nSarraut was born in Bordeaux, Gironde, France.\nHe was Governor-General of French Indochina, from 1912 to 1914 and from 1917 to 1919. Wikipedia",
+            "type": "",
+            "Born ": "July 28, 1872, Bordeaux, France",
+            "Died ": "November 26, 1962, Paris, France",
+            "Party ": [
+                "Radical Party"
+            ],
+            "People also search for": []
+        },
+        "Alexander Papagos": {
+            "label": "Alexander Papagos",
+            "description": "Marshal Alexander Papagos GBE, was a Greek General who led the Greek Army in World War II and the later stages of the Greek Civil War and became the country's Prime Minister. Wikipedia",
+            "type": "",
+            "Born ": "December 9, 1883, Athens, Greece",
+            "Died ": "October 4, 1955, Athens, Greece",
+            "Party ": [
+                "Greek Rally"
+            ],
+            "People also search for": []
+        },
+        "Alexandre Ribot": {
+            "label": "Alexandre Ribot",
+            "description": "Alexandre-Félix-Joseph Ribot was a French politician, four times Prime Minister. Wikipedia",
+            "type": "",
+            "Born ": "February 7, 1842, Saint-Omer, France",
+            "Died ": "January 13, 1923, Paris, France",
+            "People also search for": []
+        },
+        "Anand Panyarachun": {
+            "label": "Anand Panyarachun",
+            "description": "Anand Panyarachun was Thailand's Prime Minister twice, between 1991–1992 and once again in 1992. He was effective in initiating economic and political reforms, one of which was the drafting of Thailand's ... Wikipedia",
+            "type": "",
+            "Born ": "August 9, 1932 (age 81), Bangkok, Thailand",
+            "Education ": [
+                "Dulwich College",
+                " Trinity College",
+                " Cambridge"
+            ],
+            "People also search for": []
+        },
         "Anatoliy Kinakh": {
             "label": "Anatoliy Kinakh",
             "description": "Anatoliy Kyrylovych Kinakh is a Ukrainian politician and honorary professor at the Mykolaiv Government Humanitarian University. Kinakh is a People's Deputy of Ukraine in the 6th convocation of the Verkhovna Rada, the Ukrainian parliament. Wikipedia",
@@ -73,6 +134,16 @@
             "Previous offices ": [
                 "First Deputy Prime Minister of Ukraine (2005–2006)",
                 " First Deputy Prime Minister of Ukraine (1999–1999)"
+            ],
+            "People also search for": []
+        },
+        "Anfinn Kallsberg": {
+            "label": "Anfinn Kallsberg",
+            "description": "Anfinn Kallsberg is a Faroese politician - Prime Minister of his country 1998-2004 - and the leader of the Faroese People's Party. Wikipedia",
+            "type": "",
+            "Born ": "November 19, 1947 (age 66), Klaksvík, Faroe Islands",
+            "Party ": [
+                "People's Party"
             ],
             "People also search for": []
         },
@@ -90,51 +161,13 @@
             ],
             "People also search for": []
         },
-        "Albert Sarraut": {
-            "label": "Albert Sarraut",
-            "description": "Albert-Pierre Sarraut was a French Radical politician, twice Prime Minister during the Third Republic.\nSarraut was born in Bordeaux, Gironde, France.\nHe was Governor-General of French Indochina, from 1912 to 1914 and from 1917 to 1919. Wikipedia",
+        "Antoine Gizenga": {
+            "label": "Antoine Gizenga",
+            "description": "Antoine Gizenga is a Congolese politician who was Prime Minister of the Democratic Republic of the Congo from December 30, 2006 to 10 October 2008. He is the Secretary-General of the Unified Lumumbist Party. Wikipedia",
             "type": "",
-            "Born ": "July 28, 1872, Bordeaux, France",
-            "Died ": "November 26, 1962, Paris, France",
+            "Born ": "October 5, 1925 (age 88), Bandundu Province, Democratic Republic of the Congo",
             "Party ": [
-                "Radical Party"
-            ],
-            "People also search for": []
-        },
-        "Alexandre Ribot": {
-            "label": "Alexandre Ribot",
-            "description": "Alexandre-Félix-Joseph Ribot was a French politician, four times Prime Minister. Wikipedia",
-            "type": "",
-            "Born ": "February 7, 1842, Saint-Omer, France",
-            "Died ": "January 13, 1923, Paris, France",
-            "People also search for": []
-        },
-        "Agostino Depretis": {
-            "label": "Agostino Depretis",
-            "description": "Agostino Depretis was an Italian statesman. He was the Prime Minister of Italy from March 25, 1876 – March 24, 1878, December 19, 1878 – July 14, 1879, and May 29, 1881 – July 29, 1887. Wikipedia",
-            "type": "",
-            "Born ": "January 31, 1813, Stradella, Lombardy, Italy",
-            "Died ": "July 29, 1887, Stradella, Lombardy, Italy",
-            "People also search for": []
-        },
-        "Adone Zoli": {
-            "label": "Adone Zoli",
-            "description": "Adone Zoli was a centre-left Italian politician and member of the Christian Democratic Party. He served as the 36th Prime Minister of Italy from 1957-1958. Wikipedia",
-            "type": "",
-            "Born ": "December 16, 1887, Cesena, Italy",
-            "Died ": "February 20, 1960, Rome, Italy",
-            "Party ": [
-                "Christian Democracy"
-            ],
-            "People also search for": []
-        },
-        "Anfinn Kallsberg": {
-            "label": "Anfinn Kallsberg",
-            "description": "Anfinn Kallsberg is a Faroese politician - Prime Minister of his country 1998-2004 - and the leader of the Faroese People's Party. Wikipedia",
-            "type": "",
-            "Born ": "November 19, 1947 (age 66), Klaksvík, Faroe Islands",
-            "Party ": [
-                "People's Party"
+                "Unified Lumumbist Party"
             ],
             "People also search for": []
         },
@@ -157,15 +190,38 @@
             ],
             "People also search for": []
         },
-        "Anand Panyarachun": {
-            "label": "Anand Panyarachun",
-            "description": "Anand Panyarachun was Thailand's Prime Minister twice, between 1991–1992 and once again in 1992. He was effective in initiating economic and political reforms, one of which was the drafting of Thailand's ... Wikipedia",
+        "Aristides Gomes": {
+            "label": "Aristides Gomes",
+            "description": "Aristides Gomes is the President of the Republican Party of Independence for Development in Guinea-Bissau. He was the Prime Minister of Guinea-Bissau from 2 November 2005 until 13 April 2007. Wikipedia",
             "type": "",
-            "Born ": "August 9, 1932 (age 81), Bangkok, Thailand",
+            "Born ": "November 8, 1954 (age 59), Canchungo, Guinea-Bissau",
+            "People also search for": []
+        },
+        "Arvid Lindman": {
+            "label": "Arvid Lindman",
+            "description": "Salomon Arvid Achates Lindman was a Swedish Rear Admiral, Industrialist and conservative politician. Wikipedia",
+            "type": "",
+            "Born ": "September 19, 1862, Uppsala, Sweden",
+            "Died ": "December 9, 1936, Purley, London, United Kingdom",
+            "Party ": [
+                "Moderate Party"
+            ],
+            "People also search for": []
+        },
+        "Atef Ebeid": {
+            "label": "Atef Ebeid",
+            "description": "Atef Muhammad Ebeid is an Egyptian politician, who served in various capacities at the governments of Egypt. Wikipedia",
+            "type": "",
+            "Born ": "April 14, 1932 (age 81), Kingdom of Egypt",
+            "Party ": [
+                "National Democratic Party"
+            ],
+            "Previous office ": [
+                "Prime Minister of Egypt (1999–2004)"
+            ],
             "Education ": [
-                "Dulwich College",
-                " Trinity College",
-                " Cambridge"
+                "University of Illinois at Urbana-Champaign",
+                " Cairo University"
             ],
             "People also search for": []
         },
@@ -186,15 +242,41 @@
             ],
             "People also search for": []
         },
-        "Arvid Lindman": {
-            "label": "Arvid Lindman",
-            "description": "Salomon Arvid Achates Lindman was a Swedish Rear Admiral, Industrialist and conservative politician. Wikipedia",
+        "Axel Pehrsson-Bramstorp": {
+            "label": "Axel Pehrsson-Bramstorp",
+            "description": "Axel Alarik Pehrsson-Bramstorp was a Swedish politician and was Prime Minister of Sweden for a few months during 1936. As a parliamentarian he was known as \"Axel Pehrsson in Bramstorp\" or just \"Bramstorp\" for short. Wikipedia",
             "type": "",
-            "Born ": "September 19, 1862, Uppsala, Sweden",
-            "Died ": "December 9, 1936, Purley, London, United Kingdom",
+            "Born ": "August 19, 1883",
+            "Died ": "February 19, 1954",
             "Party ": [
-                "Moderate Party"
+                "Centre Party"
             ],
+            "People also search for": []
+        },
+        "Bajram Kosumi": {
+            "label": "Bajram Kosumi",
+            "description": "Bajram Kosumi is an ethnic Albanian politician in Kosovo who served as the Prime Minister of Kosovo for nearly one year. Wikipedia",
+            "type": "",
+            "Born ": "March 20, 1960 (age 54), Kosovska Kamenica, Serbia",
+            "Party ": [
+                "Democratic Party of Kosovo"
+            ],
+            "People also search for": []
+        },
+        "Baron Franz von Pillersdorf": {
+            "label": "Baron Franz von Pillersdorf",
+            "description": "Baron Franz von Pillersdorf was an Austrian statesman.\nBorn in Brno the son of a judge, Pillersdorf after a legal education in Vienna in 1805 started his public service career in Galicia. Wikipedia",
+            "type": "",
+            "Born ": "March 1, 1786, Brno, Czech Republic",
+            "Died ": "February 22, 1862, Vienna, Austria",
+            "People also search for": []
+        },
+        "Baron Johann von Wessenberg-Ampringen": {
+            "label": "Baron Johann von Wessenberg-Ampringen",
+            "description": "Baron Johann von Wessenberg-Ampringen was an Austrian diplomat statesman.\nWessenberg was born in Dresden, where his father worked as a tutor to the princes of the electoral House of Wettin. Wikipedia",
+            "type": "",
+            "Born ": "November 28, 1773, Dresden, Germany",
+            "Died ": "August 1, 1858, Freiburg im Breisgau, Germany",
             "People also search for": []
         },
         "Bettino Ricasoli": {
@@ -205,15 +287,95 @@
             "Died ": "October 23, 1880, Broglio",
             "People also search for": []
         },
-        "Ion Ghica": {
-            "label": "Ion Ghica",
-            "description": "Ion Ghica was a Romanian revolutionary, mathematician, diplomat and politician, who was Prime Minister of Romania five times. He was a full member of the Romanian Academy and its president many times. Wikipedia",
+        "Bonar Law": {
+            "label": "Bonar Law",
+            "description": "Andrew Bonar Law, commonly called Bonar Law, was a British Conservative Party statesman and Prime Minister. Born in the colony of New Brunswick, he is the only British Prime Minister to have been born outside the British Isles. Wikipedia",
             "type": "",
-            "Born ": "August 12, 1816, Bucharest, Romania",
-            "Died ": "May 7, 1897, Răcari, Romania",
-            "Party ": [
-                "National Liberal Party"
+            "Born ": "September 16, 1858, Rexton, Canada",
+            "Died ": "October 30, 1923, London, United Kingdom",
+            "Spouse ": [
+                "Annie Bonar Law"
             ],
+            "Education ": [
+                "University of Glasgow"
+            ],
+            "Previous offices ": [
+                "Leader of the House of Commons (1922–1923)",
+                " Prime Minister of the United Kingdom (1922–1923)",
+                " First Lord of the Treasury (1922–1923)More"
+            ],
+            "Children ": [
+                "Richard Law",
+                " 1st Baron Coleraine"
+            ],
+            "People also search for": []
+        },
+        "Borys Mykolaiovych Martos": {
+            "label": "Borys Mykolaiovych Martos",
+            "description": "Borys Mykolaiovych Martos was a public and political activist, pedagogue, economist.\nHe was born in Gradizk, in the Poltava Governorate of the Russian Empire and died in exile in the United States at the age of 98. Wikipedia",
+            "type": "",
+            "Born ": "May 20, 1879",
+            "Died ": "October 19, 1977, Bound Brook, New Jersey, United States",
+            "Education ": [
+                "Kharkiv University"
+            ],
+            "Party ": [
+                "Ukrainian Social Democratic Labour Party"
+            ],
+            "People also search for": []
+        },
+        "Chang Myon": {
+            "label": "Chang Myon",
+            "description": "Chang Myon was a South Korean politician and educator, diplomat, journalist, social activist, and Roman Catholic youth activist. He was the fourth and last Vice President of the First Republic and the Prime Minister of the Second Republic. Wikipedia",
+            "type": "",
+            "Born ": "August 28, 1899, Seoul, South Korea",
+            "Died ": "June 4, 1966, Seoul, South Korea",
+            "Spouse ": [
+                "Kim Ok-yun"
+            ],
+            "Education ": [
+                "Manhattan College"
+            ],
+            "People also search for": []
+        },
+        "Charles Grey, 2nd Earl Grey": {
+            "label": "Charles Grey, 2nd Earl Grey",
+            "description": "Charles Grey, 2nd Earl Grey, KG PC, known as Viscount Howick between 1806 and 1807, was Prime Minister of the United Kingdom of Great Britain and Ireland from 22 November 1830 to 16 July 1834. Wikipedia",
+            "type": "",
+            "Born ": "March 13, 1764, Fallodon, United Kingdom",
+            "Died ": "July 17, 1845, Howick, United Kingdom",
+            "Parents ": [
+                "Charles Grey",
+                " 1st Earl Grey"
+            ],
+            "Children ": [
+                "Eliza Courtney",
+                " Henry Grey",
+                " 3rd Earl Grey",
+                " Charles Grey",
+                " Frederick Grey",
+                " Mary Grey"
+            ],
+            "Education ": [
+                "Trinity College",
+                " Cambridge",
+                " Eton College"
+            ],
+            "Books ": [
+                "England"
+            ],
+            "People also search for": []
+        },
+        "Constantine Kanaris": {
+            "label": "Constantine Kanaris",
+            "description": "Constantine Kanaris or Canaris was a Greek Prime Minister, admiral and politician who in his youth was a freedom fighter in the Greek War of Independence. Wikipedia",
+            "type": "",
+            "Born ": [
+                "1795",
+                " Psara",
+                " Greece"
+            ],
+            "Died ": "September 14, 1877, Athens, Greece",
             "People also search for": []
         },
         "Charles Watson-Wentworth, 2nd Marquess of Rockingham": {
@@ -241,6 +403,75 @@
             ],
             "People also search for": []
         },
+        "Count Johann Bernhard von Rechberg und Rothenlöwen": {
+            "label": "Count Johann Bernhard von Rechberg und Rothenlöwen",
+            "description": "Count Johann Bernhard von Rechberg und Rothenlöwen was an Austrian statesman.\nBorn at Regensburg the second son of the Bavarian statesman Count Aloys von Rechberg und Rothenlöwen, Johann Bernhard was ... Wikipedia",
+            "type": "",
+            "Born ": "July 17, 1806, Regensburg, Germany",
+            "Died ": "February 26, 1899, Vienna, Austria",
+            "People also search for": []
+        },
+        "Daniel François Malan": {
+            "label": "Daniel François Malan",
+            "description": "Daniel François Malan, more commonly known as D.F. Malan, was the Prime Minister of South Africa from 1948 to 1954. He is seen as a champion of Afrikaner nationalism. Wikipedia",
+            "type": "",
+            "Born ": "May 22, 1874, Riebeek West, South Africa",
+            "Died ": "February 7, 1959, Stellenbosch, South Africa",
+            "Education ": [
+                "Stellenbosch University",
+                " Utrecht University"
+            ],
+            "People also search for": []
+        },
+        "Ditlev Gothard Monrad": {
+            "label": "Ditlev Gothard Monrad",
+            "description": "Ditlev Gothard Monrad was a Danish politician and bishop of Lolland-Falster.\nMonrad was one of the pioneers of the making of a constitutional Denmark after 1848. Wikipedia",
+            "type": "",
+            "Born ": "November 24, 1811, Copenhagen, Denmark",
+            "Died ": "March 28, 1887, Nykøbing Falster, Denmark",
+            "Education ": [
+                "University of Copenhagen"
+            ],
+            "Party ": [
+                "National Liberal Party"
+            ],
+            "People also search for": []
+        },
+        "Driss Jettou": {
+            "label": "Driss Jettou",
+            "description": "Driss Jettou was the Prime Minister of Morocco from 2002 to 2007. Wikipedia",
+            "type": "",
+            "Born ": "May 24, 1945 (age 68), El Jadida, Morocco",
+            "Education ": [
+                "Mohammed V University"
+            ],
+            "Previous office ": [
+                "Prime Minister of Morocco (2002–2007)"
+            ],
+            "People also search for": []
+        },
+        "Earle Page": {
+            "label": "Earle Page",
+            "description": "Sir Earle Christmas Grafton Page, GCMG, CH was an Australian politician who briefly served as the 11th Prime Minister of Australia in 1939. Wikipedia",
+            "type": "",
+            "Born ": "August 8, 1880, Grafton, Australia",
+            "Died ": "December 20, 1961, Sydney, Australia",
+            "Spouse ": [
+                "Ethel Blunt"
+            ],
+            "Party ": [
+                "National Party of Australia"
+            ],
+            "Education ": [
+                "University of Sydney",
+                " Sydney Boys High School"
+            ],
+            "Previous offices ": [
+                "Prime Minister of Australia (1939–1939)",
+                " Member of the Australian Parliament (1919–1961)"
+            ],
+            "People also search for": []
+        },
         "Emil Stang": {
             "label": "Emil Stang",
             "description": "Emil Stang was a Norwegian jurist and politician. He became Prime Minister of Norway and was the first chairman of the Conservative Party.\nStang became cand.jur. in 1858 and established his own legal practice in 1861. Wikipedia",
@@ -255,16 +486,265 @@
             ],
             "People also search for": []
         },
-        "Driss Jettou": {
-            "label": "Driss Jettou",
-            "description": "Driss Jettou was the Prime Minister of Morocco from 2002 to 2007. Wikipedia",
+        "Eric Gairy": {
+            "label": "Eric Gairy",
+            "description": "Sir Eric Matthew Gairy PC was the first Prime Minister of Grenada, serving from his country's independence in 1974 until his overthrow in a coup by Maurice Bishop in 1979. Wikipedia",
             "type": "",
-            "Born ": "May 24, 1945 (age 68), El Jadida, Morocco",
+            "Born ": "February 18, 1922, Grenada",
+            "Died ": "August 23, 1997",
+            "Spouse ": [
+                "Cynthina Gairy"
+            ],
+            "Party ": [
+                "Grenada United Labour Party"
+            ],
+            "People also search for": []
+        },
+        "Ernst Trygger": {
+            "label": "Ernst Trygger",
+            "description": "Ernst Trygger was a Swedish jurist professor and conservative politician. He served as Prime Minister of Sweden from 1923 to 1924. He also served as Minister for Foreign Affairs from 1928 to 1930 in the government of Arvid Lindman. Wikipedia",
+            "type": "",
+            "Born ": "October 27, 1857, Skeppsholmen, Stockholm, Sweden",
+            "Died ": "September 23, 1943, Stockholm, Sweden",
+            "Spouse ": [
+                "Signe Söderström"
+            ],
             "Education ": [
-                "Mohammed V University"
+                "Uppsala University"
+            ],
+            "Party ": [
+                "National Party"
+            ],
+            "People also search for": []
+        },
+        "Fausto Bertinotti": {
+            "label": "Fausto Bertinotti",
+            "description": "Fausto Bertinotti is an Italian politician who led the Communist Refoundation Party from 1994 to 2006 and served as President of the Italian Chamber of Deputies from 2006 to 2008. Wikipedia",
+            "type": "",
+            "Born ": "March 22, 1940 (age 74), Milan, Italy",
+            "People also search for": []
+        },
+        "Geir Haarde": {
+            "label": "Geir Haarde",
+            "description": "Geir Hilmar Haarde is an Icelandic politician and former head of government. Geir was Prime Minister of Iceland from 15 June 2006 to 1 February 2009 and Chairman of the Icelandic Independence Party from 2005 to 2009. Wikipedia",
+            "type": "",
+            "Born ": "April 8, 1951 (age 62), Reykjavik, Iceland",
+            "Spouse ": [
+                "Jóna Þórðardóttir"
+            ],
+            "Party ": [
+                "Independence Party"
             ],
             "Previous office ": [
-                "Prime Minister of Morocco (2002–2007)"
+                "Prime Minister of Iceland (2006–2009)"
+            ],
+            "Education ": [
+                "Paul H. Nitze School of Advanced International Studies",
+                " Johns Hopkins University",
+                " University of Minnesota",
+                " Brandeis UniversityMore"
+            ],
+            "People also search for": []
+        },
+        "Giacomo Acerbo": {
+            "label": "Giacomo Acerbo",
+            "description": "Giacomo Acerbo, Baron of Aterno was an Italian economist and Fascist politician that drafted the Acerbo Law which solidified Benito Mussolini's position once in power. Wikipedia",
+            "type": "",
+            "Born ": "July 25, 1888, Loreto Aprutino, Italy",
+            "Died ": "January 9, 1969, Rome, Italy",
+            "Education ": [
+                "University of Pisa"
+            ],
+            "Party ": [
+                "National Fascist Party"
+            ],
+            "People also search for": []
+        },
+        "Giuseppe Pella": {
+            "label": "Giuseppe Pella",
+            "description": "Giuseppe Pella was an Italian Christian Democratic politician who served as the 32nd Prime Minister of Italy from 1953 to 1954. He was also President of the European Parliament from 1954 to 1956 after the death of Alcide De Gasperi. Wikipedia",
+            "type": "",
+            "Born ": "April 18, 1902, Valdengo, Italy",
+            "Died ": "May 31, 1981, Rome, Italy",
+            "Party ": [
+                "Christian Democracy"
+            ],
+            "People also search for": []
+        },
+        "Grantley Herbert Adams": {
+            "label": "Grantley Herbert Adams",
+            "description": "Sir Grantley Herbert Adams, CMG, QC, was a Barbadian and British West Indian statesmen. Wikipedia",
+            "type": "",
+            "Born ": "April 28, 1898, Saint Michael Parish, Barbados",
+            "Died ": "November 28, 1971, Saint Michael Parish, Barbados",
+            "Party ": [
+                "Barbados Labour Party"
+            ],
+            "Education ": [
+                "St Catherine's College",
+                " Oxford (1919–1923)",
+                " University of Oxford"
+            ],
+            "People also search for": []
+        },
+        "Gustaf Åkerhielm": {
+            "label": "Gustaf Åkerhielm",
+            "description": "Friherre Johan Gustaf Nils Samuel Åkerhielm of Margaretelund was a politician, a baron, a landowner, member of the Riksdag from 1859 to 1866 and from 1870 to 1900, a Minister of Finance from 1874 to ... Wikipedia",
+            "type": "",
+            "Born ": "July 24, 1833, Klara",
+            "Died ": "April 2, 1900, Stockholm, Sweden",
+            "Party ": [
+                "Protectionist Party"
+            ],
+            "People also search for": []
+        },
+        "Hasan Prishtina": {
+            "label": "Hasan Prishtina",
+            "description": "Hasan Prishtina originally known as Hasan Berisha was an Albanian politician, who served as Prime Minister of Albania in December 1921. Wikipedia",
+            "type": "",
+            "Born ": [
+                "1873",
+                " Kosovo"
+            ],
+            "Died ": "August 13, 1933, Thessaloniki, Greece",
+            "People also search for": []
+        },
+        "Halldór Ásgrímsson": {
+            "label": "Halldór Ásgrímsson",
+            "description": "Halldór Ásgrímsson is an Icelandic politician, formerly Prime Minister of Iceland from 2004 to 2006 and leader of the Progressive Party from 1994 to 2006. Wikipedia",
+            "type": "",
+            "Born ": "September 8, 1947 (age 66), Reykjavik, Iceland",
+            "Party ": [
+                "Progressive Party"
+            ],
+            "Education ": [
+                "University of Bergen",
+                " University of Copenhagen"
+            ],
+            "People also search for": []
+        },
+        "Hasan Saka": {
+            "label": "Hasan Saka",
+            "description": "Hasan Saka was a Turkish politician, Minister of Foreign Affairs, and Prime Minister of Turkey. Wikipedia",
+            "type": "",
+            "Born ": [
+                "1886",
+                " Trabzon",
+                " Turkey"
+            ],
+            "Died ": "July 29, 1960, Istanbul, Turkey",
+            "Party ": [
+                "Republican People's Party"
+            ],
+            "People also search for": []
+        },
+        "Hassan Taqizadeh": {
+            "label": "Hassan Taqizadeh",
+            "description": "Sayyed Hasan Taqizādeh was an influential Iranian politician and diplomat, of Azeri origin, during the Qajar dynasty under the reign of Mohammad Ali Shah, as well as the Pahlavi dynasty under the reign of Reza Shah and Mohammad Reza Shah. Wikipedia",
+            "type": "",
+            "Born ": [
+                "September 1878",
+                " Tabriz",
+                " Iran"
+            ],
+            "Died ": "January 28, 1970, Tehran, Iran",
+            "People also search for": []
+        },
+        "Hendrikus Colijn": {
+            "label": "Hendrikus Colijn",
+            "description": "Hendrikus Colijn was a Dutch soldier, businessman and politician who was Prime Minister of the Netherlands from 1925 to 1926 and again from 1933 to 1939. Wikipedia",
+            "type": "",
+            "Born ": "June 22, 1869, Burgerveen, Netherlands",
+            "Died ": "September 18, 1944, Ilmenau, Germany",
+            "Spouse ": [
+                "Helena Groenenberg"
+            ],
+            "Party ": [
+                "Anti-Revolutionary Party"
+            ],
+            "People also search for": []
+        },
+        "Hitoshi Ashida": {
+            "label": "Hitoshi Ashida",
+            "description": "Hitoshi Ashida was a Japanese politician who served as the 47th Prime Minister of Japan from 10 March to 15 October 1948. Wikipedia",
+            "type": "",
+            "Born ": "November 15, 1887, Fukuchiyama, Kyoto Prefecture, Japan",
+            "Died ": "June 20, 1959, Tokyo, Japan",
+            "Education ": [
+                "University of Tokyo"
+            ],
+            "Party ": [
+                "Democratic Party of Japan"
+            ],
+            "Previous office ": [
+                "Prime Minister of Japan (1948–1948)"
+            ],
+            "People also search for": []
+        },
+        "Hugues-Bernard Maret, duc de Bassano": {
+            "label": "Hugues-Bernard Maret, duc de Bassano",
+            "description": "Hugues-Bernard Maret, 1st Duc de Bassano was a French statesman and journalist. Wikipedia",
+            "type": "",
+            "Born ": "May 1, 1763, Dijon, France",
+            "Died ": "May 13, 1839, Paris, France",
+            "People also search for": []
+        },
+        "Ion Ghica": {
+            "label": "Ion Ghica",
+            "description": "Ion Ghica was a Romanian revolutionary, mathematician, diplomat and politician, who was Prime Minister of Romania five times. He was a full member of the Romanian Academy and its president many times. Wikipedia",
+            "type": "",
+            "Born ": "August 12, 1816, Bucharest, Romania",
+            "Died ": "May 7, 1897, Răcari, Romania",
+            "Party ": [
+                "National Liberal Party"
+            ],
+            "People also search for": []
+        },
+        "Ján Čarnogurský": {
+            "label": "Ján Čarnogurský",
+            "description": "Ján Čarnogurský is a Slovak former politician, a former Prime Minister of Slovakia and the former chairman of the Christian Democratic Movement.\nHe is married and has 4 children. Wikipedia",
+            "type": "",
+            "Born ": "January 1, 1944 (age 70), Bratislava, Slovakia",
+            "Education ": [
+                "Comenius University in Bratislava"
+            ],
+            "Party ": [
+                "Christian Democratic Movement"
+            ],
+            "People also search for": []
+        },
+        "Jóannes Eidesgaard": {
+            "label": "Jóannes Eidesgaard",
+            "description": "Jóannes Dan Eidesgaard is a former Faroese politician. He was the Prime Minister of the Faroe Islands from 2004, starting shortly after the general election of 20 January 2004, until 26 September 2008, when a new coalition took office. Wikipedia",
+            "type": "",
+            "Born ": "April 19, 1951 (age 62), Tvøroyri, Faroe Islands",
+            "Spouse ": [
+                "Anita Eidesgaard"
+            ],
+            "Party ": [
+                "Social Democratic Party"
+            ],
+            "People also search for": []
+        },
+        "Jan Heemskerk": {
+            "label": "Jan Heemskerk",
+            "description": "Jan Heemskerk Abrahamszoon was a Dutch politician, who became the prime minister of the Netherlands in 1874 until 1877, and again in 1883, until 1888. His son, Theo Heemskerk was also prime minister, in the period 1908-1913. Wikipedia",
+            "type": "",
+            "Born ": "July 30, 1818, Amsterdam, Netherlands",
+            "Died ": "October 9, 1897, The Hague, Netherlands",
+            "Spouse ": [
+                "Anna Heemskerk"
+            ],
+            "People also search for": []
+        },
+        "Jan Jacob Rochussen": {
+            "label": "Jan Jacob Rochussen",
+            "description": "Jan Jacob Rochussen was a Dutch politician. He served as Finance Minister from 1840 to 1843 and Governor-General of the Dutch East Indies from 1845 to 1851. He served as Prime Minister of the Netherlands from 18 March 1858 to 23 February 1860. Wikipedia",
+            "type": "",
+            "Born ": "October 23, 1797, Etten-Leur, Netherlands",
+            "Died ": "January 21, 1871, The Hague, Netherlands",
+            "Previous office ": [
+                "Governor-General of the Dutch East Indies (1845–1851)"
             ],
             "People also search for": []
         },
@@ -298,229 +778,6 @@
             ],
             "People also search for": []
         },
-        "Borys Mykolaiovych Martos": {
-            "label": "Borys Mykolaiovych Martos",
-            "description": "Borys Mykolaiovych Martos was a public and political activist, pedagogue, economist.\nHe was born in Gradizk, in the Poltava Governorate of the Russian Empire and died in exile in the United States at the age of 98. Wikipedia",
-            "type": "",
-            "Born ": "May 20, 1879",
-            "Died ": "October 19, 1977, Bound Brook, New Jersey, United States",
-            "Education ": [
-                "Kharkiv University"
-            ],
-            "Party ": [
-                "Ukrainian Social Democratic Labour Party"
-            ],
-            "People also search for": []
-        },
-        "Aristides Gomes": {
-            "label": "Aristides Gomes",
-            "description": "Aristides Gomes is the President of the Republican Party of Independence for Development in Guinea-Bissau. He was the Prime Minister of Guinea-Bissau from 2 November 2005 until 13 April 2007. Wikipedia",
-            "type": "",
-            "Born ": "November 8, 1954 (age 59), Canchungo, Guinea-Bissau",
-            "People also search for": []
-        },
-        "Giacomo Acerbo": {
-            "label": "Giacomo Acerbo",
-            "description": "Giacomo Acerbo, Baron of Aterno was an Italian economist and Fascist politician that drafted the Acerbo Law which solidified Benito Mussolini's position once in power. Wikipedia",
-            "type": "",
-            "Born ": "July 25, 1888, Loreto Aprutino, Italy",
-            "Died ": "January 9, 1969, Rome, Italy",
-            "Education ": [
-                "University of Pisa"
-            ],
-            "Party ": [
-                "National Fascist Party"
-            ],
-            "People also search for": []
-        },
-        "Giuseppe Pella": {
-            "label": "Giuseppe Pella",
-            "description": "Giuseppe Pella was an Italian Christian Democratic politician who served as the 32nd Prime Minister of Italy from 1953 to 1954. He was also President of the European Parliament from 1954 to 1956 after the death of Alcide De Gasperi. Wikipedia",
-            "type": "",
-            "Born ": "April 18, 1902, Valdengo, Italy",
-            "Died ": "May 31, 1981, Rome, Italy",
-            "Party ": [
-                "Christian Democracy"
-            ],
-            "People also search for": []
-        },
-        "Hasan Saka": {
-            "label": "Hasan Saka",
-            "description": "Hasan Saka was a Turkish politician, Minister of Foreign Affairs, and Prime Minister of Turkey. Wikipedia",
-            "type": "",
-            "Born ": [
-                "1886",
-                " Trabzon",
-                " Turkey"
-            ],
-            "Died ": "July 29, 1960, Istanbul, Turkey",
-            "Party ": [
-                "Republican People's Party"
-            ],
-            "People also search for": []
-        },
-        "Count Johann Bernhard von Rechberg und Rothenlöwen": {
-            "label": "Count Johann Bernhard von Rechberg und Rothenlöwen",
-            "description": "Count Johann Bernhard von Rechberg und Rothenlöwen was an Austrian statesman.\nBorn at Regensburg the second son of the Bavarian statesman Count Aloys von Rechberg und Rothenlöwen, Johann Bernhard was ... Wikipedia",
-            "type": "",
-            "Born ": "July 17, 1806, Regensburg, Germany",
-            "Died ": "February 26, 1899, Vienna, Austria",
-            "People also search for": []
-        },
-        "Hassan Taqizadeh": {
-            "label": "Hassan Taqizadeh",
-            "description": "Sayyed Hasan Taqizādeh was an influential Iranian politician and diplomat, of Azeri origin, during the Qajar dynasty under the reign of Mohammad Ali Shah, as well as the Pahlavi dynasty under the reign of Reza Shah and Mohammad Reza Shah. Wikipedia",
-            "type": "",
-            "Born ": [
-                "September 1878",
-                " Tabriz",
-                " Iran"
-            ],
-            "Died ": "January 28, 1970, Tehran, Iran",
-            "People also search for": []
-        },
-        "Daniel François Malan": {
-            "label": "Daniel François Malan",
-            "description": "Daniel François Malan, more commonly known as D.F. Malan, was the Prime Minister of South Africa from 1948 to 1954. He is seen as a champion of Afrikaner nationalism. Wikipedia",
-            "type": "",
-            "Born ": "May 22, 1874, Riebeek West, South Africa",
-            "Died ": "February 7, 1959, Stellenbosch, South Africa",
-            "Education ": [
-                "Stellenbosch University",
-                " Utrecht University"
-            ],
-            "People also search for": []
-        },
-        "Joe Clark": {
-            "label": "Joe Louis Clark",
-            "description": "Joe Louis Clark is the former principal of Eastside High School in Paterson, one of New Jersey's toughest inner city schools. He is also the subject of the 1989 film Lean on Me, starring Morgan Freeman. Wikipedia",
-            "type": "",
-            "Born ": "May 7, 1938 (age 75), United States of America",
-            "Education ": [
-                "Rutgers University"
-            ],
-            "People also search for": []
-        },
-        "Baron Johann von Wessenberg-Ampringen": {
-            "label": "Baron Johann von Wessenberg-Ampringen",
-            "description": "Baron Johann von Wessenberg-Ampringen was an Austrian diplomat statesman.\nWessenberg was born in Dresden, where his father worked as a tutor to the princes of the electoral House of Wettin. Wikipedia",
-            "type": "",
-            "Born ": "November 28, 1773, Dresden, Germany",
-            "Died ": "August 1, 1858, Freiburg im Breisgau, Germany",
-            "People also search for": []
-        },
-        "Fausto Bertinotti": {
-            "label": "Fausto Bertinotti",
-            "description": "Fausto Bertinotti is an Italian politician who led the Communist Refoundation Party from 1994 to 2006 and served as President of the Italian Chamber of Deputies from 2006 to 2008. Wikipedia",
-            "type": "",
-            "Born ": "March 22, 1940 (age 74), Milan, Italy",
-            "People also search for": []
-        },
-        "Axel Pehrsson-Bramstorp": {
-            "label": "Axel Pehrsson-Bramstorp",
-            "description": "Axel Alarik Pehrsson-Bramstorp was a Swedish politician and was Prime Minister of Sweden for a few months during 1936. As a parliamentarian he was known as \"Axel Pehrsson in Bramstorp\" or just \"Bramstorp\" for short. Wikipedia",
-            "type": "",
-            "Born ": "August 19, 1883",
-            "Died ": "February 19, 1954",
-            "Party ": [
-                "Centre Party"
-            ],
-            "People also search for": []
-        },
-        "Hasan Prishtina": {
-            "label": "Hasan Prishtina",
-            "description": "Hasan Prishtina originally known as Hasan Berisha was an Albanian politician, who served as Prime Minister of Albania in December 1921. Wikipedia",
-            "type": "",
-            "Born ": [
-                "1873",
-                " Kosovo"
-            ],
-            "Died ": "August 13, 1933, Thessaloniki, Greece",
-            "People also search for": []
-        },
-        "Ernst Trygger": {
-            "label": "Ernst Trygger",
-            "description": "Ernst Trygger was a Swedish jurist professor and conservative politician. He served as Prime Minister of Sweden from 1923 to 1924. He also served as Minister for Foreign Affairs from 1928 to 1930 in the government of Arvid Lindman. Wikipedia",
-            "type": "",
-            "Born ": "October 27, 1857, Skeppsholmen, Stockholm, Sweden",
-            "Died ": "September 23, 1943, Stockholm, Sweden",
-            "Spouse ": [
-                "Signe Söderström"
-            ],
-            "Education ": [
-                "Uppsala University"
-            ],
-            "Party ": [
-                "National Party"
-            ],
-            "People also search for": []
-        },
-        "Eric Gairy": {
-            "label": "Eric Gairy",
-            "description": "Sir Eric Matthew Gairy PC was the first Prime Minister of Grenada, serving from his country's independence in 1974 until his overthrow in a coup by Maurice Bishop in 1979. Wikipedia",
-            "type": "",
-            "Born ": "February 18, 1922, Grenada",
-            "Died ": "August 23, 1997",
-            "Spouse ": [
-                "Cynthina Gairy"
-            ],
-            "Party ": [
-                "Grenada United Labour Party"
-            ],
-            "People also search for": []
-        },
-        "Alexander Papagos": {
-            "label": "Alexander Papagos",
-            "description": "Marshal Alexander Papagos GBE, was a Greek General who led the Greek Army in World War II and the later stages of the Greek Civil War and became the country's Prime Minister. Wikipedia",
-            "type": "",
-            "Born ": "December 9, 1883, Athens, Greece",
-            "Died ": "October 4, 1955, Athens, Greece",
-            "Party ": [
-                "Greek Rally"
-            ],
-            "People also search for": []
-        },
-        "Antoine Gizenga": {
-            "label": "Antoine Gizenga",
-            "description": "Antoine Gizenga is a Congolese politician who was Prime Minister of the Democratic Republic of the Congo from December 30, 2006 to 10 October 2008. He is the Secretary-General of the Unified Lumumbist Party. Wikipedia",
-            "type": "",
-            "Born ": "October 5, 1925 (age 88), Bandundu Province, Democratic Republic of the Congo",
-            "Party ": [
-                "Unified Lumumbist Party"
-            ],
-            "People also search for": []
-        },
-        "Halldór Ásgrímsson": {
-            "label": "Halldór Ásgrímsson",
-            "description": "Halldór Ásgrímsson is an Icelandic politician, formerly Prime Minister of Iceland from 2004 to 2006 and leader of the Progressive Party from 1994 to 2006. Wikipedia",
-            "type": "",
-            "Born ": "September 8, 1947 (age 66), Reykjavik, Iceland",
-            "Party ": [
-                "Progressive Party"
-            ],
-            "Education ": [
-                "University of Bergen",
-                " University of Copenhagen"
-            ],
-            "People also search for": []
-        },
-        "Atef Ebeid": {
-            "label": "Atef Ebeid",
-            "description": "Atef Muhammad Ebeid is an Egyptian politician, who served in various capacities at the governments of Egypt. Wikipedia",
-            "type": "",
-            "Born ": "April 14, 1932 (age 81), Kingdom of Egypt",
-            "Party ": [
-                "National Democratic Party"
-            ],
-            "Previous office ": [
-                "Prime Minister of Egypt (1999–2004)"
-            ],
-            "Education ": [
-                "University of Illinois at Urbana-Champaign",
-                " Cairo University"
-            ],
-            "People also search for": []
-        },
         "Jan Stráský": {
             "label": "Jan Stráský",
             "description": "Jan Stráský is a Czech politician, who notably served as Prime Minister and acting President of Czechoslovakia in 1992.\nStráský studied philosophy and political economy at the Charles University in Prague. Wikipedia",
@@ -534,12 +791,55 @@
             ],
             "People also search for": []
         },
-        "Baron Franz von Pillersdorf": {
-            "label": "Baron Franz von Pillersdorf",
-            "description": "Baron Franz von Pillersdorf was an Austrian statesman.\nBorn in Brno the son of a judge, Pillersdorf after a legal education in Vienna in 1805 started his public service career in Galicia. Wikipedia",
+        "Jean Nguza Karl-i-Bond": {
+            "label": "Jean Nguza Karl-i-Bond",
+            "description": "Jean Nguza Karl-i-Bond was a prominent Zairian politician. Wikipedia",
             "type": "",
-            "Born ": "March 1, 1786, Brno, Czech Republic",
-            "Died ": "February 22, 1862, Vienna, Austria",
+            "Born ": "August 4, 1938, Democratic Republic of the Congo",
+            "Died ": "July 27, 2003, Kinshasa, Democratic Republic of the Congo",
+            "Education ": [
+                "Catholic University of Leuven"
+            ],
+            "People also search for": []
+        },
+        "Jim Bolger": {
+            "label": "Jim Bolger",
+            "description": "James Brendan \"Jim\" Bolger ONZ was the 35th Prime Minister of New Zealand from 1990 to 1997. Bolger was elected on the promise of delivering a \"Decent Society\" following the previous Labour government's economic reforms, known as Rogernomics. Wikipedia",
+            "type": "",
+            "Born ": "May 31, 1935 (age 78), Opunake, New Zealand",
+            "Previous office ": [
+                "Prime Minister of New Zealand (1990–1997)"
+            ],
+            "Spouse ": [
+                "Joan Riddell (m. 1963)"
+            ],
+            "Education ": [
+                "Opunake High School"
+            ],
+            "Party ": [
+                "New Zealand National Party"
+            ],
+            "People also search for": []
+        },
+        "Joan Röell": {
+            "label": "Joan Röell",
+            "description": "Jonkheer Joan Röell was a Dutch nobleman, lawyer, politician and statesman. He was a member of a prominent Dutch noble family which produced many public administrators and politicians. Wikipedia",
+            "type": "",
+            "Born ": "July 21, 1844, Haarlem, Netherlands",
+            "Died ": "July 13, 1914, The Hague, Netherlands",
+            "Spouse ": [
+                "Eritia Erna Romelia de Beaufort"
+            ],
+            "People also search for": []
+        },
+        "Joe Clark": {
+            "label": "Joe Louis Clark",
+            "description": "Joe Louis Clark is the former principal of Eastside High School in Paterson, one of New Jersey's toughest inner city schools. He is also the subject of the 1989 film Lean on Me, starring Morgan Freeman. Wikipedia",
+            "type": "",
+            "Born ": "May 7, 1938 (age 75), United States of America",
+            "Education ": [
+                "Rutgers University"
+            ],
             "People also search for": []
         },
         "Johannes Gerhardus Strijdom": {
@@ -555,63 +855,6 @@
                 "Susan de Klerk (m. 1931–1958)",
                 " Marda Vanne (m. 1931–1931)"
             ],
-            "People also search for": []
-        },
-        "Chang Myon": {
-            "label": "Chang Myon",
-            "description": "Chang Myon was a South Korean politician and educator, diplomat, journalist, social activist, and Roman Catholic youth activist. He was the fourth and last Vice President of the First Republic and the Prime Minister of the Second Republic. Wikipedia",
-            "type": "",
-            "Born ": "August 28, 1899, Seoul, South Korea",
-            "Died ": "June 4, 1966, Seoul, South Korea",
-            "Spouse ": [
-                "Kim Ok-yun"
-            ],
-            "Education ": [
-                "Manhattan College"
-            ],
-            "People also search for": []
-        },
-        "Bonar Law": {
-            "label": "Bonar Law",
-            "description": "Andrew Bonar Law, commonly called Bonar Law, was a British Conservative Party statesman and Prime Minister. Born in the colony of New Brunswick, he is the only British Prime Minister to have been born outside the British Isles. Wikipedia",
-            "type": "",
-            "Born ": "September 16, 1858, Rexton, Canada",
-            "Died ": "October 30, 1923, London, United Kingdom",
-            "Spouse ": [
-                "Annie Bonar Law"
-            ],
-            "Education ": [
-                "University of Glasgow"
-            ],
-            "Previous offices ": [
-                "Leader of the House of Commons (1922–1923)",
-                " Prime Minister of the United Kingdom (1922–1923)",
-                " First Lord of the Treasury (1922–1923)More"
-            ],
-            "Children ": [
-                "Richard Law",
-                " 1st Baron Coleraine"
-            ],
-            "People also search for": []
-        },
-        "Constantine Kanaris": {
-            "label": "Constantine Kanaris",
-            "description": "Constantine Kanaris or Canaris was a Greek Prime Minister, admiral and politician who in his youth was a freedom fighter in the Greek War of Independence. Wikipedia",
-            "type": "",
-            "Born ": [
-                "1795",
-                " Psara",
-                " Greece"
-            ],
-            "Died ": "September 14, 1877, Athens, Greece",
-            "People also search for": []
-        },
-        "Hugues-Bernard Maret, duc de Bassano": {
-            "label": "Hugues-Bernard Maret, duc de Bassano",
-            "description": "Hugues-Bernard Maret, 1st Duc de Bassano was a French statesman and journalist. Wikipedia",
-            "type": "",
-            "Born ": "May 1, 1763, Dijon, France",
-            "Died ": "May 13, 1839, Paris, France",
             "People also search for": []
         },
         "John A. Macdonald": {
@@ -639,202 +882,6 @@
             ],
             "People also search for": []
         },
-        "Jim Bolger": {
-            "label": "Jim Bolger",
-            "description": "James Brendan \"Jim\" Bolger ONZ was the 35th Prime Minister of New Zealand from 1990 to 1997. Bolger was elected on the promise of delivering a \"Decent Society\" following the previous Labour government's economic reforms, known as Rogernomics. Wikipedia",
-            "type": "",
-            "Born ": "May 31, 1935 (age 78), Opunake, New Zealand",
-            "Previous office ": [
-                "Prime Minister of New Zealand (1990–1997)"
-            ],
-            "Spouse ": [
-                "Joan Riddell (m. 1963)"
-            ],
-            "Education ": [
-                "Opunake High School"
-            ],
-            "Party ": [
-                "New Zealand National Party"
-            ],
-            "People also search for": []
-        },
-        "Jóannes Eidesgaard": {
-            "label": "Jóannes Eidesgaard",
-            "description": "Jóannes Dan Eidesgaard is a former Faroese politician. He was the Prime Minister of the Faroe Islands from 2004, starting shortly after the general election of 20 January 2004, until 26 September 2008, when a new coalition took office. Wikipedia",
-            "type": "",
-            "Born ": "April 19, 1951 (age 62), Tvøroyri, Faroe Islands",
-            "Spouse ": [
-                "Anita Eidesgaard"
-            ],
-            "Party ": [
-                "Social Democratic Party"
-            ],
-            "People also search for": []
-        },
-        "Hendrikus Colijn": {
-            "label": "Hendrikus Colijn",
-            "description": "Hendrikus Colijn was a Dutch soldier, businessman and politician who was Prime Minister of the Netherlands from 1925 to 1926 and again from 1933 to 1939. Wikipedia",
-            "type": "",
-            "Born ": "June 22, 1869, Burgerveen, Netherlands",
-            "Died ": "September 18, 1944, Ilmenau, Germany",
-            "Spouse ": [
-                "Helena Groenenberg"
-            ],
-            "Party ": [
-                "Anti-Revolutionary Party"
-            ],
-            "People also search for": []
-        },
-        "Joan Röell": {
-            "label": "Joan Röell",
-            "description": "Jonkheer Joan Röell was a Dutch nobleman, lawyer, politician and statesman. He was a member of a prominent Dutch noble family which produced many public administrators and politicians. Wikipedia",
-            "type": "",
-            "Born ": "July 21, 1844, Haarlem, Netherlands",
-            "Died ": "July 13, 1914, The Hague, Netherlands",
-            "Spouse ": [
-                "Eritia Erna Romelia de Beaufort"
-            ],
-            "People also search for": []
-        },
-        "Jan Heemskerk": {
-            "label": "Jan Heemskerk",
-            "description": "Jan Heemskerk Abrahamszoon was a Dutch politician, who became the prime minister of the Netherlands in 1874 until 1877, and again in 1883, until 1888. His son, Theo Heemskerk was also prime minister, in the period 1908-1913. Wikipedia",
-            "type": "",
-            "Born ": "July 30, 1818, Amsterdam, Netherlands",
-            "Died ": "October 9, 1897, The Hague, Netherlands",
-            "Spouse ": [
-                "Anna Heemskerk"
-            ],
-            "People also search for": []
-        },
-        "Ditlev Gothard Monrad": {
-            "label": "Ditlev Gothard Monrad",
-            "description": "Ditlev Gothard Monrad was a Danish politician and bishop of Lolland-Falster.\nMonrad was one of the pioneers of the making of a constitutional Denmark after 1848. Wikipedia",
-            "type": "",
-            "Born ": "November 24, 1811, Copenhagen, Denmark",
-            "Died ": "March 28, 1887, Nykøbing Falster, Denmark",
-            "Education ": [
-                "University of Copenhagen"
-            ],
-            "Party ": [
-                "National Liberal Party"
-            ],
-            "People also search for": []
-        },
-        "Hitoshi Ashida": {
-            "label": "Hitoshi Ashida",
-            "description": "Hitoshi Ashida was a Japanese politician who served as the 47th Prime Minister of Japan from 10 March to 15 October 1948. Wikipedia",
-            "type": "",
-            "Born ": "November 15, 1887, Fukuchiyama, Kyoto Prefecture, Japan",
-            "Died ": "June 20, 1959, Tokyo, Japan",
-            "Education ": [
-                "University of Tokyo"
-            ],
-            "Party ": [
-                "Democratic Party of Japan"
-            ],
-            "Previous office ": [
-                "Prime Minister of Japan (1948–1948)"
-            ],
-            "People also search for": []
-        },
-        "Earle Page": {
-            "label": "Earle Page",
-            "description": "Sir Earle Christmas Grafton Page, GCMG, CH was an Australian politician who briefly served as the 11th Prime Minister of Australia in 1939. Wikipedia",
-            "type": "",
-            "Born ": "August 8, 1880, Grafton, Australia",
-            "Died ": "December 20, 1961, Sydney, Australia",
-            "Spouse ": [
-                "Ethel Blunt"
-            ],
-            "Party ": [
-                "National Party of Australia"
-            ],
-            "Education ": [
-                "University of Sydney",
-                " Sydney Boys High School"
-            ],
-            "Previous offices ": [
-                "Prime Minister of Australia (1939–1939)",
-                " Member of the Australian Parliament (1919–1961)"
-            ],
-            "People also search for": []
-        },
-        "Charles Grey, 2nd Earl Grey": {
-            "label": "Charles Grey, 2nd Earl Grey",
-            "description": "Charles Grey, 2nd Earl Grey, KG PC, known as Viscount Howick between 1806 and 1807, was Prime Minister of the United Kingdom of Great Britain and Ireland from 22 November 1830 to 16 July 1834. Wikipedia",
-            "type": "",
-            "Born ": "March 13, 1764, Fallodon, United Kingdom",
-            "Died ": "July 17, 1845, Howick, United Kingdom",
-            "Parents ": [
-                "Charles Grey",
-                " 1st Earl Grey"
-            ],
-            "Children ": [
-                "Eliza Courtney",
-                " Henry Grey",
-                " 3rd Earl Grey",
-                " Charles Grey",
-                " Frederick Grey",
-                " Mary Grey"
-            ],
-            "Education ": [
-                "Trinity College",
-                " Cambridge",
-                " Eton College"
-            ],
-            "Books ": [
-                "England"
-            ],
-            "People also search for": []
-        },
-        "Jan Jacob Rochussen": {
-            "label": "Jan Jacob Rochussen",
-            "description": "Jan Jacob Rochussen was a Dutch politician. He served as Finance Minister from 1840 to 1843 and Governor-General of the Dutch East Indies from 1845 to 1851. He served as Prime Minister of the Netherlands from 18 March 1858 to 23 February 1860. Wikipedia",
-            "type": "",
-            "Born ": "October 23, 1797, Etten-Leur, Netherlands",
-            "Died ": "January 21, 1871, The Hague, Netherlands",
-            "Previous office ": [
-                "Governor-General of the Dutch East Indies (1845–1851)"
-            ],
-            "People also search for": []
-        },
-        "Bajram Kosumi": {
-            "label": "Bajram Kosumi",
-            "description": "Bajram Kosumi is an ethnic Albanian politician in Kosovo who served as the Prime Minister of Kosovo for nearly one year. Wikipedia",
-            "type": "",
-            "Born ": "March 20, 1960 (age 54), Kosovska Kamenica, Serbia",
-            "Party ": [
-                "Democratic Party of Kosovo"
-            ],
-            "People also search for": []
-        },
-        "Ján Čarnogurský": {
-            "label": "Ján Čarnogurský",
-            "description": "Ján Čarnogurský is a Slovak former politician, a former Prime Minister of Slovakia and the former chairman of the Christian Democratic Movement.\nHe is married and has 4 children. Wikipedia",
-            "type": "",
-            "Born ": "January 1, 1944 (age 70), Bratislava, Slovakia",
-            "Education ": [
-                "Comenius University in Bratislava"
-            ],
-            "Party ": [
-                "Christian Democratic Movement"
-            ],
-            "People also search for": []
-        },
-        "Joseph Sinde Warioba": {
-            "label": "Joseph Warioba",
-            "description": "Joseph Sinde Warioba served as Prime Minister of Tanzania from 1985 to 1990. Furthermore, he served concurrently as the country's vice president. Wikipedia",
-            "type": "",
-            "Born ": "September 3, 1940 (age 73), Bunda District, Tanzania",
-            "Education ": [
-                "Hague Academy of International Law"
-            ],
-            "Party ": [
-                "Chama cha Mapinduzi"
-            ],
-            "People also search for": []
-        },
         "John Diefenbaker": {
             "label": "John Diefenbaker",
             "description": "John George Diefenbaker PC, CH, QC was the 13th Prime Minister of Canada, serving from June 21, 1957, to April 22, 1963. Wikipedia",
@@ -852,111 +899,6 @@
                 "University of Saskatchewan College of Law (1919)",
                 " University of Saskatchewan (1916)",
                 " University of Saskatchewan (1912–1915)More"
-            ],
-            "People also search for": []
-        },
-        "Jozef Moravčík": {
-            "label": "Jozef Moravčík",
-            "description": "Jozef Moravčík is a Slovak diplomat and political figure. He served as the Prime Minister of Slovakia from 16 March 1994 to 13 December 1994, and later as the Mayor of Bratislava. Wikipedia",
-            "type": "",
-            "Born ": "March 19, 1945 (age 69), Očová, Slovakia",
-            "Party ": [
-                "People's Party – Movement for a Democratic Slovakia"
-            ],
-            "People also search for": []
-        },
-        "Jozef Lenárt": {
-            "label": "Jozef Lenárt",
-            "description": "Jozef Lenárt was a politician.\nHe graduated from a chemistry high school and worked for the Baťa company. He became a member of the Communist Party of Czechoslovakia and of the Communist Party of Slovakia. Wikipedia",
-            "type": "",
-            "Born ": "April 3, 1923, Liptovská Porúbka, Slovakia",
-            "Died ": "February 11, 2004, Prague, Czech Republic",
-            "Party ": [
-                "Communist Party of Czechoslovakia"
-            ],
-            "People also search for": []
-        },
-        "Grantley Herbert Adams": {
-            "label": "Grantley Herbert Adams",
-            "description": "Sir Grantley Herbert Adams, CMG, QC, was a Barbadian and British West Indian statesmen. Wikipedia",
-            "type": "",
-            "Born ": "April 28, 1898, Saint Michael Parish, Barbados",
-            "Died ": "November 28, 1971, Saint Michael Parish, Barbados",
-            "Party ": [
-                "Barbados Labour Party"
-            ],
-            "Education ": [
-                "St Catherine's College",
-                " Oxford (1919–1923)",
-                " University of Oxford"
-            ],
-            "People also search for": []
-        },
-        "Jean Nguza Karl-i-Bond": {
-            "label": "Jean Nguza Karl-i-Bond",
-            "description": "Jean Nguza Karl-i-Bond was a prominent Zairian politician. Wikipedia",
-            "type": "",
-            "Born ": "August 4, 1938, Democratic Republic of the Congo",
-            "Died ": "July 27, 2003, Kinshasa, Democratic Republic of the Congo",
-            "Education ": [
-                "Catholic University of Leuven"
-            ],
-            "People also search for": []
-        },
-        "Gustaf Åkerhielm": {
-            "label": "Gustaf Åkerhielm",
-            "description": "Friherre Johan Gustaf Nils Samuel Åkerhielm of Margaretelund was a politician, a baron, a landowner, member of the Riksdag from 1859 to 1866 and from 1870 to 1900, a Minister of Finance from 1874 to ... Wikipedia",
-            "type": "",
-            "Born ": "July 24, 1833, Klara",
-            "Died ": "April 2, 1900, Stockholm, Sweden",
-            "Party ": [
-                "Protectionist Party"
-            ],
-            "People also search for": []
-        },
-        "Geir Haarde": {
-            "label": "Geir Haarde",
-            "description": "Geir Hilmar Haarde is an Icelandic politician and former head of government. Geir was Prime Minister of Iceland from 15 June 2006 to 1 February 2009 and Chairman of the Icelandic Independence Party from 2005 to 2009. Wikipedia",
-            "type": "",
-            "Born ": "April 8, 1951 (age 62), Reykjavik, Iceland",
-            "Spouse ": [
-                "Jóna Þórðardóttir"
-            ],
-            "Party ": [
-                "Independence Party"
-            ],
-            "Previous office ": [
-                "Prime Minister of Iceland (2006–2009)"
-            ],
-            "Education ": [
-                "Paul H. Nitze School of Advanced International Studies",
-                " Johns Hopkins University",
-                " University of Minnesota",
-                " Brandeis UniversityMore"
-            ],
-            "People also search for": []
-        },
-        "Karl Staaff": {
-            "label": "Karl Staaff",
-            "description": "Karl Albert Staaff was a Swedish liberal politician and lawyer. He was chairman of the Liberal Coalition Party and served twice as Prime Minister of Sweden. Wikipedia",
-            "type": "",
-            "Born ": "January 21, 1860, Klara",
-            "Died ": "October 4, 1915, Stockholm, Sweden",
-            "Party ": [
-                "Free-minded National Association"
-            ],
-            "People also search for": []
-        },
-        "Kåre Willoch": {
-            "label": "Kåre Willoch",
-            "description": "Kåre Isaachsen Willoch is a Norwegian politician from the Conservative Party. He served as Minister of Trade and Shipping in 1963 and 1965–1970, and as Prime Minister of Norway from 1981 to 1986. Wikipedia",
-            "type": "",
-            "Born ": "October 3, 1928 (age 85), Oslo, Norway",
-            "Education ": [
-                "University of Oslo"
-            ],
-            "Party ": [
-                "Conservative Party"
             ],
             "People also search for": []
         },
@@ -987,21 +929,37 @@
             ],
             "People also search for": []
         },
-        "Khin Nyunt": {
-            "label": "Khin Nyunt",
-            "description": "General Khin Nyunt is an officer and politician in Burma. Khin Nyunt is of Burmese Chinese descent. He held the office of Chief of Intelligence and was Prime Minister from 25 August 2003 until 18 October 2004. Wikipedia",
+        "Joseph Sinde Warioba": {
+            "label": "Joseph Warioba",
+            "description": "Joseph Sinde Warioba served as Prime Minister of Tanzania from 1985 to 1990. Furthermore, he served concurrently as the country's vice president. Wikipedia",
             "type": "",
-            "Born ": "October 11, 1939 (age 74), British rule in Burma",
+            "Born ": "September 3, 1940 (age 73), Bunda District, Tanzania",
+            "Education ": [
+                "Hague Academy of International Law"
+            ],
+            "Party ": [
+                "Chama cha Mapinduzi"
+            ],
             "People also search for": []
         },
-        "Khorloogiin Choibalsan": {
-            "label": "Khorloogiin Choibalsan",
-            "description": "Khorloogiin Choibalsan was the Communist leader of the Mongolian People's Republic and Marshal of the Mongolian armed forces from the 1930s until his death in 1952. Wikipedia",
+        "Jozef Lenárt": {
+            "label": "Jozef Lenárt",
+            "description": "Jozef Lenárt was a politician.\nHe graduated from a chemistry high school and worked for the Baťa company. He became a member of the Communist Party of Czechoslovakia and of the Communist Party of Slovakia. Wikipedia",
             "type": "",
-            "Born ": "February 8, 1895, Mongolia",
-            "Died ": "January 26, 1952, Moscow, Russia",
+            "Born ": "April 3, 1923, Liptovská Porúbka, Slovakia",
+            "Died ": "February 11, 2004, Prague, Czech Republic",
             "Party ": [
-                "Mongolian People's Party"
+                "Communist Party of Czechoslovakia"
+            ],
+            "People also search for": []
+        },
+        "Jozef Moravčík": {
+            "label": "Jozef Moravčík",
+            "description": "Jozef Moravčík is a Slovak diplomat and political figure. He served as the Prime Minister of Slovakia from 16 March 1994 to 13 December 1994, and later as the Mayor of Bratislava. Wikipedia",
+            "type": "",
+            "Born ": "March 19, 1945 (age 69), Očová, Slovakia",
+            "Party ": [
+                "People's Party – Movement for a Democratic Slovakia"
             ],
             "People also search for": []
         },
@@ -1011,6 +969,37 @@
             "type": "",
             "Born ": "August 6, 1804",
             "Died ": "October 2, 1863",
+            "People also search for": []
+        },
+        "Kåre Willoch": {
+            "label": "Kåre Willoch",
+            "description": "Kåre Isaachsen Willoch is a Norwegian politician from the Conservative Party. He served as Minister of Trade and Shipping in 1963 and 1965–1970, and as Prime Minister of Norway from 1981 to 1986. Wikipedia",
+            "type": "",
+            "Born ": "October 3, 1928 (age 85), Oslo, Norway",
+            "Education ": [
+                "University of Oslo"
+            ],
+            "Party ": [
+                "Conservative Party"
+            ],
+            "People also search for": []
+        },
+        "Khin Nyunt": {
+            "label": "Khin Nyunt",
+            "description": "General Khin Nyunt is an officer and politician in Burma. Khin Nyunt is of Burmese Chinese descent. He held the office of Chief of Intelligence and was Prime Minister from 25 August 2003 until 18 October 2004. Wikipedia",
+            "type": "",
+            "Born ": "October 11, 1939 (age 74), British rule in Burma",
+            "People also search for": []
+        },
+        "Karl Staaff": {
+            "label": "Karl Staaff",
+            "description": "Karl Albert Staaff was a Swedish liberal politician and lawyer. He was chairman of the Liberal Coalition Party and served twice as Prime Minister of Sweden. Wikipedia",
+            "type": "",
+            "Born ": "January 21, 1860, Klara",
+            "Died ": "October 4, 1915, Stockholm, Sweden",
+            "Party ": [
+                "Free-minded National Association"
+            ],
             "People also search for": []
         },
         "Keisuke Okada": {
@@ -1024,12 +1013,15 @@
             ],
             "People also search for": []
         },
-        "Ljubomir Davidović": {
-            "label": "Ljubomir Davidović",
-            "description": "Ljubomir Davidović was a prime minister of the Kingdom of Serbs, Croats, and Slovenes. Wikipedia",
+        "Khorloogiin Choibalsan": {
+            "label": "Khorloogiin Choibalsan",
+            "description": "Khorloogiin Choibalsan was the Communist leader of the Mongolian People's Republic and Marshal of the Mongolian armed forces from the 1930s until his death in 1952. Wikipedia",
             "type": "",
-            "Born ": "December 24, 1863, Serbia",
-            "Died ": "February 19, 1940, Belgrade, Serbia",
+            "Born ": "February 8, 1895, Mongolia",
+            "Died ": "January 26, 1952, Moscow, Russia",
+            "Party ": [
+                "Mongolian People's Party"
+            ],
             "People also search for": []
         },
         "Kimon Georgiev": {
@@ -1038,6 +1030,62 @@
             "type": "",
             "Born ": "August 11, 1882, Pazardzhik, Bulgaria",
             "Died ": "September 28, 1969, Sofia, Bulgaria",
+            "People also search for": []
+        },
+        "Kuchik Khan": {
+            "label": "Kuchik Khan",
+            "description": "Mīrzā Kūchik Khān was an early twentieth century revolutionary and is considered a national hero in modern Iranian history. Wikipedia",
+            "type": "",
+            "Born ": [
+                "1880",
+                " Rasht",
+                " Iran"
+            ],
+            "Died ": "December 2, 1921, Ardabil Province, Iran",
+            "Parents ": [
+                "Mirza \"Bozorg\""
+            ],
+            "People also search for": []
+        },
+        "Mario Scelba": {
+            "label": "Mario Scelba",
+            "description": "Mario Scelba was an Italian Christian Democratic politician who served as the 34th Prime Minister of Italy from February 1954 to July 1955. He was also President of the European Parliament from 1969 to 1971. Wikipedia",
+            "type": "",
+            "Born ": "September 5, 1901, Caltagirone, Italy",
+            "Died ": "November 29, 1991, Latium, Italy",
+            "Party ": [
+                "Christian Democracy"
+            ],
+            "People also search for": []
+        },
+        "Miroslava Němcová": {
+            "label": "Miroslava Němcová",
+            "description": "Miroslava Němcová is a former Speaker of the Chamber of Deputies of the Parliament of the Czech Republic. She was elected to this office on 24 June 2010. Wikipedia",
+            "type": "",
+            "Born ": "November 17, 1952 (age 61), Nové Město na Moravě, Czech Republic",
+            "Party ": [
+                "Civic Democratic Party"
+            ],
+            "People also search for": []
+        },
+        "Lado Gurgenidze": {
+            "label": "Lado Gurgenidze",
+            "description": "Vladimer \"Lado\" Gurgenidze was born on 7 December 1970 in Tbilisi, Georgia. Gurgenidze has received an MBA degree from Goizueta Business School of Emory University in 1993, following his undergraduate ... Wikipedia",
+            "type": "",
+            "Born ": "December 7, 1970 (age 43), Tbilisi, Georgia",
+            "Education ": [
+                "Goizueta Business School",
+                " Emory University",
+                " Middlebury College",
+                " Tbilisi State University"
+            ],
+            "People also search for": []
+        },
+        "Marián Čalfa": {
+            "label": "Marián Čalfa",
+            "description": "Marián Čalfa was a Prime Minister of Czechoslovakia during and after the Velvet Revolution, as well as acting President for 19 days, and was a key facilitator of smooth power transfer from the Communists to a new democratic representation. Wikipedia",
+            "type": "",
+            "Born ": "May 7, 1946 (age 67), Trebišov, Slovakia",
             "People also search for": []
         },
         "Mohammad Hashim Maiwandwal": {
@@ -1081,39 +1129,6 @@
             ],
             "People also search for": []
         },
-        "Nicolaas Pierson": {
-            "label": "Nicolaas Pierson",
-            "description": "Nicolaas Gerard Pierson was a Dutch Liberal financial and economic expert, politician, and statesman, chairman of the Council of Ministers of the Netherlands from 1897 until 1901. Wikipedia",
-            "type": "",
-            "Born ": "February 7, 1839, Amsterdam, Netherlands",
-            "Died ": "December 24, 1909, Heemstede, Netherlands",
-            "Party ": [
-                "Liberal Union"
-            ],
-            "Education ": [
-                "University of Cambridge",
-                " Leiden University"
-            ],
-            "People also search for": []
-        },
-        "Marián Čalfa": {
-            "label": "Marián Čalfa",
-            "description": "Marián Čalfa was a Prime Minister of Czechoslovakia during and after the Velvet Revolution, as well as acting President for 19 days, and was a key facilitator of smooth power transfer from the Communists to a new democratic representation. Wikipedia",
-            "type": "",
-            "Born ": "May 7, 1946 (age 67), Trebišov, Slovakia",
-            "People also search for": []
-        },
-        "Mario Scelba": {
-            "label": "Mario Scelba",
-            "description": "Mario Scelba was an Italian Christian Democratic politician who served as the 34th Prime Minister of Italy from February 1954 to July 1955. He was also President of the European Parliament from 1969 to 1971. Wikipedia",
-            "type": "",
-            "Born ": "September 5, 1901, Caltagirone, Italy",
-            "Died ": "November 29, 1991, Latium, Italy",
-            "Party ": [
-                "Christian Democracy"
-            ],
-            "People also search for": []
-        },
         "Nobusuke Kishi": {
             "label": "Nobusuke Kishi",
             "description": "Nobusuke Kishi was a Japanese politician and the 56th and 57th Prime Minister of Japan from 25 February 1957 to 12 June 1958, and from then to 19 July 1960. Kishi was called Shōwa no yōkai. Wikipedia",
@@ -1134,38 +1149,18 @@
             ],
             "People also search for": []
         },
-        "Ola Ullsten": {
-            "label": "Ola Ullsten",
-            "description": "Stig Kjell Olof Ullsten is a Swedish former politician and diplomat who was Prime Minister of Sweden from 1978 to 1979 and leader of the Liberal People's Party from 1978 to 1983. Wikipedia",
+        "Nicolaas Pierson": {
+            "label": "Nicolaas Pierson",
+            "description": "Nicolaas Gerard Pierson was a Dutch Liberal financial and economic expert, politician, and statesman, chairman of the Council of Ministers of the Netherlands from 1897 until 1901. Wikipedia",
             "type": "",
-            "Born ": "June 23, 1931 (age 82), Teg, Sweden",
+            "Born ": "February 7, 1839, Amsterdam, Netherlands",
+            "Died ": "December 24, 1909, Heemstede, Netherlands",
             "Party ": [
-                "Liberal People's Party"
+                "Liberal Union"
             ],
-            "People also search for": []
-        },
-        "Miroslava Němcová": {
-            "label": "Miroslava Němcová",
-            "description": "Miroslava Němcová is a former Speaker of the Chamber of Deputies of the Parliament of the Czech Republic. She was elected to this office on 24 June 2010. Wikipedia",
-            "type": "",
-            "Born ": "November 17, 1952 (age 61), Nové Město na Moravě, Czech Republic",
-            "Party ": [
-                "Civic Democratic Party"
-            ],
-            "People also search for": []
-        },
-        "Kuchik Khan": {
-            "label": "Kuchik Khan",
-            "description": "Mīrzā Kūchik Khān was an early twentieth century revolutionary and is considered a national hero in modern Iranian history. Wikipedia",
-            "type": "",
-            "Born ": [
-                "1880",
-                " Rasht",
-                " Iran"
-            ],
-            "Died ": "December 2, 1921, Ardabil Province, Iran",
-            "Parents ": [
-                "Mirza \"Bozorg\""
+            "Education ": [
+                "University of Cambridge",
+                " Leiden University"
             ],
             "People also search for": []
         },
@@ -1192,16 +1187,29 @@
             ],
             "People also search for": []
         },
-        "Lado Gurgenidze": {
-            "label": "Lado Gurgenidze",
-            "description": "Vladimer \"Lado\" Gurgenidze was born on 7 December 1970 in Tbilisi, Georgia. Gurgenidze has received an MBA degree from Goizueta Business School of Emory University in 1993, following his undergraduate ... Wikipedia",
+        "Ola Ullsten": {
+            "label": "Ola Ullsten",
+            "description": "Stig Kjell Olof Ullsten is a Swedish former politician and diplomat who was Prime Minister of Sweden from 1978 to 1979 and leader of the Liberal People's Party from 1978 to 1983. Wikipedia",
             "type": "",
-            "Born ": "December 7, 1970 (age 43), Tbilisi, Georgia",
+            "Born ": "June 23, 1931 (age 82), Teg, Sweden",
+            "Party ": [
+                "Liberal People's Party"
+            ],
+            "People also search for": []
+        },
+        "Omar Karami": {
+            "label": "Omar Karami",
+            "description": "Omar Abdul Hamid Karami was the Prime Minister of Lebanon on two separate occasions. He was Prime Minister for the first time from 24 December 1990, when Selim al-Hoss gave up power, until 13 May 1992, ... Wikipedia",
+            "type": "",
+            "Born ": "September 7, 1934 (age 79), French Mandate for Syria and the Lebanon",
             "Education ": [
-                "Goizueta Business School",
-                " Emory University",
-                " Middlebury College",
-                " Tbilisi State University"
+                "Lebanese University"
+            ],
+            "Parents ": [
+                "Abdul Hamid Karami"
+            ],
+            "Siblings ": [
+                "Rashid Karami"
             ],
             "People also search for": []
         },
@@ -1226,30 +1234,19 @@
             ],
             "People also search for": []
         },
-        "Petar Živković": {
-            "label": "Petar Živković",
-            "description": "Petar Živković was a Serbian soldier and political figure in Yugoslavia. He was Prime Minister of the Kingdom of Yugoslavia from January 7, 1929 until April 4, 1932. Wikipedia",
+        "Owen Arthur": {
+            "label": "Owen Arthur",
+            "description": "Owen Seymour Arthur, MP is a Barbadian politician who was Prime Minister of Barbados from 1994 to 2008. To date, he is the longest serving Barbadian Prime Minister. He was Leader of the Opposition in Barbados from 2010 to 2013. Wikipedia",
             "type": "",
-            "Born ": "January 1, 1879, Negotin, Serbia",
-            "Died ": "February 3, 1947, Paris, France",
-            "Party ": [
-                "Yugoslav National Party"
+            "Born ": "October 17, 1949 (age 64), Barbados",
+            "Spouse ": [
+                "Julie Arthur"
             ],
-            "People also search for": []
-        },
-        "Omar Karami": {
-            "label": "Omar Karami",
-            "description": "Omar Abdul Hamid Karami was the Prime Minister of Lebanon on two separate occasions. He was Prime Minister for the first time from 24 December 1990, when Selim al-Hoss gave up power, until 13 May 1992, ... Wikipedia",
-            "type": "",
-            "Born ": "September 7, 1934 (age 79), French Mandate for Syria and the Lebanon",
             "Education ": [
-                "Lebanese University"
+                "Harrison College"
             ],
-            "Parents ": [
-                "Abdul Hamid Karami"
-            ],
-            "Siblings ": [
-                "Rashid Karami"
+            "Party ": [
+                "Barbados Labour Party"
             ],
             "People also search for": []
         },
@@ -1267,19 +1264,14 @@
             ],
             "People also search for": []
         },
-        "Owen Arthur": {
-            "label": "Owen Arthur",
-            "description": "Owen Seymour Arthur, MP is a Barbadian politician who was Prime Minister of Barbados from 1994 to 2008. To date, he is the longest serving Barbadian Prime Minister. He was Leader of the Opposition in Barbados from 2010 to 2013. Wikipedia",
+        "Petar Živković": {
+            "label": "Petar Živković",
+            "description": "Petar Živković was a Serbian soldier and political figure in Yugoslavia. He was Prime Minister of the Kingdom of Yugoslavia from January 7, 1929 until April 4, 1932. Wikipedia",
             "type": "",
-            "Born ": "October 17, 1949 (age 64), Barbados",
-            "Spouse ": [
-                "Julie Arthur"
-            ],
-            "Education ": [
-                "Harrison College"
-            ],
+            "Born ": "January 1, 1879, Negotin, Serbia",
+            "Died ": "February 3, 1947, Paris, France",
             "Party ": [
-                "Barbados Labour Party"
+                "Yugoslav National Party"
             ],
             "People also search for": []
         },
@@ -1300,31 +1292,39 @@
                 " Petrache Carp"
             ],
             "People also search for": []
+        },
+        "Ljubomir Davidović": {
+            "label": "Ljubomir Davidović",
+            "description": "Ljubomir Davidović was a prime minister of the Kingdom of Serbs, Croats, and Slovenes. Wikipedia",
+            "type": "",
+            "Born ": "December 24, 1863, Serbia",
+            "Died ": "February 19, 1940, Belgrade, Serbia",
+            "People also search for": []
         }
     },
     "summary": {
         "label": 95,
         "description": 95,
         "type": 95,
-        "Born ": 95,
-        "Died ": 66,
-        "Spouse ": 22,
-        "People also search for": 95,
-        "Party ": 54,
-        "Education ": 42,
-        "Assassinated ": 2,
-        "Children ": 9,
-        "Previous offices ": 5,
-        "Previous office ": 9,
-        "Parents ": 9,
-        "Siblings ": 3,
-        "Books ": 3
+        "born": 1,
+        "assassinated": 1,
+        "people_also_search_for": 1,
+        "died": 1,
+        "party": 1,
+        "education": 1,
+        "spouse": 1,
+        "children": 1,
+        "previous_offices": 1,
+        "previous_office": 1,
+        "parents": 1,
+        "books": 1,
+        "siblings": 1
     },
     "infoboxless": [
-        "F. J. Robinson, 1st Viscount Goderich",
-        "J. B. M. Hertzog",
         "Carl Christian Hall",
         "Carl Swartz",
+        "F. J. Robinson, 1st Viscount Goderich",
+        "J. B. M. Hertzog",
         "John Lyng"
     ]
 }

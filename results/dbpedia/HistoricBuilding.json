@@ -1,5 +1,28 @@
 {
     "instances": {
+        "Cathedral of La Laguna": {
+            "label": "La Laguna Cathedral",
+            "description": "The Cathedral of San Cristóbal de La Laguna or Catedral de Nuestra Señora de los Remedios is a Catholic cathedral in Tenerife, Spain. Begun in 1904 and completed in 1915, it is dedicated to the Virgin of Los Remedios. Wikipedia",
+            "type": "",
+            "Address ": [
+                "Plaza Fray Albino",
+                " S/N",
+                " 38201 San Cristóbal de La Laguna",
+                " Santa Cruz de Tenerife",
+                " Santa Cruz de Tenerife",
+                " Spain"
+            ],
+            "Opened ": [
+                "1913"
+            ],
+            "Phone ": [
+                "+34 922 25 86 40"
+            ],
+            "Architectural style ": [
+                "Neoclassical architecture"
+            ],
+            "People also search for": []
+        },
         "All Saints' Church, Wittenberg": {
             "label": "All Saints' Church, Wittenberg",
             "description": "All Saints' Church, commonly referred to as Schloßkirche to distinguish it from the Stadtkirche of St. Mary — and sometimes known as the Reformation Memorial Church — was a Catholic church which later ... Wikipedia",
@@ -59,29 +82,6 @@
             ],
             "Architectural style ": [
                 "English Gothic architecture"
-            ],
-            "People also search for": []
-        },
-        "Cathedral of La Laguna": {
-            "label": "La Laguna Cathedral",
-            "description": "The Cathedral of San Cristóbal de La Laguna or Catedral de Nuestra Señora de los Remedios is a Catholic cathedral in Tenerife, Spain. Begun in 1904 and completed in 1915, it is dedicated to the Virgin of Los Remedios. Wikipedia",
-            "type": "",
-            "Address ": [
-                "Plaza Fray Albino",
-                " S/N",
-                " 38201 San Cristóbal de La Laguna",
-                " Santa Cruz de Tenerife",
-                " Santa Cruz de Tenerife",
-                " Spain"
-            ],
-            "Opened ": [
-                "1913"
-            ],
-            "Phone ": [
-                "+34 922 25 86 40"
-            ],
-            "Architectural style ": [
-                "Neoclassical architecture"
             ],
             "People also search for": []
         },
@@ -222,21 +222,6 @@
             ],
             "People also search for": []
         },
-        "Llandaff Cathedral": {
-            "label": "Llandaff Cathedral",
-            "description": "Llandaff Cathedral is the seat of the Bishop of Llandaff, head of the Church in Wales Diocese of Llandaff. It is situated in the district of Llandaff in the city of Cardiff, the capital of Wales. Wikipedia",
-            "type": "Building in Cardiff, Wales",
-            "Address ": [
-                "Cathedral Green",
-                " Llandaff",
-                " Cardiff CF5 2LA",
-                " United Kingdom"
-            ],
-            "Phone ": [
-                "+44 29 2056 4554"
-            ],
-            "People also search for": []
-        },
         "Kōfuku-ji": {
             "label": "Kōfuku-ji",
             "description": "Kōfuku-ji is a Buddhist temple in the city of Nara, Japan. The temple is the national headquarters of the Hossō school and is one of the eight Historic Monuments of Ancient Nara inscribed on the UNESCO World Heritage List. Wikipedia",
@@ -249,6 +234,21 @@
             ],
             "Hours ": [
                 "+81 742-22-7755"
+            ],
+            "People also search for": []
+        },
+        "Llandaff Cathedral": {
+            "label": "Llandaff Cathedral",
+            "description": "Llandaff Cathedral is the seat of the Bishop of Llandaff, head of the Church in Wales Diocese of Llandaff. It is situated in the district of Llandaff in the city of Cardiff, the capital of Wales. Wikipedia",
+            "type": "Building in Cardiff, Wales",
+            "Address ": [
+                "Cathedral Green",
+                " Llandaff",
+                " Cardiff CF5 2LA",
+                " United Kingdom"
+            ],
+            "Phone ": [
+                "+44 29 2056 4554"
             ],
             "People also search for": []
         },
@@ -279,6 +279,22 @@
             ],
             "Phone ": [
                 "Decorated Period"
+            ],
+            "People also search for": []
+        },
+        "St. Martin's Church, Landshut": {
+            "label": "St. Martin's Church, Landshut",
+            "description": "The Church of St. Martin in Landshut is a medieval church in that German city. St. Martin's Church, along with Trausnitz Castle and the celebration of the Landshuter Hochzeit, are the most important landmarks and historical events of Landshut. Wikipedia",
+            "type": "Building in Landshut, Germany",
+            "Address ": "Kirchgasse 232, 84028 Landshut, Germany",
+            "Opened ": [
+                "1500"
+            ],
+            "Height ": [
+                "430' (131 m)"
+            ],
+            "Architectural style ": [
+                "Gothic architecture"
             ],
             "People also search for": []
         },
@@ -313,36 +329,6 @@
             ],
             "People also search for": []
         },
-        "St. Martin's Church, Landshut": {
-            "label": "St. Martin's Church, Landshut",
-            "description": "The Church of St. Martin in Landshut is a medieval church in that German city. St. Martin's Church, along with Trausnitz Castle and the celebration of the Landshuter Hochzeit, are the most important landmarks and historical events of Landshut. Wikipedia",
-            "type": "Building in Landshut, Germany",
-            "Address ": "Kirchgasse 232, 84028 Landshut, Germany",
-            "Opened ": [
-                "1500"
-            ],
-            "Height ": [
-                "430' (131 m)"
-            ],
-            "Architectural style ": [
-                "Gothic architecture"
-            ],
-            "People also search for": []
-        },
-        "Storkyrkan": {
-            "label": "Storkyrkan",
-            "description": "Sankt Nikolai kyrka, most commonly known as Storkyrkan and Stockholms domkyrka, is the oldest church in Gamla Stan, the old town in central Stockholm, Sweden. It is an important example of Swedish Brick Gothic. Wikipedia",
-            "type": "Building in Stockholm, Sweden",
-            "Address ": [
-                "Trångsund 1",
-                " 111 29 Stockholm",
-                " Sweden"
-            ],
-            "Phone ": [
-                "+46 8 723 30 00"
-            ],
-            "People also search for": []
-        },
         "St Patrick's Cathedral, Dublin": {
             "label": "St Patrick's Cathedral, Dublin",
             "description": "Saint Patrick's Cathedral in Dublin, also known as The National Cathedral and Collegiate Church of Saint Patrick, Dublin, or in the Irish language as Árd Eaglais Naomh Pádraig, founded in 1191, is the ... Wikipedia",
@@ -367,6 +353,37 @@
             ],
             "People also search for": []
         },
+        "Storkyrkan": {
+            "label": "Storkyrkan",
+            "description": "Sankt Nikolai kyrka, most commonly known as Storkyrkan and Stockholms domkyrka, is the oldest church in Gamla Stan, the old town in central Stockholm, Sweden. It is an important example of Swedish Brick Gothic. Wikipedia",
+            "type": "Building in Stockholm, Sweden",
+            "Address ": [
+                "Trångsund 1",
+                " 111 29 Stockholm",
+                " Sweden"
+            ],
+            "Phone ": [
+                "+46 8 723 30 00"
+            ],
+            "People also search for": []
+        },
+        "University Church of St Mary the Virgin": {
+            "label": "University Church of St Mary the Virgin",
+            "description": "The University Church of St Mary the Virgin is the largest of Oxford's parish churches and the centre from which the University of Oxford grew. Wikipedia",
+            "type": "Building in United Kingdom",
+            "Address ": [
+                "High Street",
+                " Oxford OX1 4BJ",
+                " United Kingdom"
+            ],
+            "Phone ": [
+                "+44 1865 279111"
+            ],
+            "Architectural style ": [
+                "English Gothic architecture"
+            ],
+            "People also search for": []
+        },
         "Trinity Cathedral, Saint Petersburg": {
             "label": "Trinity Cathedral, Saint Petersburg",
             "description": "The Trinity Cathedral, sometimes called the Troitsky Cathedral, in Saint Petersburg, Russia, is a late example of the Empire style, built between 1828 and 1835 to a design by Vasily Stasov. Wikipedia",
@@ -386,23 +403,6 @@
             "Architectural styles ": [
                 "Empire style",
                 " Neoclassicism"
-            ],
-            "People also search for": []
-        },
-        "University Church of St Mary the Virgin": {
-            "label": "University Church of St Mary the Virgin",
-            "description": "The University Church of St Mary the Virgin is the largest of Oxford's parish churches and the centre from which the University of Oxford grew. Wikipedia",
-            "type": "Building in United Kingdom",
-            "Address ": [
-                "High Street",
-                " Oxford OX1 4BJ",
-                " United Kingdom"
-            ],
-            "Phone ": [
-                "+44 1865 279111"
-            ],
-            "Architectural style ": [
-                "English Gothic architecture"
             ],
             "People also search for": []
         },
@@ -450,22 +450,6 @@
             ],
             "People also search for": []
         },
-        "Daitoku-ji": {
-            "label": "Daitoku-ji",
-            "description": "Daitoku-ji is a Buddhist temple, one of fourteen autonomous branches of the Rinzai school of Japanese Zen. It is located in Kita-ku, Kyoto, Japan. The \"mountain name\" 龍宝山). Wikipedia",
-            "type": "Temple in Kyoto, Japan",
-            "Address ": [
-                "53 Murasakino Daitokujicho",
-                " Kita Ward",
-                " Kyoto",
-                " Kyoto Prefecture 603-8231",
-                " Japan"
-            ],
-            "Phone ": [
-                "+81 75-491-0019"
-            ],
-            "People also search for": []
-        },
         "Cathedral of Christ the Saviour": {
             "label": "Cathedral of Christ the Saviour",
             "description": "The Cathedral of Christ the Saviour is a cathedral in Moscow, Russia, on the northern bank of the Moskva River, a few blocks southwest of the Kremlin. With an overall height of 103 metres, it is the tallest Orthodox Christian church in the world. Wikipedia",
@@ -496,6 +480,22 @@
                 "Konstantin Thon",
                 " Aleksandr Vitberg",
                 " Nodar Kancheli"
+            ],
+            "People also search for": []
+        },
+        "Daitoku-ji": {
+            "label": "Daitoku-ji",
+            "description": "Daitoku-ji is a Buddhist temple, one of fourteen autonomous branches of the Rinzai school of Japanese Zen. It is located in Kita-ku, Kyoto, Japan. The \"mountain name\" 龍宝山). Wikipedia",
+            "type": "Temple in Kyoto, Japan",
+            "Address ": [
+                "53 Murasakino Daitokujicho",
+                " Kita Ward",
+                " Kyoto",
+                " Kyoto Prefecture 603-8231",
+                " Japan"
+            ],
+            "Phone ": [
+                "+81 75-491-0019"
             ],
             "People also search for": []
         },
@@ -580,18 +580,6 @@
             ],
             "People also search for": []
         },
-        "Crathie Kirk": {
-            "label": "Crathie Kirk",
-            "description": "Crathie Kirk is a small Church of Scotland parish church in the Scottish village of Crathie, best known for being the regular place of worship of the British Royal Family when they are holidaying at nearby Balmoral Castle. Wikipedia",
-            "type": "",
-            "Opened ": [
-                "1893"
-            ],
-            "Architect ": [
-                "Alexander Marshall Mackenzie"
-            ],
-            "People also search for": []
-        },
         "Yoido Full Gospel Church": {
             "label": "Yoido Full Gospel Church",
             "description": "Yoido Full Gospel Church is a Pentecostal church affiliated with the Assemblies of God on Yeouido in Seoul, South Korea. With about 1,000,000 members, it is the largest Pentecostal Christian congregation in South Korea, and the world. Wikipedia",
@@ -609,6 +597,24 @@
             "Architectural style ": [
                 "Modern architecture"
             ],
+            "People also search for": []
+        },
+        "Crathie Kirk": {
+            "label": "Crathie Kirk",
+            "description": "Crathie Kirk is a small Church of Scotland parish church in the Scottish village of Crathie, best known for being the regular place of worship of the British Royal Family when they are holidaying at nearby Balmoral Castle. Wikipedia",
+            "type": "",
+            "Opened ": [
+                "1893"
+            ],
+            "Architect ": [
+                "Alexander Marshall Mackenzie"
+            ],
+            "People also search for": []
+        },
+        "First African Baptist Church (Savannah, Georgia)": {
+            "label": "First African Baptist Church",
+            "description": "",
+            "type": "",
             "People also search for": []
         },
         "Allen Temple AME Church (Cincinnati, Ohio)": {
@@ -631,106 +637,6 @@
             ],
             "Phone ": [
                 "(513) 531-7539"
-            ],
-            "People also search for": []
-        },
-        "First African Baptist Church (Savannah, Georgia)": {
-            "label": "First African Baptist Church",
-            "description": "",
-            "type": "",
-            "People also search for": []
-        },
-        "Mount Osore": {
-            "label": "Mount Osore",
-            "description": "Mount Osore is a caldera volcano in the center of remote Shimokita Peninsula of Aomori Prefecture, Japan. According to the Smithsonian National Museum of National History, it peaks at 879 meters and its last eruption was noted in 1787. Wikipedia",
-            "type": "",
-            "Elevation ": [
-                "2",
-                "884' (879 m)"
-            ],
-            "People also search for": []
-        },
-        "Saint Thomas Church (New York City)": {
-            "label": "St. Thomas Episcopal Church",
-            "description": "Saint Thomas Church, located at the corner of 53rd Street and Fifth Avenue in the borough of Manhattan, New York, New York in the United States, is an Episcopal parish church of the Episcopal Diocese of New York. Wikipedia",
-            "type": "Manhattan",
-            "Address ": [
-                "1 W 53rd St",
-                " New York",
-                " NY 10019",
-                " United States"
-            ],
-            "Opened ": [
-                "1914"
-            ],
-            "Hours ": [
-                "(212) 757-7013"
-            ],
-            "Phone ": [
-                "Gothic Revival architecture"
-            ],
-            "Architectural style ": [
-                "Ralph Adams Cram"
-            ],
-            "People also search for": []
-        },
-        "Betel Church (Turku)": {
-            "label": "Betel Church",
-            "description": "Betel Church is located in the VII District of Turku, Finland. It is a church of the Turku adventism parish.\nThe jugend style church was completed in 1906 under the plans of Frithiof Strandell. Wikipedia",
-            "type": "Turku",
-            "People also search for": []
-        },
-        "Cathedral of the Sacred Heart (Pensacola, Florida)": {
-            "label": "Cathedral of the Sacred Heart",
-            "description": "The Cathedral of the Sacred Heart, is the seat of the Bishop of the Roman Catholic Diocese of Pensacola-Tallahassee. It shares this distinction with the Co-Cathedral of Saint Thomas More in Tallahassee. Wikipedia",
-            "type": "Pensacola, Florida",
-            "Address ": [
-                "1212 E Moreno St",
-                " Pensacola",
-                " FL 32503",
-                " United States"
-            ]
-        },
-        "Liverpool Metropolitan Cathedral": {
-            "label": "Liverpool Metropolitan Cathedral",
-            "description": "Metropolitan Cathedral of Christ the King is the cathedral of the Roman Catholic Archdiocese of Liverpool in Liverpool, England. The cathedral is the seat of the Archbishop of Liverpool. Wikipedia",
-            "type": "Cathedral in Liverpool, England",
-            "Address ": [
-                "Cathedral House",
-                " Mt Pleasant",
-                " Liverpool L3 5TQ",
-                " United Kingdom"
-            ],
-            "Opened ": "May 14, 1967",
-            "Height ": [
-                "278' (85 m)"
-            ],
-            "Architectural style ": [
-                "Gothic Revival architecture"
-            ],
-            "Phone ": [
-                "+44 151 709 9222"
-            ],
-            "Architects ": [
-                "Edwin Lutyens",
-                " Frederick Gibberd"
-            ],
-            "People also search for": []
-        },
-        "St John-at-Hampstead": {
-            "label": "St John-at-Hampstead",
-            "description": "St John-at-Hampstead is a Church of England parish church dedicated to St John the Evangelist in Church Row, Hampstead, London. Wikipedia",
-            "type": "",
-            "Address ": [
-                "Church Row",
-                " London NW3 6UU",
-                " United Kingdom"
-            ],
-            "Phone ": [
-                "+44 20 7794 5808"
-            ],
-            "Burials ": [
-                "Kay Kendall"
             ],
             "People also search for": []
         },
@@ -761,11 +667,99 @@
             ],
             "People also search for": []
         },
-        "Bellevue Baptist Church": {
-            "label": "Bellevue Baptist Church",
-            "description": "Bellevue Baptist Church is a large Southern Baptist megachurch in the Cordova area of Memphis, Tennessee, United States. Bellevue is the largest church in Memphis and is one of the leading churches in the Southern Baptist Convention. Wikipedia",
+        "Liverpool Metropolitan Cathedral": {
+            "label": "Liverpool Metropolitan Cathedral",
+            "description": "Metropolitan Cathedral of Christ the King is the cathedral of the Roman Catholic Archdiocese of Liverpool in Liverpool, England. The cathedral is the seat of the Archbishop of Liverpool. Wikipedia",
+            "type": "Cathedral in Liverpool, England",
+            "Address ": [
+                "Cathedral House",
+                " Mt Pleasant",
+                " Liverpool L3 5TQ",
+                " United Kingdom"
+            ],
+            "Opened ": "May 14, 1967",
+            "Height ": [
+                "278' (85 m)"
+            ],
+            "Architectural style ": [
+                "Gothic Revival architecture"
+            ],
+            "Phone ": [
+                "+44 151 709 9222"
+            ],
+            "Architects ": [
+                "Edwin Lutyens",
+                " Frederick Gibberd"
+            ],
+            "People also search for": []
+        },
+        "Saint Thomas Church (New York City)": {
+            "label": "St. Thomas Episcopal Church",
+            "description": "Saint Thomas Church, located at the corner of 53rd Street and Fifth Avenue in the borough of Manhattan, New York, New York in the United States, is an Episcopal parish church of the Episcopal Diocese of New York. Wikipedia",
+            "type": "Manhattan",
+            "Address ": [
+                "1 W 53rd St",
+                " New York",
+                " NY 10019",
+                " United States"
+            ],
+            "Opened ": [
+                "1914"
+            ],
+            "Hours ": [
+                "(212) 757-7013"
+            ],
+            "Phone ": [
+                "Gothic Revival architecture"
+            ],
+            "Architectural style ": [
+                "Ralph Adams Cram"
+            ],
+            "People also search for": []
+        },
+        "Mount Osore": {
+            "label": "Mount Osore",
+            "description": "Mount Osore is a caldera volcano in the center of remote Shimokita Peninsula of Aomori Prefecture, Japan. According to the Smithsonian National Museum of National History, it peaks at 879 meters and its last eruption was noted in 1787. Wikipedia",
             "type": "",
-            "Recent posts": []
+            "Elevation ": [
+                "2",
+                "884' (879 m)"
+            ],
+            "People also search for": []
+        },
+        "Betel Church (Turku)": {
+            "label": "Betel Church",
+            "description": "Betel Church is located in the VII District of Turku, Finland. It is a church of the Turku adventism parish.\nThe jugend style church was completed in 1906 under the plans of Frithiof Strandell. Wikipedia",
+            "type": "Turku",
+            "People also search for": []
+        },
+        "Cathedral of the Sacred Heart (Pensacola, Florida)": {
+            "label": "Cathedral of the Sacred Heart",
+            "description": "The Cathedral of the Sacred Heart, is the seat of the Bishop of the Roman Catholic Diocese of Pensacola-Tallahassee. It shares this distinction with the Co-Cathedral of Saint Thomas More in Tallahassee. Wikipedia",
+            "type": "Pensacola, Florida",
+            "Address ": [
+                "1212 E Moreno St",
+                " Pensacola",
+                " FL 32503",
+                " United States"
+            ]
+        },
+        "St John-at-Hampstead": {
+            "label": "St John-at-Hampstead",
+            "description": "St John-at-Hampstead is a Church of England parish church dedicated to St John the Evangelist in Church Row, Hampstead, London. Wikipedia",
+            "type": "",
+            "Address ": [
+                "Church Row",
+                " London NW3 6UU",
+                " United Kingdom"
+            ],
+            "Phone ": [
+                "+44 20 7794 5808"
+            ],
+            "Burials ": [
+                "Kay Kendall"
+            ],
+            "People also search for": []
         },
         "National Presbyterian Church": {
             "label": "National Presbyterian Church",
@@ -784,6 +778,12 @@
                 "501(c)(3)"
             ],
             "People also search for": []
+        },
+        "Bellevue Baptist Church": {
+            "label": "Bellevue Baptist Church",
+            "description": "Bellevue Baptist Church is a large Southern Baptist megachurch in the Cordova area of Memphis, Tennessee, United States. Bellevue is the largest church in Memphis and is one of the leading churches in the Southern Baptist Convention. Wikipedia",
+            "type": "",
+            "Recent posts": []
         },
         "Our Savior Lutheran Church (Louisville, Kentucky)": {
             "label": "Our Savior Lutheran Church",
@@ -836,6 +836,19 @@
             ],
             "People also search for": []
         },
+        "Basilica of St. Hyacinth": {
+            "label": "Basilica of St. Hyacinth",
+            "description": "St. Hyacinth Basilica, formally the Basilica of St. Hyacinth, - historic church of the Roman Catholic Archdiocese of Chicago, located at 3636 West Wolfram Street in Chicago, Illinois. Wikipedia",
+            "type": "",
+            "Address ": [
+                "3636 W Wolfram St",
+                " Chicago",
+                " IL 60618",
+                " United States"
+            ],
+            "Opened ": "August 7, 1921",
+            "People also search for": []
+        },
         "Bodø Cathedral": {
             "label": "Bodø Cathedral",
             "description": "Bodø Cathedral is a cathedral in the municipality of Bodø in Nordland county, Norway. It is located in the town of Bodø. The church is part of the Bodø parish in the Bodø deanery in the Diocese of Sør-Hålogaland. Wikipedia",
@@ -851,30 +864,6 @@
                 "Gudolf Blakstad",
                 " Herman Munthe-Kaas"
             ],
-            "People also search for": []
-        },
-        "Capitol City Baptist Church (West Avenue, Quezon City)": {
-            "label": "Capitol City Baptist Church",
-            "description": "Capitol City Baptist Church is a baptist church located at 111 West Avenue, Quezon City, Philippines. It is one of two baptist churches found along West Avenue, the other being Faith Baptist Church. Wikipedia",
-            "type": "West Avenue, Quezon City",
-            "Address ": [
-                "West Ave",
-                " Lungsod Quezon",
-                " Philippines"
-            ],
-            "People also search for": []
-        },
-        "Basilica of St. Hyacinth": {
-            "label": "Basilica of St. Hyacinth",
-            "description": "St. Hyacinth Basilica, formally the Basilica of St. Hyacinth, - historic church of the Roman Catholic Archdiocese of Chicago, located at 3636 West Wolfram Street in Chicago, Illinois. Wikipedia",
-            "type": "",
-            "Address ": [
-                "3636 W Wolfram St",
-                " Chicago",
-                " IL 60618",
-                " United States"
-            ],
-            "Opened ": "August 7, 1921",
             "People also search for": []
         },
         "Basilica of the Sacred Heart of Jesus, Pondicherry": {
@@ -895,6 +884,17 @@
                 "Gothic architecture"
             ]
         },
+        "Capitol City Baptist Church (West Avenue, Quezon City)": {
+            "label": "Capitol City Baptist Church",
+            "description": "Capitol City Baptist Church is a baptist church located at 111 West Avenue, Quezon City, Philippines. It is one of two baptist churches found along West Avenue, the other being Faith Baptist Church. Wikipedia",
+            "type": "West Avenue, Quezon City",
+            "Address ": [
+                "West Ave",
+                " Lungsod Quezon",
+                " Philippines"
+            ],
+            "People also search for": []
+        },
         "Carey Baptist Church": {
             "label": "Carey Baptist Church",
             "description": "Carey Baptist Church is an independent evangelical/Baptist church in Reading, England. Wikipedia",
@@ -906,6 +906,24 @@
             ],
             "Phone ": [
                 "+44 118 959 0058"
+            ],
+            "People also search for": []
+        },
+        "Cathedral Church of St. James (Toronto)": {
+            "label": "Cathedral Church of St. James",
+            "description": "Cathedral Church of St. James in Toronto, Canada is the home of the oldest congregation in the city. The parish was established in 1797. Wikipedia",
+            "type": "Building in Toronto, Canada",
+            "Address ": [
+                "65 Church St",
+                " Toronto",
+                " ON M5C 2E9",
+                " Canada"
+            ],
+            "Opened ": [
+                "1853"
+            ],
+            "Hours ": [
+                "+1 416-364-7865"
             ],
             "People also search for": []
         },
@@ -931,24 +949,6 @@
             ],
             "People also search for": []
         },
-        "Cathedral Church of St. James (Toronto)": {
-            "label": "Cathedral Church of St. James",
-            "description": "Cathedral Church of St. James in Toronto, Canada is the home of the oldest congregation in the city. The parish was established in 1797. Wikipedia",
-            "type": "Building in Toronto, Canada",
-            "Address ": [
-                "65 Church St",
-                " Toronto",
-                " ON M5C 2E9",
-                " Canada"
-            ],
-            "Opened ": [
-                "1853"
-            ],
-            "Hours ": [
-                "+1 416-364-7865"
-            ],
-            "People also search for": []
-        },
         "Cathedral of St Mary and St Anne": {
             "label": "Cathedral of St Mary and St Anne",
             "description": "The Cathedral of Saint Mary and Saint Anne is a Roman Catholic cathedral located in Cork, Ireland. It is the seat of the Bishop of Cork and Ross, and the mother church of the Roman Catholic Diocese of Cork and Ross. Wikipedia",
@@ -958,23 +958,6 @@
                 " Co. Cork",
                 " Ireland"
             ]
-        },
-        "Christ Church, St Leonards-on-Sea": {
-            "label": "Christ Church, St Leonards-on-Sea",
-            "description": "Christ Church is an Anglican church in the town and seaside resort of St Leonards-on-Sea, part of the Borough of Hastings in East Sussex, England. Wikipedia",
-            "type": "",
-            "Address ": [
-                "Silchester Rd",
-                " St. Leonards-on-Sea TN38 0JB",
-                " United Kingdom"
-            ],
-            "Architectural style ": [
-                "Gothic Revival architecture"
-            ],
-            "Architect ": [
-                "Arthur Blomfield"
-            ],
-            "People also search for": []
         },
         "Christ Church, Bath": {
             "label": "Christ Church, Bath",
@@ -1012,6 +995,23 @@
             ],
             "People also search for": []
         },
+        "Christ Church, St Leonards-on-Sea": {
+            "label": "Christ Church, St Leonards-on-Sea",
+            "description": "Christ Church is an Anglican church in the town and seaside resort of St Leonards-on-Sea, part of the Borough of Hastings in East Sussex, England. Wikipedia",
+            "type": "",
+            "Address ": [
+                "Silchester Rd",
+                " St. Leonards-on-Sea TN38 0JB",
+                " United Kingdom"
+            ],
+            "Architectural style ": [
+                "Gothic Revival architecture"
+            ],
+            "Architect ": [
+                "Arthur Blomfield"
+            ],
+            "People also search for": []
+        },
         "Christ Church Cathedral, Oxford": {
             "label": "Christ Church Cathedral",
             "description": "",
@@ -1035,6 +1035,24 @@
             ],
             "Phone ": [
                 "Georgian"
+            ],
+            "People also search for": []
+        },
+        "Christ Church Cathedral (Vancouver)": {
+            "label": "Christ Church Cathedral",
+            "description": "Christ Church Cathedral, in Vancouver, British Columbia, is the cathedral church of the Anglican Diocese of New Westminster of the Anglican Church of Canada. Wikipedia",
+            "type": "Cathedral in Vancouver, Canada",
+            "Address ": [
+                "690 Burrard St",
+                " Vancouver",
+                " BC V6C 3L1",
+                " Canada"
+            ],
+            "Opened ": [
+                "1895"
+            ],
+            "Hours ": [
+                "+1 604-682-3848"
             ],
             "People also search for": []
         },
@@ -1070,24 +1088,6 @@
             ],
             "Architect ": [
                 "George Frederick Bodley"
-            ],
-            "People also search for": []
-        },
-        "Christ Church Cathedral (Vancouver)": {
-            "label": "Christ Church Cathedral",
-            "description": "Christ Church Cathedral, in Vancouver, British Columbia, is the cathedral church of the Anglican Diocese of New Westminster of the Anglican Church of Canada. Wikipedia",
-            "type": "Cathedral in Vancouver, Canada",
-            "Address ": [
-                "690 Burrard St",
-                " Vancouver",
-                " BC V6C 3L1",
-                " Canada"
-            ],
-            "Opened ": [
-                "1895"
-            ],
-            "Hours ": [
-                "+1 604-682-3848"
             ],
             "People also search for": []
         },
@@ -1138,16 +1138,6 @@
             ],
             "People also search for": []
         },
-        "Church of the Sacred Heart, Singapore": {
-            "label": "Church of the Sacred Heart, Singapore",
-            "description": "The Church of the Sacred Heart is a Roman Catholic church in the Museum Planning Area of Singapore. Wikipedia",
-            "type": "",
-            "Address ": [
-                "111 Tank Rd",
-                " Singapore 238069"
-            ],
-            "People also search for": []
-        },
         "Church of the Holy Trinity (Toronto)": {
             "label": "Church of the Holy Trinity",
             "description": "The Church of the Holy Trinity is an Anglican church in downtown Toronto, Canada at Trinity Square. Wikipedia",
@@ -1169,21 +1159,6 @@
             ],
             "People also search for": []
         },
-        "Dream Center": {
-            "label": "Dream Center",
-            "description": "The Dream Center is a Pentecostal Christian Church mission located at 2301 Bellevue Avenue in the Echo Park neighborhood of Los Angeles, California, two blocks west of Alvarado Street on the north side of the 101 Freeway. Wikipedia",
-            "type": "",
-            "Address ": [
-                "2301 Bellevue Ave",
-                " Los Angeles",
-                " CA 90026",
-                " United States"
-            ],
-            "Phone ": [
-                "(213) 273-7000"
-            ],
-            "People also search for": []
-        },
         "City of Ten Thousand Buddhas": {
             "label": "City of Ten Thousand Buddhas",
             "description": "The City Of Ten Thousand Buddhas is an international Buddhist community and monastery founded by Hsuan Hua, an important figure in Western Buddhism. Wikipedia",
@@ -1199,6 +1174,16 @@
             ],
             "People also search for": []
         },
+        "Church of the Sacred Heart, Singapore": {
+            "label": "Church of the Sacred Heart, Singapore",
+            "description": "The Church of the Sacred Heart is a Roman Catholic church in the Museum Planning Area of Singapore. Wikipedia",
+            "type": "",
+            "Address ": [
+                "111 Tank Rd",
+                " Singapore 238069"
+            ],
+            "People also search for": []
+        },
         "Collegium Maius": {
             "label": "Collegium Maius",
             "description": "The Collegium Maius, in Kraków Old Town, Poland, is the Jagiellonian University's oldest building, dating back to the 14th century. It stands at the corner of ulica Jagiellońska and ulica Świętej Anny near the main city centre. Wikipedia",
@@ -1210,6 +1195,21 @@
             ],
             "Hours ": [
                 "+48 12 663 13 07"
+            ],
+            "People also search for": []
+        },
+        "Dream Center": {
+            "label": "Dream Center",
+            "description": "The Dream Center is a Pentecostal Christian Church mission located at 2301 Bellevue Avenue in the Echo Park neighborhood of Los Angeles, California, two blocks west of Alvarado Street on the north side of the 101 Freeway. Wikipedia",
+            "type": "",
+            "Address ": [
+                "2301 Bellevue Ave",
+                " Los Angeles",
+                " CA 90026",
+                " United States"
+            ],
+            "Phone ": [
+                "(213) 273-7000"
             ],
             "People also search for": []
         },
@@ -1251,24 +1251,6 @@
             ],
             "People also search for": []
         },
-        "Drumcree Church": {
-            "label": "Drumcree Church",
-            "description": "Drumcree Parish Church, officially The Church of the Ascension, is the parish church of Drumcree Church of Ireland parish. The church is within the townland of Drumcree, roughly 1.5 miles to the northeast of Portadown, County Armagh. Wikipedia",
-            "type": ""
-        },
-        "Engaku-ji": {
-            "label": "Engaku-ji",
-            "description": "Not to be confused with Enryaku-ji in Kyoto.\nZuirokuzan Engaku Kōshō Zenji, or Engaku-ji, is one of the most important Zen Buddhist temple complexes in Japan and is ranked second among Kamakura's Five Mountains. Wikipedia",
-            "type": "Temple in Japan",
-            "Address ": [
-                "Japan",
-                " 〒247-0247 神奈川県鎌倉市山ノ内409"
-            ],
-            "Hours ": [
-                "+81 467-22-0478"
-            ],
-            "People also search for": []
-        },
         "Gokoku-ji": {
             "label": "Gokoku-ji",
             "description": "Gokoku-ji is a Shingon Buddhist temple in Tokyo's Bunkyō. Wikipedia",
@@ -1283,6 +1265,24 @@
                 "+81 3-3941-0764"
             ],
             "People also search for": []
+        },
+        "Engaku-ji": {
+            "label": "Engaku-ji",
+            "description": "Not to be confused with Enryaku-ji in Kyoto.\nZuirokuzan Engaku Kōshō Zenji, or Engaku-ji, is one of the most important Zen Buddhist temple complexes in Japan and is ranked second among Kamakura's Five Mountains. Wikipedia",
+            "type": "Temple in Japan",
+            "Address ": [
+                "Japan",
+                " 〒247-0247 神奈川県鎌倉市山ノ内409"
+            ],
+            "Hours ": [
+                "+81 467-22-0478"
+            ],
+            "People also search for": []
+        },
+        "Drumcree Church": {
+            "label": "Drumcree Church",
+            "description": "Drumcree Parish Church, officially The Church of the Ascension, is the parish church of Drumcree Church of Ireland parish. The church is within the townland of Drumcree, roughly 1.5 miles to the northeast of Portadown, County Armagh. Wikipedia",
+            "type": ""
         },
         "Gothic Protestant Church of Avas": {
             "label": "Gothic Protestant Church of Avas",
@@ -1304,6 +1304,21 @@
             ],
             "Phone ": [
                 "+44 20 7499 1684"
+            ],
+            "People also search for": []
+        },
+        "Great Malvern Priory": {
+            "label": "Great Malvern Priory",
+            "description": "Great Malvern Priory in Malvern, Worcestershire, England, was a Benedictine monastery c.1075-1540 and is now an Anglican parish church. In 1949 it was designated a Grade I listed building. Wikipedia",
+            "type": "Monastery",
+            "Address ": [
+                "Church St",
+                " Malvern",
+                " Worcestershire WR14 2AY",
+                " United Kingdom"
+            ],
+            "Hours ": [
+                "+44 1684 561020"
             ],
             "People also search for": []
         },
@@ -1339,21 +1354,6 @@
             ],
             "People also search for": []
         },
-        "Great Malvern Priory": {
-            "label": "Great Malvern Priory",
-            "description": "Great Malvern Priory in Malvern, Worcestershire, England, was a Benedictine monastery c.1075-1540 and is now an Anglican parish church. In 1949 it was designated a Grade I listed building. Wikipedia",
-            "type": "Monastery",
-            "Address ": [
-                "Church St",
-                " Malvern",
-                " Worcestershire WR14 2AY",
-                " United Kingdom"
-            ],
-            "Hours ": [
-                "+44 1684 561020"
-            ],
-            "People also search for": []
-        },
         "Jufuku-ji": {
             "label": "Jufuku-ji",
             "description": "Kikokuzan Kongō Jufuku Zenji, usually known as Jufuku-ji, is a temple of the Kenchō-ji branch of the Rinzai sect and the oldest Zen temple in Kamakura, Kanagawa Prefecture, Japan. Wikipedia",
@@ -1366,6 +1366,35 @@
                 "+81 467-22-6607"
             ],
             "People also search for": []
+        },
+        "John's Lane Church": {
+            "label": "John's Lane Church",
+            "description": "John's Lane Church opened in 1874 on the site of St. John's Hospital. It is located on Thomas Street, Dublin, close to the centre of the medieval city, and is served by the Augustinian Order. Wikipedia",
+            "type": "",
+            "Address ": [
+                "Thomas St",
+                " Dublin 8",
+                " Ireland"
+            ],
+            "Architectural style ": [
+                "Gothic Revival architecture"
+            ],
+            "Architects ": [
+                "E. W. Pugin",
+                " George Ashlin"
+            ],
+            "People also search for": []
+        },
+        "Kokutai-ji": {
+            "label": "Kokutai-ji",
+            "description": "Kokutai-ji, originally Tosho-ji, is one of fourteen autonomous branches of the Rinzai school of Japanese Zen, founded in 1300 by the monk Jiun Myoi in Toyama, Japan. Wikipedia",
+            "type": "",
+            "Address ": [
+                "184 Ota",
+                " Takaoka",
+                " Toyama 933-0137",
+                " Japan"
+            ]
         },
         "Kazan Cathedral, Moscow": {
             "label": "Kazan Cathedral, Moscow",
@@ -1385,17 +1414,6 @@
             ],
             "People also search for": []
         },
-        "Kokutai-ji": {
-            "label": "Kokutai-ji",
-            "description": "Kokutai-ji, originally Tosho-ji, is one of fourteen autonomous branches of the Rinzai school of Japanese Zen, founded in 1300 by the monk Jiun Myoi in Toyama, Japan. Wikipedia",
-            "type": "",
-            "Address ": [
-                "184 Ota",
-                " Takaoka",
-                " Toyama 933-0137",
-                " Japan"
-            ]
-        },
         "Kimpusen-ji": {
             "label": "Kimpusen-ji",
             "description": "Kimpusen-ji is the head temple of a branch of the Shugendō religion called Kimpusen-Shugendō in Yoshino district, Nara prefecture, Japan. Wikipedia",
@@ -1412,21 +1430,16 @@
             ],
             "People also search for": []
         },
-        "John's Lane Church": {
-            "label": "John's Lane Church",
-            "description": "John's Lane Church opened in 1874 on the site of St. John's Hospital. It is located on Thomas Street, Dublin, close to the centre of the medieval city, and is served by the Augustinian Order. Wikipedia",
+        "Kotor Cathedral": {
+            "label": "Kotor Cathedral",
+            "description": "The Cathedral of Saint Tryphon in Kotor is one of two Roman Catholic cathedrals in Montenegro. It is the seat of the Croatian Catholic Bishopric of Kotor which covers the entire gulf, currently led by Bishop Mons. Ilija Janjić. Wikipedia",
             "type": "",
             "Address ": [
-                "Thomas St",
-                " Dublin 8",
-                " Ireland"
+                "Kotor",
+                " Montenegro"
             ],
             "Architectural style ": [
-                "Gothic Revival architecture"
-            ],
-            "Architects ": [
-                "E. W. Pugin",
-                " George Ashlin"
+                "Romanesque architecture"
             ],
             "People also search for": []
         },
@@ -1461,19 +1474,6 @@
             ],
             "Architect ": [
                 "John Wastell"
-            ],
-            "People also search for": []
-        },
-        "Kotor Cathedral": {
-            "label": "Kotor Cathedral",
-            "description": "The Cathedral of Saint Tryphon in Kotor is one of two Roman Catholic cathedrals in Montenegro. It is the seat of the Croatian Catholic Bishopric of Kotor which covers the entire gulf, currently led by Bishop Mons. Ilija Janjić. Wikipedia",
-            "type": "",
-            "Address ": [
-                "Kotor",
-                " Montenegro"
-            ],
-            "Architectural style ": [
-                "Romanesque architecture"
             ],
             "People also search for": []
         },
@@ -1536,17 +1536,6 @@
             ],
             "People also search for": []
         },
-        "Nativity Cathedral, Chișinău": {
-            "label": "Nativity Cathedral, Chișinău",
-            "description": "The Cathedral of Christ's Nativity is the main cathedral of the Moldovan Orthodox Church in Central Chișinău, Moldova. Wikipedia",
-            "type": "",
-            "Address ": [
-                "Buiucani",
-                " Chișinău",
-                " Moldova"
-            ],
-            "People also search for": []
-        },
         "Negoro-ji": {
             "label": "Negoro-ji",
             "description": "The Negoro-ji complex of Buddhist temples stands on the side of, and is surrounded by, the sacred peaks of the Katsuragi Mountains which dominate the horizon at the northern end of the city of Iwade, Wakayama in Japan. Wikipedia",
@@ -1562,6 +1551,17 @@
             ],
             "People also search for": []
         },
+        "Nativity Cathedral, Chișinău": {
+            "label": "Nativity Cathedral, Chișinău",
+            "description": "The Cathedral of Christ's Nativity is the main cathedral of the Moldovan Orthodox Church in Central Chișinău, Moldova. Wikipedia",
+            "type": "",
+            "Address ": [
+                "Buiucani",
+                " Chișinău",
+                " Moldova"
+            ],
+            "People also search for": []
+        },
         "Noto Cathedral": {
             "label": "Noto Cathedral",
             "description": "Noto Cathedral is a Roman Catholic cathedral in Noto in Sicily, Italy. Its construction, in the style of the Sicilian Baroque, began in the early 18th century and was completed in 1776. Wikipedia",
@@ -1571,6 +1571,43 @@
                 " 96017 Noto",
                 " Italy"
             ]
+        },
+        "Rijeka Cathedral": {
+            "label": "Rijeka Cathedral",
+            "description": "The St. Vitus Cathedral is a Roman Catholic cathedral in Rijeka, Croatia.\nThe Church of St. Vitus was in Middle Ages a small and one-sided, romanesque church dedicated to the patron saint and protector of Rijeka. Wikipedia",
+            "type": "",
+            "Address ": [
+                "Grivica ulica",
+                " Rijeka",
+                " Croatia"
+            ],
+            "People also search for": []
+        },
+        "Rochester Cathedral": {
+            "label": "Rochester Cathedral",
+            "description": "Rochester Cathedral, or the Cathedral Church of Christ and the Blessed Virgin Mary, is a Norman church in Rochester, Medway. The bishopric is the second oldest in England after Canterbury. It is a Grade I listed building. Wikipedia",
+            "type": "Building in United Kingdom",
+            "Address ": [
+                "Garth House",
+                " The Precinct",
+                " Rochester",
+                " Kent ME1 1SX",
+                " United Kingdom"
+            ],
+            "Opened ": [
+                "1079"
+            ],
+            "Hours ": [
+                "+44 1634 843366"
+            ],
+            "Phone ": [
+                "English Gothic architecture",
+                " Norman architecture"
+            ],
+            "Architectural styles ": [
+                "Gundulf of Rochester"
+            ],
+            "People also search for": []
         },
         "Sagami-ji": {
             "label": "Sagami-ji",
@@ -1607,32 +1644,6 @@
             ],
             "People also search for": []
         },
-        "Rochester Cathedral": {
-            "label": "Rochester Cathedral",
-            "description": "Rochester Cathedral, or the Cathedral Church of Christ and the Blessed Virgin Mary, is a Norman church in Rochester, Medway. The bishopric is the second oldest in England after Canterbury. It is a Grade I listed building. Wikipedia",
-            "type": "Building in United Kingdom",
-            "Address ": [
-                "Garth House",
-                " The Precinct",
-                " Rochester",
-                " Kent ME1 1SX",
-                " United Kingdom"
-            ],
-            "Opened ": [
-                "1079"
-            ],
-            "Hours ": [
-                "+44 1634 843366"
-            ],
-            "Phone ": [
-                "English Gothic architecture",
-                " Norman architecture"
-            ],
-            "Architectural styles ": [
-                "Gundulf of Rochester"
-            ],
-            "People also search for": []
-        },
         "Seichō-ji": {
             "label": "Seichō-ji",
             "description": "Seichō-ji, alternately called Kiyosumi-dera from an alternative pronunciation of the kanji in its name, is a Nichiren Shū temple located in the city of Kamogawa in Chiba Prefecture, Japan. Wikipedia",
@@ -1654,46 +1665,34 @@
                 "+81 735-55-0401"
             ],
             "People also search for": []
-        },
-        "Rijeka Cathedral": {
-            "label": "Rijeka Cathedral",
-            "description": "The St. Vitus Cathedral is a Roman Catholic cathedral in Rijeka, Croatia.\nThe Church of St. Vitus was in Middle Ages a small and one-sided, romanesque church dedicated to the patron saint and protector of Rijeka. Wikipedia",
-            "type": "",
-            "Address ": [
-                "Grivica ulica",
-                " Rijeka",
-                " Croatia"
-            ],
-            "People also search for": []
         }
     },
     "summary": {
         "label": 99,
         "description": 99,
         "type": 99,
-        "Address ": 84,
-        "Height ": 8,
-        "Phone ": 49,
-        "Architectural styles ": 7,
-        "Burials ": 5,
-        "Architects ": 5,
-        "People also search for": 85,
-        "Architectural style ": 27,
-        "Opened ": 34,
-        "Hours ": 27,
-        "Construction started ": 1,
-        "Function ": 3,
-        "Architect ": 12,
-        "Province ": 1,
-        "Area ": 1,
-        "Elevation ": 1,
-        "Recent posts": 2,
-        "Tax ID ": 2,
-        "People also search for ": 2,
-        "Founded ": 1,
-        "Nonprofit category ": 1,
-        "Tax deductibility code ": 1,
-        "Founders ": 1
+        "address": 1,
+        "opened": 1,
+        "phone": 1,
+        "architectural_style": 1,
+        "people_also_search_for": 1,
+        "height": 1,
+        "architectural_styles": 1,
+        "burials": 1,
+        "architects": 1,
+        "hours": 1,
+        "construction_started": 1,
+        "function": 1,
+        "architect": 1,
+        "province": 1,
+        "area": 1,
+        "elevation": 1,
+        "tax_id": 1,
+        "recent_posts": 1,
+        "founded": 1,
+        "nonprofit_category": 1,
+        "tax_deductibility_code": 1,
+        "founders": 1
     },
     "infoboxless": [
         "Cambridge Buddhist Association"

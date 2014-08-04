@@ -1,19 +1,5 @@
 {
     "instances": {
-        "Bowenia spectabilis": {
-            "label": "Bowenia spectabilis",
-            "description": "Bowenia spectabilis is a species of plant in the Stangeriaceae family. It is endemic to Australia. Its natural habitat is subtropical or tropical moist lowland forests. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Bowenia spectabilis"
-            ],
-            "Rank ": [
-                "Species"
-            ],
-            "Higher classification ": [
-                "Bowenia"
-            ]
-        },
         "Bowenia serrulata": {
             "label": "Bowenia serrulata",
             "description": "The Byfield Fern is a species of plant in the Stangeriaceae family. It is consequently not a fern as its vernacular name or appearance may suggest. It is endemic to the vicinity of Byfield, Australia. Wikipedia",
@@ -63,31 +49,18 @@
             ],
             "See results about": []
         },
-        "Microcycas": {
-            "label": "Microcycas",
-            "description": "Microcycas is a genus of cycads in the family Zamiaceae containing only one species, Microcycas calocoma, endemic to a small area in western Cuba in Pinar del Río Province. Wikipedia",
+        "Bowenia spectabilis": {
+            "label": "Bowenia spectabilis",
+            "description": "Bowenia spectabilis is a species of plant in the Stangeriaceae family. It is endemic to Australia. Its natural habitat is subtropical or tropical moist lowland forests. Wikipedia",
             "type": "",
             "Scientific name ": [
-                "Microcycas calocoma"
+                "Bowenia spectabilis"
             ],
             "Rank ": [
-                "Genus"
-            ]
-        },
-        "Stangeria": {
-            "label": "Stangeria",
-            "description": "Stangeria eriopus is a cycad endemic to southern Africa It is the sole species in the genus Stangeria, most closely related to the Australian genus Bowenia, with which it forms the family Stangeriaceae. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Stangeria eriopus"
-            ]
-        },
-        "Zamia integrifolia": {
-            "label": "Zamia integrifolia",
-            "description": "Zamia integrifolia is a small, tough, woody cycad native to the southeast United States, the Bahamas and the Caribbean south to Grand Cayman and Puerto Rico.\nThis cycad produces reddish seed cones with a distinct acuminate tip. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Zamia integrifolia"
+                "Species"
+            ],
+            "Higher classification ": [
+                "Bowenia"
             ]
         },
         "Cycas beddomei": {
@@ -104,52 +77,6 @@
                 "Cycas"
             ]
         },
-        "Zamia angustifolia": {
-            "label": "Zamia angustifolia",
-            "description": "Zamia angustifolia is a species of plant in the Zamiaceae family. It is found in the Bahamas and Cuba. It is threatened by habitat loss. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Zamia angustifolia"
-            ],
-            "Rank ": [
-                "Species"
-            ]
-        },
-        "Zamiaceae": {
-            "label": "Zamiaceae",
-            "description": "The Zamiaceae are a family of cycads that are superficially palm or fern-like. They are divided into two subfamilies with eight genera and about 150 species in the tropical and warm temperate regions of Africa, Australia and North and South America. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Zamiaceae"
-            ],
-            "Rank ": [
-                "Family"
-            ],
-            "Higher classification ": [
-                "Cycad"
-            ],
-            "Lower classifications ": [
-                "Ceratozamia",
-                " Zamia",
-                " Lepidozamia",
-                " Encephalartos",
-                " Macrozamia"
-            ]
-        },
-        "Cycas revoluta": {
-            "label": "Cycas revoluta",
-            "description": "Cycas revoluta, is a species of gymnosperm in the family Cycadaceae, native to southern Japan. It is one of several species used for the production of sago, as well as an ornamental plant. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Cycas revoluta"
-            ],
-            "Higher classification ": [
-                "Cycas"
-            ],
-            "Rank ": [
-                "Species"
-            ]
-        },
         "Cycas circinalis": {
             "label": "Cycas circinalis",
             "description": "Cycas circinalis, also known as the queen sago, is a type of cycad. Wikipedia",
@@ -162,14 +89,6 @@
             ],
             "Rank ": [
                 "Species"
-            ]
-        },
-        "Cycas pruinosa": {
-            "label": "Cycas pruinosa",
-            "description": "Cycas pruinosa is a small to medium species of cycad, a seed plant. It is a widespread but sporadic species in the eastern and southern Kimberley region of Western Australia, occurring also in the Spirit ... Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Cycas pruinosa"
             ]
         },
         "Macrozamia": {
@@ -225,6 +144,87 @@
             ],
             "See results about": []
         },
+        "Microcycas": {
+            "label": "Microcycas",
+            "description": "Microcycas is a genus of cycads in the family Zamiaceae containing only one species, Microcycas calocoma, endemic to a small area in western Cuba in Pinar del Río Province. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Microcycas calocoma"
+            ],
+            "Rank ": [
+                "Genus"
+            ]
+        },
+        "Zamia angustifolia": {
+            "label": "Zamia angustifolia",
+            "description": "Zamia angustifolia is a species of plant in the Zamiaceae family. It is found in the Bahamas and Cuba. It is threatened by habitat loss. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Zamia angustifolia"
+            ],
+            "Rank ": [
+                "Species"
+            ]
+        },
+        "Stangeria": {
+            "label": "Stangeria",
+            "description": "Stangeria eriopus is a cycad endemic to southern Africa It is the sole species in the genus Stangeria, most closely related to the Australian genus Bowenia, with which it forms the family Stangeriaceae. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Stangeria eriopus"
+            ]
+        },
+        "Zamia integrifolia": {
+            "label": "Zamia integrifolia",
+            "description": "Zamia integrifolia is a small, tough, woody cycad native to the southeast United States, the Bahamas and the Caribbean south to Grand Cayman and Puerto Rico.\nThis cycad produces reddish seed cones with a distinct acuminate tip. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Zamia integrifolia"
+            ]
+        },
+        "Zamiaceae": {
+            "label": "Zamiaceae",
+            "description": "The Zamiaceae are a family of cycads that are superficially palm or fern-like. They are divided into two subfamilies with eight genera and about 150 species in the tropical and warm temperate regions of Africa, Australia and North and South America. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Zamiaceae"
+            ],
+            "Rank ": [
+                "Family"
+            ],
+            "Higher classification ": [
+                "Cycad"
+            ],
+            "Lower classifications ": [
+                "Ceratozamia",
+                " Zamia",
+                " Lepidozamia",
+                " Encephalartos",
+                " Macrozamia"
+            ]
+        },
+        "Cycas revoluta": {
+            "label": "Cycas revoluta",
+            "description": "Cycas revoluta, is a species of gymnosperm in the family Cycadaceae, native to southern Japan. It is one of several species used for the production of sago, as well as an ornamental plant. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Cycas revoluta"
+            ],
+            "Higher classification ": [
+                "Cycas"
+            ],
+            "Rank ": [
+                "Species"
+            ]
+        },
+        "Cycas pruinosa": {
+            "label": "Cycas pruinosa",
+            "description": "Cycas pruinosa is a small to medium species of cycad, a seed plant. It is a widespread but sporadic species in the eastern and southern Kimberley region of Western Australia, occurring also in the Spirit ... Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Cycas pruinosa"
+            ]
+        },
         "Ceratozamia becerrae": {
             "label": "Ceratozamia becerrae",
             "description": "Ceratozamia becerrae is a species of plant in the Zamiaceae family. It is endemic to Mexico. It is threatened by habitat loss. Wikipedia",
@@ -253,6 +253,20 @@
                 "Ceratozamia"
             ]
         },
+        "Ceratozamia morettii": {
+            "label": "Ceratozamia morettii",
+            "description": "Ceratozamia morettii is a species of plant in the Zamiaceae family. It is endemic to Mexico. Its natural habitat is subtropical or tropical moist montane forests. It is threatened by habitat loss. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Ceratozamia morettii"
+            ],
+            "Rank ": [
+                "Species"
+            ],
+            "Higher classification ": [
+                "Ceratozamia"
+            ]
+        },
         "Zamia fischeri": {
             "label": "Zamia fischeri",
             "description": "Zamia fischeri is a species of cycad in the Zamiaceae family. It is often confused with Zamia vazquezii. Zamia fischeri is named after Gustav Fischer, a cycad enthusiast of the nineteenth century. Wikipedia",
@@ -264,20 +278,20 @@
                 "Species"
             ]
         },
-        "Encephalartos woodii": {
-            "label": "Encephalartos woodii",
-            "description": "Wood's Cycad is a cycad in the genus Encephalartos, and is endemic to the Ongoye Forest of KwaZulu-Natal, South Africa. It is one of the rarest plants in the world, being extinct in the wild with all specimens being clones of the type. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Encephalartos woodii"
-            ]
-        },
         "Encephalartos villosus": {
             "label": "Encephalartos villosus",
             "description": "Encephalartos villosus is a South African cycad occurring from the East London vicinity, where it is found near the coast, to the northern border of Swaziland where it may grow as far as 100 km inland. Wikipedia",
             "type": "",
             "Scientific name ": [
                 "Encephalartos villosus"
+            ]
+        },
+        "Encephalartos woodii": {
+            "label": "Encephalartos woodii",
+            "description": "Wood's Cycad is a cycad in the genus Encephalartos, and is endemic to the Ongoye Forest of KwaZulu-Natal, South Africa. It is one of the rarest plants in the world, being extinct in the wild with all specimens being clones of the type. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Encephalartos woodii"
             ]
         },
         "Lepidozamia": {
@@ -341,40 +355,12 @@
                 "Cycas"
             ]
         },
-        "Ceratozamia morettii": {
-            "label": "Ceratozamia morettii",
-            "description": "Ceratozamia morettii is a species of plant in the Zamiaceae family. It is endemic to Mexico. Its natural habitat is subtropical or tropical moist montane forests. It is threatened by habitat loss. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Ceratozamia morettii"
-            ],
-            "Rank ": [
-                "Species"
-            ],
-            "Higher classification ": [
-                "Ceratozamia"
-            ]
-        },
         "Cycas arenicola": {
             "label": "Cycas arenicola",
             "description": "Cycas arenicola is a species of cycad in the genus Cycas, native to Australia, in the far north of Northern Territory in the basin of the upper East Alligator River in Arnhem Land. It grows in Eucalyptus woodlands on highly siliceous soils. Wikipedia",
             "type": "",
             "Scientific name ": [
                 "Cycas arenicola"
-            ],
-            "Rank ": [
-                "Species"
-            ],
-            "Higher classification ": [
-                "Cycas"
-            ]
-        },
-        "Cycas badensis": {
-            "label": "Cycas badensis",
-            "description": "Cycas badensis is a species of cycad in the genus Cycas, native to Australia, in the extreme north of Queensland, where it is endemic on Badu Island in the Torres Strait Islands.\nThe stems grow up to 8 m tall. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Cycas badensis"
             ],
             "Rank ": [
                 "Species"
@@ -397,12 +383,40 @@
                 "Cycas"
             ]
         },
+        "Cycas badensis": {
+            "label": "Cycas badensis",
+            "description": "Cycas badensis is a species of cycad in the genus Cycas, native to Australia, in the extreme north of Queensland, where it is endemic on Badu Island in the Torres Strait Islands.\nThe stems grow up to 8 m tall. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Cycas badensis"
+            ],
+            "Rank ": [
+                "Species"
+            ],
+            "Higher classification ": [
+                "Cycas"
+            ]
+        },
         "Cycas balansae": {
             "label": "Cycas balansae",
             "description": "Cycas balansae is a species of cycad in the genus Cycas, native to southwestern China and adjacent northern Vietnam, where it occurs in dense mountain rainforests. Wikipedia",
             "type": "",
             "Scientific name ": [
                 "Cycas balansae"
+            ],
+            "Rank ": [
+                "Species"
+            ],
+            "Higher classification ": [
+                "Cycas"
+            ]
+        },
+        "Cycas basaltica": {
+            "label": "Cycas basaltica",
+            "description": "Cycas basaltica is a species of cycad in the genus Cycas, native to Australia, in the far north of Western Australia in the Kimberley region. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Cycas basaltica"
             ],
             "Rank ": [
                 "Species"
@@ -439,20 +453,6 @@
                 "Cycas"
             ]
         },
-        "Cycas basaltica": {
-            "label": "Cycas basaltica",
-            "description": "Cycas basaltica is a species of cycad in the genus Cycas, native to Australia, in the far north of Western Australia in the Kimberley region. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Cycas basaltica"
-            ],
-            "Rank ": [
-                "Species"
-            ],
-            "Higher classification ": [
-                "Cycas"
-            ]
-        },
         "Cycas campestris": {
             "label": "Cycas campestris",
             "description": "Cycas campestris is a species of cycad in the genus Cycas, native to southeastern Papua New Guinea in the lowland region near Port Moresby. It grows in open, grassy locations, often in areas with frequent grass fires. Wikipedia",
@@ -467,14 +467,6 @@
                 "Cycas"
             ]
         },
-        "Dioon spinulosum": {
-            "label": "Dioon spinulosum",
-            "description": "Dioon spinulosum, giant dioon, or gum palm, is a cycad endemic to limestone cliffs and rocky hillsides in the tropical rainforests of Veracruz and Oaxaca, Mexico. It is one of the tallest cycads in the world, growing to 12m in height. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Dioon spinulosum"
-            ]
-        },
         "Cycas chamaoensis": {
             "label": "Cycas chamaoensis",
             "description": "Cycas chamaoensis is named after the only known habitat of this species, on and near Khao Chamao mountain in Khao Chamao District, Thailand. Stems are arborescent, either erect or decumbent. Wikipedia",
@@ -483,12 +475,28 @@
                 "Cycas chamaoensis"
             ]
         },
+        "Dioon spinulosum": {
+            "label": "Dioon spinulosum",
+            "description": "Dioon spinulosum, giant dioon, or gum palm, is a cycad endemic to limestone cliffs and rocky hillsides in the tropical rainforests of Veracruz and Oaxaca, Mexico. It is one of the tallest cycads in the world, growing to 12m in height. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Dioon spinulosum"
+            ]
+        },
         "Encephalartos ferox": {
             "label": "Encephalartos ferox",
             "description": "Encephalartos ferox, a member of the family Zamiaceae, is a small cycad with 35 cm wide subterranean trunk. It gets its name from the Latin word ferocious, likely from the spine-tipped lobes on the leaves of the plant. Wikipedia",
             "type": "",
             "Scientific name ": [
                 "Encephalartos ferox"
+            ]
+        },
+        "Encephalartos horridus": {
+            "label": "Encephalartos horridus",
+            "description": "The Eastern Cape Blue Cycad is a small, low-growing cycad up to 0.9m high and 0.9m wide. It is a native of Eastern Cape Province, South Africa, and found in arid shrublands, most commonly on ridges and slopes with shallow soils. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Encephalartos horridus"
             ]
         },
         "Encephalartos lehmannii": {
@@ -519,14 +527,6 @@
             ],
             "Higher classification ": [
                 "Lepidozamia"
-            ]
-        },
-        "Encephalartos horridus": {
-            "label": "Encephalartos horridus",
-            "description": "The Eastern Cape Blue Cycad is a small, low-growing cycad up to 0.9m high and 0.9m wide. It is a native of Eastern Cape Province, South Africa, and found in arid shrublands, most commonly on ridges and slopes with shallow soils. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Encephalartos horridus"
             ]
         },
         "Macrozamia macdonnellii": {
@@ -562,20 +562,6 @@
                 "Ceratozamia"
             ]
         },
-        "Cycas armstrongii": {
-            "label": "Cycas armstrongii",
-            "description": "Cycas armstrongii is a species of cycad in the genus Cycas, native to Australia, in the northwest of Northern Territory from the Finniss River in the west to the Arnhem Highway to the east.\nThe stems reach 3 m tall, with a diameter of 5–11 cm. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Cycas armstrongii"
-            ],
-            "Rank ": [
-                "Species"
-            ],
-            "Higher classification ": [
-                "Cycas"
-            ]
-        },
         "Ceratozamia whitelockiana": {
             "label": "Ceratozamia whitelockiana",
             "description": "Ceratozamia whitelockiana is a species of plant in the Zamiaceae family. It is endemic to Mexico. Its natural habitat is subtropical or tropical moist montane forests. It is threatened by habitat loss. Wikipedia",
@@ -588,6 +574,20 @@
             ],
             "Higher classification ": [
                 "Ceratozamia"
+            ]
+        },
+        "Cycas armstrongii": {
+            "label": "Cycas armstrongii",
+            "description": "Cycas armstrongii is a species of cycad in the genus Cycas, native to Australia, in the northwest of Northern Territory from the Finniss River in the west to the Arnhem Highway to the east.\nThe stems reach 3 m tall, with a diameter of 5–11 cm. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Cycas armstrongii"
+            ],
+            "Rank ": [
+                "Species"
+            ],
+            "Higher classification ": [
+                "Cycas"
             ]
         },
         "Cycas bifida": {
@@ -626,6 +626,20 @@
                 "Cycas"
             ]
         },
+        "Cycas canalis": {
+            "label": "Cycas canalis",
+            "description": "Cycas canalis is a species of cycad in the genus Cycas, native to northern Australia in the northwest of Northern Territory, where it occurs in two areas, on the coast at Channel Point, and inland in the Daly River area near Dorisvale. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Cycas canalis"
+            ],
+            "Rank ": [
+                "Species"
+            ],
+            "Higher classification ": [
+                "Cycas"
+            ]
+        },
         "Cycas micronesica": {
             "label": "Cycas micronesica",
             "description": "Cycas micronesica is a type of cycad found in Micronesia, the Marianas Group and the western Caroline Islands. The species, previously lumped with Cycas rumphii or Cycas circinalis, was described in 1994 by Ken Hill. Wikipedia",
@@ -646,20 +660,6 @@
             ],
             "Higher classification ": [
                 "Macrozamia"
-            ]
-        },
-        "Cycas canalis": {
-            "label": "Cycas canalis",
-            "description": "Cycas canalis is a species of cycad in the genus Cycas, native to northern Australia in the northwest of Northern Territory, where it occurs in two areas, on the coast at Channel Point, and inland in the Daly River area near Dorisvale. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Cycas canalis"
-            ],
-            "Rank ": [
-                "Species"
-            ],
-            "Higher classification ": [
-                "Cycas"
             ]
         },
         "Macrozamia diplomera": {
@@ -950,12 +950,12 @@
                 "Macrozamia"
             ]
         },
-        "Macrozamia cranei": {
-            "label": "Macrozamia cranei",
-            "description": "Macrozamia cranei is a species of plant in the Zamiaceae family. It is endemic to Australia. Its natural habitat is subtropical or tropical dry forests. Wikipedia",
+        "Macrozamia flexuosa": {
+            "label": "Macrozamia flexuosa",
+            "description": "Macrozamia flexuosa is a species of plant in the Zamiaceae family. It is endemic to New South Wales, Australia. Wikipedia",
             "type": "",
             "Scientific name ": [
-                "Macrozamia cranei"
+                "Macrozamia flexuosa"
             ],
             "Rank ": [
                 "Species"
@@ -964,12 +964,12 @@
                 "Macrozamia"
             ]
         },
-        "Macrozamia flexuosa": {
-            "label": "Macrozamia flexuosa",
-            "description": "Macrozamia flexuosa is a species of plant in the Zamiaceae family. It is endemic to New South Wales, Australia. Wikipedia",
+        "Macrozamia cranei": {
+            "label": "Macrozamia cranei",
+            "description": "Macrozamia cranei is a species of plant in the Zamiaceae family. It is endemic to Australia. Its natural habitat is subtropical or tropical dry forests. Wikipedia",
             "type": "",
             "Scientific name ": [
-                "Macrozamia flexuosa"
+                "Macrozamia cranei"
             ],
             "Rank ": [
                 "Species"
@@ -1006,12 +1006,12 @@
                 "Macrozamia"
             ]
         },
-        "Macrozamia spiralis": {
-            "label": "Macrozamia spiralis",
-            "description": "Macrozamia spiralis is a species of plant in the Zamiaceae family. It is endemic to New South Wales in eastern Australia. Wikipedia",
+        "Macrozamia platyrhachis": {
+            "label": "Macrozamia platyrhachis",
+            "description": "Macrozamia platyrhachis is a species of plant in the Zamiaceae family. It is endemic to Australia. Wikipedia",
             "type": "",
             "Scientific name ": [
-                "Macrozamia spiralis"
+                "Macrozamia platyrhachis"
             ],
             "Rank ": [
                 "Species"
@@ -1020,12 +1020,12 @@
                 "Macrozamia"
             ]
         },
-        "Macrozamia platyrhachis": {
-            "label": "Macrozamia platyrhachis",
-            "description": "Macrozamia platyrhachis is a species of plant in the Zamiaceae family. It is endemic to Australia. Wikipedia",
+        "Macrozamia spiralis": {
+            "label": "Macrozamia spiralis",
+            "description": "Macrozamia spiralis is a species of plant in the Zamiaceae family. It is endemic to New South Wales in eastern Australia. Wikipedia",
             "type": "",
             "Scientific name ": [
-                "Macrozamia platyrhachis"
+                "Macrozamia spiralis"
             ],
             "Rank ": [
                 "Species"
@@ -1067,19 +1067,21 @@
                 "Species"
             ]
         },
-        "Macrozamia riedlei": {
-            "label": "Macrozamia riedlei",
-            "description": "Macrozamia riedlei is a species of plant in the Zamiaceae family. It is endemic to Western Australia. Found on lateritic soils and in Jarrah forests. Wikipedia",
+        "Bowenia": {
+            "label": "Bowenia",
+            "description": "The genus Bowenia, includes two living and two fossil species of cycads in the family Zamiaceae, sometimes placed on their own family Boweniaceae. They are entirely restricted to Australia. Wikipedia",
             "type": "",
             "Scientific name ": [
-                "Macrozamia riedlei"
+                "Bowenia"
             ],
             "Rank ": [
-                "Species"
+                "Genus"
             ],
-            "Higher classification ": [
-                "Macrozamia"
-            ]
+            "Lower classifications ": [
+                "Bowenia serrulata",
+                " Bowenia spectabilis"
+            ],
+            "See results about": []
         },
         "Zamia": {
             "label": "Zamia",
@@ -1099,39 +1101,26 @@
             ],
             "See results about": []
         },
-        "Bowenia": {
-            "label": "Bowenia",
-            "description": "The genus Bowenia, includes two living and two fossil species of cycads in the family Zamiaceae, sometimes placed on their own family Boweniaceae. They are entirely restricted to Australia. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Bowenia"
-            ],
-            "Rank ": [
-                "Genus"
-            ],
-            "Lower classifications ": [
-                "Bowenia serrulata",
-                " Bowenia spectabilis"
-            ],
-            "See results about": []
-        },
-        "Zamia acuminata": {
-            "label": "Zamia acuminata",
-            "description": "Zamia acuminata is a species of plant in the Zamiaceae family which is threatened by habitat loss. It is found in Costa Rica, Nicaragua, and Panama. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Zamia acuminata"
-            ],
-            "Rank ": [
-                "Species"
-            ]
-        },
         "Macrozamia communis": {
             "label": "Macrozamia communis",
             "description": "Macrozamia communis is an Australian cycad found on the east coast of New South Wales. The common name for the species is burrawang, a word derived from the Daruk Australian Aboriginal language; this ... Wikipedia",
             "type": "",
             "Scientific name ": [
                 "Macrozamia communis"
+            ]
+        },
+        "Macrozamia riedlei": {
+            "label": "Macrozamia riedlei",
+            "description": "Macrozamia riedlei is a species of plant in the Zamiaceae family. It is endemic to Western Australia. Found on lateritic soils and in Jarrah forests. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Macrozamia riedlei"
+            ],
+            "Rank ": [
+                "Species"
+            ],
+            "Higher classification ": [
+                "Macrozamia"
             ]
         },
         "Ceratozamia fuscoviridis": {
@@ -1146,6 +1135,17 @@
             ],
             "Higher classification ": [
                 "Ceratozamia"
+            ]
+        },
+        "Zamia acuminata": {
+            "label": "Zamia acuminata",
+            "description": "Zamia acuminata is a species of plant in the Zamiaceae family which is threatened by habitat loss. It is found in Costa Rica, Nicaragua, and Panama. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Zamia acuminata"
+            ],
+            "Rank ": [
+                "Species"
             ]
         },
         "Zamia amblyphyllidia": {
@@ -1247,17 +1247,6 @@
                 "Species"
             ]
         },
-        "Zamia prasina": {
-            "label": "Zamia prasina",
-            "description": "Zamia prasina is a species of plant in the Zamiaceae family. It is endemic to Belize. Its natural habitat is subtropical or tropical moist montane forests. It is threatened by habitat loss. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Zamia prasina"
-            ],
-            "Rank ": [
-                "Species"
-            ]
-        },
         "Zamia portoricensis": {
             "label": "Zamia portoricensis",
             "description": "Zamia portoricensis is a species of plant in the Zamiaceae family. It is endemic to Puerto Rico. Wikipedia",
@@ -1291,17 +1280,6 @@
                 "Species"
             ]
         },
-        "Zamia vazquezii": {
-            "label": "Zamia vazquezii",
-            "description": "Zamia vazquezii is a species of plant in the Zamiaceae family. It is endemic to Mexico. It is threatened by habitat loss. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Zamia vazquezii"
-            ],
-            "Rank ": [
-                "Species"
-            ]
-        },
         "Zamia variegata": {
             "label": "Zamia variegata",
             "description": "Zamia variegata is a species of plant in the Zamiaceae family. It is found in Guatemala and Mexico. It is threatened by habitat loss. Wikipedia",
@@ -1312,17 +1290,39 @@
             "Rank ": [
                 "Species"
             ]
+        },
+        "Zamia prasina": {
+            "label": "Zamia prasina",
+            "description": "Zamia prasina is a species of plant in the Zamiaceae family. It is endemic to Belize. Its natural habitat is subtropical or tropical moist montane forests. It is threatened by habitat loss. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Zamia prasina"
+            ],
+            "Rank ": [
+                "Species"
+            ]
+        },
+        "Zamia vazquezii": {
+            "label": "Zamia vazquezii",
+            "description": "Zamia vazquezii is a species of plant in the Zamiaceae family. It is endemic to Mexico. It is threatened by habitat loss. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Zamia vazquezii"
+            ],
+            "Rank ": [
+                "Species"
+            ]
         }
     },
     "summary": {
         "label": 100,
         "description": 100,
         "type": 100,
-        "Scientific name ": 99,
-        "Rank ": 84,
-        "Higher classification ": 61,
-        "Lower classifications ": 6,
-        "See results about": 5
+        "scientific_name": 1,
+        "rank": 1,
+        "higher_classification": 1,
+        "lower_classifications": 1,
+        "see_results_about": 1
     },
     "infoboxless": []
 }

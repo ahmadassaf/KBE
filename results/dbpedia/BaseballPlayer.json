@@ -30,26 +30,6 @@
             ],
             "Movies": []
         },
-        "Bob Lemon": {
-            "label": "Bob Lemon",
-            "description": "Robert Granville \"Bob\" Lemon was an American right-handed pitcher and manager in Major League Baseball. Lemon was elected to the National Baseball Hall of Fame as a player in 1976. Wikipedia",
-            "type": "Baseball Manager",
-            "Born ": "September 22, 1920, San Bernardino, California, United States",
-            "Died ": "January 11, 2000, Long Beach, California, United States",
-            "Weight ": [
-                "185 lbs (84 kg)"
-            ],
-            "Spouse ": [
-                "Jane McGee (m. 1944–2000)"
-            ],
-            "Teams managed ": [
-                "New York Yankees (1981 – 1982)"
-            ],
-            "Movies ": [
-                "The Winning Team"
-            ],
-            "People also search for": []
-        },
         "Barry Zito": {
             "label": "Barry Zito",
             "description": "Barry William Zito is an American professional baseball pitcher in Major League Baseball who is currently a free agent. He stands 6 feet 2 inches tall and weighs 205 pounds. He previously played for the Oakland Athletics and San Francisco Giants. Wikipedia",
@@ -73,6 +53,26 @@
                 " Santa Barbara",
                 " Los Angeles Pierce College",
                 " University of Southern California"
+            ],
+            "People also search for": []
+        },
+        "Bob Lemon": {
+            "label": "Bob Lemon",
+            "description": "Robert Granville \"Bob\" Lemon was an American right-handed pitcher and manager in Major League Baseball. Lemon was elected to the National Baseball Hall of Fame as a player in 1976. Wikipedia",
+            "type": "Baseball Manager",
+            "Born ": "September 22, 1920, San Bernardino, California, United States",
+            "Died ": "January 11, 2000, Long Beach, California, United States",
+            "Weight ": [
+                "185 lbs (84 kg)"
+            ],
+            "Spouse ": [
+                "Jane McGee (m. 1944–2000)"
+            ],
+            "Teams managed ": [
+                "New York Yankees (1981 – 1982)"
+            ],
+            "Movies ": [
+                "The Winning Team"
             ],
             "People also search for": []
         },
@@ -127,20 +127,6 @@
             ],
             "People also search for": []
         },
-        "Cory Lidle": {
-            "label": "Cory Lidle",
-            "description": "Cory Fulton Lidle was an American professional baseball player. A right-handed pitcher, Lidle spent nine seasons in Major League Baseball with seven different teams. Wikipedia",
-            "type": "Baseball player",
-            "Born ": "March 22, 1972, Hollywood, Los Angeles, California, United States",
-            "Died ": "October 11, 2006, New York City, New York, United States",
-            "Height ": [
-                "5' 11\" (1.80 m)"
-            ],
-            "Education ": [
-                "South Hills High School"
-            ],
-            "People also search for": []
-        },
         "Curtis Granderson": {
             "label": "Curtis Granderson",
             "description": "Curtis Granderson, Jr. is an American professional baseball outfielder for the New York Mets of Major League Baseball. He has played in MLB for the Detroit Tigers and the New York Yankees. Wikipedia",
@@ -161,6 +147,20 @@
             "Education ": [
                 "University of Illinois at Chicago",
                 " Thornton Fractional South High School"
+            ],
+            "People also search for": []
+        },
+        "Cory Lidle": {
+            "label": "Cory Lidle",
+            "description": "Cory Fulton Lidle was an American professional baseball player. A right-handed pitcher, Lidle spent nine seasons in Major League Baseball with seven different teams. Wikipedia",
+            "type": "Baseball player",
+            "Born ": "March 22, 1972, Hollywood, Los Angeles, California, United States",
+            "Died ": "October 11, 2006, New York City, New York, United States",
+            "Height ": [
+                "5' 11\" (1.80 m)"
+            ],
+            "Education ": [
+                "South Hills High School"
             ],
             "People also search for": []
         },
@@ -188,6 +188,44 @@
                 "Tracy Boulware (m. 2006)",
                 " Charisse Strawberry (m. 1993–2006)",
                 " Lisa Andrews (m. 1985–1993)"
+            ],
+            "People also search for": []
+        },
+        "Dave Stieb": {
+            "label": "Dave Stieb",
+            "description": "David Andrew Stieb is a former Major League Baseball right-handed starting pitcher for the Toronto Blue Jays. A seven-time All-Star, he also won The Sporting News' Pitcher of the Year Award in 1982. Wikipedia",
+            "type": "Baseball player",
+            "Born ": "July 22, 1957 (age 56), Santa Ana, California, United States",
+            "Weight ": [
+                "195 lbs (88 kg)"
+            ],
+            "Education ": [
+                "Southern Illinois University Carbondale"
+            ],
+            "People also search for": []
+        },
+        "Don Mattingly": {
+            "label": "Don Mattingly",
+            "description": "Donald Arthur \"Don\" Mattingly is an American professional baseball first baseman, coach and manager. Mattingly is currently the manager of the Los Angeles Dodgers of Major League Baseball. Wikipedia",
+            "type": "Baseball Coach",
+            "Born ": "April 20, 1961 (age 52), Evansville, Indiana, United States",
+            "Number ": [
+                "23"
+            ],
+            "Position ": [
+                "Infielder"
+            ],
+            "Education ": [
+                "Reitz Memorial High School"
+            ],
+            "Spouse ": [
+                "Lori Mattingly (m. 2010)",
+                " Kim Sexton (m. 1979–2007)"
+            ],
+            "Children ": [
+                "Preston Mattingly",
+                " Jordon Mattingly",
+                " Taylor Mattingly"
             ],
             "People also search for": []
         },
@@ -224,41 +262,26 @@
             ],
             "People also search for": []
         },
-        "Don Mattingly": {
-            "label": "Don Mattingly",
-            "description": "Donald Arthur \"Don\" Mattingly is an American professional baseball first baseman, coach and manager. Mattingly is currently the manager of the Los Angeles Dodgers of Major League Baseball. Wikipedia",
-            "type": "Baseball Coach",
-            "Born ": "April 20, 1961 (age 52), Evansville, Indiana, United States",
+        "Gaylord Perry": {
+            "label": "Gaylord Perry",
+            "description": "Gaylord Jackson Perry is a former Major League Baseball right-handed pitcher. He pitched from 1962 to 1983 for eight different teams. During a 22-year baseball career, Perry compiled 314 wins, 3,534 strikeouts, and a 3.11 earned run average. Wikipedia",
+            "type": "Baseball player",
+            "Born ": "September 15, 1938 (age 75), Williamston, North Carolina, United States",
             "Number ": [
-                "23"
+                "36"
+            ],
+            "Education ": [
+                "Campbell University"
             ],
             "Position ": [
-                "Infielder"
+                "Pitcher"
             ],
-            "Education ": [
-                "Reitz Memorial High School"
+            "Siblings ": [
+                "Jim Perry"
             ],
-            "Spouse ": [
-                "Lori Mattingly (m. 2010)",
-                " Kim Sexton (m. 1979–2007)"
-            ],
-            "Children ": [
-                "Preston Mattingly",
-                " Jordon Mattingly",
-                " Taylor Mattingly"
-            ],
-            "People also search for": []
-        },
-        "Dave Stieb": {
-            "label": "Dave Stieb",
-            "description": "David Andrew Stieb is a former Major League Baseball right-handed starting pitcher for the Toronto Blue Jays. A seven-time All-Star, he also won The Sporting News' Pitcher of the Year Award in 1982. Wikipedia",
-            "type": "Baseball player",
-            "Born ": "July 22, 1957 (age 56), Santa Ana, California, United States",
-            "Weight ": [
-                "195 lbs (88 kg)"
-            ],
-            "Education ": [
-                "Southern Illinois University Carbondale"
+            "Awards ": [
+                "National League Cy Young Award",
+                " American League Cy Young Award"
             ],
             "People also search for": []
         },
@@ -312,29 +335,6 @@
             ],
             "People also search for": []
         },
-        "Gaylord Perry": {
-            "label": "Gaylord Perry",
-            "description": "Gaylord Jackson Perry is a former Major League Baseball right-handed pitcher. He pitched from 1962 to 1983 for eight different teams. During a 22-year baseball career, Perry compiled 314 wins, 3,534 strikeouts, and a 3.11 earned run average. Wikipedia",
-            "type": "Baseball player",
-            "Born ": "September 15, 1938 (age 75), Williamston, North Carolina, United States",
-            "Number ": [
-                "36"
-            ],
-            "Education ": [
-                "Campbell University"
-            ],
-            "Position ": [
-                "Pitcher"
-            ],
-            "Siblings ": [
-                "Jim Perry"
-            ],
-            "Awards ": [
-                "National League Cy Young Award",
-                " American League Cy Young Award"
-            ],
-            "People also search for": []
-        },
         "Joe McCarthy (manager)": {
             "label": "Joe McCarthy",
             "description": "Joseph Vincent McCarthy was a manager in Major League Baseball, most renowned for his leadership of the \"Bronx Bombers\" teams of the New York Yankees from 1931 to 1946. Wikipedia",
@@ -347,6 +347,55 @@
             "Teams managed ": [
                 "Boston Red Sox (1948 – 1950)",
                 " Chicago Cubs (1926 – 1930)"
+            ],
+            "People also search for": []
+        },
+        "Joe Torre": {
+            "label": "Joe Torre",
+            "description": "Joseph Paul \"Joe\" Torre is an American professional baseball executive and former baseball manager and player. Wikipedia",
+            "type": "Baseball Manager",
+            "Born ": "July 18, 1940 (age 73), Brooklyn, New York, United States",
+            "Nationality ": [
+                "American"
+            ],
+            "Spouse ": [
+                "Alice Wolterman (m. 1987)",
+                " Dani Torre (m. 1968)",
+                " Jackie Torre (m. 1963–1967)"
+            ],
+            "Siblings ": [
+                "Frank Torre",
+                " Marguerite Torre",
+                " Rae Torre"
+            ],
+            "Books ": [
+                "The Yankee Years",
+                " Pitching & Hitting",
+                " Joe Torre's Ground Rules for Winners 12 Keys to Managing Team Players",
+                " Tough Bosses",
+                " Setbacks",
+                " and SuccessMore"
+            ],
+            "Position ": [
+                "Infielder",
+                " Catcher"
+            ],
+            "People also search for": []
+        },
+        "Joe Sewell": {
+            "label": "Joe Sewell",
+            "description": "Joseph Wheeler Sewell was a Major League Baseball infielder for the Cleveland Indians and New York Yankees. He was elected to the Baseball Hall of Fame in 1977. Wikipedia",
+            "type": "Baseball player",
+            "Born ": "October 9, 1898, Alabama, United States",
+            "Died ": "March 6, 1990, Mobile, Alabama, United States",
+            "Weight ": [
+                "155 lbs (70 kg)"
+            ],
+            "Education ": [
+                "University of Alabama"
+            ],
+            "Siblings ": [
+                "Luke Sewell"
             ],
             "People also search for": []
         },
@@ -397,35 +446,29 @@
             ],
             "People also search for": []
         },
-        "Joe Torre": {
-            "label": "Joe Torre",
-            "description": "Joseph Paul \"Joe\" Torre is an American professional baseball executive and former baseball manager and player. Wikipedia",
-            "type": "Baseball Manager",
-            "Born ": "July 18, 1940 (age 73), Brooklyn, New York, United States",
-            "Nationality ": [
-                "American"
+        "Ken Griffey, Jr.": {
+            "label": "Ken Griffey, Jr.",
+            "description": "George Kenneth \"Ken\" Griffey, Jr., nicknamed \"Junior\" and \"The Kid\", is an American former professional baseball outfielder who played 22 years in Major League Baseball for three teams. Wikipedia",
+            "type": "Baseball player",
+            "Born ": "November 21, 1969 (age 44), Donora, Pennsylvania, United States",
+            "Number ": [
+                "24"
             ],
             "Spouse ": [
-                "Alice Wolterman (m. 1987)",
-                " Dani Torre (m. 1968)",
-                " Jackie Torre (m. 1963–1967)"
+                "Melissa Griffey (m. 1992)"
             ],
-            "Siblings ": [
-                "Frank Torre",
-                " Marguerite Torre",
-                " Rae Torre"
+            "Education ": [
+                "Moeller High School"
             ],
-            "Books ": [
-                "The Yankee Years",
-                " Pitching & Hitting",
-                " Joe Torre's Ground Rules for Winners 12 Keys to Managing Team Players",
-                " Tough Bosses",
-                " Setbacks",
-                " and SuccessMore"
+            "Parents ": [
+                "Ken Griffey",
+                " Sr.",
+                " Valarie Griffey"
             ],
-            "Position ": [
-                "Infielder",
-                " Catcher"
+            "Children ": [
+                "Trey Griffey",
+                " Taryn Kennedy",
+                " Tevin Kendall"
             ],
             "People also search for": []
         },
@@ -454,23 +497,6 @@
             ],
             "People also search for": []
         },
-        "Joe Sewell": {
-            "label": "Joe Sewell",
-            "description": "Joseph Wheeler Sewell was a Major League Baseball infielder for the Cleveland Indians and New York Yankees. He was elected to the Baseball Hall of Fame in 1977. Wikipedia",
-            "type": "Baseball player",
-            "Born ": "October 9, 1898, Alabama, United States",
-            "Died ": "March 6, 1990, Mobile, Alabama, United States",
-            "Weight ": [
-                "155 lbs (70 kg)"
-            ],
-            "Education ": [
-                "University of Alabama"
-            ],
-            "Siblings ": [
-                "Luke Sewell"
-            ],
-            "People also search for": []
-        },
         "Lou Brock": {
             "label": "Lou Brock",
             "description": "Louis Clark \"Lou\" Brock is an American former professional baseball player. He began his Major League Baseball career with the Chicago Cubs, but spent the majority of his career as the left fielder for the St. Louis Cardinals. Wikipedia",
@@ -478,32 +504,6 @@
             "Born ": "June 18, 1939 (age 74), El Dorado, Arkansas, United States",
             "Education ": [
                 "Southern University and A&M College"
-            ],
-            "People also search for": []
-        },
-        "Ken Griffey, Jr.": {
-            "label": "Ken Griffey, Jr.",
-            "description": "George Kenneth \"Ken\" Griffey, Jr., nicknamed \"Junior\" and \"The Kid\", is an American former professional baseball outfielder who played 22 years in Major League Baseball for three teams. Wikipedia",
-            "type": "Baseball player",
-            "Born ": "November 21, 1969 (age 44), Donora, Pennsylvania, United States",
-            "Number ": [
-                "24"
-            ],
-            "Spouse ": [
-                "Melissa Griffey (m. 1992)"
-            ],
-            "Education ": [
-                "Moeller High School"
-            ],
-            "Parents ": [
-                "Ken Griffey",
-                " Sr.",
-                " Valarie Griffey"
-            ],
-            "Children ": [
-                "Trey Griffey",
-                " Taryn Kennedy",
-                " Tevin Kendall"
             ],
             "People also search for": []
         },
@@ -536,6 +536,30 @@
             ],
             "People also search for": []
         },
+        "Lou Gehrig": {
+            "label": "Lou Gehrig",
+            "description": "Henry Louis \"Lou\" or \"Buster\" Gehrig was an American baseball first baseman who played 17 seasons in Major League Baseball for the New York Yankees. Wikipedia",
+            "type": "Baseball player",
+            "Born ": "June 19, 1903, Yorkville, New York City, New York, United States",
+            "Died ": "June 2, 1941, Riverdale, New York City, New York, United States",
+            "Spouse ": [
+                "Eleanor Gehrig (m. 1933–1941)"
+            ],
+            "Buried ": [
+                "Kensico Cemetery",
+                " New York",
+                " United States"
+            ],
+            "Position ": [
+                "First baseman",
+                " Pinch hitter"
+            ],
+            "Parents ": [
+                "Christina Fack",
+                " Heinrich Gehrig"
+            ],
+            "People also search for": []
+        },
         "Mickey Mantle": {
             "label": "Mickey Mantle",
             "description": "Mickey Charles Mantle, nicknamed \"The Commerce Comet\" or \"The Mick\", was an American professional baseball player. He was a Major League Baseball centerfielder and first baseman for the New York Yankees for 18 seasons, from 1951 through 1968. Wikipedia",
@@ -560,27 +584,77 @@
             ],
             "People also search for": []
         },
-        "Lou Gehrig": {
-            "label": "Lou Gehrig",
-            "description": "Henry Louis \"Lou\" or \"Buster\" Gehrig was an American baseball first baseman who played 17 seasons in Major League Baseball for the New York Yankees. Wikipedia",
+        "Mike Sweeney": {
+            "label": "Mike Sweeney",
+            "description": "Michael John \"Mike\" Sweeney is a former Major League Baseball first baseman. Sweeney played his first 13 seasons in the majors with the Kansas City Royals, originally as a catcher and then moving to first base. Wikipedia",
             "type": "Baseball player",
-            "Born ": "June 19, 1903, Yorkville, New York City, New York, United States",
-            "Died ": "June 2, 1941, Riverdale, New York City, New York, United States",
+            "Born ": "July 22, 1973 (age 40), Orange, California, United States",
+            "Weight ": [
+                "225 lbs (102 kg)"
+            ],
             "Spouse ": [
-                "Eleanor Gehrig (m. 1933–1941)"
+                "Shara Nettles (m. 2002)"
             ],
-            "Buried ": [
-                "Kensico Cemetery",
-                " New York",
-                " United States"
+            "Children ": [
+                "Michael James Sweeney",
+                " Donovan John Sweeney",
+                " McKara Lynn Sweeney"
             ],
-            "Position ": [
-                "First baseman",
-                " Pinch hitter"
+            "Movies ": [
+                "Champions of Faith",
+                " MLB Superstars Show You Their Game"
             ],
-            "Parents ": [
-                "Christina Fack",
-                " Heinrich Gehrig"
+            "People also search for": []
+        },
+        "Nolan Ryan": {
+            "label": "Nolan Ryan",
+            "description": "Lynn Nolan Ryan, Jr., nicknamed \"The Ryan Express\", is a former Major League Baseball pitcher and chief executive officer of the Texas Rangers. He is currently an executive adviser to the owner of the Houston Astros. Wikipedia",
+            "type": "Baseball player",
+            "Born ": "January 31, 1947 (age 67), Refugio, Texas, United States",
+            "Career end ": [
+                "1993"
+            ],
+            "Spouse ": [
+                "Ruth Holdorff (m. 1967)"
+            ],
+            "Education ": [
+                "Alvin High School",
+                " Alvin Community College"
+            ],
+            "Books ": [
+                "Kings of the Hill An Irreverent Look at the Men on the Mound",
+                " Pitching & Hitting",
+                " Nolan Ryan's Fastball"
+            ],
+            "Children ": [
+                "Reid Ryan",
+                " Wendy Ryan",
+                " Reese Ryan"
+            ],
+            "People also search for": []
+        },
+        "Ozzie Smith": {
+            "label": "Ozzie Smith",
+            "description": "Osborne Earl \"Ozzie\" Smith is a retired American baseball shortstop who played in Major League Baseball for the San Diego Padres and St. Louis Cardinals from 1978 to 1996. Wikipedia",
+            "type": "Baseball player",
+            "Born ": "December 26, 1954 (age 59), Mobile, Alabama, United States",
+            "Height ": [
+                "5' 10\" (1.78 m)"
+            ],
+            "Spouse ": [
+                "Ethel Denise Jackson (m. 1980–1996)"
+            ],
+            "Education ": [
+                "California Polytechnic State University",
+                " Locke High School"
+            ],
+            "Awards ": [
+                "Lou Gehrig Memorial Award"
+            ],
+            "Children ": [
+                "Nikko Smith",
+                " Dustin Smith",
+                " Taryn Smith"
             ],
             "People also search for": []
         },
@@ -611,53 +685,6 @@
                 "Pete Rose on Hitting How to Hit Better Than Anybody",
                 " Ballplayer! The Headfirst Life of Peter Edward Rose",
                 " Pete Rose's Winning BaseballMore"
-            ],
-            "People also search for": []
-        },
-        "Ozzie Smith": {
-            "label": "Ozzie Smith",
-            "description": "Osborne Earl \"Ozzie\" Smith is a retired American baseball shortstop who played in Major League Baseball for the San Diego Padres and St. Louis Cardinals from 1978 to 1996. Wikipedia",
-            "type": "Baseball player",
-            "Born ": "December 26, 1954 (age 59), Mobile, Alabama, United States",
-            "Height ": [
-                "5' 10\" (1.78 m)"
-            ],
-            "Spouse ": [
-                "Ethel Denise Jackson (m. 1980–1996)"
-            ],
-            "Education ": [
-                "California Polytechnic State University",
-                " Locke High School"
-            ],
-            "Awards ": [
-                "Lou Gehrig Memorial Award"
-            ],
-            "Children ": [
-                "Nikko Smith",
-                " Dustin Smith",
-                " Taryn Smith"
-            ],
-            "People also search for": []
-        },
-        "Mike Sweeney": {
-            "label": "Mike Sweeney",
-            "description": "Michael John \"Mike\" Sweeney is a former Major League Baseball first baseman. Sweeney played his first 13 seasons in the majors with the Kansas City Royals, originally as a catcher and then moving to first base. Wikipedia",
-            "type": "Baseball player",
-            "Born ": "July 22, 1973 (age 40), Orange, California, United States",
-            "Weight ": [
-                "225 lbs (102 kg)"
-            ],
-            "Spouse ": [
-                "Shara Nettles (m. 2002)"
-            ],
-            "Children ": [
-                "Michael James Sweeney",
-                " Donovan John Sweeney",
-                " McKara Lynn Sweeney"
-            ],
-            "Movies ": [
-                "Champions of Faith",
-                " MLB Superstars Show You Their Game"
             ],
             "People also search for": []
         },
@@ -695,33 +722,6 @@
             ],
             "People also search for": []
         },
-        "Nolan Ryan": {
-            "label": "Nolan Ryan",
-            "description": "Lynn Nolan Ryan, Jr., nicknamed \"The Ryan Express\", is a former Major League Baseball pitcher and chief executive officer of the Texas Rangers. He is currently an executive adviser to the owner of the Houston Astros. Wikipedia",
-            "type": "Baseball player",
-            "Born ": "January 31, 1947 (age 67), Refugio, Texas, United States",
-            "Career end ": [
-                "1993"
-            ],
-            "Spouse ": [
-                "Ruth Holdorff (m. 1967)"
-            ],
-            "Education ": [
-                "Alvin High School",
-                " Alvin Community College"
-            ],
-            "Books ": [
-                "Kings of the Hill An Irreverent Look at the Men on the Mound",
-                " Pitching & Hitting",
-                " Nolan Ryan's Fastball"
-            ],
-            "Children ": [
-                "Reid Ryan",
-                " Wendy Ryan",
-                " Reese Ryan"
-            ],
-            "People also search for": []
-        },
         "Ralph Houk": {
             "label": "Ralph Houk",
             "description": "Ralph George Houk, nicknamed The Major, was an American catcher, coach, manager, and front office executive in Major League Baseball. Wikipedia",
@@ -735,6 +735,50 @@
                 "Boston Red Sox (1981 – 1984)",
                 " New York Yankees (1966 – 1973)",
                 " New York Yankees (1961 – 1963)"
+            ],
+            "People also search for": []
+        },
+        "Ron Guidry": {
+            "label": "Ron Guidry",
+            "description": "Ronald Ames Guidry, nicknamed \"Louisiana Lightning\" and \"Gator\", is a former Major League Baseball left-handed pitcher. He played his entire 14-year baseball career for the New York Yankees of the American League, from 1975 through 1988. Wikipedia",
+            "type": "Baseball player",
+            "Born ": "August 28, 1950 (age 63), Lafayette, Louisiana, United States",
+            "Number ": [
+                "49"
+            ],
+            "Nationality ": [
+                "American"
+            ],
+            "Height ": [
+                "5' 11\" (1.80 m)"
+            ],
+            "Education ": [
+                "University of Louisiana at Lafayette"
+            ],
+            "Position ": [
+                "Pitcher"
+            ],
+            "People also search for": []
+        },
+        "Roy Oswalt": {
+            "label": "Roy Oswalt",
+            "description": "Roy Edward Oswalt is an American former professional baseball pitcher who played for the majority of his career with the Houston Astros. He also played for the Philadelphia Phillies, the Texas Rangers, and the Colorado Rockies. Wikipedia",
+            "type": "Baseball player",
+            "Born ": "August 29, 1977 (age 36), Weir, Mississippi, United States",
+            "Height ": [
+                "6' 0\" (1.83 m)"
+            ],
+            "Current team ": [
+                "Colorado Rockies (#44 / Pitcher)"
+            ],
+            "Salary ": [
+                "2.3 million USD (2013)"
+            ],
+            "Spouse ": [
+                "Nicole Oswalt (m. 2000)"
+            ],
+            "Education ": [
+                "Holmes Community College"
             ],
             "People also search for": []
         },
@@ -764,50 +808,6 @@
                 " Michael Sosa",
                 " Keysha Sosa",
                 " Kenia Sosa"
-            ],
-            "People also search for": []
-        },
-        "Roy Oswalt": {
-            "label": "Roy Oswalt",
-            "description": "Roy Edward Oswalt is an American former professional baseball pitcher who played for the majority of his career with the Houston Astros. He also played for the Philadelphia Phillies, the Texas Rangers, and the Colorado Rockies. Wikipedia",
-            "type": "Baseball player",
-            "Born ": "August 29, 1977 (age 36), Weir, Mississippi, United States",
-            "Height ": [
-                "6' 0\" (1.83 m)"
-            ],
-            "Current team ": [
-                "Colorado Rockies (#44 / Pitcher)"
-            ],
-            "Salary ": [
-                "2.3 million USD (2013)"
-            ],
-            "Spouse ": [
-                "Nicole Oswalt (m. 2000)"
-            ],
-            "Education ": [
-                "Holmes Community College"
-            ],
-            "People also search for": []
-        },
-        "Ron Guidry": {
-            "label": "Ron Guidry",
-            "description": "Ronald Ames Guidry, nicknamed \"Louisiana Lightning\" and \"Gator\", is a former Major League Baseball left-handed pitcher. He played his entire 14-year baseball career for the New York Yankees of the American League, from 1975 through 1988. Wikipedia",
-            "type": "Baseball player",
-            "Born ": "August 28, 1950 (age 63), Lafayette, Louisiana, United States",
-            "Number ": [
-                "49"
-            ],
-            "Nationality ": [
-                "American"
-            ],
-            "Height ": [
-                "5' 11\" (1.80 m)"
-            ],
-            "Education ": [
-                "University of Louisiana at Lafayette"
-            ],
-            "Position ": [
-                "Pitcher"
             ],
             "People also search for": []
         },
@@ -886,35 +886,27 @@
             ],
             "People also search for": []
         },
-        "Jim Thorpe": {
-            "label": "Jim Thorpe",
-            "description": "James Francis \"Jim\" Thorpe was an American athlete of both Native American and European ancestry. Considered one of the most versatile athletes of modern sports, he won Olympic gold medals for the 1912 ... Wikipedia",
-            "type": "Olympic athlete",
-            "Born ": "May 28, 1888, Pottawatomie County, Oklahoma, United States",
-            "Died ": "March 28, 1953, Lomita, California, United States",
-            "Education ": [
-                "Haskell Indian Nations University"
+        "Whitey Ford": {
+            "label": "Whitey Ford",
+            "description": "Edward Charles \"Whitey\" Ford is an American former Major League Baseball pitcher who spent his entire 16-year career with the New York Yankees. He was voted into the Baseball Hall of Fame in 1974. Wikipedia",
+            "type": "Baseball player",
+            "Born ": "October 21, 1928 (age 85), Astoria, New York, United States",
+            "Number ": [
+                "16"
             ],
-            "Movies ": [
-                "Wildcat Trooper",
-                " One Run Elmer"
+            "Spouse ": [
+                "Joan Ford (m. 1951)"
+            ],
+            "Education ": [
+                "Aviation High School"
             ],
             "Awards ": [
-                "SI's All-time College All-Stars"
+                "Cy Young Award"
             ],
-            "Siblings ": [
-                "Charlie Thorpe"
-            ],
-            "People also search for": []
-        },
-        "Ángel Aragón": {
-            "label": "Ángel Aragón",
-            "description": "Ángel Aragón was a professional baseball player and father of Jack Aragon. Aragón spent his entire Major League Baseball career with the New York Yankees. He played in the Cuban League from 1912 to 1920. Wikipedia",
-            "type": "Baseball player",
-            "Born ": "August 2, 1890, Havana, Cuba",
-            "Died ": "January 24, 1952, New York City, New York, United States",
             "Children ": [
-                "Jack Aragon"
+                "Sally Ann Ford",
+                " Eddie Ford",
+                " Thomas Ford"
             ],
             "People also search for": []
         },
@@ -971,27 +963,35 @@
             ],
             "People also search for": []
         },
-        "Whitey Ford": {
-            "label": "Whitey Ford",
-            "description": "Edward Charles \"Whitey\" Ford is an American former Major League Baseball pitcher who spent his entire 16-year career with the New York Yankees. He was voted into the Baseball Hall of Fame in 1974. Wikipedia",
-            "type": "Baseball player",
-            "Born ": "October 21, 1928 (age 85), Astoria, New York, United States",
-            "Number ": [
-                "16"
-            ],
-            "Spouse ": [
-                "Joan Ford (m. 1951)"
-            ],
+        "Jim Thorpe": {
+            "label": "Jim Thorpe",
+            "description": "James Francis \"Jim\" Thorpe was an American athlete of both Native American and European ancestry. Considered one of the most versatile athletes of modern sports, he won Olympic gold medals for the 1912 ... Wikipedia",
+            "type": "Olympic athlete",
+            "Born ": "May 28, 1888, Pottawatomie County, Oklahoma, United States",
+            "Died ": "March 28, 1953, Lomita, California, United States",
             "Education ": [
-                "Aviation High School"
+                "Haskell Indian Nations University"
+            ],
+            "Movies ": [
+                "Wildcat Trooper",
+                " One Run Elmer"
             ],
             "Awards ": [
-                "Cy Young Award"
+                "SI's All-time College All-Stars"
             ],
+            "Siblings ": [
+                "Charlie Thorpe"
+            ],
+            "People also search for": []
+        },
+        "Ángel Aragón": {
+            "label": "Ángel Aragón",
+            "description": "Ángel Aragón was a professional baseball player and father of Jack Aragon. Aragón spent his entire Major League Baseball career with the New York Yankees. He played in the Cuban League from 1912 to 1920. Wikipedia",
+            "type": "Baseball player",
+            "Born ": "August 2, 1890, Havana, Cuba",
+            "Died ": "January 24, 1952, New York City, New York, United States",
             "Children ": [
-                "Sally Ann Ford",
-                " Eddie Ford",
-                " Thomas Ford"
+                "Jack Aragon"
             ],
             "People also search for": []
         },
@@ -1051,30 +1051,6 @@
             ],
             "People also search for": []
         },
-        "Aaron Pointer": {
-            "label": "Aaron Pointer",
-            "description": "Aaron Elton Pointer is a retired American baseball player. He played in the major leagues for the Houston Colt .45's/Astros in 1963 and again in 1966–67. After his baseball career, he was a National Football League referee. Wikipedia",
-            "type": "Baseball player",
-            "Born ": "April 19, 1942 (age 71), Little Rock, Arkansas, United States",
-            "Weight ": [
-                "181 lbs (82 kg)"
-            ],
-            "Education ": [
-                "University of San Francisco"
-            ],
-            "Siblings ": [
-                "Anita Pointer",
-                " June Pointer",
-                " Ruth Pointer",
-                " Bonnie Pointer",
-                " Fritz Pointer"
-            ],
-            "Parents ": [
-                "Elton Pointer",
-                " Sarah Pointer"
-            ],
-            "People also search for": []
-        },
         "Aaron Harang": {
             "label": "Aaron Harang",
             "description": "Aaron Michael Harang is a professional baseball right-handed starting pitcher who is currently with the Atlanta Braves. Wikipedia",
@@ -1100,16 +1076,6 @@
             ],
             "People also search for": []
         },
-        "Aaron Holbert": {
-            "label": "Aaron Holbert",
-            "description": "Aaron Keith Holbert is a former Major League Baseball infielder for the St. Louis Cardinals and Cincinnati Reds. Wikipedia",
-            "type": "Baseball player",
-            "Born ": "January 9, 1973 (age 41), Torrance, California, United States",
-            "Date drafted ": [
-                "1990"
-            ],
-            "People also search for": []
-        },
         "Aaron Hill (baseball)": {
             "label": "Aaron Hill",
             "description": "Aaron Walter Hill is an American professional baseball second baseman for the Arizona Diamondbacks of Major League Baseball. Hill was drafted by the Toronto Blue Jays during the first round of the 2003 MLB First Year Draft. Wikipedia",
@@ -1129,6 +1095,40 @@
             ],
             "Education ": [
                 "Louisiana State University"
+            ],
+            "People also search for": []
+        },
+        "Aaron Holbert": {
+            "label": "Aaron Holbert",
+            "description": "Aaron Keith Holbert is a former Major League Baseball infielder for the St. Louis Cardinals and Cincinnati Reds. Wikipedia",
+            "type": "Baseball player",
+            "Born ": "January 9, 1973 (age 41), Torrance, California, United States",
+            "Date drafted ": [
+                "1990"
+            ],
+            "People also search for": []
+        },
+        "Aaron Pointer": {
+            "label": "Aaron Pointer",
+            "description": "Aaron Elton Pointer is a retired American baseball player. He played in the major leagues for the Houston Colt .45's/Astros in 1963 and again in 1966–67. After his baseball career, he was a National Football League referee. Wikipedia",
+            "type": "Baseball player",
+            "Born ": "April 19, 1942 (age 71), Little Rock, Arkansas, United States",
+            "Weight ": [
+                "181 lbs (82 kg)"
+            ],
+            "Education ": [
+                "University of San Francisco"
+            ],
+            "Siblings ": [
+                "Anita Pointer",
+                " June Pointer",
+                " Ruth Pointer",
+                " Bonnie Pointer",
+                " Fritz Pointer"
+            ],
+            "Parents ": [
+                "Elton Pointer",
+                " Sarah Pointer"
             ],
             "People also search for": []
         },
@@ -1194,13 +1194,6 @@
             ],
             "People also search for": []
         },
-        "Adam Bernero": {
-            "label": "Adam Bernero",
-            "description": "Adam Gino Bernero is a retired Major League Baseball pitcher. Bernero has pitched in the majors for the Detroit Tigers, Colorado Rockies, Atlanta Braves, Philadelphia Phillies, Kansas City Royals. Wikipedia",
-            "type": "Baseball player",
-            "Born ": "November 28, 1976 (age 37), Los Gatos, California, United States",
-            "People also search for": []
-        },
         "Abner Dalrymple": {
             "label": "Abner Dalrymple",
             "description": "Abner Frank Dalrymple was an American left fielder in Major League Baseball who hit 43 home runs and batted .288 during his 12-season career spent primarily with the Chicago White Stockings. Wikipedia",
@@ -1210,6 +1203,13 @@
             "Weight ": [
                 "175 lbs (79 kg)"
             ],
+            "People also search for": []
+        },
+        "Adam Bernero": {
+            "label": "Adam Bernero",
+            "description": "Adam Gino Bernero is a retired Major League Baseball pitcher. Bernero has pitched in the majors for the Detroit Tigers, Colorado Rockies, Atlanta Braves, Philadelphia Phillies, Kansas City Royals. Wikipedia",
+            "type": "Baseball player",
+            "Born ": "November 28, 1976 (age 37), Los Gatos, California, United States",
             "People also search for": []
         },
         "Adam Eaton": {
@@ -1283,6 +1283,13 @@
             ],
             "People also search for": []
         },
+        "Adam Peterson (1990s pitcher)": {
+            "label": "Adam Peterson",
+            "description": "Adam Charles Peterson is a former pitcher in Major League Baseball. Peterson spent parts of five seasons in the majors between 1987 and 1991 with the Chicago White Sox and San Diego Padres. Wikipedia",
+            "type": "Baseball player",
+            "Born ": "December 11, 1965 (age 48), Long Beach, California, United States",
+            "People also search for": []
+        },
         "Adam LaRoche": {
             "label": "Adam LaRoche",
             "description": "David Adam LaRoche, is an American professional baseball first baseman for the Washington Nationals of Major League Baseball. He is the son of pitcher Dave LaRoche and the brother of third baseman Andy LaRoche. Wikipedia",
@@ -1325,13 +1332,6 @@
             "Salary ": [
                 "15 million USD (2012)"
             ],
-            "People also search for": []
-        },
-        "Adam Peterson (1990s pitcher)": {
-            "label": "Adam Peterson",
-            "description": "Adam Charles Peterson is a former pitcher in Major League Baseball. Peterson spent parts of five seasons in the majors between 1987 and 1991 with the Chicago White Sox and San Diego Padres. Wikipedia",
-            "type": "Baseball player",
-            "Born ": "December 11, 1965 (age 48), Long Beach, California, United States",
             "People also search for": []
         },
         "Adrian Brown (baseball)": {
@@ -1391,14 +1391,6 @@
             ],
             "People also search for": []
         },
-        "Al Cicotte": {
-            "label": "Al Cicotte",
-            "description": "Alva Warren Cicotte, nicknamed \"Bozo,\" was a Major League Baseball player.\nHe played in five seasons in the big leagues with six teams New York Yankees; Washington Senators; Detroit Tigers; Cleveland ... Wikipedia",
-            "type": "Baseball player",
-            "Born ": "December 23, 1929, Melvindale, Michigan, United States",
-            "Died ": "November 29, 1982, Westland, Michigan, United States",
-            "People also search for": []
-        },
         "Al Closter": {
             "label": "Al Closter",
             "description": "Alan Edward Closter is a former professional baseball pitcher. He pitched parts of four seasons in Major League Baseball between 1966 and 1973, pitching in a total of 21 games. Wikipedia",
@@ -1409,6 +1401,14 @@
             ],
             "People also search for": []
         },
+        "Al DeVormer": {
+            "label": "Al DeVormer",
+            "description": "Albert E. DeVormer was a backup catcher in Major League Baseball who played for the Chicago White Sox, New York Yankees, Boston Red Sox, and New York Giants. DeVormer batted and threw right-handed. He was born in Grand Rapids, Michigan. Wikipedia",
+            "type": "Baseball player",
+            "Born ": "August 19, 1891, Grand Rapids, Michigan, United States",
+            "Died ": "August 29, 1966, Grand Rapids, Michigan, United States",
+            "People also search for": []
+        },
         "Al Cowens": {
             "label": "Al Cowens",
             "description": "Alfred Edward Cowens, Jr. was a right fielder in Major League Baseball. From 1974 through 1986, Cowens played for the Kansas City Royals, California Angels, Detroit Tigers and Seattle Mariners. He batted and threw right-handed. Wikipedia",
@@ -1417,12 +1417,12 @@
             "Died ": "March 11, 2002, Downey, California, United States",
             "People also search for": []
         },
-        "Al DeVormer": {
-            "label": "Al DeVormer",
-            "description": "Albert E. DeVormer was a backup catcher in Major League Baseball who played for the Chicago White Sox, New York Yankees, Boston Red Sox, and New York Giants. DeVormer batted and threw right-handed. He was born in Grand Rapids, Michigan. Wikipedia",
+        "Al Cicotte": {
+            "label": "Al Cicotte",
+            "description": "Alva Warren Cicotte, nicknamed \"Bozo,\" was a Major League Baseball player.\nHe played in five seasons in the big leagues with six teams New York Yankees; Washington Senators; Detroit Tigers; Cleveland ... Wikipedia",
             "type": "Baseball player",
-            "Born ": "August 19, 1891, Grand Rapids, Michigan, United States",
-            "Died ": "August 29, 1966, Grand Rapids, Michigan, United States",
+            "Born ": "December 23, 1929, Melvindale, Michigan, United States",
+            "Died ": "November 29, 1982, Westland, Michigan, United States",
             "People also search for": []
         },
         "Al Downing (baseball)": {
@@ -1457,14 +1457,6 @@
             "Died ": "April 6, 1979, Wilson, North Carolina, United States",
             "People also search for": []
         },
-        "Al Gettel": {
-            "label": "Al Gettel",
-            "description": "Allen Jones \"Al\" \"Two Gun\" Gettel was a Major League Baseball pitcher who played from 1945 to 1955 with several teams. He batted and threw right-handed. Gettel had a 38–45 record in 184 career games. He was born and died in Norfolk, Virginia. Wikipedia",
-            "type": "Baseball player",
-            "Born ": "September 17, 1917, Norfolk, Virginia, United States",
-            "Died ": "April 8, 2005, Norfolk, Virginia, United States",
-            "People also search for": []
-        },
         "Al Hrabosky": {
             "label": "Al Hrabosky",
             "description": "Alan Thomas \"Al\" Hrabosky is a former Major League Baseball player from 1970-1982 for the St. Louis Cardinals, Kansas City Royals and Atlanta Braves and is currently the color commentator on Cardinals regular season broadcasts on FSN Midwest. Wikipedia",
@@ -1490,14 +1482,22 @@
             "Died ": "December 20, 1965, Inglewood, California, United States",
             "People also search for": []
         },
-        "Al Niemiec": {
-            "label": "Al Niemiec",
-            "description": "Alfred Joseph Niemiec was an American baseball second basemen and shortstop who played two seasons in Major League Baseball in 1934 and 1936, for the Boston Red Sox and the Philadelphia Athletics, respectively. Wikipedia",
+        "Al Gettel": {
+            "label": "Al Gettel",
+            "description": "Allen Jones \"Al\" \"Two Gun\" Gettel was a Major League Baseball pitcher who played from 1945 to 1955 with several teams. He batted and threw right-handed. Gettel had a 38–45 record in 184 career games. He was born and died in Norfolk, Virginia. Wikipedia",
             "type": "Baseball player",
-            "Born ": "May 18, 1911, Meriden, Connecticut, United States",
-            "Died ": "October 29, 1995, Kirkland, Washington, United States",
+            "Born ": "September 17, 1917, Norfolk, Virginia, United States",
+            "Died ": "April 8, 2005, Norfolk, Virginia, United States",
+            "People also search for": []
+        },
+        "Al Mamaux": {
+            "label": "Al Mamaux",
+            "description": "Albert Leon Mamaux was a professional baseball player and manager.\nA right-handed pitcher over parts of twelve seasons, Mamaux played mainly with the Pittsburgh Pirates and Brooklyn Robins. He led Pittsburgh with 21 wins in 1915 and 1916. Wikipedia",
+            "type": "Baseball player",
+            "Born ": "May 30, 1894, Pittsburgh, Pennsylvania, United States",
+            "Died ": "January 2, 1963, Santa Monica, California, United States",
             "Education ": [
-                "College of the Holy Cross"
+                "Duquesne University"
             ],
             "People also search for": []
         },
@@ -1516,22 +1516,15 @@
             ],
             "People also search for": []
         },
-        "Al Mamaux": {
-            "label": "Al Mamaux",
-            "description": "Albert Leon Mamaux was a professional baseball player and manager.\nA right-handed pitcher over parts of twelve seasons, Mamaux played mainly with the Pittsburgh Pirates and Brooklyn Robins. He led Pittsburgh with 21 wins in 1915 and 1916. Wikipedia",
+        "Al Niemiec": {
+            "label": "Al Niemiec",
+            "description": "Alfred Joseph Niemiec was an American baseball second basemen and shortstop who played two seasons in Major League Baseball in 1934 and 1936, for the Boston Red Sox and the Philadelphia Athletics, respectively. Wikipedia",
             "type": "Baseball player",
-            "Born ": "May 30, 1894, Pittsburgh, Pennsylvania, United States",
-            "Died ": "January 2, 1963, Santa Monica, California, United States",
+            "Born ": "May 18, 1911, Meriden, Connecticut, United States",
+            "Died ": "October 29, 1995, Kirkland, Washington, United States",
             "Education ": [
-                "Duquesne University"
+                "College of the Holy Cross"
             ],
-            "People also search for": []
-        },
-        "Al Osuna": {
-            "label": "Al Osuna",
-            "description": "Alfonso Osuna, Jr., is a former professional baseball player who pitched in the major leagues from 1990 to 1994 and 1996. Wikipedia",
-            "type": "Baseball player",
-            "Born ": "August 10, 1965 (age 48), Inglewood, California, United States",
             "People also search for": []
         },
         "Al Papai": {
@@ -1540,6 +1533,13 @@
             "type": "Baseball player",
             "Born ": "May 7, 1917, Divernon, Illinois, United States",
             "Died ": "September 7, 1995, Springfield, Illinois, United States",
+            "People also search for": []
+        },
+        "Al Osuna": {
+            "label": "Al Osuna",
+            "description": "Alfonso Osuna, Jr., is a former professional baseball player who pitched in the major leagues from 1990 to 1994 and 1996. Wikipedia",
+            "type": "Baseball player",
+            "Born ": "August 10, 1965 (age 48), Inglewood, California, United States",
             "People also search for": []
         },
         "Al Reyes": {
@@ -1599,65 +1599,48 @@
             "Born ": "May 12, 1889, Toledo, Ohio, United States",
             "Died ": "December 13, 1931, Gallipolis, Ohio, United States",
             "People also search for": []
-        },
-        "Aaron Robinson": {
-            "label": "Aaron Robinson",
-            "description": "Aaron Andrew Robinson, was an American professional baseball player. He played in Major League Baseball as a catcher from 1943 to 1951 for the Chicago White Sox, the Detroit Tigers, the New York Yankees, and the Boston Red Sox. Wikipedia",
-            "type": "Baseball player",
-            "Born ": "June 23, 1915, Lancaster, South Carolina, United States",
-            "Died ": "March 9, 1966, Lancaster, South Carolina, United States",
-            "People also search for": []
-        },
-        "Al Jackson": {
-            "label": "Al Jackson",
-            "description": "Alvin Neill Jackson, affectionately referred to as \"Little\" Al Jackson, is a former left-handed pitcher in Major League Baseball who played from 1959 to 1969. Wikipedia",
-            "type": "Baseball player",
-            "Born ": "December 26, 1935 (age 78), Waco, Texas, United States",
-            "Education ": [
-                "Wiley College"
-            ],
-            "People also search for": []
         }
     },
     "summary": {
-        "label": 93,
-        "description": 93,
-        "type": 93,
-        "Born ": 93,
-        "Died ": 31,
-        "Full name ": 2,
-        "Children ": 26,
-        "Nicknames ": 1,
-        "Movies": 1,
-        "Weight ": 15,
-        "Spouse ": 38,
-        "Teams managed ": 3,
-        "Movies ": 6,
-        "People also search for": 92,
-        "Salary ": 14,
-        "School ": 4,
-        "Parents ": 8,
-        "Education ": 46,
-        "Number ": 15,
-        "Position ": 9,
-        "Height ": 17,
-        "Nationality ": 9,
-        "Current team ": 10,
-        "Awards ": 10,
-        "Siblings ": 10,
-        "Books ": 5,
-        "Buried ": 1,
-        "Career end ": 1,
-        "Bats ": 2,
-        "Date drafted ": 5
+        "label": 91,
+        "description": 91,
+        "type": 91,
+        "born": 1,
+        "died": 1,
+        "full_name": 1,
+        "children": 1,
+        "nicknames": 1,
+        "movies": 1,
+        "spouse": 1,
+        "salary": 1,
+        "school": 1,
+        "parents": 1,
+        "education": 1,
+        "people_also_search_for": 1,
+        "weight": 1,
+        "teams_managed": 1,
+        "number": 1,
+        "position": 1,
+        "nationality": 1,
+        "height": 1,
+        "current_team": 1,
+        "siblings": 1,
+        "awards": 1,
+        "books": 1,
+        "buried": 1,
+        "career_end": 1,
+        "bats": 1,
+        "date_drafted": 1
     },
     "infoboxless": [
         "Ángel Sánchez (baseball)",
         "Ángel Santos",
         "A. J. Burnett",
         "A. J. Pierzynski",
-        "Al Kellett",
+        "Aaron Robinson",
         "Al Flair",
+        "Al Jackson",
+        "Al Kellett",
         "Al Richter"
     ]
 }

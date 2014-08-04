@@ -69,13 +69,6 @@
             ],
             "Books": []
         },
-        "Catherine": {
-            "label": "Catherine",
-            "description": "Catherine is a puzzle-platformer adventure video game developed by Atlus Persona Team and published by Atlus for the PlayStation 3 and Xbox 360. Wikipedia",
-            "type": "Video Game",
-            "Release date ": "July 26, 2011",
-            "Songs": []
-        },
         "Karadžić": {
             "label": "Radovan Karadžić",
             "description": "Radovan Karadžić is a former Bosnian Serb politician. During the breakup of Yugoslavia, Karadžić, as President of the Republika Srpska, sought the direct unification of that entity with Serbia. Wikipedia",
@@ -87,6 +80,43 @@
             "Education ": [
                 "Columbia University",
                 " University of Sarajevo"
+            ],
+            "People also search for": []
+        },
+        "Catherine": {
+            "label": "Catherine",
+            "description": "Catherine is a puzzle-platformer adventure video game developed by Atlus Persona Team and published by Atlus for the PlayStation 3 and Xbox 360. Wikipedia",
+            "type": "Video Game",
+            "Release date ": "July 26, 2011",
+            "Songs": []
+        },
+        "Olga (name)": {
+            "label": "Olga of Kiev",
+            "description": "Saint Olga was a ruler of Kievan Rus' as regent for her son, Svyatoslav.\nIn 1997 the Order of Princess Olga was established in Ukraine. Wikipedia",
+            "type": "Saint",
+            "Born ": [
+                "890 AD",
+                " Pskov",
+                " Russia"
+            ],
+            "Died ": [
+                "July 11",
+                " 969 AD",
+                " Kiev",
+                " Ukraine"
+            ],
+            "Full name ": [
+                "Olga of Kiev"
+            ],
+            "Nationality ": [
+                "Russian"
+            ],
+            "Spouse ": [
+                "Igor of Kiev"
+            ],
+            "Parents ": [
+                "Vladimir of Bulgaria",
+                " Oleg of Novgorod"
             ],
             "People also search for": []
         },
@@ -124,67 +154,6 @@
             ],
             "People also search for": []
         },
-        "Olga (name)": {
-            "label": "Olga of Kiev",
-            "description": "Saint Olga was a ruler of Kievan Rus' as regent for her son, Svyatoslav.\nIn 1997 the Order of Princess Olga was established in Ukraine. Wikipedia",
-            "type": "Saint",
-            "Born ": [
-                "890 AD",
-                " Pskov",
-                " Russia"
-            ],
-            "Died ": [
-                "July 11",
-                " 969 AD",
-                " Kiev",
-                " Ukraine"
-            ],
-            "Full name ": [
-                "Olga of Kiev"
-            ],
-            "Nationality ": [
-                "Russian"
-            ],
-            "Spouse ": [
-                "Igor of Kiev"
-            ],
-            "Parents ": [
-                "Vladimir of Bulgaria",
-                " Oleg of Novgorod"
-            ],
-            "People also search for": []
-        },
-        "Theodoric": {
-            "label": "Theoderic the Great",
-            "description": "Theoderic the Great, often referred to as Theodoric, was king of the Germanic Ostrogoths, ruler of Italy, regent of the Visigoths, and a viceroy of the Eastern Roman Empire. Wikipedia",
-            "type": "King of the Ostrogoths",
-            "Born ": [
-                "454 AD",
-                " Pannonia"
-            ],
-            "Died ": [
-                "August 30",
-                " 526 AD",
-                " Ravenna",
-                " Italy"
-            ],
-            "Spouse ": [
-                "Audofleda"
-            ],
-            "Children ": [
-                "Amalasuntha",
-                " Austrigusa",
-                " Theodegotho"
-            ],
-            "Siblings ": [
-                "Amalafrida"
-            ],
-            "Parents ": [
-                "Ereleuva",
-                " Theodemir"
-            ],
-            "People also search for": []
-        },
         "William (name)": {
             "label": "William the Conqueror",
             "description": "William I, usually known as William the Conqueror and sometimes William the Bastard, was the first Norman King of England, reigning from 1066 until his death in 1087. Wikipedia",
@@ -216,6 +185,37 @@
                 " Cecilia of Normandy",
                 " Agatha of Normandy",
                 " MatildaMore"
+            ],
+            "People also search for": []
+        },
+        "Theodoric": {
+            "label": "Theoderic the Great",
+            "description": "Theoderic the Great, often referred to as Theodoric, was king of the Germanic Ostrogoths, ruler of Italy, regent of the Visigoths, and a viceroy of the Eastern Roman Empire. Wikipedia",
+            "type": "King of the Ostrogoths",
+            "Born ": [
+                "454 AD",
+                " Pannonia"
+            ],
+            "Died ": [
+                "August 30",
+                " 526 AD",
+                " Ravenna",
+                " Italy"
+            ],
+            "Spouse ": [
+                "Audofleda"
+            ],
+            "Children ": [
+                "Amalasuntha",
+                " Austrigusa",
+                " Theodegotho"
+            ],
+            "Siblings ": [
+                "Amalafrida"
+            ],
+            "Parents ": [
+                "Ereleuva",
+                " Theodemir"
             ],
             "People also search for": []
         },
@@ -339,6 +339,23 @@
             ],
             "People also search for": []
         },
+        "Maarja": {
+            "label": "Maarja-Liis Ilus",
+            "description": "Maarja-Liis Ilus, sometimes better known by her performing name Maarja is a pop musician. She has represented her native Estonia in the Eurovision Song Contest twice. Wikipedia",
+            "type": "Musician",
+            "Born ": "December 24, 1980 (age 33), Tallinn, Estonia",
+            "Albums ": [
+                "Maarja-Liis",
+                " First in Line",
+                " Jõuluingel",
+                " Homme",
+                " City Life",
+                " Kaua veel",
+                " Look Around",
+                " Kuldne põld"
+            ],
+            "People also search for": []
+        },
         "Evelyn (name)": {
             "label": "Evelyn Waugh",
             "description": "Arthur Evelyn St. John Waugh, known as Evelyn Waugh, was an English writer of novels, biographies and travel books. He was also a prolific journalist and reviewer. Wikipedia",
@@ -366,136 +383,118 @@
                 "Alec Waugh"
             ],
             "Books": []
-        },
-        "Maarja": {
-            "label": "Maarja-Liis Ilus",
-            "description": "Maarja-Liis Ilus, sometimes better known by her performing name Maarja is a pop musician. She has represented her native Estonia in the Eurovision Song Contest twice. Wikipedia",
-            "type": "Musician",
-            "Born ": "December 24, 1980 (age 33), Tallinn, Estonia",
-            "Albums ": [
-                "Maarja-Liis",
-                " First in Line",
-                " Jõuluingel",
-                " Homme",
-                " City Life",
-                " Kaua veel",
-                " Look Around",
-                " Kuldne põld"
-            ],
-            "People also search for": []
         }
     },
     "summary": {
         "label": 13,
         "description": 13,
         "type": 13,
-        "Born ": 12,
-        "Died ": 8,
-        "Full name ": 6,
-        "Education ": 2,
-        "Parents ": 7,
-        "Children ": 6,
-        "People also search for": 10,
-        "Movies and TV shows ": 2,
-        "Spouse ": 8,
-        "Awards ": 1,
-        "Books": 2,
-        "Release date ": 1,
-        "Songs": 1,
-        "Siblings ": 5,
-        "Nationality ": 1,
-        "Nickname ": 1,
-        "Assassinated ": 1,
-        "Books ": 1,
-        "Albums ": 1
+        "born": 1,
+        "died": 1,
+        "full_name": 1,
+        "education": 1,
+        "parents": 1,
+        "children": 1,
+        "people_also_search_for": 1,
+        "movies_and_tv_shows": 1,
+        "spouse": 1,
+        "awards": 1,
+        "books": 1,
+        "release_date": 1,
+        "songs": 1,
+        "nationality": 1,
+        "siblings": 1,
+        "nickname": 1,
+        "assassinated": 1,
+        "albums": 1
     },
     "infoboxless": [
         "Adalbert (given name)",
         "Albin (given name)",
-        "Alma (given name)",
+        "Alexander",
         "Alice (given name)",
-        "Amelia (given name)",
+        "Alma (given name)",
         "Amalia (given name)",
-        "Ava (given name)",
+        "Amelia (given name)",
+        "Anastasia",
+        "Anneliese",
+        "Antoinette",
         "Augustina",
+        "Ava (given name)",
         "Bądzsław",
+        "Bratislav",
         "Celia (given name)",
         "Charlotte (given name)",
         "Clough (disambiguation)",
-        "Edmund (given name)",
+        "Cornelius",
         "Dušan",
+        "Edmund (given name)",
         "Elín",
+        "Eugénie",
         "Eugene (given name)",
         "Eva (name)",
         "Eve (name)",
+        "Ferdinand",
         "Frank (given name)",
+        "Friedemann",
+        "Götz",
         "Gabriel (name)",
+        "Gottfried",
         "Gul (name)",
         "Hannelore",
-        "Holger (given name)",
         "Helene (name)",
+        "Hieronymus",
+        "Holger (given name)",
         "Hoon (disambiguation)",
         "Ingrid (given name)",
-        "Kai (name)",
         "Iris (given name)",
         "Jay (given name)",
         "Joaquín (given name)",
+        "Kai (name)",
         "Kimberly (given name)",
         "Kirsten (given name)",
+        "Kvetoslav",
+        "Ljuba (name)",
         "Louise (given name)",
         "Maria (given name)",
         "Marianne (given name)",
         "Martina (given name)",
-        "Ljuba (name)",
         "Milka (given name)",
         "Miranda (given name)",
         "Pia (name)",
         "Ruth (given name)",
+        "Sa‘id",
         "Sabrina (given name)",
         "Seán",
+        "Sobieslaw",
         "Sonia (name)",
+        "Stanislava",
         "Stefania (name)",
         "Stella (given name)",
+        "Stephanie",
         "Valerie (given name)",
         "Veronica (given name)",
+        "Vladislav",
+        "Vlastimil",
+        "Yoshihito",
         "A'isha (name)",
         "Adam (given name)",
+        "Alexandra",
         "Alexis (disambiguation)",
+        "Anastasius",
         "Beatrice (given name)",
         "Cassi (disambiguation)",
-        "Hermione (mythology)",
-        "George (given name)",
-        "John (given name)",
-        "Sebastian (name)",
-        "Helmi (given name)",
-        "İzel",
-        "Rebecca (given name)",
-        "Alexander",
-        "Antoinette",
-        "Anneliese",
-        "Bratislav",
-        "Eugénie",
-        "Cornelius",
-        "Ferdinand",
-        "Gottfried",
-        "Friedemann",
-        "Anastasia",
-        "Götz",
-        "Hieronymus",
-        "Kvetoslav",
-        "Stanislava",
-        "Sa‘id",
-        "Sobieslaw",
-        "Stephanie",
-        "Vlastimil",
-        "Anastasius",
-        "Vladislav",
-        "Alexandra",
         "Demetrius",
         "Franciscus",
-        "Rauno",
-        "Yoshihito",
+        "George (given name)",
+        "Hermione (mythology)",
         "Hermogenes",
+        "John (given name)",
+        "Sebastian (name)",
+        "İzel",
+        "Helmi (given name)",
+        "Rauno",
+        "Rebecca (given name)",
         "Eino"
     ]
 }

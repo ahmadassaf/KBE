@@ -1,5 +1,17 @@
 {
     "instances": {
+        "Ælle of Sussex": {
+            "label": "Ælle of Sussex",
+            "description": "Ælle is recorded in early sources as the first king of the South Saxons, reigning in what is now called Sussex, England, from 477 to perhaps as late as 514. Wikipedia",
+            "type": "",
+            "Died ": [
+                "510 AD"
+            ],
+            "Children ": [
+                "Cissa of Sussex"
+            ],
+            "People also search for": []
+        },
         "Æthelbald of Mercia": {
             "label": "Æthelbald of Mercia",
             "description": "Æthelbald was the King of Mercia, in what is now the English Midlands from 716 until he was killed in 757. Wikipedia",
@@ -10,10 +22,24 @@
             ],
             "People also search for": []
         },
+        "Æthelberht II of East Anglia": {
+            "label": "Æthelberht II of East Anglia",
+            "description": "Æthelberht, also called Saint Ethelbert the King, was an eighth-century saint and a king of East Anglia, the Anglo-Saxon kingdom which today includes the English counties of Norfolk and Suffolk. Wikipedia",
+            "type": "Saint",
+            "Died ": [
+                "May 20",
+                " 794 AD"
+            ],
+            "Parents ": [
+                "Æthelred I of East Anglia",
+                " Ælfwald of East Anglia"
+            ],
+            "People also search for": []
+        },
         "Æthelwold of East Anglia": {
             "label": "Æthelwold of East Anglia",
             "description": "Æthelwold, also known as Æthelwald or Æþelwald, was a 7th-century king of East Anglia, the long-lived Anglo-Saxon kingdom which today includes the English counties of Norfolk and Suffolk. Wikipedia",
-            "type": "",
+            "type": "King of East Anglia",
             "Died ": [
                 "664 AD"
             ],
@@ -29,10 +55,10 @@
                 " Eorpwald of East Anglia",
                 " Ealdwulf of East Anglia",
                 " Ælfwald of East Anglia",
-                " Anna of East Anglia",
-                " Ricberht of East Anglia",
                 " Tytila of East Anglia",
+                " Ricberht of East Anglia",
                 " Ecgric of East Anglia",
+                " Anna of East Anglia",
                 " Sigeberht of East Anglia",
                 " Wuffa of East Anglia",
                 " Wehha of East Anglia",
@@ -41,36 +67,10 @@
                 " Eadwald of East Anglia",
                 " Swithhelm of Essex",
                 " Beonna of East Anglia",
+                " Æthelred of Mercia",
                 " Peada of Mercia",
-                " Alberht of East Anglia",
-                " Æthelred of MerciaMore"
+                " Alberht of East AngliaMore"
             ]
-        },
-        "Ælle of Sussex": {
-            "label": "Ælle of Sussex",
-            "description": "Ælle is recorded in early sources as the first king of the South Saxons, reigning in what is now called Sussex, England, from 477 to perhaps as late as 514. Wikipedia",
-            "type": "",
-            "Died ": [
-                "510 AD"
-            ],
-            "Children ": [
-                "Cissa of Sussex"
-            ],
-            "People also search for": []
-        },
-        "Æthelberht II of East Anglia": {
-            "label": "Æthelberht II of East Anglia",
-            "description": "Æthelberht, also called Saint Ethelbert the King, was an eighth-century saint and a king of East Anglia, the Anglo-Saxon kingdom which today includes the English counties of Norfolk and Suffolk. Wikipedia",
-            "type": "",
-            "Died ": [
-                "May 20",
-                " 794 AD"
-            ],
-            "Parents ": [
-                "Æthelred I of East Anglia",
-                " Ælfwald of East Anglia"
-            ],
-            "People also search for": []
         },
         "Ablai Khan": {
             "label": "Ablai Khan",
@@ -101,6 +101,32 @@
                 " Sabrakamani",
                 " SiaspiqaMore"
             ]
+        },
+        "Aldfrith of Northumbria": {
+            "label": "Aldfrith of Northumbria",
+            "description": "Aldfrith was king of Northumbria from 685 until his death. He is described by early writers such as Bede, Alcuin and Stephen of Ripon as a man of great learning. Some of his works and some letters written to him survive. Wikipedia",
+            "type": "",
+            "Died ": [
+                "December 14",
+                " 705 AD",
+                " Driffield",
+                " United Kingdom"
+            ],
+            "Spouse ": [
+                "Cuthburh"
+            ],
+            "Parents ": [
+                "Oswiu of Northumbria"
+            ],
+            "Siblings ": [
+                "Ecgfrith of Northumbria"
+            ],
+            "Children ": [
+                "Osred I of Northumbria",
+                " Osric of Northumbria",
+                " Osana"
+            ],
+            "People also search for": []
         },
         "Al-Muzaffar Umar": {
             "label": "Al-Muzaffar Umar",
@@ -134,32 +160,6 @@
                 " As-Salih AyyubMore"
             ]
         },
-        "Aldfrith of Northumbria": {
-            "label": "Aldfrith of Northumbria",
-            "description": "Aldfrith was king of Northumbria from 685 until his death. He is described by early writers such as Bede, Alcuin and Stephen of Ripon as a man of great learning. Some of his works and some letters written to him survive. Wikipedia",
-            "type": "",
-            "Died ": [
-                "December 14",
-                " 705 AD",
-                " Driffield",
-                " United Kingdom"
-            ],
-            "Spouse ": [
-                "Cuthburh"
-            ],
-            "Parents ": [
-                "Oswiu of Northumbria"
-            ],
-            "Siblings ": [
-                "Ecgfrith of Northumbria"
-            ],
-            "Children ": [
-                "Osred I of Northumbria",
-                " Osric of Northumbria",
-                " Osana"
-            ],
-            "People also search for": []
-        },
         "Apollodotus II": {
             "label": "Apollodotus II",
             "description": "Apollodotus II, was an Indo-Greek king who ruled in the western and eastern parts of Punjab. Bopearachchi dates him to circa 80–65 BCE, and R. C. Senior to circa 85–65 BCE. Wikipedia",
@@ -172,48 +172,15 @@
             ],
             "People also search for": []
         },
-        "Archebius": {
-            "label": "Archebius",
-            "description": "Archebius Dikaios Nikephoros was an Indo-Greek king who ruled in the area of Taxila. Osmund Bopearachchi dates him to circa 90–80 BCE, and R. C. Senior to about the same period. Wikipedia",
+        "Archduke Eugen of Austria": {
+            "label": "Archduke Eugen of Austria",
+            "description": "Archduke Eugen Ferdinand Pius Bernhard Felix Maria of Austria-Teschen was an Archduke of Austria and a Prince of Hungary and Bohemia. He was the last Grand Master of the Teutonic Knights from the Habsburg dynasty. Wikipedia",
             "type": "",
-            "People also search for ": [
-                "Heliokles II",
-                " Philoxenus Anicetus",
-                " Strato I",
-                " Diomedes Soter",
-                " Zoilos I",
-                " Maues",
-                " Amyntas Nikator",
-                " Apollodotus II",
-                " Lysias Anicetus",
-                " Demetrios III",
-                " Hippostratos",
-                " Polyxenos Epiphanes Soter",
-                " Antialcidas",
-                " Apollodotus I",
-                " King Telephos",
-                " Zoilos II",
-                " Dionysios Soter",
-                " Epander",
-                " Antimachus I",
-                " Antimachus IIMore"
-            ]
-        },
-        "Basarab I of Wallachia": {
-            "label": "Basarab I of Wallachia",
-            "description": "Basarab I the Founder Ivanco Basarab according to a medieval Serbian document was voivode or prince of Wallachia. Wikipedia",
-            "type": "",
-            "Died ": [
-                "1352",
-                " Câmpulung",
-                " Romania"
-            ],
+            "Born ": "June 21, 1863, Židlochovice, Czech Republic",
+            "Died ": "December 30, 1954, Merano, Italy",
             "Parents ": [
-                "Thocomerius"
-            ],
-            "Children ": [
-                "Nicholas Alexander of Wallachia",
-                " Theodora of Wallachia"
+                "Archduke Karl Ferdinand of Austria",
+                " Archduchess Elisabeth Franziska of Austria"
             ],
             "People also search for": []
         },
@@ -242,15 +209,20 @@
                 " AnlamaniMore"
             ]
         },
-        "Archduke Eugen of Austria": {
-            "label": "Archduke Eugen of Austria",
-            "description": "Archduke Eugen Ferdinand Pius Bernhard Felix Maria of Austria-Teschen was an Archduke of Austria and a Prince of Hungary and Bohemia. He was the last Grand Master of the Teutonic Knights from the Habsburg dynasty. Wikipedia",
+        "Axayacatl": {
+            "label": "Axayacatl",
+            "description": "Axayacatl of the Postclassic Mesoamerican Aztec Empire and city of Tenochtitlan, who reigned from 1469 to 1481.\nHe is chiefly remembered for subjugating Tlatelolco, Tenochtitlan's sister city, in 1473. Wikipedia",
             "type": "",
-            "Born ": "June 21, 1863, Židlochovice, Czech Republic",
-            "Died ": "December 30, 1954, Merano, Italy",
+            "Died ": [
+                "1481"
+            ],
+            "Children ": [
+                "Moctezuma II",
+                " Cuitláhuac"
+            ],
             "Parents ": [
-                "Archduke Karl Ferdinand of Austria",
-                " Archduchess Elisabeth Franziska of Austria"
+                "Atotoztli II",
+                " Tezozomoc"
             ],
             "People also search for": []
         },
@@ -296,20 +268,21 @@
             ],
             "People also search for": []
         },
-        "Axayacatl": {
-            "label": "Axayacatl",
-            "description": "Axayacatl of the Postclassic Mesoamerican Aztec Empire and city of Tenochtitlan, who reigned from 1469 to 1481.\nHe is chiefly remembered for subjugating Tlatelolco, Tenochtitlan's sister city, in 1473. Wikipedia",
+        "Branimir of Croatia": {
+            "label": "Branimir of Croatia",
+            "description": "Branimir was a ruler of the Duchy of Croatia who reigned as knez from 879 to 892. His country recevied papal recognition as a state from Pope John VIII on 7 June 879. Wikipedia",
             "type": "",
             "Died ": [
-                "1481"
+                "892 AD"
             ],
-            "Children ": [
-                "Moctezuma II",
-                " Cuitláhuac"
-            ],
+            "People also search for": []
+        },
+        "Cissa of Sussex": {
+            "label": "Cissa of Sussex",
+            "description": "Cissa was part of an Anglo-Saxon invasion force that landed in three ships at a place called Cymensora in 477AD. The invasion was led by Cissa's father Ælle and included his two brothers. They are said to have fought against the local Britons. Wikipedia",
+            "type": "",
             "Parents ": [
-                "Atotoztli II",
-                " Tezozomoc"
+                "Ælle of Sussex"
             ],
             "People also search for": []
         },
@@ -321,15 +294,6 @@
             "Died ": "November 23, 1769, Wallachia, Romania",
             "Parents ": [
                 "Nicholas Mavrocordatos"
-            ],
-            "People also search for": []
-        },
-        "Cissa of Sussex": {
-            "label": "Cissa of Sussex",
-            "description": "Cissa was part of an Anglo-Saxon invasion force that landed in three ships at a place called Cymensora in 477AD. The invasion was led by Cissa's father Ælle and included his two brothers. They are said to have fought against the local Britons. Wikipedia",
-            "type": "",
-            "Parents ": [
-                "Ælle of Sussex"
             ],
             "People also search for": []
         },
@@ -359,14 +323,12 @@
             "Died ": "August 21, 1775, Acre, Israel",
             "People also search for": []
         },
-        "Emperor Chūkyō": {
-            "label": "Emperor Chūkyō",
-            "description": "Emperor Chūkyō was the 85th emperor of Japan, according to the traditional order of succession. His reign spanned only months in 1221, and he was not officially listed amongst the emperors until 1870 ... Wikipedia",
+        "Dietrich I von Hengebach": {
+            "label": "Dietrich I von Hengebach",
+            "description": "Dietrich I von Hengebach was the Archbishop of Cologne. He was elected in 1208. He supported Otto of the House of Welf as Holy Roman Emperor and was excommunicated in 1212 by Innocent III. Wikipedia",
             "type": "",
-            "Born ": "October 30, 1218",
-            "Died ": "June 18, 1234",
-            "Parents ": [
-                "Emperor Juntoku"
+            "Born ": [
+                "1150"
             ],
             "People also search for": []
         },
@@ -403,6 +365,51 @@
                 " Ceolwulf I of MerciaMore"
             ]
         },
+        "Basarab I of Wallachia": {
+            "label": "Basarab I of Wallachia",
+            "description": "Basarab I the Founder Ivanco Basarab according to a medieval Serbian document was voivode or prince of Wallachia. Wikipedia",
+            "type": "",
+            "Died ": [
+                "1352",
+                " Câmpulung",
+                " Romania"
+            ],
+            "Parents ": [
+                "Thocomerius"
+            ],
+            "Children ": [
+                "Nicholas Alexander of Wallachia",
+                " Theodora of Wallachia"
+            ],
+            "People also search for": []
+        },
+        "Archebius": {
+            "label": "Archebius",
+            "description": "Archebius Dikaios Nikephoros was an Indo-Greek king who ruled in the area of Taxila. Osmund Bopearachchi dates him to circa 90–80 BCE, and R. C. Senior to about the same period. Wikipedia",
+            "type": "",
+            "People also search for ": [
+                "Heliokles II",
+                " Philoxenus Anicetus",
+                " Strato I",
+                " Diomedes Soter",
+                " Zoilos I",
+                " Maues",
+                " Amyntas Nikator",
+                " Apollodotus II",
+                " Lysias Anicetus",
+                " Demetrios III",
+                " Hippostratos",
+                " Polyxenos Epiphanes Soter",
+                " Antialcidas",
+                " Apollodotus I",
+                " King Telephos",
+                " Zoilos II",
+                " Dionysios Soter",
+                " Epander",
+                " Antimachus I",
+                " Antimachus IIMore"
+            ]
+        },
         "Dionysios Soter": {
             "label": "Dionysios Soter",
             "description": "Dionysios Soter was an Indo-Greek king in the area of eastern Punjab. Wikipedia",
@@ -430,21 +437,35 @@
                 " PantaleonMore"
             ]
         },
-        "Branimir of Croatia": {
-            "label": "Branimir of Croatia",
-            "description": "Branimir was a ruler of the Duchy of Croatia who reigned as knez from 879 to 892. His country recevied papal recognition as a state from Pope John VIII on 7 June 879. Wikipedia",
+        "Emperor Chūkyō": {
+            "label": "Emperor Chūkyō",
+            "description": "Emperor Chūkyō was the 85th emperor of Japan, according to the traditional order of succession. His reign spanned only months in 1221, and he was not officially listed amongst the emperors until 1870 ... Wikipedia",
             "type": "",
-            "Died ": [
-                "892 AD"
+            "Born ": "October 30, 1218",
+            "Died ": "June 18, 1234",
+            "Parents ": [
+                "Emperor Juntoku"
             ],
             "People also search for": []
         },
-        "Dietrich I von Hengebach": {
-            "label": "Dietrich I von Hengebach",
-            "description": "Dietrich I von Hengebach was the Archbishop of Cologne. He was elected in 1208. He supported Otto of the House of Welf as Holy Roman Emperor and was excommunicated in 1212 by Innocent III. Wikipedia",
+        "Empress Kōgyoku": {
+            "label": "Empress Kōgyoku",
+            "description": "Empress Kōgyoku, also known as Empress Saimei, was the 35th and 37th monarch of Japan, according to the traditional order of succession.\nKōgyoku's reign spanned the years from 642–645. Her reign as Saimei encompassed 655–661. Wikipedia",
             "type": "",
             "Born ": [
-                "1150"
+                "August 7",
+                " 594 AD"
+            ],
+            "Died ": [
+                "August 24",
+                " 661 AD"
+            ],
+            "Spouse ": [
+                "Emperor Jomei"
+            ],
+            "Children ": [
+                "Emperor Tenji",
+                " Emperor Tenmu"
             ],
             "People also search for": []
         },
@@ -474,24 +495,14 @@
             ],
             "People also search for": []
         },
-        "Edzard II, Count of East Frisia": {
-            "label": "Edzard II, Count of East Frisia",
-            "description": "Edzard II, Count of East Frisia was count of East Frisia, and the son of Enno II of East Frisia and Anna of Oldenburg.\nDuring his reign, he came into conflict with the city of Emden. Wikipedia",
+        "Empress Meishō": {
+            "label": "Empress Meishō",
+            "description": "Empress Meishō was the 109th Imperial ruler of Japan, according to the traditional order of succession.\nMeishō's reign spanned the years from 1629 to 1643.\nIn the history of Japan, Meishō was the seventh of eight women to become empress regnant. Wikipedia",
             "type": "",
-            "Born ": "June 24, 1532, Greetsiel, Germany",
-            "Died ": "March 1, 1599, Aurich, Germany",
-            "Spouse ": [
-                "Catherine Vasa"
-            ],
-            "Children ": [
-                "Enno III",
-                " Count of East Frisia",
-                " John III of Rietberg"
-            ],
+            "Born ": "January 9, 1624",
+            "Died ": "December 4, 1696",
             "Parents ": [
-                "Enno II",
-                " Count of East Frisia",
-                " Anna of Oldenburg"
+                "Emperor Go-Mizunoo"
             ],
             "People also search for": []
         },
@@ -522,23 +533,39 @@
                 " SumuelMore"
             ]
         },
+        "Ferdinand Kettler": {
+            "label": "Ferdinand Kettler",
+            "description": "Ferdinand Kettler was Duke of Courland and Semigallia from 1730 to 1737. Ferdinand was the son of Jacob Kettler and Louise Charlotte of Brandenburg. Married in 1730 to Johanna Magdalene of Saxe-Weissenfels. Wikipedia",
+            "type": "",
+            "Born ": "November 1, 1655, Jelgava, Latvia",
+            "Died ": "May 4, 1737, Gdańsk, Poland",
+            "Parents ": [
+                "Jacob Kettler",
+                " Margravine Louise Charlotte of Brandenburg"
+            ],
+            "People also search for": []
+        },
+        "Friedrich Kettler": {
+            "label": "Friedrich Kettler",
+            "description": "Friedrich Kettler was Duke of Courland from 1587 to 1642.\nHe was the son of Gotthard Kettler, the first Duke of Courland. Wikipedia",
+            "type": "",
+            "Born ": "November 25, 1569, Jelgava, Latvia",
+            "Died ": "August 17, 1642, Jelgava, Latvia",
+            "Spouse ": [
+                "Elisabeth Magdalena of Pomerania"
+            ],
+            "Parents ": [
+                "Anna of Mecklenburg",
+                " Gotthard Kettler"
+            ],
+            "People also search for": []
+        },
         "Gajah Mada": {
             "label": "Gajah Mada",
             "description": "Gajah Mada was, according to Javanese old manuscripts, poems and mythology, a powerful military leader and mahapatih or prime minister of the Majapahit Empire, credited with bringing the empire to its peak of glory. Wikipedia",
             "type": "",
             "Died ": [
                 "1364"
-            ],
-            "People also search for": []
-        },
-        "Empress Meishō": {
-            "label": "Empress Meishō",
-            "description": "Empress Meishō was the 109th Imperial ruler of Japan, according to the traditional order of succession.\nMeishō's reign spanned the years from 1629 to 1643.\nIn the history of Japan, Meishō was the seventh of eight women to become empress regnant. Wikipedia",
-            "type": "",
-            "Born ": "January 9, 1624",
-            "Died ": "December 4, 1696",
-            "Parents ": [
-                "Emperor Go-Mizunoo"
             ],
             "People also search for": []
         },
@@ -563,49 +590,12 @@
             ],
             "People also search for": []
         },
-        "Emperor Go-Tsuchimikado": {
-            "label": "Emperor Go-Tsuchimikado",
-            "description": "Emperor Go-Tsuchimikado was the 103rd emperor of Japan, according to the traditional order of succession. His reign spanned the years from 1464 through 1500. Wikipedia",
+        "Gebhard Truchsess von Waldburg": {
+            "label": "Gebhard Truchsess von Waldburg",
+            "description": "Gebhard Truchsess von Waldburg was Archbishop-Elector of Cologne. After pursuing an ecclesiastical career, he won a close election in the Cathedral chapter of Cologne over Ernst of Bavaria. Wikipedia",
             "type": "",
-            "Born ": "July 3, 1442",
-            "Died ": "October 21, 1500",
-            "People also search for": []
-        },
-        "Enno II, Count of East Frisia": {
-            "label": "Enno II, Count of East Frisia",
-            "description": "Enno II of East Frisia was the son of Edzard I of East Frisia. In 1528 he became count of East Frisia. For most of his life he ruled together with Johan I of East Frisia, who remained Catholic, while Enno was Lutheran. Wikipedia",
-            "type": "",
-            "Born ": [
-                "1505"
-            ],
-            "Died ": "September 24, 1540, Emden, Germany",
-            "Spouse ": [
-                "Anna of Oldenburg"
-            ],
-            "Parents ": [
-                "Edzard I",
-                " Count of East Frisia"
-            ],
-            "Children ": [
-                "Edzard II",
-                " Count of East Frisia",
-                " Johan II of East Frisia"
-            ],
-            "People also search for": []
-        },
-        "Friedrich Kettler": {
-            "label": "Friedrich Kettler",
-            "description": "Friedrich Kettler was Duke of Courland from 1587 to 1642.\nHe was the son of Gotthard Kettler, the first Duke of Courland. Wikipedia",
-            "type": "",
-            "Born ": "November 25, 1569, Jelgava, Latvia",
-            "Died ": "August 17, 1642, Jelgava, Latvia",
-            "Spouse ": [
-                "Elisabeth Magdalena of Pomerania"
-            ],
-            "Parents ": [
-                "Anna of Mecklenburg",
-                " Gotthard Kettler"
-            ],
+            "Born ": "November 10, 1547, Überlingen, Germany",
+            "Died ": "May 31, 1601, Strasbourg, France",
             "People also search for": []
         },
         "Gediminas": {
@@ -646,13 +636,31 @@
             ],
             "People also search for": []
         },
-        "Gebhard Truchsess von Waldburg": {
-            "label": "Gebhard Truchsess von Waldburg",
-            "description": "Gebhard Truchsess von Waldburg was Archbishop-Elector of Cologne. After pursuing an ecclesiastical career, he won a close election in the Cathedral chapter of Cologne over Ernst of Bavaria. Wikipedia",
+        "Iter-pisha": {
+            "label": "Iter-pisha",
+            "description": "Iter-piša, inscribed in cuneiform as i-te-er-pi/pi4-ša and meaning \"Her command is surpassing\", ca. 1769–1767 BC or ca. 1833–1831 BC, was the 12th king of Isin during the Old Babylonian period. Wikipedia",
             "type": "",
-            "Born ": "November 10, 1547, Überlingen, Germany",
-            "Died ": "May 31, 1601, Strasbourg, France",
-            "People also search for": []
+            "People also search for ": [
+                "Lipit-Enlil",
+                " Ur-du-kuga",
+                " Suen-magir",
+                " Damiq-ilishu",
+                " Zambiya",
+                " Shu-Ilishu",
+                " Bur-Suen",
+                " Silli-Adad",
+                " Sin-Iqisham",
+                " Ur-Ninurta",
+                " Erra-imitti",
+                " Enlil-bani",
+                " Sin-Eribam",
+                " Abisare",
+                " Iddin-Dagan",
+                " Warad-Sin",
+                " Ishme-Dagan",
+                " Nur-Adad",
+                " Kudur-MabukMore"
+            ]
         },
         "Ithobaal I": {
             "label": "Ithobaal I",
@@ -687,15 +695,16 @@
             ],
             "People also search for": []
         },
-        "Ferdinand Kettler": {
-            "label": "Ferdinand Kettler",
-            "description": "Ferdinand Kettler was Duke of Courland and Semigallia from 1730 to 1737. Ferdinand was the son of Jacob Kettler and Louise Charlotte of Brandenburg. Married in 1730 to Johanna Magdalene of Saxe-Weissenfels. Wikipedia",
+        "Jovan Vladimir": {
+            "label": "Jovan Vladimir",
+            "description": "Jovan Vladimir or John Vladimir was the ruler of Duklja, the most powerful Serbian principality of the time, from around 1000 to 1016. He ruled during the protracted war between the Byzantine Empire and the First Bulgarian Empire. Wikipedia",
             "type": "",
-            "Born ": "November 1, 1655, Jelgava, Latvia",
-            "Died ": "May 4, 1737, Gdańsk, Poland",
+            "Died ": "May 22, 1016, Prespa",
+            "Spouse ": [
+                "Theodora Kosara of Bulgaria"
+            ],
             "Parents ": [
-                "Jacob Kettler",
-                " Margravine Louise Charlotte of Brandenburg"
+                "Petrislav of Duklja"
             ],
             "People also search for": []
         },
@@ -717,19 +726,6 @@
             "Children ": [
                 "K'inich Kan B'alam II",
                 " K'inich K'an Joy Chitam II"
-            ],
-            "People also search for": []
-        },
-        "Jovan Vladimir": {
-            "label": "Jovan Vladimir",
-            "description": "Jovan Vladimir or John Vladimir was the ruler of Duklja, the most powerful Serbian principality of the time, from around 1000 to 1016. He ruled during the protracted war between the Byzantine Empire and the First Bulgarian Empire. Wikipedia",
-            "type": "",
-            "Died ": "May 22, 1016, Prespa",
-            "Spouse ": [
-                "Theodora Kosara of Bulgaria"
-            ],
-            "Parents ": [
-                "Petrislav of Duklja"
             ],
             "People also search for": []
         },
@@ -766,32 +762,6 @@
                 " ApollophanesMore"
             ]
         },
-        "Iter-pisha": {
-            "label": "Iter-pisha",
-            "description": "Iter-piša, inscribed in cuneiform as i-te-er-pi/pi4-ša and meaning \"Her command is surpassing\", ca. 1769–1767 BC or ca. 1833–1831 BC, was the 12th king of Isin during the Old Babylonian period. Wikipedia",
-            "type": "",
-            "People also search for ": [
-                "Lipit-Enlil",
-                " Ur-du-kuga",
-                " Suen-magir",
-                " Damiq-ilishu",
-                " Zambiya",
-                " Shu-Ilishu",
-                " Bur-Suen",
-                " Silli-Adad",
-                " Sin-Iqisham",
-                " Ur-Ninurta",
-                " Erra-imitti",
-                " Enlil-bani",
-                " Sin-Eribam",
-                " Abisare",
-                " Iddin-Dagan",
-                " Warad-Sin",
-                " Ishme-Dagan",
-                " Nur-Adad",
-                " Kudur-MabukMore"
-            ]
-        },
         "Kormisosh of Bulgaria": {
             "label": "Kormisosh of Bulgaria",
             "description": "Kormisosh was a ruler of Bulgaria during the 8th century.\nThe Namelist of Bulgarian Rulers states that he belonged to the Ukil clan and ruled for 17 years. Wikipedia",
@@ -810,46 +780,46 @@
             ],
             "People also search for": []
         },
-        "Empress Kōgyoku": {
-            "label": "Empress Kōgyoku",
-            "description": "Empress Kōgyoku, also known as Empress Saimei, was the 35th and 37th monarch of Japan, according to the traditional order of succession.\nKōgyoku's reign spanned the years from 642–645. Her reign as Saimei encompassed 655–661. Wikipedia",
+        "Enno II, Count of East Frisia": {
+            "label": "Enno II, Count of East Frisia",
+            "description": "Enno II of East Frisia was the son of Edzard I of East Frisia. In 1528 he became count of East Frisia. For most of his life he ruled together with Johan I of East Frisia, who remained Catholic, while Enno was Lutheran. Wikipedia",
             "type": "",
             "Born ": [
-                "August 7",
-                " 594 AD"
+                "1505"
             ],
-            "Died ": [
-                "August 24",
-                " 661 AD"
-            ],
+            "Died ": "September 24, 1540, Emden, Germany",
             "Spouse ": [
-                "Emperor Jomei"
+                "Anna of Oldenburg"
+            ],
+            "Parents ": [
+                "Edzard I",
+                " Count of East Frisia"
             ],
             "Children ": [
-                "Emperor Tenji",
-                " Emperor Tenmu"
+                "Edzard II",
+                " Count of East Frisia",
+                " Johan II of East Frisia"
             ],
             "People also search for": []
         },
-        "Lobengula": {
-            "label": "Lobengula",
-            "description": "Lobengula Khumalo was the second and last king of the Ndebele people, usually called Matabele in English. Wikipedia",
+        "Leopold II, Prince of Lippe": {
+            "label": "Leopold II, Prince of Lippe",
+            "description": "Leopold II of Lippe was the sovereign of the Principality of Lippe. He succeeded to the throne in 1802, and in 1820 he assumed control of the government from his mother who had been acting as regent due to his youth at accession. Wikipedia",
             "type": "",
-            "Born ": [
-                "1845",
-                " Matabeleland",
-                " Zimbabwe"
-            ],
-            "Died ": "January 23, 1894, Matabeleland, Zimbabwe",
-            "Parents ": [
-                "Mzilikazi",
-                " Princess of the Swazi House of Sobhuza I"
-            ],
+            "Born ": "November 6, 1796, Detmold, Germany",
+            "Died ": "January 1, 1851, Detmold, Germany",
             "Children ": [
-                "Njube",
-                " Sidojiwa",
-                " Nguboyenja",
-                " Mpezeni"
+                "Leopold III",
+                " Prince of Lippe",
+                " Woldemar",
+                " Prince of Lippe",
+                " Alexander",
+                " Prince of Lippe"
+            ],
+            "Parents ": [
+                "Princess Pauline of Anhalt-Bernburg",
+                " Leopold I",
+                " Prince of Lippe"
             ],
             "People also search for": []
         },
@@ -880,6 +850,14 @@
             ],
             "People also search for": []
         },
+        "Emperor Go-Tsuchimikado": {
+            "label": "Emperor Go-Tsuchimikado",
+            "description": "Emperor Go-Tsuchimikado was the 103rd emperor of Japan, according to the traditional order of succession. His reign spanned the years from 1464 through 1500. Wikipedia",
+            "type": "",
+            "Born ": "July 3, 1442",
+            "Died ": "October 21, 1500",
+            "People also search for": []
+        },
         "Mircea I of Wallachia": {
             "label": "Mircea I of Wallachia",
             "description": "Mircea the Elder was ruler of Wallachia from 1386 until his death. The byname \"elder\" was given to him after his death in order to distinguish him from his grandson Mircea II. Wikipedia",
@@ -905,6 +883,52 @@
             ],
             "Siblings ": [
                 "Dan I of Wallachia"
+            ],
+            "People also search for": []
+        },
+        "Mindaugas": {
+            "label": "Mindaugas",
+            "description": "Mindaugas was the first known Grand Duke of Lithuania and the only King of Lithuania. Little is known of his origins, early life, or rise to power; he is mentioned in a 1219 treaty as an elder duke, and in 1236 as the leader of all the Lithuanians. Wikipedia",
+            "type": "",
+            "Born ": [
+                "1203",
+                " Lithuania"
+            ],
+            "Full name ": [
+                "Mindaugas"
+            ],
+            "Assassinated ": "September 12, 1263, Aglona, Latvia",
+            "Spouse ": [
+                "Morta"
+            ],
+            "Parents ": [
+                "Ryngold"
+            ],
+            "Children ": [
+                "Vaišvilkas",
+                " Daumantas of Pskov"
+            ],
+            "People also search for": []
+        },
+        "Lobengula": {
+            "label": "Lobengula",
+            "description": "Lobengula Khumalo was the second and last king of the Ndebele people, usually called Matabele in English. Wikipedia",
+            "type": "",
+            "Born ": [
+                "1845",
+                " Matabeleland",
+                " Zimbabwe"
+            ],
+            "Died ": "January 23, 1894, Matabeleland, Zimbabwe",
+            "Parents ": [
+                "Mzilikazi",
+                " Princess of the Swazi House of Sobhuza I"
+            ],
+            "Children ": [
+                "Njube",
+                " Sidojiwa",
+                " Nguboyenja",
+                " Mpezeni"
             ],
             "People also search for": []
         },
@@ -935,6 +959,39 @@
                 " Ali Adil Shah I",
                 " Ibrahim Adil Shah I",
                 " Ismail Adil ShahMore"
+            ]
+        },
+        "Mohammed ash-Sheikh": {
+            "label": "Mohammed ash-Sheikh",
+            "description": "Mawlay Mohammed ash-Sheikh ash Sharif al-Hassani al-Drawi at-Tagmaderti was the first sultan of the Saadi dynasty ruling over Morocco. \"Al-Drawi at-Tagmadert\" means the man from the Draa river valley, from Tagmadert. Wikipedia",
+            "type": "",
+            "Died ": "October 23, 1557",
+            "Children ": [
+                "Ahmad al-Mansur",
+                " Abdallah al-Ghalib",
+                " Abu Marwan Abd al-Malik I Saadi"
+            ],
+            "People also search for ": [
+                "Abdallah al-Ghalib",
+                " Abu Marwan Abd al-Malik I Saadi",
+                " Ahmad al-Mansur",
+                " Abu Abdallah Mohammed II Saadi",
+                " Ali Abu Hassun",
+                " Ali ibn Muhammad",
+                " Ahmed al-Hiba",
+                " Yahya ibn Yahya",
+                " Yahya ibn Al-Qassim",
+                " Muhammad ibn Idris",
+                " Al-Hasan ibn Kannun",
+                " Ali ibn Umar",
+                " Abu Abdallah al-Qaim",
+                " Yahya ibn Idris ibn Umar",
+                " Al-Hajjam al-Hasan ibn Muhammad ibn al-Qassim",
+                " Mohammed ben Abdallah",
+                " Yahya ibn Muhammad",
+                " Ahmad al-Araj",
+                " Abu l-Aish Ahmad",
+                " Ibrahim ibn TashfinMore"
             ]
         },
         "Mussius Aemilianus": {
@@ -991,15 +1048,12 @@
             ],
             "See results about": []
         },
-        "Mutara II Rwogera": {
-            "label": "Mutara II Rwogera",
-            "description": "Mutara II Rwogera was the King of Rwanda from 1830 to 1853. Wikipedia",
+        "Nabonassar": {
+            "label": "Nabonassar",
+            "description": "Nabû-nāṣir, inscribed in cuneiform as dAG-PAB or dAG-ŠEŠ-ir, Greek Ναβονάσσαρος from whence comes \"Nabonassar\", and meaning \"Nabû protector\", was the king of Babylon 747–732 BC, beginning a new era characterized by the systematic maintenance of ... Wikipedia",
             "type": "",
-            "Born ": [
-                "1802"
-            ],
             "Died ": [
-                "1853"
+                "734 BC"
             ],
             "People also search for": []
         },
@@ -1030,60 +1084,6 @@
                 " Nabu-shuma-ishkunMore"
             ]
         },
-        "Nabonassar": {
-            "label": "Nabonassar",
-            "description": "Nabû-nāṣir, inscribed in cuneiform as dAG-PAB or dAG-ŠEŠ-ir, Greek Ναβονάσσαρος from whence comes \"Nabonassar\", and meaning \"Nabû protector\", was the king of Babylon 747–732 BC, beginning a new era characterized by the systematic maintenance of ... Wikipedia",
-            "type": "",
-            "Died ": [
-                "734 BC"
-            ],
-            "People also search for": []
-        },
-        "Leopold II, Prince of Lippe": {
-            "label": "Leopold II, Prince of Lippe",
-            "description": "Leopold II of Lippe was the sovereign of the Principality of Lippe. He succeeded to the throne in 1802, and in 1820 he assumed control of the government from his mother who had been acting as regent due to his youth at accession. Wikipedia",
-            "type": "",
-            "Born ": "November 6, 1796, Detmold, Germany",
-            "Died ": "January 1, 1851, Detmold, Germany",
-            "Children ": [
-                "Leopold III",
-                " Prince of Lippe",
-                " Woldemar",
-                " Prince of Lippe",
-                " Alexander",
-                " Prince of Lippe"
-            ],
-            "Parents ": [
-                "Princess Pauline of Anhalt-Bernburg",
-                " Leopold I",
-                " Prince of Lippe"
-            ],
-            "People also search for": []
-        },
-        "Mindaugas": {
-            "label": "Mindaugas",
-            "description": "Mindaugas was the first known Grand Duke of Lithuania and the only King of Lithuania. Little is known of his origins, early life, or rise to power; he is mentioned in a 1219 treaty as an elder duke, and in 1236 as the leader of all the Lithuanians. Wikipedia",
-            "type": "",
-            "Born ": [
-                "1203",
-                " Lithuania"
-            ],
-            "Full name ": [
-                "Mindaugas"
-            ],
-            "Assassinated ": "September 12, 1263, Aglona, Latvia",
-            "Spouse ": [
-                "Morta"
-            ],
-            "Parents ": [
-                "Ryngold"
-            ],
-            "Children ": [
-                "Vaišvilkas",
-                " Daumantas of Pskov"
-            ],
-            "People also search for": []
-        },
         "Neithhotep": {
             "label": "Neithhotep",
             "description": "Neithhotep was the first queen of ancient Egypt, cofounder of the First dynasty, and is the earliest woman in history whose name is known. The name Neithhotep means \"[The Goddess] Neith is satisfied\". Wikipedia",
@@ -1091,6 +1091,22 @@
             "Children ": [
                 "Hor-Aha",
                 " Benerib"
+            ],
+            "People also search for": []
+        },
+        "Nepotianus": {
+            "label": "Nepotianus",
+            "description": "Iulius Nepotianus, commonly known in English as Nepotian, was a member of the Constantinian dynasty who reigned as a short-lived usurper of the Roman Empire. Wikipedia",
+            "type": "",
+            "Died ": [
+                "June 30",
+                " 350 AD",
+                " Rome",
+                " Italy"
+            ],
+            "Parents ": [
+                "Virius Nepotianus",
+                " Eutropia"
             ],
             "People also search for": []
         },
@@ -1114,55 +1130,6 @@
             "Children ": [
                 "Magnus",
                 " Duke of Saxony"
-            ],
-            "People also search for": []
-        },
-        "Mohammed ash-Sheikh": {
-            "label": "Mohammed ash-Sheikh",
-            "description": "Mawlay Mohammed ash-Sheikh ash Sharif al-Hassani al-Drawi at-Tagmaderti was the first sultan of the Saadi dynasty ruling over Morocco. \"Al-Drawi at-Tagmadert\" means the man from the Draa river valley, from Tagmadert. Wikipedia",
-            "type": "",
-            "Died ": "October 23, 1557",
-            "Children ": [
-                "Ahmad al-Mansur",
-                " Abdallah al-Ghalib",
-                " Abu Marwan Abd al-Malik I Saadi"
-            ],
-            "People also search for ": [
-                "Abdallah al-Ghalib",
-                " Abu Marwan Abd al-Malik I Saadi",
-                " Ahmad al-Mansur",
-                " Abu Abdallah Mohammed II Saadi",
-                " Ali Abu Hassun",
-                " Ali ibn Muhammad",
-                " Ahmed al-Hiba",
-                " Yahya ibn Yahya",
-                " Yahya ibn Al-Qassim",
-                " Muhammad ibn Idris",
-                " Al-Hasan ibn Kannun",
-                " Ali ibn Umar",
-                " Abu Abdallah al-Qaim",
-                " Yahya ibn Idris ibn Umar",
-                " Al-Hajjam al-Hasan ibn Muhammad ibn al-Qassim",
-                " Mohammed ben Abdallah",
-                " Yahya ibn Muhammad",
-                " Ahmad al-Araj",
-                " Abu l-Aish Ahmad",
-                " Ibrahim ibn TashfinMore"
-            ]
-        },
-        "Nepotianus": {
-            "label": "Nepotianus",
-            "description": "Iulius Nepotianus, commonly known in English as Nepotian, was a member of the Constantinian dynasty who reigned as a short-lived usurper of the Roman Empire. Wikipedia",
-            "type": "",
-            "Died ": [
-                "June 30",
-                " 350 AD",
-                " Rome",
-                " Italy"
-            ],
-            "Parents ": [
-                "Virius Nepotianus",
-                " Eutropia"
             ],
             "People also search for": []
         },
@@ -1318,119 +1285,6 @@
             ],
             "People also search for": []
         },
-        "Sālote Tupou III": {
-            "label": "Sālote Tupou III",
-            "description": "Sālote Mafile‘o Pilolevu Tupou III, GCMG, GCVO, GBE, DStJ, but usually named only Sālote, was queen regnant of Tonga from 5 April 1918 to her death in 1965. Wikipedia",
-            "type": "",
-            "Born ": "March 13, 1900, Tonga",
-            "Died ": "December 16, 1965, Auckland, New Zealand",
-            "Spouse ": [
-                "Viliami Tungī Mailefihi (m. 1917–1941)"
-            ],
-            "Parents ": [
-                "George Tupou II"
-            ],
-            "Previous office ": [
-                "Queen regnant (1918–1965)"
-            ],
-            "Children ": [
-                "Tāufaʻāhau Tupou IV",
-                " Fatafehi Tu'ipelehake"
-            ],
-            "People also search for": []
-        },
-        "Sa'id of Egypt": {
-            "label": "Sa'id of Egypt",
-            "description": "Muhammad Sa'id Pasha was the Wāli of Egypt and Sudan from 1854 until 1863, officially owing fealty to the Ottoman Sultan but in practice exercising virtual independence. He was the fourth son of Muhammad Ali Pasha. Wikipedia",
-            "type": "",
-            "Born ": "March 17, 1822, Cairo, Egypt",
-            "Died ": "January 18, 1863, Cairo, Egypt",
-            "Parents ": [
-                "Muhammad Ali of Egypt"
-            ],
-            "People also search for": []
-        },
-        "Sabinianus": {
-            "label": "Sabinianus",
-            "description": "Sabinianus was the leader of a revolt against Gordian III in Africa. He proclaimed himself Emperor, but after being defeated by the governor of Mauretania, his supporters in Carthage surrendered him to the imperial authorities. Wikipedia",
-            "type": "",
-            "People also search for": []
-        },
-        "Shammuramat": {
-            "label": "Shammuramat",
-            "description": "Shammuramat or Sammu-ramat was a Queen of Assyria between 811 and 808 BCE. Wikipedia",
-            "type": "",
-            "Spouse ": [
-                "Shamshi-Adad V"
-            ],
-            "Children ": [
-                "Adad-nirari III"
-            ],
-            "People also search for ": [
-                "Shamshi-Adad V",
-                " Adad-nirari III",
-                " Ctesias",
-                " Ara the Beautiful"
-            ]
-        },
-        "Sartaq Khan": {
-            "label": "Sartaq Khan",
-            "description": "Sartaq Khan was the son of Batu Khan and Regent Dowager Khatun Boraqcin of Alchi Tatar. Sartaq succeeded Batu as khan of the Ulus of Jochi.\nIn 1252, Alexander Nevsky met with Sartaq at Sarai. Wikipedia",
-            "type": "",
-            "Died ": [
-                "1256"
-            ],
-            "Parents ": [
-                "Batu Khan"
-            ],
-            "Children ": [
-                "Ulaghchi",
-                " Theodora",
-                " daughter of Sartaq Khan"
-            ],
-            "People also search for": []
-        },
-        "Suen-magir": {
-            "label": "Suen-magir",
-            "description": "Sîn-māgir, inscribed dEN.ZU-ma-gir, “Sîn upholds,” ca. 1763 – 1753 BC or ca. 1827 – 1817 BC was the 14th king of Isin and he reigned for 11 years. Wikipedia",
-            "type": "",
-            "People also search for ": [
-                "Damiq-ilishu",
-                " Lipit-Enlil",
-                " Bur-Suen",
-                " Ur-Ninurta",
-                " Shu-Ilishu",
-                " Ishme-Dagan",
-                " Ur-du-kuga",
-                " Iddin-Dagan",
-                " Warad-Sin",
-                " Iter-pisha",
-                " Erra-imitti",
-                " Sumuel",
-                " Ishbi-Erra",
-                " Apil-Sin",
-                " Enlil-bani",
-                " Gungunum",
-                " Abisare",
-                " Sin-Iddinam",
-                " Rim-Sin I",
-                " Nur-AdadMore"
-            ]
-        },
-        "Stephen Uroš V of Serbia": {
-            "label": "Stephen Uroš V of Serbia",
-            "description": "Saint Stephen Uroš V, also known as Stefan Uroš the Weak, was king of the Serbian Empire as co-regent of his father Stefan Uroš IV Dušan Silni and then Emperor. Wikipedia",
-            "type": "",
-            "Born ": [
-                "1336"
-            ],
-            "Died ": "December 4, 1371",
-            "Parents ": [
-                "Stephen Uroš IV Dušan of Serbia",
-                " Helena of Bulgaria"
-            ],
-            "People also search for": []
-        },
         "Ruaidrí Ua Conchobair": {
             "label": "Rory O'Connor",
             "description": "Ruaidrí Ua Conchobair was King of Connacht from 1156 to 1186, and from 1166 to 1183 was the last High King of Ireland before the Norman invasion.\nRuaidrí was one of over twenty sons of King Tairrdelbach Ua Conchobair. Wikipedia",
@@ -1482,6 +1336,74 @@
             ],
             "See results about": []
         },
+        "Rudolf Christian, Count of East Frisia": {
+            "label": "Rudolf Christian, Count of East Frisia",
+            "description": "Rudolf Christian of Ostfriesland, Count of East Frisia, was count of East Frisia, and the second son of Enno III of East Frisia and Anna of Holstein-Gottorp. Wikipedia",
+            "type": "",
+            "Born ": "June 2, 1602, Hage, Germany",
+            "Died ": "April 17, 1628, Hage, Germany",
+            "Parents ": [
+                "Anna of Holstein-Gottorp",
+                " Enno III",
+                " Count of East Frisia"
+            ],
+            "People also search for": []
+        },
+        "Sālote Tupou III": {
+            "label": "Sālote Tupou III",
+            "description": "Sālote Mafile‘o Pilolevu Tupou III, GCMG, GCVO, GBE, DStJ, but usually named only Sālote, was queen regnant of Tonga from 5 April 1918 to her death in 1965. Wikipedia",
+            "type": "",
+            "Born ": "March 13, 1900, Tonga",
+            "Died ": "December 16, 1965, Auckland, New Zealand",
+            "Spouse ": [
+                "Viliami Tungī Mailefihi (m. 1917–1941)"
+            ],
+            "Parents ": [
+                "George Tupou II"
+            ],
+            "Previous office ": [
+                "Queen regnant (1918–1965)"
+            ],
+            "Children ": [
+                "Tāufaʻāhau Tupou IV",
+                " Fatafehi Tu'ipelehake"
+            ],
+            "People also search for": []
+        },
+        "Sa'id of Egypt": {
+            "label": "Sa'id of Egypt",
+            "description": "Muhammad Sa'id Pasha was the Wāli of Egypt and Sudan from 1854 until 1863, officially owing fealty to the Ottoman Sultan but in practice exercising virtual independence. He was the fourth son of Muhammad Ali Pasha. Wikipedia",
+            "type": "",
+            "Born ": "March 17, 1822, Cairo, Egypt",
+            "Died ": "January 18, 1863, Cairo, Egypt",
+            "Parents ": [
+                "Muhammad Ali of Egypt"
+            ],
+            "People also search for": []
+        },
+        "Sabinianus": {
+            "label": "Sabinianus",
+            "description": "Sabinianus was the leader of a revolt against Gordian III in Africa. He proclaimed himself Emperor, but after being defeated by the governor of Mauretania, his supporters in Carthage surrendered him to the imperial authorities. Wikipedia",
+            "type": "",
+            "People also search for": []
+        },
+        "Sartaq Khan": {
+            "label": "Sartaq Khan",
+            "description": "Sartaq Khan was the son of Batu Khan and Regent Dowager Khatun Boraqcin of Alchi Tatar. Sartaq succeeded Batu as khan of the Ulus of Jochi.\nIn 1252, Alexander Nevsky met with Sartaq at Sarai. Wikipedia",
+            "type": "",
+            "Died ": [
+                "1256"
+            ],
+            "Parents ": [
+                "Batu Khan"
+            ],
+            "Children ": [
+                "Ulaghchi",
+                " Theodora",
+                " daughter of Sartaq Khan"
+            ],
+            "People also search for": []
+        },
         "Safdarjung": {
             "label": "Safdarjung",
             "description": "Safdar Jung was the Subadar Nawab of Oudh from 19 March 1739 to 5 October 1754. Wikipedia",
@@ -1496,6 +1418,23 @@
                 "Shuja-ud-Daula"
             ],
             "People also search for": []
+        },
+        "Shammuramat": {
+            "label": "Shammuramat",
+            "description": "Shammuramat or Sammu-ramat was a Queen of Assyria between 811 and 808 BCE. Wikipedia",
+            "type": "",
+            "Spouse ": [
+                "Shamshi-Adad V"
+            ],
+            "Children ": [
+                "Adad-nirari III"
+            ],
+            "People also search for ": [
+                "Shamshi-Adad V",
+                " Adad-nirari III",
+                " Ctesias",
+                " Ara the Beautiful"
+            ]
         },
         "Shu-Ilishu": {
             "label": "Shu-Ilishu",
@@ -1524,18 +1463,6 @@
                 " Sin-IddinamMore"
             ]
         },
-        "Skandagupta": {
-            "label": "Skandagupta",
-            "description": "Skandagupta was a Gupta Emperor of northern India. He is generally considered the last of the great Gupta Emperors. Wikipedia",
-            "type": "",
-            "Died ": [
-                "467 AD"
-            ],
-            "Siblings ": [
-                "Purugupta"
-            ],
-            "People also search for": []
-        },
         "Stephen III of Moldavia": {
             "label": "Stephen III of Moldavia",
             "description": "Stephen III of Moldavia was Prince of Moldavia between 1457 and 1504 and the most prominent representative of the House of Mușat. Wikipedia",
@@ -1560,6 +1487,59 @@
                 " Lady Oltea"
             ],
             "People also search for": []
+        },
+        "Skandagupta": {
+            "label": "Skandagupta",
+            "description": "Skandagupta was a Gupta Emperor of northern India. He is generally considered the last of the great Gupta Emperors. Wikipedia",
+            "type": "",
+            "Died ": [
+                "467 AD"
+            ],
+            "Siblings ": [
+                "Purugupta"
+            ],
+            "People also search for": []
+        },
+        "Stephen Uroš V of Serbia": {
+            "label": "Stephen Uroš V of Serbia",
+            "description": "Saint Stephen Uroš V, also known as Stefan Uroš the Weak, was king of the Serbian Empire as co-regent of his father Stefan Uroš IV Dušan Silni and then Emperor. Wikipedia",
+            "type": "",
+            "Born ": [
+                "1336"
+            ],
+            "Died ": "December 4, 1371",
+            "Parents ": [
+                "Stephen Uroš IV Dušan of Serbia",
+                " Helena of Bulgaria"
+            ],
+            "People also search for": []
+        },
+        "Suen-magir": {
+            "label": "Suen-magir",
+            "description": "Sîn-māgir, inscribed dEN.ZU-ma-gir, “Sîn upholds,” ca. 1763 – 1753 BC or ca. 1827 – 1817 BC was the 14th king of Isin and he reigned for 11 years. Wikipedia",
+            "type": "",
+            "People also search for ": [
+                "Damiq-ilishu",
+                " Lipit-Enlil",
+                " Bur-Suen",
+                " Ur-Ninurta",
+                " Shu-Ilishu",
+                " Ishme-Dagan",
+                " Ur-du-kuga",
+                " Iddin-Dagan",
+                " Warad-Sin",
+                " Iter-pisha",
+                " Erra-imitti",
+                " Sumuel",
+                " Ishbi-Erra",
+                " Apil-Sin",
+                " Enlil-bani",
+                " Gungunum",
+                " Abisare",
+                " Sin-Iddinam",
+                " Rim-Sin I",
+                " Nur-AdadMore"
+            ]
         },
         "Suleiman I of Persia": {
             "label": "Suleiman I of Persia",
@@ -1589,57 +1569,6 @@
                 "Sten Sture the Younger"
             ],
             "People also search for": []
-        },
-        "Vima Takto": {
-            "label": "Vima Takto",
-            "description": "Vima Takto or Vima Taktu was a Kushan emperor reigned c. 80–90 CE. Wikipedia",
-            "type": "",
-            "Children ": [
-                "Vima Kadphises"
-            ],
-            "People also search for": []
-        },
-        "Tiglath-Pileser I": {
-            "label": "Tiglath-Pileser I",
-            "description": "Tiglath-Pileser I was a king of Assyria during the Middle Assyrian period. According to Georges Roux, Tiglath-Pileser was \"one of the two or three great Assyrian monarchs since the days of Shamshi-Adad I\". Wikipedia",
-            "type": "",
-            "Died ": [
-                "1076"
-            ],
-            "Parents ": [
-                "Ashur-resh-ishi I"
-            ],
-            "Children ": [
-                "Ashur-bel-kala"
-            ],
-            "People also search for": []
-        },
-        "Theophilos (king)": {
-            "label": "Theophilos",
-            "description": "Theophilos was a minor Indo-Greek king who ruled for a short time in the Paropamisadae. He was possibly a relative of Zoilos I and is only known from coins. Wikipedia",
-            "type": "",
-            "People also search for ": [
-                "Zoilos II",
-                " Diomedes Soter",
-                " Polyxenos Epiphanes Soter",
-                " Philoxenus Anicetus",
-                " King Telephos",
-                " Lysias Anicetus",
-                " Dionysios Soter",
-                " Zoilos I",
-                " Heliokles II",
-                " Antimachus II",
-                " Strato I",
-                " Demetrios III",
-                " Archebius",
-                " Peukolaos",
-                " King Nicias",
-                " Amyntas Nikator",
-                " Agathokleia",
-                " Antialcidas",
-                " Epander",
-                " ApollophanesMore"
-            ]
         },
         "Taejo of Joseon": {
             "label": "Taejo of Joseon",
@@ -1733,6 +1662,91 @@
             ],
             "People also search for": []
         },
+        "Tahmasp II": {
+            "label": "Tahmasp II",
+            "description": "Tahmasp II or Tahmasebi II was one of the last Safavid rulers of Persia. Tahmasp was the son of Sultan Husayn, the Shah of Iran at that time. When Husayn was forced to abdicate by the Afghans in 1722, Prince Tahmasp wished to claim the throne. Wikipedia",
+            "type": "",
+            "Born ": [
+                "1704"
+            ],
+            "Died ": [
+                "1740",
+                " Sabzevar",
+                " Iran"
+            ],
+            "Parents ": [
+                "Sultan Husayn"
+            ],
+            "Children ": [
+                "Abbas III"
+            ],
+            "People also search for": []
+        },
+        "Theophilos (king)": {
+            "label": "Theophilos",
+            "description": "Theophilos was a minor Indo-Greek king who ruled for a short time in the Paropamisadae. He was possibly a relative of Zoilos I and is only known from coins. Wikipedia",
+            "type": "",
+            "People also search for ": [
+                "Zoilos II",
+                " Diomedes Soter",
+                " Polyxenos Epiphanes Soter",
+                " Philoxenus Anicetus",
+                " King Telephos",
+                " Lysias Anicetus",
+                " Dionysios Soter",
+                " Zoilos I",
+                " Heliokles II",
+                " Antimachus II",
+                " Strato I",
+                " Demetrios III",
+                " Archebius",
+                " Peukolaos",
+                " King Nicias",
+                " Amyntas Nikator",
+                " Agathokleia",
+                " Antialcidas",
+                " Epander",
+                " ApollophanesMore"
+            ]
+        },
+        "Thurisind": {
+            "label": "Thurisind",
+            "description": "Thurisind was king of the Gepids, an East Germanic Gothic people, from c. 548 to 560. He was the penultimate Gepid king, and succeeded King Elemund by staging a coup d'état and forcing the king's son into exile. Wikipedia",
+            "type": "",
+            "Children ": [
+                "Cunimund",
+                " Turismod"
+            ],
+            "People also search for ": [
+                "Audoin",
+                " Cunimund",
+                " Turismod",
+                " Elemund",
+                " Alboin",
+                " Rosamund",
+                " Wacho",
+                " Ardaric",
+                " Walthari",
+                " Liutprand",
+                " King of the Lombards",
+                " HelmichisMore"
+            ]
+        },
+        "Tiglath-Pileser I": {
+            "label": "Tiglath-Pileser I",
+            "description": "Tiglath-Pileser I was a king of Assyria during the Middle Assyrian period. According to Georges Roux, Tiglath-Pileser was \"one of the two or three great Assyrian monarchs since the days of Shamshi-Adad I\". Wikipedia",
+            "type": "",
+            "Died ": [
+                "1076"
+            ],
+            "Parents ": [
+                "Ashur-resh-ishi I"
+            ],
+            "Children ": [
+                "Ashur-bel-kala"
+            ],
+            "People also search for": []
+        },
         "Ur-Ninurta": {
             "label": "Ur-Ninurta",
             "description": "Ur-Ninurta, ca. 1859 – 1832 BC or ca. 1923 – 1896 BC, was the 6th king of the 1st Dynasty of Isin. A usurper, Ur-Ninurta seized the throne on the fall of Lipit-Ištar and held it until his violent death some 28 years later. Wikipedia",
@@ -1760,23 +1774,24 @@
                 " Sin-IddinamMore"
             ]
         },
-        "Tahmasp II": {
-            "label": "Tahmasp II",
-            "description": "Tahmasp II or Tahmasebi II was one of the last Safavid rulers of Persia. Tahmasp was the son of Sultan Husayn, the Shah of Iran at that time. When Husayn was forced to abdicate by the Afghans in 1722, Prince Tahmasp wished to claim the throne. Wikipedia",
+        "Vima Takto": {
+            "label": "Vima Takto",
+            "description": "Vima Takto or Vima Taktu was a Kushan emperor reigned c. 80–90 CE. Wikipedia",
+            "type": "",
+            "Children ": [
+                "Vima Kadphises"
+            ],
+            "People also search for": []
+        },
+        "Mutara II Rwogera": {
+            "label": "Mutara II Rwogera",
+            "description": "Mutara II Rwogera was the King of Rwanda from 1830 to 1853. Wikipedia",
             "type": "",
             "Born ": [
-                "1704"
+                "1802"
             ],
             "Died ": [
-                "1740",
-                " Sabzevar",
-                " Iran"
-            ],
-            "Parents ": [
-                "Sultan Husayn"
-            ],
-            "Children ": [
-                "Abbas III"
+                "1853"
             ],
             "People also search for": []
         },
@@ -1792,39 +1807,24 @@
             ],
             "People also search for": []
         },
-        "Thurisind": {
-            "label": "Thurisind",
-            "description": "Thurisind was king of the Gepids, an East Germanic Gothic people, from c. 548 to 560. He was the penultimate Gepid king, and succeeded King Elemund by staging a coup d'état and forcing the king's son into exile. Wikipedia",
+        "Edzard II, Count of East Frisia": {
+            "label": "Edzard II, Count of East Frisia",
+            "description": "Edzard II, Count of East Frisia was count of East Frisia, and the son of Enno II of East Frisia and Anna of Oldenburg.\nDuring his reign, he came into conflict with the city of Emden. Wikipedia",
             "type": "",
-            "Children ": [
-                "Cunimund",
-                " Turismod"
+            "Born ": "June 24, 1532, Greetsiel, Germany",
+            "Died ": "March 1, 1599, Aurich, Germany",
+            "Spouse ": [
+                "Catherine Vasa"
             ],
-            "People also search for ": [
-                "Audoin",
-                " Cunimund",
-                " Turismod",
-                " Elemund",
-                " Alboin",
-                " Rosamund",
-                " Wacho",
-                " Ardaric",
-                " Walthari",
-                " Liutprand",
-                " King of the Lombards",
-                " HelmichisMore"
-            ]
-        },
-        "Rudolf Christian, Count of East Frisia": {
-            "label": "Rudolf Christian, Count of East Frisia",
-            "description": "Rudolf Christian of Ostfriesland, Count of East Frisia, was count of East Frisia, and the second son of Enno III of East Frisia and Anna of Holstein-Gottorp. Wikipedia",
-            "type": "",
-            "Born ": "June 2, 1602, Hage, Germany",
-            "Died ": "April 17, 1628, Hage, Germany",
+            "Children ": [
+                "Enno III",
+                " Count of East Frisia",
+                " John III of Rietberg"
+            ],
             "Parents ": [
-                "Anna of Holstein-Gottorp",
-                " Enno III",
-                " Count of East Frisia"
+                "Enno II",
+                " Count of East Frisia",
+                " Anna of Oldenburg"
             ],
             "People also search for": []
         }
@@ -1833,26 +1833,25 @@
         "label": 95,
         "description": 95,
         "type": 95,
-        "Died ": 63,
-        "People also search for": 72,
-        "Parents ": 51,
-        "Siblings ": 10,
-        "People also search for ": 23,
-        "Children ": 44,
-        "Born ": 47,
-        "Spouse ": 22,
-        "Full name ": 2,
-        "Structures ": 1,
-        "Education ": 1,
-        "See results about": 2,
-        "Assassinated ": 1,
-        "Previous office ": 2
+        "died": 1,
+        "children": 1,
+        "people_also_search_for": 1,
+        "parents": 1,
+        "siblings": 1,
+        "born": 1,
+        "spouse": 1,
+        "full_name": 1,
+        "assassinated": 1,
+        "structures": 1,
+        "education": 1,
+        "see_results_about": 1,
+        "previous_office": 1
     },
     "infoboxless": [
-        "Amanibakhi",
-        "Ur-du-kuga",
         "Akbar Khan",
+        "Amanibakhi",
+        "Boris II of Bulgaria",
         "Pagan of Bulgaria",
-        "Boris II of Bulgaria"
+        "Ur-du-kuga"
     ]
 }

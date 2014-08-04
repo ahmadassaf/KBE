@@ -21,6 +21,11 @@
             ],
             "People also search for": []
         },
+        "A. Le Coq Arena": {
+            "label": "A. Le Coq Arena",
+            "description": "",
+            "type": ""
+        },
         "İzmir Halkapınar Sport Hall": {
             "label": "İzmir Halkapınar Sport Hall",
             "description": "İzmir Halkapınar Sport Hall is an indoor multi-purpose sport venue that is located in the Halkapınar neighborhood of İzmir, Turkey. The hall has a seating capacity of 10,000 spectators. Wikipedia",
@@ -36,10 +41,15 @@
             ],
             "People also search for": []
         },
-        "A. Le Coq Arena": {
-            "label": "A. Le Coq Arena",
-            "description": "",
-            "type": ""
+        "Auestadion": {
+            "label": "Auestadion",
+            "description": "Auestadion is a multi-use stadium in Kassel, Germany close to the Karlsaue park. It is used mostly for football matches and is the home stadium of KSV Hessen Kassel. The stadium is able to hold 18000 people. Wikipedia",
+            "type": "",
+            "Address ": "Damaschkestraße 1, 34121 Kassel, Germany",
+            "Phone ": [
+                "+49 561 25474"
+            ],
+            "People also search for": []
         },
         "AT&T Park": {
             "label": "AT&T Park",
@@ -65,16 +75,6 @@
                 "Populous"
             ],
             "Upcoming events": []
-        },
-        "Auestadion": {
-            "label": "Auestadion",
-            "description": "Auestadion is a multi-use stadium in Kassel, Germany close to the Karlsaue park. It is used mostly for football matches and is the home stadium of KSV Hessen Kassel. The stadium is able to hold 18000 people. Wikipedia",
-            "type": "",
-            "Address ": "Damaschkestraße 1, 34121 Kassel, Germany",
-            "Phone ": [
-                "+49 561 25474"
-            ],
-            "People also search for": []
         },
         "BMO Field": {
             "label": "BMO Field",
@@ -286,6 +286,18 @@
             ],
             "Upcoming events": []
         },
+        "DW Stadium": {
+            "label": "DW Stadium",
+            "description": "The DW Stadium is a sports stadium in Wigan, Greater Manchester, England, that is leased by Wigan Athletic football club, and home to Wigan Warriors Rugby League, the most successful team in World Rugby League. Wikipedia",
+            "type": "",
+            "Address ": [
+                "Loire Dr",
+                " Robin Park",
+                " Wigan WN5 0UH",
+                " United Kingdom"
+            ],
+            "Upcoming events": []
+        },
         "DKB-Arena": {
             "label": "DKB-Arena",
             "description": "The DKB-Arena, previously known as Ostseestadion, is the home stadium of F.C. Hansa Rostock, a German football club, located in the city of Rostock. Wikipedia",
@@ -343,6 +355,19 @@
             ],
             "People also search for": []
         },
+        "EWE Arena": {
+            "label": "Small EWE Arena",
+            "description": "EWE Arena is a dual indoor sporting arena complex that is located in Oldenburg, Germany. It is a part of the Weser-Ems Halle multi-sporting complex. It contains two main arena halls, the Small EWE Arena, and the Large EWE Arena. Wikipedia",
+            "type": "",
+            "Capacity ": [
+                "4",
+                "100"
+            ],
+            "Opened ": [
+                "2005"
+            ],
+            "People also search for": []
+        },
         "Espenmoos": {
             "label": "Espenmoos",
             "description": "Espenmoos Stadium, is a football stadium in St. Gallen, Switzerland. It was the home ground of the FC St. Gallen until their current stadium AFG Arena opened in 2008. The stadium has since been demolished except for the main seated stand. Wikipedia",
@@ -389,18 +414,6 @@
             ],
             "People also search for": []
         },
-        "DW Stadium": {
-            "label": "DW Stadium",
-            "description": "The DW Stadium is a sports stadium in Wigan, Greater Manchester, England, that is leased by Wigan Athletic football club, and home to Wigan Warriors Rugby League, the most successful team in World Rugby League. Wikipedia",
-            "type": "",
-            "Address ": [
-                "Loire Dr",
-                " Robin Park",
-                " Wigan WN5 0UH",
-                " United Kingdom"
-            ],
-            "Upcoming events": []
-        },
         "FC Dallas Stadium": {
             "label": "FC Dallas Stadium",
             "description": "Toyota Stadium is a soccer-specific stadium with a 20,500-seat capacity, built and owned by the city of Frisco, Texas. Wikipedia",
@@ -441,27 +454,6 @@
             ],
             "People also search for": []
         },
-        "Florence Civic Center": {
-            "label": "Florence Civic Center",
-            "description": "The Florence Civic Center is a 10,000-seat multipurpose arena in Florence, South Carolina. It hosted the infamous eighth WWF In Your House pay-per-view in 1996, during which a storm knocked out the ... Wikipedia",
-            "type": "",
-            "Address ": [
-                "3300 W Radio Dr",
-                " Florence",
-                " SC 29501"
-            ],
-            "Capacity ": [
-                "10",
-                "000"
-            ],
-            "Opened ": [
-                "1993"
-            ],
-            "Hours ": [
-                "(843) 679-4525"
-            ],
-            "Upcoming events": []
-        },
         "Ford Field": {
             "label": "Ford Field",
             "description": "Ford Field is an indoor American football stadium located in Downtown Detroit. It is the home field of the National Football League's Detroit Lions. It is owned by the Detroit/Wayne County Stadium Authority. Wikipedia",
@@ -490,6 +482,27 @@
                 " Inc."
             ],
             "People also search for": []
+        },
+        "Florence Civic Center": {
+            "label": "Florence Civic Center",
+            "description": "The Florence Civic Center is a 10,000-seat multipurpose arena in Florence, South Carolina. It hosted the infamous eighth WWF In Your House pay-per-view in 1996, during which a storm knocked out the ... Wikipedia",
+            "type": "",
+            "Address ": [
+                "3300 W Radio Dr",
+                " Florence",
+                " SC 29501"
+            ],
+            "Capacity ": [
+                "10",
+                "000"
+            ],
+            "Opened ": [
+                "1993"
+            ],
+            "Hours ": [
+                "(843) 679-4525"
+            ],
+            "Upcoming events": []
         },
         "Fraport Arena": {
             "label": "Fraport Arena",
@@ -662,24 +675,6 @@
             ],
             "People also search for": []
         },
-        "Letzigrund": {
-            "label": "Letzigrund",
-            "description": "Letzigrund is a stadium in Zurich, Switzerland, and the home of the football club FC Zürich. It is also temporarily home to the football club Grasshopper Club Zürich while their stadium is under construction. Wikipedia",
-            "type": "",
-            "Address ": "Badenerstrasse 500, 8048 Zürich, Switzerland",
-            "Capacity ": [
-                "30",
-                "000"
-            ],
-            "Phone ": [
-                "+41 44 496 94 94"
-            ],
-            "Teams ": [
-                "FC Zürich",
-                " Grasshopper Club Zürich"
-            ],
-            "People also search for": []
-        },
         "Livestrong Sporting Park": {
             "label": "Sporting Park",
             "description": "Sporting Park is a soccer-specific stadium in Kansas City, Kansas, US, and is the home of Sporting Kansas City. The stadium was renamed in January 2013 after the Livestrong Foundation and Sporting Kansas City ended their agreement. Wikipedia",
@@ -701,20 +696,29 @@
             ],
             "Upcoming events": []
         },
+        "Letzigrund": {
+            "label": "Letzigrund",
+            "description": "Letzigrund is a stadium in Zurich, Switzerland, and the home of the football club FC Zürich. It is also temporarily home to the football club Grasshopper Club Zürich while their stadium is under construction. Wikipedia",
+            "type": "",
+            "Address ": "Badenerstrasse 500, 8048 Zürich, Switzerland",
+            "Capacity ": [
+                "30",
+                "000"
+            ],
+            "Phone ": [
+                "+41 44 496 94 94"
+            ],
+            "Teams ": [
+                "FC Zürich",
+                " Grasshopper Club Zürich"
+            ],
+            "People also search for": []
+        },
         "Lohrheidestadion": {
             "label": "Lohrheidestadion",
             "description": "The Lohrheidestadion is a multi-use stadium in Bochum-Wattenscheid, Germany. It is currently used mostly for football matches and is the home stadium of SG Wattenscheid 09. The stadium is able to hold 16,233 people and opened in 1954. Wikipedia",
             "type": "",
             "Address ": "Lohrheidestraße 82, 44866 Bochum, Germany"
-        },
-        "Marschweg-Stadion": {
-            "label": "Marschweg-Stadion",
-            "description": "Marschweg-Stadion is a multi-use stadium in Oldenburg, Germany . It is used as the stadium of VfB Oldenburg matches. The capacity of the stadium is 15,000 spectators. Wikipedia",
-            "type": "",
-            "Address ": [
-                "Germany"
-            ],
-            "People also search for": []
         },
         "Max-Schmeling-Halle": {
             "label": "Max-Schmeling-Halle",
@@ -733,6 +737,15 @@
             ],
             "Upcoming events": [],
             "Recent posts": []
+        },
+        "Marschweg-Stadion": {
+            "label": "Marschweg-Stadion",
+            "description": "Marschweg-Stadion is a multi-use stadium in Oldenburg, Germany . It is used as the stadium of VfB Oldenburg matches. The capacity of the stadium is 15,000 spectators. Wikipedia",
+            "type": "",
+            "Address ": [
+                "Germany"
+            ],
+            "People also search for": []
         },
         "Melbourne Multi Purpose Venue": {
             "label": "Melbourne Multi Purpose Venue",
@@ -778,20 +791,6 @@
             "Opened ": "May 9, 1973",
             "People also search for": []
         },
-        "National Stadium, Warsaw": {
-            "label": "National Stadium, Warsaw",
-            "description": "The National Stadium is a retractable roof football stadium located in Warsaw, Poland. It is used mostly for football matches and it is the home stadium of Poland national football team. Wikipedia",
-            "type": "",
-            "Address ": [
-                "Al Ks J Poniatowskiego 1",
-                " Warszawa",
-                " Poland"
-            ],
-            "Phone ": [
-                "+48 22 295 90 00"
-            ],
-            "People also search for": []
-        },
         "O2 World (Hamburg)": {
             "label": "O2 World",
             "description": "O2 World Hamburg is a multi-purpose arena in Hamburg, Germany. It opened in 2002 and can hold up to 16,000 people. It is located adjacent to the football stadium Imtech Arena and the new Volksbank Arena in the Bahrenfeld district. Wikipedia",
@@ -816,6 +815,20 @@
             ],
             "Upcoming events": [],
             "Recent posts": []
+        },
+        "National Stadium, Warsaw": {
+            "label": "National Stadium, Warsaw",
+            "description": "The National Stadium is a retractable roof football stadium located in Warsaw, Poland. It is used mostly for football matches and it is the home stadium of Poland national football team. Wikipedia",
+            "type": "",
+            "Address ": [
+                "Al Ks J Poniatowskiego 1",
+                " Warszawa",
+                " Poland"
+            ],
+            "Phone ": [
+                "+48 22 295 90 00"
+            ],
+            "People also search for": []
         },
         "Ombaka National Stadium": {
             "label": "Ombaka National Stadium",
@@ -883,16 +896,6 @@
             ],
             "Recent posts": []
         },
-        "Paul-Janes-Stadion": {
-            "label": "Paul-Janes-Stadion",
-            "description": "The Paul-Janes-Stadion in Düsseldorf-Flingern is one of the home grounds of Fortuna Düsseldorf. It was built in 1930 by the team; now city-owned, it has been named since 1990 after the long-standing ... Wikipedia",
-            "type": "",
-            "Address ": "Flinger Broich 87, 40235 Düsseldorf, Germany",
-            "Phone ": [
-                "+49 211 238010"
-            ],
-            "People also search for": []
-        },
         "Pankritio Stadium": {
             "label": "Pankritio Stadium",
             "description": "Pankritio Stadium is a sports stadium located in Heraklion on the island of Crete. It was completed on December 31, 2003, and officially opened on August 11, 2004, just before the beginning of the 2004 ... Wikipedia",
@@ -903,6 +906,16 @@
             ],
             "Opened ": [
                 "2004"
+            ],
+            "People also search for": []
+        },
+        "Paul-Janes-Stadion": {
+            "label": "Paul-Janes-Stadion",
+            "description": "The Paul-Janes-Stadion in Düsseldorf-Flingern is one of the home grounds of Fortuna Düsseldorf. It was built in 1930 by the team; now city-owned, it has been named since 1990 after the long-standing ... Wikipedia",
+            "type": "",
+            "Address ": "Flinger Broich 87, 40235 Düsseldorf, Germany",
+            "Phone ": [
+                "+49 211 238010"
             ],
             "People also search for": []
         },
@@ -958,6 +971,12 @@
             ],
             "People also search for": []
         },
+        "Rheinlandhalle": {
+            "label": "Rheinlandhalle",
+            "description": "Rheinlandhalle, is an arena in Krefeld, Germany. It is primarily used for ice hockey, and was home to the Krefeld Pinguine of the Deutsche Eishockey Liga until the König Palast opened in 2004. It opened in 1955 and holds 6,714 spectators. Wikipedia",
+            "type": "",
+            "Address ": "Westparkstraße 126, 47803 Krefeld, Germany"
+        },
         "Rheinstadion": {
             "label": "Rheinstadion",
             "description": "The Rheinstadion was a multi-purpose stadium, in Düsseldorf, Germany. The stadium was built, near the Rhine, in 1926 and held 55,900 people, at the end of its life.\nIt was the home ground for Fortuna Düsseldorf from 1953–1970 and 1972–2002. Wikipedia",
@@ -965,24 +984,6 @@
             "Address ": "Europaplatz 5, 40474 Düsseldorf, Germany",
             "Phone ": [
                 "+49 211 8995216"
-            ],
-            "People also search for": []
-        },
-        "Rheinlandhalle": {
-            "label": "Rheinlandhalle",
-            "description": "Rheinlandhalle, is an arena in Krefeld, Germany. It is primarily used for ice hockey, and was home to the Krefeld Pinguine of the Deutsche Eishockey Liga until the König Palast opened in 2004. It opened in 1955 and holds 6,714 spectators. Wikipedia",
-            "type": "",
-            "Address ": "Westparkstraße 126, 47803 Krefeld, Germany"
-        },
-        "Roker Park": {
-            "label": "Roker Park",
-            "description": "Roker Park was an English football stadium situated in Roker, Sunderland. The stadium was the home of the English football club Sunderland A.F.C. from 1897 to 1997 before the club moved to the Stadium of Light. Wikipedia",
-            "type": "",
-            "Opened ": [
-                "1880"
-            ],
-            "Architect ": [
-                "Archibald Leitch"
             ],
             "People also search for": []
         },
@@ -1004,6 +1005,18 @@
             ],
             "Phone ": [
                 "(713) 743-9444"
+            ],
+            "People also search for": []
+        },
+        "Roker Park": {
+            "label": "Roker Park",
+            "description": "Roker Park was an English football stadium situated in Roker, Sunderland. The stadium was the home of the English football club Sunderland A.F.C. from 1897 to 1997 before the club moved to the Stadium of Light. Wikipedia",
+            "type": "",
+            "Opened ": [
+                "1880"
+            ],
+            "Architect ": [
+                "Archibald Leitch"
             ],
             "People also search for": []
         },
@@ -1046,11 +1059,42 @@
             ],
             "Upcoming events": []
         },
+        "SGL arena": {
+            "label": "SGL arena",
+            "description": "SGL arena, until 1 July 2011 the Impuls Arena, is a football stadium in Augsburg, Bavaria, Germany. It is used mostly for football matches and hosts the home matches of FC Augsburg. Wikipedia",
+            "type": "",
+            "Address ": "Bürgermeister-Ulrich-Straße 90, 86199 Augsburg, Germany",
+            "Capacity ": [
+                "30",
+                "660"
+            ],
+            "Opened ": "July 26, 2009",
+            "Team ": [
+                "FC Augsburg"
+            ],
+            "Phone ": [
+                "+49 821 65040510"
+            ],
+            "Upcoming events": []
+        },
         "SNP Stadium": {
             "label": "SNP Stadium",
             "description": "The SNP Stadium is a multi-purpose stadium in Banská Bystrica, Slovakia. It is currently used mostly for football matches and is the home ground of FK Dukla Banská Bystrica. The stadium has a capacity of 10,000, with 7,380 seats. Wikipedia",
             "type": "",
             "People also search for": []
+        },
+        "Sparkassen-Arena": {
+            "label": "Sparkassen-Arena",
+            "description": "The Sparkassen-Arena is an indoor arena, in Kiel, Germany.\nIt is primarily used by THW Kiel and as a venue for rock/pop concerts. It holds up to 13,500 people. Wikipedia",
+            "type": "",
+            "Address ": "Europaplatz 1, 24103 Kiel, Germany",
+            "Hours ": [
+                "+49 431 982100"
+            ],
+            "Phone ": [
+                "THW Kiel"
+            ],
+            "Upcoming events": []
         },
         "Siemens Arena": {
             "label": "Siemens Arena",
@@ -1069,19 +1113,6 @@
                 "+370 5 247 7576"
             ],
             "People also search for": []
-        },
-        "Sparkassen-Arena": {
-            "label": "Sparkassen-Arena",
-            "description": "The Sparkassen-Arena is an indoor arena, in Kiel, Germany.\nIt is primarily used by THW Kiel and as a venue for rock/pop concerts. It holds up to 13,500 people. Wikipedia",
-            "type": "",
-            "Address ": "Europaplatz 1, 24103 Kiel, Germany",
-            "Hours ": [
-                "+49 431 982100"
-            ],
-            "Phone ": [
-                "THW Kiel"
-            ],
-            "Upcoming events": []
         },
         "Sporthalle (Cologne)": {
             "label": "Sporthalle",
@@ -1113,12 +1144,6 @@
             ],
             "People also search for": []
         },
-        "Stade Maurice Boyau": {
-            "label": "Stade Maurice Boyau",
-            "description": "Stade Maurice Boyau is a multi-use stadium in Dax, France. It is currently used mostly for rugby union matches and is the home stadium of US Dax. The stadium is able to hold 15,000 people. Wikipedia",
-            "type": "",
-            "People also search for": []
-        },
         "Stade Olympique de Sousse": {
             "label": "Stade Olympique de Sousse",
             "description": "Stade Olympique de Sousse is a multi-purpose stadium in Sousse, Tunisia. It is used by the football team Etoile Sahel, and was used for the 2004 African Cup of Nations. The stadium holds 30,000 people. Wikipedia",
@@ -1135,6 +1160,12 @@
             "Team ": [
                 "Étoile du Sahel"
             ],
+            "People also search for": []
+        },
+        "Stade Maurice Boyau": {
+            "label": "Stade Maurice Boyau",
+            "description": "Stade Maurice Boyau is a multi-use stadium in Dax, France. It is currently used mostly for rugby union matches and is the home stadium of US Dax. The stadium is able to hold 15,000 people. Wikipedia",
+            "type": "",
             "People also search for": []
         },
         "Stade d'Angondjé": {
@@ -1206,16 +1237,6 @@
                 "Theo Nussbaum"
             ]
         },
-        "Stadion an der Kreuzeiche": {
-            "label": "Stadion an der Kreuzeiche",
-            "description": "Stadion an der Kreuzeiche is a multi-use stadium in Reutlingen, Germany. It is used mostly for football matches and is the home stadium of SSV Reutlingen. The stadium is able to hold 15,228 people and was opened in 1953. Wikipedia",
-            "type": "",
-            "Address ": "An der Kreuzeiche 23, 72762 Reutlingen, Germany",
-            "Phone ": [
-                "+49 7121 3030"
-            ],
-            "People also search for": []
-        },
         "Stadion der Freundschaft (Cottbus)": {
             "label": "Stadion der Freundschaft",
             "description": "The Stadion der Freundschaft is a football stadium in Cottbus, Germany. The home ground of FC Energie Cottbus, originally opened in 1930, has a capacity of 22,528. Wikipedia",
@@ -1225,6 +1246,16 @@
                 "+49 355 756950"
             ],
             "Upcoming events": []
+        },
+        "Stadion an der Kreuzeiche": {
+            "label": "Stadion an der Kreuzeiche",
+            "description": "Stadion an der Kreuzeiche is a multi-use stadium in Reutlingen, Germany. It is used mostly for football matches and is the home stadium of SSV Reutlingen. The stadium is able to hold 15,228 people and was opened in 1953. Wikipedia",
+            "type": "",
+            "Address ": "An der Kreuzeiche 23, 72762 Reutlingen, Germany",
+            "Phone ": [
+                "+49 7121 3030"
+            ],
+            "People also search for": []
         },
         "Stadion města Plzně": {
             "label": "Doosan Arena",
@@ -1250,6 +1281,13 @@
             ],
             "People also search for": []
         },
+        "Stožice Sports Park": {
+            "label": "Stožice Sports Park",
+            "description": "Stožice Sports Park is a new multi-use sports complex in Ljubljana, Slovenia, that hosts all departments of Olimpija Ljubljana sports club, former women's European club champions Krim and other Ljubljana ... Wikipedia",
+            "type": "",
+            "Opened ": "August 10, 2010",
+            "People also search for": []
+        },
         "Stadionul Dan Păltinişanu": {
             "label": "Stadionul Dan Păltinișanu",
             "description": "Stadionul Dan Paltinisanu is a multi-purpose stadium in Timişoara, Romania. It is currently used mostly for football matches by the local team, Poli Timişoara. Wikipedia",
@@ -1266,31 +1304,6 @@
                 "972"
             ],
             "People also search for": []
-        },
-        "Stožice Sports Park": {
-            "label": "Stožice Sports Park",
-            "description": "Stožice Sports Park is a new multi-use sports complex in Ljubljana, Slovenia, that hosts all departments of Olimpija Ljubljana sports club, former women's European club champions Krim and other Ljubljana ... Wikipedia",
-            "type": "",
-            "Opened ": "August 10, 2010",
-            "People also search for": []
-        },
-        "SGL arena": {
-            "label": "SGL arena",
-            "description": "SGL arena, until 1 July 2011 the Impuls Arena, is a football stadium in Augsburg, Bavaria, Germany. It is used mostly for football matches and hosts the home matches of FC Augsburg. Wikipedia",
-            "type": "",
-            "Address ": "Bürgermeister-Ulrich-Straße 90, 86199 Augsburg, Germany",
-            "Capacity ": [
-                "30",
-                "660"
-            ],
-            "Opened ": "July 26, 2009",
-            "Team ": [
-                "FC Augsburg"
-            ],
-            "Phone ": [
-                "+49 821 65040510"
-            ],
-            "Upcoming events": []
         },
         "Sun Life Stadium": {
             "label": "Sun Life Stadium",
@@ -1318,19 +1331,6 @@
                 " Miami Dolphins"
             ],
             "People also search for": []
-        },
-        "TUI Arena": {
-            "label": "TUI Arena",
-            "description": "TUI Arena is an arena in Hanover, Germany. The arena opened in 2000 and holds 10,767, during hockey or handball matches and up to 14,000, during concerts. Wikipedia",
-            "type": "",
-            "Address ": "Expo Plaza 7, 30539 Hannover, Germany",
-            "Phone ": [
-                "+49 511 870010"
-            ],
-            "Team ": [
-                "Hannover Scorpions"
-            ],
-            "Upcoming events": []
         },
         "Tehelné pole": {
             "label": "Tehelné pole",
@@ -1438,6 +1438,15 @@
             ],
             "People also search for": []
         },
+        "Victoria Stadium (Gibraltar)": {
+            "label": "Victoria Stadium",
+            "description": "Victoria Stadium is a multi-purpose stadium in Gibraltar. It is currently used mostly for football matches and holds about 5,000 people. It is located close to the Gibraltar Airport just off Winston Churchill Avenue. Wikipedia",
+            "type": "",
+            "Address ": [
+                "Gibraltar"
+            ],
+            "People also search for": []
+        },
         "Vaillant Arena": {
             "label": "Vaillant Arena",
             "description": "Vaillant Arena is an arena in Davos, Switzerland. It is primarily used for ice hockey and is the home arena of HC Davos. It holds 7,080 people, of which 3,280 are seated. Every year the Spengler Cup is played in this arena. Wikipedia",
@@ -1452,15 +1461,6 @@
             ],
             "Phone ": [
                 "+41 81 415 36 00"
-            ],
-            "People also search for": []
-        },
-        "Victoria Stadium (Gibraltar)": {
-            "label": "Victoria Stadium",
-            "description": "Victoria Stadium is a multi-purpose stadium in Gibraltar. It is currently used mostly for football matches and holds about 5,000 people. It is located close to the Gibraltar Airport just off Winston Churchill Avenue. Wikipedia",
-            "type": "",
-            "Address ": [
-                "Gibraltar"
             ],
             "People also search for": []
         },
@@ -1513,6 +1513,19 @@
             ],
             "Upcoming events": []
         },
+        "TUI Arena": {
+            "label": "TUI Arena",
+            "description": "TUI Arena is an arena in Hanover, Germany. The arena opened in 2000 and holds 10,767, during hockey or handball matches and up to 14,000, during concerts. Wikipedia",
+            "type": "",
+            "Address ": "Expo Plaza 7, 30539 Hannover, Germany",
+            "Phone ": [
+                "+49 511 870010"
+            ],
+            "Team ": [
+                "Hannover Scorpions"
+            ],
+            "Upcoming events": []
+        },
         "Werk Arena": {
             "label": "Werk Arena",
             "description": "Werk Arena is an indoor sporting arena located in Třinec, Czech Republic. The capacity of the arena is 5,200 people of which 3700 are seats.\nThe arena was built in 1967, the roof was provided in 1976. Wikipedia",
@@ -1533,6 +1546,24 @@
                 "HC Oceláři Třinec"
             ],
             "People also search for": []
+        },
+        "Wormatia-Stadion": {
+            "label": "Wormatia-Stadion",
+            "description": "EWR-Arena is a multi-use stadium in Worms, Germany. It is currently used mostly for football matches and is the home of Wormatia Worms. The stadium has a capacity of 5,724 people. Wikipedia",
+            "type": "",
+            "Address ": [
+                "Germany"
+            ]
+        },
+        "Wiener Stadthalle": {
+            "label": "Wiener Stadthalle",
+            "description": "Wiener Stadthalle is an indoor arena, located in the 15th district of Vienna, Austria. It was designed by Austrian architect Roland Rainer and built from 1953–1958. The arena has an overall seating capacity of approximately 16,000 people. Wikipedia",
+            "type": "",
+            "Address ": "Vogelweidplatz 14, 1150 Wien, Austria",
+            "Phone ": [
+                "+43 1 981000"
+            ],
+            "Upcoming events": []
         },
         "White City Stadium": {
             "label": "White City Stadium",
@@ -1557,24 +1588,6 @@
             ],
             "People also search for": []
         },
-        "Wiener Stadthalle": {
-            "label": "Wiener Stadthalle",
-            "description": "Wiener Stadthalle is an indoor arena, located in the 15th district of Vienna, Austria. It was designed by Austrian architect Roland Rainer and built from 1953–1958. The arena has an overall seating capacity of approximately 16,000 people. Wikipedia",
-            "type": "",
-            "Address ": "Vogelweidplatz 14, 1150 Wien, Austria",
-            "Phone ": [
-                "+43 1 981000"
-            ],
-            "Upcoming events": []
-        },
-        "Wormatia-Stadion": {
-            "label": "Wormatia-Stadion",
-            "description": "EWR-Arena is a multi-use stadium in Worms, Germany. It is currently used mostly for football matches and is the home of Wormatia Worms. The stadium has a capacity of 5,724 people. Wikipedia",
-            "type": "",
-            "Address ": [
-                "Germany"
-            ]
-        },
         "Zimní stadion Hradec Králové": {
             "label": "Zimní stadion Hradec Králové",
             "description": "Zimní stadion Hradec Králové, is an arena in Hradec Králové, Czech Republic. It is primarily used for ice hockey, and is the home to the HC VCES Hradec Králové of the Czech Extraliga. It opened in 1957 and holds 7,700 spectators. Wikipedia",
@@ -1584,30 +1597,6 @@
                 " 500 02 Hradec Králové",
                 " Czech Republic"
             ]
-        },
-        "Ōita Bank Dome": {
-            "label": "Ōita Bank Dome",
-            "description": "Ōita Bank Dome is a multi-purpose stadium in the city of Ōita in Ōita Prefecture on Kyushu Island in Japan.\nThe stadium is currently called Ōita Bank Dome, or Daigin Dome as an abbreviated form, by naming rights. Wikipedia",
-            "type": "",
-            "Address ": [
-                "1351 Yokoo",
-                " Ōita",
-                " Oita Prefecture 870-0126",
-                " Japan"
-            ],
-            "Opened ": [
-                "2001"
-            ],
-            "Phone ": [
-                "+81 97-528-7700"
-            ],
-            "Team ": [
-                "Oita Trinita"
-            ],
-            "Architect ": [
-                "Kisho Kurokawa"
-            ],
-            "People also search for": []
         },
         "Şükrü Saracoğlu Stadium": {
             "label": "Şükrü Saracoğlu Stadium",
@@ -1635,16 +1624,27 @@
             ],
             "Upcoming events": []
         },
-        "EWE Arena": {
-            "label": "Small EWE Arena",
-            "description": "EWE Arena is a dual indoor sporting arena complex that is located in Oldenburg, Germany. It is a part of the Weser-Ems Halle multi-sporting complex. It contains two main arena halls, the Small EWE Arena, and the Large EWE Arena. Wikipedia",
+        "Ōita Bank Dome": {
+            "label": "Ōita Bank Dome",
+            "description": "Ōita Bank Dome is a multi-purpose stadium in the city of Ōita in Ōita Prefecture on Kyushu Island in Japan.\nThe stadium is currently called Ōita Bank Dome, or Daigin Dome as an abbreviated form, by naming rights. Wikipedia",
             "type": "",
-            "Capacity ": [
-                "4",
-                "100"
+            "Address ": [
+                "1351 Yokoo",
+                " Ōita",
+                " Oita Prefecture 870-0126",
+                " Japan"
             ],
             "Opened ": [
-                "2005"
+                "2001"
+            ],
+            "Phone ": [
+                "+81 97-528-7700"
+            ],
+            "Team ": [
+                "Oita Trinita"
+            ],
+            "Architect ": [
+                "Kisho Kurokawa"
             ],
             "People also search for": []
         }
@@ -1653,23 +1653,23 @@
         "label": 100,
         "description": 100,
         "type": 100,
-        "Address ": 86,
-        "Capacity ": 47,
-        "Opened ": 50,
-        "Team ": 38,
-        "People also search for": 62,
-        "Phone ": 58,
-        "Architecture firm ": 5,
-        "Upcoming events": 30,
-        "Hours ": 13,
-        "Province ": 2,
-        "Architect ": 6,
-        "Teams ": 5,
-        "Function ": 2,
-        "Recent posts": 3,
-        "Elevation ": 1,
-        "Architects ": 1,
-        "Construction started ": 1
+        "address": 1,
+        "capacity": 1,
+        "opened": 1,
+        "team": 1,
+        "people_also_search_for": 1,
+        "phone": 1,
+        "architecture_firm": 1,
+        "upcoming_events": 1,
+        "hours": 1,
+        "province": 1,
+        "architect": 1,
+        "teams": 1,
+        "function": 1,
+        "recent_posts": 1,
+        "elevation": 1,
+        "architects": 1,
+        "construction_started": 1
     },
     "infoboxless": []
 }

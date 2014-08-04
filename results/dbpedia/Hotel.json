@@ -1,5 +1,11 @@
 {
     "instances": {
+        "Atlanta Marriott Marquis": {
+            "label": "Atlanta Marriott Marquis",
+            "description": "",
+            "type": "",
+            "People also search for": []
+        },
         "Atlantis, The Palm": {
             "label": "Atlantis, The Palm",
             "description": "Atlantis, The Palm is a resort located on Dubai’s reclaimed artificial island The Palm. It was the first resort to be built on the island and is based on the myth of Atlantis includes distinct Arabian elements. Wikipedia",
@@ -9,12 +15,6 @@
                 " Palm Jumeirah - Dubai - United Arab Emirates"
             ],
             "Recent posts": []
-        },
-        "Atlanta Marriott Marquis": {
-            "label": "Atlanta Marriott Marquis",
-            "description": "",
-            "type": "",
-            "People also search for": []
         },
         "Casapueblo": {
             "label": "Casapueblo",
@@ -33,12 +33,6 @@
             "Architect ": [
                 "Carlos Páez Vilaró"
             ],
-            "People also search for": []
-        },
-        "Falaknuma Palace": {
-            "label": "Taj Falaknuma Palace",
-            "description": "",
-            "type": "",
             "People also search for": []
         },
         "Jumeirah Beach Hotel": {
@@ -107,6 +101,12 @@
             ],
             "People also search for": []
         },
+        "Falaknuma Palace": {
+            "label": "Taj Falaknuma Palace",
+            "description": "",
+            "type": "",
+            "People also search for": []
+        },
         "Waldorf-Astoria Hotel": {
             "label": "Waldorf Astoria Hotels & Resorts",
             "description": "Waldorf Astoria Hotels & Resorts is a Hilton Worldwide luxury hotel and resort brand. It is positioned as the flagship brand within Hilton's portfolio, being used on hotels which offer the highest standards of facilities and service. Wikipedia",
@@ -168,6 +168,12 @@
             ],
             "People also search for": []
         },
+        "Claridge's": {
+            "label": "Claridge's",
+            "description": "",
+            "type": "89 followers on Google+",
+            "Recent posts": []
+        },
         "Conrad Centennial Singapore": {
             "label": "Conrad Centennial Singapore Hotel",
             "description": "",
@@ -188,18 +194,28 @@
             ],
             "People also search for": []
         },
-        "Claridge's": {
-            "label": "Claridge's",
-            "description": "",
-            "type": "89 followers on Google+",
-            "Recent posts": []
-        },
         "Dom-Hotel": {
             "label": "Dom-Hotel",
             "description": "The Dom-Hotel is a 5-Star Hotel in Cologne, Germany, located on Roncalliplatz in Innenstadt. The hotel is named after Cologne Cathedral, which is its direct neighbour. Wikipedia",
             "type": "",
             "Opened ": [
                 "1857"
+            ],
+            "People also search for": []
+        },
+        "Don CeSar": {
+            "label": "Don CeSar",
+            "description": "Loews Don CeSar Hotel is a Loews hotel located in St. Pete Beach, Florida, in the United States. Developed by Thomas Rowe and opened in 1928, it gained renown as the Gulf playground for America's pampered ... Wikipedia",
+            "type": "",
+            "Address ": [
+                "3400 Gulf Blvd",
+                " St Pete Beach",
+                " FL 33706",
+                " United States"
+            ],
+            "Opened ": "January 16, 1928",
+            "Phone ": [
+                "(727) 360-1881"
             ],
             "People also search for": []
         },
@@ -224,20 +240,18 @@
             ],
             "People also search for": []
         },
-        "Don CeSar": {
-            "label": "Don CeSar",
-            "description": "Loews Don CeSar Hotel is a Loews hotel located in St. Pete Beach, Florida, in the United States. Developed by Thomas Rowe and opened in 1928, it gained renown as the Gulf playground for America's pampered ... Wikipedia",
+        "Excelsior Hotel Ernst": {
+            "label": "Excelsior Hotel Ernst",
+            "description": "The Excelsior Hotel Ernst with a view of Cologne Cathedral, the Dom, was built in 1863. Carl Ernst was the constructor and first owner of the hotel, which was formerly called \"Hotel Ernst\". Wikipedia",
             "type": "",
-            "Address ": [
-                "3400 Gulf Blvd",
-                " St Pete Beach",
-                " FL 33706",
-                " United States"
-            ],
-            "Opened ": "January 16, 1928",
-            "Phone ": [
-                "(727) 360-1881"
-            ],
+            "Address ": "Trankgasse 1-5, 50667 Köln, Germany",
+            "Opened ": "May 16, 1863",
+            "Recent posts": []
+        },
+        "Fairmont Royal York": {
+            "label": "The Fairmont Royal York",
+            "description": "",
+            "type": "",
             "People also search for": []
         },
         "Hôtel George-V": {
@@ -253,12 +267,6 @@
             "Opened ": [
                 "1935"
             ],
-            "People also search for": []
-        },
-        "Fairmont Royal York": {
-            "label": "The Fairmont Royal York",
-            "description": "",
-            "type": "",
             "People also search for": []
         },
         "Hotel Berolina": {
@@ -290,14 +298,6 @@
                 "+852 3400 1000"
             ],
             "People also search for": []
-        },
-        "Excelsior Hotel Ernst": {
-            "label": "Excelsior Hotel Ernst",
-            "description": "The Excelsior Hotel Ernst with a view of Cologne Cathedral, the Dom, was built in 1863. Carl Ernst was the constructor and first owner of the hotel, which was formerly called \"Hotel Ernst\". Wikipedia",
-            "type": "",
-            "Address ": "Trankgasse 1-5, 50667 Köln, Germany",
-            "Opened ": "May 16, 1863",
-            "Recent posts": []
         },
         "Hotel San Carlos (Phoenix)": {
             "label": "Hotel San Carlos",
@@ -343,11 +343,22 @@
             ],
             "People also search for": []
         },
+        "One Aldwych": {
+            "label": "One Aldwych Hotel",
+            "description": "",
+            "type": "37 followers on Google+",
+            "Recent posts": []
+        },
         "Raffles Hotel": {
             "label": "Raffles Hotel",
             "description": "",
             "type": "",
             "People also search for": []
+        },
+        "Sheraton Waikiki Hotel": {
+            "label": "Sheraton Waikiki",
+            "description": "",
+            "type": ""
         },
         "Swissôtel The Stamford": {
             "label": "Swissôtel The Stamford",
@@ -374,17 +385,16 @@
             ],
             "People also search for": []
         },
+        "The Algonquin": {
+            "label": "The Algonquin Hotel Times Square, Autograph Collection",
+            "description": "",
+            "type": "23 followers on Google+"
+        },
         "The Michelangelo": {
             "label": "Michelangelo Hotel",
             "description": "",
             "type": "",
             "People also search for": []
-        },
-        "One Aldwych": {
-            "label": "One Aldwych Hotel",
-            "description": "",
-            "type": "37 followers on Google+",
-            "Recent posts": []
         },
         "Tirana International Hotel": {
             "label": "Tirana International Hotel",
@@ -396,11 +406,6 @@
                 " Albania"
             ],
             "People also search for": []
-        },
-        "The Algonquin": {
-            "label": "The Algonquin Hotel Times Square, Autograph Collection",
-            "description": "",
-            "type": "23 followers on Google+"
         },
         "Waldorf Hilton": {
             "label": "The Waldorf Hilton Hotel London",
@@ -416,11 +421,6 @@
         },
         "Yas Viceroy Abu Dhabi Hotel": {
             "label": "Yas Viceroy Abu Dhabi",
-            "description": "",
-            "type": ""
-        },
-        "Sheraton Waikiki Hotel": {
-            "label": "Sheraton Waikiki",
             "description": "",
             "type": ""
         },
@@ -467,18 +467,18 @@
             ],
             "People also search for": []
         },
-        "Allegro Papagayo": {
-            "label": "Allegro PapagayoOccidental Allegro Papagayo All Inclusive",
-            "description": "Allegro Papagayo is an all-inclusive resort that is located in Costa Rica's Gulf of Papagayo.\nThe Four Seasons and the Fiesta Resorts are in the same neighborhood. The resort has 300 rooms with rates of up to $150 per night. Wikipedia",
+        "Al Deira Hotel": {
+            "label": "Al Deira Hotel",
+            "description": "The Al Deira Hotel is a beach hotel located in Gaza. It was built in 2000 and has 22 rooms which feature high, domed ceilings and views of the Mediterranean. The hotel is regularly used by foreign journalists covering Gaza. Wikipedia",
             "type": "",
             "Opened ": [
                 "2000"
             ],
             "People also search for": []
         },
-        "Al Deira Hotel": {
-            "label": "Al Deira Hotel",
-            "description": "The Al Deira Hotel is a beach hotel located in Gaza. It was built in 2000 and has 22 rooms which feature high, domed ceilings and views of the Mediterranean. The hotel is regularly used by foreign journalists covering Gaza. Wikipedia",
+        "Allegro Papagayo": {
+            "label": "Allegro PapagayoOccidental Allegro Papagayo All Inclusive",
+            "description": "Allegro Papagayo is an all-inclusive resort that is located in Costa Rica's Gulf of Papagayo.\nThe Four Seasons and the Fiesta Resorts are in the same neighborhood. The resort has 300 rooms with rates of up to $150 per night. Wikipedia",
             "type": "",
             "Opened ": [
                 "2000"
@@ -541,6 +541,12 @@
             ],
             "People also search for": []
         },
+        "American Hotel, Amsterdam": {
+            "label": "American Hotel",
+            "description": "",
+            "type": "",
+            "People also search for": []
+        },
         "Ananda–In the Himalayas": {
             "label": "Ananda–In the Himalayas",
             "description": "Ananda in the Himalayas is a luxury destination spa in Narendra Nagar, Uttarakhand, set in the Indian Himalayas. Wikipedia",
@@ -557,6 +563,12 @@
             ],
             "People also search for": []
         },
+        "Andaz West Hollywood": {
+            "label": "Andaz West Hollywood",
+            "description": "",
+            "type": "87 followers on Google+",
+            "Recent posts": []
+        },
         "Antlers Hotel (Kingsland, Texas)": {
             "label": "Antlers Hotel",
             "description": "The Antlers Hotel is a hotel and resort built in 1901 by the Austin and Northwestern Railroad on the Colorado River in Kingsland in Llano County in Central Texas. After a brief heyday, The Antlers closed in 1923 and fell into disrepair. Wikipedia",
@@ -571,18 +583,6 @@
             "Phone ": [
                 "(325) 388-4411"
             ]
-        },
-        "American Hotel, Amsterdam": {
-            "label": "American Hotel",
-            "description": "",
-            "type": "",
-            "People also search for": []
-        },
-        "Andaz West Hollywood": {
-            "label": "Andaz West Hollywood",
-            "description": "",
-            "type": "87 followers on Google+",
-            "Recent posts": []
         },
         "Arizona Biltmore Hotel": {
             "label": "Arizona Biltmore",
@@ -603,19 +603,21 @@
             ],
             "People also search for": []
         },
-        "Avari Towers": {
-            "label": "Avari Towers",
-            "description": "The Avari Towers hotel is situated on Shahrah-Fatima Jinnah, in Karachi, Sindh, Pakistan.\nAvari Towers hotel is one of the major hotels in Pakistan. Wikipedia",
+        "Aulani": {
+            "label": "Aulani, A Disney Resort & Spa",
+            "description": "",
             "type": "",
-            "Address ": [
-                "242 Fatima Jinnah Rd",
-                " Karachi",
-                " Pakistan"
-            ],
-            "Opened ": [
-                "1985"
-            ],
             "People also search for": []
+        },
+        "Austria Classic Hotel Wien": {
+            "label": "Austria Classic Hotel Wien",
+            "description": "The Austria Classic Hotel Wien is a three-star hotel, located on Praterstraße in Vienna's second district, the Leopoldstadt. It is a member of the Austria Classic Hotels group and was named Hotel Nordbahn until a rebranding in January 2008. Wikipedia",
+            "type": "103 followers on Google+",
+            "Address ": "Praterstraße 72, 1020 Wien, Austria",
+            "Opened ": [
+                "1838"
+            ],
+            "Recent posts": []
         },
         "Avalon hotel (Gothenburg)": {
             "label": "Avalon hotel",
@@ -634,31 +636,23 @@
             ],
             "People also search for": []
         },
-        "Aulani": {
-            "label": "Aulani, A Disney Resort & Spa",
-            "description": "",
+        "Avari Towers": {
+            "label": "Avari Towers",
+            "description": "The Avari Towers hotel is situated on Shahrah-Fatima Jinnah, in Karachi, Sindh, Pakistan.\nAvari Towers hotel is one of the major hotels in Pakistan. Wikipedia",
             "type": "",
-            "People also search for": []
-        },
-        "Austria Classic Hotel Wien": {
-            "label": "Austria Classic Hotel Wien",
-            "description": "The Austria Classic Hotel Wien is a three-star hotel, located on Praterstraße in Vienna's second district, the Leopoldstadt. It is a member of the Austria Classic Hotels group and was named Hotel Nordbahn until a rebranding in January 2008. Wikipedia",
-            "type": "103 followers on Google+",
-            "Address ": "Praterstraße 72, 1020 Wien, Austria",
-            "Opened ": [
-                "1838"
+            "Address ": [
+                "242 Fatima Jinnah Rd",
+                " Karachi",
+                " Pakistan"
             ],
-            "Recent posts": []
+            "Opened ": [
+                "1985"
+            ],
+            "People also search for": []
         },
         "Bab el Bahr Hotel": {
             "label": "Fairmont Bab Al Bahr",
             "description": "",
-            "type": "",
-            "People also search for": []
-        },
-        "Ban Pako": {
-            "label": "Ban Pako",
-            "description": "Ban Pako, also known as Ban Pako Eco Resort, is an ecotourist resort lodge and ancient site along the Nam Ngum River, approximately 50 kilometres northeast of Vientiane, Laos. Wikipedia",
             "type": "",
             "People also search for": []
         },
@@ -670,6 +664,12 @@
         "Baglioni Hotel": {
             "label": "Carlton Hotel Baglioni",
             "description": "",
+            "type": "",
+            "People also search for": []
+        },
+        "Ban Pako": {
+            "label": "Ban Pako",
+            "description": "Ban Pako, also known as Ban Pako Eco Resort, is an ecotourist resort lodge and ancient site along the Nam Ngum River, approximately 50 kilometres northeast of Vientiane, Laos. Wikipedia",
             "type": "",
             "People also search for": []
         },
@@ -706,6 +706,16 @@
             ],
             "People also search for": []
         },
+        "Beau-Rivage Geneva": {
+            "label": "Beau-Rivage Geneva",
+            "description": "Beau-Rivage Geneva is a five-star luxury hotel, founded in 1865 by the Mayer family. It is located in Geneva, in Switzerland. Wikipedia",
+            "type": "",
+            "Address ": "Quai du Mont-Blanc 13, 1201 Genève, Switzerland",
+            "Opened ": [
+                "1865"
+            ],
+            "People also search for": []
+        },
         "Bedford Hotel (Brighton)": {
             "label": "Bedford Hotel",
             "description": "The Bedford Hotel was a hotel on the seafront in Brighton, England which has subsequently been renamed the Holiday Inn Brighton after becoming a part of the Holiday Inn business. Wikipedia",
@@ -720,16 +730,6 @@
             "description": "",
             "type": ""
         },
-        "Beau-Rivage Geneva": {
-            "label": "Beau-Rivage Geneva",
-            "description": "Beau-Rivage Geneva is a five-star luxury hotel, founded in 1865 by the Mayer family. It is located in Geneva, in Switzerland. Wikipedia",
-            "type": "",
-            "Address ": "Quai du Mont-Blanc 13, 1201 Genève, Switzerland",
-            "Opened ": [
-                "1865"
-            ],
-            "People also search for": []
-        },
         "Bella Sky Hotel": {
             "label": "Bella Sky Comwell Hotel",
             "description": "The Bella Sky Comwell Hotel is a 4-star conference hotel adjacent to the Bella Convention and Congress Center in the Ørestad district of Copenhagen, Denmark. With 814 rooms, it is the largest hotel in Scandinavia. Wikipedia",
@@ -740,20 +740,6 @@
             ],
             "Phone ": [
                 "+45 32 47 30 00"
-            ],
-            "People also search for": []
-        },
-        "Bishopstrow House": {
-            "label": "Bishopstrow House",
-            "description": "Bishopstrow House, currently occupied by the Bishopstrow House Hotel, is a late Georgian English country house standing near the B3414 in the parish of Bishopstrow, about a mile east of Warminster, Wiltshire. Wikipedia",
-            "type": "",
-            "Address ": [
-                "Warminster",
-                " Wiltshire BA12 9HH",
-                " United Kingdom"
-            ],
-            "Architect ": [
-                "John Pinch the elder"
             ],
             "People also search for": []
         },
@@ -775,6 +761,26 @@
             ],
             "People also search for": []
         },
+        "Bishopstrow House": {
+            "label": "Bishopstrow House",
+            "description": "Bishopstrow House, currently occupied by the Bishopstrow House Hotel, is a late Georgian English country house standing near the B3414 in the parish of Bishopstrow, about a mile east of Warminster, Wiltshire. Wikipedia",
+            "type": "",
+            "Address ": [
+                "Warminster",
+                " Wiltshire BA12 9HH",
+                " United Kingdom"
+            ],
+            "Architect ": [
+                "John Pinch the elder"
+            ],
+            "People also search for": []
+        },
+        "Boca Raton Resort": {
+            "label": "Boca Raton Resort & Club",
+            "description": "",
+            "type": "50 followers on Google+",
+            "People also search for": []
+        },
         "Bodysgallen Hall": {
             "label": "Bodysgallen Hall",
             "description": "Bodysgallen Hall is a manor house in Conwy county borough, north Wales, near the village of Llanrhos. Since 2008 the house has been owned by The National Trust. It is a grade I listed building, and is currently used as a hotel. Wikipedia",
@@ -790,12 +796,6 @@
             ],
             "People also search for": []
         },
-        "Boca Raton Resort": {
-            "label": "Boca Raton Resort & Club",
-            "description": "",
-            "type": "50 followers on Google+",
-            "People also search for": []
-        },
         "Bogotá Marriott Hotel": {
             "label": "Bogotá Marriott Hotel",
             "description": "The Bogotá Marriott Hotel is the first hotel from Marriott International to open in Colombia. It was inaugurated on October 2009. The Bogotá Marriott Hotel and Corporate Center is located in the Av. Wikipedia",
@@ -807,46 +807,6 @@
                 " D.C.",
                 " Colombia"
             ]
-        },
-        "Braye Beach Hotel": {
-            "label": "Braye Beach Hotel",
-            "description": "Braye Beach Hotel is a 4-star hotel, considered to be the best in Alderney. The white hotel lies near the Braye Harbour on the beach in St Anne, Alderney. Wikipedia",
-            "type": "",
-            "Address ": [
-                "Braye Street",
-                " Alderney GY9 3XT",
-                " Guernsey"
-            ],
-            "People also search for": []
-        },
-        "Britannia Adelphi Hotel": {
-            "label": "Britannia Adelphi Hotel",
-            "description": "The Britannia Adelphi Hotel is located at Ranelagh Place, Liverpool city centre, Merseyside, England. The present building is the third hotel on the site, and is designated by English Heritage as Grade II listed building. Wikipedia",
-            "type": "Building in United Kingdom",
-            "Address ": [
-                "Ranelagh St",
-                " Liverpool",
-                " Merseyside L3 5UL",
-                " United Kingdom"
-            ],
-            "Opened ": [
-                "1826"
-            ],
-            "Phone ": [
-                "+44 871 222 0029"
-            ],
-            "People also search for": []
-        },
-        "British Colonial Hilton Nassau": {
-            "label": "British Colonial Hilton Nassau",
-            "description": "The British Colonial Hilton Nassau is a luxury five-star or AAA four-diamond colonial hotel in downtown Nassau, Bahamas, located on the only private beach in Nassau, on the site of the Old Fort of ... Wikipedia",
-            "type": "",
-            "Address ": [
-                "Navy Lion Rd",
-                " Nassau",
-                " Bahamas"
-            ],
-            "People also search for": []
         },
         "Boots Motel": {
             "label": "Boots Court Motel",
@@ -877,10 +837,33 @@
             ],
             "People also search for": []
         },
-        "Brown's Hotel": {
-            "label": "Brown's Hotel",
-            "description": "",
+        "Braye Beach Hotel": {
+            "label": "Braye Beach Hotel",
+            "description": "Braye Beach Hotel is a 4-star hotel, considered to be the best in Alderney. The white hotel lies near the Braye Harbour on the beach in St Anne, Alderney. Wikipedia",
             "type": "",
+            "Address ": [
+                "Braye Street",
+                " Alderney GY9 3XT",
+                " Guernsey"
+            ],
+            "People also search for": []
+        },
+        "Britannia Adelphi Hotel": {
+            "label": "Britannia Adelphi Hotel",
+            "description": "The Britannia Adelphi Hotel is located at Ranelagh Place, Liverpool city centre, Merseyside, England. The present building is the third hotel on the site, and is designated by English Heritage as Grade II listed building. Wikipedia",
+            "type": "Building in United Kingdom",
+            "Address ": [
+                "Ranelagh St",
+                " Liverpool",
+                " Merseyside L3 5UL",
+                " United Kingdom"
+            ],
+            "Opened ": [
+                "1826"
+            ],
+            "Phone ": [
+                "+44 871 222 0029"
+            ],
             "People also search for": []
         },
         "Brookstreet Hotel": {
@@ -899,6 +882,23 @@
             ],
             "People also search for": []
         },
+        "British Colonial Hilton Nassau": {
+            "label": "British Colonial Hilton Nassau",
+            "description": "The British Colonial Hilton Nassau is a luxury five-star or AAA four-diamond colonial hotel in downtown Nassau, Bahamas, located on the only private beach in Nassau, on the site of the Old Fort of ... Wikipedia",
+            "type": "",
+            "Address ": [
+                "Navy Lion Rd",
+                " Nassau",
+                " Bahamas"
+            ],
+            "People also search for": []
+        },
+        "Brown's Hotel": {
+            "label": "Brown's Hotel",
+            "description": "",
+            "type": "",
+            "People also search for": []
+        },
         "Cadogan Hotel": {
             "label": "The Cadogan Hotel",
             "description": "",
@@ -915,17 +915,17 @@
         "label": 84,
         "description": 84,
         "type": 84,
-        "Address ": 46,
-        "Recent posts": 13,
-        "People also search for": 61,
-        "Opened ": 37,
-        "Phone ": 15,
-        "Architect ": 5,
-        "Height ": 5,
-        "Floors ": 3,
-        "Architectural style ": 1,
-        "Architecture firm ": 2,
-        "Upcoming events": 1
+        "people_also_search_for": 1,
+        "address": 1,
+        "recent_posts": 1,
+        "opened": 1,
+        "phone": 1,
+        "architect": 1,
+        "height": 1,
+        "floors": 1,
+        "architectural_style": 1,
+        "architecture_firm": 1,
+        "upcoming_events": 1
     },
     "infoboxless": [
         "Savoy Hotel",
@@ -933,16 +933,16 @@
         "L'Enfant Plaza Hotel",
         "Hotel d'Angeli's",
         "Grand Hotel (Nuwara Eliya)",
+        "Hotel Imperial",
         "Hydro Majestic Hotel",
+        "Langham Place Hotel",
         "22 Jermyn Street",
         "995 Fifth Avenue",
         "Accord Metropolitan",
+        "Alaska Building",
         "Ambasador Hotel",
-        "Bintan Lagoon Resort",
         "Beverly Hills Hotel",
-        "Buckingham Hotel",
-        "Langham Place Hotel",
-        "Hotel Imperial",
-        "Alaska Building"
+        "Bintan Lagoon Resort",
+        "Buckingham Hotel"
     ]
 }

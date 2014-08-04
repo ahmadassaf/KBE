@@ -6,10 +6,10 @@
             "type": "",
             "See results about": []
         },
-        "Diet Coke": {
-            "label": "Diet Coke",
-            "description": "Diet Coke, called Coca-Cola Light in some countries, is a sugar-free soft drink produced and distributed by The Coca-Cola Company. Wikipedia",
-            "type": "",
+        "Guaraná Antarctica": {
+            "label": "Guaraná Antarctica",
+            "description": "Guaraná is a guaraná-flavoured soft drink, originating in Brazil and manufactured and distributed by Anheuser-Busch InBev. It was created in 1921 by Pedro Baptista de Andrade for Companhia Antarctica Paulista, now part of Anheuser-Busch InBev. Wikipedia",
+            "type": "Food",
             "People also search for": []
         },
         "Dr Pepper": {
@@ -32,16 +32,10 @@
             ],
             "People also search for": []
         },
-        "Kahlúa": {
-            "label": "Kahlúa",
-            "description": "Kahlúa is a coffee-flavored rum-based liqueur from Mexico. The drink also contains sugar, corn syrup and vanilla bean. Wikipedia",
+        "Diet Coke": {
+            "label": "Diet Coke",
+            "description": "Diet Coke, called Coca-Cola Light in some countries, is a sugar-free soft drink produced and distributed by The Coca-Cola Company. Wikipedia",
             "type": "",
-            "People also search for": []
-        },
-        "Guaraná Antarctica": {
-            "label": "Guaraná Antarctica",
-            "description": "Guaraná is a guaraná-flavoured soft drink, originating in Brazil and manufactured and distributed by Anheuser-Busch InBev. It was created in 1921 by Pedro Baptista de Andrade for Companhia Antarctica Paulista, now part of Anheuser-Busch InBev. Wikipedia",
-            "type": "Food",
             "People also search for": []
         },
         "Maker's Mark": {
@@ -55,17 +49,11 @@
             "description": "Mecca-Cola is a cola-flavoured carbonated beverage. The flagship product of the Mecca Cola World Company, it is marketed as an alternative to U.S. brands such as Coca-Cola and Pepsi-Cola to \"pro-Muslim\" consumers. Wikipedia",
             "type": "Company"
         },
-        "Chartreuse (liqueur)": {
-            "label": "Chartreuse",
-            "description": "Chartreuse is a French liqueur made by the Carthusian Monks since 1737 according to the instructions set out in the secret manuscript given to them by François Annibal d'Estrées in 1605. Wikipedia",
-            "type": "Liqueur",
-            "People also search for": []
-        },
-        "Starobrno Brewery": {
-            "label": "Starobrno Brewery",
-            "description": "",
+        "Ginger ale": {
+            "label": "Ginger ale",
+            "description": "Ginger ale is a carbonated soft drink flavored with ginger in one of two ways. The golden style is closer to the ginger beer original, and is credited to the American doctor Thomas Cantrell. Wikipedia",
             "type": "",
-            "People also search for": []
+            "Nutrition Facts": []
         },
         "Cointreau": {
             "label": "Cointreau",
@@ -73,22 +61,22 @@
             "type": "",
             "See results about": []
         },
-        "Ginger ale": {
-            "label": "Ginger ale",
-            "description": "Ginger ale is a carbonated soft drink flavored with ginger in one of two ways. The golden style is closer to the ginger beer original, and is credited to the American doctor Thomas Cantrell. Wikipedia",
-            "type": "",
-            "Nutrition Facts": []
-        },
-        "Triple sec": {
-            "label": "Triple sec",
-            "description": "Triple sec, originally Curaçao triple sec, is a variety of Curaçao liqueur, an orange-flavoured liqueur made from the dried peels of bitter and sweet orange. Wikipedia",
-            "type": "",
-            "People also search for": []
-        },
         "Scotch whisky": {
             "label": "Scotch whisky",
             "description": "Scotch whisky, often simply called Scotch, is malt whisky or grain whisky made in Scotland. Scotch whisky must be made in a manner specified by law.\nAll Scotch whisky was originally made from malted barley. Wikipedia",
             "type": "Blended spirit style",
+            "People also search for": []
+        },
+        "Chartreuse (liqueur)": {
+            "label": "Chartreuse",
+            "description": "Chartreuse is a French liqueur made by the Carthusian Monks since 1737 according to the instructions set out in the secret manuscript given to them by François Annibal d'Estrées in 1605. Wikipedia",
+            "type": "Liqueur",
+            "People also search for": []
+        },
+        "Hardenberg-Wilthen": {
+            "label": "Hardenberg-Wilthen AG",
+            "description": "",
+            "type": "",
             "People also search for": []
         },
         "Hpnotiq": {
@@ -97,10 +85,21 @@
             "type": "Beverage",
             "People also search for": []
         },
-        "Hardenberg-Wilthen": {
-            "label": "Hardenberg-Wilthen AG",
-            "description": "",
+        "Jim Beam": {
+            "label": "Jim Beam",
+            "description": "Jim Beam is an American brand of bourbon whiskey produced in Clermont, Kentucky. It was one of the best selling brands of bourbon in the world in 2008. Wikipedia",
+            "type": "Food"
+        },
+        "Triple sec": {
+            "label": "Triple sec",
+            "description": "Triple sec, originally Curaçao triple sec, is a variety of Curaçao liqueur, an orange-flavoured liqueur made from the dried peels of bitter and sweet orange. Wikipedia",
             "type": "",
+            "People also search for": []
+        },
+        "Dewar's": {
+            "label": "Dewar's",
+            "description": "Dewar's is a brand of blended Scotch whisky owned by Bacardi, which claims the brand's \"White Label\" to be the top-selling blended Scotch in the US. Wikipedia",
+            "type": "Company",
             "People also search for": []
         },
         "Seagram's Seven Crown": {
@@ -115,33 +114,9 @@
             "type": "",
             "People also search for": []
         },
-        "Tascalate": {
-            "label": "Tascalate",
-            "description": "Tascalate is a chocolate drink made from a mixture of chocolate, ground pine nuts, achiote, vanilla and sugar, very common in the Mexican state of Chiapas. Wikipedia",
-            "type": "",
-            "People also search for": []
-        },
-        "Dewar's": {
-            "label": "Dewar's",
-            "description": "Dewar's is a brand of blended Scotch whisky owned by Bacardi, which claims the brand's \"White Label\" to be the top-selling blended Scotch in the US. Wikipedia",
-            "type": "Company",
-            "People also search for": []
-        },
-        "Crown Royal": {
-            "label": "Crown Royal",
-            "description": "Crown Royal is a blended Canadian whisky, 40% alcohol by volume, 80 proof. The brand is owned by Diageo, which purchased it when the Seagram portfolio was dissolved in the year 2000. It is the top-selling Canadian whisky in the United States. Wikipedia",
-            "type": "",
-            "People also search for": []
-        },
-        "Boost (health food)": {
-            "label": "Boost",
-            "description": "Boost is a chocolate-flavored health food drink manufactured by GlaxoSmithKline. It was launched in 1977 in India. Brand ambassador for Boost in 1986 was the cricketer Kapil Dev. Sachin Tendulkar became the brand ambassador with his debut in 1989. Wikipedia",
-            "type": "Health food",
-            "People also search for": []
-        },
-        "Four Roses": {
-            "label": "Four Roses Distillery LLC",
-            "description": "",
+        "Kahlúa": {
+            "label": "Kahlúa",
+            "description": "Kahlúa is a coffee-flavored rum-based liqueur from Mexico. The drink also contains sugar, corn syrup and vanilla bean. Wikipedia",
             "type": "",
             "People also search for": []
         },
@@ -150,6 +125,18 @@
             "description": "Diet Pepsi is a no-calorie carbonated cola soft drink produced by PepsiCo, introduced in 1964 as a variant of Pepsi-Cola with no sugar. Wikipedia",
             "type": "Beverage",
             "See results about": []
+        },
+        "Four Roses": {
+            "label": "Four Roses Distillery LLC",
+            "description": "",
+            "type": "",
+            "People also search for": []
+        },
+        "Boost (health food)": {
+            "label": "Boost",
+            "description": "Boost is a chocolate-flavored health food drink manufactured by GlaxoSmithKline. It was launched in 1977 in India. Brand ambassador for Boost in 1986 was the cricketer Kapil Dev. Sachin Tendulkar became the brand ambassador with his debut in 1989. Wikipedia",
+            "type": "Health food",
+            "People also search for": []
         },
         "Pepsi Max": {
             "label": "PepsiCo",
@@ -175,6 +162,12 @@
             ],
             "Recent posts": []
         },
+        "SKYY vodka": {
+            "label": "SKYY vodka",
+            "description": "SKYY vodka is produced by the Campari America division of Campari Group of Milan, Italy, formerly SKYY Spirits LLC. Wikipedia",
+            "type": "",
+            "People also search for": []
+        },
         "Like Cola": {
             "label": "Like Cola",
             "description": "Like Cola was an unsuccessful cola soft drink, introduced by the 7 Up company, that appeared on the American market in 1982. Its slogan was \"Made From The Cola Nut.\" Like Cola was one of the first attempts at a cola without caffeine. Wikipedia",
@@ -186,16 +179,16 @@
             "description": "Qibla Cola a cola-flavored carbonated beverage is the flagship product of the Qibla Cola Company, based in Derby, England. Wikipedia",
             "type": "Company"
         },
-        "SKYY vodka": {
-            "label": "SKYY vodka",
-            "description": "SKYY vodka is produced by the Campari America division of Campari Group of Milan, Italy, formerly SKYY Spirits LLC. Wikipedia",
+        "Crown Royal": {
+            "label": "Crown Royal",
+            "description": "Crown Royal is a blended Canadian whisky, 40% alcohol by volume, 80 proof. The brand is owned by Diageo, which purchased it when the Seagram portfolio was dissolved in the year 2000. It is the top-selling Canadian whisky in the United States. Wikipedia",
             "type": "",
             "People also search for": []
         },
-        "Woodford Reserve": {
-            "label": "Woodford Reserve",
-            "description": "Woodford Reserve is a brand of premium small batch Kentucky Straight Bourbon Whiskey produced by the Brown-Forman Corporation. It is distilled at the company's Woodford Reserve Distillery. The distillery is in Woodford County, in central Kentucky. Wikipedia",
-            "type": "Corporation",
+        "Tascalate": {
+            "label": "Tascalate",
+            "description": "Tascalate is a chocolate drink made from a mixture of chocolate, ground pine nuts, achiote, vanilla and sugar, very common in the Mexican state of Chiapas. Wikipedia",
+            "type": "",
             "People also search for": []
         },
         "Solo (Australian soft drink)": {
@@ -203,96 +196,103 @@
             "description": "In Australia, Solo is a carbonated lemon-flavoured soft drink manufactured by Schweppes Australia.\nSolo was launched in Australia in 1973 as the ready to drink version of traditional 'pub squash'. Wikipedia",
             "type": "Australian soft drink"
         },
-        "Jim Beam": {
-            "label": "Jim Beam",
-            "description": "Jim Beam is an American brand of bourbon whiskey produced in Clermont, Kentucky. It was one of the best selling brands of bourbon in the world in 2008. Wikipedia",
-            "type": "Food"
+        "Woodford Reserve": {
+            "label": "Woodford Reserve",
+            "description": "Woodford Reserve is a brand of premium small batch Kentucky Straight Bourbon Whiskey produced by the Brown-Forman Corporation. It is distilled at the company's Woodford Reserve Distillery. The distillery is in Woodford County, in central Kentucky. Wikipedia",
+            "type": "Corporation",
+            "People also search for": []
+        },
+        "Starobrno Brewery": {
+            "label": "Starobrno Brewery",
+            "description": "",
+            "type": "",
+            "People also search for": []
         }
     },
     "summary": {
         "label": 30,
         "description": 30,
         "type": 30,
-        "See results about": 4,
-        "People also search for": 20,
-        "Stock price ": 2,
-        "Headquarters ": 2,
-        "CEO ": 2,
-        "Founded ": 2,
-        "Nutrition Facts": 1,
-        "Founders ": 1,
-        "Recent posts": 1
+        "see_results_about": 1,
+        "people_also_search_for": 1,
+        "stock_price": 1,
+        "headquarters": 1,
+        "ceo": 1,
+        "founded": 1,
+        "nutrition_facts": 1,
+        "founders": 1,
+        "recent_posts": 1
     },
     "infoboxless": [
         "Afri-Cola",
         "Bundaberg Rum",
         "Cîroc",
-        "Foster's Lager",
         "Club Cola",
+        "Foster's Lager",
         "Free Beer",
-        "Killian's",
         "Jolt Cola",
+        "Killian's",
         "Vita Cola",
+        "Duff Beer",
         "Inca Kola",
         "Absolut Vodka",
-        "Boodles British Gin",
         "Bombay Sapphire",
-        "Duff Beer",
+        "Boodles British Gin",
         "Espolon",
         "J.T.S. Brown",
         "Leblon Cachaça",
         "Sobieski Vodka",
-        "Milkis",
         "White Mountain Cooler",
+        "Milkis",
         "Patrón",
-        "Strongbow (cider)",
         "Pisang Ambon",
-        "AMP Energy",
         "Grey Goose (vodka)",
+        "Strongbow (cider)",
+        "AMP Energy",
         "Ale-8-One",
         "Barr Cola",
+        "Billy Beer",
         "Buchanan's",
         "Capri Sun",
-        "Billy Beer",
-        "Coca-Cola C2",
         "Cheerwine",
+        "Coca-Cola C2",
         "Coca-Cola Cherry",
         "Coca-Cola Vanilla",
         "Coca wine",
         "Cola Turka",
+        "Coors Light",
         "Country Time",
         "Diet Rite",
-        "Coors Light",
         "Disaronno",
-        "Evan Williams (whiskey)",
-        "Hires Root Beer",
         "Don Julio",
+        "Evan Williams (whiskey)",
+        "Fuji-Cola",
+        "Hires Root Beer",
         "Jazz (soft drink)",
         "Jolly Cola",
-        "Fuji-Cola",
         "Ketel One",
-        "Kola Real",
         "Kola Inglesa",
+        "Kola Real",
         "Leon Beer",
         "Mug Root Beer",
         "Paddy Whiskey",
+        "Pepsi Blue",
         "Pepsi ONE",
         "Pibb Xtra",
         "Pilsen Callao",
-        "Red Stripe",
         "Premium-Cola",
+        "Red Stripe",
         "Rola Cola",
         "Sierra Mist",
-        "Pepsi Blue",
         "Smithwick's",
         "Stolichnaya",
         "Surge (soft drink)",
         "Sussex Golden Ginger Ale",
         "Tanqueray",
-        "V (drink)",
-        "Wiser's whisky",
         "Tullamore Dew",
         "Urge (soft drink)",
+        "V (drink)",
+        "Wiser's whisky",
         "Chopin vodka"
     ]
 }

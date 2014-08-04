@@ -1,16 +1,16 @@
 {
     "instances": {
-        "Cyberathlete Professional League": {
-            "label": "Cyberathlete Professional League",
-            "description": "The Cyberathlete Professional League, founded by Angel Munoz on June 27, 1997, is a professional sports tournament organization specializing in computer and console video game competitions. Wikipedia",
-            "type": "Company"
-        },
         "Championship Gaming Series": {
             "label": "Championship Gaming Series",
             "description": "The Championship Gaming Series was an international electronic sports league based in the United States of America, though it had expanded to every continent except Antarctica for Season Two before being abruptly discontinued. Wikipedia",
             "type": "TV series",
             "First episode ": "July 9, 2007",
             "Cast": []
+        },
+        "Cyberathlete Professional League": {
+            "label": "Cyberathlete Professional League",
+            "description": "The Cyberathlete Professional League, founded by Angel Munoz on June 27, 1997, is a professional sports tournament organization specializing in computer and console video game competitions. Wikipedia",
+            "type": "Company"
         },
         "Major League Gaming": {
             "label": "Major League Gaming",
@@ -29,11 +29,11 @@
         "label": 3,
         "description": 3,
         "type": 3,
-        "First episode ": 1,
-        "Cast": 1,
-        "Founded ": 1,
-        "CEO ": 1,
-        "People also search for": 1
+        "first_episode": 1,
+        "cast": 1,
+        "founded": 1,
+        "ceo": 1,
+        "people_also_search_for": 1
     },
     "infoboxless": [
         "Evolution Championship Series",

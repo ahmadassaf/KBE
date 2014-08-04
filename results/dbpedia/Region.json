@@ -1,5 +1,30 @@
 {
     "instances": {
+        "Ørsta": {
+            "label": "Ørsta",
+            "description": "Ørsta is the administrative centre of Ørsta Municipality in Møre og Romsdal county, Norway. The village is located at the innermost part of the Ørstafjorden, surrounded by the Sunnmørsalpene mountains. Wikipedia",
+            "type": "",
+            "Area ": [
+                "2.216 sq miles (5.74 km²)"
+            ],
+            "See results about": []
+        },
+        "Øyer": {
+            "label": "Øyer",
+            "description": "Øyer is a municipality in Oppland county, Norway. It is part of the traditional region of Gudbrandsdal. The administrative centre of the municipality is the village of Tingberg.\nThe parish of Øier was established as a municipality on 1 January 1838. Wikipedia",
+            "type": "",
+            "Area ": [
+                "247.1 sq miles (640 km²)"
+            ],
+            "Local time ": [
+                "Tuesday 316 PM"
+            ]
+        },
+        "Şırnak Province": {
+            "label": "Şırnak Province",
+            "description": "The Şırnak Province is a Turkish province in southeastern Anatolia. It has a population of 430,109. The population was 353,197 in 2000. Wikipedia",
+            "type": ""
+        },
         "Åmot": {
             "label": "Åmot",
             "description": "Åmot is a municipality in Hedmark county, Norway. It is part of the traditional region of Østerdalen. The administrative centre of the municipality is the village of Rena. The parish of Aamot was established as a municipality on 1 January 1838. Wikipedia",
@@ -13,76 +38,6 @@
             ],
             "See results about": []
         },
-        "Åmli": {
-            "label": "Åmli",
-            "description": "Åmli is a municipality in the county of Aust-Agder, Norway. It is located in the traditional region of Sørlandet. The main population centre and administrative center is the village of Åmli which lies along the river Nidelva. Wikipedia",
-            "type": "",
-            "Area ": [
-                "437 sq miles (1",
-                "131 km²)"
-            ],
-            "Local time ": [
-                "Tuesday 316 PM"
-            ]
-        },
-        "Åsnes": {
-            "label": "Åsnes",
-            "description": "Åsnes is a municipality in Hedmark county, Norway. It is part of the traditional region of Solør. The administrative centre of the municipality is the village of Flisa, which is also the largest town in the municipality with around 2,100 people. Wikipedia",
-            "type": "",
-            "Area ": [
-                "402 sq miles (1",
-                "041 km²)"
-            ],
-            "Local time ": [
-                "Tuesday 316 PM"
-            ]
-        },
-        "Øyer": {
-            "label": "Øyer",
-            "description": "Øyer is a municipality in Oppland county, Norway. It is part of the traditional region of Gudbrandsdal. The administrative centre of the municipality is the village of Tingberg.\nThe parish of Øier was established as a municipality on 1 January 1838. Wikipedia",
-            "type": "",
-            "Area ": [
-                "247.1 sq miles (640 km²)"
-            ],
-            "Local time ": [
-                "Tuesday 316 PM"
-            ]
-        },
-        "Ørsta": {
-            "label": "Ørsta",
-            "description": "Ørsta is the administrative centre of Ørsta Municipality in Møre og Romsdal county, Norway. The village is located at the innermost part of the Ørstafjorden, surrounded by the Sunnmørsalpene mountains. Wikipedia",
-            "type": "",
-            "Area ": [
-                "2.216 sq miles (5.74 km²)"
-            ],
-            "See results about": []
-        },
-        "Şırnak Province": {
-            "label": "Şırnak Province",
-            "description": "The Şırnak Province is a Turkish province in southeastern Anatolia. It has a population of 430,109. The population was 353,197 in 2000. Wikipedia",
-            "type": ""
-        },
-        "Adams County, Washington": {
-            "label": "Adams County",
-            "description": "Adams County is a county located in the State of Washington. As of the 2010 census, the population was 18,728. The county seat is at Ritzville, and its largest city is Othello. Wikipedia",
-            "type": "",
-            "Area ": [
-                "1",
-                "930 sq miles (4",
-                "999 km²)"
-            ],
-            "Founded ": "November 28, 1883",
-            "County seat ": [
-                "Ritzville"
-            ],
-            "Population ": [
-                "19",
-                "005 (2012)"
-            ],
-            "Unemployment rate ": [
-                "6.9% (Aug 2013)"
-            ]
-        },
         "Abu Qrenat": {
             "label": "Abu Qrenat",
             "description": "Abu Qrenat or Abu Karinat is a Bedouin village in Israel. Located in the northwestern Negev, it falls under the jurisdiction of Neve Midbar Regional Council. Wikipedia",
@@ -94,16 +49,6 @@
             ],
             "Local time ": [
                 "Tuesday 416 PM"
-            ]
-        },
-        "Adanim Youth Village": {
-            "label": "Adanim Youth Village",
-            "description": "Adanim Youth Village is a youth village in the northwestern Negev desert of southern Israel. Located close to Beit Kama, it is within the borders of Bnei Shimon Regional Council. Wikipedia",
-            "type": "",
-            "Weather ": [
-                "68°F (20°C)",
-                " Wind NW at 2 mph (3 km/h)",
-                " 63% Humidity"
             ]
         },
         "Adams County, Wisconsin": {
@@ -128,12 +73,48 @@
                 "Friendship"
             ]
         },
-        "Agios Efstratios": {
-            "label": "Agios Efstratios",
-            "description": "Agios Efstratios or Saint Eustratius, colloquially Ai Stratis is a small Greek island in the northern Aegean Sea about 30 kilometres southwest of Lemnos and 80 kilometres northwest of Lesbos. Wikipedia",
+        "Adams County, Washington": {
+            "label": "Adams County",
+            "description": "Adams County is a county located in the State of Washington. As of the 2010 census, the population was 18,728. The county seat is at Ritzville, and its largest city is Othello. Wikipedia",
             "type": "",
             "Area ": [
-                "16.72 sq miles (43.3 km²)"
+                "1",
+                "930 sq miles (4",
+                "999 km²)"
+            ],
+            "Founded ": "November 28, 1883",
+            "County seat ": [
+                "Ritzville"
+            ],
+            "Population ": [
+                "19",
+                "005 (2012)"
+            ],
+            "Unemployment rate ": [
+                "6.9% (Aug 2013)"
+            ]
+        },
+        "Adanim Youth Village": {
+            "label": "Adanim Youth Village",
+            "description": "Adanim Youth Village is a youth village in the northwestern Negev desert of southern Israel. Located close to Beit Kama, it is within the borders of Bnei Shimon Regional Council. Wikipedia",
+            "type": "",
+            "Weather ": [
+                "68°F (20°C)",
+                " Wind NW at 2 mph (3 km/h)",
+                " 63% Humidity"
+            ]
+        },
+        "Aderet, Israel": {
+            "label": "Aderet, Israel",
+            "description": "Aderet is a moshav in central Israel. Located in the Judean foothills in the Adullam region, south of Beit Shemesh, west of Gush Etzion and overlooking the Valley of Elah, it falls under the jurisdiction of Mateh Yehuda Regional Council. Wikipedia",
+            "type": "",
+            "Founded ": [
+                "1961"
+            ],
+            "Weather ": [
+                "68°F (20°C)",
+                " Wind NW at 4 mph (6 km/h)",
+                " 64% Humidity"
             ]
         },
         "Agathonisi": {
@@ -154,6 +135,14 @@
                 " 53% Humidity"
             ]
         },
+        "Agios Efstratios": {
+            "label": "Agios Efstratios",
+            "description": "Agios Efstratios or Saint Eustratius, colloquially Ai Stratis is a small Greek island in the northern Aegean Sea about 30 kilometres southwest of Lemnos and 80 kilometres northwest of Lesbos. Wikipedia",
+            "type": "",
+            "Area ": [
+                "16.72 sq miles (43.3 km²)"
+            ]
+        },
         "Ahrweiler": {
             "label": "Ahrweiler",
             "description": "Ahrweiler is a district in the north of Rhineland-Palatinate, Germany. It is bounded by the districts Euskirchen, Rhein-Sieg and the city Bonn in the state North Rhine-Westphalia, and the districts of Neuwied, Mayen-Koblenz and Vulkaneifel. Wikipedia",
@@ -163,19 +152,6 @@
                 "161 (2011)"
             ],
             "See results about": []
-        },
-        "Al-Sayyid": {
-            "label": "al-Sayyid",
-            "description": "al-Sayyid or al-Sayed is a Bedouin village in Israel. Located in the Negev desert between Arad and Beersheba and just south of Hura, it falls under the jurisdiction of al-Kasom Regional Council. In 2011 the village's population was 3,109. Wikipedia",
-            "type": "",
-            "Weather ": [
-                "68°F (20°C)",
-                " Wind NW at 2 mph (3 km/h)",
-                " 63% Humidity"
-            ],
-            "Local time ": [
-                "Tuesday 416 PM"
-            ]
         },
         "Aichach-Friedberg": {
             "label": "Aichach-Friedberg",
@@ -204,26 +180,6 @@
                 "909 (2012)"
             ]
         },
-        "Alcona County, Michigan": {
-            "label": "Alcona County",
-            "description": "Alcona County is a county of the U.S. state of Michigan. As of the 2010 census, the population was 10,942. Its county seat is Harrisville. Alphabetically it is the first county in Michigan, as its flag states \"First of 83\". Wikipedia",
-            "type": "",
-            "Area ": [
-                "1",
-                "791 sq miles (4",
-                "639 km²)"
-            ],
-            "Population ": [
-                "10",
-                "635 (2012)"
-            ],
-            "Unemployment rate ": [
-                "13.0% (Aug 2013)"
-            ],
-            "County seat ": [
-                "Harrisville"
-            ]
-        },
         "Alachua County, Florida": {
             "label": "Alachua County",
             "description": "Alachua County is a county located in the U.S. state of Florida. As of the 2010 United States Census, the population of the county is 247,336. Wikipedia",
@@ -246,6 +202,39 @@
                 "Gainesville"
             ],
             "Colleges and Universities": []
+        },
+        "Al-Sayyid": {
+            "label": "al-Sayyid",
+            "description": "al-Sayyid or al-Sayed is a Bedouin village in Israel. Located in the Negev desert between Arad and Beersheba and just south of Hura, it falls under the jurisdiction of al-Kasom Regional Council. In 2011 the village's population was 3,109. Wikipedia",
+            "type": "",
+            "Weather ": [
+                "68°F (20°C)",
+                " Wind NW at 2 mph (3 km/h)",
+                " 63% Humidity"
+            ],
+            "Local time ": [
+                "Tuesday 416 PM"
+            ]
+        },
+        "Alcona County, Michigan": {
+            "label": "Alcona County",
+            "description": "Alcona County is a county of the U.S. state of Michigan. As of the 2010 census, the population was 10,942. Its county seat is Harrisville. Alphabetically it is the first county in Michigan, as its flag states \"First of 83\". Wikipedia",
+            "type": "",
+            "Area ": [
+                "1",
+                "791 sq miles (4",
+                "639 km²)"
+            ],
+            "Population ": [
+                "10",
+                "635 (2012)"
+            ],
+            "Unemployment rate ": [
+                "13.0% (Aug 2013)"
+            ],
+            "County seat ": [
+                "Harrisville"
+            ]
         },
         "Alcorn County, Mississippi": {
             "label": "Alcorn County",
@@ -375,15 +364,6 @@
                 "Herzog College"
             ]
         },
-        "Altenburger Land": {
-            "label": "Altenburger Land",
-            "description": "Altenburger Land is a district in Thuringia, Germany. It is bounded by the district of Greiz, the Burgenlandkreis, and the districts Leipziger Land, Mittweida, Chemnitzer Land, Zwickauer Land in Saxony. Wikipedia",
-            "type": "",
-            "Population ": [
-                "97",
-                "443 (2011)"
-            ]
-        },
         "Alstahaug": {
             "label": "Alstahaug",
             "description": "Alstahaug is a municipality in Nordland county, Norway. It is part of the Helgeland region. The administrative centre of the municipality is the town of Sandnessjøen. Other villages in Alstahaug include Søvika and Tjøtta. Wikipedia",
@@ -398,6 +378,15 @@
             ],
             "See results about": []
         },
+        "Altenburger Land": {
+            "label": "Altenburger Land",
+            "description": "Altenburger Land is a district in Thuringia, Germany. It is bounded by the district of Greiz, the Burgenlandkreis, and the districts Leipziger Land, Mittweida, Chemnitzer Land, Zwickauer Land in Saxony. Wikipedia",
+            "type": "",
+            "Population ": [
+                "97",
+                "443 (2011)"
+            ]
+        },
         "Altenkirchen (district)": {
             "label": "Altenkirchen",
             "description": "Altenkirchen is a district in Rhineland-Palatinate, Germany. It is bounded by the North Rhine-Westphalian districts Rhein-Sieg, Oberbergischer Kreis, Olpe and Siegen-Wittgenstein, and the districts of Westerwaldkreis and Neuwied. Wikipedia",
@@ -407,15 +396,6 @@
                 "850 (2011)"
             ]
         },
-        "Amberg-Sulzbach": {
-            "label": "Amberg-Sulzbach",
-            "description": "Amberg-Sulzbach is a district in Bavaria, Germany. It surrounds but does not include the city of Amberg. It is bounded by the districts of Neustadt, Schwandorf, Neumarkt, Nürnberger Land and Bayreuth. Wikipedia",
-            "type": "",
-            "Population ": [
-                "104",
-                "709 (2011)"
-            ]
-        },
         "Amasya Province": {
             "label": "Amasya Province",
             "description": "Amasya Province is a province of Turkey, situated on the Yeşil River in the Black Sea Region to the north of the country. Area 5,520 km². Population 334,786. Wikipedia",
@@ -423,6 +403,15 @@
             "Colleges and Universities ": [
                 "American College of Thessaloniki",
                 " Amasya University"
+            ]
+        },
+        "Amberg-Sulzbach": {
+            "label": "Amberg-Sulzbach",
+            "description": "Amberg-Sulzbach is a district in Bavaria, Germany. It surrounds but does not include the city of Amberg. It is bounded by the districts of Neustadt, Schwandorf, Neumarkt, Nürnberger Land and Bayreuth. Wikipedia",
+            "type": "",
+            "Population ": [
+                "104",
+                "709 (2011)"
             ]
         },
         "Amir, Israel": {
@@ -437,15 +426,6 @@
             ],
             "Local time ": [
                 "Tuesday 417 PM"
-            ]
-        },
-        "Ammerland": {
-            "label": "Ammerland",
-            "description": "Ammerland is a district in Lower Saxony, Germany. It is bounded by the city of Oldenburg and the districts of Oldenburg, Cloppenburg, Leer, Friesland and Wesermarsch. Wikipedia",
-            "type": "",
-            "Population ": [
-                "118",
-                "838 (2011)"
             ]
         },
         "Amite County, Mississippi": {
@@ -471,6 +451,15 @@
             ],
             "See results about": []
         },
+        "Ammerland": {
+            "label": "Ammerland",
+            "description": "Ammerland is a district in Lower Saxony, Germany. It is bounded by the city of Oldenburg and the districts of Oldenburg, Cloppenburg, Leer, Friesland and Wesermarsch. Wikipedia",
+            "type": "",
+            "Population ": [
+                "118",
+                "838 (2011)"
+            ]
+        },
         "Anderson County, Texas": {
             "label": "Anderson County",
             "description": "Anderson County is a county located in the U.S. state of Texas. As of the 2010 census, the population was 58,458. Its county seat is Palestine. Wikipedia",
@@ -492,6 +481,23 @@
             ],
             "County seat ": [
                 "Palestine"
+            ]
+        },
+        "Anhalt-Bitterfeld": {
+            "label": "Anhalt-Bitterfeld",
+            "description": "Anhalt-Bitterfeld is a district in Saxony-Anhalt, Germany. Its capital is Köthen. Wikipedia",
+            "type": "",
+            "Population ": [
+                "174",
+                "235 (2011)"
+            ],
+            "Area ": [
+                "561 sq miles (1",
+                "453 km²)"
+            ],
+            "Founded ": "July 1, 2007",
+            "University ": [
+                "Anhalt University of Applied Sciences"
             ]
         },
         "Androscoggin County, Maine": {
@@ -525,53 +531,6 @@
                 "Dead River"
             ]
         },
-        "Anhalt-Bitterfeld": {
-            "label": "Anhalt-Bitterfeld",
-            "description": "Anhalt-Bitterfeld is a district in Saxony-Anhalt, Germany. Its capital is Köthen. Wikipedia",
-            "type": "",
-            "Population ": [
-                "174",
-                "235 (2011)"
-            ],
-            "Area ": [
-                "561 sq miles (1",
-                "453 km²)"
-            ],
-            "Founded ": "July 1, 2007",
-            "University ": [
-                "Anhalt University of Applied Sciences"
-            ]
-        },
-        "Ano Fanari": {
-            "label": "Ano Fanari",
-            "description": "Ano Fanari is a mountain village in the Troizina area, northeastern Peloponnese, Greece. A small acropolis rises above Ano Fanari. It is situated on the old road from Galatas to Agia Eleni and Epidavros. Wikipedia",
-            "type": "",
-            "Weather ": [
-                "65°F (18°C)",
-                " Wind NW at 6 mph (10 km/h)",
-                " 48% Humidity"
-            ]
-        },
-        "Anoka County, Minnesota": {
-            "label": "Anoka County",
-            "description": "Anoka County is the fourth-most populous county in the U.S. state of Minnesota. As of the 2010 census, Anoka County's population was 330,844.The county seat and namesake of the county is the City of ... Wikipedia",
-            "type": "",
-            "Area ": [
-                "446 sq miles (1",
-                "155 km²)"
-            ],
-            "Population ": [
-                "336",
-                "414 (2012)"
-            ],
-            "Unemployment rate ": [
-                "4.8% (Aug 2013)"
-            ],
-            "County seat ": [
-                "Anoka"
-            ],
-            "Colleges and Universities": []
-        },
         "Anne Arundel County, Maryland": {
             "label": "Anne Arundel County",
             "description": "Anne Arundel County is a county located in the U.S. state of Maryland. As of the 2010 census, its population was 537,656, a population increase of just under 10% since 2000. Its county seat is Annapolis, which is also the capital of the state. Wikipedia",
@@ -595,6 +554,61 @@
             ],
             "Colleges and Universities": []
         },
+        "Ano Fanari": {
+            "label": "Ano Fanari",
+            "description": "Ano Fanari is a mountain village in the Troizina area, northeastern Peloponnese, Greece. A small acropolis rises above Ano Fanari. It is situated on the old road from Galatas to Agia Eleni and Epidavros. Wikipedia",
+            "type": "",
+            "Weather ": [
+                "65°F (18°C)",
+                " Wind NW at 6 mph (10 km/h)",
+                " 48% Humidity"
+            ]
+        },
+        "Anson County, North Carolina": {
+            "label": "Anson County",
+            "description": "Anson County is a county located in the U.S. state of North Carolina. As of the 2010 census, the population was 26,948. Its county seat is Wadesboro. Wikipedia",
+            "type": "",
+            "Area ": [
+                "537 sq miles (1",
+                "391 km²)"
+            ],
+            "Founded ": [
+                "1750"
+            ],
+            "Population ": [
+                "26",
+                "351 (2012)"
+            ],
+            "Unemployment rate ": [
+                "10.1% (Aug 2013)"
+            ],
+            "County seat ": [
+                "Wadesboro"
+            ],
+            "University ": [
+                "South Piedmont Community College"
+            ]
+        },
+        "Anoka County, Minnesota": {
+            "label": "Anoka County",
+            "description": "Anoka County is the fourth-most populous county in the U.S. state of Minnesota. As of the 2010 census, Anoka County's population was 330,844.The county seat and namesake of the county is the City of ... Wikipedia",
+            "type": "",
+            "Area ": [
+                "446 sq miles (1",
+                "155 km²)"
+            ],
+            "Population ": [
+                "336",
+                "414 (2012)"
+            ],
+            "Unemployment rate ": [
+                "4.8% (Aug 2013)"
+            ],
+            "County seat ": [
+                "Anoka"
+            ],
+            "Colleges and Universities": []
+        },
         "Antelope County, Nebraska": {
             "label": "Antelope County",
             "description": "Antelope County is a county located in the U.S. state of Nebraska, and was formed in 1871. As of the 2010 census, the population was 6,685. Its county seat is Neligh. The Ashfall Fossil Beds National Natural Landmark is located within the county. Wikipedia",
@@ -613,6 +627,26 @@
             "Unemployment rate ": [
                 "2.7% (Aug 2013)"
             ]
+        },
+        "Appling County, Georgia": {
+            "label": "Appling County",
+            "description": "Appling County is a county located in the U.S. state of Georgia. As of the 2010 census, the population was 18,236. The county seat is Baxley. Wikipedia",
+            "type": "",
+            "Area ": [
+                "512 sq miles (1",
+                "326 km²)"
+            ],
+            "Founded ": [
+                "1818"
+            ],
+            "Population ": [
+                "18",
+                "368 (2012)"
+            ],
+            "Unemployment rate ": [
+                "10.7% (Aug 2013)"
+            ],
+            "See results about": []
         },
         "Arenac County, Michigan": {
             "label": "Arenac County",
@@ -636,37 +670,44 @@
                 "Standish"
             ]
         },
-        "Appling County, Georgia": {
-            "label": "Appling County",
-            "description": "Appling County is a county located in the U.S. state of Georgia. As of the 2010 census, the population was 18,236. The county seat is Baxley. Wikipedia",
+        "Armstrong County, Texas": {
+            "label": "Armstrong County",
+            "description": "Armstrong County is a county located in the U.S. state of Texas. As of the 2010 census, the population was 1,901. Its county seat is Claude. Wikipedia",
             "type": "",
             "Area ": [
-                "512 sq miles (1",
-                "326 km²)"
+                "914 sq miles (2",
+                "367 km²)"
             ],
             "Founded ": [
-                "1818"
+                "1876"
+            ],
+            "Population ": [
+                "1",
+                "944 (2012)"
+            ],
+            "Unemployment rate ": [
+                "3.9% (Aug 2013)"
+            ]
+        },
+        "Arkansas County, Arkansas": {
+            "label": "Arkansas County",
+            "description": "Arkansas County is a county located in the U.S. state of Arkansas. As of the 2010 census, the population was 19,019. The county has two county seats, De Witt and Stuttgart. Wikipedia",
+            "type": "",
+            "Area ": [
+                "1",
+                "042 sq miles (2",
+                "699 km²)"
+            ],
+            "Founded ": "December 13, 1813",
+            "County seat ": [
+                "De Witt"
             ],
             "Population ": [
                 "18",
-                "368 (2012)"
+                "892 (2012)"
             ],
             "Unemployment rate ": [
-                "10.7% (Aug 2013)"
-            ],
-            "See results about": []
-        },
-        "Aderet, Israel": {
-            "label": "Aderet, Israel",
-            "description": "Aderet is a moshav in central Israel. Located in the Judean foothills in the Adullam region, south of Beit Shemesh, west of Gush Etzion and overlooking the Valley of Elah, it falls under the jurisdiction of Mateh Yehuda Regional Council. Wikipedia",
-            "type": "",
-            "Founded ": [
-                "1961"
-            ],
-            "Weather ": [
-                "68°F (20°C)",
-                " Wind NW at 4 mph (6 km/h)",
-                " 64% Humidity"
+                "6.2% (Aug 2013)"
             ]
         },
         "Aroostook County, Maine": {
@@ -718,22 +759,6 @@
                 "630 (2006)"
             ]
         },
-        "Askøy": {
-            "label": "Askøy",
-            "description": "Askøy is a municipality in the county of Hordaland, Norway. Since the opening of the Askøy Bridge leading to the mainland in Bergen in 1992, the population has increased rapidly. Its population growth is as of 2008 among the highest in Norway. Wikipedia",
-            "type": "",
-            "Area ": [
-                "38.61 sq miles (100 km²)"
-            ],
-            "Weather ": [
-                "55°F (13°C)",
-                " Wind SW at 1 mph (2 km/h)",
-                " 9% Humidity"
-            ],
-            "Local time ": [
-                "Tuesday 317 PM"
-            ]
-        },
         "Ashley County, Arkansas": {
             "label": "Ashley County",
             "description": "Ashley County is a county located in the U.S. state of Arkansas, and was formed in 1848 from parts of Chicot, Drew and Union Counties. As of the 2010 census, the population was 21,853. The county seat is Hamburg. It is named for Chester Ashley. Wikipedia",
@@ -756,21 +781,20 @@
                 "Crossett School of Cosmetology"
             ]
         },
-        "Augsburg (district)": {
-            "label": "Augsburg",
-            "description": "Augsburg is a district in Bavaria, Germany. It is bounded by the city of Augsburg and the districts of Aichach-Friedberg, Landsberg, Ostallgäu, Unterallgäu, Günzburg, Dillingen and Donau-Ries. Wikipedia",
-            "type": "",
-            "Population ": [
-                "240",
-                "950 (2011)"
-            ]
-        },
-        "Aure, Norway": {
-            "label": "Aure",
-            "description": "Aure is a municipality in Møre og Romsdal county, Norway. It is part of the region of Nordmøre. The administrative centre is the village of Aure. Other villages in Aure include Gullstein, Stemshaug, Todalen, Tjeldbergodden, and Tømmervåg. Wikipedia",
+        "Askøy": {
+            "label": "Askøy",
+            "description": "Askøy is a municipality in the county of Hordaland, Norway. Since the opening of the Askøy Bridge leading to the mainland in Bergen in 1992, the population has increased rapidly. Its population growth is as of 2008 among the highest in Norway. Wikipedia",
             "type": "",
             "Area ": [
-                "248.6 sq miles (643.9 km²)"
+                "38.61 sq miles (100 km²)"
+            ],
+            "Weather ": [
+                "55°F (13°C)",
+                " Wind SW at 1 mph (2 km/h)",
+                " 9% Humidity"
+            ],
+            "Local time ": [
+                "Tuesday 317 PM"
             ]
         },
         "Attala County, Mississippi": {
@@ -798,6 +822,15 @@
                 "Magnolia Bible College"
             ]
         },
+        "Augsburg (district)": {
+            "label": "Augsburg",
+            "description": "Augsburg is a district in Bavaria, Germany. It is bounded by the city of Augsburg and the districts of Aichach-Friedberg, Landsberg, Ostallgäu, Unterallgäu, Günzburg, Dillingen and Donau-Ries. Wikipedia",
+            "type": "",
+            "Population ": [
+                "240",
+                "950 (2011)"
+            ]
+        },
         "Austevoll": {
             "label": "Austevoll",
             "description": "Austevoll is a municipality and an archipelago in the district of Midthordland in the county of Hordaland in Western Norway, Norway. Austevoll was separated from Sund on 1 January 1886. Wikipedia",
@@ -809,6 +842,49 @@
                 "54°F (12°C)",
                 " Wind W at 8 mph (13 km/h)",
                 " 37% Humidity"
+            ]
+        },
+        "Aure, Norway": {
+            "label": "Aure",
+            "description": "Aure is a municipality in Møre og Romsdal county, Norway. It is part of the region of Nordmøre. The administrative centre is the village of Aure. Other villages in Aure include Gullstein, Stemshaug, Todalen, Tjeldbergodden, and Tømmervåg. Wikipedia",
+            "type": "",
+            "Area ": [
+                "248.6 sq miles (643.9 km²)"
+            ]
+        },
+        "Austrheim": {
+            "label": "Austrheim",
+            "description": "Austrheim is a municipality in the county of Hordaland, Norway. Austrheim was separated from Lindås on 1 January 1910. Fedje was separated from Austrheim on 1 January 1947. The westernmost point of mainland Norway lies in the municipality. Wikipedia",
+            "type": "",
+            "Area ": [
+                "22.01 sq miles (57 km²)"
+            ],
+            "Weather ": [
+                "47°F (8°C)",
+                " Wind SE at 5 mph (8 km/h)",
+                " 53% Humidity"
+            ]
+        },
+        "Austin County, Texas": {
+            "label": "Austin County",
+            "description": "Austin County is a county in the U.S. state of Texas. As of the 2010 census, the population was 28,417. Its seat is Bellville. Wikipedia",
+            "type": "",
+            "Area ": [
+                "656 sq miles (1",
+                "700 km²)"
+            ],
+            "Founded ": [
+                "1837"
+            ],
+            "Population ": [
+                "28",
+                "618 (2012)"
+            ],
+            "Unemployment rate ": [
+                "5.7% (Aug 2013)"
+            ],
+            "County seat ": [
+                "Bellville"
             ]
         },
         "Avery County, North Carolina": {
@@ -834,46 +910,6 @@
             "University ": [
                 "Lees-McRae College"
             ]
-        },
-        "Austin County, Texas": {
-            "label": "Austin County",
-            "description": "Austin County is a county in the U.S. state of Texas. As of the 2010 census, the population was 28,417. Its seat is Bellville. Wikipedia",
-            "type": "",
-            "Area ": [
-                "656 sq miles (1",
-                "700 km²)"
-            ],
-            "Founded ": [
-                "1837"
-            ],
-            "Population ": [
-                "28",
-                "618 (2012)"
-            ],
-            "Unemployment rate ": [
-                "5.7% (Aug 2013)"
-            ],
-            "County seat ": [
-                "Bellville"
-            ]
-        },
-        "Austrheim": {
-            "label": "Austrheim",
-            "description": "Austrheim is a municipality in the county of Hordaland, Norway. Austrheim was separated from Lindås on 1 January 1910. Fedje was separated from Austrheim on 1 January 1947. The westernmost point of mainland Norway lies in the municipality. Wikipedia",
-            "type": "",
-            "Area ": [
-                "22.01 sq miles (57 km²)"
-            ],
-            "Weather ": [
-                "47°F (8°C)",
-                " Wind SE at 5 mph (8 km/h)",
-                " 53% Humidity"
-            ]
-        },
-        "Baden District, Austria": {
-            "label": "Baden District, Austria",
-            "description": "Bezirk Baden is a district of the state of Lower Austria in Austria. Wikipedia",
-            "type": ""
         },
         "Bærum": {
             "label": "Bærum",
@@ -923,6 +959,23 @@
                 "Macclenny"
             ]
         },
+        "Baden District, Austria": {
+            "label": "Baden District, Austria",
+            "description": "Bezirk Baden is a district of the state of Lower Austria in Austria. Wikipedia",
+            "type": ""
+        },
+        "Åsnes": {
+            "label": "Åsnes",
+            "description": "Åsnes is a municipality in Hedmark county, Norway. It is part of the traditional region of Solør. The administrative centre of the municipality is the village of Flisa, which is also the largest town in the municipality with around 2,100 people. Wikipedia",
+            "type": "",
+            "Area ": [
+                "402 sq miles (1",
+                "041 km²)"
+            ],
+            "Local time ": [
+                "Tuesday 316 PM"
+            ]
+        },
         "Baker County, Georgia": {
             "label": "Baker County",
             "description": "Baker County is a county in the U.S. state of Georgia. As of the 2010 census, the population is 3,451. The county seat is Newton.\nBaker County is included in the Albany, Georgia Metropolitan Statistical Area. Wikipedia",
@@ -942,6 +995,22 @@
             ],
             "County seat ": [
                 "Newton"
+            ]
+        },
+        "Balestrand": {
+            "label": "Balestrand",
+            "description": "Balestrand is a municipality in Sogn og Fjordane county, Norway. It is located on the northern shore of the Sognefjorden in the traditional district of Sogn. The administrative center is the village of Balestrand. Wikipedia",
+            "type": "",
+            "Area ": [
+                "166 sq miles (429.8 km²)"
+            ],
+            "Weather ": [
+                "46°F (8°C)",
+                " Wind E at 4 mph (6 km/h)",
+                " 46% Humidity"
+            ],
+            "Local time ": [
+                "Tuesday 318 PM"
             ]
         },
         "Balfouria": {
@@ -973,17 +1042,18 @@
                 "Tuesday 318 PM"
             ]
         },
-        "Balestrand": {
-            "label": "Balestrand",
-            "description": "Balestrand is a municipality in Sogn og Fjordane county, Norway. It is located on the northern shore of the Sognefjorden in the traditional district of Sogn. The administrative center is the village of Balestrand. Wikipedia",
+        "Balsfjord": {
+            "label": "Balsfjord",
+            "description": "Balsfjord is a municipality in Troms county, Norway. The administrative centre of the municipality is the village of Storsteinnes. Other villages include Mestervik, Mortenhals, and Nordkjosbotn. Wikipedia",
             "type": "",
             "Area ": [
-                "166 sq miles (429.8 km²)"
+                "578 sq miles (1",
+                "497 km²)"
             ],
             "Weather ": [
-                "46°F (8°C)",
-                " Wind E at 4 mph (6 km/h)",
-                " 46% Humidity"
+                "44°F (7°C)",
+                " Wind S at 5 mph (8 km/h)",
+                " 53% Humidity"
             ],
             "Local time ": [
                 "Tuesday 318 PM"
@@ -1015,23 +1085,6 @@
             ],
             "Colleges and Universities": []
         },
-        "Balsfjord": {
-            "label": "Balsfjord",
-            "description": "Balsfjord is a municipality in Troms county, Norway. The administrative centre of the municipality is the village of Storsteinnes. Other villages include Mestervik, Mortenhals, and Nordkjosbotn. Wikipedia",
-            "type": "",
-            "Area ": [
-                "578 sq miles (1",
-                "497 km²)"
-            ],
-            "Weather ": [
-                "44°F (7°C)",
-                " Wind S at 5 mph (8 km/h)",
-                " 53% Humidity"
-            ],
-            "Local time ": [
-                "Tuesday 318 PM"
-            ]
-        },
         "Banner County, Nebraska": {
             "label": "Banner County",
             "description": "Banner County is a county located in the U.S. state of Nebraska. As of the 2010 census, the population was 690. Its county seat is Harrisburg; there are no incorporated municipalities within the county. Wikipedia",
@@ -1051,71 +1104,6 @@
             ],
             "County seat ": [
                 "Harrisburg"
-            ]
-        },
-        "Anson County, North Carolina": {
-            "label": "Anson County",
-            "description": "Anson County is a county located in the U.S. state of North Carolina. As of the 2010 census, the population was 26,948. Its county seat is Wadesboro. Wikipedia",
-            "type": "",
-            "Area ": [
-                "537 sq miles (1",
-                "391 km²)"
-            ],
-            "Founded ": [
-                "1750"
-            ],
-            "Population ": [
-                "26",
-                "351 (2012)"
-            ],
-            "Unemployment rate ": [
-                "10.1% (Aug 2013)"
-            ],
-            "County seat ": [
-                "Wadesboro"
-            ],
-            "University ": [
-                "South Piedmont Community College"
-            ]
-        },
-        "Arkansas County, Arkansas": {
-            "label": "Arkansas County",
-            "description": "Arkansas County is a county located in the U.S. state of Arkansas. As of the 2010 census, the population was 19,019. The county has two county seats, De Witt and Stuttgart. Wikipedia",
-            "type": "",
-            "Area ": [
-                "1",
-                "042 sq miles (2",
-                "699 km²)"
-            ],
-            "Founded ": "December 13, 1813",
-            "County seat ": [
-                "De Witt"
-            ],
-            "Population ": [
-                "18",
-                "892 (2012)"
-            ],
-            "Unemployment rate ": [
-                "6.2% (Aug 2013)"
-            ]
-        },
-        "Armstrong County, Texas": {
-            "label": "Armstrong County",
-            "description": "Armstrong County is a county located in the U.S. state of Texas. As of the 2010 census, the population was 1,901. Its county seat is Claude. Wikipedia",
-            "type": "",
-            "Area ": [
-                "914 sq miles (2",
-                "367 km²)"
-            ],
-            "Founded ": [
-                "1876"
-            ],
-            "Population ": [
-                "1",
-                "944 (2012)"
-            ],
-            "Unemployment rate ": [
-                "3.9% (Aug 2013)"
             ]
         },
         "Baraga County, Michigan": {
@@ -1197,6 +1185,28 @@
                 "8.6% (Aug 2013)"
             ]
         },
+        "Bastrop County, Texas": {
+            "label": "Bastrop County",
+            "description": "Bastrop County is a county located in the U.S. state of Texas. As of the 2010 census, the population was 74,171. Its county seat is Bastrop. Wikipedia",
+            "type": "",
+            "Area ": [
+                "896 sq miles (2",
+                "321 km²)"
+            ],
+            "Founded ": [
+                "1836"
+            ],
+            "Population ": [
+                "74",
+                "763 (2012)"
+            ],
+            "County seat ": [
+                "Bastrop"
+            ],
+            "Unemployment rate ": [
+                "6.3% (Aug 2013)"
+            ]
+        },
         "Bat Hadar": {
             "label": "Bat Hadar",
             "description": "Bat Hadar is a communal settlement in southern Israel. Located near Ashkelon, it falls under the jurisdiction of Hof Ashkelon Regional Council. In 2006 it had a population of 411.\nThe village was founded in 1994 by the regional council. Wikipedia",
@@ -1224,28 +1234,6 @@
             ],
             "Local time ": [
                 "Tuesday 418 PM"
-            ]
-        },
-        "Bastrop County, Texas": {
-            "label": "Bastrop County",
-            "description": "Bastrop County is a county located in the U.S. state of Texas. As of the 2010 census, the population was 74,171. Its county seat is Bastrop. Wikipedia",
-            "type": "",
-            "Area ": [
-                "896 sq miles (2",
-                "321 km²)"
-            ],
-            "Founded ": [
-                "1836"
-            ],
-            "Population ": [
-                "74",
-                "763 (2012)"
-            ],
-            "County seat ": [
-                "Bastrop"
-            ],
-            "Unemployment rate ": [
-                "6.3% (Aug 2013)"
             ]
         },
         "Bat Shlomo": {
@@ -1284,6 +1272,16 @@
                 "Butler"
             ]
         },
+        "Batken Province": {
+            "label": "Batken Province",
+            "description": "Batken Province is a province of Kyrgyzstan. Its capital is Batken. It is bounded on the east by Osh Province, on the south, west and north by Tajikistan and on the northeast by Uzbekistan. Wikipedia",
+            "type": "",
+            "Area ": [
+                "6",
+                "562 sq miles (16",
+                "995 km²)"
+            ]
+        },
         "Baxter County, Arkansas": {
             "label": "Baxter County",
             "description": "Baxter County is a county located in the U.S. state of Arkansas. It is in the northern part of the state, and shares a border with Missouri. Wikipedia",
@@ -1305,16 +1303,6 @@
             ],
             "University ": [
                 "Arkansas State University Mountain Home"
-            ]
-        },
-        "Batken Province": {
-            "label": "Batken Province",
-            "description": "Batken Province is a province of Kyrgyzstan. Its capital is Batken. It is bounded on the east by Osh Province, on the south, west and north by Tajikistan and on the northeast by Uzbekistan. Wikipedia",
-            "type": "",
-            "Area ": [
-                "6",
-                "562 sq miles (16",
-                "995 km²)"
             ]
         },
         "Bayreuth (district)": {
@@ -1365,6 +1353,14 @@
                 "Huron University"
             ]
         },
+        "Beaufort, Victoria": {
+            "label": "Beaufort",
+            "description": "Beaufort is a town in Victoria, Australia. It is located on the Western Highway midway between Ararat and Ballarat, in the Pyrenees Shire local government area. It is 387 metres above sea level. Wikipedia",
+            "type": "",
+            "Local time ": [
+                "Wednesday 119 AM"
+            ]
+        },
         "Beaufort County, North Carolina": {
             "label": "Beaufort County",
             "description": "Beaufort County is a county located in the U.S. state of North Carolina. As of the 2010 Census, the population was 47,759. Its county seat is Washington. Wikipedia",
@@ -1393,36 +1389,6 @@
                 "Tar River"
             ]
         },
-        "Beaufort, Victoria": {
-            "label": "Beaufort",
-            "description": "Beaufort is a town in Victoria, Australia. It is located on the Western Highway midway between Ararat and Ballarat, in the Pyrenees Shire local government area. It is 387 metres above sea level. Wikipedia",
-            "type": "",
-            "Local time ": [
-                "Wednesday 119 AM"
-            ]
-        },
-        "Beit Alfa": {
-            "label": "Beit Alfa",
-            "description": "Beit Alfa is a kibbutz in the Northern District of Israel, near the Gilboa ridge. Wikipedia",
-            "type": "",
-            "Founded ": [
-                "1922"
-            ],
-            "Weather ": [
-                "67°F (19°C)",
-                " Wind W at 3 mph (5 km/h)",
-                " 72% Humidity"
-            ],
-            "Local time ": [
-                "Tuesday 419 PM"
-            ],
-            "See results about": []
-        },
-        "Beit Guvrin, Israel": {
-            "label": "Beit Guvrin-Maresha National Park",
-            "description": "",
-            "type": ""
-        },
         "Beaufort County, South Carolina": {
             "label": "Beaufort County",
             "description": "Beaufort County is a county in the U.S. state of South Carolina. As of the 2010 census, its population was 162,233. Its county seat is Beaufort. Wikipedia",
@@ -1448,6 +1414,23 @@
                 "University of South Carolina-Beaufort",
                 " Technical College of the Lowcountry"
             ]
+        },
+        "Beit Alfa": {
+            "label": "Beit Alfa",
+            "description": "Beit Alfa is a kibbutz in the Northern District of Israel, near the Gilboa ridge. Wikipedia",
+            "type": "",
+            "Founded ": [
+                "1922"
+            ],
+            "Weather ": [
+                "67°F (19°C)",
+                " Wind W at 3 mph (5 km/h)",
+                " 72% Humidity"
+            ],
+            "Local time ": [
+                "Tuesday 419 PM"
+            ],
+            "See results about": []
         },
         "Beit Arif": {
             "label": "Beit Arif",
@@ -1475,6 +1458,23 @@
                 "Tuesday 347 PM"
             ]
         },
+        "Beit Guvrin, Israel": {
+            "label": "Beit Guvrin-Maresha National Park",
+            "description": "",
+            "type": ""
+        },
+        "Åmli": {
+            "label": "Åmli",
+            "description": "Åmli is a municipality in the county of Aust-Agder, Norway. It is located in the traditional region of Sørlandet. The main population centre and administrative center is the village of Åmli which lies along the river Nidelva. Wikipedia",
+            "type": "",
+            "Area ": [
+                "437 sq miles (1",
+                "131 km²)"
+            ],
+            "Local time ": [
+                "Tuesday 316 PM"
+            ]
+        },
         "Beit Hagai": {
             "label": "Beit Hagai",
             "description": "Beit Hagai is an Israeli settlement located in the southern Hebron hills in the West Bank. The settlement population was 460 in 2004, according to a classified government document published by the ... Wikipedia",
@@ -1493,29 +1493,28 @@
         "label": 92,
         "description": 92,
         "type": 92,
-        "Area ": 52,
-        "Local time ": 26,
-        "See results about": 9,
-        "Founded ": 44,
-        "County seat ": 30,
-        "Population ": 49,
-        "Unemployment rate ": 36,
-        "Weather ": 29,
-        "Island group ": 1,
-        "Colleges and Universities": 5,
-        "University ": 12,
-        "Rivers ": 6,
-        "Colleges and Universities ": 3,
-        "People also search for": 1
+        "area": 1,
+        "see_results_about": 1,
+        "local_time": 1,
+        "weather": 1,
+        "founded": 1,
+        "population": 1,
+        "unemployment_rate": 1,
+        "county_seat": 1,
+        "island_group": 1,
+        "colleges_and_universities": 1,
+        "university": 1,
+        "rivers": 1,
+        "people_also_search_for": 1
     },
     "infoboxless": [
-        "Arthur County, Nebraska",
-        "Barak, Israel",
-        "Bar Yohai",
-        "Börde",
         "Arsuf, Hof HaSharon",
+        "Arthur County, Nebraska",
+        "Börde",
         "Bømlo",
+        "Bad Dürkheim (district)",
         "Bar Giora",
-        "Bad Dürkheim (district)"
+        "Bar Yohai",
+        "Barak, Israel"
     ]
 }

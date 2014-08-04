@@ -13,6 +13,14 @@
                 "Genus"
             ]
         },
+        "Baragwanathia": {
+            "label": "Baragwanathia",
+            "description": "Baragwanathia is a genus of extinct plants of the division Lycopodiophyta of Late Silurian to Early Devonian age, fossils of which have been found in Australia, Canada and China. Wikipedia",
+            "type": "",
+            "Rank ": [
+                "Genus"
+            ]
+        },
         "Diphasiastrum": {
             "label": "Diphasiastrum",
             "description": "Diphasiastrum is a genus of clubmosses in the plant family Lycopodiaceae. It is closely related to the genus Lycopodium, and some botanists treat it within a broad view of that genus as a section, Lycopodium sect. Complanata. Wikipedia",
@@ -39,9 +47,14 @@
                 "Huperzia"
             ]
         },
-        "Baragwanathia": {
-            "label": "Baragwanathia",
-            "description": "Baragwanathia is a genus of extinct plants of the division Lycopodiophyta of Late Silurian to Early Devonian age, fossils of which have been found in Australia, Canada and China. Wikipedia",
+        "Leclercqia": {
+            "label": "Leclercqia",
+            "description": "Leclercqia is a species of early ligulate lycophyte, known as fossils from the Middle Devonian of Australia, North America, Germany, and Belgium. Wikipedia",
+            "type": ""
+        },
+        "Pleuromeia": {
+            "label": "Pleuromeia",
+            "description": "Pleuromeia is a genus of extinct spore-trees belonging to the order Pleuromeiales and class Isoetopsida. It was one of the most common plants during the recovery from the Permian-Triassic extinction event. Wikipedia",
             "type": "",
             "Rank ": [
                 "Genus"
@@ -55,22 +68,9 @@
                 "Isoetes histrix"
             ]
         },
-        "Leclercqia": {
-            "label": "Leclercqia",
-            "description": "Leclercqia is a species of early ligulate lycophyte, known as fossils from the Middle Devonian of Australia, North America, Germany, and Belgium. Wikipedia",
-            "type": ""
-        },
         "Haplostigma": {
             "label": "Haplostigma",
             "description": "Haplostigma is a genus of arborescent lycopod, found only in the early part of the Middle Devonian. Wikipedia",
-            "type": "",
-            "Rank ": [
-                "Genus"
-            ]
-        },
-        "Pleuromeia": {
-            "label": "Pleuromeia",
-            "description": "Pleuromeia is a genus of extinct spore-trees belonging to the order Pleuromeiales and class Isoetopsida. It was one of the most common plants during the recovery from the Permian-Triassic extinction event. Wikipedia",
             "type": "",
             "Rank ": [
                 "Genus"
@@ -90,6 +90,14 @@
                 "Huperzia"
             ]
         },
+        "Selaginella moellendorffii": {
+            "label": "Selaginella moellendorffii",
+            "description": "Selaginella moellendorffii is a lycophyte that is an important model organism, especially in comparative genomics. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Selaginella moellendorffii"
+            ]
+        },
         "Lycopodiella cernua": {
             "label": "Lycopodiella cernua",
             "description": "Lycopodiella cernua is a plant in the family Lycopodiaceae commonly known as the staghorn clubmoss. The Hawaiian name for the plant is wāwaeʻiole, or \"rat's foot\". Wikipedia",
@@ -98,13 +106,10 @@
                 "Lycopodiella cernua"
             ]
         },
-        "Selaginella moellendorffii": {
-            "label": "Selaginella moellendorffii",
-            "description": "Selaginella moellendorffii is a lycophyte that is an important model organism, especially in comparative genomics. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Selaginella moellendorffii"
-            ]
+        "Asteroxylon": {
+            "label": "Asteroxylon",
+            "description": "Asteroxylon is an extinct genus of plants of the Division Lycopodiophyta known from anatomically preserved specimens in an Early Devonian deposit of chert at Rhynie, Aberdeenshire in North-East Scotland ... Wikipedia",
+            "type": ""
         },
         "Diphasiastrum complanatum": {
             "label": "Diphasiastrum complanatum",
@@ -128,10 +133,11 @@
                 "Huperzia"
             ]
         },
-        "Asteroxylon": {
-            "label": "Asteroxylon",
-            "description": "Asteroxylon is an extinct genus of plants of the Division Lycopodiophyta known from anatomically preserved specimens in an Early Devonian deposit of chert at Rhynie, Aberdeenshire in North-East Scotland ... Wikipedia",
-            "type": ""
+        "Isoetopsida": {
+            "label": "Isoetopsida",
+            "description": "The Isoetopsida is a class of the Lycopodiophyta. All living plants belong to the genus Selaginella in the Selaginellales or to Isoetes in the order Isoetales. Wikipedia",
+            "type": "",
+            "See results about": []
         },
         "Lycopodiaceae": {
             "label": "Lycopodiaceae",
@@ -152,12 +158,6 @@
                 " Diphasiastrum",
                 " Lycopodiella"
             ]
-        },
-        "Isoetopsida": {
-            "label": "Isoetopsida",
-            "description": "The Isoetopsida is a class of the Lycopodiophyta. All living plants belong to the genus Selaginella in the Selaginellales or to Isoetes in the order Isoetales. Wikipedia",
-            "type": "",
-            "See results about": []
         },
         "Lycopodiophyta": {
             "label": "Lycopodiophyta",
@@ -202,6 +202,34 @@
                 "Species"
             ]
         },
+        "Isoetes appalachiana": {
+            "label": "Isoetes appalachiana",
+            "description": "Isoetes appalachiana, commonly known as the Appalachian quillwort, is an aquatic pteridophyte that is widely distributed in the eastern United States. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Isoetes appalachiana"
+            ],
+            "Rank ": [
+                "Species"
+            ],
+            "Higher classification ": [
+                "Isoetes"
+            ]
+        },
+        "Isoetes tegetiformans": {
+            "label": "Isoetes tegetiformans",
+            "description": "Isoetes tegetiformans, commonly known as mat-forming quillwort or mat-forming Merlin's grass, is an aquatic pteridophyte endemic to the U.S. State of Georgia. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Isoetes tegetiformans"
+            ],
+            "Rank ": [
+                "Species"
+            ],
+            "Higher classification ": [
+                "Isoetes"
+            ]
+        },
         "Selaginella": {
             "label": "Selaginella",
             "description": "Selaginella is a genus of plants in the family Selaginellaceae, the spikemosses. Many scientists still place the Selaginellales in the class Lycopodiopsida. Wikipedia",
@@ -227,20 +255,6 @@
             "type": "",
             "Scientific name ": [
                 "Huperzia serrata"
-            ]
-        },
-        "Isoetes appalachiana": {
-            "label": "Isoetes appalachiana",
-            "description": "Isoetes appalachiana, commonly known as the Appalachian quillwort, is an aquatic pteridophyte that is widely distributed in the eastern United States. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Isoetes appalachiana"
-            ],
-            "Rank ": [
-                "Species"
-            ],
-            "Higher classification ": [
-                "Isoetes"
             ]
         },
         "Huperzia": {
@@ -277,32 +291,18 @@
             ],
             "See results about": []
         },
-        "Isoetes tegetiformans": {
-            "label": "Isoetes tegetiformans",
-            "description": "Isoetes tegetiformans, commonly known as mat-forming quillwort or mat-forming Merlin's grass, is an aquatic pteridophyte endemic to the U.S. State of Georgia. Wikipedia",
+        "Isoetes valida": {
+            "label": "Isoetes valida",
+            "description": "Isoetes valida, commonly known as the strong quillwort or true quillwort, is an aquatic pteridophyte native to eastern North America. It is found primarily in the Appalachian Mountains from Pennsylvania south to Alabama and Georgia. Wikipedia",
             "type": "",
             "Scientific name ": [
-                "Isoetes tegetiformans"
+                "Isoetes valida"
             ],
             "Rank ": [
                 "Species"
             ],
             "Higher classification ": [
                 "Isoetes"
-            ]
-        },
-        "Huperzia lucidula": {
-            "label": "Huperzia lucidula",
-            "description": "Huperzia lucidula, shining firmoss or shining clubmoss, is a bright evergreen, rhizomatous clubmoss of the genus Huperzia.\nThey grow in loose tufts 14-20 cm long, occasionally up to 1 m long. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Huperzia lucidula"
-            ],
-            "Rank ": [
-                "Species"
-            ],
-            "Higher classification ": [
-                "Huperzia"
             ]
         },
         "Selaginella rupestris": {
@@ -319,32 +319,18 @@
                 "Selaginella"
             ]
         },
-        "Isoetes valida": {
-            "label": "Isoetes valida",
-            "description": "Isoetes valida, commonly known as the strong quillwort or true quillwort, is an aquatic pteridophyte native to eastern North America. It is found primarily in the Appalachian Mountains from Pennsylvania south to Alabama and Georgia. Wikipedia",
+        "Huperzia lucidula": {
+            "label": "Huperzia lucidula",
+            "description": "Huperzia lucidula, shining firmoss or shining clubmoss, is a bright evergreen, rhizomatous clubmoss of the genus Huperzia.\nThey grow in loose tufts 14-20 cm long, occasionally up to 1 m long. Wikipedia",
             "type": "",
             "Scientific name ": [
-                "Isoetes valida"
+                "Huperzia lucidula"
             ],
             "Rank ": [
                 "Species"
             ],
             "Higher classification ": [
-                "Isoetes"
-            ]
-        },
-        "Isoetes louisianensis": {
-            "label": "Isoetes louisianensis",
-            "description": "The Louisiana quillwort is a small, grass-like aquatic plant of the family Isoetaceae. It is \"one of the rarest quillworts in North America.\" Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Isoetes louisianensis"
-            ],
-            "Rank ": [
-                "Species"
-            ],
-            "Higher classification ": [
-                "Isoetes"
+                "Huperzia"
             ]
         },
         "Huperzia megastachya": {
@@ -361,6 +347,20 @@
                 "Huperzia"
             ]
         },
+        "Isoetes louisianensis": {
+            "label": "Isoetes louisianensis",
+            "description": "The Louisiana quillwort is a small, grass-like aquatic plant of the family Isoetaceae. It is \"one of the rarest quillworts in North America.\" Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Isoetes louisianensis"
+            ],
+            "Rank ": [
+                "Species"
+            ],
+            "Higher classification ": [
+                "Isoetes"
+            ]
+        },
         "Drepanophycus": {
             "label": "Drepanophycus",
             "description": "Drepanophycus is a genus of extinct plants of the Division Lycopodiophyta of Early to Late Devonian age, found in Eastern Canada and Northeast USA, China, Russia, Egypt and various parts of Northern Europe and Britain. Wikipedia",
@@ -369,14 +369,6 @@
                 "Genus"
             ],
             "See results about": []
-        },
-        "Selaginella pulcherrima": {
-            "label": "Selaginella pulcherrima",
-            "description": "Selaginella pulcherrima is a species of plant in the Selaginellaceae family. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Selaginella pulcherrima"
-            ]
         },
         "Selaginella elmeri": {
             "label": "Selaginella elmeri",
@@ -402,12 +394,34 @@
                 "Selaginella poulteri"
             ]
         },
+        "Selaginella pulcherrima": {
+            "label": "Selaginella pulcherrima",
+            "description": "Selaginella pulcherrima is a species of plant in the Selaginellaceae family. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Selaginella pulcherrima"
+            ]
+        },
         "Selaginella uncinata": {
             "label": "Selaginella uncinata",
             "description": "Selaginella uncinata is a species of plant in the Selaginellaceae family. Wikipedia",
             "type": "",
             "Scientific name ": [
                 "Selaginella uncinata"
+            ]
+        },
+        "Selaginella apoda": {
+            "label": "Selaginella apoda",
+            "description": "Selaginella apoda, commonly known as meadow spike-moss, is a lycophyte native to much of the eastern United States and parts of northeastern Mexico. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Selaginella apoda"
+            ],
+            "Rank ": [
+                "Species"
+            ],
+            "Higher classification ": [
+                "Selaginella"
             ]
         },
         "Isoëtes": {
@@ -436,12 +450,12 @@
             ],
             "See results about": []
         },
-        "Selaginella apoda": {
-            "label": "Selaginella apoda",
-            "description": "Selaginella apoda, commonly known as meadow spike-moss, is a lycophyte native to much of the eastern United States and parts of northeastern Mexico. Wikipedia",
+        "Selaginella selaginoides": {
+            "label": "Selaginella selaginoides",
+            "description": "Selaginella selaginoides is a non-flowering plant of the spikemoss genus Selaginella with a wide distribution around the Northern Hemisphere. It resembles a moss in appearance but is a vascular plant belonging to the division Lycopodiophyta. Wikipedia",
             "type": "",
             "Scientific name ": [
-                "Selaginella apoda"
+                "Selaginella selaginoides"
             ],
             "Rank ": [
                 "Species"
@@ -464,18 +478,18 @@
                 "Species"
             ]
         },
-        "Selaginella selaginoides": {
-            "label": "Selaginella selaginoides",
-            "description": "Selaginella selaginoides is a non-flowering plant of the spikemoss genus Selaginella with a wide distribution around the Northern Hemisphere. It resembles a moss in appearance but is a vascular plant belonging to the division Lycopodiophyta. Wikipedia",
+        "Isoetes lacustris": {
+            "label": "Isoetes lacustris",
+            "description": "Isoetes lacustris is a boreal quillwort native on both sides of the northern Atlantic Ocean. In Europe, it is distributed from Poland west to northeastern France, throughout Scandinavia, the west and ... Wikipedia",
             "type": "",
             "Scientific name ": [
-                "Selaginella selaginoides"
+                "Isoetes lacustris"
             ],
             "Rank ": [
                 "Species"
             ],
             "Higher classification ": [
-                "Selaginella"
+                "Isoetes"
             ]
         },
         "Lycopodiella": {
@@ -496,18 +510,15 @@
             ],
             "See results about": []
         },
-        "Isoetes lacustris": {
-            "label": "Isoetes lacustris",
-            "description": "Isoetes lacustris is a boreal quillwort native on both sides of the northern Atlantic Ocean. In Europe, it is distributed from Poland west to northeastern France, throughout Scandinavia, the west and ... Wikipedia",
+        "Selaginella carinata": {
+            "label": "Selaginella carinata",
+            "description": "Selaginella carinata is a species of plant in the Selaginellaceae family. It is endemic to Ecuador. Its natural habitat is subtropical or tropical moist montane forests. It is threatened by habitat loss. Wikipedia",
             "type": "",
             "Scientific name ": [
-                "Isoetes lacustris"
+                "Selaginella carinata"
             ],
             "Rank ": [
                 "Species"
-            ],
-            "Higher classification ": [
-                "Isoetes"
             ]
         },
         "Selaginella sericea": {
@@ -516,17 +527,6 @@
             "type": "",
             "Scientific name ": [
                 "Selaginella sericea"
-            ],
-            "Rank ": [
-                "Species"
-            ]
-        },
-        "Selaginella carinata": {
-            "label": "Selaginella carinata",
-            "description": "Selaginella carinata is a species of plant in the Selaginellaceae family. It is endemic to Ecuador. Its natural habitat is subtropical or tropical moist montane forests. It is threatened by habitat loss. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Selaginella carinata"
             ],
             "Rank ": [
                 "Species"
@@ -582,14 +582,6 @@
                 "Phylloglossum"
             ]
         },
-        "Selaginella bryopteris": {
-            "label": "Selaginella bryopteris",
-            "description": "Selaginella bryopteris, known commonly as sanjeevini and sanjivini booti, is a lithophytic plant. It is used medicinally in India. The popular name sanjeevani which translates as \"One that infuses life\" derives from the medicinal properties. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Selaginella bryopteris"
-            ]
-        },
         "Lycopodiopsida": {
             "label": "Lycopodiopsida",
             "description": "The Lycopodiopsida are a class of plants often loosely grouped as the fern allies. Traditionally, the group included not only the clubmosses and firmosses, but also the spikemosses and the quillworts. Wikipedia",
@@ -602,6 +594,14 @@
             ],
             "Rank ": [
                 "Class"
+            ]
+        },
+        "Selaginella bryopteris": {
+            "label": "Selaginella bryopteris",
+            "description": "Selaginella bryopteris, known commonly as sanjeevini and sanjivini booti, is a lithophytic plant. It is used medicinally in India. The popular name sanjeevani which translates as \"One that infuses life\" derives from the medicinal properties. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Selaginella bryopteris"
             ]
         },
         "Isoetes eludens": {
@@ -620,14 +620,6 @@
                 "Lycopodium obscurum"
             ]
         },
-        "Selaginella oregana": {
-            "label": "Selaginella oregana",
-            "description": "Selaginella oregana is a species of spikemoss known by the common name Oregon spikemoss. It is native to the Pacific Coast of western North America, where it can be found from British Columbia to northern California. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Selaginella oregana"
-            ]
-        },
         "Selaginella serpens": {
             "label": "Selaginella serpens",
             "description": "Selaginella serpens is a species of plant in the Selaginellaceae family. Wikipedia",
@@ -636,11 +628,13 @@
                 "Selaginella serpens"
             ]
         },
-        "Dendrolycopodium": {
-            "label": "Dendrolycopodium",
-            "description": "The genus Dendrolycopodium is a clubmoss genus that some taxonomists have segregated from Lycopodium. It is treated as section Obscura when retained within Lycopodium. The genus includes a discrete group of plants with similar morphologies. Wikipedia",
+        "Selaginella oregana": {
+            "label": "Selaginella oregana",
+            "description": "Selaginella oregana is a species of spikemoss known by the common name Oregon spikemoss. It is native to the Pacific Coast of western North America, where it can be found from British Columbia to northern California. Wikipedia",
             "type": "",
-            "See results about": []
+            "Scientific name ": [
+                "Selaginella oregana"
+            ]
         },
         "Selaginella umbrosa": {
             "label": "Selaginella umbrosa",
@@ -649,6 +643,20 @@
             "Scientific name ": [
                 "Selaginella umbrosa"
             ]
+        },
+        "Isoetes engelmannii": {
+            "label": "Isoetes engelmannii",
+            "description": "Isoetes engelmannii, commonly known as Engelmann's quillwort or Appalachian quillwort, is an aquatic pteridophyte and is the most widely distributed species of its genus in eastern North America. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Isoetes engelmanii"
+            ]
+        },
+        "Dendrolycopodium": {
+            "label": "Dendrolycopodium",
+            "description": "The genus Dendrolycopodium is a clubmoss genus that some taxonomists have segregated from Lycopodium. It is treated as section Obscura when retained within Lycopodium. The genus includes a discrete group of plants with similar morphologies. Wikipedia",
+            "type": "",
+            "See results about": []
         },
         "Isoetes bolanderi": {
             "label": "Isoetes bolanderi",
@@ -664,6 +672,11 @@
                 "Isoetes"
             ]
         },
+        "Lepidodendrales": {
+            "label": "Lepidodendrales",
+            "description": "Lepidodendrales were primitive, vascular, arborescent plants related to the lycopsids. They thrived during the Carboniferous period, and some reached heights of over 30 meters, with trunks often more than one meter in diameter. Wikipedia",
+            "type": ""
+        },
         "Isoetes howellii": {
             "label": "Isoetes howellii",
             "description": "Isoetes howellii is a species of quillwort, a type of lycopod. Its common name is Howell's quillwort. This is a \"primitive\" aquatic plant native to western North America which grows in wet habitat such as vernal pools. Wikipedia",
@@ -678,10 +691,13 @@
                 "Isoetes"
             ]
         },
-        "Lepidodendrales": {
-            "label": "Lepidodendrales",
-            "description": "Lepidodendrales were primitive, vascular, arborescent plants related to the lycopsids. They thrived during the Carboniferous period, and some reached heights of over 30 meters, with trunks often more than one meter in diameter. Wikipedia",
-            "type": ""
+        "Lycopodium dendroideum": {
+            "label": "Lycopodium dendroideum",
+            "description": "Lycopodium dendroideum is a clubmoss native to the northeastern USA. It is part of a complex of species colloquially known as groundpine, which taxa were formerly lumped into the species Lycopodium obscurum. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Lycopodium dendroideum"
+            ]
         },
         "Lycopodium deuterodensum": {
             "label": "Lycopodium deuterodensum",
@@ -691,20 +707,12 @@
                 "Lycopodium deuterodensum"
             ]
         },
-        "Lycopodium dendroideum": {
-            "label": "Lycopodium dendroideum",
-            "description": "Lycopodium dendroideum is a clubmoss native to the northeastern USA. It is part of a complex of species colloquially known as groundpine, which taxa were formerly lumped into the species Lycopodium obscurum. Wikipedia",
+        "Selaginella bifida": {
+            "label": "Selaginella bifida",
+            "description": "Selaginella bifida is a lycophyte native to Rodrigues Island in the Mascarene Islands. It was found firstly in 1991 on the Mont Limon at 20–150 m high and was confused with S. rodrigueziana Baker because of their strong phenotypical homologies. Wikipedia",
             "type": "",
             "Scientific name ": [
-                "Lycopodium dendroideum"
-            ]
-        },
-        "Isoetes engelmannii": {
-            "label": "Isoetes engelmannii",
-            "description": "Isoetes engelmannii, commonly known as Engelmann's quillwort or Appalachian quillwort, is an aquatic pteridophyte and is the most widely distributed species of its genus in eastern North America. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Isoetes engelmanii"
+                "Selaginella bifida"
             ]
         },
         "Selaginella biformis": {
@@ -723,20 +731,20 @@
                 "Selaginella asprella"
             ]
         },
-        "Selaginella densa": {
-            "label": "Selaginella densa",
-            "description": "Selaginella densa is a species of spikemoss known by the common names lesser spikemoss, prairie spikemoss, and Rocky Mountains spikemoss. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Selaginella densa"
-            ]
-        },
         "Selaginella bigelovii": {
             "label": "Selaginella bigelovii",
             "description": "Selaginella bigelovii is a species of spikemoss known by the common names bushy spikemoss and Bigelow's spikemoss. Wikipedia",
             "type": "",
             "Scientific name ": [
                 "Selaginella bigelovii"
+            ]
+        },
+        "Selaginella cinerascens": {
+            "label": "Selaginella cinerascens",
+            "description": "Selaginella cinerascens is a species of spikemoss known by the common names ashy spikemoss, gray spikemoss, and mesa spikemoss. It is native to Baja California as well as some locations just north of the border in San Diego County, California. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Selaginella cinerascens"
             ]
         },
         "Selaginella eremophila": {
@@ -747,20 +755,12 @@
                 "Selaginella eremophila"
             ]
         },
-        "Selaginella bifida": {
-            "label": "Selaginella bifida",
-            "description": "Selaginella bifida is a lycophyte native to Rodrigues Island in the Mascarene Islands. It was found firstly in 1991 on the Mont Limon at 20–150 m high and was confused with S. rodrigueziana Baker because of their strong phenotypical homologies. Wikipedia",
+        "Selaginella densa": {
+            "label": "Selaginella densa",
+            "description": "Selaginella densa is a species of spikemoss known by the common names lesser spikemoss, prairie spikemoss, and Rocky Mountains spikemoss. Wikipedia",
             "type": "",
             "Scientific name ": [
-                "Selaginella bifida"
-            ]
-        },
-        "Selaginella cinerascens": {
-            "label": "Selaginella cinerascens",
-            "description": "Selaginella cinerascens is a species of spikemoss known by the common names ashy spikemoss, gray spikemoss, and mesa spikemoss. It is native to Baja California as well as some locations just north of the border in San Diego County, California. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Selaginella cinerascens"
+                "Selaginella densa"
             ]
         },
         "Selaginella hansenii": {
@@ -825,13 +825,14 @@
         "label": 75,
         "description": 75,
         "type": 75,
-        "Rank ": 39,
-        "Higher classification ": 28,
-        "See results about": 8,
-        "Scientific name ": 61,
-        "Lower classifications ": 6
+        "rank": 1,
+        "higher_classification": 1,
+        "see_results_about": 1,
+        "scientific_name": 1,
+        "lower_classifications": 1
     },
     "infoboxless": [
+        "Lycopodium",
         "Drepanophycaceae",
         "Drepanophycales",
         "Isoetales",
@@ -839,12 +840,11 @@
         "Huperzia mannii",
         "Lycopodium magellanicum",
         "Lycopodium scariosum",
-        "Huperzia varia",
         "Diphasiastrum alpinum",
+        "Huperzia varia",
         "Lycopodium fastigiatum",
         "Huperziaceae",
         "Cyclodendron",
-        "Brasilodendron",
-        "Lycopodium"
+        "Brasilodendron"
     ]
 }

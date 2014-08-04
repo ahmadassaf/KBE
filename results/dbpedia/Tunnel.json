@@ -5,15 +5,27 @@
             "description": "The Gotthard Base Tunnel is a railway tunnel in the heart of the Swiss Alps expected to open in 2016. Wikipedia",
             "type": ""
         },
+        "Sierre Tunnel": {
+            "label": "Sierre Tunnel",
+            "description": "The Sierre Tunnel is a tunnel near Sierre in the Swiss canton of Valais. It is part of the A9 Autobahn and is located between Sierre and Sierre-Est-Ouest.\nThe tunnel was opened in 1999 and consists of two tubes of 2,460 metres in length. Wikipedia",
+            "type": ""
+        },
         "Munt la Schera Tunnel": {
             "label": "Munt la Schera Tunnel",
             "description": "The Munt la Schera Tunnel is a single lane road tunnel located in the Swiss canton of Grisons. It connects the Engadin valley with Lago di Livigno, through Munt la Schera.\nThe tunnel is now open 24 hours a day. Wikipedia",
             "type": ""
         },
-        "Sierre Tunnel": {
-            "label": "Sierre Tunnel",
-            "description": "The Sierre Tunnel is a tunnel near Sierre in the Swiss canton of Valais. It is part of the A9 Autobahn and is located between Sierre and Sierre-Est-Ouest.\nThe tunnel was opened in 1999 and consists of two tubes of 2,460 metres in length. Wikipedia",
-            "type": ""
+        "Ted Williams Tunnel": {
+            "label": "Ted Williams Tunnel",
+            "description": "The Ted Williams Tunnel, also known as the Williams Tunnel, is the name of the third highway tunnel under Boston Harbor in Boston, Massachusetts, the Sumner and Callahan Tunnels being the other two. Wikipedia",
+            "type": "",
+            "Construction started ": [
+                "1991"
+            ],
+            "Opened ": [
+                "1995"
+            ],
+            "People also search for": []
         },
         "Seikan Tunnel": {
             "label": "Seikan Tunnel",
@@ -37,16 +49,10 @@
             ],
             "People also search for": []
         },
-        "Ted Williams Tunnel": {
-            "label": "Ted Williams Tunnel",
-            "description": "The Ted Williams Tunnel, also known as the Williams Tunnel, is the name of the third highway tunnel under Boston Harbor in Boston, Massachusetts, the Sumner and Callahan Tunnels being the other two. Wikipedia",
+        "Thomas P. O'Neill Jr. Tunnel": {
+            "label": "Thomas P. O'Neill Jr. Tunnel",
+            "description": "The Thomas P. \"Tip\" O'Neill, Jr. Tunnel is a highway tunnel built as part of the Big Dig in Boston, Massachusetts. It carries the Central Artery underneath downtown Boston, and is numbered as Interstate 93, U.S. Route 1, and Route 3. Wikipedia",
             "type": "",
-            "Construction started ": [
-                "1991"
-            ],
-            "Opened ": [
-                "1995"
-            ],
             "People also search for": []
         },
         "Hvalfjörður Tunnel": {
@@ -54,25 +60,9 @@
             "description": "Hvalfjörður Tunnel is a road tunnel under the Hvalfjörður fjord in Iceland and a part of Route 1. It is 5,770 m long and reaches a depth of 165m below sea level. Wikipedia",
             "type": ""
         },
-        "Thomas P. O'Neill Jr. Tunnel": {
-            "label": "Thomas P. O'Neill Jr. Tunnel",
-            "description": "The Thomas P. \"Tip\" O'Neill, Jr. Tunnel is a highway tunnel built as part of the Big Dig in Boston, Massachusetts. It carries the Central Artery underneath downtown Boston, and is numbered as Interstate 93, U.S. Route 1, and Route 3. Wikipedia",
-            "type": "",
-            "People also search for": []
-        },
-        "Aylsham Bypass Tunnel": {
-            "label": "Aylsham Bypass Tunnel",
-            "description": "The Aylsham Bypass Tunnel is the only railway tunnel in Norfolk, England currently open to trains. It carries the narrow gauge Bure Valley Railway under the Aylsham Bypass. Wikipedia",
-            "type": ""
-        },
         "Great St Bernard Tunnel": {
             "label": "Great St Bernard Tunnel",
             "description": "The Great St Bernard Tunnel, Italian Traforo del Gran San Bernardo, German Tunnel des Grossen Sankt Bernhard is a road tunnel complementing the Great St Bernard Pass, linking Martigny with Saint-Rhémy-en-Bosses. Wikipedia",
-            "type": ""
-        },
-        "Bjørvika Tunnel": {
-            "label": "Bjørvika Tunnel",
-            "description": "The Bjørvika Tunnel is a motorway immersed tunnel on European Route E18 in the city center of Oslo, Norway. The tunnel has two bores, with three lanes in each. Wikipedia",
             "type": ""
         },
         "Limehouse Link tunnel": {
@@ -90,6 +80,16 @@
                 " Limehouse Basin",
                 " Chelsea Embankment"
             ]
+        },
+        "Aylsham Bypass Tunnel": {
+            "label": "Aylsham Bypass Tunnel",
+            "description": "The Aylsham Bypass Tunnel is the only railway tunnel in Norfolk, England currently open to trains. It carries the narrow gauge Bure Valley Railway under the Aylsham Bypass. Wikipedia",
+            "type": ""
+        },
+        "Bjørvika Tunnel": {
+            "label": "Bjørvika Tunnel",
+            "description": "The Bjørvika Tunnel is a motorway immersed tunnel on European Route E18 in the city center of Oslo, Norway. The tunnel has two bores, with three lanes in each. Wikipedia",
+            "type": ""
         },
         "Center City Commuter Connection": {
             "label": "Center City Commuter Connection",
@@ -149,6 +149,11 @@
             ],
             "People also search for": []
         },
+        "Traforo del Gran Sasso": {
+            "label": "Traforo del Gran Sasso",
+            "description": "The Gran Sasso Tunnel is part of the A24 Motorway that links Rome and the Adriatic Sea via L'Aquila and Teramo, through the Apennine Mountains via the Gran Sasso in Abruzzo. Wikipedia",
+            "type": ""
+        },
         "Box Tunnel": {
             "label": "Box Tunnel",
             "description": "Box Tunnel is a railway tunnel in Western England, between Bath and Chippenham, dug through Box Hill, and is one of the most significant structures on the Great Western Main Line. Wikipedia",
@@ -167,6 +172,11 @@
             ],
             "People also search for": []
         },
+        "Honningsvåg Tunnel": {
+            "label": "Honningsvåg Tunnel",
+            "description": "Honningsvåg Tunnel is a road tunnel on the island of Magerøya in Nordkapp Municipality in Finnmark county, Norway. It is located slightly north of the undersea North Cape Tunnel, and it is part of the European route E69 highway. Wikipedia",
+            "type": ""
+        },
         "2nd Street Tunnel": {
             "label": "2nd Street Tunnel",
             "description": "The 2nd Street Tunnel is a widely filmed and photographed tunnel on 2nd Street under Bunker Hill in Downtown Los Angeles, California. It has been described as \"the most recognizable city landmark most Americans have never heard of\". Wikipedia",
@@ -178,19 +188,19 @@
                 " United States"
             ]
         },
-        "Traforo del Gran Sasso": {
-            "label": "Traforo del Gran Sasso",
-            "description": "The Gran Sasso Tunnel is part of the A24 Motorway that links Rome and the Adriatic Sea via L'Aquila and Teramo, through the Apennine Mountains via the Gran Sasso in Abruzzo. Wikipedia",
-            "type": ""
-        },
-        "Honningsvåg Tunnel": {
-            "label": "Honningsvåg Tunnel",
-            "description": "Honningsvåg Tunnel is a road tunnel on the island of Magerøya in Nordkapp Municipality in Finnmark county, Norway. It is located slightly north of the undersea North Cape Tunnel, and it is part of the European route E69 highway. Wikipedia",
-            "type": ""
-        },
         "Allegheny Mountain Tunnel": {
             "label": "Allegheny Mountain Tunnel",
             "description": "The Allegheny Mountain Tunnel is a vehicular tunnel carrying the Pennsylvania Turnpike through the Allegheny Mountains. At this point, the Turnpike carries Interstates 70 and 76. Wikipedia",
+            "type": ""
+        },
+        "Bømlafjord Tunnel": {
+            "label": "Bømlafjord Tunnel",
+            "description": "The Bømlafjord Tunnel is a subsea road tunnel under Bømlafjorden which connects the island of Føyno in Stord to the mainland at Dalshovda in Sveio, Norway. The tunnel is 7.820 kilometers long and reaches 260.4 m below mean sea level. Wikipedia",
+            "type": ""
+        },
+        "Berkeley Hills Tunnel": {
+            "label": "Berkeley Hills Tunnel",
+            "description": "The Berkeley Hills Tunnel is a tunnel which carries Bay Area Rapid Transit's Pittsburg/Bay Point–SFO/Millbrae line through the Berkeley Hills between the Rockridge and Orinda stations. Wikipedia",
             "type": ""
         },
         "Blackwall Tunnel": {
@@ -204,16 +214,6 @@
             ],
             "People also search for": []
         },
-        "Berkeley Hills Tunnel": {
-            "label": "Berkeley Hills Tunnel",
-            "description": "The Berkeley Hills Tunnel is a tunnel which carries Bay Area Rapid Transit's Pittsburg/Bay Point–SFO/Millbrae line through the Berkeley Hills between the Rockridge and Orinda stations. Wikipedia",
-            "type": ""
-        },
-        "Bømlafjord Tunnel": {
-            "label": "Bømlafjord Tunnel",
-            "description": "The Bømlafjord Tunnel is a subsea road tunnel under Bømlafjorden which connects the island of Føyno in Stord to the mainland at Dalshovda in Sveio, Norway. The tunnel is 7.820 kilometers long and reaches 260.4 m below mean sea level. Wikipedia",
-            "type": ""
-        },
         "Broadway Tunnel (Los Angeles)": {
             "label": "Broadway Tunnel",
             "description": "The Broadway Tunnel was a tunnel under Fort Moore Hill in Los Angeles, California, downtown, extending North Broadway, at Sand Street, one block north of Temple Street, northeast to the intersection of Bellevue Avenue, to Buena Vista Street. Wikipedia",
@@ -223,11 +223,6 @@
             "label": "Broadway Tunnel",
             "description": "The Broadway Tunnel is a roadway tunnel in San Francisco, California. The tunnel opened in 1952, and serves as a high-capacity conduit for traffic between Chinatown and North Beach to the east and Russian Hill and Van Ness to the west. Wikipedia",
             "type": "San Francisco"
-        },
-        "Byfjord Tunnel": {
-            "label": "Byfjord Tunnel",
-            "description": "The Byfjord Tunnel is a subsea road tunnel which runs between the mainland at Randaberg and Sokn in Rennesøy, Norway. The tunnel is 5,875 meters long and opened in 1992 as a toll road. It is part of European Road 39 and the Rennesøy Fixed Link. Wikipedia",
-            "type": ""
         },
         "Burnley Tunnel": {
             "label": "Burnley Tunnel",
@@ -239,9 +234,9 @@
             ],
             "People also search for": []
         },
-        "Carlin Tunnel": {
-            "label": "Carlin Tunnel",
-            "description": "The Carlin Tunnel is a collective name for a set of four tunnel bores east of Carlin, in Elko County, Nevada, USA. Each of the four bores was constructed for a different purpose and at a different time. Wikipedia",
+        "Byfjord Tunnel": {
+            "label": "Byfjord Tunnel",
+            "description": "The Byfjord Tunnel is a subsea road tunnel which runs between the mainland at Randaberg and Sokn in Rennesøy, Norway. The tunnel is 5,875 meters long and opened in 1992 as a toll road. It is part of European Road 39 and the Rennesøy Fixed Link. Wikipedia",
             "type": ""
         },
         "Caldecott Tunnel": {
@@ -252,6 +247,11 @@
                 "1937"
             ],
             "People also search for": []
+        },
+        "Carlin Tunnel": {
+            "label": "Carlin Tunnel",
+            "description": "The Carlin Tunnel is a collective name for a set of four tunnel bores east of Carlin, in Elko County, Nevada, USA. Each of the four bores was constructed for a different purpose and at a different time. Wikipedia",
+            "type": ""
         },
         "Cave Rock Tunnel": {
             "label": "Cave Rock Tunnel",
@@ -271,6 +271,16 @@
             "Opened ": "March 8, 1973",
             "People also search for": []
         },
+        "Festning Tunnel": {
+            "label": "Festning Tunnel",
+            "description": "The Festning Tunnel is a motorway tunnel on European Route E18 in the city center of Oslo, Norway. The tunnel has two tubes, with three lanes in each. It runs from Bjørvika, under Akershus Fortress, The City Hall Square and Vika to Filipstad. Wikipedia",
+            "type": "",
+            "Address ": [
+                "Sentrum",
+                " 0250 Oslo",
+                " Norway"
+            ]
+        },
         "Frøya Tunnel": {
             "label": "Frøya Tunnel",
             "description": "The Frøya Tunnel is an undersea tunnel connecting the municipalities of Frøya and Hitra in Sør-Trøndelag county, Norway. The tunnel is located about 4 kilometres south of Sistranda on Frøya. Wikipedia",
@@ -285,16 +295,6 @@
             "label": "Gaviota Tunnel",
             "description": "The Gaviota Tunnel is a tunnel on U.S. Route 101 completed in 1953 in the center of Gaviota State Park, 33 miles northwest of Santa Barbara, California. It is 420 feet long and 17.5 feet tall. Wikipedia",
             "type": ""
-        },
-        "Festning Tunnel": {
-            "label": "Festning Tunnel",
-            "description": "The Festning Tunnel is a motorway tunnel on European Route E18 in the city center of Oslo, Norway. The tunnel has two tubes, with three lanes in each. It runs from Bjørvika, under Akershus Fortress, The City Hall Square and Vika to Filipstad. Wikipedia",
-            "type": "",
-            "Address ": [
-                "Sentrum",
-                " 0250 Oslo",
-                " Norway"
-            ]
         },
         "George Massey Tunnel": {
             "label": "George Massey Tunnel",
@@ -321,6 +321,16 @@
             "description": "Heroes Tunnel is a 1,200-foot-long, twin-tube tunnel carrying Route 15 through West Rock Ridge in New Haven, Connecticut. Wikipedia",
             "type": ""
         },
+        "Knappe Tunnel": {
+            "label": "Knappe Tunnel",
+            "description": "The Knappe Tunnel is a four-lane, twin-tube motorway tunnel partially finished, partially under construction in Bergen, Norway. Wikipedia",
+            "type": ""
+        },
+        "Kingsway Tunnel": {
+            "label": "Kingsway Tunnel",
+            "description": "The Kingsway Tunnel is a road tunnel under the River Mersey in Merseyside, northwest England, and runs between Liverpool and Wallasey. Wikipedia",
+            "type": ""
+        },
         "Hsuehshan Tunnel": {
             "label": "Hsuehshan Tunnel",
             "description": "The Hsuehshan Tunnel or \"Snow Mountain\" tunnel, is the longest tunnel in Taiwan, located on the Taipei-Yilan Freeway. It opened on June 16, 2006. Wikipedia",
@@ -335,21 +345,6 @@
                 " Wind SW at 5 mph (8 km/h)",
                 " 62% Humidity"
             ]
-        },
-        "Kingsway Tunnel": {
-            "label": "Kingsway Tunnel",
-            "description": "The Kingsway Tunnel is a road tunnel under the River Mersey in Merseyside, northwest England, and runs between Liverpool and Wallasey. Wikipedia",
-            "type": ""
-        },
-        "Lærdal Tunnel": {
-            "label": "Lærdal Tunnel",
-            "description": "Lærdal Tunnel is a 24.51-kilometre long road tunnel connecting Lærdal and Aurland in Sogn og Fjordane, Norway and located approximately 175–200 kilometres north-east of Bergen. Wikipedia",
-            "type": ""
-        },
-        "Knappe Tunnel": {
-            "label": "Knappe Tunnel",
-            "description": "The Knappe Tunnel is a four-lane, twin-tube motorway tunnel partially finished, partially under construction in Bergen, Norway. Wikipedia",
-            "type": ""
         },
         "Mount Bolu Tunnel": {
             "label": "Mount Bolu Tunnel",
@@ -366,19 +361,10 @@
             "description": "The Limerick Tunnel is a 675-metre-long, twin-bore road tunnel underneath the River Shannon on the outskirts of Limerick city. The tunnel forms part of the N18 Limerick Southern Ring Road. The tunnel is tolled. Wikipedia",
             "type": ""
         },
-        "Northbrae Tunnel": {
-            "label": "Northbrae Tunnel",
-            "description": "The Northbrae Tunnel, also referred to as the Solano Avenue Tunnel, was built as a commuter electric railroad tunnel in the northern part of Berkeley, California and was later converted to street use.\nIn 1910. Wikipedia",
+        "Lærdal Tunnel": {
+            "label": "Lærdal Tunnel",
+            "description": "Lærdal Tunnel is a 24.51-kilometre long road tunnel connecting Lærdal and Aurland in Sogn og Fjordane, Norway and located approximately 175–200 kilometres north-east of Bergen. Wikipedia",
             "type": ""
-        },
-        "Queensway Tunnel": {
-            "label": "Queensway Tunnel",
-            "description": "The Queensway Tunnel is a road tunnel under the River Mersey, in the north west of England, between Liverpool and Birkenhead. It is often called the Birkenhead Tunnel, to distinguish it from the Kingsway Tunnel, which serves Wallasey. Wikipedia",
-            "type": "",
-            "Opened ": [
-                "1934"
-            ],
-            "People also search for": []
         },
         "Rohtang Tunnel": {
             "label": "Rohtang Tunnel",
@@ -391,9 +377,23 @@
                 " India"
             ]
         },
+        "Queensway Tunnel": {
+            "label": "Queensway Tunnel",
+            "description": "The Queensway Tunnel is a road tunnel under the River Mersey, in the north west of England, between Liverpool and Birkenhead. It is often called the Birkenhead Tunnel, to distinguish it from the Kingsway Tunnel, which serves Wallasey. Wikipedia",
+            "type": "",
+            "Opened ": [
+                "1934"
+            ],
+            "People also search for": []
+        },
         "Skatestraum Tunnel": {
             "label": "Skatestraum Tunnel",
             "description": "The Skatestraum Tunnel is a subsea road tunnel between the islands of Rugsundøya and Bremangerlandet in Bremanger Municipality in Sogn og Fjordane county, Norway. Wikipedia",
+            "type": ""
+        },
+        "Northbrae Tunnel": {
+            "label": "Northbrae Tunnel",
+            "description": "The Northbrae Tunnel, also referred to as the Solano Avenue Tunnel, was built as a commuter electric railroad tunnel in the northern part of Berkeley, California and was later converted to street use.\nIn 1910. Wikipedia",
             "type": ""
         },
         "St Helena Tunnel": {
@@ -421,23 +421,11 @@
             "description": "",
             "type": ""
         },
-        "Washburn Tunnel": {
-            "label": "Washburn Tunnel",
-            "description": "The Washburn Tunnel is a two-lane underwater motor-vehicle tunnel connecting Galena Park and Pasadena, two suburbs of Houston, Texas. Completed in 1950, it travels north-south underneath the Houston Ship Channel. Wikipedia",
+        "Blue Ridge Tunnel": {
+            "label": "Blue Ridge Tunnel",
+            "description": "The Blue Ridge Tunnel is a historic railroad tunnel built during the construction of the Blue Ridge Railroad in the 1850s. Wikipedia",
             "type": "",
-            "Area ": [
-                "7 acres (3 ha)"
-            ]
-        },
-        "Waterview Connection": {
-            "label": "Waterview Connection",
-            "description": "The Waterview Connection is a motorway section under construction through west/central Auckland, New Zealand. Wikipedia",
-            "type": ""
-        },
-        "Wawona Tunnel": {
-            "label": "Wawona Tunnel",
-            "description": "The Wawona Tunnel is a highway tunnel in Yosemite National Park. It, and Tunnel View just beyond its east portal, were completed in 1933. Wikipedia",
-            "type": ""
+            "People also search for": []
         },
         "Bradway Tunnel": {
             "label": "Bradway Tunnel",
@@ -448,12 +436,6 @@
                 " Sheffield S17 4LZ",
                 " United Kingdom"
             ]
-        },
-        "Blue Ridge Tunnel": {
-            "label": "Blue Ridge Tunnel",
-            "description": "The Blue Ridge Tunnel is a historic railroad tunnel built during the construction of the Blue Ridge Railroad in the 1850s. Wikipedia",
-            "type": "",
-            "People also search for": []
         },
         "Sunset Tunnel": {
             "label": "Sunset Tunnel",
@@ -470,19 +452,19 @@
             "description": "The Albula Tunnel is the centrepiece of the Albula Railway, which forms part of the Rhaetian Railway network, in the Canton of Graubünden, Switzerland. Wikipedia",
             "type": ""
         },
+        "Wawona Tunnel": {
+            "label": "Wawona Tunnel",
+            "description": "The Wawona Tunnel is a highway tunnel in Yosemite National Park. It, and Tunnel View just beyond its east portal, were completed in 1933. Wikipedia",
+            "type": ""
+        },
         "Perthus Tunnel": {
             "label": "Perthus Tunnel",
             "description": "The Perthus Tunnel is a twin-bore railway tunnel between Perpignan, France and Figueres, Spain built as part of the high-speed railway line between Barcelona and Montpellier under the Eastern Pyrenees. Wikipedia",
             "type": ""
         },
-        "Cadí Tunnel": {
-            "label": "Cadí Tunnel",
-            "description": "Cadí Tunnel is a toll road tunnel in Catalonia, Spain, connecting the comarques of Cerdanya and Berguedà. Wikipedia",
-            "type": ""
-        },
-        "Genting Sempah Tunnel": {
-            "label": "Genting Sempah tunnel",
-            "description": "The Genting Sempah Tunnel is the first highway tunnel in Malaysia. Located on the Kuala Lumpur-Karak Expressway, the 900-metre tunnel connects Hulu Gombak in Selangor to Genting Sempah, Pahang. This tunnel was constructed between 1977 and 1979. Wikipedia",
+        "Waterview Connection": {
+            "label": "Waterview Connection",
+            "description": "The Waterview Connection is a motorway section under construction through west/central Auckland, New Zealand. Wikipedia",
             "type": ""
         },
         "Kilsby Tunnel": {
@@ -505,48 +487,69 @@
             ],
             "People also search for": []
         },
+        "Marmaray": {
+            "label": "Marmaray",
+            "description": "Marmaray is a rail transport project in the Turkish city of Istanbul. It comprises an undersea rail tunnel under the Bosphorus strait, and the modernization of existing suburban railway lines along the ... Wikipedia",
+            "type": "Railway"
+        },
+        "Washburn Tunnel": {
+            "label": "Washburn Tunnel",
+            "description": "The Washburn Tunnel is a two-lane underwater motor-vehicle tunnel connecting Galena Park and Pasadena, two suburbs of Houston, Texas. Completed in 1950, it travels north-south underneath the Houston Ship Channel. Wikipedia",
+            "type": "",
+            "Area ": [
+                "7 acres (3 ha)"
+            ]
+        },
+        "Genting Sempah Tunnel": {
+            "label": "Genting Sempah tunnel",
+            "description": "The Genting Sempah Tunnel is the first highway tunnel in Malaysia. Located on the Kuala Lumpur-Karak Expressway, the 900-metre tunnel connects Hulu Gombak in Selangor to Genting Sempah, Pahang. This tunnel was constructed between 1977 and 1979. Wikipedia",
+            "type": ""
+        },
         "Brynglas Tunnels": {
             "label": "Brynglas Tunnels",
             "description": "The Brynglas Tunnels carry the M4 motorway under Brynglas Hill in Newport, South Wales. The 1,200-foot-long twin-bored tunnels were the first tunnels in the British motorway network and are still the only bored tunnels. Wikipedia",
             "type": "",
             "People also search for": []
         },
-        "Marmaray": {
-            "label": "Marmaray",
-            "description": "Marmaray is a rail transport project in the Turkish city of Istanbul. It comprises an undersea rail tunnel under the Bosphorus strait, and the modernization of existing suburban railway lines along the ... Wikipedia",
-            "type": "Railway"
+        "Cadí Tunnel": {
+            "label": "Cadí Tunnel",
+            "description": "Cadí Tunnel is a toll road tunnel in Catalonia, Spain, connecting the comarques of Cerdanya and Berguedà. Wikipedia",
+            "type": ""
         }
     },
     "summary": {
         "label": 74,
         "description": 74,
         "type": 74,
-        "Address ": 7,
-        "Opened ": 14,
-        "People also search for": 18,
-        "Construction started ": 2,
-        "Major cities ": 1,
-        "People also search for ": 1,
-        "Location ": 1,
-        "Body of water ": 1,
-        "Engineer ": 1,
-        "Architect ": 2,
-        "Engineers ": 1,
-        "Weather ": 2,
-        "Province ": 1,
-        "Owner ": 1,
-        "Area ": 1,
-        "Contractor ": 1
+        "construction_started": 1,
+        "opened": 1,
+        "people_also_search_for": 1,
+        "address": 1,
+        "major_cities": 1,
+        "location": 1,
+        "body_of_water": 1,
+        "engineer": 1,
+        "architect": 1,
+        "engineers": 1,
+        "weather": 1,
+        "province": 1,
+        "owner": 1,
+        "contractor": 1,
+        "area": 1
     },
     "infoboxless": [
+        "Coen Tunnel",
+        "Dudley Tunnel",
         "Fort Pitt Tunnel",
+        "Oslo Tunnel",
         "Bjorøy Tunnel",
         "Ellingsøy Tunnel",
         "Frodeåsen Tunnel",
-        "Héðinsfjarðargöng",
         "Godøy Tunnel",
+        "Héðinsfjarðargöng",
         "Hell Tunnel",
         "Illhøllia Tunnel",
+        "KLCC Tunnel",
         "Kanonersky Tunnel",
         "Kappelberg Tunnel",
         "Karisaka Tunnel",
@@ -555,15 +558,11 @@
         "Olsvik Tunnel",
         "Stockton Street Tunnel",
         "Vardø Tunnel",
+        "Victoria Tunnel, Queensland",
         "Wheeling Tunnel",
         "Kanmon Tunnel",
         "Korgfjell Tunnel",
-        "Kampong Java Tunnel",
-        "Coen Tunnel",
-        "Dudley Tunnel",
-        "Oslo Tunnel",
-        "KLCC Tunnel",
         "Sapperton Tunnel",
-        "Victoria Tunnel, Queensland"
+        "Kampong Java Tunnel"
     ]
 }

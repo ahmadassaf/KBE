@@ -1,8 +1,8 @@
 {
     "instances": {
-        "Ancellotta": {
-            "label": "Ancellotta",
-            "description": "Ancellotta is a wine grape variety mainly grown in the Emilia-Romagna region of Italy, but also in some other parts of north Italy, and in south Switzerland. Wikipedia",
+        "Aglianico": {
+            "label": "Aglianico",
+            "description": "Aglianico is a black grape grown in the Basilicata and Campania regions of Italy. The vine originated in Greece and was brought to the south of Italy by Greek settlers. The name may be a corruption of vitis hellenica, Latin for \"Greek vine.\" Wikipedia",
             "type": "",
             "Rank ": [
                 "Cultivar"
@@ -22,17 +22,9 @@
                 "Common Grape Vine"
             ]
         },
-        "Baco Blanc": {
-            "label": "Baco blanc",
-            "description": "Baco blanc or Baco 22A is a French-American hybrid grape variety. It is a cross of Folle blanche and the Noah grape, created in the 1898 by the grape breeder François Baco. Folle blanche is its Vitis vinifera parent. Wikipedia",
-            "type": "",
-            "Rank ": [
-                "Hybrid"
-            ]
-        },
-        "Aglianico": {
-            "label": "Aglianico",
-            "description": "Aglianico is a black grape grown in the Basilicata and Campania regions of Italy. The vine originated in Greece and was brought to the south of Italy by Greek settlers. The name may be a corruption of vitis hellenica, Latin for \"Greek vine.\" Wikipedia",
+        "Ancellotta": {
+            "label": "Ancellotta",
+            "description": "Ancellotta is a wine grape variety mainly grown in the Emilia-Romagna region of Italy, but also in some other parts of north Italy, and in south Switzerland. Wikipedia",
             "type": "",
             "Rank ": [
                 "Cultivar"
@@ -69,6 +61,14 @@
                 "Common Grape Vine"
             ]
         },
+        "Baco Blanc": {
+            "label": "Baco blanc",
+            "description": "Baco blanc or Baco 22A is a French-American hybrid grape variety. It is a cross of Folle blanche and the Noah grape, created in the 1898 by the grape breeder François Baco. Folle blanche is its Vitis vinifera parent. Wikipedia",
+            "type": "",
+            "Rank ": [
+                "Hybrid"
+            ]
+        },
         "Blaufränkisch": {
             "label": "Blaufränkisch",
             "description": "Blaufränkisch is a dark-skinned variety of grape used for red wine. Blaufränkisch, which is a late-ripening variety, produces red wines which are typically rich in tannin and may exhibit a pronounced spicy character. Wikipedia",
@@ -80,11 +80,6 @@
                 "Common Grape Vine"
             ]
         },
-        "Bombino Bianco": {
-            "label": "Bombino bianco",
-            "description": "Bombino bianco is a white Italian wine grape variety planted primarily along Italy's Adriatic coast line, most notably in Puglia. The vine is prone to high yields and often produces neutral flavor wines. Wikipedia",
-            "type": "Grape Variety"
-        },
         "Breidecker": {
             "label": "Breidecker",
             "description": "Breidecker is white variety of grape. It is a hybrid grape, an interspecific crossing × Seibel 7053. It can be used to make a German style light white wine with apple and pear flavors. Wikipedia",
@@ -93,6 +88,11 @@
                 "Hybrid"
             ]
         },
+        "Bronner (grape)": {
+            "label": "Bronner",
+            "description": "Bronner is a white grape variety used for wine. It was bred in 1975 by Norbert Becker at the viticultural institute in Freiburg, Germany. Wikipedia",
+            "type": "Grape Variety"
+        },
         "Ciliegiolo": {
             "label": "Ciliegiolo",
             "description": "Ciliegiolo is a variety of red wine grape from Italy, named after the Italian for 'cherry'. It is a minor component of traditional blends such as Chianti, but interest has revived in recent years. Wikipedia",
@@ -100,11 +100,6 @@
             "Rank ": [
                 "Cultivar"
             ]
-        },
-        "Bronner (grape)": {
-            "label": "Bronner",
-            "description": "Bronner is a white grape variety used for wine. It was bred in 1975 by Norbert Becker at the viticultural institute in Freiburg, Germany. Wikipedia",
-            "type": "Grape Variety"
         },
         "Colombard": {
             "label": "Colombard",
@@ -122,20 +117,25 @@
                 "Common Grape Vine"
             ]
         },
-        "Falanghina": {
-            "label": "Falanghina",
-            "description": "Falanghina, also called Falanghina Greco, is a variety of wine grape, Vitis vinifera, used for white wines. It is an ancient grape variety which may have provided a basis for the classical Falernian wine, and has considerable character. Wikipedia",
-            "type": "Grape Variety"
+        "Diolinoir": {
+            "label": "Diolinoir",
+            "description": "Diolinoir is a variety of red wine grape. It was created by André Jaquinet at Station Fédérale de Recheres en Production Végétale de Changins in 1970 by crossing Rouge de Diolly and Pinot noir. Wikipedia",
+            "type": ""
         },
         "Faberrebe": {
             "label": "Faberrebe",
             "description": "Faberrebe or Faber is a grape variety used for white wine. It was created in 1929 by Georg Scheu at the Landesanstalt für Rebenzüchtung in Alzey and was released with varietal protection in 1967. Wikipedia",
             "type": "Grape Variety"
         },
-        "Diolinoir": {
-            "label": "Diolinoir",
-            "description": "Diolinoir is a variety of red wine grape. It was created by André Jaquinet at Station Fédérale de Recheres en Production Végétale de Changins in 1970 by crossing Rouge de Diolly and Pinot noir. Wikipedia",
-            "type": ""
+        "Bombino Bianco": {
+            "label": "Bombino bianco",
+            "description": "Bombino bianco is a white Italian wine grape variety planted primarily along Italy's Adriatic coast line, most notably in Puglia. The vine is prone to high yields and often produces neutral flavor wines. Wikipedia",
+            "type": "Grape Variety"
+        },
+        "Falanghina": {
+            "label": "Falanghina",
+            "description": "Falanghina, also called Falanghina Greco, is a variety of wine grape, Vitis vinifera, used for white wines. It is an ancient grape variety which may have provided a basis for the classical Falernian wine, and has considerable character. Wikipedia",
+            "type": "Grape Variety"
         },
         "Freisamer": {
             "label": "Freisamer",
@@ -146,17 +146,6 @@
             "label": "Garganega",
             "description": "Garganega is a variety of white Italian wine grape widely grown in the Veneto region of North East Italy, particularly in the provinces of Verona and Vicenza. It is Italy's 6th most widely planted white grape. Wikipedia",
             "type": "Grape Variety"
-        },
-        "Gaglioppo": {
-            "label": "Gaglioppo",
-            "description": "Gaglioppo is a red wine grape that is grown in southern Italy, primarily around Calabria. The vine performs well in drought conditions but is susceptible to oidium and peronospera. Wikipedia",
-            "type": "Grape Variety",
-            "Rank ": [
-                "Cultivar"
-            ],
-            "Higher classification ": [
-                "Common Grape Vine"
-            ]
         },
         "Grignolino": {
             "label": "Grignolino",
@@ -185,11 +174,6 @@
             "description": "The Kerner grape is an aromatic white grape variety. It was bred in 1929 by August Herold by crossing Trollinger and Riesling. Herold was working at a plant breeding station in Lauffen in the Württemberg region of Germany. Wikipedia",
             "type": "Grape Variety"
         },
-        "Huxelrebe": {
-            "label": "Huxelrebe",
-            "description": "Huxelrebe is a white grape used for wine. Huxelrebe is primarily found in Germany, where the cultivated area covered 677 hectares in 2006, with a decreasing trend. It is primarily found in the German wine regions Rheinhessen, Palatinate and Nahe. Wikipedia",
-            "type": "Grape Variety"
-        },
         "Muscadelle": {
             "label": "Muscadelle",
             "description": "Muscadelle is a white wine grape variety. It has a simple aroma of grape juice and raisins like grapes of the Muscat family of grapes, but it is unrelated. Wikipedia",
@@ -212,17 +196,6 @@
                 "Common Grape Vine"
             ]
         },
-        "Pelaverga": {
-            "label": "Pelaverga",
-            "description": "Pelaverga is a red wine grape variety native to Piedmont. It is described as rare and pale, prone to make lightly sparkling, strawberry-flavoured wines.\nIt may also be used as a table grape. Wikipedia",
-            "type": "Grape Variety",
-            "Rank ": [
-                "Cultivar"
-            ],
-            "Higher classification ": [
-                "Common Grape Vine"
-            ]
-        },
         "Negroamaro": {
             "label": "Negroamaro",
             "description": "Negroamaro, is a red wine grape variety native to southern Italy. It is grown almost exclusively in Puglia and particularly in Salento, the peninsula which can be visualised as the “heel” of Italy. The grape can produce wines very deep in color. Wikipedia",
@@ -233,16 +206,6 @@
             "Higher classification ": [
                 "Common Grape Vine"
             ]
-        },
-        "Pearl of Csaba": {
-            "label": "Pearl of Csaba",
-            "description": "Pearl of Csaba is a white variety of grape. It was created in 1904 by the Hungarian viticulturalist Adolf Stark, presumably by crossing Madeleine Angevine × Muscat Courtillier. Wikipedia",
-            "type": "Grape Variety"
-        },
-        "Petit Meslier": {
-            "label": "Petit Meslier",
-            "description": "Petit Meslier is a rare white wine grape that is a minor component of some Champagne blends. It is valued for its ability to retain acidity even in hot vintages. In the very rare cases where it is not blended, it makes crisp wines tasting of apples. Wikipedia",
-            "type": "Grape Variety"
         },
         "Optima (grape)": {
             "label": "Optima",
@@ -255,10 +218,42 @@
                 "Common Grape Vine"
             ]
         },
+        "Pearl of Csaba": {
+            "label": "Pearl of Csaba",
+            "description": "Pearl of Csaba is a white variety of grape. It was created in 1904 by the Hungarian viticulturalist Adolf Stark, presumably by crossing Madeleine Angevine × Muscat Courtillier. Wikipedia",
+            "type": "Grape Variety"
+        },
         "Petit Manseng": {
             "label": "Petit Manseng",
             "description": "Petit Manseng is a white wine grape variety that is grown primarily in South West France. It produces the highest quality wine of any grape in the Manseng family. The name is derived from its small, thick skin berries. Wikipedia",
             "type": "Grape Variety"
+        },
+        "Pelaverga": {
+            "label": "Pelaverga",
+            "description": "Pelaverga is a red wine grape variety native to Piedmont. It is described as rare and pale, prone to make lightly sparkling, strawberry-flavoured wines.\nIt may also be used as a table grape. Wikipedia",
+            "type": "Grape Variety",
+            "Rank ": [
+                "Cultivar"
+            ],
+            "Higher classification ": [
+                "Common Grape Vine"
+            ]
+        },
+        "Petit Meslier": {
+            "label": "Petit Meslier",
+            "description": "Petit Meslier is a rare white wine grape that is a minor component of some Champagne blends. It is valued for its ability to retain acidity even in hot vintages. In the very rare cases where it is not blended, it makes crisp wines tasting of apples. Wikipedia",
+            "type": "Grape Variety"
+        },
+        "Gaglioppo": {
+            "label": "Gaglioppo",
+            "description": "Gaglioppo is a red wine grape that is grown in southern Italy, primarily around Calabria. The vine performs well in drought conditions but is susceptible to oidium and peronospera. Wikipedia",
+            "type": "Grape Variety",
+            "Rank ": [
+                "Cultivar"
+            ],
+            "Higher classification ": [
+                "Common Grape Vine"
+            ]
         },
         "Piedirosso": {
             "label": "Piedirosso",
@@ -287,11 +282,6 @@
             "description": "Rieslaner is a breed cross of the Silvaner and Riesling grape that was first bred in Veitshöcheim, Franconia, Germany in 1921 by the grape breeder August Ziegler. It is a late ripening grape that is fairly high in acidity. Wikipedia",
             "type": "Grape Variety"
         },
-        "Rotgipfler": {
-            "label": "Rotgipfler",
-            "description": "Rotgipfler is a grape variety used to make aromatic white wine. It is almost exclusively found in the Gumpoldskirchen district of the Thermenregion in Austria. It is often blended with Zierfandler to make \"Spätrot-Rotgipfler\". Wikipedia",
-            "type": "Grape Variety"
-        },
         "Rotberger": {
             "label": "Rotberger",
             "description": "Rotberger is a wine grape variety. Its parentage is not known with certainty but it is thought to be from a cross of Trollinger and Riesling grapes. Dr. Heinrich Birk produced the cross at the Geisenheim Grape Breeding Institute in 1928. Wikipedia",
@@ -302,6 +292,11 @@
             "Higher classification ": [
                 "Common Grape Vine"
             ]
+        },
+        "Rotgipfler": {
+            "label": "Rotgipfler",
+            "description": "Rotgipfler is a grape variety used to make aromatic white wine. It is almost exclusively found in the Gumpoldskirchen district of the Thermenregion in Austria. It is often blended with Zierfandler to make \"Spätrot-Rotgipfler\". Wikipedia",
+            "type": "Grape Variety"
         },
         "Roussanne": {
             "label": "Roussanne",
@@ -319,6 +314,16 @@
                 "Common Grape Vine"
             ]
         },
+        "Scheurebe": {
+            "label": "Scheurebe",
+            "description": "Scheurebe or Sämling 88 is a white wine grape variety. It is primarily grown in Germany and Austria, where it often is called Sämling 88, and some parts of the New World. Wikipedia",
+            "type": "Grape Variety"
+        },
+        "Siegerrebe": {
+            "label": "Siegerrebe",
+            "description": "Siegerrebe is a white wine grape that is grown primarily in Germany with some plantings in England, Washington State, British Columbia's North Okanagan and Nova Scotia's Annapolis Valley. Wikipedia",
+            "type": "Varietal"
+        },
         "Sangiovese": {
             "label": "Sangiovese",
             "description": "Sangiovese is a red Italian wine grape variety whose name derives from the Latin sanguis Jovis, \"the blood of Jove\". Wikipedia",
@@ -330,19 +335,9 @@
                 "Cultivar"
             ]
         },
-        "Scheurebe": {
-            "label": "Scheurebe",
-            "description": "Scheurebe or Sämling 88 is a white wine grape variety. It is primarily grown in Germany and Austria, where it often is called Sämling 88, and some parts of the New World. Wikipedia",
-            "type": "Grape Variety"
-        },
-        "Siegerrebe": {
-            "label": "Siegerrebe",
-            "description": "Siegerrebe is a white wine grape that is grown primarily in Germany with some plantings in England, Washington State, British Columbia's North Okanagan and Nova Scotia's Annapolis Valley. Wikipedia",
-            "type": "Varietal"
-        },
-        "Vespolina": {
-            "label": "Vespolina",
-            "description": "Vespolina is a red Italian wine grape variety that is planted in Piedmont around Gattinara. Ampelographer believe that the grape is most likely indigenous to this area of Piedmont and recent DNA profiling ... Wikipedia",
+        "Touriga Nacional": {
+            "label": "Touriga Nacional",
+            "description": "Touriga Nacional is a variety of red wine grape, considered by many to be Portugal's finest. Despite the low yields from its small grapes, it plays a big part in the blends used for ports, and is ... Wikipedia",
             "type": "Grape Variety",
             "Rank ": [
                 "Cultivar"
@@ -373,41 +368,9 @@
                 "Common Grape Vine"
             ]
         },
-        "Zinfandel": {
-            "label": "Zinfandel",
-            "description": "Zinfandel is a variety of black-skinned wine grape. The variety is planted in over 10 percent of California vineyards. Wikipedia",
-            "type": "Grape Variety",
-            "Rank ": [
-                "Cultivar"
-            ],
-            "Higher classification ": [
-                "Common Grape Vine"
-            ]
-        },
-        "Touriga Nacional": {
-            "label": "Touriga Nacional",
-            "description": "Touriga Nacional is a variety of red wine grape, considered by many to be Portugal's finest. Despite the low yields from its small grapes, it plays a big part in the blends used for ports, and is ... Wikipedia",
-            "type": "Grape Variety",
-            "Rank ": [
-                "Cultivar"
-            ],
-            "Higher classification ": [
-                "Common Grape Vine"
-            ]
-        },
-        "Airén": {
-            "label": "Airén",
-            "description": "Airén is a variety of Vitis vinifera, a white grape commonly used in winemaking. This grape is native to Spain where it represents about 30% of all grapes grown. Wikipedia",
-            "type": "Grape Variety"
-        },
-        "Merseguera": {
-            "label": "Merseguera",
-            "description": "Merseguera is a white Spanish wine grape variety planted primarily in the Alicante, Jumilla and Valencia regions. Wikipedia",
-            "type": "Grape Variety"
-        },
-        "Grenache Blanc": {
-            "label": "Grenache blanc",
-            "description": "Grenache blanc is a variety of white wine grape that is related to the red grape Grenache. It is mostly found in Rhône wine blends and in northeast Spain. Wikipedia",
+        "Vespolina": {
+            "label": "Vespolina",
+            "description": "Vespolina is a red Italian wine grape variety that is planted in Piedmont around Gattinara. Ampelographer believe that the grape is most likely indigenous to this area of Piedmont and recent DNA profiling ... Wikipedia",
             "type": "Grape Variety",
             "Rank ": [
                 "Cultivar"
@@ -427,6 +390,37 @@
                 "Common Grape Vine"
             ]
         },
+        "Airén": {
+            "label": "Airén",
+            "description": "Airén is a variety of Vitis vinifera, a white grape commonly used in winemaking. This grape is native to Spain where it represents about 30% of all grapes grown. Wikipedia",
+            "type": "Grape Variety"
+        },
+        "Zinfandel": {
+            "label": "Zinfandel",
+            "description": "Zinfandel is a variety of black-skinned wine grape. The variety is planted in over 10 percent of California vineyards. Wikipedia",
+            "type": "Grape Variety",
+            "Rank ": [
+                "Cultivar"
+            ],
+            "Higher classification ": [
+                "Common Grape Vine"
+            ]
+        },
+        "Huxelrebe": {
+            "label": "Huxelrebe",
+            "description": "Huxelrebe is a white grape used for wine. Huxelrebe is primarily found in Germany, where the cultivated area covered 677 hectares in 2006, with a decreasing trend. It is primarily found in the German wine regions Rheinhessen, Palatinate and Nahe. Wikipedia",
+            "type": "Grape Variety"
+        },
+        "Brun Argenté": {
+            "label": "Brun Argenté",
+            "description": "Brun Argenté or Vaccarèse is a red wine grape that is grown primarily in the Rhone Valley in France. It is a permitted grape in the blend of Châteauneuf-du-Pape, where the name Vaccarèse is used. Wikipedia",
+            "type": "Grape Variety"
+        },
+        "Merseguera": {
+            "label": "Merseguera",
+            "description": "Merseguera is a white Spanish wine grape variety planted primarily in the Alicante, Jumilla and Valencia regions. Wikipedia",
+            "type": "Grape Variety"
+        },
         "Agawam (grape)": {
             "label": "Agawam",
             "description": "Agawam is a hybrid grape variety. It is a crossing of Carter and Muscat Hamburg. Agawam is one of the so-called Rogers' Hybrids created by E.S. Rogers in the early-to-mid-19th century, and is unique ... Wikipedia",
@@ -435,43 +429,21 @@
                 "Hybrid"
             ]
         },
-        "César (grape)": {
-            "label": "César",
-            "description": "César is an ancient red wine grape from northern Burgundy. It makes dark, tannic wines that are softened by blending with Pinot noir. Wikipedia",
-            "type": "Grape Variety",
-            "Rank ": [
-                "Cultivar"
-            ]
-        },
-        "Brun Argenté": {
-            "label": "Brun Argenté",
-            "description": "Brun Argenté or Vaccarèse is a red wine grape that is grown primarily in the Rhone Valley in France. It is a permitted grape in the blend of Châteauneuf-du-Pape, where the name Vaccarèse is used. Wikipedia",
-            "type": "Grape Variety"
-        },
-        "Delaware (grape)": {
-            "label": "Delaware",
-            "description": "The Delaware grape is a cultivar derived from the grape species Vitis Labrusca or 'Fox Grape' which is used for the table and wine production. Wikipedia",
-            "type": "Grape Variety",
-            "Scientific name ": [
-                "Vitis labrusca 'Delaware'"
-            ],
-            "Rank ": [
-                "Cultivar"
-            ],
-            "Higher classification ": [
-                "Vitis labrusca"
-            ]
-        },
         "Malagousia": {
             "label": "Malagousia",
             "description": "Malagousia or Malagouzia is a white Greek wine grape that was virtually extinct until Domaine Carras in the late 20th century began to cultivate this ancient variety for varietal wine production. Wikipedia",
             "type": "Grape Variety"
         },
-        "Manseng Noir": {
-            "label": "Manseng noir",
-            "description": "Manseng noir is a wine grape variety of Basque origins that is grown primarily in South West France. It is allowed into Béarn AOC wine but very little used. Manseng Noir is deep in colour and tannic. Wikipedia",
-            "type": "",
-            "See results about": []
+        "Grenache Blanc": {
+            "label": "Grenache blanc",
+            "description": "Grenache blanc is a variety of white wine grape that is related to the red grape Grenache. It is mostly found in Rhône wine blends and in northeast Spain. Wikipedia",
+            "type": "Grape Variety",
+            "Rank ": [
+                "Cultivar"
+            ],
+            "Higher classification ": [
+                "Common Grape Vine"
+            ]
         },
         "Gouais blanc": {
             "label": "Gouais blanc",
@@ -500,16 +472,38 @@
             "description": "Ribolla Gialla is a white Italian wine grape grown most prominently in the Friuli-Venezia Giulia region of northeast Italy. The grape is also found in Slovenia where it is known as Rebula. Wikipedia",
             "type": "Grape Variety"
         },
-        "Muscat (grape)": {
-            "label": "Muscat",
-            "description": "The Muscat variety of grapes of the species Vitis vinifera is widely grown for wine, raisins and table grapes. Their color ranges from white to near black. Muscat almost always has a pronounced sweet floral aroma. Wikipedia",
+        "César (grape)": {
+            "label": "César",
+            "description": "César is an ancient red wine grape from northern Burgundy. It makes dark, tannic wines that are softened by blending with Pinot noir. Wikipedia",
             "type": "Grape Variety",
+            "Rank ": [
+                "Cultivar"
+            ]
+        },
+        "Manseng Noir": {
+            "label": "Manseng noir",
+            "description": "Manseng noir is a wine grape variety of Basque origins that is grown primarily in South West France. It is allowed into Béarn AOC wine but very little used. Manseng Noir is deep in colour and tannic. Wikipedia",
+            "type": "",
+            "See results about": []
+        },
+        "Delaware (grape)": {
+            "label": "Delaware",
+            "description": "The Delaware grape is a cultivar derived from the grape species Vitis Labrusca or 'Fox Grape' which is used for the table and wine production. Wikipedia",
+            "type": "Grape Variety",
+            "Scientific name ": [
+                "Vitis labrusca 'Delaware'"
+            ],
             "Rank ": [
                 "Cultivar"
             ],
             "Higher classification ": [
-                "Common Grape Vine"
+                "Vitis labrusca"
             ]
+        },
+        "Vespaiola": {
+            "label": "Vespaiola",
+            "description": "Vespaiola is a white Italian wine grape variety planted primarily in the Veneto region of northeastern Italy where it is often dried to produce passito style dessert wines. Wikipedia",
+            "type": "Grape Variety"
         },
         "Touriga Francesa": {
             "label": "Touriga Francesa",
@@ -522,14 +516,9 @@
                 "Common Grape Vine"
             ]
         },
-        "Vespaiola": {
-            "label": "Vespaiola",
-            "description": "Vespaiola is a white Italian wine grape variety planted primarily in the Veneto region of northeastern Italy where it is often dried to produce passito style dessert wines. Wikipedia",
-            "type": "Grape Variety"
-        },
-        "Xinomavro": {
-            "label": "Xinomavro",
-            "description": "Xinomavro is the principal red wine grape of the uplands of Naousa in the regional unit of Imathia, and around Amyntaio, in Macedonia, Greece. Wikipedia",
+        "Muscat (grape)": {
+            "label": "Muscat",
+            "description": "The Muscat variety of grapes of the species Vitis vinifera is widely grown for wine, raisins and table grapes. Their color ranges from white to near black. Muscat almost always has a pronounced sweet floral aroma. Wikipedia",
             "type": "Grape Variety",
             "Rank ": [
                 "Cultivar"
@@ -537,6 +526,11 @@
             "Higher classification ": [
                 "Common Grape Vine"
             ]
+        },
+        "Sercial": {
+            "label": "Sercial",
+            "description": "Sercial is the name of a white grape grown in Portugal, especially on the island of Madeira. It has given name to the dryest of the four classic varieties of Madeira fortified wine. Wikipedia",
+            "type": "Grape Variety"
         },
         "Beta (grape)": {
             "label": "Beta",
@@ -546,31 +540,10 @@
                 "Hybrid"
             ]
         },
-        "Sercial": {
-            "label": "Sercial",
-            "description": "Sercial is the name of a white grape grown in Portugal, especially on the island of Madeira. It has given name to the dryest of the four classic varieties of Madeira fortified wine. Wikipedia",
-            "type": "Grape Variety"
-        },
         "Cabernet Franc": {
             "label": "Cabernet Franc",
             "description": "Cabernet Franc is one of the major black grape varieties worldwide. It is principally grown for blending with Cabernet Sauvignon and Merlot in the Bordeaux style, but can also be vinified alone, as in the Loire's Chinon. Wikipedia",
             "type": "Red Wine",
-            "Rank ": [
-                "Cultivar"
-            ],
-            "Higher classification ": [
-                "Common Grape Vine"
-            ]
-        },
-        "Xynisteri": {
-            "label": "Xynisteri",
-            "description": "Xynisteri is an indigenous white grape grown on Cyprus. 13% of Cyprus vineyards, or 500 hectares on the south slopes of the Troodos mountain range are planted with this grape variety. It is used in the production of several local wines. Wikipedia",
-            "type": "Grape Variety"
-        },
-        "Sciacarello": {
-            "label": "Sciacarello",
-            "description": "Sciacarello is a red Italian wine grape variety that is grown primarily in Corsica. It is most noted for the wines that come from Ajaccio which tend to be highly perfumed. The grape is normally blended and rarely made into a varietal wine. Wikipedia",
-            "type": "Grape Variety",
             "Rank ": [
                 "Cultivar"
             ],
@@ -600,25 +573,9 @@
                 "Common Grape Vine"
             ]
         },
-        "Grenache": {
-            "label": "Grenache",
-            "description": "Grenache or Garnacha is one of the most widely planted red wine grape varieties in the world. It ripens late, so it needs hot, dry conditions such as those found in Spain, where the grape probably ... Wikipedia",
-            "type": "Plant",
-            "Rank ": [
-                "Cultivar"
-            ],
-            "Higher classification ": [
-                "Common Grape Vine"
-            ]
-        },
-        "Cardinal (grape)": {
-            "label": "Cardinal",
-            "description": "Cardinal is a table grape variety first produced in California in 1939.\nThe grape is a cross of the Flame Seedless and Ribier table grapes. Wikipedia",
-            "type": "Grape Variety"
-        },
-        "Alexandrouli": {
-            "label": "Alexandrouli",
-            "description": "Alexandrouli is a red grape variety grown in the country of Georgia. Wikipedia",
+        "Sciacarello": {
+            "label": "Sciacarello",
+            "description": "Sciacarello is a red Italian wine grape variety that is grown primarily in Corsica. It is most noted for the wines that come from Ajaccio which tend to be highly perfumed. The grape is normally blended and rarely made into a varietal wine. Wikipedia",
             "type": "Grape Variety",
             "Rank ": [
                 "Cultivar"
@@ -635,14 +592,9 @@
                 "Variety"
             ]
         },
-        "Neuburger": {
-            "label": "Neuburger",
-            "description": "Neuburger is a white Austrian wine grape. The grape is a crossing of Roter Veltliner and Sylvaner. As varietal, it generally produces full bodied wines. Wikipedia",
-            "type": "Varietal"
-        },
-        "Muscardin": {
-            "label": "Muscardin",
-            "description": "Muscardin is a dark-skinned grape variety primarily found in the southern part of the Rhône region. It is primarily noted for being one of the thirteen grape varieties permitted in the Châteauneuf-du-Pape appellation. Wikipedia",
+        "Xinomavro": {
+            "label": "Xinomavro",
+            "description": "Xinomavro is the principal red wine grape of the uplands of Naousa in the regional unit of Imathia, and around Amyntaio, in Macedonia, Greece. Wikipedia",
             "type": "Grape Variety",
             "Rank ": [
                 "Cultivar"
@@ -651,15 +603,26 @@
                 "Common Grape Vine"
             ]
         },
-        "Completer": {
-            "label": "Completer",
-            "description": "Completer or Malanstraube is a white Swiss wine grape variety grown primarily in eastern Switzerland around Graubünden. Wikipedia",
+        "Alexandrouli": {
+            "label": "Alexandrouli",
+            "description": "Alexandrouli is a red grape variety grown in the country of Georgia. Wikipedia",
+            "type": "Grape Variety",
+            "Rank ": [
+                "Cultivar"
+            ],
+            "Higher classification ": [
+                "Common Grape Vine"
+            ]
+        },
+        "Cardinal (grape)": {
+            "label": "Cardinal",
+            "description": "Cardinal is a table grape variety first produced in California in 1939.\nThe grape is a cross of the Flame Seedless and Ribier table grapes. Wikipedia",
             "type": "Grape Variety"
         },
-        "Mencia": {
-            "label": "Mencia",
-            "description": "Mencía is a Spanish grape variety primarily found in the northwestern part of the country. It is planted on over 9,100 hectares, and it is primarily found in the Bierzo, Ribeira Sacra and Valdeorras regions. Wikipedia",
-            "type": "Grape Variety",
+        "Grenache": {
+            "label": "Grenache",
+            "description": "Grenache or Garnacha is one of the most widely planted red wine grape varieties in the world. It ripens late, so it needs hot, dry conditions such as those found in Spain, where the grape probably ... Wikipedia",
+            "type": "Plant",
             "Rank ": [
                 "Cultivar"
             ],
@@ -667,41 +630,46 @@
                 "Common Grape Vine"
             ]
         },
-        "Romorantin": {
-            "label": "Romorantin",
-            "description": "Romorantin is a traditional French variety of white wine grape, that is a sibling of Chardonnay. Once quite widely grown in the Loire, it has now only seen in the Cour-Cheverny AOC. Wikipedia",
+        "Xynisteri": {
+            "label": "Xynisteri",
+            "description": "Xynisteri is an indigenous white grape grown on Cyprus. 13% of Cyprus vineyards, or 500 hectares on the south slopes of the Troodos mountain range are planted with this grape variety. It is used in the production of several local wines. Wikipedia",
             "type": "Grape Variety"
         }
     },
     "summary": {
-        "label": 80,
-        "description": 80,
-        "type": 80,
-        "Rank ": 48,
-        "Higher classification ": 41,
-        "See results about": 2,
-        "Scientific name ": 1
+        "label": 75,
+        "description": 75,
+        "type": 75,
+        "rank": 1,
+        "higher_classification": 1,
+        "see_results_about": 1,
+        "scientific_name": 1
     },
     "infoboxless": [
         "Arbois (grape)",
         "Arnsburger",
         "Assyrtiko",
         "Catarratto",
-        "Fetească albă",
         "Chasselas",
+        "Fetească albă",
         "Goldburger",
         "Goldriesling",
+        "Helfensteiner",
         "Malverina",
+        "Muscardin",
+        "Neuburger",
         "Petite Arvine",
         "Vermentino",
         "Bogdanuša",
-        "Trebbiano",
-        "Burger (grape)",
-        "Aubin Vert",
         "Parellada",
-        "Encruzado",
+        "Trebbiano",
+        "Aubin Vert",
+        "Burger (grape)",
+        "Completer",
         "Debina (grape)",
+        "Encruzado",
         "Grechetto",
-        "Helfensteiner"
+        "Romorantin",
+        "Mencia"
     ]
 }

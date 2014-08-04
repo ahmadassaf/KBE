@@ -50,17 +50,6 @@
             ],
             "See results about": []
         },
-        "Eastern newt": {
-            "label": "Eastern newt",
-            "description": "The eastern newt is a common newt of eastern North America. They frequent small lakes, ponds, and streams or near-by wet forests. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Notophthalmus viridescens"
-            ],
-            "Rank ": [
-                "Species"
-            ]
-        },
         "Euproctus": {
             "label": "Euproctus",
             "description": "Euproctus is a genus of salamander in the Salamandridae family. It contains the following species\nEuproctus montanus – Corsican Brook Salamander\nEuproctus platycephalus – Sardinian Brook Salamander Wikipedia",
@@ -80,6 +69,28 @@
             ],
             "See results about": []
         },
+        "Eastern newt": {
+            "label": "Eastern newt",
+            "description": "The eastern newt is a common newt of eastern North America. They frequent small lakes, ponds, and streams or near-by wet forests. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Notophthalmus viridescens"
+            ],
+            "Rank ": [
+                "Species"
+            ]
+        },
+        "Gastric-brooding frog": {
+            "label": "Gastric-brooding frog",
+            "description": "The gastric-brooding frogs or platypus frogs were a genus of ground-dwelling frogs native to Queensland in eastern Australia. The genus consisted of only two species, both of which became extinct in the mid-1980s. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Rheobatrachus"
+            ],
+            "Rank ": [
+                "Genus"
+            ]
+        },
         "Golden poison frog": {
             "label": "Golden poison frog",
             "description": "The golden poison frog, also known as the golden frog, golden poison arrow frog, or golden dart frog, is a poison dart frog endemic to the Pacific coast of Colombia. Wikipedia",
@@ -97,17 +108,6 @@
                 "Species"
             ]
         },
-        "Gastric-brooding frog": {
-            "label": "Gastric-brooding frog",
-            "description": "The gastric-brooding frogs or platypus frogs were a genus of ground-dwelling frogs native to Queensland in eastern Australia. The genus consisted of only two species, both of which became extinct in the mid-1980s. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Rheobatrachus"
-            ],
-            "Rank ": [
-                "Genus"
-            ]
-        },
         "Hellbender": {
             "label": "Hellbender",
             "description": "The hellbender, also known as the hellbender salamander, is a species of giant salamander endemic to eastern North America. Wikipedia",
@@ -122,6 +122,14 @@
                 "Cryptobranchus"
             ]
         },
+        "Leptobrachium leucops": {
+            "label": "Leptobrachium leucops",
+            "description": "Leptobrachium leucops is a species of amphibian in the Megophryidae family. This toad was discovered by Bidoup Núi Bà National Park in Lâm Đồng Province, Central Highlands region of Vietnam by a group of ... Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Leptobrachium leucops"
+            ]
+        },
         "Microbrachis": {
             "label": "Microbrachis",
             "description": "Microbrachis is an extinct genus of lepospondyl amphibian from the Carboniferous period of what is now the Czech Republic. Wikipedia",
@@ -131,14 +139,6 @@
             ],
             "Higher classification ": [
                 "Microbrachidae"
-            ]
-        },
-        "Leptobrachium leucops": {
-            "label": "Leptobrachium leucops",
-            "description": "Leptobrachium leucops is a species of amphibian in the Megophryidae family. This toad was discovered by Bidoup Núi Bà National Park in Lâm Đồng Province, Central Highlands region of Vietnam by a group of ... Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Leptobrachium leucops"
             ]
         },
         "Neurergus": {
@@ -159,6 +159,15 @@
             ],
             "See results about": []
         },
+        "Notophthalmus": {
+            "label": "Notophthalmus",
+            "description": "Notophthalmus is a genus of newts known commonly as North American newts. There are three species. Wikipedia",
+            "type": "",
+            "Rank ": [
+                "Genus"
+            ],
+            "See results about": []
+        },
         "Pool Frog": {
             "label": "Pool Frog",
             "description": "The Pool Frog is a European frog. It is one of only four amphibian species recognized by the UK government as protected under its Biodiversity Action Plan. Wikipedia",
@@ -172,15 +181,6 @@
             "Higher classification ": [
                 "Rana"
             ]
-        },
-        "Notophthalmus": {
-            "label": "Notophthalmus",
-            "description": "Notophthalmus is a genus of newts known commonly as North American newts. There are three species. Wikipedia",
-            "type": "",
-            "Rank ": [
-                "Genus"
-            ],
-            "See results about": []
         },
         "Rough-skinned newt": {
             "label": "Rough-skinned newt",
@@ -210,48 +210,6 @@
                 "Siphonops"
             ]
         },
-        "Adenomera hylaedactyla": {
-            "label": "Adenomera hylaedactyla",
-            "description": "Adenomera hylaedactyla is a species of frog in the Leptodactylidae family. It is found in Argentina, Bolivia, Brazil, Colombia, Ecuador, French Guiana, Guyana, Paraguay, Peru, Suriname, Trinidad and Tobago, and Venezuela. Wikipedia",
-            "type": "Amphibian",
-            "Scientific name ": [
-                "Adenomera hylaedactyla"
-            ],
-            "Rank ": [
-                "Species"
-            ],
-            "Higher classification ": [
-                "Adenomera"
-            ]
-        },
-        "Adenomera andreae": {
-            "label": "Adenomera andreae",
-            "description": "Adenomera andreae is a species of frog in the Leptodactylidae family. It is found in Bolivia, Brazil, Colombia, Ecuador, French Guiana, Guyana, Peru, Suriname, and Venezuela. Wikipedia",
-            "type": "Amphibian",
-            "Scientific name ": [
-                "Adenomera andreae"
-            ],
-            "Rank ": [
-                "Species"
-            ],
-            "Higher classification ": [
-                "Adenomera"
-            ]
-        },
-        "Adenomus kelaartii": {
-            "label": "Adenomus kelaartii",
-            "description": "The Kelaart's toad Adenomus kelaartii is a species of toad in the Bufonidae family. It is endemic to Sri Lanka, where it exists in the south-west of the island at elevations between 30 and 1,230 m. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Adenomus kelaartii"
-            ],
-            "Rank ": [
-                "Species"
-            ],
-            "Higher classification ": [
-                "Adenomus"
-            ]
-        },
         "Adenomera": {
             "label": "Adenomera",
             "description": "Adenomera, sometimes known as tropical bullfrogs is a genus of leptodactylid frogs. These frogs are found in South America east of the Andes. The genus was until recently considered a synonym of Leptodactylus. Wikipedia",
@@ -278,12 +236,54 @@
             ],
             "See results about": []
         },
+        "Adenomera andreae": {
+            "label": "Adenomera andreae",
+            "description": "Adenomera andreae is a species of frog in the Leptodactylidae family. It is found in Bolivia, Brazil, Colombia, Ecuador, French Guiana, Guyana, Peru, Suriname, and Venezuela. Wikipedia",
+            "type": "Amphibian",
+            "Scientific name ": [
+                "Adenomera andreae"
+            ],
+            "Rank ": [
+                "Species"
+            ],
+            "Higher classification ": [
+                "Adenomera"
+            ]
+        },
+        "Adenomera hylaedactyla": {
+            "label": "Adenomera hylaedactyla",
+            "description": "Adenomera hylaedactyla is a species of frog in the Leptodactylidae family. It is found in Argentina, Bolivia, Brazil, Colombia, Ecuador, French Guiana, Guyana, Paraguay, Peru, Suriname, Trinidad and Tobago, and Venezuela. Wikipedia",
+            "type": "Amphibian",
+            "Scientific name ": [
+                "Adenomera hylaedactyla"
+            ],
+            "Rank ": [
+                "Species"
+            ],
+            "Higher classification ": [
+                "Adenomera"
+            ]
+        },
         "Adenomus kandianus": {
             "label": "Adenomus kandianus",
             "description": "The Kandyan dwarf toad, Adenomus kandianus is a species of toad in the Bufonidae family endemic to Sri Lanka. It had been listed as extinct by the IUCN as there had been no record of the species since 1872. Wikipedia",
             "type": "",
             "Scientific name ": [
                 "Adenomus kandianus"
+            ],
+            "Rank ": [
+                "Species"
+            ],
+            "Higher classification ": [
+                "Adenomus"
+            ]
+        },
+        "Adenomus kelaartii": {
+            "label": "Adenomus kelaartii",
+            "description": "The Kelaart's toad Adenomus kelaartii is a species of toad in the Bufonidae family. It is endemic to Sri Lanka, where it exists in the south-west of the island at elevations between 30 and 1,230 m. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Adenomus kelaartii"
             ],
             "Rank ": [
                 "Species"
@@ -438,12 +438,12 @@
                 "Afrixalus"
             ]
         },
-        "Afrixalus vibekensis": {
-            "label": "Afrixalus vibekensis",
-            "description": "Afrixalus vibekensis is a species of frog in the Hyperoliidae family. It is confirmed to exist in two locations in Côte d'Ivoire and one in Ghana, and it possibly occurs in Guinea and Liberia. Wikipedia",
+        "Afrixalus weidholzi": {
+            "label": "Afrixalus weidholzi",
+            "description": "Afrixalus weidholzi is a species of frog in the Hyperoliidae family. Its common name is Weidholz's banana frog. Wikipedia",
             "type": "",
             "Scientific name ": [
-                "Afrixalus vibekensis"
+                "Afrixalus weidholzi"
             ],
             "Rank ": [
                 "Species"
@@ -452,12 +452,12 @@
                 "Afrixalus"
             ]
         },
-        "Afrixalus weidholzi": {
-            "label": "Afrixalus weidholzi",
-            "description": "Afrixalus weidholzi is a species of frog in the Hyperoliidae family. Its common name is Weidholz's banana frog. Wikipedia",
+        "Afrixalus vibekensis": {
+            "label": "Afrixalus vibekensis",
+            "description": "Afrixalus vibekensis is a species of frog in the Hyperoliidae family. It is confirmed to exist in two locations in Côte d'Ivoire and one in Ghana, and it possibly occurs in Guinea and Liberia. Wikipedia",
             "type": "",
             "Scientific name ": [
-                "Afrixalus weidholzi"
+                "Afrixalus vibekensis"
             ],
             "Rank ": [
                 "Species"
@@ -525,20 +525,6 @@
             ],
             "See results about": []
         },
-        "Alsodes gargola": {
-            "label": "Alsodes gargola",
-            "description": "Alsodes gargola is a species of frog in the Leptodactylidae family found in Argentina and possibly Chile. Its natural habitats are temperate forests, subtropical or tropical dry shrubland, rivers, freshwater lakes, and freshwater marshes. Wikipedia",
-            "type": "Amphibian",
-            "Scientific name ": [
-                "Alsodes gargola"
-            ],
-            "Rank ": [
-                "Species"
-            ],
-            "Higher classification ": [
-                "Alsodes"
-            ]
-        },
         "Alexteroon": {
             "label": "Alexteroon",
             "description": "Alexteroon is a genus of frogs, commonly called midwife frogs, in the Hyperoliidae family. It contains these species\nAlexteroon hypsiphonus\nAlexteroon jynx\nAlexteroon obstetricans Wikipedia",
@@ -565,6 +551,20 @@
             "type": "Amphibian",
             "Scientific name ": [
                 "Alsodes barrioi"
+            ],
+            "Rank ": [
+                "Species"
+            ],
+            "Higher classification ": [
+                "Alsodes"
+            ]
+        },
+        "Alsodes gargola": {
+            "label": "Alsodes gargola",
+            "description": "Alsodes gargola is a species of frog in the Leptodactylidae family found in Argentina and possibly Chile. Its natural habitats are temperate forests, subtropical or tropical dry shrubland, rivers, freshwater lakes, and freshwater marshes. Wikipedia",
+            "type": "Amphibian",
+            "Scientific name ": [
+                "Alsodes gargola"
             ],
             "Rank ": [
                 "Species"
@@ -713,23 +713,6 @@
                 "Ansonia"
             ]
         },
-        "Aparasphenodon": {
-            "label": "Aparasphenodon",
-            "description": "Aparasphenodon is a genus of frogs in the Hylidae family, and are found southeastern Brazil, the Orinoco Basin, Venezuela and Colombia. These are tree-dwelling species usually hiding in the cisterns of epiphytic bromeliads. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Aparasphenodon"
-            ],
-            "Rank ": [
-                "Genus"
-            ],
-            "Lower classifications ": [
-                "Bruno's casque-headed frog",
-                " Aparasphenodon venezolanus",
-                " Bokermann's casque-headed frogMore"
-            ],
-            "See results about": []
-        },
         "Ansonia tiomanica": {
             "label": "Ansonia tiomanica",
             "description": "Ansonia tiomanica is a species of toad in the Bufonidae family native to Malaysia. Its natural habitats are subtropical or tropical moist lowland forests, rivers, inland karsts, and caves. Wikipedia",
@@ -757,6 +740,23 @@
             "Higher classification ": [
                 "Aparasphenodon"
             ]
+        },
+        "Aparasphenodon": {
+            "label": "Aparasphenodon",
+            "description": "Aparasphenodon is a genus of frogs in the Hylidae family, and are found southeastern Brazil, the Orinoco Basin, Venezuela and Colombia. These are tree-dwelling species usually hiding in the cisterns of epiphytic bromeliads. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Aparasphenodon"
+            ],
+            "Rank ": [
+                "Genus"
+            ],
+            "Lower classifications ": [
+                "Bruno's casque-headed frog",
+                " Aparasphenodon venezolanus",
+                " Bokermann's casque-headed frogMore"
+            ],
+            "See results about": []
         },
         "Aphantophryne": {
             "label": "Aphantophryne",
@@ -791,12 +791,12 @@
                 "Canebrake tree frogs"
             ]
         },
-        "Aplastodiscus ehrhardti": {
-            "label": "Aplastodiscus ehrhardti",
-            "description": "Aplastodiscus ehrhardti is a species of frog in the Hylidae family. It is endemic to Brazil. Its natural habitats are subtropical or tropical moist lowland forests and intermittent freshwater marshes. It is threatened by habitat loss. Wikipedia",
+        "Aplastodiscus perviridis": {
+            "label": "Aplastodiscus perviridis",
+            "description": "Aplastodiscus perviridis is a species of frog in the Hylidae family. It is found in Argentina, Brazil, and possibly Paraguay. Wikipedia",
             "type": "",
             "Scientific name ": [
-                "Aplastodiscus ehrhardti"
+                "Aplastodiscus perviridis"
             ],
             "Rank ": [
                 "Species"
@@ -805,12 +805,12 @@
                 "Canebrake tree frogs"
             ]
         },
-        "Aplastodiscus perviridis": {
-            "label": "Aplastodiscus perviridis",
-            "description": "Aplastodiscus perviridis is a species of frog in the Hylidae family. It is found in Argentina, Brazil, and possibly Paraguay. Wikipedia",
+        "Aplastodiscus ehrhardti": {
+            "label": "Aplastodiscus ehrhardti",
+            "description": "Aplastodiscus ehrhardti is a species of frog in the Hylidae family. It is endemic to Brazil. Its natural habitats are subtropical or tropical moist lowland forests and intermittent freshwater marshes. It is threatened by habitat loss. Wikipedia",
             "type": "",
             "Scientific name ": [
-                "Aplastodiscus perviridis"
+                "Aplastodiscus ehrhardti"
             ],
             "Rank ": [
                 "Species"
@@ -845,20 +845,6 @@
             ],
             "Higher classification ": [
                 "Atelopus"
-            ]
-        },
-        "Atelognathus patagonicus": {
-            "label": "Atelognathus patagonicus",
-            "description": "Atelognathus patagonicus is a species of frog in the Batrachylidae family. It is endemic to Argentina. Wikipedia",
-            "type": "Amphibian",
-            "Scientific name ": [
-                "Atelognathus patagonicus"
-            ],
-            "Rank ": [
-                "Species"
-            ],
-            "Higher classification ": [
-                "Atelognathus"
             ]
         },
         "Austrochaperina": {
@@ -899,6 +885,20 @@
                 " Austrochaperina parkeri",
                 " Slender frog",
                 " Austrochaperina polystictaMore"
+            ]
+        },
+        "Atelognathus patagonicus": {
+            "label": "Atelognathus patagonicus",
+            "description": "Atelognathus patagonicus is a species of frog in the Batrachylidae family. It is endemic to Argentina. Wikipedia",
+            "type": "Amphibian",
+            "Scientific name ": [
+                "Atelognathus patagonicus"
+            ],
+            "Rank ": [
+                "Species"
+            ],
+            "Higher classification ": [
+                "Atelognathus"
             ]
         },
         "Austrochaperina pluvialis": {
@@ -1022,20 +1022,6 @@
                 " Barygenys maculataMore"
             ]
         },
-        "Batrachophrynus brachydactylus": {
-            "label": "Batrachophrynus brachydactylus",
-            "description": "Batrachophrynus brachydactylus is an endangered species of frog in the Leptodactylidae family. This semi-aquatic frog is endemic to tributaries of Lake Junín in central Peru, where found at altitudes of 4,000–4,600 metres. Wikipedia",
-            "type": "Amphibian",
-            "Scientific name ": [
-                "Batrachophrynus brachydactylus"
-            ],
-            "Rank ": [
-                "Species"
-            ],
-            "Higher classification ": [
-                "Batrachophrynus"
-            ]
-        },
         "Batrachyla": {
             "label": "Batrachyla",
             "description": "Batrachyla is a genus of frogs in the Batrachylidae family. Sometimes known as the South American wood frogs, these frogs are distributed in southern South America. Wikipedia",
@@ -1057,18 +1043,32 @@
                 " Batrachyla leptopus"
             ],
             "See results about": []
+        },
+        "Batrachophrynus brachydactylus": {
+            "label": "Batrachophrynus brachydactylus",
+            "description": "Batrachophrynus brachydactylus is an endangered species of frog in the Leptodactylidae family. This semi-aquatic frog is endemic to tributaries of Lake Junín in central Peru, where found at altitudes of 4,000–4,600 metres. Wikipedia",
+            "type": "Amphibian",
+            "Scientific name ": [
+                "Batrachophrynus brachydactylus"
+            ],
+            "Rank ": [
+                "Species"
+            ],
+            "Higher classification ": [
+                "Batrachophrynus"
+            ]
         }
     },
     "summary": {
         "label": 66,
         "description": 66,
         "type": 66,
-        "Scientific name ": 62,
-        "Rank ": 64,
-        "Higher classification ": 58,
-        "See results about": 14,
-        "Lower classifications ": 13,
-        "Length ": 1
+        "scientific_name": 1,
+        "rank": 1,
+        "higher_classification": 1,
+        "see_results_about": 1,
+        "lower_classifications": 1,
+        "length": 1
     },
     "infoboxless": [
         "Eryopidae",
@@ -1076,14 +1076,18 @@
         "Afrana wittei",
         "Afrixalus crotalus",
         "Afrixalus schneideri",
-        "Albericus darlingtoni",
+        "Agalychnis",
         "Albanerpetontidae",
+        "Albericus darlingtoni",
         "Alexteroon hypsiphonus",
         "Amazon Milk Frog",
+        "Amazon Treefrogs",
         "Anchieta's Ridged Frog",
+        "Andes giant glass frog",
         "Ansonia fuliginea",
         "Ansonia glandulosa",
         "Ansonia siamensis",
+        "Ansonia torrentis",
         "Aphantophryne pansa",
         "Aplastodiscus cochranae",
         "Aplastodiscus flumineus",
@@ -1100,10 +1104,6 @@
         "Austrochaperina macrorhyncha",
         "Austrochaperina polysticta",
         "Austrochaperina rivularis",
-        "Austrochaperina yelaensis",
-        "Agalychnis",
-        "Amazon Treefrogs",
-        "Ansonia torrentis",
-        "Andes giant glass frog"
+        "Austrochaperina yelaensis"
     ]
 }

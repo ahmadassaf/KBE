@@ -1,5 +1,9 @@
 {
     "instances": {
+        "Édon": "/Users/ahmadassaf/Dropbox/Projects/Knowledge Graph Scrapper/cache/instances_GKB/_don.json",
+        "Épehy": "/Users/ahmadassaf/Dropbox/Projects/Knowledge Graph Scrapper/cache/instances_GKB/_pehy.json",
+        "Étais": "/Users/ahmadassaf/Dropbox/Projects/Knowledge Graph Scrapper/cache/instances_GKB/_tais.json",
+        "Île-d'Aix": "/Users/ahmadassaf/Dropbox/Projects/Knowledge Graph Scrapper/cache/instances_GKB/_le_d_Aix.json",
         "Ánir": {
             "label": "Ánir",
             "description": "Ánir, also Ánirnar is a village in the Faroe Islands on the northern island of Borðoy. In 2007 it had a population of 18 Wikipedia",
@@ -39,18 +43,6 @@
             "type": "",
             "See results about": []
         },
-        "Åmål": {
-            "label": "Åmål",
-            "description": "Åmål is a locality and the seat of Åmål Municipality in Västra Götaland County, Sweden with 9,065 inhabitants in 2010. It is situated on the western shore of Vänern. Wikipedia",
-            "type": "",
-            "Area ": [
-                "2.927 sq miles (7.58 km²)"
-            ],
-            "Local time ": [
-                "Tuesday 1213 PM"
-            ],
-            "See results about": []
-        },
         "Åhus": {
             "label": "Åhus",
             "description": "Åhus is the second largest locality in Kristianstad Municipality, Skåne County, Sweden with 9,423 inhabitants in 2010, but it triples during the summer due to tourists who come seeking the beaches and nature of the Helgeå and Hanöbukten area. Wikipedia",
@@ -66,6 +58,18 @@
             "Local time ": [
                 "Tuesday 1213 PM"
             ]
+        },
+        "Åmål": {
+            "label": "Åmål",
+            "description": "Åmål is a locality and the seat of Åmål Municipality in Västra Götaland County, Sweden with 9,065 inhabitants in 2010. It is situated on the western shore of Vänern. Wikipedia",
+            "type": "",
+            "Area ": [
+                "2.927 sq miles (7.58 km²)"
+            ],
+            "Local time ": [
+                "Tuesday 1213 PM"
+            ],
+            "See results about": []
         },
         "Åmli": {
             "label": "Åmli",
@@ -131,16 +135,28 @@
             "description": "Åre Municipality is a municipality in Jämtland County in northern Sweden. Its seat is located in Järpen. Wikipedia",
             "type": ""
         },
-        "Åsele Municipality": {
-            "label": "Åsele Municipality",
-            "description": "Åsele Municipality is a municipality in Västerbotten County in northern Sweden. Its seat is located in Åsele. Wikipedia",
-            "type": ""
+        "Åsele": {
+            "label": "Åsele",
+            "description": "Åsele is a locality and the seat of Åsele Municipality in Västerbotten County, province of Lapland, Sweden with 1,798 inhabitants in 2010. Its elevation is 313 m. Wikipedia",
+            "type": "",
+            "Area ": [
+                "1.305 sq miles (3.38 km²)"
+            ],
+            "Local time ": [
+                "Tuesday 1213 PM"
+            ],
+            "See results about": []
         },
         "Åstorp Municipality": {
             "label": "Åstorp Municipality",
             "description": "Åstorp Municipality is a municipality in Skåne County in southern Sweden. Its seat is located in the town of Åstorp.\nIn 1974 \"old\" Åstorp was amalgamated with Kvidinge to form the present municipality. Wikipedia",
             "type": "",
             "See results about": []
+        },
+        "Åsele Municipality": {
+            "label": "Åsele Municipality",
+            "description": "Åsele Municipality is a municipality in Västerbotten County in northern Sweden. Its seat is located in Åsele. Wikipedia",
+            "type": ""
         },
         "Åsnes": {
             "label": "Åsnes",
@@ -167,14 +183,19 @@
                 "Tuesday 1213 PM"
             ]
         },
+        "Ève, Oise": {
+            "label": "Ève, Oise",
+            "description": "Ève is a commune in the Oise department in northern France. Wikipedia",
+            "type": ""
+        },
         "Èvres": {
             "label": "Èvres",
             "description": "Èvres is a commune in the Meuse department in Lorraine in north-eastern France. Wikipedia",
             "type": ""
         },
-        "Ève, Oise": {
-            "label": "Ève, Oise",
-            "description": "Ève is a commune in the Oise department in northern France. Wikipedia",
+        "Ébaty": {
+            "label": "Ébaty",
+            "description": "Ébaty is a commune in the Côte-d'Or department in eastern France. Wikipedia",
             "type": ""
         },
         "Écaquelon": {
@@ -186,6 +207,19 @@
             "label": "Écauville",
             "description": "Écauville is a commune in the Eure department in northern France. Wikipedia",
             "type": ""
+        },
+        "Échay": {
+            "label": "Échay",
+            "description": "Échay is a commune in the Doubs department in the Franche-Comté region in eastern France. Wikipedia",
+            "type": "",
+            "Weather ": [
+                "44°F (7°C)",
+                " Wind SW at 2 mph (3 km/h)",
+                " 47% Humidity"
+            ],
+            "Local time ": [
+                "Tuesday 1213 PM"
+            ]
         },
         "Échavanne": {
             "label": "Échavanne",
@@ -203,18 +237,10 @@
                 "Tuesday 1213 PM"
             ]
         },
-        "Échay": {
-            "label": "Échay",
-            "description": "Échay is a commune in the Doubs department in the Franche-Comté region in eastern France. Wikipedia",
-            "type": "",
-            "Weather ": [
-                "44°F (7°C)",
-                " Wind SW at 2 mph (3 km/h)",
-                " 47% Humidity"
-            ],
-            "Local time ": [
-                "Tuesday 1213 PM"
-            ]
+        "Échebrune": {
+            "label": "Échebrune",
+            "description": "Échebrune is a commune in the Charente-Maritime department in southwestern France. Wikipedia",
+            "type": ""
         },
         "Échemines": {
             "label": "Échemines",
@@ -232,9 +258,9 @@
                 "Tuesday 1213 PM"
             ]
         },
-        "Échebrune": {
-            "label": "Échebrune",
-            "description": "Échebrune is a commune in the Charente-Maritime department in southwestern France. Wikipedia",
+        "Échemiré": {
+            "label": "Échemiré",
+            "description": "Échemiré is a commune in the Maine-et-Loire department in western France. The inhabitants of the town of Échemiré are \"Echemiréens, Echemiréennes\" Wikipedia",
             "type": ""
         },
         "Échenevex": {
@@ -249,11 +275,6 @@
             "Local time ": [
                 "Tuesday 1213 PM"
             ]
-        },
-        "Échemiré": {
-            "label": "Échemiré",
-            "description": "Échemiré is a commune in the Maine-et-Loire department in western France. The inhabitants of the town of Échemiré are \"Echemiréens, Echemiréennes\" Wikipedia",
-            "type": ""
         },
         "Échillais": {
             "label": "Échillais",
@@ -286,19 +307,6 @@
                 "Tuesday 1213 PM"
             ]
         },
-        "École-Valentin": {
-            "label": "École-Valentin",
-            "description": "École-Valentin is a commune in the Doubs department in the Franche-Comté region in eastern France. Wikipedia",
-            "type": "",
-            "Weather ": [
-                "44°F (7°C)",
-                " Wind SW at 2 mph (3 km/h)",
-                " 47% Humidity"
-            ],
-            "Local time ": [
-                "Tuesday 1213 PM"
-            ]
-        },
         "Écly": {
             "label": "Écly",
             "description": "Écly is a commune in the Ardennes department in the Champagne-Ardenne region in northern France. Wikipedia",
@@ -315,6 +323,24 @@
                 "Tuesday 1213 PM"
             ]
         },
+        "École-Valentin": {
+            "label": "École-Valentin",
+            "description": "École-Valentin is a commune in the Doubs department in the Franche-Comté region in eastern France. Wikipedia",
+            "type": "",
+            "Weather ": [
+                "44°F (7°C)",
+                " Wind SW at 2 mph (3 km/h)",
+                " 47% Humidity"
+            ],
+            "Local time ": [
+                "Tuesday 1213 PM"
+            ]
+        },
+        "Écos": {
+            "label": "Écos",
+            "description": "Écos is a commune in the Eure department in northern France. Wikipedia",
+            "type": ""
+        },
         "Écot": {
             "label": "Écot",
             "description": "Écot is a commune in the Doubs department in the Franche-Comté region in eastern France. Wikipedia",
@@ -328,19 +354,9 @@
                 "Tuesday 1213 PM"
             ]
         },
-        "Écos": {
-            "label": "Écos",
-            "description": "Écos is a commune in the Eure department in northern France. Wikipedia",
-            "type": ""
-        },
         "Écouflant": {
             "label": "Écouflant",
             "description": "Écouflant is a commune in the Maine-et-Loire department in western France. It is around 5 km north of Angers. Wikipedia",
-            "type": ""
-        },
-        "Écriennes": {
-            "label": "Écriennes",
-            "description": "Écriennes is a commune in the Marne department in north-eastern France. Wikipedia",
             "type": ""
         },
         "Écoust-Saint-Mein": {
@@ -355,6 +371,16 @@
             "Local time ": [
                 "Tuesday 1213 PM"
             ]
+        },
+        "Écriennes": {
+            "label": "Écriennes",
+            "description": "Écriennes is a commune in the Marne department in north-eastern France. Wikipedia",
+            "type": ""
+        },
+        "Écury-le-Repos": {
+            "label": "Écury-le-Repos",
+            "description": "Écury-le-Repos is a commune in the Marne department in north-eastern France. Wikipedia",
+            "type": ""
         },
         "Écromagny": {
             "label": "Écromagny",
@@ -372,22 +398,17 @@
                 "Tuesday 1213 PM"
             ]
         },
-        "Écury-le-Repos": {
-            "label": "Écury-le-Repos",
-            "description": "Écury-le-Repos is a commune in the Marne department in north-eastern France. Wikipedia",
-            "type": ""
-        },
-        "Égly": {
-            "label": "Égly",
-            "description": "Égly is a commune in the Essonne department in Île-de-France in northern France.\nInhabitants of Égly are known as Aglatiens. Wikipedia",
+        "Église-Neuve-de-Vergt": {
+            "label": "Église-Neuve-de-Vergt",
+            "description": "Église-Neuve-de-Vergt is a commune in the Dordogne department in Aquitaine in southwestern France. Wikipedia",
             "type": "",
             "Weather ": [
-                "44°F (7°C)",
-                " Wind E at 3 mph (5 km/h)",
-                " 90% Humidity"
+                "52°F (11°C)",
+                " Wind SW at 12 mph (19 km/h)",
+                " 82% Humidity"
             ],
             "Local time ": [
-                "Tuesday 1214 PM"
+                "Tuesday 1213 PM"
             ]
         },
         "Égreville": {
@@ -407,6 +428,19 @@
             "label": "Égry",
             "description": "Égry is a commune in the Loiret department in north-central France. Wikipedia",
             "type": ""
+        },
+        "Égly": {
+            "label": "Égly",
+            "description": "Égly is a commune in the Essonne department in Île-de-France in northern France.\nInhabitants of Égly are known as Aglatiens. Wikipedia",
+            "type": "",
+            "Weather ": [
+                "44°F (7°C)",
+                " Wind E at 3 mph (5 km/h)",
+                " 90% Humidity"
+            ],
+            "Local time ": [
+                "Tuesday 1214 PM"
+            ]
         },
         "Éhuns": {
             "label": "Éhuns",
@@ -429,6 +463,16 @@
             "description": "Élencourt is a commune in the Oise department in northern France. Wikipedia",
             "type": ""
         },
+        "Épégard": {
+            "label": "Épégard",
+            "description": "Épégard is a commune in the Eure department in northern France. Wikipedia",
+            "type": ""
+        },
+        "Émeringes": {
+            "label": "Émeringes",
+            "description": "Émeringes is a commune in the Rhône department in eastern France. Wikipedia",
+            "type": ""
+        },
         "Épénancourt": {
             "label": "Épénancourt",
             "description": "Épénancourt is a commune in the Somme department in Picardie in northern France. Wikipedia",
@@ -442,33 +486,10 @@
                 "Tuesday 1214 PM"
             ]
         },
-        "Émeringes": {
-            "label": "Émeringes",
-            "description": "Émeringes is a commune in the Rhône department in eastern France. Wikipedia",
-            "type": ""
-        },
-        "Épégard": {
-            "label": "Épégard",
-            "description": "Épégard is a commune in the Eure department in northern France. Wikipedia",
-            "type": ""
-        },
         "Épeautrolles": {
             "label": "Épeautrolles",
             "description": "Épeautrolles is a commune in the Eure-et-Loir department in northern France. Wikipedia",
             "type": ""
-        },
-        "Église-Neuve-de-Vergt": {
-            "label": "Église-Neuve-de-Vergt",
-            "description": "Église-Neuve-de-Vergt is a commune in the Dordogne department in Aquitaine in southwestern France. Wikipedia",
-            "type": "",
-            "Weather ": [
-                "52°F (11°C)",
-                " Wind SW at 12 mph (19 km/h)",
-                " 82% Humidity"
-            ],
-            "Local time ": [
-                "Tuesday 1213 PM"
-            ]
         },
         "Épenède": {
             "label": "Épenède",
@@ -486,11 +507,6 @@
                 "Tuesday 1214 PM"
             ]
         },
-        "Épieds, Eure": {
-            "label": "Épieds, Eure",
-            "description": "Épieds is a commune in the Eure department in the Haute-Normandie region in northern France. Wikipedia",
-            "type": ""
-        },
         "Épertully": {
             "label": "Épertully",
             "description": "Épertully is a commune in the Saône-et-Loire department in the region of Bourgogne in eastern France. Wikipedia",
@@ -504,10 +520,28 @@
                 "Tuesday 1214 PM"
             ]
         },
+        "Épieds, Eure": {
+            "label": "Épieds, Eure",
+            "description": "Épieds is a commune in the Eure department in the Haute-Normandie region in northern France. Wikipedia",
+            "type": ""
+        },
         "Épinay, Eure": {
             "label": "Épinay, Eure",
             "description": "Épinay is a commune in the Eure department in the Haute-Normandie region in north-western France. Wikipedia",
             "type": ""
+        },
+        "Épisy": {
+            "label": "Épisy",
+            "description": "Épisy is a commune in the Seine-et-Marne department in the Île-de-France region in north-central France. Wikipedia",
+            "type": "",
+            "Weather ": [
+                "43°F (6°C)",
+                " Wind NE at 1 mph (2 km/h)",
+                " 91% Humidity"
+            ],
+            "Local time ": [
+                "Tuesday 1214 PM"
+            ]
         },
         "Épinay-Champlâtreux": {
             "label": "Épinay-Champlâtreux",
@@ -520,19 +554,6 @@
                 "43°F (6°C)",
                 " Wind S at 12 mph (19 km/h)",
                 " 81% Humidity"
-            ],
-            "Local time ": [
-                "Tuesday 1214 PM"
-            ]
-        },
-        "Épisy": {
-            "label": "Épisy",
-            "description": "Épisy is a commune in the Seine-et-Marne department in the Île-de-France region in north-central France. Wikipedia",
-            "type": "",
-            "Weather ": [
-                "43°F (6°C)",
-                " Wind NE at 1 mph (2 km/h)",
-                " 91% Humidity"
             ],
             "Local time ": [
                 "Tuesday 1214 PM"
@@ -556,16 +577,16 @@
             "description": "Éply is a commune in the Meurthe-et-Moselle department in north-eastern France. Wikipedia",
             "type": ""
         },
-        "Époye": {
-            "label": "Époye",
-            "description": "Époye is a commune in the Marne department in north-eastern France. Wikipedia",
-            "type": ""
-        },
         "Épouville": {
             "label": "Epouville",
             "description": "",
             "type": "",
             "See results about": []
+        },
+        "Époye": {
+            "label": "Époye",
+            "description": "Époye is a commune in the Marne department in north-eastern France. Wikipedia",
+            "type": ""
         },
         "Épreville": {
             "label": "Épreville",
@@ -581,9 +602,9 @@
             ],
             "See results about": []
         },
-        "Épreville-en-Roumois": {
-            "label": "Épreville-en-Roumois",
-            "description": "Épreville-en-Roumois is a commune in the Eure department in the Haute-Normandie region in northern France. Wikipedia",
+        "Épreville-en-Lieuvin": {
+            "label": "Épreville-en-Lieuvin",
+            "description": "Épreville-en-Lieuvin is a commune in the Eure department in the Haute-Normandie region in northern France. Wikipedia",
             "type": ""
         },
         "Épron": {
@@ -599,6 +620,11 @@
                 "Tuesday 1214 PM"
             ]
         },
+        "Épreville-en-Roumois": {
+            "label": "Épreville-en-Roumois",
+            "description": "Épreville-en-Roumois is a commune in the Eure department in the Haute-Normandie region in northern France. Wikipedia",
+            "type": ""
+        },
         "Équennes-Éramecourt": {
             "label": "Équennes-Éramecourt",
             "description": "Équennes-Éramecourt is a commune in the Somme department in Picardie in northern France. Wikipedia",
@@ -612,19 +638,14 @@
                 "Tuesday 1214 PM"
             ]
         },
-        "Épreville-en-Lieuvin": {
-            "label": "Épreville-en-Lieuvin",
-            "description": "Épreville-en-Lieuvin is a commune in the Eure department in the Haute-Normandie region in northern France. Wikipedia",
-            "type": ""
-        },
-        "Érondelle": {
-            "label": "Érondelle",
-            "description": "Érondelle is a commune in the Somme department in Picardie in northern France. Wikipedia",
+        "Équeurdreville-Hainneville": {
+            "label": "Équeurdreville-Hainneville",
+            "description": "Équeurdreville-Hainneville is a commune in the Manche department in Normandy in north-western France.\nIt was formed when Équeurdreville and Hainneville merged on January 1, 1965. Wikipedia",
             "type": "",
             "Weather ": [
-                "43°F (6°C)",
-                " Wind SE at 16 mph (26 km/h)",
-                " 79% Humidity"
+                "50°F (10°C)",
+                " Wind N at 9 mph (14 km/h)",
+                " 71% Humidity"
             ],
             "Local time ": [
                 "Tuesday 1214 PM"
@@ -638,6 +659,19 @@
                 "45°F (7°C)",
                 " Wind E at 8 mph (13 km/h)",
                 " 78% Humidity"
+            ],
+            "Local time ": [
+                "Tuesday 1214 PM"
+            ]
+        },
+        "Érondelle": {
+            "label": "Érondelle",
+            "description": "Érondelle is a commune in the Somme department in Picardie in northern France. Wikipedia",
+            "type": "",
+            "Weather ": [
+                "43°F (6°C)",
+                " Wind SE at 16 mph (26 km/h)",
+                " 79% Humidity"
             ],
             "Local time ": [
                 "Tuesday 1214 PM"
@@ -708,19 +742,6 @@
                 "Tuesday 1214 PM"
             ]
         },
-        "Éterpigny, Somme": {
-            "label": "Éterpigny, Somme",
-            "description": "Éterpigny is a commune in the Somme department in Picardie in northern France. Wikipedia",
-            "type": "",
-            "Weather ": [
-                "45°F (7°C)",
-                " Wind SE at 12 mph (19 km/h)",
-                " 76% Humidity"
-            ],
-            "Local time ": [
-                "Tuesday 1214 PM"
-            ]
-        },
         "Éterville": {
             "label": "Éterville",
             "description": "Éterville is a commune in the Calvados department in the Basse-Normandie region in northwestern France. Wikipedia",
@@ -729,6 +750,19 @@
                 "52°F (11°C)",
                 " Wind NW at 7 mph (11 km/h)",
                 " 67% Humidity"
+            ],
+            "Local time ": [
+                "Tuesday 1214 PM"
+            ]
+        },
+        "Éterpigny, Somme": {
+            "label": "Éterpigny, Somme",
+            "description": "Éterpigny is a commune in the Somme department in Picardie in northern France. Wikipedia",
+            "type": "",
+            "Weather ": [
+                "45°F (7°C)",
+                " Wind SE at 12 mph (19 km/h)",
+                " 76% Humidity"
             ],
             "Local time ": [
                 "Tuesday 1214 PM"
@@ -767,6 +801,19 @@
                 "Tuesday 1214 PM"
             ]
         },
+        "Étréchy, Essonne": {
+            "label": "Étréchy",
+            "description": "Étréchy is a commune in the Essonne department in Île-de-France in northern France.\nInhabitants of Étréchy are known as Strépiniacois. Wikipedia",
+            "type": "",
+            "Weather ": [
+                "44°F (7°C)",
+                " Wind E at 3 mph (5 km/h)",
+                " 90% Humidity"
+            ],
+            "Local time ": [
+                "Tuesday 1214 PM"
+            ]
+        },
         "Étouy": {
             "label": "Étouy",
             "description": "Étouy is a commune in the Oise department in northern France. Wikipedia",
@@ -785,19 +832,6 @@
                 "Tuesday 1214 PM"
             ]
         },
-        "Étréchy, Essonne": {
-            "label": "Étréchy",
-            "description": "Étréchy is a commune in the Essonne department in Île-de-France in northern France.\nInhabitants of Étréchy are known as Strépiniacois. Wikipedia",
-            "type": "",
-            "Weather ": [
-                "44°F (7°C)",
-                " Wind E at 3 mph (5 km/h)",
-                " 90% Humidity"
-            ],
-            "Local time ": [
-                "Tuesday 1214 PM"
-            ]
-        },
         "Étrabonne": {
             "label": "Étrabonne",
             "description": "Étrabonne is a commune in the Doubs department in the Franche-Comté region in eastern France. Wikipedia",
@@ -806,6 +840,19 @@
                 "44°F (7°C)",
                 " Wind SW at 2 mph (3 km/h)",
                 " 47% Humidity"
+            ],
+            "Local time ": [
+                "Tuesday 1214 PM"
+            ]
+        },
+        "Étray": {
+            "label": "Étray",
+            "description": "Étray is a commune in the Doubs department in the Franche-Comté region in eastern France. Wikipedia",
+            "type": "",
+            "Weather ": [
+                "51°F (11°C)",
+                " Wind 0 mph (0 km/h)",
+                " 65% Humidity"
             ],
             "Local time ": [
                 "Tuesday 1214 PM"
@@ -829,19 +876,6 @@
                 "Tuesday 1214 PM"
             ]
         },
-        "Étray": {
-            "label": "Étray",
-            "description": "Étray is a commune in the Doubs department in the Franche-Comté region in eastern France. Wikipedia",
-            "type": "",
-            "Weather ": [
-                "51°F (11°C)",
-                " Wind 0 mph (0 km/h)",
-                " 65% Humidity"
-            ],
-            "Local time ": [
-                "Tuesday 1214 PM"
-            ]
-        },
         "Étroussat": {
             "label": "Étroussat",
             "description": "Étroussat is a commune in the Allier department in central France. Wikipedia",
@@ -857,11 +891,6 @@
             "Local time ": [
                 "Tuesday 1215 PM"
             ]
-        },
-        "Ébaty": {
-            "label": "Ébaty",
-            "description": "Ébaty is a commune in the Côte-d'Or department in eastern France. Wikipedia",
-            "type": ""
         },
         "Étrun": {
             "label": "Étrun",
@@ -892,23 +921,6 @@
                 "Tuesday 1215 PM"
             ]
         },
-        "Éveux": {
-            "label": "Éveux",
-            "description": "Éveux is a commune in the Rhône department in eastern France. Wikipedia",
-            "type": ""
-        },
-        "Åsele": {
-            "label": "Åsele",
-            "description": "Åsele is a locality and the seat of Åsele Municipality in Västerbotten County, province of Lapland, Sweden with 1,798 inhabitants in 2010. Its elevation is 313 m. Wikipedia",
-            "type": "",
-            "Area ": [
-                "1.305 sq miles (3.38 km²)"
-            ],
-            "Local time ": [
-                "Tuesday 1213 PM"
-            ],
-            "See results about": []
-        },
         "Évans": {
             "label": "Evans",
             "description": "Evans is a women's clothing retailer located in the United Kingdom and Ireland. They have over 300 stores around the UK selling plus-size clothing, lingerie, wide fitting shoes, swimwear and accessories. Wikipedia",
@@ -921,6 +933,16 @@
         "Évricourt": {
             "label": "Évricourt",
             "description": "Évricourt is a commune in the Oise department in northern France. Wikipedia",
+            "type": ""
+        },
+        "Éveux": {
+            "label": "Éveux",
+            "description": "Éveux is a commune in the Rhône department in eastern France. Wikipedia",
+            "type": ""
+        },
+        "Évron": {
+            "label": "Évron",
+            "description": "Évron is a commune in the Mayenne department in north-western France. Evron is noted for its chapel of Notre-Dame-de-l'Epine, with 13th-century wall paintings and Aubusson tapestries. Wikipedia",
             "type": ""
         },
         "Ézanville": {
@@ -939,24 +961,6 @@
                 "Tuesday 1215 PM"
             ]
         },
-        "Équeurdreville-Hainneville": {
-            "label": "Équeurdreville-Hainneville",
-            "description": "Équeurdreville-Hainneville is a commune in the Manche department in Normandy in north-western France.\nIt was formed when Équeurdreville and Hainneville merged on January 1, 1965. Wikipedia",
-            "type": "",
-            "Weather ": [
-                "50°F (10°C)",
-                " Wind N at 9 mph (14 km/h)",
-                " 71% Humidity"
-            ],
-            "Local time ": [
-                "Tuesday 1214 PM"
-            ]
-        },
-        "Évron": {
-            "label": "Évron",
-            "description": "Évron is a commune in the Mayenne department in north-western France. Evron is noted for its chapel of Notre-Dame-de-l'Epine, with 13th-century wall paintings and Aubusson tapestries. Wikipedia",
-            "type": ""
-        },
         "Île d'Yeu": {
             "label": "Île d'Yeu",
             "description": "Île d'Yeu is an island and commune just off the Vendée coast of western France.\nThe island's two harbours, Port-Joinville in the north and Port de la Meule, located in a rocky inlet of the southern ... Wikipedia",
@@ -967,19 +971,14 @@
         "label": 96,
         "description": 96,
         "type": 96,
-        "Local time ": 56,
-        "Area ": 20,
-        "Weather ": 47,
-        "See results about": 10,
-        "Points of interest": 1,
-        "People also search for": 1,
-        "Founded ": 1,
-        "Recent posts": 1
+        "local_time": 1,
+        "area": 1,
+        "weather": 1,
+        "see_results_about": 1,
+        "points_of_interest": 1,
+        "people_also_search_for": 1,
+        "founded": 1,
+        "recent_posts": 1
     },
-    "infoboxless": [
-        "Étais",
-        "Épehy",
-        "Île-d'Aix",
-        "Édon"
-    ]
+    "infoboxless": []
 }

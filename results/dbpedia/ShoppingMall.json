@@ -1,5 +1,18 @@
 {
     "instances": {
+        "Berjaya Times Square": {
+            "label": "Berjaya Times Square",
+            "description": "Berjaya Times Square Kuala Lumpur is a 48-storey, 203 m twin tower, hotel, condominium, indoor amusement park and shopping centre complex in Kuala Lumpur, Malaysia. Wikipedia",
+            "type": "",
+            "Address ": [
+                "1 Jalan Imbi",
+                " 55100 Wilayah Persekutuan Kuala Lumpur",
+                " Malaysia"
+            ],
+            "Hours ": [
+                "+60 3-2144 9821"
+            ]
+        },
         "Bull Ring, Birmingham": {
             "label": "Bull Ring, Birmingham",
             "description": "The Bull Ring is a major commercial area of Birmingham. It has been an important feature of Birmingham since the Middle Ages, when its market was first held. Wikipedia",
@@ -16,34 +29,6 @@
                 "Benoy"
             ],
             "People also search for": []
-        },
-        "Berjaya Times Square": {
-            "label": "Berjaya Times Square",
-            "description": "Berjaya Times Square Kuala Lumpur is a 48-storey, 203 m twin tower, hotel, condominium, indoor amusement park and shopping centre complex in Kuala Lumpur, Malaysia. Wikipedia",
-            "type": "",
-            "Address ": [
-                "1 Jalan Imbi",
-                " 55100 Wilayah Persekutuan Kuala Lumpur",
-                " Malaysia"
-            ],
-            "Hours ": [
-                "+60 3-2144 9821"
-            ]
-        },
-        "SM Megamall": {
-            "label": "SM Megamall",
-            "description": "SM Megamall is a shopping mall located in the Ortigas business district of Metro Manila, Philippines. Wikipedia",
-            "type": "Shopping mall",
-            "Address ": [
-                "EDSA corner J. Vargas Avenue",
-                " Mandaluyong City",
-                "",
-                " 1860",
-                " Philippines"
-            ],
-            "Hours ": [
-                "+63 2 633 5042"
-            ]
         },
         "Galeries Lafayette": {
             "label": "Galeries Lafayette",
@@ -68,6 +53,21 @@
                 "(610) 265-5727"
             ],
             "People also search for": []
+        },
+        "SM Megamall": {
+            "label": "SM Megamall",
+            "description": "SM Megamall is a shopping mall located in the Ortigas business district of Metro Manila, Philippines. Wikipedia",
+            "type": "Shopping mall",
+            "Address ": [
+                "EDSA corner J. Vargas Avenue",
+                " Mandaluyong City",
+                "",
+                " 1860",
+                " Philippines"
+            ],
+            "Hours ": [
+                "+63 2 633 5042"
+            ]
         },
         "Suria KLCC": {
             "label": "Suria KLCC",
@@ -118,6 +118,30 @@
             ],
             "People also search for": []
         },
+        "West Edmonton Mall": {
+            "label": "West Edmonton Mall",
+            "description": "West Edmonton Mall, located in Edmonton, Alberta, Canada, is the largest shopping mall in North America and the tenth largest in the world by gross leasable area. The mall was founded by the Ghermezian brothers, who immigrated from Iran in 1959. Wikipedia",
+            "type": "",
+            "Address ": [
+                "8882 170 St NW",
+                " Edmonton",
+                " AB T5T 4J2",
+                " Canada"
+            ],
+            "Opened ": "September 15, 1981",
+            "Hours ": [
+                "+1 780-444-5321"
+            ],
+            "Phone ": [
+                "Alberta"
+            ],
+            "People also search for": []
+        },
+        "Asbury Plaza": {
+            "label": "Asbury Plaza",
+            "description": "",
+            "type": ""
+        },
         "Drake Circus Shopping Centre": {
             "label": "Drake Circus",
             "description": "Drake Circus Shopping Centre is a 425,000 square feet covered shopping mall in the centre of Plymouth, England which opened in October 2006. Wikipedia",
@@ -136,19 +160,6 @@
             ],
             "People also search for": []
         },
-        "Pacific Place": {
-            "label": "Pacific Place",
-            "description": "Pacific Place is a complex of office towers, hotels and a shopping centre situated at 88 Queensway, in Admiralty, Hong Kong. The latest phase, Three Pacific Place, is located at 1 Queen's Road East. Wikipedia",
-            "type": "Shopping centre",
-            "Address ": [
-                "88 Queensway",
-                " Hong Kong"
-            ],
-            "Phone ": [
-                "+852 2844 8900"
-            ],
-            "See results about": []
-        },
         "Miller Hill Mall": {
             "label": "Miller Hill Mall",
             "description": "Miller Hill Mall is a shopping mall located in Duluth, Minnesota, USA. It is located on U.S. Highway 53 where it intersects Trinity Road. Wikipedia",
@@ -164,6 +175,37 @@
             ],
             "Hours ": [
                 "(218) 727-8301"
+            ],
+            "People also search for": []
+        },
+        "Pacific Place": {
+            "label": "Pacific Place",
+            "description": "Pacific Place is a complex of office towers, hotels and a shopping centre situated at 88 Queensway, in Admiralty, Hong Kong. The latest phase, Three Pacific Place, is located at 1 Queen's Road East. Wikipedia",
+            "type": "Shopping centre",
+            "Address ": [
+                "88 Queensway",
+                " Hong Kong"
+            ],
+            "Phone ": [
+                "+852 2844 8900"
+            ],
+            "See results about": []
+        },
+        "Phipps Plaza": {
+            "label": "Phipps Plaza",
+            "description": "Phipps Plaza is an upscale shopping mall located in the affluent Buckhead district of Atlanta. Owned by Simon Property Group, the retail center is located at the intersection of Peachtree Road & Lenox ... Wikipedia",
+            "type": "Shopping mall",
+            "Address ": [
+                "3500 Peachtree Rd NE",
+                " Atlanta",
+                " GA 30326",
+                " United States"
+            ],
+            "Opened ": [
+                "1969"
+            ],
+            "Hours ": [
+                "(404) 261-7910"
             ],
             "People also search for": []
         },
@@ -185,24 +227,6 @@
             ],
             "People also search for": []
         },
-        "Phipps Plaza": {
-            "label": "Phipps Plaza",
-            "description": "Phipps Plaza is an upscale shopping mall located in the affluent Buckhead district of Atlanta. Owned by Simon Property Group, the retail center is located at the intersection of Peachtree Road & Lenox ... Wikipedia",
-            "type": "Shopping mall",
-            "Address ": [
-                "3500 Peachtree Rd NE",
-                " Atlanta",
-                " GA 30326",
-                " United States"
-            ],
-            "Opened ": [
-                "1969"
-            ],
-            "Hours ": [
-                "(404) 261-7910"
-            ],
-            "People also search for": []
-        },
         "The Landmark (Hong Kong)": {
             "label": "The Landmark",
             "description": "The Landmark is an office and shopping development owned by Hongkong Land in Central, Hong Kong. It is commonly known as the home of numerous prestigious international brands and the gathering place of well-heeled shoppers. Wikipedia",
@@ -214,22 +238,6 @@
             "Phone ": [
                 "+852 2500 0500"
             ]
-        },
-        "Valley River Center": {
-            "label": "Valley River Center",
-            "description": "Valley River Center is a super-regional-class shopping mall located in Eugene, Oregon, U.S. It is the largest shopping center between the Portland and San Francisco area with over 130 local and national stores and restaurants. Wikipedia",
-            "type": "Shopping center",
-            "Address ": [
-                "293 Valley River Center",
-                " Eugene",
-                " OR 97401",
-                " United States"
-            ],
-            "Opened ": "August 4, 1969",
-            "Hours ": [
-                "(541) 683-5513"
-            ],
-            "People also search for": []
         },
         "Ušće Tower": {
             "label": "Ušće Tower",
@@ -257,38 +265,19 @@
             ],
             "People also search for": []
         },
-        "Concord Mall (Indiana)": {
-            "label": "Concord Mall",
-            "description": "Concord Mall is an enclosed shopping mall serving Elkhart, Indiana. It opened in 1972 and is anchored by J. C. Penney, Carson's, and Hobby Lobby. Wikipedia",
-            "type": "Indiana",
+        "Valley River Center": {
+            "label": "Valley River Center",
+            "description": "Valley River Center is a super-regional-class shopping mall located in Eugene, Oregon, U.S. It is the largest shopping center between the Portland and San Francisco area with over 130 local and national stores and restaurants. Wikipedia",
+            "type": "Shopping center",
             "Address ": [
-                "3701 S Main St",
-                " Elkhart",
-                " IN 46517",
+                "293 Valley River Center",
+                " Eugene",
+                " OR 97401",
                 " United States"
-            ]
-        },
-        "Asbury Plaza": {
-            "label": "Asbury Plaza",
-            "description": "",
-            "type": ""
-        },
-        "West Edmonton Mall": {
-            "label": "West Edmonton Mall",
-            "description": "West Edmonton Mall, located in Edmonton, Alberta, Canada, is the largest shopping mall in North America and the tenth largest in the world by gross leasable area. The mall was founded by the Ghermezian brothers, who immigrated from Iran in 1959. Wikipedia",
-            "type": "",
-            "Address ": [
-                "8882 170 St NW",
-                " Edmonton",
-                " AB T5T 4J2",
-                " Canada"
             ],
-            "Opened ": "September 15, 1981",
+            "Opened ": "August 4, 1969",
             "Hours ": [
-                "+1 780-444-5321"
-            ],
-            "Phone ": [
-                "Alberta"
+                "(541) 683-5513"
             ],
             "People also search for": []
         },
@@ -322,21 +311,6 @@
             ],
             "People also search for": []
         },
-        "Bay Park Square": {
-            "label": "Bay Park Square",
-            "description": "Bay Park Square is a shopping mall owned by Simon Property Group, in the Green Bay, Wisconsin suburb of Ashwaubenon, in the United States. The mall opened in 1980 under the ownership of DeBartolo Corporation. Wikipedia",
-            "type": "Shopping mall",
-            "Address ": [
-                "303 Bay Park Square",
-                " Green Bay",
-                " WI 54304",
-                " United States"
-            ],
-            "Hours ": [
-                "(920) 499-2277"
-            ],
-            "People also search for": []
-        },
         "Brea Mall": {
             "label": "Brea Mall",
             "description": "The Brea Mall is a shopping mall located in the Orange County city of Brea, California. Since 1998 the mall has been owned and operated by the Simon Property Group. Wikipedia",
@@ -352,6 +326,79 @@
             ],
             "Hours ": [
                 "(714) 990-2732"
+            ],
+            "People also search for": []
+        },
+        "Concord Mall (Indiana)": {
+            "label": "Concord Mall",
+            "description": "Concord Mall is an enclosed shopping mall serving Elkhart, Indiana. It opened in 1972 and is anchored by J. C. Penney, Carson's, and Hobby Lobby. Wikipedia",
+            "type": "Indiana",
+            "Address ": [
+                "3701 S Main St",
+                " Elkhart",
+                " IN 46517",
+                " United States"
+            ]
+        },
+        "Bay Park Square": {
+            "label": "Bay Park Square",
+            "description": "Bay Park Square is a shopping mall owned by Simon Property Group, in the Green Bay, Wisconsin suburb of Ashwaubenon, in the United States. The mall opened in 1980 under the ownership of DeBartolo Corporation. Wikipedia",
+            "type": "Shopping mall",
+            "Address ": [
+                "303 Bay Park Square",
+                " Green Bay",
+                " WI 54304",
+                " United States"
+            ],
+            "Hours ": [
+                "(920) 499-2277"
+            ],
+            "People also search for": []
+        },
+        "Broadway at the Beach": {
+            "label": "Broadway at the Beach",
+            "description": "Broadway at the Beach is a shopping center located in Myrtle Beach, South Carolina. Since its inception in 1996, it has grown to be one of Myrtle Beach's premier shopping destinations. Wikipedia",
+            "type": "Shopping center",
+            "Address ": [
+                "1325 Celebrity Cir",
+                " Myrtle Beach",
+                " SC 29577",
+                " United States"
+            ],
+            "Hours ": [
+                "(843) 444-3200"
+            ],
+            "People also search for": []
+        },
+        "Buchanan Galleries": {
+            "label": "Buchanan Galleries",
+            "description": "Buchanan Galleries is a shopping centre located in the central area of Glasgow, the largest city in Scotland. Construction began in 1996 and the building opened to the public on 31 March 1999. Wikipedia",
+            "type": "Shopping centre",
+            "Address ": [
+                "220 Buchanan St",
+                " Glasgow G1 2FF",
+                " United Kingdom"
+            ],
+            "Opened ": [
+                "1999"
+            ],
+            "Phone ": [
+                "+44 141 333 9898"
+            ],
+            "People also search for": []
+        },
+        "Bronx Terminal Market": {
+            "label": "Bronx Terminal Market",
+            "description": "Bronx Terminal Market, formerly known as Gateway Center at Bronx Terminal Market is a shopping center at Exterior Street in The Bronx, New York. Wikipedia",
+            "type": "",
+            "Address ": [
+                "610 Gateway Center Blvd",
+                " Bronx",
+                " NY 10451",
+                " United States"
+            ],
+            "Opened ": [
+                "2009"
             ],
             "People also search for": []
         },
@@ -373,59 +420,12 @@
             ],
             "People also search for": []
         },
-        "Buchanan Galleries": {
-            "label": "Buchanan Galleries",
-            "description": "Buchanan Galleries is a shopping centre located in the central area of Glasgow, the largest city in Scotland. Construction began in 1996 and the building opened to the public on 31 March 1999. Wikipedia",
-            "type": "Shopping centre",
-            "Address ": [
-                "220 Buchanan St",
-                " Glasgow G1 2FF",
-                " United Kingdom"
-            ],
-            "Opened ": [
-                "1999"
-            ],
-            "Phone ": [
-                "+44 141 333 9898"
-            ],
-            "People also search for": []
-        },
         "Causeway Point": {
             "label": "Causeway Point",
             "description": "Causeway Point, is the seventh largest suburban shopping mall in Singapore, located in the town centre of Woodlands, a town in the north of Singapore. Wikipedia",
             "type": "Shopping mall",
             "Opened ": [
                 "November 1998"
-            ],
-            "People also search for": []
-        },
-        "Broadway at the Beach": {
-            "label": "Broadway at the Beach",
-            "description": "Broadway at the Beach is a shopping center located in Myrtle Beach, South Carolina. Since its inception in 1996, it has grown to be one of Myrtle Beach's premier shopping destinations. Wikipedia",
-            "type": "Shopping center",
-            "Address ": [
-                "1325 Celebrity Cir",
-                " Myrtle Beach",
-                " SC 29577",
-                " United States"
-            ],
-            "Hours ": [
-                "(843) 444-3200"
-            ],
-            "People also search for": []
-        },
-        "Bronx Terminal Market": {
-            "label": "Bronx Terminal Market",
-            "description": "Bronx Terminal Market, formerly known as Gateway Center at Bronx Terminal Market is a shopping center at Exterior Street in The Bronx, New York. Wikipedia",
-            "type": "",
-            "Address ": [
-                "610 Gateway Center Blvd",
-                " Bronx",
-                " NY 10451",
-                " United States"
-            ],
-            "Opened ": [
-                "2009"
             ],
             "People also search for": []
         },
@@ -445,6 +445,29 @@
             "Hours ": [
                 "(616) 949-2550"
             ],
+            "People also search for": []
+        },
+        "Churchill Square (Brighton and Hove)": {
+            "label": "Churchill Square",
+            "description": "Churchill Square is the major city-centre shopping centre, NCP and central bus station in the city of Brighton and Hove, United Kingdom.\nIt was originally built during the 1960s, obscuring several streets. Wikipedia",
+            "type": "Brighton and Hove",
+            "Address ": [
+                "Russell Pl",
+                " Brighton BN1 2RG",
+                " United Kingdom"
+            ],
+            "Opened ": [
+                "1998"
+            ],
+            "Hours ": [
+                "+44 1273 327428"
+            ],
+            "People also search for": []
+        },
+        "Chatswood Chase": {
+            "label": "Chatswood Chase Shopping Centre",
+            "description": "",
+            "type": "",
             "People also search for": []
         },
         "Central City Shopping Centre": {
@@ -468,57 +491,6 @@
             ],
             "People also search for": []
         },
-        "Chatswood Chase": {
-            "label": "Chatswood Chase Shopping Centre",
-            "description": "",
-            "type": "",
-            "People also search for": []
-        },
-        "City Creek Center": {
-            "label": "City Creek Center",
-            "description": "The City Creek Center is a mixed-use development with an upscale open-air shopping center, office and residential buildings, fountain, and simulated creek near Temple Square in downtown Salt Lake City, Utah. Wikipedia",
-            "type": "Shopping center",
-            "Address ": [
-                "50 S Main St",
-                " Salt Lake City",
-                " UT 84144",
-                " United States"
-            ],
-            "Opened ": [
-                "March 2012"
-            ],
-            "Hours ": [
-                "(801) 521-2012"
-            ],
-            "People also search for": []
-        },
-        "Citypark Albania": {
-            "label": "Citypark Albania",
-            "description": "Citypark Albania is a shopping mall in Albania. located along the Durrës – Tirana highway. Wikipedia",
-            "type": "",
-            "Address ": [
-                "SH2",
-                " Albania"
-            ],
-            "People also search for": []
-        },
-        "Churchill Square (Brighton and Hove)": {
-            "label": "Churchill Square",
-            "description": "Churchill Square is the major city-centre shopping centre, NCP and central bus station in the city of Brighton and Hove, United Kingdom.\nIt was originally built during the 1960s, obscuring several streets. Wikipedia",
-            "type": "Brighton and Hove",
-            "Address ": [
-                "Russell Pl",
-                " Brighton BN1 2RG",
-                " United Kingdom"
-            ],
-            "Opened ": [
-                "1998"
-            ],
-            "Hours ": [
-                "+44 1273 327428"
-            ],
-            "People also search for": []
-        },
         "CityPlace": {
             "label": "CityPlace (West Palm Beach)",
             "description": "CityPlace (West Palm Beach) is an upscale lifestyle center in downtown West Palm Beach, Florida along South Rosemary Avenue. Besides shops and restaurants, the center also includes rental apartments, condos, and offices. Wikipedia",
@@ -532,6 +504,16 @@
             "Opened ": "October 27, 2000",
             "Hours ": [
                 "(561) 820-0074"
+            ],
+            "People also search for": []
+        },
+        "Citypark Albania": {
+            "label": "Citypark Albania",
+            "description": "Citypark Albania is a shopping mall in Albania. located along the Durrës – Tirana highway. Wikipedia",
+            "type": "",
+            "Address ": [
+                "SH2",
+                " Albania"
             ],
             "People also search for": []
         },
@@ -553,33 +535,6 @@
             ],
             "People also search for": []
         },
-        "Dixie Square Mall": {
-            "label": "Dixie Square Mall",
-            "description": "Dixie Square Mall was an enclosed shopping mall located in Harvey, Illinois, United States, at the junction of 151st Street and the Dixie Highway. It stood vacant for over 30 years, more than twice as long as it was in business. Wikipedia",
-            "type": "",
-            "Opened ": "August 31, 1966",
-            "People also search for": []
-        },
-        "Eden, High Wycombe": {
-            "label": "Eden, High Wycombe",
-            "description": "Eden is a shopping and entertainment complex in High Wycombe, Buckinghamshire in the south east of England. Wikipedia",
-            "type": "Shopping centre",
-            "Address ": [
-                "High Wycombe HP11 2DQ",
-                " United Kingdom"
-            ],
-            "Opened ": "March 13, 2008",
-            "Phone ": [
-                "+44 1494 768068"
-            ],
-            "People also search for": []
-        },
-        "Forum (shopping centre)": {
-            "label": "Forum The Shopping Mall",
-            "description": "",
-            "type": "",
-            "See results about": []
-        },
         "Copley Place": {
             "label": "Copley Place",
             "description": "Copley Place is an upscale shopping mall in the Back Bay section of Boston, Massachusetts, as part of a larger complex that includes office buildings, two hotels, and a parking garage. Wikipedia",
@@ -598,21 +553,58 @@
             ],
             "People also search for": []
         },
-        "Galleria at Crystal Run": {
-            "label": "Galleria at Crystal Run",
-            "description": "The Galleria at Crystal Run is a shopping mall in Wallkill, New York and is the second largest mall in New York's Hudson Valley region. Wikipedia",
-            "type": "Shopping mall",
+        "City Creek Center": {
+            "label": "City Creek Center",
+            "description": "The City Creek Center is a mixed-use development with an upscale open-air shopping center, office and residential buildings, fountain, and simulated creek near Temple Square in downtown Salt Lake City, Utah. Wikipedia",
+            "type": "Shopping center",
             "Address ": [
-                "1 N Galleria Dr",
-                " Middletown",
-                " NY 10941",
+                "50 S Main St",
+                " Salt Lake City",
+                " UT 84144",
                 " United States"
             ],
             "Opened ": [
-                "April 1992"
+                "March 2012"
             ],
             "Hours ": [
-                "(845) 692-8883"
+                "(801) 521-2012"
+            ],
+            "People also search for": []
+        },
+        "Eden, High Wycombe": {
+            "label": "Eden, High Wycombe",
+            "description": "Eden is a shopping and entertainment complex in High Wycombe, Buckinghamshire in the south east of England. Wikipedia",
+            "type": "Shopping centre",
+            "Address ": [
+                "High Wycombe HP11 2DQ",
+                " United Kingdom"
+            ],
+            "Opened ": "March 13, 2008",
+            "Phone ": [
+                "+44 1494 768068"
+            ],
+            "People also search for": []
+        },
+        "Dixie Square Mall": {
+            "label": "Dixie Square Mall",
+            "description": "Dixie Square Mall was an enclosed shopping mall located in Harvey, Illinois, United States, at the junction of 151st Street and the Dixie Highway. It stood vacant for over 30 years, more than twice as long as it was in business. Wikipedia",
+            "type": "",
+            "Opened ": "August 31, 1966",
+            "People also search for": []
+        },
+        "Fox River Mall": {
+            "label": "Fox River Mall",
+            "description": "Fox River Mall is a mall located at 4301 W Wisconsin Ave., Appleton, Wisconsin in the United States. This mall opened on July 18, 1984. Wikipedia",
+            "type": "",
+            "Address ": [
+                "4301 W Wisconsin Ave",
+                " Appleton",
+                " WI 54913",
+                " United States"
+            ],
+            "Opened ": "July 18, 1984",
+            "Hours ": [
+                "(920) 739-4100"
             ],
             "People also search for": []
         },
@@ -632,35 +624,11 @@
             ],
             "People also search for": []
         },
-        "Fox River Mall": {
-            "label": "Fox River Mall",
-            "description": "Fox River Mall is a mall located at 4301 W Wisconsin Ave., Appleton, Wisconsin in the United States. This mall opened on July 18, 1984. Wikipedia",
+        "Forum (shopping centre)": {
+            "label": "Forum The Shopping Mall",
+            "description": "",
             "type": "",
-            "Address ": [
-                "4301 W Wisconsin Ave",
-                " Appleton",
-                " WI 54913",
-                " United States"
-            ],
-            "Opened ": "July 18, 1984",
-            "Hours ": [
-                "(920) 739-4100"
-            ],
-            "People also search for": []
-        },
-        "Greenacres Shopping Centre": {
-            "label": "Greenacres Shopping Centre",
-            "description": "Greenacres Shopping Centre is a shopping mall in Port Elizabeth, South Africa. It was opened on 22 October 1981, and is Port Elizabeth's largest shopping mall. It attracts more than a million shoppers a month. Wikipedia",
-            "type": "",
-            "Address ": [
-                "Ring Rd",
-                " Port Elizabeth 6045",
-                " South Africa"
-            ],
-            "Hours ": [
-                "+27 41 363 0791"
-            ],
-            "People also search for": []
+            "See results about": []
         },
         "Galleria Edina": {
             "label": "Galleria Edina",
@@ -698,6 +666,24 @@
             ],
             "People also search for": []
         },
+        "Galleria at Crystal Run": {
+            "label": "Galleria at Crystal Run",
+            "description": "The Galleria at Crystal Run is a shopping mall in Wallkill, New York and is the second largest mall in New York's Hudson Valley region. Wikipedia",
+            "type": "Shopping mall",
+            "Address ": [
+                "1 N Galleria Dr",
+                " Middletown",
+                " NY 10941",
+                " United States"
+            ],
+            "Opened ": [
+                "April 1992"
+            ],
+            "Hours ": [
+                "(845) 692-8883"
+            ],
+            "People also search for": []
+        },
         "Guam Premier Outlets": {
             "label": "Guam Premier Outlets",
             "description": "Guam Premier Outlets or GPO is a shopping mall located in Tamuning, Guam. GPO is the only outlet mall in the United States territory of Guam. Wikipedia",
@@ -709,6 +695,20 @@
             ],
             "Hours ": [
                 "+1 671-647-4032"
+            ],
+            "People also search for": []
+        },
+        "Greenacres Shopping Centre": {
+            "label": "Greenacres Shopping Centre",
+            "description": "Greenacres Shopping Centre is a shopping mall in Port Elizabeth, South Africa. It was opened on 22 October 1981, and is Port Elizabeth's largest shopping mall. It attracts more than a million shoppers a month. Wikipedia",
+            "type": "",
+            "Address ": [
+                "Ring Rd",
+                " Port Elizabeth 6045",
+                " South Africa"
+            ],
+            "Hours ": [
+                "+27 41 363 0791"
             ],
             "People also search for": []
         },
@@ -724,15 +724,6 @@
             ],
             "Hours ": [
                 "(336) 765-8321"
-            ],
-            "People also search for": []
-        },
-        "Itis shopping centre": {
-            "label": "Itis shopping centre",
-            "description": "Itis is a shopping centre in the district of Itäkeskus in East Helsinki, Finland. It is the largest fully enclosed shopping centre in the Nordic countries, with a gross leasable area of 120,300 square ... Wikipedia",
-            "type": "",
-            "Opened ": [
-                "1984"
             ],
             "People also search for": []
         },
@@ -754,19 +745,12 @@
             ],
             "People also search for": []
         },
-        "Jordan Creek Town Center": {
-            "label": "Jordan Creek Town Center",
-            "description": "Jordan Creek Town Center is a super-regional shopping mall and lifestyle center in the American city of West Des Moines, Iowa. It is the largest shopping complex in the state of Iowa with a total gross leasable area of 1,340,000 square feet. Wikipedia",
-            "type": "Shopping center",
-            "Address ": [
-                "101 Jordan Creek Pkwy",
-                " West Des Moines",
-                " IA 50266",
-                " United States"
-            ],
-            "Opened ": "August 4, 2004",
-            "Hours ": [
-                "(515) 440-6255"
+        "Itis shopping centre": {
+            "label": "Itis shopping centre",
+            "description": "Itis is a shopping centre in the district of Itäkeskus in East Helsinki, Finland. It is the largest fully enclosed shopping centre in the Nordic countries, with a gross leasable area of 120,300 square ... Wikipedia",
+            "type": "",
+            "Opened ": [
+                "1984"
             ],
             "People also search for": []
         },
@@ -781,6 +765,22 @@
             ],
             "Architect ": [
                 "Juhani Pallasmaa"
+            ],
+            "People also search for": []
+        },
+        "Jordan Creek Town Center": {
+            "label": "Jordan Creek Town Center",
+            "description": "Jordan Creek Town Center is a super-regional shopping mall and lifestyle center in the American city of West Des Moines, Iowa. It is the largest shopping complex in the state of Iowa with a total gross leasable area of 1,340,000 square feet. Wikipedia",
+            "type": "Shopping center",
+            "Address ": [
+                "101 Jordan Creek Pkwy",
+                " West Des Moines",
+                " IA 50266",
+                " United States"
+            ],
+            "Opened ": "August 4, 2004",
+            "Hours ": [
+                "(515) 440-6255"
             ],
             "People also search for": []
         },
@@ -810,24 +810,6 @@
             ],
             "Opened ": [
                 "December 1993"
-            ],
-            "People also search for": []
-        },
-        "Lafayette Square Mall": {
-            "label": "Lafayette Square Mall",
-            "description": "Lafayette Square Mall is a super-regional shopping mall in Indianapolis, Indiana. Developed in 1968 by Edward J. DeBartolo Sr., the mall is managed by Jones Lang LaSalle and owned by Ashkenazy Acquisition Corp. Wikipedia",
-            "type": "",
-            "Address ": [
-                "3919 Lafayette Rd",
-                " Indianapolis",
-                " IN 46254",
-                " United States"
-            ],
-            "Opened ": [
-                "1968"
-            ],
-            "Hours ": [
-                "(317) 291-6391"
             ],
             "People also search for": []
         },
@@ -866,10 +848,22 @@
             ],
             "People also search for": []
         },
-        "Meadowhall Centre": {
-            "label": "Meadowhall Centre Ltd",
-            "description": "",
+        "Lafayette Square Mall": {
+            "label": "Lafayette Square Mall",
+            "description": "Lafayette Square Mall is a super-regional shopping mall in Indianapolis, Indiana. Developed in 1968 by Edward J. DeBartolo Sr., the mall is managed by Jones Lang LaSalle and owned by Ashkenazy Acquisition Corp. Wikipedia",
             "type": "",
+            "Address ": [
+                "3919 Lafayette Rd",
+                " Indianapolis",
+                " IN 46254",
+                " United States"
+            ],
+            "Opened ": [
+                "1968"
+            ],
+            "Hours ": [
+                "(317) 291-6391"
+            ],
             "People also search for": []
         },
         "Merry Hill Shopping Centre": {
@@ -890,17 +884,10 @@
             ],
             "People also search for": []
         },
-        "Myyrmanni": {
-            "label": "Myyrmanni",
-            "description": "Myyrmanni is a shopping center located at the Myyrmäki suburb of Vantaa, Finland. The center was built in the early 1990s and it has over 120 stores and 1,100 parking spaces. It was the site of the Myyrmanni bombing on October 11, 2002. Wikipedia",
-            "type": "Shopping center",
-            "Address ": "Stenflisgränden 3A 1, 01600 Vanda, Finland",
-            "Opened ": [
-                "1994"
-            ],
-            "Hours ": [
-                "+358 9 5043774"
-            ],
+        "Meadowhall Centre": {
+            "label": "Meadowhall Centre Ltd",
+            "description": "",
+            "type": "",
             "People also search for": []
         },
         "Mic Mac Mall": {
@@ -921,6 +908,19 @@
             ],
             "Phone ": [
                 "Nova Scotia"
+            ],
+            "People also search for": []
+        },
+        "Myyrmanni": {
+            "label": "Myyrmanni",
+            "description": "Myyrmanni is a shopping center located at the Myyrmäki suburb of Vantaa, Finland. The center was built in the early 1990s and it has over 120 stores and 1,100 parking spaces. It was the site of the Myyrmanni bombing on October 11, 2002. Wikipedia",
+            "type": "Shopping center",
+            "Address ": "Stenflisgränden 3A 1, 01600 Vanda, Finland",
+            "Opened ": [
+                "1994"
+            ],
+            "Hours ": [
+                "+358 9 5043774"
             ],
             "People also search for": []
         },
@@ -958,24 +958,6 @@
             ],
             "People also search for": []
         },
-        "Northpark Mall (Missouri)": {
-            "label": "Northpark Mall",
-            "description": "Northpark Mall is a regional mall located in Joplin, Missouri. The mall opened in 1972. It features more than 100 inline tenants, including a food court and four anchor stores, as well as TJ Maxx and Vintage Stock. Wikipedia",
-            "type": "Missouri",
-            "Address ": [
-                "101 North Rangeline Road",
-                " Joplin",
-                " MO 64801",
-                " United States"
-            ],
-            "Opened ": [
-                "1972"
-            ],
-            "Hours ": [
-                "(417) 781-2121"
-            ],
-            "People also search for": []
-        },
         "North Star Mall": {
             "label": "North Star Mall",
             "description": "North Star Mall is a shopping mall in San Antonio, Texas, USA with anchor tenants Dillard's, J.C. Penney, Macy's, Saks Fifth Avenue, and Forever 21. Wikipedia",
@@ -1003,6 +985,22 @@
             ],
             "See results about": []
         },
+        "Oberon Mall": {
+            "label": "Oberon Mall",
+            "description": "Oberon Mall is a shopping mall located in the Indian city of Kochi and the current second largest lifestyle mall in Kerala in operation, after the newer and bigger Lulu Cochin Mall. Wikipedia",
+            "type": "",
+            "Address ": [
+                "Padivattom",
+                " Edappally",
+                " Ernakulam",
+                " Kerala 682024",
+                " India"
+            ],
+            "Opened ": [
+                "2008"
+            ],
+            "People also search for": []
+        },
         "Oakbrook Center": {
             "label": "Oakbrook Center",
             "description": "Oakbrook Center is an upscale super-regional shopping center located near Interstate 88 in Oak Brook, Illinois. It was originally opened in 1962. Wikipedia",
@@ -1021,21 +1019,21 @@
             ],
             "People also search for": []
         },
-        "Oglethorpe Mall": {
-            "label": "Oglethorpe Mall",
-            "description": "Oglethorpe Mall is a super-regional shopping mall on the Southside of Savannah, Georgia. Wikipedia",
-            "type": "",
+        "Northpark Mall (Missouri)": {
+            "label": "Northpark Mall",
+            "description": "Northpark Mall is a regional mall located in Joplin, Missouri. The mall opened in 1972. It features more than 100 inline tenants, including a food court and four anchor stores, as well as TJ Maxx and Vintage Stock. Wikipedia",
+            "type": "Missouri",
             "Address ": [
-                "7804 Abercorn St",
-                " Savannah",
-                " GA 31406",
+                "101 North Rangeline Road",
+                " Joplin",
+                " MO 64801",
                 " United States"
             ],
             "Opened ": [
-                "April 1969"
+                "1972"
             ],
             "Hours ": [
-                "(912) 354-7038"
+                "(417) 781-2121"
             ],
             "People also search for": []
         },
@@ -1055,37 +1053,21 @@
             ],
             "People also search for": []
         },
-        "Oberon Mall": {
-            "label": "Oberon Mall",
-            "description": "Oberon Mall is a shopping mall located in the Indian city of Kochi and the current second largest lifestyle mall in Kerala in operation, after the newer and bigger Lulu Cochin Mall. Wikipedia",
+        "Oglethorpe Mall": {
+            "label": "Oglethorpe Mall",
+            "description": "Oglethorpe Mall is a super-regional shopping mall on the Southside of Savannah, Georgia. Wikipedia",
             "type": "",
             "Address ": [
-                "Padivattom",
-                " Edappally",
-                " Ernakulam",
-                " Kerala 682024",
-                " India"
-            ],
-            "Opened ": [
-                "2008"
-            ],
-            "People also search for": []
-        },
-        "Pearlridge": {
-            "label": "Pearlridge",
-            "description": "Pearlridge is the second largest shopping center in Hawaiʻi, after Ala Moana, and is Hawaiʻi's largest enclosed shopping center, located in ʻAiea. Wikipedia",
-            "type": "Shopping center",
-            "Address ": [
-                "98-1005 Moanalua Rd #231",
-                " Aiea",
-                " HI 96701",
+                "7804 Abercorn St",
+                " Savannah",
+                " GA 31406",
                 " United States"
             ],
             "Opened ": [
-                "1972"
+                "April 1969"
             ],
             "Hours ": [
-                "(808) 488-0981"
+                "(912) 354-7038"
             ],
             "People also search for": []
         },
@@ -1125,19 +1107,21 @@
             ],
             "People also search for": []
         },
-        "Pittsburgh Mills": {
-            "label": "Pittsburgh Mills",
-            "description": "The Pittsburgh Mills is a super-regional shopping mall complex northeast of Pittsburgh, Pennsylvania in Frazer Township, along PA Route 28 near its intersection with the Pennsylvania Turnpike. Wikipedia",
-            "type": "Shopping mall",
+        "Pearlridge": {
+            "label": "Pearlridge",
+            "description": "Pearlridge is the second largest shopping center in Hawaiʻi, after Ala Moana, and is Hawaiʻi's largest enclosed shopping center, located in ʻAiea. Wikipedia",
+            "type": "Shopping center",
             "Address ": [
-                "590 Pittsburgh Mills Blvd",
-                " Tarentum",
-                " PA 15084",
+                "98-1005 Moanalua Rd #231",
+                " Aiea",
+                " HI 96701",
                 " United States"
             ],
-            "Opened ": "July 14, 2005",
+            "Opened ": [
+                "1972"
+            ],
             "Hours ": [
-                "(724) 904-9010"
+                "(808) 488-0981"
             ],
             "People also search for": []
         },
@@ -1157,6 +1141,22 @@
             ],
             "Phone ": [
                 "Manitoba"
+            ],
+            "People also search for": []
+        },
+        "Pittsburgh Mills": {
+            "label": "Pittsburgh Mills",
+            "description": "The Pittsburgh Mills is a super-regional shopping mall complex northeast of Pittsburgh, Pennsylvania in Frazer Township, along PA Route 28 near its intersection with the Pennsylvania Turnpike. Wikipedia",
+            "type": "Shopping mall",
+            "Address ": [
+                "590 Pittsburgh Mills Blvd",
+                " Tarentum",
+                " PA 15084",
+                " United States"
+            ],
+            "Opened ": "July 14, 2005",
+            "Hours ": [
+                "(724) 904-9010"
             ],
             "People also search for": []
         },
@@ -1261,6 +1261,25 @@
             ],
             "People also search for": []
         },
+        "South Coast Plaza": {
+            "label": "South Coast Plaza",
+            "description": "South Coast Plaza is an upscale-luxury shopping center in Costa Mesa, California, USA, in Orange County. The largest mall on the west coast, its sales of over 1.5 billion are highest in the United States. Wikipedia",
+            "type": "Shopping center",
+            "Address ": [
+                "3333 Bristol St",
+                " Costa Mesa",
+                " CA 92626",
+                " United States"
+            ],
+            "Opened ": "March 15, 1967",
+            "Hours ": [
+                "(714) 435-2000"
+            ],
+            "Phone ": [
+                "Victor Gruen"
+            ],
+            "People also search for": []
+        },
         "Southgate Centre": {
             "label": "Southgate Centre",
             "description": "Southgate Centre is a shopping centre located in south Edmonton, Alberta, Canada, covering just under 1 million square feet. Wikipedia",
@@ -1297,25 +1316,6 @@
             ],
             "Hours ": [
                 "(650) 617-8200"
-            ],
-            "People also search for": []
-        },
-        "South Coast Plaza": {
-            "label": "South Coast Plaza",
-            "description": "South Coast Plaza is an upscale-luxury shopping center in Costa Mesa, California, USA, in Orange County. The largest mall on the west coast, its sales of over 1.5 billion are highest in the United States. Wikipedia",
-            "type": "Shopping center",
-            "Address ": [
-                "3333 Bristol St",
-                " Costa Mesa",
-                " CA 92626",
-                " United States"
-            ],
-            "Opened ": "March 15, 1967",
-            "Hours ": [
-                "(714) 435-2000"
-            ],
-            "Phone ": [
-                "Victor Gruen"
             ],
             "People also search for": []
         },
@@ -1364,21 +1364,6 @@
             ],
             "People also search for": []
         },
-        "The Fort Shopping Park": {
-            "label": "The Fort Shopping Park",
-            "description": "The Fort Shopping Park is a shopping centre in Castle Bromwich near Birmingham, West Midlands, England. It was built on part of the former tyre factory of Dunlop Rubber. Wikipedia",
-            "type": "",
-            "Address ": [
-                "20 Fort Pkwy",
-                " Birmingham",
-                " West Midlands B24 9FP",
-                " United Kingdom"
-            ],
-            "Opened ": [
-                "1996"
-            ],
-            "People also search for": []
-        },
         "The Domain (Austin, Texas)": {
             "label": "The Domain",
             "description": "The Domain is a high-density business, retail, and residential center operated by Simon Property Group and Endeavor Real Estate Group, and is located in the high-tech corridor of northwest Austin, Texas. Wikipedia",
@@ -1394,6 +1379,21 @@
             ],
             "Hours ": [
                 "(512) 873-8099"
+            ],
+            "People also search for": []
+        },
+        "The Fort Shopping Park": {
+            "label": "The Fort Shopping Park",
+            "description": "The Fort Shopping Park is a shopping centre in Castle Bromwich near Birmingham, West Midlands, England. It was built on part of the former tyre factory of Dunlop Rubber. Wikipedia",
+            "type": "",
+            "Address ": [
+                "20 Fort Pkwy",
+                " Birmingham",
+                " West Midlands B24 9FP",
+                " United Kingdom"
+            ],
+            "Opened ": [
+                "1996"
             ],
             "People also search for": []
         },
@@ -1477,20 +1477,6 @@
             ],
             "People also search for": []
         },
-        "Westfield Garden City": {
-            "label": "Westfield Garden City",
-            "description": "Westfield Garden City, better known as Garden City, is one of Brisbane's major shopping centres, located in the suburb of Upper Mount Gravatt. The centre is operated by Westfield, and previously operated by AMP Limited before the takeover in 2003. Wikipedia",
-            "type": "Shopping centre",
-            "Address ": [
-                "Kessels Rd",
-                " Upper Mt Gravatt QLD 4122",
-                " Australia"
-            ],
-            "Hours ": [
-                "+61 7 3135 5450"
-            ],
-            "People also search for": []
-        },
         "Westfield Galleria at Roseville": {
             "label": "Westfield Galleria at Roseville",
             "description": "Westfield Galleria at Roseville is an upscale shopping mall in Roseville, California, United States. Wikipedia",
@@ -1507,42 +1493,47 @@
             ],
             "People also search for": []
         },
-        "Kingsway Shopping Centre": {
-            "label": "Kingsway City Shopping Centre",
-            "description": "",
-            "type": ""
-        },
-        "Northridge Mall": {
-            "label": "Northridge Fashion Center",
-            "description": "",
-            "type": "",
+        "Westfield Garden City": {
+            "label": "Westfield Garden City",
+            "description": "Westfield Garden City, better known as Garden City, is one of Brisbane's major shopping centres, located in the suburb of Upper Mount Gravatt. The centre is operated by Westfield, and previously operated by AMP Limited before the takeover in 2003. Wikipedia",
+            "type": "Shopping centre",
+            "Address ": [
+                "Kessels Rd",
+                " Upper Mt Gravatt QLD 4122",
+                " Australia"
+            ],
+            "Hours ": [
+                "+61 7 3135 5450"
+            ],
             "People also search for": []
         }
     },
     "summary": {
-        "label": 97,
-        "description": 97,
-        "type": 97,
-        "Address ": 86,
-        "Opened ": 73,
-        "Hours ": 67,
-        "Phone ": 19,
-        "People also search for": 87,
-        "Recent posts": 1,
-        "Architecture firm ": 3,
-        "See results about": 3,
-        "Height ": 1,
-        "Floors ": 2,
-        "Floor space ": 1,
-        "Function ": 1,
-        "Province ": 1,
-        "Architect ": 1,
-        "Contractor ": 1,
-        "Engineering firm ": 1
+        "label": 95,
+        "description": 95,
+        "type": 95,
+        "address": 1,
+        "hours": 1,
+        "opened": 1,
+        "phone": 1,
+        "people_also_search_for": 1,
+        "recent_posts": 1,
+        "architecture_firm": 1,
+        "see_results_about": 1,
+        "height": 1,
+        "floors": 1,
+        "floor_space": 1,
+        "function": 1,
+        "province": 1,
+        "architect": 1,
+        "contractor": 1,
+        "engineering_firm": 1
     },
     "infoboxless": [
         "Marvelous Tower Golapganj Sylhet",
         "Montgomery Mall (Alabama)",
+        "Kingsway Shopping Centre",
+        "Northridge Mall",
         "The Summit of Louisville"
     ]
 }

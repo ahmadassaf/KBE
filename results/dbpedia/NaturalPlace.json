@@ -27,20 +27,6 @@
                 " Sandö Bridge"
             ]
         },
-        "Åsnen": {
-            "label": "Åsnen",
-            "description": "Åsnen is a large lake in southern Småland, Sweden, roughly 150 km² in size. The river Mörrumsån flows south from Åsnen into the Baltic Sea. Wikipedia",
-            "type": "",
-            "Surface elevation ": [
-                "453' (138 m)"
-            ],
-            "Area ": [
-                "61.78 sq miles (160 km²)"
-            ],
-            "Outflow location ": [
-                "Mörrumsån"
-            ]
-        },
         "Åre River": {
             "label": "Öre River",
             "description": "Öre River is a river in Sweden. Wikipedia",
@@ -59,6 +45,20 @@
             ],
             "Mouth ": [
                 "Gulf of Bothnia"
+            ]
+        },
+        "Åsnen": {
+            "label": "Åsnen",
+            "description": "Åsnen is a large lake in southern Småland, Sweden, roughly 150 km² in size. The river Mörrumsån flows south from Åsnen into the Baltic Sea. Wikipedia",
+            "type": "",
+            "Surface elevation ": [
+                "453' (138 m)"
+            ],
+            "Area ": [
+                "61.78 sq miles (160 km²)"
+            ],
+            "Outflow location ": [
+                "Mörrumsån"
             ]
         },
         "Öre River": {
@@ -81,11 +81,6 @@
                 "Gulf of Bothnia"
             ]
         },
-        "Ösper": {
-            "label": "Ösper",
-            "description": "Ösper is a river of North Rhine-Westphalia, Germany. Wikipedia",
-            "type": ""
-        },
         "Öskjuvatn": {
             "label": "Öskjuvatn",
             "description": "Öskjuvatn is a lake in the Highlands of Iceland. Its surface area is about 11 km². With a depth of 217 m, it is the second deepest lake in Iceland after Jökulsárlón. Wikipedia",
@@ -93,6 +88,11 @@
             "Area ": [
                 "4.247 sq miles (11 km²)"
             ]
+        },
+        "Ösper": {
+            "label": "Ösper",
+            "description": "Ösper is a river of North Rhine-Westphalia, Germany. Wikipedia",
+            "type": ""
         },
         "Üür River": {
             "label": "Üür River",
@@ -161,6 +161,14 @@
                 "21' 4\" (6.50 m)"
             ]
         },
+        "Štěchovice Reservoir": {
+            "label": "Štěchovice Reservoir",
+            "description": "Štěchovice Reservoir is a dam on Vltava River built during 1937 - 1945 as the second stage of the Vltava Cascade. The dam is named after nearby village Štěchovice. Wikipedia",
+            "type": "",
+            "Area ": [
+                "236 acres (96 ha)"
+            ]
+        },
         "Ažytė": {
             "label": "Ažytė",
             "description": "The Ažytė is a river of Kėdainiai district municipality, Kaunas County, central Lithuania. It flows for 20 kilometres and has a basin area of 98 km². Wikipedia",
@@ -170,6 +178,14 @@
             ],
             "Mouth ": [
                 "Šušvė"
+            ]
+        },
+        "Aalkistensee": {
+            "label": "Aalkistensee",
+            "description": "Aalkistensee is a lake in Kraichgau, Baden-Württemberg, Germany. At an elevation of ca 250 m, its surface area is 0.136 km². Wikipedia",
+            "type": "",
+            "Area ": [
+                "34 acres (14 ha)"
             ]
         },
         "Aar (Lahn)": {
@@ -189,24 +205,13 @@
                 "Germany"
             ]
         },
-        "Acamarachi": {
-            "label": "Acamarachi",
-            "description": "Acamarachi, also known as Pili, is a stratovolcano located northeast of the volcanoes Aguas Calientes and Lascar, and southwest of the sector Salar de Pujsa of Los Flamencos National Reserve, in the Antofagasta Region of Chile. Wikipedia",
+        "Aasee (Bocholt)": {
+            "label": "Aasee",
+            "description": "Aasee is a lake in Bocholt, Kreis Borken, North Rhine-Westphalia, Germany. At an elevation of 23.8 meter, its surface area is 0.32 km². Wikipedia",
             "type": "",
-            "Elevation ": [
-                "19",
-                "836' (6",
-                "046 m)"
-            ],
-            "Prominence ": [
-                "5",
-                "276' (1",
-                "608 m)"
-            ],
-            "Mountain range ": [
-                "Andes"
-            ],
-            "People also search for": []
+            "Area ": [
+                "79 acres (32 ha)"
+            ]
         },
         "Ablach (Danube)": {
             "label": "Ablach",
@@ -218,49 +223,6 @@
             "Mouth ": [
                 "Danube"
             ]
-        },
-        "Acatenango": {
-            "label": "Acatenango",
-            "description": "Acatenango is a stratovolcano in Guatemala, close to the city of Antigua. The volcano has two peaks, Pico Mayor and Yepocapa which is also known as Tres Hermanas. Wikipedia",
-            "type": "",
-            "Elevation ": [
-                "13",
-                "045' (3",
-                "976 m)"
-            ],
-            "Last eruption ": [
-                "1972"
-            ],
-            "Prominence ": [
-                "6",
-                "020' (1",
-                "835 m)"
-            ],
-            "Mountain range ": [
-                "Sierra Madre de Chiapas"
-            ],
-            "People also search for": []
-        },
-        "Aasee (Bocholt)": {
-            "label": "Aasee",
-            "description": "Aasee is a lake in Bocholt, Kreis Borken, North Rhine-Westphalia, Germany. At an elevation of 23.8 meter, its surface area is 0.32 km². Wikipedia",
-            "type": "",
-            "Area ": [
-                "79 acres (32 ha)"
-            ]
-        },
-        "Adlerfels": {
-            "label": "Adler Fels Winery",
-            "description": "Adler Fels Winery is a California winery based in Sonoma that produces over 100 different wine labels in addition to production under its own Adler Fels brand. These include private labels for various restaurants, hotels and retailers. Wikipedia",
-            "type": "",
-            "Address ": [
-                "980 Airway Court",
-                " Suite B",
-                " Santa Rosa",
-                " California",
-                " 95403"
-            ],
-            "People also search for": []
         },
         "Ach (Blau)": {
             "label": "Ach",
@@ -289,20 +251,6 @@
                 "9.942 miles (16 km)"
             ]
         },
-        "Aggenstein": {
-            "label": "Aggenstein",
-            "description": "Aggenstein is a mountain located on the border Bavaria, Germany and Tyrol, Austria. Wikipedia",
-            "type": "",
-            "Elevation ": [
-                "6",
-                "516' (1",
-                "986 m)"
-            ],
-            "Mountain range ": [
-                "Allgäu Alps"
-            ],
-            "People also search for": []
-        },
         "Adolfosee": {
             "label": "Adolfosee",
             "description": "Adolfosee is a lake in North Rhine-Westphalia, Germany. At an elevation of 39 m, its surface area is 0.307 km². Wikipedia",
@@ -312,6 +260,25 @@
             ],
             "Area ": [
                 "76 acres (31 ha)"
+            ],
+            "People also search for": []
+        },
+        "Acamarachi": {
+            "label": "Acamarachi",
+            "description": "Acamarachi, also known as Pili, is a stratovolcano located northeast of the volcanoes Aguas Calientes and Lascar, and southwest of the sector Salar de Pujsa of Los Flamencos National Reserve, in the Antofagasta Region of Chile. Wikipedia",
+            "type": "",
+            "Elevation ": [
+                "19",
+                "836' (6",
+                "046 m)"
+            ],
+            "Prominence ": [
+                "5",
+                "276' (1",
+                "608 m)"
+            ],
+            "Mountain range ": [
+                "Andes"
             ],
             "People also search for": []
         },
@@ -341,22 +308,25 @@
                 "Philippines"
             ]
         },
-        "Aich (river)": {
-            "label": "Aich",
-            "description": "The Aich is a river in Baden-Württemberg, Germany. It is approximately 29.7 kilometres long. It is located on the left tributary of the Neckar in Böblingen and Esslingen. Wikipedia",
-            "type": ""
-        },
-        "Aiguille du Jardin": {
-            "label": "Aiguille du Jardin",
-            "description": "The Aiguille du Jardin is a mountain in the Mont Blanc massif in Haute-Savoie, France. Wikipedia",
+        "Acatenango": {
+            "label": "Acatenango",
+            "description": "Acatenango is a stratovolcano in Guatemala, close to the city of Antigua. The volcano has two peaks, Pico Mayor and Yepocapa which is also known as Tres Hermanas. Wikipedia",
             "type": "",
             "Elevation ": [
                 "13",
-                "238' (4",
-                "035 m)"
+                "045' (3",
+                "976 m)"
+            ],
+            "Last eruption ": [
+                "1972"
+            ],
+            "Prominence ": [
+                "6",
+                "020' (1",
+                "835 m)"
             ],
             "Mountain range ": [
-                "Mont Blanc massif"
+                "Sierra Madre de Chiapas"
             ],
             "People also search for": []
         },
@@ -374,69 +344,56 @@
                 "4' 7\" (1.40 m)"
             ]
         },
-        "Aiguilles du Diable": {
-            "label": "Aiguilles du Diable",
-            "description": "The Aiguilles du Diable is a mountain in the Mont Blanc Massif in Haute-Savoie, France. Wikipedia",
+        "Aich (river)": {
+            "label": "Aich",
+            "description": "The Aich is a river in Baden-Württemberg, Germany. It is approximately 29.7 kilometres long. It is located on the left tributary of the Neckar in Böblingen and Esslingen. Wikipedia",
+            "type": ""
+        },
+        "Adlerfels": {
+            "label": "Adler Fels Winery",
+            "description": "Adler Fels Winery is a California winery based in Sonoma that produces over 100 different wine labels in addition to production under its own Adler Fels brand. These include private labels for various restaurants, hotels and retailers. Wikipedia",
+            "type": "",
+            "Address ": [
+                "980 Airway Court",
+                " Suite B",
+                " Santa Rosa",
+                " California",
+                " 95403"
+            ],
+            "People also search for": []
+        },
+        "Aggenstein": {
+            "label": "Aggenstein",
+            "description": "Aggenstein is a mountain located on the border Bavaria, Germany and Tyrol, Austria. Wikipedia",
+            "type": "",
+            "Elevation ": [
+                "6",
+                "516' (1",
+                "986 m)"
+            ],
+            "Mountain range ": [
+                "Allgäu Alps"
+            ],
+            "People also search for": []
+        },
+        "Aiguille du Jardin": {
+            "label": "Aiguille du Jardin",
+            "description": "The Aiguille du Jardin is a mountain in the Mont Blanc massif in Haute-Savoie, France. Wikipedia",
             "type": "",
             "Elevation ": [
                 "13",
-                "497' (4",
-                "114 m)"
+                "238' (4",
+                "035 m)"
             ],
-            "First ascent ": "July 8, 1925",
             "Mountain range ": [
                 "Mont Blanc massif"
             ],
-            "First ascenders ": [
-                "Antoine Blanchet",
-                " Armand Charlet"
-            ],
             "People also search for": []
         },
-        "Ailefroide": {
-            "label": "Ailefroide",
-            "description": "The Ailefroide is a mountain in the Massif des Écrins in the French Alps, and is the third highest peak in the Dauphiné Alps after the Barre des Écrins and La Meije. It lies at the south-western end of the Mont Pelvoux–Pic Sans Nom–Ailefroide ridge. Wikipedia",
+        "Aire and Calder Navigation": {
+            "label": "Aire and Calder Navigation",
+            "description": "The Aire and Calder Navigation is a river and canal system of the River Aire and the River Calder in the metropolitan county of West Yorkshire, England. Wikipedia",
             "type": "",
-            "Elevation ": [
-                "12",
-                "972' (3",
-                "954 m)"
-            ],
-            "Prominence ": [
-                "2",
-                "500' (762 m)"
-            ],
-            "First ascenders ": [
-                "W. A. B. Coolidge",
-                " Christian Almer"
-            ],
-            "Mountain range ": [
-                "Alps",
-                " Dauphiné Alps",
-                " Massif des Écrins"
-            ],
-            "People also search for": []
-        },
-        "Aalkistensee": {
-            "label": "Aalkistensee",
-            "description": "Aalkistensee is a lake in Kraichgau, Baden-Württemberg, Germany. At an elevation of ca 250 m, its surface area is 0.136 km². Wikipedia",
-            "type": "",
-            "Area ": [
-                "34 acres (14 ha)"
-            ]
-        },
-        "Aiplspitz": {
-            "label": "Aiplspitz",
-            "description": "Aiplspitz is a mountain of Bavaria, Germany. Wikipedia",
-            "type": "",
-            "Elevation ": [
-                "5",
-                "771' (1",
-                "759 m)"
-            ],
-            "Mountain range ": [
-                "Mangfall Mountains"
-            ],
             "People also search for": []
         },
         "Aisne (river)": {
@@ -463,12 +420,6 @@
             ],
             "People also search for": []
         },
-        "Aire and Calder Navigation": {
-            "label": "Aire and Calder Navigation",
-            "description": "The Aire and Calder Navigation is a river and canal system of the River Aire and the River Calder in the metropolitan county of West Yorkshire, England. Wikipedia",
-            "type": "",
-            "People also search for": []
-        },
         "Akkajaure": {
             "label": "Akkajaure",
             "description": "Akkajaure is one of the largest reservoirs in Sweden. It lies at the headwaters of the Lule River in Norrbotten County, in Swedish Lappland, within the Stora Sjöfallet national park. Wikipedia",
@@ -491,14 +442,6 @@
             ],
             "Outflow location ": [
                 "Lule River"
-            ]
-        },
-        "Štěchovice Reservoir": {
-            "label": "Štěchovice Reservoir",
-            "description": "Štěchovice Reservoir is a dam on Vltava River built during 1937 - 1945 as the second stage of the Vltava Cascade. The dam is named after nearby village Štěchovice. Wikipedia",
-            "type": "",
-            "Area ": [
-                "236 acres (96 ha)"
             ]
         },
         "Aksu River (China)": {
@@ -525,16 +468,22 @@
                 " Xinjiang"
             ]
         },
-        "Allner See": {
-            "label": "Allner See",
-            "description": "Allner See is a lake in Rhein-Sieg-Kreis, North Rhine-Westphalia, Germany. At an elevation of 63,5 m, its surface area is 0.10 km². Wikipedia",
+        "Aiguilles du Diable": {
+            "label": "Aiguilles du Diable",
+            "description": "The Aiguilles du Diable is a mountain in the Mont Blanc Massif in Haute-Savoie, France. Wikipedia",
             "type": "",
-            "Surface elevation ": [
-                "2",
-                "083' (635 m)"
+            "Elevation ": [
+                "13",
+                "497' (4",
+                "114 m)"
             ],
-            "Area ": [
-                "25 acres (10 ha)"
+            "First ascent ": "July 8, 1925",
+            "Mountain range ": [
+                "Mont Blanc massif"
+            ],
+            "First ascenders ": [
+                "Antoine Blanchet",
+                " Armand Charlet"
             ],
             "People also search for": []
         },
@@ -571,17 +520,54 @@
                 "492 feet (150 m)"
             ]
         },
-        "Alpspitze": {
-            "label": "Alpspitze",
-            "description": "Alpspitze is a mountain of Bavaria, Germany. At its base is the 'AlpspiX Viewing Platform', 2 curved metal walkways reaching out 13 metres over a cliff, crossing over each other, making the shape of an X. Wikipedia",
+        "Ailefroide": {
+            "label": "Ailefroide",
+            "description": "The Ailefroide is a mountain in the Massif des Écrins in the French Alps, and is the third highest peak in the Dauphiné Alps after the Barre des Écrins and La Meije. It lies at the south-western end of the Mont Pelvoux–Pic Sans Nom–Ailefroide ridge. Wikipedia",
             "type": "",
             "Elevation ": [
-                "8",
-                "622' (2",
-                "628 m)"
+                "12",
+                "972' (3",
+                "954 m)"
             ],
             "Prominence ": [
-                "541' (165 m)"
+                "2",
+                "500' (762 m)"
+            ],
+            "First ascenders ": [
+                "W. A. B. Coolidge",
+                " Christian Almer"
+            ],
+            "Mountain range ": [
+                "Alps",
+                " Dauphiné Alps",
+                " Massif des Écrins"
+            ],
+            "People also search for": []
+        },
+        "Allner See": {
+            "label": "Allner See",
+            "description": "Allner See is a lake in Rhein-Sieg-Kreis, North Rhine-Westphalia, Germany. At an elevation of 63,5 m, its surface area is 0.10 km². Wikipedia",
+            "type": "",
+            "Surface elevation ": [
+                "2",
+                "083' (635 m)"
+            ],
+            "Area ": [
+                "25 acres (10 ha)"
+            ],
+            "People also search for": []
+        },
+        "Aiplspitz": {
+            "label": "Aiplspitz",
+            "description": "Aiplspitz is a mountain of Bavaria, Germany. Wikipedia",
+            "type": "",
+            "Elevation ": [
+                "5",
+                "771' (1",
+                "759 m)"
+            ],
+            "Mountain range ": [
+                "Mangfall Mountains"
             ],
             "People also search for": []
         },
@@ -590,37 +576,10 @@
             "description": "Alte Elbe is a river of Saxony-Anhalt, Germany. Wikipedia",
             "type": ""
         },
-        "Altkönig": {
-            "label": "Altkönig",
-            "description": "Altkönig the third highest mountain of the Taunus range in Hesse, Germany, reaching 798 metres above sea level.\nIn the La Tène period around 400 BC, the Celts settled the Altkönig. They built a ringwall around the summit which is still evident. Wikipedia",
-            "type": "",
-            "Address ": [
-                "Germany"
-            ],
-            "People also search for": []
-        },
         "Alte Oder": {
             "label": "Alte Oder",
             "description": "The name Alte Oder refers to an old branch of the Oder River in Brandenburg, Germany. Today it drains the Oderbruch basin, flowing northwards to the confluence with the Oder near Hohensaaten. Wikipedia",
             "type": ""
-        },
-        "Amba Alagi": {
-            "label": "Amba Alagi",
-            "description": "Amba Alagi is a mountain, or an amba, in northern Ethiopia. Located in the Debubawi Zone of the Tigray Region, Amba Alagi dominates the roadway that runs past it from the city of Mek'ele south to Maychew. Wikipedia",
-            "type": "",
-            "Elevation ": [
-                "12",
-                "956' (3",
-                "949 m)"
-            ],
-            "Prominence ": [
-                "2",
-                "690' (820 m)"
-            ],
-            "Mountain range ": [
-                "Ethiopian Highlands"
-            ],
-            "People also search for": []
         },
         "Ammer (Neckar)": {
             "label": "Ammer",
@@ -636,25 +595,19 @@
                 "Germany"
             ]
         },
-        "Antuco (volcano)": {
-            "label": "Antuco",
-            "description": "Antuco Volcano is a stratovolcano located in the Bío Bío Region of Chile, near Sierra Velluda and on the shore of Laguna del Laja. Wikipedia",
+        "Anaktuvuk River": {
+            "label": "Anaktuvuk River",
+            "description": "The Anaktuvuk River is a river in Alaska's North Slope. One hundred and thirty-five miles long, it flows west from glaciers in the Endicott Mountains changing direction just north of Anaktuvuk Pass to ... Wikipedia",
             "type": "",
-            "Elevation ": [
-                "9",
-                "774' (2",
-                "979 m)"
+            "Length ": [
+                "135 miles (217 km)"
             ],
-            "Last eruption ": [
-                "1869"
+            "Mouth ": [
+                "Colville River"
             ],
-            "First ascent ": [
-                "1829"
-            ],
-            "Mountain range ": [
-                "Andes"
-            ],
-            "People also search for": []
+            "Country ": [
+                "United States of America"
+            ]
         },
         "Amsoldingersee": {
             "label": "Amsoldingersee",
@@ -684,19 +637,37 @@
             ],
             "People also search for": []
         },
-        "Anaktuvuk River": {
-            "label": "Anaktuvuk River",
-            "description": "The Anaktuvuk River is a river in Alaska's North Slope. One hundred and thirty-five miles long, it flows west from glaciers in the Endicott Mountains changing direction just north of Anaktuvuk Pass to ... Wikipedia",
+        "Alpspitze": {
+            "label": "Alpspitze",
+            "description": "Alpspitze is a mountain of Bavaria, Germany. At its base is the 'AlpspiX Viewing Platform', 2 curved metal walkways reaching out 13 metres over a cliff, crossing over each other, making the shape of an X. Wikipedia",
             "type": "",
-            "Length ": [
-                "135 miles (217 km)"
+            "Elevation ": [
+                "8",
+                "622' (2",
+                "628 m)"
             ],
-            "Mouth ": [
-                "Colville River"
+            "Prominence ": [
+                "541' (165 m)"
             ],
-            "Country ": [
-                "United States of America"
-            ]
+            "People also search for": []
+        },
+        "Amba Alagi": {
+            "label": "Amba Alagi",
+            "description": "Amba Alagi is a mountain, or an amba, in northern Ethiopia. Located in the Debubawi Zone of the Tigray Region, Amba Alagi dominates the roadway that runs past it from the city of Mek'ele south to Maychew. Wikipedia",
+            "type": "",
+            "Elevation ": [
+                "12",
+                "956' (3",
+                "949 m)"
+            ],
+            "Prominence ": [
+                "2",
+                "690' (820 m)"
+            ],
+            "Mountain range ": [
+                "Ethiopian Highlands"
+            ],
+            "People also search for": []
         },
         "Arda (Maritsa)": {
             "label": "Arda",
@@ -760,11 +731,6 @@
             ],
             "People also search for": []
         },
-        "Armesberg": {
-            "label": "Armesberg",
-            "description": "Armesberg is a mountain of Bavaria, Germany. Wikipedia",
-            "type": ""
-        },
         "Arsenyevka River": {
             "label": "Arsenyevka River",
             "description": "The Arsenyevka River is a left tributary of the Ussuri River in Anuchinsky and Yakovlevsky Districts of Primorsky Krai, Russia.\nThe length of river is approximately 294 kilometers and its basin area is 7,060 square kilometers. Wikipedia",
@@ -819,6 +785,40 @@
                 "Maryland Bridge"
             ]
         },
+        "Altkönig": {
+            "label": "Altkönig",
+            "description": "Altkönig the third highest mountain of the Taunus range in Hesse, Germany, reaching 798 metres above sea level.\nIn the La Tène period around 400 BC, the Celts settled the Altkönig. They built a ringwall around the summit which is still evident. Wikipedia",
+            "type": "",
+            "Address ": [
+                "Germany"
+            ],
+            "People also search for": []
+        },
+        "Antuco (volcano)": {
+            "label": "Antuco",
+            "description": "Antuco Volcano is a stratovolcano located in the Bío Bío Region of Chile, near Sierra Velluda and on the shore of Laguna del Laja. Wikipedia",
+            "type": "",
+            "Elevation ": [
+                "9",
+                "774' (2",
+                "979 m)"
+            ],
+            "Last eruption ": [
+                "1869"
+            ],
+            "First ascent ": [
+                "1829"
+            ],
+            "Mountain range ": [
+                "Andes"
+            ],
+            "People also search for": []
+        },
+        "Armesberg": {
+            "label": "Armesberg",
+            "description": "Armesberg is a mountain of Bavaria, Germany. Wikipedia",
+            "type": ""
+        },
         "Atna Peaks": {
             "label": "Atna Peaks",
             "description": "Atna Peaks is an eroded stratovolcano or shield volcano in the Wrangell Mountains of eastern Alaska. Wikipedia",
@@ -836,21 +836,6 @@
                 "Wrangell Mountains"
             ],
             "People also search for": []
-        },
-        "Atta Cave": {
-            "label": "Atta Cave",
-            "description": "The Atta Cave or Attendorn Dripstone Cave in Attendorn is one of the largest and most beautiful dripstone caves in Germany. Wikipedia",
-            "type": "",
-            "Address ": "Finnentroper Straße 39, 57439 Attendorn, Germany",
-            "Phone ": [
-                "+49 2722 9375 ext. 0"
-            ],
-            "People also search for": []
-        },
-        "Atzelberg": {
-            "label": "Atzelberg",
-            "description": "Atzelberg is a mountain of Hesse, Germany. Wikipedia",
-            "type": ""
         },
         "Aube (river)": {
             "label": "Aube",
@@ -874,17 +859,6 @@
             "Mouth ": [
                 "Seine"
             ]
-        },
-        "Auersberg": {
-            "label": "Auersberg",
-            "description": "Auersberg is a mountain of Saxony, southeastern Germany. Wikipedia",
-            "type": "",
-            "Elevation ": [
-                "3",
-                "343' (1",
-                "019 m)"
-            ],
-            "People also search for": []
         },
         "Auma (river)": {
             "label": "Auma",
@@ -923,44 +897,20 @@
                 " Italy"
             ]
         },
-        "Ausangate": {
-            "label": "Ausangate",
-            "description": "Ausangate is a mountain of the Willkanuta mountain range in the Andes of Peru. With an altitude of 6,384 metres it is situated around 100 kilometres southeast of Cusco.\nThe mountain has significance in Incan mythology. Wikipedia",
+        "Atta Cave": {
+            "label": "Atta Cave",
+            "description": "The Atta Cave or Attendorn Dripstone Cave in Attendorn is one of the largest and most beautiful dripstone caves in Germany. Wikipedia",
             "type": "",
-            "Elevation ": [
-                "20",
-                "945' (6",
-                "384 m)"
-            ],
-            "Prominence ": [
-                "6",
-                "841' (2",
-                "085 m)"
-            ],
-            "Mountain range ": [
-                "Willkanuta mountain range",
-                " Andes"
+            "Address ": "Finnentroper Straße 39, 57439 Attendorn, Germany",
+            "Phone ": [
+                "+49 2722 9375 ext. 0"
             ],
             "People also search for": []
         },
-        "Avachinsky": {
-            "label": "Avachinsky",
-            "description": "Avachinsky is an active stratovolcano on the Kamchatka Peninsula in the far east of Russia. It lies within sight of the capital of Kamchatka Krai, Petropavlovsk-Kamchatsky. Wikipedia",
-            "type": "",
-            "Elevation ": [
-                "8",
-                "993' (2",
-                "741 m)"
-            ],
-            "Last eruption ": [
-                "1476"
-            ],
-            "Prominence ": [
-                "5",
-                "085' (1",
-                "550 m)"
-            ],
-            "People also search for": []
+        "Atzelberg": {
+            "label": "Atzelberg",
+            "description": "Atzelberg is a mountain of Hesse, Germany. Wikipedia",
+            "type": ""
         },
         "Aveyron (river)": {
             "label": "Aveyron",
@@ -1023,51 +973,34 @@
                 "000 km²)"
             ]
         },
-        "Bárðarbunga": {
-            "label": "Bárðarbunga",
-            "description": "Bárðarbunga is an Icelandic stratovolcano, or subglacial volcano located under the ice cap of Vatnajökull glacier, rising to 2,009 metres above sea level, making it the second highest mountain in Iceland, ... Wikipedia",
+        "Ausangate": {
+            "label": "Ausangate",
+            "description": "Ausangate is a mountain of the Willkanuta mountain range in the Andes of Peru. With an altitude of 6,384 metres it is situated around 100 kilometres southeast of Cusco.\nThe mountain has significance in Incan mythology. Wikipedia",
             "type": "",
             "Elevation ": [
-                "6",
-                "591' (2",
-                "009 m)"
-            ],
-            "Last eruption ": [
-                "1910"
+                "20",
+                "945' (6",
+                "384 m)"
             ],
             "Prominence ": [
-                "1",
-                "804' (550 m)"
+                "6",
+                "841' (2",
+                "085 m)"
+            ],
+            "Mountain range ": [
+                "Willkanuta mountain range",
+                " Andes"
             ],
             "People also search for": []
         },
-        "Bârsa River (Olt)": {
-            "label": "Bârsa River",
-            "description": "The Bârsa River is a tributary of the Olt River in Romania. It starts at the junction of two headwaters Bârsa Groşetului and Bârsa Tămaşului. Wikipedia",
-            "type": "",
-            "Length ": [
-                "43 miles (68 km)"
-            ],
-            "Discharge ": [
-                "98.88 ft³/s (2.8 m³/s)"
-            ],
-            "Country ": [
-                "Romania"
-            ],
-            "Source ": [
-                "Bârsa Groșetului River"
-            ],
-            "Mouth ": [
-                "Olt River"
-            ]
-        },
-        "Bärenstein (Ore Mountains)": {
-            "label": "Bärenstein",
-            "description": "Bärenstein is a mountain of Saxony, southeastern Germany. Wikipedia",
+        "Auersberg": {
+            "label": "Auersberg",
+            "description": "Auersberg is a mountain of Saxony, southeastern Germany. Wikipedia",
             "type": "",
             "Elevation ": [
-                "2",
-                "946' (898 m)"
+                "3",
+                "343' (1",
+                "019 m)"
             ],
             "People also search for": []
         },
@@ -1100,10 +1033,44 @@
                 " Vaslui"
             ]
         },
-        "Bălănești Hill": {
-            "label": "Bălănești Hill",
-            "description": "Bălănești Hill is the highest geographical point in Moldova, with an altitude of 430 m. It is located in Bălănești and belongs to Cornești Hills. Wikipedia",
-            "type": ""
+        "Bârsa River (Olt)": {
+            "label": "Bârsa River",
+            "description": "The Bârsa River is a tributary of the Olt River in Romania. It starts at the junction of two headwaters Bârsa Groşetului and Bârsa Tămaşului. Wikipedia",
+            "type": "",
+            "Length ": [
+                "43 miles (68 km)"
+            ],
+            "Discharge ": [
+                "98.88 ft³/s (2.8 m³/s)"
+            ],
+            "Country ": [
+                "Romania"
+            ],
+            "Source ": [
+                "Bârsa Groșetului River"
+            ],
+            "Mouth ": [
+                "Olt River"
+            ]
+        },
+        "Avachinsky": {
+            "label": "Avachinsky",
+            "description": "Avachinsky is an active stratovolcano on the Kamchatka Peninsula in the far east of Russia. It lies within sight of the capital of Kamchatka Krai, Petropavlovsk-Kamchatsky. Wikipedia",
+            "type": "",
+            "Elevation ": [
+                "8",
+                "993' (2",
+                "741 m)"
+            ],
+            "Last eruption ": [
+                "1476"
+            ],
+            "Prominence ": [
+                "5",
+                "085' (1",
+                "550 m)"
+            ],
+            "People also search for": []
         },
         "Bóbr": {
             "label": "Eurasian beaver",
@@ -1133,27 +1100,21 @@
             ],
             "See results about": []
         },
-        "Babia Góra": {
-            "label": "Babia Góra",
-            "description": "Babia Góra, or Babia hora, literally Old Wives' or Witches' Mountain, is a massif situated on the border between Poland and Slovakia in the Western Beskidy Mountains. Wikipedia",
+        "Bárðarbunga": {
+            "label": "Bárðarbunga",
+            "description": "Bárðarbunga is an Icelandic stratovolcano, or subglacial volcano located under the ice cap of Vatnajökull glacier, rising to 2,009 metres above sea level, making it the second highest mountain in Iceland, ... Wikipedia",
             "type": "",
             "Elevation ": [
-                "5",
-                "659' (1",
-                "725 m)"
+                "6",
+                "591' (2",
+                "009 m)"
             ],
-            "First ascent ": [
-                "1782"
+            "Last eruption ": [
+                "1910"
             ],
             "Prominence ": [
-                "3",
-                "514' (1",
-                "071 m)"
-            ],
-            "Mountain range ": [
-                "Żywiec Beskids",
-                " Beskids",
-                " Carpathian Mountains"
+                "1",
+                "804' (550 m)"
             ],
             "People also search for": []
         },
@@ -1161,34 +1122,6 @@
             "label": "Baberowsee",
             "description": "Baberowsee is a lake in Brandenburg, Germany. It is located in Kagel, an Ortsteil of the municipality of Grünheide, Oder-Spree district. Wikipedia",
             "type": ""
-        },
-        "Badacsony": {
-            "label": "Badacsony",
-            "description": "Badacsony is the name of a region on the north shore of Lake Balaton in western Hungary, and a town in that region. The entire area is recognized for its wine, with vineyards dating back to Roman times. Wikipedia",
-            "type": "",
-            "Weather ": [
-                "53°F (12°C)",
-                " Wind NE at 3 mph (5 km/h)",
-                " 54% Humidity"
-            ],
-            "Local time ": [
-                "Tuesday 321 PM"
-            ],
-            "See results about": []
-        },
-        "Bachalpsee": {
-            "label": "Bachalpsee",
-            "description": "Bachalpsee or Bachse is a lake with an area of 8.06 ha close to the First above Grindelwald in the Bernese Oberland, Switzerland. The lake, located at an elevation of 2,265 m, is split by a natural dam, the smaller part of the lake being 6 m lower. Wikipedia",
-            "type": "",
-            "Surface elevation ": [
-                "7",
-                "431' (2",
-                "265 m)"
-            ],
-            "Area ": [
-                "20 acres (8 ha)"
-            ],
-            "People also search for": []
         },
         "Back River": {
             "label": "Back River",
@@ -1214,38 +1147,72 @@
             ],
             "See results about": []
         },
-        "Badener Höhe": {
-            "label": "Badener Höhe",
-            "description": "Badener Höhe is a mountain of Baden-Württemberg, Germany. Wikipedia",
+        "Bălănești Hill": {
+            "label": "Bălănești Hill",
+            "description": "Bălănești Hill is the highest geographical point in Moldova, with an altitude of 430 m. It is located in Bălănești and belongs to Cornești Hills. Wikipedia",
+            "type": ""
+        },
+        "Bärenstein (Ore Mountains)": {
+            "label": "Bärenstein",
+            "description": "Bärenstein is a mountain of Saxony, southeastern Germany. Wikipedia",
             "type": "",
             "Elevation ": [
-                "3",
-                "287' (1",
-                "002 m)"
-            ],
-            "Mountain range ": [
-                "Black Forest"
+                "2",
+                "946' (898 m)"
             ],
             "People also search for": []
         },
-        "Baekdu Mountain": {
-            "label": "Paektu Mountain",
-            "description": "Baekdu, Paektu, or Changbai Mountain is an active volcano on the border between North Korea and China. At 2,744 m, it is the highest mountain of the Changbai and Baekdudaegan ranges. Wikipedia",
+        "Babia Góra": {
+            "label": "Babia Góra",
+            "description": "Babia Góra, or Babia hora, literally Old Wives' or Witches' Mountain, is a massif situated on the border between Poland and Slovakia in the Western Beskidy Mountains. Wikipedia",
             "type": "",
             "Elevation ": [
-                "9",
-                "003' (2",
-                "744 m)"
+                "5",
+                "659' (1",
+                "725 m)"
             ],
-            "Last eruption ": [
-                "1903"
+            "First ascent ": [
+                "1782"
             ],
             "Prominence ": [
-                "8",
-                "507' (2",
-                "593 m)"
+                "3",
+                "514' (1",
+                "071 m)"
+            ],
+            "Mountain range ": [
+                "Żywiec Beskids",
+                " Beskids",
+                " Carpathian Mountains"
             ],
             "People also search for": []
+        },
+        "Bachalpsee": {
+            "label": "Bachalpsee",
+            "description": "Bachalpsee or Bachse is a lake with an area of 8.06 ha close to the First above Grindelwald in the Bernese Oberland, Switzerland. The lake, located at an elevation of 2,265 m, is split by a natural dam, the smaller part of the lake being 6 m lower. Wikipedia",
+            "type": "",
+            "Surface elevation ": [
+                "7",
+                "431' (2",
+                "265 m)"
+            ],
+            "Area ": [
+                "20 acres (8 ha)"
+            ],
+            "People also search for": []
+        },
+        "Badacsony": {
+            "label": "Badacsony",
+            "description": "Badacsony is the name of a region on the north shore of Lake Balaton in western Hungary, and a town in that region. The entire area is recognized for its wine, with vineyards dating back to Roman times. Wikipedia",
+            "type": "",
+            "Weather ": [
+                "53°F (12°C)",
+                " Wind NE at 3 mph (5 km/h)",
+                " 54% Humidity"
+            ],
+            "Local time ": [
+                "Tuesday 321 PM"
+            ],
+            "See results about": []
         },
         "Baker Lake (Washington)": {
             "label": "Baker Lake",
@@ -1369,6 +1336,31 @@
                 " Grebin"
             ]
         },
+        "Bei River": {
+            "label": "Bei River",
+            "description": "Bei River is the northern tributary of the Pearl River in southern China. The other two main tributaries of the Pearl River are the Xijiang River and the Dongjiang River.\nThe Bei River is 63.34 kilometers long and located in northern Guangdong. Wikipedia",
+            "type": "",
+            "Length ": [
+                "39 miles (63 km)"
+            ],
+            "Country ": [
+                "China"
+            ]
+        },
+        "Badener Höhe": {
+            "label": "Badener Höhe",
+            "description": "Badener Höhe is a mountain of Baden-Württemberg, Germany. Wikipedia",
+            "type": "",
+            "Elevation ": [
+                "3",
+                "287' (1",
+                "002 m)"
+            ],
+            "Mountain range ": [
+                "Black Forest"
+            ],
+            "People also search for": []
+        },
         "Beerenberg": {
             "label": "Beerenberg",
             "description": "Beerenberg is a 2,277 m stratovolcano which forms the northeastern end of the Norwegian island of Jan Mayen. It is the world's northernmost subaerial active volcano. Wikipedia",
@@ -1405,70 +1397,78 @@
                 "637' (499 m)"
             ]
         },
-        "Bei River": {
-            "label": "Bei River",
-            "description": "Bei River is the northern tributary of the Pearl River in southern China. The other two main tributaries of the Pearl River are the Xijiang River and the Dongjiang River.\nThe Bei River is 63.34 kilometers long and located in northern Guangdong. Wikipedia",
+        "Baekdu Mountain": {
+            "label": "Paektu Mountain",
+            "description": "Baekdu, Paektu, or Changbai Mountain is an active volcano on the border between North Korea and China. At 2,744 m, it is the highest mountain of the Changbai and Baekdudaegan ranges. Wikipedia",
             "type": "",
-            "Length ": [
-                "39 miles (63 km)"
+            "Elevation ": [
+                "9",
+                "003' (2",
+                "744 m)"
             ],
-            "Country ": [
-                "China"
-            ]
+            "Last eruption ": [
+                "1903"
+            ],
+            "Prominence ": [
+                "8",
+                "507' (2",
+                "593 m)"
+            ],
+            "People also search for": []
         }
     },
     "summary": {
         "label": 90,
         "description": 90,
         "type": 90,
-        "Length ": 37,
-        "Discharge ": 15,
-        "Basin area ": 14,
-        "Mouth ": 20,
-        "Country ": 15,
-        "Bridges ": 3,
-        "Surface elevation ": 15,
-        "Area ": 21,
-        "Outflow location ": 6,
-        "Width ": 8,
-        "Mean depth ": 5,
-        "Catchment area ": 2,
-        "People also search for": 32,
-        "Source ": 14,
-        "Elevation ": 21,
-        "Prominence ": 12,
-        "Mountain range ": 13,
-        "Last eruption ": 6,
-        "Address ": 3,
-        "First ascent ": 4,
-        "First ascenders ": 3,
-        "Cities ": 6,
-        "Source elevation ": 1,
-        "Mouths ": 2,
-        "Countries ": 2,
-        "Inflow source ": 4,
-        "Phone ": 1,
-        "Scientific name ": 1,
-        "Higher classification ": 1,
-        "Mass ": 1,
-        "Gestation period ": 1,
-        "Rank ": 1,
-        "Tail length ": 1,
-        "Body length ": 1,
-        "See results about": 6,
-        "Weather ": 1,
-        "Local time ": 1
+        "length": 1,
+        "discharge": 1,
+        "basin_area": 1,
+        "mouth": 1,
+        "country": 1,
+        "bridges": 1,
+        "surface_elevation": 1,
+        "area": 1,
+        "outflow_location": 1,
+        "width": 1,
+        "mean_depth": 1,
+        "catchment_area": 1,
+        "people_also_search_for": 1,
+        "source": 1,
+        "elevation": 1,
+        "prominence": 1,
+        "mountain_range": 1,
+        "last_eruption": 1,
+        "address": 1,
+        "cities": 1,
+        "first_ascent": 1,
+        "first_ascenders": 1,
+        "source_elevation": 1,
+        "mouths": 1,
+        "countries": 1,
+        "inflow_source": 1,
+        "phone": 1,
+        "scientific_name": 1,
+        "higher_classification": 1,
+        "mass": 1,
+        "gestation_period": 1,
+        "rank": 1,
+        "tail_length": 1,
+        "body_length": 1,
+        "see_results_about": 1,
+        "weather": 1,
+        "local_time": 1
     },
     "infoboxless": [
+        "Świna",
         "Alkupis (Nevėžis)",
-        "Auf der Baar",
         "Ammergauer Hochplatte",
         "Aspe peak",
-        "Świna",
+        "Auf der Baar",
         "Aukštoji Gervė",
-        "Baagebach",
+        "Bära",
         "Bühler (river)",
-        "Barnard (lunar crater)",
-        "Bära"
+        "Baagebach",
+        "Barnard (lunar crater)"
     ]
 }

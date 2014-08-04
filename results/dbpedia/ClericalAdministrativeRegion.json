@@ -30,6 +30,16 @@
                 "442 km²)"
             ]
         },
+        "Apostolic Vicariate of Paksé": {
+            "label": "Apostolic Vicariate of Paksé",
+            "description": "Vicariate Apostolic of Paksé is a major unit of the Roman Catholic Church in Laos. The Vicar Apostolic since 2000 is Louis-Marie Ling Mangkhanekhoun. It was established in 1967, when it was split off from the Vicariate Apostolic of Savannakhet. Wikipedia",
+            "type": "",
+            "Area ": [
+                "17",
+                "375 sq miles (45",
+                "000 km²)"
+            ]
+        },
         "Diocese of Härnösand": {
             "label": "Diocese of Härnösand",
             "description": "The Diocese of Härnösand is a division in the Church of Sweden in Västernorrland County. The Cathedral is located at Trädgårdsgatan in Härnösand. Wikipedia",
@@ -40,20 +50,20 @@
                 " Sweden"
             ]
         },
+        "Diocese of Karlstad": {
+            "label": "Diocese of Karlstad",
+            "description": "The Diocese of Karlstad is a diocese of the Church of Sweden. It covers most of the provinces Värmland and Dalsland. Its current borders are from 1693. Wikipedia",
+            "type": "",
+            "Address ": [
+                "Västra Torggatan 15",
+                " 652 24 Karlstad",
+                " Sweden"
+            ]
+        },
         "Diocese of Gothenburg": {
             "label": "Diocese of Gothenburg",
             "description": "The diocese of Gothenburg is a diocese of the Church of Sweden. Since September, 2011 the Bishop has been Per Eckerdal. 1949–1970 it was Bo Giertz. The diocese includes the provinces of Bohuslän, Halland, and south-west parts of Västergötland. Wikipedia",
             "type": ""
-        },
-        "Apostolic Vicariate of Paksé": {
-            "label": "Apostolic Vicariate of Paksé",
-            "description": "Vicariate Apostolic of Paksé is a major unit of the Roman Catholic Church in Laos. The Vicar Apostolic since 2000 is Louis-Marie Ling Mangkhanekhoun. It was established in 1967, when it was split off from the Vicariate Apostolic of Savannakhet. Wikipedia",
-            "type": "",
-            "Area ": [
-                "17",
-                "375 sq miles (45",
-                "000 km²)"
-            ]
         },
         "Diocese of Linköping": {
             "label": "Diocese of Linköping",
@@ -69,6 +79,16 @@
             "label": "Diocese of Lund",
             "description": "The Diocese of Lund is the southernmost diocese in the Church of Sweden. The territory of the diocese corresponds to the provinces of Blekinge and Scania. Wikipedia",
             "type": ""
+        },
+        "Diocese of Strängnäs": {
+            "label": "Diocese of Strängnäs",
+            "description": "The Diocese of Strängnäs is a part of the Church of Sweden and has its seat in Strängnäs Cathedral in Strängnäs, south of Lake Mälaren. The diocese is made up of the two provinces Närke and Södermanland. Wikipedia",
+            "type": "",
+            "Address ": [
+                "Gyllenhjelmsgatan 2",
+                " 645 30 Strängnäs",
+                " Sweden"
+            ]
         },
         "Diocese of Växjö": {
             "label": "Diocese of Växjö",
@@ -90,16 +110,6 @@
                 "044 km²)"
             ]
         },
-        "Diocese of Strängnäs": {
-            "label": "Diocese of Strängnäs",
-            "description": "The Diocese of Strängnäs is a part of the Church of Sweden and has its seat in Strängnäs Cathedral in Strängnäs, south of Lake Mälaren. The diocese is made up of the two provinces Närke and Södermanland. Wikipedia",
-            "type": "",
-            "Address ": [
-                "Gyllenhjelmsgatan 2",
-                " 645 30 Strängnäs",
-                " Sweden"
-            ]
-        },
         "Roman Catholic Archdiocese of Sydney": {
             "label": "Roman Catholic Diocese of Parramatta",
             "description": "",
@@ -116,16 +126,6 @@
                 "887 km²)"
             ]
         },
-        "Diocese of Karlstad": {
-            "label": "Diocese of Karlstad",
-            "description": "The Diocese of Karlstad is a diocese of the Church of Sweden. It covers most of the provinces Värmland and Dalsland. Its current borders are from 1693. Wikipedia",
-            "type": "",
-            "Address ": [
-                "Västra Torggatan 15",
-                " 652 24 Karlstad",
-                " Sweden"
-            ]
-        },
         "Roman Catholic Diocese of Líbano–Honda": {
             "label": "Roman Catholic Diocese of Líbano–Honda",
             "description": "The Roman Catholic Diocese of Líbano–Honda is a diocese located in the cities of Líbano and Honda in the Ecclesiastical province of Ibagué in Colombia. Wikipedia",
@@ -135,6 +135,11 @@
                 "342 sq miles (3",
                 "477 km²)"
             ]
+        },
+        "Diocese of Møre": {
+            "label": "Diocese of Møre",
+            "description": "The Diocese of Møre is a diocese in the Church of Norway which geographically consists of Møre og Romsdal county, Norway. Its bishop is seated at the Molde Cathedral which is located in the county administrative center of Molde. Wikipedia",
+            "type": ""
         },
         "Roman Catholic Archdiocese of New Orleans": {
             "label": "Roman Catholic Archdiocese of New Orleans",
@@ -146,11 +151,6 @@
                 " LA 70113",
                 " United States"
             ]
-        },
-        "Diocese of Møre": {
-            "label": "Diocese of Møre",
-            "description": "The Diocese of Møre is a diocese in the Church of Norway which geographically consists of Møre og Romsdal county, Norway. Its bishop is seated at the Molde Cathedral which is located in the county administrative center of Molde. Wikipedia",
-            "type": ""
         },
         "Territorial Abbey of Monte Oliveto Maggiore": {
             "label": "Territorial Abbey of Monte Oliveto Maggiore",
@@ -164,11 +164,6 @@
             "Area ": [
                 "18.92 sq miles (49 km²)"
             ]
-        },
-        "Military Ordinariate of the Philippines": {
-            "label": "Military Ordinariate of the Philippines",
-            "description": "The Military Ordinariate of the Philippines or MOP is a personal diocese for the Armed Forces of the Philippines, Philippine National Police, and the Philippine Coast Guard. Wikipedia",
-            "type": "Religious Jurisdiction"
         },
         "Episcopal Diocese of Atlanta": {
             "label": "Episcopal Diocese of Atlanta",
@@ -187,6 +182,11 @@
                 "501(c)(3)"
             ],
             "People also search for": []
+        },
+        "Military Ordinariate of the Philippines": {
+            "label": "Military Ordinariate of the Philippines",
+            "description": "The Military Ordinariate of the Philippines or MOP is a personal diocese for the Armed Forces of the Philippines, Philippine National Police, and the Philippine Coast Guard. Wikipedia",
+            "type": "Religious Jurisdiction"
         },
         "Roman Catholic Diocese of Bragança do Pará": {
             "label": "Roman Catholic Diocese of Bragança do Pará",
@@ -238,10 +238,15 @@
                 "181 km²)"
             ]
         },
-        "Dolia (titular see)": {
-            "label": "Dolia",
-            "description": "Dolia is a Catholic titular see in Sardinia, Italy, instituted in 1969. The diocese with see at Dolia, now Dolianova, in Sardinia was suppressed in 1503, its territory going to the diocese of Cagliari. Wikipedia",
-            "type": "Titular see"
+        "Roman Catholic Diocese of Mainz": {
+            "label": "Roman Catholic Diocese of Mainz",
+            "description": "The Diocese of Mainz is a diocese of the Catholic church in Germany, historically known in English by its French name of Mayence. It was created in 1802 with the abolition of the old Archbishopric of Mainz. Wikipedia",
+            "type": "",
+            "Area ": [
+                "2",
+                "970 sq miles (7",
+                "692 km²)"
+            ]
         },
         "Diocese of Wakefield": {
             "label": "Diocese of Wakefield",
@@ -253,20 +258,15 @@
                 " United Kingdom"
             ]
         },
+        "Dolia (titular see)": {
+            "label": "Dolia",
+            "description": "Dolia is a Catholic titular see in Sardinia, Italy, instituted in 1969. The diocese with see at Dolia, now Dolianova, in Sardinia was suppressed in 1503, its territory going to the diocese of Cagliari. Wikipedia",
+            "type": "Titular see"
+        },
         "Episcopal Diocese of South Dakota": {
             "label": "Episcopal Diocese of South Dakota",
             "description": "The Episcopal Diocese of South Dakota is a diocese of the Episcopal Church with jurisdiction over the state of South Dakota. Wikipedia",
             "type": "Religious Jurisdiction"
-        },
-        "Roman Catholic Diocese of Mainz": {
-            "label": "Roman Catholic Diocese of Mainz",
-            "description": "The Diocese of Mainz is a diocese of the Catholic church in Germany, historically known in English by its French name of Mayence. It was created in 1802 with the abolition of the old Archbishopric of Mainz. Wikipedia",
-            "type": "",
-            "Area ": [
-                "2",
-                "970 sq miles (7",
-                "692 km²)"
-            ]
         },
         "Roman Catholic Diocese of La Crosse": {
             "label": "Diocese of La Crosse",
@@ -290,17 +290,6 @@
                 " United States"
             ]
         },
-        "Roman Catholic Diocese of Marquette": {
-            "label": "Diocese of Marquette",
-            "description": "",
-            "type": "",
-            "People also search for": []
-        },
-        "Episcopal Diocese of Northern Indiana": {
-            "label": "Episcopal Diocese of Northern Indiana",
-            "description": "The Episcopal Diocese of Northern Indiana, originally called the Episcopal Diocese of Michigan City, is the diocese of the Episcopal Church in the United States of America with jurisdiction over the northern one-third of Indiana. Wikipedia",
-            "type": "Religious Jurisdiction"
-        },
         "Episcopal Diocese of Eastern Michigan": {
             "label": "Episcopal Diocese of Eastern Michigan",
             "description": "The Episcopal Diocese of Eastern Michigan is the Episcopal diocese in the northern two-thirds of the eastern half of the Lower Peninsula of Michigan, not including the greater Detroit area, which is in the Episcopal Diocese of Michigan. Wikipedia",
@@ -311,6 +300,12 @@
                 " MI 48602",
                 " United States"
             ]
+        },
+        "Roman Catholic Diocese of Marquette": {
+            "label": "Diocese of Marquette",
+            "description": "",
+            "type": "",
+            "People also search for": []
         },
         "Episcopal Diocese of West Missouri": {
             "label": "Episcopal Diocese of West Missouri",
@@ -323,10 +318,21 @@
                 " United States"
             ]
         },
+        "Episcopal Diocese of Northern Indiana": {
+            "label": "Episcopal Diocese of Northern Indiana",
+            "description": "The Episcopal Diocese of Northern Indiana, originally called the Episcopal Diocese of Michigan City, is the diocese of the Episcopal Church in the United States of America with jurisdiction over the northern one-third of Indiana. Wikipedia",
+            "type": "Religious Jurisdiction"
+        },
         "Episcopal Diocese of East Carolina": {
             "label": "The Episcopal Diocese of East Carolina",
             "description": "",
             "type": ""
+        },
+        "Episcopal Diocese of Northern California": {
+            "label": "Episcopal Diocese of Northern California",
+            "description": "",
+            "type": "",
+            "People also search for": []
         },
         "Roman Catholic Diocese of Broken Bay": {
             "label": "Roman Catholic Diocese of Broken Bay",
@@ -337,12 +343,6 @@
                 "067 sq miles (2",
                 "763 km²)"
             ]
-        },
-        "Episcopal Diocese of Northern California": {
-            "label": "Episcopal Diocese of Northern California",
-            "description": "",
-            "type": "",
-            "People also search for": []
         },
         "Diocese of Niagara": {
             "label": "Diocese of Niagara",
@@ -371,6 +371,16 @@
             "description": "The Roman Catholic Diocese of Cork and Ross is a Roman Catholic diocese in southern Ireland. It is one of six suffragan dioceses in the ecclesiastical province of Cashel and is subject to the Archdiocese of Cashel and Emly. Wikipedia",
             "type": ""
         },
+        "Roman Catholic Diocese of Raphoe": {
+            "label": "Roman Catholic Diocese of Raphoe",
+            "description": "The Diocese of Raphoe is a Roman Catholic diocese in north-western Ireland. It is one of eight suffragan dioceses that are subject to the Metropolitan Archdiocese of Armagh. Wikipedia",
+            "type": ""
+        },
+        "Roman Catholic Diocese of Waterford and Lismore": {
+            "label": "Roman Catholic Diocese of Waterford and Lismore",
+            "description": "The Diocese of Waterford and Lismore is a Roman Catholic diocese in southern Ireland. It is one of six suffragan dioceses in the ecclesiastical province of Cashel and is subject to the Archbishop of Cashel and Emly. Wikipedia",
+            "type": ""
+        },
         "Roman Catholic Diocese of Bielsko–Żywiec": {
             "label": "Roman Catholic Diocese of Bielsko–Żywiec",
             "description": "The Roman Catholic Diocese of Bielsko–Żywiec is a diocese located in the cities of Bielsko and Żywiec in the Ecclesiastical province of Kraków in Poland. Wikipedia",
@@ -380,38 +390,31 @@
                 "158 sq miles (3",
                 "000 km²)"
             ]
-        },
-        "Roman Catholic Diocese of Waterford and Lismore": {
-            "label": "Roman Catholic Diocese of Waterford and Lismore",
-            "description": "The Diocese of Waterford and Lismore is a Roman Catholic diocese in southern Ireland. It is one of six suffragan dioceses in the ecclesiastical province of Cashel and is subject to the Archbishop of Cashel and Emly. Wikipedia",
-            "type": ""
-        },
-        "Roman Catholic Diocese of Raphoe": {
-            "label": "Roman Catholic Diocese of Raphoe",
-            "description": "The Diocese of Raphoe is a Roman Catholic diocese in north-western Ireland. It is one of eight suffragan dioceses that are subject to the Metropolitan Archdiocese of Armagh. Wikipedia",
-            "type": ""
         }
     },
     "summary": {
         "label": 45,
         "description": 45,
         "type": 45,
-        "Founded ": 1,
-        "Address ": 15,
-        "People also search for": 6,
-        "Area ": 14,
-        "Tax ID ": 1,
-        "Tax deductibility code ": 1
+        "founded": 1,
+        "address": 1,
+        "people_also_search_for": 1,
+        "area": 1,
+        "tax_id": 1,
+        "tax_deductibility_code": 1
     },
     "infoboxless": [
         "Apostolic Prefecture of Battambang",
+        "Diocese of Bjørgvin",
         "Roman Catholic Archdiocese of La Paz",
         "Roman Catholic Archdiocese of Nueva Pamplona",
         "Roman Catholic Archdiocese of Sucre",
-        "Roman Catholic Diocese of Garagoa",
         "Roman Catholic Diocese of Catanduva",
+        "Roman Catholic Diocese of Garagoa",
+        "Roman Catholic Diocese of Garzón",
         "Roman Catholic Diocese of Tabasco",
         "Roman Catholic Diocese of Yanzhou",
+        "Diocese of Sør-Hålogaland",
         "Roman Catholic Archdiocese of Rhodes",
         "Jaffna Diocese of the Church of South India",
         "Roman Catholic Archdiocese of Cuttack-Bhubaneswar",
@@ -423,41 +426,38 @@
         "Roman Catholic Diocese of Lugazi",
         "Roman Catholic Diocese of Margarita",
         "Roman Catholic Diocese of Mariannhill",
-        "Roman Catholic Diocese of Puntarenas",
         "Roman Catholic Diocese of Palayamkottai",
+        "Roman Catholic Diocese of Puntarenas",
         "Roman Catholic Diocese of São Raimundo Nonato",
-        "Roman Catholic Diocese of Umuahia",
-        "Roman Catholic Diocese of Viedma",
-        "Roman Catholic Diocese of Venado Tuerto",
-        "Russian Orthodox Exarchate in Western Europe",
         "Roman Catholic Diocese of Toowoomba",
+        "Roman Catholic Diocese of Umuahia",
+        "Roman Catholic Diocese of Venado Tuerto",
+        "Roman Catholic Diocese of Viedma",
+        "Russian Orthodox Exarchate in Western Europe",
+        "Roman Catholic Diocese of Paranavaí",
         "Anglican Diocese of Niassa",
-        "Roman Catholic Diocese of Alcalá de Henares",
         "Roman Catholic Archdiocese of Monterrey",
+        "Roman Catholic Diocese of Alcalá de Henares",
         "Roman Catholic Diocese of Arua",
         "Roman Catholic Diocese of Chulucanas",
         "Roman Catholic Diocese of Purwokerto",
         "Roman Catholic Diocese of Saint-Jean-Longueuil",
-        "Roman Catholic Diocese of Umzimkulu",
         "Roman Catholic Diocese of San Pedro",
+        "Roman Catholic Diocese of Umzimkulu",
         "Roman Catholic Diocese of Ziguinchor",
         "Roman Catholic Archdiocese of Benin City",
         "Roman Catholic Archdiocese of Passo Fundo",
         "Roman Catholic Diocese of Ciudad Real",
         "Roman Catholic Diocese of Mogadiscio",
-        "Diocese of Sabah",
         "Roman Catholic Diocese of San Juan de la Maguana",
+        "Diocese of Sabah",
         "Diocese of Bendigo",
-        "Diocese of Eastern Newfoundland and Labrador",
-        "Diocese of Central Newfoundland",
         "Roman Catholicism in Thailand",
-        "Roman Catholic Archdiocese of Saint Boniface",
+        "Diocese of Central Newfoundland",
+        "Diocese of Eastern Newfoundland and Labrador",
         "Roman Catholic Diocese of Haarlem-Amsterdam",
+        "Roman Catholic Archdiocese of Saint Boniface",
         "Roman Catholic Diocese of Gliwice",
-        "Roman Catholic Diocese of Legnica",
-        "Diocese of Bjørgvin",
-        "Roman Catholic Diocese of Garzón",
-        "Diocese of Sør-Hålogaland",
-        "Roman Catholic Diocese of Paranavaí"
+        "Roman Catholic Diocese of Legnica"
     ]
 }

@@ -1,5 +1,20 @@
 {
     "instances": {
+        "Adrian Smith (architect)": {
+            "label": "Adrian Smith",
+            "description": "Adrian D. Smith is an American architect who has designed skyscrapers including the Burj Khalifa, Jin Mao Tower and Trump International Hotel and Tower, as well as the proposed 1,000 m Kingdom Tower for Jeddah, Saudi Arabia. Wikipedia",
+            "type": "Architect",
+            "Born ": "August 19, 1944 (age 69), Chicago, Illinois, United States",
+            "Books ": [
+                "The architecture of Adrian Smith",
+                " SOM"
+            ],
+            "Education ": [
+                "Texas A&M University",
+                " University of Illinois at Chicago"
+            ],
+            "Structures": []
+        },
         "Affonso Eduardo Reidy": {
             "label": "Affonso Eduardo Reidy",
             "description": "Affonso Eduardo Reidy was a Brazilian architect. Wikipedia",
@@ -17,34 +32,19 @@
             ],
             "People also search for": []
         },
-        "Adrian Smith (architect)": {
-            "label": "Adrian Smith",
-            "description": "Adrian D. Smith is an American architect who has designed skyscrapers including the Burj Khalifa, Jin Mao Tower and Trump International Hotel and Tower, as well as the proposed 1,000 m Kingdom Tower for Jeddah, Saudi Arabia. Wikipedia",
+        "Alberto Kalach": {
+            "label": "Alberto Kalach",
+            "description": "Alberto Kalach is a Mexican architect. Wikipedia",
             "type": "Architect",
-            "Born ": "August 19, 1944 (age 69), Chicago, Illinois, United States",
-            "Books ": [
-                "The architecture of Adrian Smith",
-                " SOM"
+            "Born ": [
+                "1960",
+                " Mexico City",
+                " Mexico"
             ],
             "Education ": [
-                "Texas A&M University",
-                " University of Illinois at Chicago"
+                "Universidad Iberoamericana"
             ],
-            "Structures": []
-        },
-        "Alfred Waterhouse": {
-            "label": "Alfred Waterhouse",
-            "description": "Alfred Waterhouse was a British architect, particularly associated with the Victorian Gothic Revival architecture. Wikipedia",
-            "type": "Architect",
-            "Born ": "July 19, 1830, Liverpool, United Kingdom",
-            "Died ": "August 22, 1905, Yattendon, United Kingdom",
-            "Children ": [
-                "Paul Waterhouse"
-            ],
-            "Awards ": [
-                "Royal Gold Medal"
-            ],
-            "Structures": []
+            "People also search for": []
         },
         "Aldo Rossi": {
             "label": "Aldo Rossi",
@@ -66,20 +66,6 @@
             ],
             "Structures": []
         },
-        "Alberto Kalach": {
-            "label": "Alberto Kalach",
-            "description": "Alberto Kalach is a Mexican architect. Wikipedia",
-            "type": "Architect",
-            "Born ": [
-                "1960",
-                " Mexico City",
-                " Mexico"
-            ],
-            "Education ": [
-                "Universidad Iberoamericana"
-            ],
-            "People also search for": []
-        },
         "Alexey Shchusev": {
             "label": "Alexey Shchusev",
             "description": "Alexey Viktorovich Shchusev was an acclaimed Russian and Soviet architect whose works may be regarded as a bridge connecting Revivalist architecture of Imperial Russia with Stalin's Empire Style. Wikipedia",
@@ -98,23 +84,19 @@
             ],
             "Structures": []
         },
-        "Ben van Berkel": {
-            "label": "Ben van Berkel",
-            "description": "Ben van Berkel is a Dutch architect, working in the architectural practice UNStudio. With his studio he designed the Erasmus Bridge in Rotterdam, the Mercedes-Benz Museum in Stuttgart, Germany and other building. Wikipedia",
+        "Alfred Waterhouse": {
+            "label": "Alfred Waterhouse",
+            "description": "Alfred Waterhouse was a British architect, particularly associated with the Victorian Gothic Revival architecture. Wikipedia",
             "type": "Architect",
-            "Born ": [
-                "1957",
-                " Utrecht",
-                " Netherlands"
+            "Born ": "July 19, 1830, Liverpool, United Kingdom",
+            "Died ": "August 22, 1905, Yattendon, United Kingdom",
+            "Children ": [
+                "Paul Waterhouse"
             ],
-            "Structures ": [
-                "Erasmusbrug"
+            "Awards ": [
+                "Royal Gold Medal"
             ],
-            "Education ": [
-                "Architectural Association School of Architecture",
-                " Gerrit Rietveld Academie"
-            ],
-            "People also search for": []
+            "Structures": []
         },
         "Antoine Predock": {
             "label": "Antoine Predock",
@@ -138,6 +120,43 @@
                 "AIA Gold Medal"
             ],
             "Structures": []
+        },
+        "Ben van Berkel": {
+            "label": "Ben van Berkel",
+            "description": "Ben van Berkel is a Dutch architect, working in the architectural practice UNStudio. With his studio he designed the Erasmus Bridge in Rotterdam, the Mercedes-Benz Museum in Stuttgart, Germany and other building. Wikipedia",
+            "type": "Architect",
+            "Born ": [
+                "1957",
+                " Utrecht",
+                " Netherlands"
+            ],
+            "Structures ": [
+                "Erasmusbrug"
+            ],
+            "Education ": [
+                "Architectural Association School of Architecture",
+                " Gerrit Rietveld Academie"
+            ],
+            "People also search for": []
+        },
+        "Bernard Rudofsky": {
+            "label": "Bernard Rudofsky",
+            "description": "Bernard Rudofsky was an Moravian-born American writer, architect, collector, teacher, designer, and social historian.\nRudofsky earned a doctorate in architecture in Austria before working in Germany, Italy, and a dozen other countries. Wikipedia",
+            "type": "Writer",
+            "Born ": "April 13, 1905, Suchdol nad Odrou, Czech Republic",
+            "Died ": "March 12, 1988, New York City, New York, United States",
+            "Education ": [
+                "Vienna University of Technology"
+            ],
+            "Books ": [
+                "Architecture Without Architects",
+                " The Kimono Mind An Informal Guide to Japan and the Japanese"
+            ],
+            "Awards ": [
+                "Guggenheim Fellowship for Humanities",
+                " US & Canada"
+            ],
+            "People also search for": []
         },
         "Bruce Goff": {
             "label": "Bruce Goff",
@@ -205,25 +224,6 @@
             ],
             "Books": []
         },
-        "Bernard Rudofsky": {
-            "label": "Bernard Rudofsky",
-            "description": "Bernard Rudofsky was an Moravian-born American writer, architect, collector, teacher, designer, and social historian.\nRudofsky earned a doctorate in architecture in Austria before working in Germany, Italy, and a dozen other countries. Wikipedia",
-            "type": "Writer",
-            "Born ": "April 13, 1905, Suchdol nad Odrou, Czech Republic",
-            "Died ": "March 12, 1988, New York City, New York, United States",
-            "Education ": [
-                "Vienna University of Technology"
-            ],
-            "Books ": [
-                "Architecture Without Architects",
-                " The Kimono Mind An Informal Guide to Japan and the Japanese"
-            ],
-            "Awards ": [
-                "Guggenheim Fellowship for Humanities",
-                " US & Canada"
-            ],
-            "People also search for": []
-        },
         "Daniel Burnham": {
             "label": "Daniel Burnham",
             "description": "Daniel Hudson Burnham, FAIA was an American architect and urban designer. He was the Director of Works for the World's Columbian Exposition in Chicago. Wikipedia",
@@ -232,6 +232,24 @@
             "Died ": "June 1, 1912, Heidelberg, Germany",
             "Books ": [
                 "Plan of Chicago"
+            ],
+            "Structures": []
+        },
+        "Edward Durell Stone": {
+            "label": "Edward Durell Stone",
+            "description": "Edward Durell Stone was a twentieth-century American architect and an early proponent of modern architecture in the United States. Wikipedia",
+            "type": "Architect",
+            "Born ": "March 9, 1902, Fayetteville, Arkansas, United States",
+            "Died ": "August 6, 1978, New York City, New York, United States",
+            "Children ": [
+                "Edward Durrell Stone",
+                " Jr."
+            ],
+            "Education ": [
+                "University of Arkansas",
+                " Boston Architectural College",
+                " Massachusetts Institute of Technology",
+                " Harvard University"
             ],
             "Structures": []
         },
@@ -252,24 +270,6 @@
             ],
             "People also search for": []
         },
-        "Edward Durell Stone": {
-            "label": "Edward Durell Stone",
-            "description": "Edward Durell Stone was a twentieth-century American architect and an early proponent of modern architecture in the United States. Wikipedia",
-            "type": "Architect",
-            "Born ": "March 9, 1902, Fayetteville, Arkansas, United States",
-            "Died ": "August 6, 1978, New York City, New York, United States",
-            "Children ": [
-                "Edward Durrell Stone",
-                " Jr."
-            ],
-            "Education ": [
-                "University of Arkansas",
-                " Boston Architectural College",
-                " Massachusetts Institute of Technology",
-                " Harvard University"
-            ],
-            "Structures": []
-        },
         "George Edmund Street": {
             "label": "George Edmund Street",
             "description": "George Edmund Street RA was an English architect, born at Woodford in Essex. Stylistically, Street was a leading practitioner of the Victorian Gothic revival . Wikipedia",
@@ -285,18 +285,16 @@
             ],
             "Structures": []
         },
-        "Giovanni Pietro de Pomis": {
-            "label": "Giovanni Pietro de Pomis",
-            "description": "Giovanni Pietro de Pomis was an Italian painter, medailleur, architect and fortress master builder. His works show a marked influence of late-Mannerism. Wikipedia",
+        "Giò Ponti": {
+            "label": "Giò Ponti",
+            "description": "Gio Ponti was one of the most important Italian architects, industrial designers, furniture designers, artists, and publishers of the twentieth century. Wikipedia",
             "type": "Architect",
-            "Born ": [
-                "Lodi",
-                " Italy"
+            "Born ": "November 18, 1891, Milan, Italy",
+            "Died ": "September 16, 1979",
+            "Education ": [
+                "Polytechnic University of Milan"
             ],
-            "Structures ": [
-                "Eggenberg Palace State Rooms"
-            ],
-            "People also search for": []
+            "Structures": []
         },
         "Giles Gilbert Scott": {
             "label": "Giles Gilbert Scott",
@@ -315,6 +313,19 @@
                 "Adrian Gilbert Scott"
             ],
             "Structures": []
+        },
+        "Giovanni Pietro de Pomis": {
+            "label": "Giovanni Pietro de Pomis",
+            "description": "Giovanni Pietro de Pomis was an Italian painter, medailleur, architect and fortress master builder. His works show a marked influence of late-Mannerism. Wikipedia",
+            "type": "Architect",
+            "Born ": [
+                "Lodi",
+                " Italy"
+            ],
+            "Structures ": [
+                "Eggenberg Palace State Rooms"
+            ],
+            "People also search for": []
         },
         "Gottfried Semper": {
             "label": "Gottfried Semper",
@@ -344,17 +355,6 @@
             "Born ": "January 9, 1887, Germany",
             "Died ": "August 23, 1973, Düsseldorf, Germany"
         },
-        "Giò Ponti": {
-            "label": "Giò Ponti",
-            "description": "Gio Ponti was one of the most important Italian architects, industrial designers, furniture designers, artists, and publishers of the twentieth century. Wikipedia",
-            "type": "Architect",
-            "Born ": "November 18, 1891, Milan, Italy",
-            "Died ": "September 16, 1979",
-            "Education ": [
-                "Polytechnic University of Milan"
-            ],
-            "Structures": []
-        },
         "Henry van de Velde": {
             "label": "Henry van de Velde",
             "description": "Henry Clemens van de Velde was a Belgian painter, architect and interior designer. Together with Victor Horta and Paul Hankar he could be considered as one of the main founders and representatives of Art Nouveau in Belgium. Wikipedia",
@@ -380,17 +380,6 @@
             "Died ": "February 28, 1923, Leipzig, Germany",
             "People also search for": []
         },
-        "Jürgen Mayer-Hermann": {
-            "label": "Jürgen Mayer-Hermann",
-            "description": "Jürgen Mayer-Hermann is a German architect and artist. He is the leader of the architecture firm \"J. MAYER H.\" in Berlin. Wikipedia",
-            "type": "Architect",
-            "Born ": "October 30, 1965 (age 48), Stuttgart, Germany",
-            "Education ": [
-                "Princeton University",
-                " University of Stuttgart"
-            ],
-            "People also search for": []
-        },
         "Ivan Fomin": {
             "label": "Ivan Fomin",
             "description": "Ivan Aleksandrovich Fomin was a Russian architect and educator. He began his career in 1899 in Moscow, working in the Art Nouveau style. Wikipedia",
@@ -403,6 +392,17 @@
                 " MPS Building",
                 " Council of Ministers of the Ukranian SSR",
                 " Tank Engine Offices"
+            ],
+            "People also search for": []
+        },
+        "Jürgen Mayer-Hermann": {
+            "label": "Jürgen Mayer-Hermann",
+            "description": "Jürgen Mayer-Hermann is a German architect and artist. He is the leader of the architecture firm \"J. MAYER H.\" in Berlin. Wikipedia",
+            "type": "Architect",
+            "Born ": "October 30, 1965 (age 48), Stuttgart, Germany",
+            "Education ": [
+                "Princeton University",
+                " University of Stuttgart"
             ],
             "People also search for": []
         },
@@ -424,20 +424,6 @@
             "Born ": "November 14, 1668, Genoa, Italy",
             "Died ": "November 16, 1745, Vienna, Austria",
             "Structures": []
-        },
-        "Josef Frank (architect)": {
-            "label": "Josef Frank",
-            "description": "Josef Frank was an Austrian-born architect, artist, and designer who adopted Swedish citizenship in the latter half of his life. Wikipedia",
-            "type": "Architect",
-            "Born ": "July 15, 1885, Baden bei Wien, Austria",
-            "Died ": "January 8, 1967, Stockholm, Sweden",
-            "Education ": [
-                "Vienna University of Technology"
-            ],
-            "Siblings ": [
-                "Philipp Frank"
-            ],
-            "People also search for": []
         },
         "John Vanbrugh": {
             "label": "John Vanbrugh",
@@ -462,28 +448,27 @@
             ],
             "Structures": []
         },
-        "Konstantin Thon": {
-            "label": "Konstantin Thon",
-            "description": "Konstantin Andreyevich Thon, also spelled Ton was an official architect of Imperial Russia during the reign of Nicholas I. His major works include the Cathedral of Christ the Saviour, the Grand Kremlin Palace and the Kremlin Armoury in Moscow. Wikipedia",
+        "Josef Frank (architect)": {
+            "label": "Josef Frank",
+            "description": "Josef Frank was an Austrian-born architect, artist, and designer who adopted Swedish citizenship in the latter half of his life. Wikipedia",
             "type": "Architect",
-            "Born ": "October 26, 1794, Saint Petersburg, Russia",
-            "Died ": "January 25, 1881",
+            "Born ": "July 15, 1885, Baden bei Wien, Austria",
+            "Died ": "January 8, 1967, Stockholm, Sweden",
             "Education ": [
-                "Imperial Academy of Arts"
+                "Vienna University of Technology"
             ],
-            "Structures": []
+            "Siblings ": [
+                "Philipp Frank"
+            ],
+            "People also search for": []
         },
-        "Konstantin Melnikov": {
-            "label": "Konstantin Melnikov",
-            "description": "Konstantin Stepanovich Melnikov was a Russian architect and painter. His architectural work, compressed into a single decade, placed Melnikov on the front end of 1920s avant-garde architecture. Wikipedia",
+        "Kay Fisker": {
+            "label": "Kay Fisker",
+            "description": "Kay Otto Fisker was a Danish architect, designer and educator. He is most known for his many housing projects, mainly in the Copenhagen area, and is considered a leading exponent of the Danish Functionalism. Wikipedia",
             "type": "Architect",
-            "Born ": "August 3, 1890, Moscow, Russia",
-            "Died ": "November 28, 1974, Moscow, Russia",
-            "Education ": [
-                "Moscow School of Painting",
-                " Sculpture and Architecture"
-            ],
-            "Structures": []
+            "Born ": "February 14, 1893, Frederiksberg, Denmark",
+            "Died ": "June 21, 1965, Copenhagen, Denmark",
+            "People also search for": []
         },
         "Kevin Roche": {
             "label": "Kevin Roche",
@@ -501,12 +486,41 @@
             ],
             "Structures": []
         },
-        "Kay Fisker": {
-            "label": "Kay Fisker",
-            "description": "Kay Otto Fisker was a Danish architect, designer and educator. He is most known for his many housing projects, mainly in the Copenhagen area, and is considered a leading exponent of the Danish Functionalism. Wikipedia",
+        "Konstantin Melnikov": {
+            "label": "Konstantin Melnikov",
+            "description": "Konstantin Stepanovich Melnikov was a Russian architect and painter. His architectural work, compressed into a single decade, placed Melnikov on the front end of 1920s avant-garde architecture. Wikipedia",
             "type": "Architect",
-            "Born ": "February 14, 1893, Frederiksberg, Denmark",
-            "Died ": "June 21, 1965, Copenhagen, Denmark",
+            "Born ": "August 3, 1890, Moscow, Russia",
+            "Died ": "November 28, 1974, Moscow, Russia",
+            "Education ": [
+                "Moscow School of Painting",
+                " Sculpture and Architecture"
+            ],
+            "Structures": []
+        },
+        "Konstantin Thon": {
+            "label": "Konstantin Thon",
+            "description": "Konstantin Andreyevich Thon, also spelled Ton was an official architect of Imperial Russia during the reign of Nicholas I. His major works include the Cathedral of Christ the Saviour, the Grand Kremlin Palace and the Kremlin Armoury in Moscow. Wikipedia",
+            "type": "Architect",
+            "Born ": "October 26, 1794, Saint Petersburg, Russia",
+            "Died ": "January 25, 1881",
+            "Education ": [
+                "Imperial Academy of Arts"
+            ],
+            "Structures": []
+        },
+        "Max Cetto": {
+            "label": "Max Cetto",
+            "description": "Max Ludwig Cetto was a German-Mexican architect, historian of architecture, and professor. Wikipedia",
+            "type": "Architect",
+            "Born ": "February 20, 1903, Koblenz, Germany",
+            "Died ": "April 5, 1980, Mexico City, Mexico",
+            "Education ": [
+                "Technische Universität Darmstadt"
+            ],
+            "Children ": [
+                "Ana María Cetto"
+            ],
             "People also search for": []
         },
         "Morris Lapidus": {
@@ -523,20 +537,6 @@
                 " Eden Roc Miami Beach Hotel",
                 " Sheraton New York Times Square Hotel",
                 " Congregation Shaare ZionMore"
-            ],
-            "People also search for": []
-        },
-        "Max Cetto": {
-            "label": "Max Cetto",
-            "description": "Max Ludwig Cetto was a German-Mexican architect, historian of architecture, and professor. Wikipedia",
-            "type": "Architect",
-            "Born ": "February 20, 1903, Koblenz, Germany",
-            "Died ": "April 5, 1980, Mexico City, Mexico",
-            "Education ": [
-                "Technische Universität Darmstadt"
-            ],
-            "Children ": [
-                "Ana María Cetto"
             ],
             "People also search for": []
         },
@@ -578,31 +578,6 @@
             ],
             "Structures": []
         },
-        "Rafael Viñoly": {
-            "label": "Rafael Viñoly",
-            "description": "Rafael Viñoly Beceiro is an award-winning Uruguayan architect. Wikipedia",
-            "type": "Architect",
-            "Born ": "June 1, 1944 (age 69), Montevideo, Uruguay",
-            "Education ": [
-                "University of Buenos Aires"
-            ],
-            "Books ": [
-                "The Making of Public Space",
-                " Rafael Viñoly"
-            ],
-            "Structures": []
-        },
-        "Richard Ermisch": {
-            "label": "Richard Ermisch",
-            "description": "Richard Ermisch was a German architect, painter and graphic designer. From 1903 to 1906, he attended the 'Kö­nig­li­che Preu­ßi­sche Bau­ge­werk­schule' at Erfurt. Wikipedia",
-            "type": "Architect",
-            "Born ": "June 17, 1885, Halle, Germany",
-            "Died ": "December 7, 1960, Berlin, Germany",
-            "Structures ": [
-                "Messe Berlin"
-            ],
-            "People also search for": []
-        },
         "Peter Behrens": {
             "label": "Peter Behrens",
             "description": "Peter Behrens was a German architect and designer. He was important for the modernist movement, and several of the movement's leading names in earlier stages of their careers. Wikipedia",
@@ -618,6 +593,48 @@
                 " Own House",
                 " Art Building",
                 " Factory"
+            ],
+            "People also search for": []
+        },
+        "Rafael Viñoly": {
+            "label": "Rafael Viñoly",
+            "description": "Rafael Viñoly Beceiro is an award-winning Uruguayan architect. Wikipedia",
+            "type": "Architect",
+            "Born ": "June 1, 1944 (age 69), Montevideo, Uruguay",
+            "Education ": [
+                "University of Buenos Aires"
+            ],
+            "Books ": [
+                "The Making of Public Space",
+                " Rafael Viñoly"
+            ],
+            "Structures": []
+        },
+        "Raj Rewal": {
+            "label": "Raj Rewal",
+            "description": "Raj Rewal is a leading Indian architect. Wikipedia",
+            "type": "Architect",
+            "Born ": [
+                "1934",
+                " Hoshiarpur",
+                " India"
+            ],
+            "Education ": [
+                "School of Planning and Architecture"
+            ],
+            "Structures ": [
+                "Hall of Nations"
+            ],
+            "People also search for": []
+        },
+        "Richard Ermisch": {
+            "label": "Richard Ermisch",
+            "description": "Richard Ermisch was a German architect, painter and graphic designer. From 1903 to 1906, he attended the 'Kö­nig­li­che Preu­ßi­sche Bau­ge­werk­schule' at Erfurt. Wikipedia",
+            "type": "Architect",
+            "Born ": "June 17, 1885, Halle, Germany",
+            "Died ": "December 7, 1960, Berlin, Germany",
+            "Structures ": [
+                "Messe Berlin"
             ],
             "People also search for": []
         },
@@ -651,20 +668,14 @@
             "Structures": [],
             "People also search for": []
         },
-        "Raj Rewal": {
-            "label": "Raj Rewal",
-            "description": "Raj Rewal is a leading Indian architect. Wikipedia",
+        "Robert Vorhoelzer": {
+            "label": "Robert Vorhoelzer",
+            "description": "Robert Vorhoelzer was a German architect.\nBavarian architect Robert Vorhoelzer belongs to the classical modernist school of architecture that is otherwise rather underrepresented in Bavaria. Wikipedia",
             "type": "Architect",
-            "Born ": [
-                "1934",
-                " Hoshiarpur",
-                " India"
-            ],
+            "Born ": "June 13, 1884, Memmingen, Germany",
+            "Died ": "October 28, 1954, Munich, Germany",
             "Education ": [
-                "School of Planning and Architecture"
-            ],
-            "Structures ": [
-                "Hall of Nations"
+                "Technical University of Munich"
             ],
             "People also search for": []
         },
@@ -712,51 +723,6 @@
             ],
             "Structures": []
         },
-        "Tadao Ando": {
-            "label": "Tadao Ando",
-            "description": "Tadao Ando is a Japanese self-taught architect whose approach to architecture and landscape was categorized by architectural historian Francesco Dal Co as \"critical regionalism\". Wikipedia",
-            "type": "Architect",
-            "Born ": "September 13, 1941 (age 72), Minato-ku, Osaka, Tokyo, Japan",
-            "Books ": [
-                "Tadao Ando Conversations with Students",
-                " Seven Interviews With Tadao Ando",
-                " The Contemporary Tea House Japan's Top Architects Redefine a TraditionMore"
-            ],
-            "Awards ": [
-                "Pritzker Architecture Prize",
-                " Royal Gold Medal",
-                " AIA Gold Medal",
-                " Alvar Aalto Medal",
-                " UIA Gold Medal",
-                " James Beard Award for Outstanding Restaurant DesignMore"
-            ],
-            "Structures": []
-        },
-        "Robert Vorhoelzer": {
-            "label": "Robert Vorhoelzer",
-            "description": "Robert Vorhoelzer was a German architect.\nBavarian architect Robert Vorhoelzer belongs to the classical modernist school of architecture that is otherwise rather underrepresented in Bavaria. Wikipedia",
-            "type": "Architect",
-            "Born ": "June 13, 1884, Memmingen, Germany",
-            "Died ": "October 28, 1954, Munich, Germany",
-            "Education ": [
-                "Technical University of Munich"
-            ],
-            "People also search for": []
-        },
-        "Verner Panton": {
-            "label": "Verner Panton",
-            "description": "Verner Panton is considered one of Denmark's most influential 20th-century furniture and interior designers. Wikipedia",
-            "type": "Designer",
-            "Born ": "February 13, 1926, Gentofte Municipality, Copenhagen, Denmark",
-            "Died ": "September 5, 1998, Copenhagen, Denmark",
-            "Education ": [
-                "Royal Danish Academy of Fine Arts"
-            ],
-            "Books ": [
-                "Verner Panton"
-            ],
-            "People also search for": []
-        },
         "Sverre Fehn": {
             "label": "Sverre Fehn",
             "description": "Sverre Fehn was a Norwegian architect. His highest international honour came in 1997, when he was awarded both the Pritzker Architecture Prize and the Heinrich Tessenow Gold Medal. Wikipedia",
@@ -778,6 +744,26 @@
             ],
             "People also search for": []
         },
+        "Tadao Ando": {
+            "label": "Tadao Ando",
+            "description": "Tadao Ando is a Japanese self-taught architect whose approach to architecture and landscape was categorized by architectural historian Francesco Dal Co as \"critical regionalism\". Wikipedia",
+            "type": "Architect",
+            "Born ": "September 13, 1941 (age 72), Minato-ku, Osaka, Tokyo, Japan",
+            "Books ": [
+                "Tadao Ando Conversations with Students",
+                " Seven Interviews With Tadao Ando",
+                " The Contemporary Tea House Japan's Top Architects Redefine a TraditionMore"
+            ],
+            "Awards ": [
+                "Pritzker Architecture Prize",
+                " Royal Gold Medal",
+                " AIA Gold Medal",
+                " Alvar Aalto Medal",
+                " UIA Gold Medal",
+                " James Beard Award for Outstanding Restaurant DesignMore"
+            ],
+            "Structures": []
+        },
         "Tilman-François Suys": {
             "label": "Tilman-François Suys",
             "description": "Tilman-François Suys or Tieleman Frans Suys, was a Belgian architect who also worked in the Netherlands.\nSuys completed his architectural education in Paris, where he studied under Charles Percier and won the Prix de Rome in 1812. Wikipedia",
@@ -794,6 +780,45 @@
                 "Royal Palace of Brussels"
             ],
             "People also search for": []
+        },
+        "Trdat the Architect": {
+            "label": "Trdat the Architect",
+            "description": "Trdat the Architect was the chief architect of the Bagratuni kings of Armenia, whose 10th century monuments have been argued to be the forerunners of Gothic architecture which came to Europe several centuries later. Wikipedia",
+            "type": "",
+            "Born ": [
+                "950 AD"
+            ],
+            "Died ": [
+                "1020"
+            ],
+            "Structures ": [
+                "Cathedral of Ani"
+            ],
+            "People also search for": []
+        },
+        "Verner Panton": {
+            "label": "Verner Panton",
+            "description": "Verner Panton is considered one of Denmark's most influential 20th-century furniture and interior designers. Wikipedia",
+            "type": "Designer",
+            "Born ": "February 13, 1926, Gentofte Municipality, Copenhagen, Denmark",
+            "Died ": "September 5, 1998, Copenhagen, Denmark",
+            "Education ": [
+                "Royal Danish Academy of Fine Arts"
+            ],
+            "Books ": [
+                "Verner Panton"
+            ],
+            "People also search for": []
+        },
+        "Will Alsop": {
+            "label": "Will Alsop",
+            "description": "Will Allen Alsop, OBE RA is a British architect based in London. He is responsible for several distinctive and controversial modernist buildings, most in the United Kingdom. Wikipedia",
+            "type": "Architect",
+            "Born ": "December 12, 1947 (age 66), Northampton, United Kingdom",
+            "Education ": [
+                "Architectural Association School of Architecture"
+            ],
+            "Structures": []
         },
         "William Chambers (architect)": {
             "label": "William Chambers",
@@ -817,48 +842,6 @@
             ],
             "People also search for": []
         },
-        "Adolf Loos": {
-            "label": "Adolf Loos",
-            "description": "Adolf Franz Karl Viktor Maria Loos was an Austrian and Czechoslovak architect. He was influential in European Modern architecture, and in his essay Ornament and Crime he abandoned the aesthetic principles of the Vienna Secession. Wikipedia",
-            "type": "Architect",
-            "Born ": "December 10, 1870, Brno, Czech Republic",
-            "Died ": "August 23, 1933, Vienna, Austria",
-            "Education ": [
-                "Dresden University of Technology"
-            ],
-            "Books ": [
-                "Ornament and crime",
-                " Spoken into the void",
-                " On architecture"
-            ],
-            "Structures": [],
-            "People also search for": []
-        },
-        "Will Alsop": {
-            "label": "Will Alsop",
-            "description": "Will Allen Alsop, OBE RA is a British architect based in London. He is responsible for several distinctive and controversial modernist buildings, most in the United Kingdom. Wikipedia",
-            "type": "Architect",
-            "Born ": "December 12, 1947 (age 66), Northampton, United Kingdom",
-            "Education ": [
-                "Architectural Association School of Architecture"
-            ],
-            "Structures": []
-        },
-        "Trdat the Architect": {
-            "label": "Trdat the Architect",
-            "description": "Trdat the Architect was the chief architect of the Bagratuni kings of Armenia, whose 10th century monuments have been argued to be the forerunners of Gothic architecture which came to Europe several centuries later. Wikipedia",
-            "type": "",
-            "Born ": [
-                "950 AD"
-            ],
-            "Died ": [
-                "1020"
-            ],
-            "Structures ": [
-                "Cathedral of Ani"
-            ],
-            "People also search for": []
-        },
         "Álvaro Siza Vieira": {
             "label": "Álvaro Siza Vieira",
             "description": "Álvaro Joaquim de Melo Siza Vieira, GOSE, GCIH, is a Portuguese architect, and Architectural educator, born 25 June 1933 in Matosinhos a small coastal town by Porto. He is internationally known as Álvaro Siza. Wikipedia",
@@ -879,6 +862,23 @@
                 " Alvar Aalto Medal",
                 " UIA Gold Medal"
             ],
+            "People also search for": []
+        },
+        "Adolf Loos": {
+            "label": "Adolf Loos",
+            "description": "Adolf Franz Karl Viktor Maria Loos was an Austrian and Czechoslovak architect. He was influential in European Modern architecture, and in his essay Ornament and Crime he abandoned the aesthetic principles of the Vienna Secession. Wikipedia",
+            "type": "Architect",
+            "Born ": "December 10, 1870, Brno, Czech Republic",
+            "Died ": "August 23, 1933, Vienna, Austria",
+            "Education ": [
+                "Dresden University of Technology"
+            ],
+            "Books ": [
+                "Ornament and crime",
+                " Spoken into the void",
+                " On architecture"
+            ],
+            "Structures": [],
             "People also search for": []
         },
         "Arne Jacobsen": {
@@ -918,6 +918,62 @@
             ],
             "Structures": []
         },
+        "Clorindo Testa": {
+            "label": "Clorindo Testa",
+            "description": "Clorindo Manuel José Testa was an Italian-Argentine architect and artist.\nTesta was born in Naples, Italy. He graduated from the School of Architecture at the Universidad de Buenos Aires in 1948. Wikipedia",
+            "type": "Architect",
+            "Born ": "December 10, 1923 (age 90), Naples, Italy",
+            "Died ": "April 11, 2013",
+            "Education ": [
+                "University of Buenos Aires"
+            ],
+            "Structures": []
+        },
+        "Dragiša Brašovan": {
+            "label": "Dragiša Brašovan",
+            "description": "Dragiša Brašovan was a Serbian modernist architect, one of the leading architects of the early 20th century in Yugoslavia. Wikipedia",
+            "type": "Architect",
+            "Born ": "May 25, 1887, Vršac, Serbia",
+            "Died ": "October 6, 1965, Belgrade, Serbia",
+            "People also search for": []
+        },
+        "Gunnar Asplund": {
+            "label": "Gunnar Asplund",
+            "description": "Erik Gunnar Asplund was a Swedish architect, mostly known as a key representative of Nordic Classicism of the 1920s, and during the last decade of his life as a major proponent of the modernist style ... Wikipedia",
+            "type": "Architect",
+            "Born ": "September 22, 1885, Stockholm, Sweden",
+            "Died ": "October 20, 1940, Stockholm, Sweden",
+            "Buried ": [
+                "Skogskyrkogården",
+                " Stockholm",
+                " Sweden"
+            ],
+            "Structures ": [
+                "Stockholm Public Library",
+                " Forest Crematorium"
+            ],
+            "People also search for": []
+        },
+        "Hector Guimard": {
+            "label": "Hector Guimard",
+            "description": "Hector Guimard was an architect, who is now the best-known representative of the French Art Nouveau style of the late nineteenth and early twentieth centuries. Wikipedia",
+            "type": "Architect",
+            "Born ": "March 10, 1867, Lyon, France",
+            "Died ": "May 20, 1942, New York City, New York, United States",
+            "Structures ": [
+                "Agoudas Hakehilos Synagogue",
+                " Castel Béranger",
+                " Castel Orgeval",
+                " Paris Metro Entrance",
+                " Rue François-Millet",
+                " 11"
+            ],
+            "Education ": [
+                "École nationale supérieure des Beaux-Arts",
+                " École nationale supérieure des arts décoratifs"
+            ],
+            "People also search for": []
+        },
         "John Soane": {
             "label": "Sir John Soane's Museum",
             "description": "Sir John Soane's Museum was formerly the home of the neo-classical architect John Soane. It holds many drawings and models of Soane's projects and the collections of paintings, drawings and antiquities that he assembled. Wikipedia",
@@ -950,42 +1006,6 @@
             ],
             "People also search for": []
         },
-        "Gunnar Asplund": {
-            "label": "Gunnar Asplund",
-            "description": "Erik Gunnar Asplund was a Swedish architect, mostly known as a key representative of Nordic Classicism of the 1920s, and during the last decade of his life as a major proponent of the modernist style ... Wikipedia",
-            "type": "Architect",
-            "Born ": "September 22, 1885, Stockholm, Sweden",
-            "Died ": "October 20, 1940, Stockholm, Sweden",
-            "Buried ": [
-                "Skogskyrkogården",
-                " Stockholm",
-                " Sweden"
-            ],
-            "Structures ": [
-                "Stockholm Public Library",
-                " Forest Crematorium"
-            ],
-            "People also search for": []
-        },
-        "Clorindo Testa": {
-            "label": "Clorindo Testa",
-            "description": "Clorindo Manuel José Testa was an Italian-Argentine architect and artist.\nTesta was born in Naples, Italy. He graduated from the School of Architecture at the Universidad de Buenos Aires in 1948. Wikipedia",
-            "type": "Architect",
-            "Born ": "December 10, 1923 (age 90), Naples, Italy",
-            "Died ": "April 11, 2013",
-            "Education ": [
-                "University of Buenos Aires"
-            ],
-            "Structures": []
-        },
-        "Dragiša Brašovan": {
-            "label": "Dragiša Brašovan",
-            "description": "Dragiša Brašovan was a Serbian modernist architect, one of the leading architects of the early 20th century in Yugoslavia. Wikipedia",
-            "type": "Architect",
-            "Born ": "May 25, 1887, Vršac, Serbia",
-            "Died ": "October 6, 1965, Belgrade, Serbia",
-            "People also search for": []
-        },
         "Louis Kahn": {
             "label": "Louis Kahn",
             "description": "Louis Isadore Kahn was an American architect, based in Philadelphia, Pennsylvania, United States. After working in various capacities for several firms in Philadelphia, he founded his own atelier in 1935. Wikipedia",
@@ -1005,44 +1025,27 @@
             ],
             "Structures": []
         },
-        "Hector Guimard": {
-            "label": "Hector Guimard",
-            "description": "Hector Guimard was an architect, who is now the best-known representative of the French Art Nouveau style of the late nineteenth and early twentieth centuries. Wikipedia",
+        "Otto Wagner": {
+            "label": "Otto Wagner",
+            "description": "Otto Koloman Wagner was an Austrian architect and urban planner, known for his lasting impact on the appearance of his home town Vienna, to which he contributed many landmarks. Wikipedia",
             "type": "Architect",
-            "Born ": "March 10, 1867, Lyon, France",
-            "Died ": "May 20, 1942, New York City, New York, United States",
-            "Structures ": [
-                "Agoudas Hakehilos Synagogue",
-                " Castel Béranger",
-                " Castel Orgeval",
-                " Paris Metro Entrance",
-                " Rue François-Millet",
-                " 11"
+            "Born ": "July 13, 1841, Penzing, Vienna, Austria",
+            "Died ": "April 11, 1918, Vienna, Austria",
+            "Books ": [
+                "Modern Architecture A Guidebook for His Students to this Field of Art",
+                " Sketches",
+                " projects",
+                " and executed buildings"
+            ],
+            "Spouse ": [
+                "Josefine Domhart (m. 1863)",
+                " Louise Stiffel (m. ?–1915)"
             ],
             "Education ": [
-                "École nationale supérieure des Beaux-Arts",
-                " École nationale supérieure des arts décoratifs"
+                "Academy of Fine Arts Vienna (1861–1862)",
+                " Vienna University of Technology"
             ],
-            "People also search for": []
-        },
-        "Peter Zumthor": {
-            "label": "Peter Zumthor",
-            "description": "Peter Zumthor is a Swiss architect and winner of the 2009 Pritzker Prize and 2013 RIBA Royal Gold Medal. Wikipedia",
-            "type": "Architect",
-            "Born ": "April 26, 1943 (age 70), Basel, Switzerland",
-            "Structures ": [
-                "Therme Vals",
-                " Kunsthaus Bregenz"
-            ],
-            "Awards ": [
-                "Pritzker Architecture Prize",
-                " Praemium Imperiale"
-            ],
-            "Education ": [
-                "Pratt Institute (1966–1966)",
-                " Kunstgewerbeschule"
-            ],
-            "Books": []
+            "Structures": []
         },
         "Zaha Hadid": {
             "label": "Zaha Hadid",
@@ -1088,27 +1091,24 @@
             ],
             "Structures": []
         },
-        "Otto Wagner": {
-            "label": "Otto Wagner",
-            "description": "Otto Koloman Wagner was an Austrian architect and urban planner, known for his lasting impact on the appearance of his home town Vienna, to which he contributed many landmarks. Wikipedia",
+        "Peter Zumthor": {
+            "label": "Peter Zumthor",
+            "description": "Peter Zumthor is a Swiss architect and winner of the 2009 Pritzker Prize and 2013 RIBA Royal Gold Medal. Wikipedia",
             "type": "Architect",
-            "Born ": "July 13, 1841, Penzing, Vienna, Austria",
-            "Died ": "April 11, 1918, Vienna, Austria",
-            "Books ": [
-                "Modern Architecture A Guidebook for His Students to this Field of Art",
-                " Sketches",
-                " projects",
-                " and executed buildings"
+            "Born ": "April 26, 1943 (age 70), Basel, Switzerland",
+            "Structures ": [
+                "Therme Vals",
+                " Kunsthaus Bregenz"
             ],
-            "Spouse ": [
-                "Josefine Domhart (m. 1863)",
-                " Louise Stiffel (m. ?–1915)"
+            "Awards ": [
+                "Pritzker Architecture Prize",
+                " Praemium Imperiale"
             ],
             "Education ": [
-                "Academy of Fine Arts Vienna (1861–1862)",
-                " Vienna University of Technology"
+                "Pratt Institute (1966–1966)",
+                " Kunstgewerbeschule"
             ],
-            "Structures": []
+            "Books": []
         },
         "Adamo Boari": {
             "label": "Adamo Boari",
@@ -1126,14 +1126,6 @@
                 " Palacio de Correos de Mexico"
             ],
             "People also search for": []
-        },
-        "Carlo Rossi (architect)": {
-            "label": "Carlo Rossi",
-            "description": "Carlo di Giovanni Rossi, was an Italian architect, who worked the major portion of his life in Russia. He was the author of many classical buildings and architectural ensembles in Saint Petersburg and its environments. Wikipedia",
-            "type": "Architect",
-            "Born ": "December 18, 1775, Naples, Italy",
-            "Died ": "April 18, 1849, Saint Petersburg, Russia",
-            "Structures": []
         },
         "Charles Voysey (architect)": {
             "label": "Charles Voysey",
@@ -1165,19 +1157,29 @@
             ],
             "People also search for": []
         },
-        "Ettore Sottsass": {
-            "label": "Ettore Sottsass",
-            "description": "Ettore Sottsass was an Italian architect and designer of the late 20th century. His body of designs included furniture, jewelry, glass, lighting and office machine design. Wikipedia",
+        "Carlo Rossi (architect)": {
+            "label": "Carlo Rossi",
+            "description": "Carlo di Giovanni Rossi, was an Italian architect, who worked the major portion of his life in Russia. He was the author of many classical buildings and architectural ensembles in Saint Petersburg and its environments. Wikipedia",
             "type": "Architect",
-            "Born ": "September 14, 1917, Innsbruck, Austria",
-            "Died ": "December 31, 2007, Milan, Italy",
+            "Born ": "December 18, 1775, Naples, Italy",
+            "Died ": "April 18, 1849, Saint Petersburg, Russia",
+            "Structures": []
+        },
+        "Conde McCullough": {
+            "label": "Conde McCullough",
+            "description": "Conde Balcom McCullough was a U.S. bridge engineer who is primarily known for designing many of Oregon's coastal bridges on U.S. Route 101. Wikipedia",
+            "type": "Engineer",
+            "Born ": "May 30, 1887, Redfield, South Dakota, United States",
+            "Died ": [
+                "1946",
+                " Oregon",
+                " United States"
+            ],
             "Education ": [
-                "Polytechnic University of Turin"
+                "Iowa State University",
+                " Willamette University College of Law"
             ],
-            "Books ": [
-                "The Curious Mr Sottsass Photographing Design and Desire"
-            ],
-            "People also search for": []
+            "Structures": []
         },
         "Andrea Palladio": {
             "label": "Andrea Palladio",
@@ -1191,30 +1193,19 @@
             ],
             "Structures": []
         },
-        "Ercole Manfredi": {
-            "label": "Ercole Manfredi",
-            "description": "Ercole Pietro Manfredi was an Italian architect who lived and worked in early twentieth-century Siam. Wikipedia",
+        "Ettore Sottsass": {
+            "label": "Ettore Sottsass",
+            "description": "Ettore Sottsass was an Italian architect and designer of the late 20th century. His body of designs included furniture, jewelry, glass, lighting and office machine design. Wikipedia",
             "type": "Architect",
-            "Born ": "July 2, 1883, Turin, Italy",
-            "Died ": [
-                "1973",
-                " Bangkok",
-                " Thailand"
-            ],
+            "Born ": "September 14, 1917, Innsbruck, Austria",
+            "Died ": "December 31, 2007, Milan, Italy",
             "Education ": [
-                "Accademia Albertina"
+                "Polytechnic University of Turin"
             ],
-            "Structures ": [
-                "Government House of Thailand",
-                " Ananta Samakhom Throne Hall"
+            "Books ": [
+                "The Curious Mr Sottsass Photographing Design and Desire"
             ],
-            "People also search for ": [
-                "Annibale Rigotti",
-                " Mario Tamagno",
-                " Ferro Milone Cesare",
-                " Silpa Bhirasri",
-                " Gerolamo Emilio Gerini"
-            ]
+            "People also search for": []
         },
         "Edwin Lutyens": {
             "label": "Edwin Lutyens",
@@ -1248,21 +1239,30 @@
             "Structures": [],
             "People also search for": []
         },
-        "Conde McCullough": {
-            "label": "Conde McCullough",
-            "description": "Conde Balcom McCullough was a U.S. bridge engineer who is primarily known for designing many of Oregon's coastal bridges on U.S. Route 101. Wikipedia",
-            "type": "Engineer",
-            "Born ": "May 30, 1887, Redfield, South Dakota, United States",
+        "Ercole Manfredi": {
+            "label": "Ercole Manfredi",
+            "description": "Ercole Pietro Manfredi was an Italian architect who lived and worked in early twentieth-century Siam. Wikipedia",
+            "type": "Architect",
+            "Born ": "July 2, 1883, Turin, Italy",
             "Died ": [
-                "1946",
-                " Oregon",
-                " United States"
+                "1973",
+                " Bangkok",
+                " Thailand"
             ],
             "Education ": [
-                "Iowa State University",
-                " Willamette University College of Law"
+                "Accademia Albertina"
             ],
-            "Structures": []
+            "Structures ": [
+                "Government House of Thailand",
+                " Ananta Samakhom Throne Hall"
+            ],
+            "People also search for ": [
+                "Annibale Rigotti",
+                " Mario Tamagno",
+                " Ferro Milone Cesare",
+                " Silpa Bhirasri",
+                " Gerolamo Emilio Gerini"
+            ]
         },
         "Fabio Novembre": {
             "label": "Fabio Novembre",
@@ -1307,42 +1307,6 @@
             ],
             "People also search for": []
         },
-        "George J. Efstathiou": {
-            "label": "George J. Efstathiou",
-            "description": "George J. Efstathiou, FAIA, RIBA is an American architect of Greek descent. George has been with Skidmore, Owings and Merrill, LLP since 1974, and is a Consulting Partner in the Chicago office. Wikipedia",
-            "type": "Architect",
-            "Structures": []
-        },
-        "Henry F. Brauns": {
-            "label": "Henry F. Brauns",
-            "description": "Henry F. Brauns was an architect based in Baltimore, Maryland, USA. He was a son of Ferdinand L. and Henrietta Brauns and was one of ten brothers and sisters. Wikipedia",
-            "type": "Architect",
-            "Born ": "October 4, 1845",
-            "Died ": "May 7, 1917, Betterton, Maryland, United States",
-            "Structures ": [
-                "Brown's Arcade"
-            ],
-            "People also search for": []
-        },
-        "James Crawford Neilson": {
-            "label": "James Crawford Neilson",
-            "description": "James Crawford Neilson, or J. Crawford Neilson, was a Baltimore, Maryland-based architect. He was born in Baltimore, Maryland in 1816. After the death of his father in 1822 the famiily moved to England and in 1824 to Brussels. Wikipedia",
-            "type": "Architect",
-            "Born ": "October 14, 1816, Baltimore, Maryland, United States",
-            "Died ": "December 21, 1900, Harford County, Maryland, United States",
-            "People also search for": []
-        },
-        "John Appleton Wilson": {
-            "label": "John Appleton Wilson",
-            "description": "John Appleton Wilson was an American architect. Wikipedia",
-            "type": "Architect",
-            "Born ": "October 7, 1851, Baltimore, Maryland, United States",
-            "Died ": "April 17, 1927",
-            "Structures ": [
-                "Lea Laboratory"
-            ],
-            "People also search for": []
-        },
         "Harwell Hamilton Harris": {
             "label": "Harwell Hamilton Harris",
             "description": "Harwell Hamilton Harris, FAIA was a modernist American architect, noted for his work in Southern California that assimilated European and American influences. He lived and worked in North Carolina from 1962 until his death in 1990. Wikipedia",
@@ -1358,16 +1322,20 @@
             ],
             "People also search for": []
         },
-        "Luigi Moretti": {
-            "label": "Luigi Moretti",
-            "description": "Luigi Walter Moretti was an Italian architect. Wikipedia",
+        "George J. Efstathiou": {
+            "label": "George J. Efstathiou",
+            "description": "George J. Efstathiou, FAIA, RIBA is an American architect of Greek descent. George has been with Skidmore, Owings and Merrill, LLP since 1974, and is a Consulting Partner in the Chicago office. Wikipedia",
             "type": "Architect",
-            "Born ": "January 2, 1907, Rome, Italy",
-            "Died ": "July 14, 1973, Capraia, Italy",
+            "Structures": []
+        },
+        "Henry F. Brauns": {
+            "label": "Henry F. Brauns",
+            "description": "Henry F. Brauns was an architect based in Baltimore, Maryland, USA. He was a son of Ferdinand L. and Henrietta Brauns and was one of ten brothers and sisters. Wikipedia",
+            "type": "Architect",
+            "Born ": "October 4, 1845",
+            "Died ": "May 7, 1917, Betterton, Maryland, United States",
             "Structures ": [
-                "Watergate complex",
-                " Tour de la Bourse",
-                " Hotel El-Aurassi"
+                "Brown's Arcade"
             ],
             "People also search for": []
         },
@@ -1390,17 +1358,35 @@
             ],
             "Structures": []
         },
-        "Luigi Poletti (architect)": {
-            "label": "Luigi Poletti",
-            "description": "Luigi Poletti was an Italian neoclassical architect.\nHe initially obtained a doctorate in Mathematics and Philosophy in Bologna. Wikipedia",
+        "James Crawford Neilson": {
+            "label": "James Crawford Neilson",
+            "description": "James Crawford Neilson, or J. Crawford Neilson, was a Baltimore, Maryland-based architect. He was born in Baltimore, Maryland in 1816. After the death of his father in 1822 the famiily moved to England and in 1824 to Brussels. Wikipedia",
             "type": "Architect",
-            "Born ": [
-                "1792"
+            "Born ": "October 14, 1816, Baltimore, Maryland, United States",
+            "Died ": "December 21, 1900, Harford County, Maryland, United States",
+            "People also search for": []
+        },
+        "John Appleton Wilson": {
+            "label": "John Appleton Wilson",
+            "description": "John Appleton Wilson was an American architect. Wikipedia",
+            "type": "Architect",
+            "Born ": "October 7, 1851, Baltimore, Maryland, United States",
+            "Died ": "April 17, 1927",
+            "Structures ": [
+                "Lea Laboratory"
             ],
-            "Died ": [
-                "1869",
-                " Milan",
-                " Italy"
+            "People also search for": []
+        },
+        "Luigi Moretti": {
+            "label": "Luigi Moretti",
+            "description": "Luigi Walter Moretti was an Italian architect. Wikipedia",
+            "type": "Architect",
+            "Born ": "January 2, 1907, Rome, Italy",
+            "Died ": "July 14, 1973, Capraia, Italy",
+            "Structures ": [
+                "Watergate complex",
+                " Tour de la Bourse",
+                " Hotel El-Aurassi"
             ],
             "People also search for": []
         },
@@ -1416,6 +1402,20 @@
             ],
             "People also search for": []
         },
+        "Luigi Poletti (architect)": {
+            "label": "Luigi Poletti",
+            "description": "Luigi Poletti was an Italian neoclassical architect.\nHe initially obtained a doctorate in Mathematics and Philosophy in Bologna. Wikipedia",
+            "type": "Architect",
+            "Born ": [
+                "1792"
+            ],
+            "Died ": [
+                "1869",
+                " Milan",
+                " Italy"
+            ],
+            "People also search for": []
+        },
         "Massimiliano Fuksas": {
             "label": "Massimiliano Fuksas",
             "description": "Massimiliano Fuksas is an Italian architect. Wikipedia",
@@ -1426,20 +1426,6 @@
             ],
             "Children ": [
                 "Elisa Fuksas"
-            ],
-            "Structures": []
-        },
-        "Minoru Yamasaki": {
-            "label": "Minoru Yamasaki",
-            "description": "Minoru Yamasaki was a Japanese American architect, best known for designing the World Trade Center in New York City and several other large-scale projects. Yamasaki was one of the most prominent architects of the 20th century. Wikipedia",
-            "type": "Architect",
-            "Born ": "December 1, 1912, Seattle, Washington, United States",
-            "Died ": "February 6, 1986, Seattle, Washington, United States",
-            "Education ": [
-                "Bates College",
-                " University of Washington",
-                " Garfield High School",
-                " New York University"
             ],
             "Structures": []
         },
@@ -1464,51 +1450,6 @@
             "Structures ": [
                 "St. Mary's Cathedral",
                 " Burns Building"
-            ],
-            "People also search for": []
-        },
-        "Paul László": {
-            "label": "Paul László",
-            "description": "Paul László or Paul Laszlo was a Hungarian-born modern architect and interior designer whose work spanned eight decades and many countries. Wikipedia",
-            "type": "Architect",
-            "Born ": "February 6, 1900, Debrecen, Hungary",
-            "Died ": "March 27, 1993, Santa Monica, California, United States",
-            "Spouse ": [
-                "Maxine Fife"
-            ],
-            "Siblings ": [
-                "Elemer László"
-            ],
-            "Children ": [
-                "Peter Paul László"
-            ],
-            "Parents ": [
-                "László Ignác",
-                " László Regina"
-            ],
-            "People also search for": []
-        },
-        "Paolo Soleri": {
-            "label": "Paolo Soleri",
-            "description": "Paolo Soleri was an Italian architect. He established Arcosanti and the educational Cosanti Foundation. Soleri was a lecturer in the College of Architecture at Arizona State University and a National Design Award recipient in 2006. Wikipedia",
-            "type": "Architect",
-            "Born ": "June 21, 1919, Turin, Italy",
-            "Died ": "April 9, 2013, Paradise Valley, Arizona, United States",
-            "Spouse ": [
-                "Corolyn \"Colly\" Woods (m. ?–1982)"
-            ],
-            "Structures ": [
-                "Cosanti"
-            ],
-            "Movies ": [
-                "Great Expectations"
-            ],
-            "Books ": [
-                "What If? Collected Writings",
-                " 1986-2000",
-                " The Sketchbooks of Paolo Soleri",
-                " The Urban Ideal",
-                " Arcology the City in the Image of ManMore"
             ],
             "People also search for": []
         },
@@ -1538,6 +1479,65 @@
             ],
             "People also search for": []
         },
+        "Minoru Yamasaki": {
+            "label": "Minoru Yamasaki",
+            "description": "Minoru Yamasaki was a Japanese American architect, best known for designing the World Trade Center in New York City and several other large-scale projects. Yamasaki was one of the most prominent architects of the 20th century. Wikipedia",
+            "type": "Architect",
+            "Born ": "December 1, 1912, Seattle, Washington, United States",
+            "Died ": "February 6, 1986, Seattle, Washington, United States",
+            "Education ": [
+                "Bates College",
+                " University of Washington",
+                " Garfield High School",
+                " New York University"
+            ],
+            "Structures": []
+        },
+        "Paolo Soleri": {
+            "label": "Paolo Soleri",
+            "description": "Paolo Soleri was an Italian architect. He established Arcosanti and the educational Cosanti Foundation. Soleri was a lecturer in the College of Architecture at Arizona State University and a National Design Award recipient in 2006. Wikipedia",
+            "type": "Architect",
+            "Born ": "June 21, 1919, Turin, Italy",
+            "Died ": "April 9, 2013, Paradise Valley, Arizona, United States",
+            "Spouse ": [
+                "Corolyn \"Colly\" Woods (m. ?–1982)"
+            ],
+            "Structures ": [
+                "Cosanti"
+            ],
+            "Movies ": [
+                "Great Expectations"
+            ],
+            "Books ": [
+                "What If? Collected Writings",
+                " 1986-2000",
+                " The Sketchbooks of Paolo Soleri",
+                " The Urban Ideal",
+                " Arcology the City in the Image of ManMore"
+            ],
+            "People also search for": []
+        },
+        "Paul László": {
+            "label": "Paul László",
+            "description": "Paul László or Paul Laszlo was a Hungarian-born modern architect and interior designer whose work spanned eight decades and many countries. Wikipedia",
+            "type": "Architect",
+            "Born ": "February 6, 1900, Debrecen, Hungary",
+            "Died ": "March 27, 1993, Santa Monica, California, United States",
+            "Spouse ": [
+                "Maxine Fife"
+            ],
+            "Siblings ": [
+                "Elemer László"
+            ],
+            "Children ": [
+                "Peter Paul László"
+            ],
+            "Parents ": [
+                "László Ignác",
+                " László Regina"
+            ],
+            "People also search for": []
+        },
         "Pier Paolo Maggiora": {
             "label": "Pier Paolo Maggiora",
             "description": "Pier Paolo Maggiora, is an Italian architect. Wikipedia",
@@ -1550,6 +1550,17 @@
             "Structures ": [
                 "Torino Palasport Olimpico",
                 " Torino Esposizioni"
+            ],
+            "People also search for": []
+        },
+        "Richard Snowden Andrews": {
+            "label": "Richard Snowden Andrews",
+            "description": "Richard Snowden Andrews was an American architect and a Confederate artillery commander and diplomat during the American Civil War.\nAndrews was a native of Baltimore, Maryland. Wikipedia",
+            "type": "Architect",
+            "Born ": "October 29, 1830",
+            "Died ": "January 5, 1903",
+            "Structures ": [
+                "Trans-Allegheny Lunatic Asylum"
             ],
             "People also search for": []
         },
@@ -1566,60 +1577,40 @@
                 " Riverside Stadium"
             ],
             "People also search for": []
-        },
-        "Richard Snowden Andrews": {
-            "label": "Richard Snowden Andrews",
-            "description": "Richard Snowden Andrews was an American architect and a Confederate artillery commander and diplomat during the American Civil War.\nAndrews was a native of Baltimore, Maryland. Wikipedia",
-            "type": "Architect",
-            "Born ": "October 29, 1830",
-            "Died ": "January 5, 1903",
-            "Structures ": [
-                "Trans-Allegheny Lunatic Asylum"
-            ],
-            "People also search for": []
-        },
-        "Ion Mincu": {
-            "label": "Ion Mincu University of Architecture and Urbanism",
-            "description": "",
-            "type": "",
-            "See results about": []
         }
     },
     "summary": {
-        "label": 97,
-        "description": 97,
-        "type": 97,
-        "Born ": 94,
-        "Died ": 72,
-        "Education ": 56,
-        "Books ": 25,
-        "Structures ": 31,
-        "People also search for": 53,
-        "Structures": 43,
-        "Children ": 13,
-        "Awards ": 19,
-        "Parents ": 8,
-        "Books": 2,
-        "Siblings ": 5,
-        "Spouse ": 9,
-        "Period ": 1,
-        "Plays ": 1,
-        "Artwork ": 2,
-        "Address ": 1,
-        "Established ": 1,
-        "Hours ": 1,
-        "Function ": 1,
-        "Phone ": 1,
-        "Owner ": 1,
-        "Architect ": 1,
-        "Buried ": 1,
-        "People also search for ": 2,
-        "Movies ": 1,
-        "See results about": 1
+        "label": 96,
+        "description": 96,
+        "type": 96,
+        "born": 1,
+        "books": 1,
+        "education": 1,
+        "structures": 1,
+        "died": 1,
+        "people_also_search_for": 1,
+        "awards": 1,
+        "parents": 1,
+        "children": 1,
+        "siblings": 1,
+        "spouse": 1,
+        "period": 1,
+        "plays": 1,
+        "artwork": 1,
+        "buried": 1,
+        "address": 1,
+        "established": 1,
+        "hours": 1,
+        "function": 1,
+        "phone": 1,
+        "owner": 1,
+        "architect": 1,
+        "movies": 1
     },
     "infoboxless": [
+        "Bjarke Ingels",
+        "Ion Mincu",
         "A. Quincy Jones",
-        "B. Marcus Priteca",
-        "Bjarke Ingels"
+        "B. Marcus Priteca"
     ]
 }

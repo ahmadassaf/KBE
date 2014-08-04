@@ -56,6 +56,29 @@
             "description": "Spirillum in microbiology refers to a bacterium with a cell body that twists like a spiral. It is the third distinct bacterial cell shape type besides coccus and bacillus cells. Wikipedia",
             "type": ""
         },
+        "Aquificae": {
+            "label": "Aquificae",
+            "description": "The Aquificae phylum is a diverse collection of bacteria that live in harsh environmental settings. They have been found in hot springs, sulfur pools, and thermal ocean vents. Wikipedia",
+            "type": "Bacteria",
+            "Higher classification ": [
+                "Bacteria"
+            ]
+        },
+        "Chlamydiae": {
+            "label": "Chlamydiae",
+            "description": "Chlamydiae is a bacterial phylum and class whose members are obligate intracellular pathogens. Many chlamydiae coexist in an asymptomatic state within specific hosts, and it is widely believed that ... Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Chlamydiae"
+            ],
+            "Rank ": [
+                "Phylum"
+            ],
+            "Lower classifications ": [
+                "Chlamydiae"
+            ],
+            "See results about": []
+        },
         "Treponema": {
             "label": "Treponema",
             "description": "Treponema is a bacterial genus. The major species is Treponema pallidum, whose subspecies are responsible for diseases such as syphilis and yaws.\nThe species Treponema hyodysenteriae and Treponema innocens have been reclassified into Serpula. Wikipedia",
@@ -96,29 +119,6 @@
                 " Treponema genomosp. P1",
                 " Treponema denticola",
                 " Treponema calligyrumMore"
-            ],
-            "See results about": []
-        },
-        "Aquificae": {
-            "label": "Aquificae",
-            "description": "The Aquificae phylum is a diverse collection of bacteria that live in harsh environmental settings. They have been found in hot springs, sulfur pools, and thermal ocean vents. Wikipedia",
-            "type": "Bacteria",
-            "Higher classification ": [
-                "Bacteria"
-            ]
-        },
-        "Chlamydiae": {
-            "label": "Chlamydiae",
-            "description": "Chlamydiae is a bacterial phylum and class whose members are obligate intracellular pathogens. Many chlamydiae coexist in an asymptomatic state within specific hosts, and it is widely believed that ... Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Chlamydiae"
-            ],
-            "Rank ": [
-                "Phylum"
-            ],
-            "Lower classifications ": [
-                "Chlamydiae"
             ],
             "See results about": []
         },
@@ -175,6 +175,14 @@
                 "Species"
             ]
         },
+        "Legionella": {
+            "label": "Legionella",
+            "description": "The genus Legionella is a pathogenic group of gram negative bacteria, that includes the species L. pneumophila, causing Legionellosis including a pneumonia type illness called Legionnaires Disease and a mild flu like illness called Pontiac fever. Wikipedia",
+            "type": "Bacteria",
+            "Higher classification ": [
+                "Legionellales"
+            ]
+        },
         "Deinococcus-Thermus": {
             "label": "Deinococcus-Thermus",
             "description": "The Deinococcus-Thermus are a small group of bacteria that are highly resistant to environmental hazards.\nThere are two main groups. Wikipedia",
@@ -189,13 +197,20 @@
                 "Deinococci"
             ]
         },
-        "Legionella": {
-            "label": "Legionella",
-            "description": "The genus Legionella is a pathogenic group of gram negative bacteria, that includes the species L. pneumophila, causing Legionellosis including a pneumonia type illness called Legionnaires Disease and a mild flu like illness called Pontiac fever. Wikipedia",
-            "type": "Bacteria",
+        "Frankineae": {
+            "label": "Frankineae",
+            "description": "Frankineae is a suborder of the Actinomycetales order. Like all Actinobacteria, the species are gram-positive with high G+C ratio. It is polyphyletic. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Frankineae"
+            ],
+            "Rank ": [
+                "Suborder"
+            ],
             "Higher classification ": [
-                "Legionellales"
-            ]
+                "Actinomycetales"
+            ],
+            "See results about": []
         },
         "Spirochaete": {
             "label": "Spirochaete",
@@ -227,21 +242,6 @@
             "Rank ": [
                 "Species"
             ]
-        },
-        "Frankineae": {
-            "label": "Frankineae",
-            "description": "Frankineae is a suborder of the Actinomycetales order. Like all Actinobacteria, the species are gram-positive with high G+C ratio. It is polyphyletic. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Frankineae"
-            ],
-            "Rank ": [
-                "Suborder"
-            ],
-            "Higher classification ": [
-                "Actinomycetales"
-            ],
-            "See results about": []
         },
         "Micromonosporaceae": {
             "label": "Micromonosporaceae",
@@ -340,6 +340,14 @@
                 "Genus"
             ]
         },
+        "Pseudovibrio": {
+            "label": "Pseudovibrio",
+            "description": "In taxonomy, Pseudovibrio is a genus of the Rhodobacteraceae. Wikipedia",
+            "type": "",
+            "Rank ": [
+                "Genus"
+            ]
+        },
         "Rickettsia conorii": {
             "label": "Rickettsia conorii",
             "description": "Rickettsia conorii is a gram-negative, obligate intracellular bacterium of the genus Rickettsia that causes human disease called Boutonneuse fever, Mediterranean spotted fever, Israeli tick typhus, ... Wikipedia",
@@ -356,25 +364,17 @@
                 "Genus"
             ]
         },
-        "Roseinatronobacter": {
-            "label": "Roseinatronobacter",
-            "description": "In taxonomy, Roseinatronobacter is a genus of the Rhodobacteraceae. Wikipedia",
-            "type": "",
-            "Rank ": [
-                "Genus"
-            ]
-        },
-        "Streptoalloteichus": {
-            "label": "Streptoalloteichus",
-            "description": "Streptoalloteichus is a genus of bacteria within the family Pseudonocardiaceae that contains two known species\nS. hindustanus, which is known for the production of tallysomycin, an Antitumor antibiotic; ... Wikipedia",
-            "type": "",
-            "Rank ": [
-                "Genus"
-            ]
-        },
         "Thalassobacter": {
             "label": "Thalassobacter",
             "description": "In taxonomy, Thalassobacter is a genus of the Rhodobacteraceae. Wikipedia",
+            "type": "",
+            "Rank ": [
+                "Genus"
+            ]
+        },
+        "Roseinatronobacter": {
+            "label": "Roseinatronobacter",
+            "description": "In taxonomy, Roseinatronobacter is a genus of the Rhodobacteraceae. Wikipedia",
             "type": "",
             "Rank ": [
                 "Genus"
@@ -388,6 +388,28 @@
                 "Family"
             ],
             "See results about": []
+        },
+        "Bacillus subtilis": {
+            "label": "Bacillus subtilis",
+            "description": "Bacillus subtilis, known also as the hay bacillus or grass bacillus, is a Gram-positive, catalase-positive bacterium. Wikipedia",
+            "type": "Bacteria",
+            "Scientific name ": [
+                "Bacillus subtilis"
+            ],
+            "Higher classification ": [
+                "Bacillus"
+            ],
+            "Rank ": [
+                "Species"
+            ]
+        },
+        "Streptoalloteichus": {
+            "label": "Streptoalloteichus",
+            "description": "Streptoalloteichus is a genus of bacteria within the family Pseudonocardiaceae that contains two known species\nS. hindustanus, which is known for the production of tallysomycin, an Antitumor antibiotic; ... Wikipedia",
+            "type": "",
+            "Rank ": [
+                "Genus"
+            ]
         },
         "Enterobacteriaceae": {
             "label": "Enterobacteriaceae",
@@ -412,20 +434,6 @@
                 " Escherichia"
             ]
         },
-        "Bacillus subtilis": {
-            "label": "Bacillus subtilis",
-            "description": "Bacillus subtilis, known also as the hay bacillus or grass bacillus, is a Gram-positive, catalase-positive bacterium. Wikipedia",
-            "type": "Bacteria",
-            "Scientific name ": [
-                "Bacillus subtilis"
-            ],
-            "Higher classification ": [
-                "Bacillus"
-            ],
-            "Rank ": [
-                "Species"
-            ]
-        },
         "Epsilonproteobacteria": {
             "label": "Epsilonproteobacteria",
             "description": "Epsilonproteobacteria is a class of Proteobacteria. All species of this class are, like all Proteobacteria, Gram-negative. Wikipedia",
@@ -435,14 +443,6 @@
             ],
             "Rank ": [
                 "Class"
-            ]
-        },
-        "Actinobacteria": {
-            "label": "Actinobacteria",
-            "description": "Actinobacteria are a group of Gram-positive bacteria. They were all believed to have high guanine and cytosine content in their DNA. However, recently it has been shown that several freshwater Actinobacteria actually have low G+C content. Wikipedia",
-            "type": "Bacteria",
-            "Higher classification ": [
-                "Bacteria"
             ]
         },
         "Gammaproteobacteria": {
@@ -477,6 +477,14 @@
             ],
             "See results about": []
         },
+        "Actinobacteria": {
+            "label": "Actinobacteria",
+            "description": "Actinobacteria are a group of Gram-positive bacteria. They were all believed to have high guanine and cytosine content in their DNA. However, recently it has been shown that several freshwater Actinobacteria actually have low G+C content. Wikipedia",
+            "type": "Bacteria",
+            "Higher classification ": [
+                "Bacteria"
+            ]
+        },
         "Azotobacter": {
             "label": "Azotobacter",
             "description": "Azotobacter is a genus of usually motile, oval or spherical bacteria that form thick-walled cysts and may produce large quantities of capsular slime. Wikipedia",
@@ -492,15 +500,6 @@
             ],
             "Higher classification ": [
                 "Azotobacteraceae"
-            ],
-            "See results about": []
-        },
-        "Bacillus anthracis": {
-            "label": "Bacillus anthracis",
-            "description": "Bacillus anthracis is the etiologic agent of anthrax — a common disease of livestock and, occasionally, of humans — and the only obligate pathogen within the genus Bacillus. Wikipedia",
-            "type": "Chemical Compound",
-            "Scientific name ": [
-                "Bacillus anthracis"
             ],
             "See results about": []
         },
@@ -520,39 +519,6 @@
             "Lower classifications ": [
                 "Bacillus stearothermophilus",
                 " Bacillus subtilis"
-            ],
-            "See results about": []
-        },
-        "Bacteria": {
-            "label": "Bacteria",
-            "description": "Bacteria constitute a large domain of prokaryotic microorganisms. Typically a few micrometres in length, bacteria have a number of shapes, ranging from spheres to rods and spirals. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Bacteria"
-            ],
-            "Rank ": [
-                "Domain"
-            ],
-            "Lower classifications ": [
-                "Synergistetes",
-                " Deinococcus-Thermus",
-                " Thermotogae",
-                " Gemmatimonadetes",
-                " Sphingobacteria",
-                " Planctobacteria",
-                " Tenericutes",
-                " Aquificae",
-                " Cyanobacteria",
-                " Firmicutes",
-                " Thermodesulfobacteria",
-                " Actinobacteria",
-                " Planctomycetes",
-                " Chloroflexi",
-                " Acidobacteria",
-                " Fusobacteria",
-                " Proteobacteria",
-                " Fibrobacteres",
-                " NitrospiraeMore"
             ],
             "See results about": []
         },
@@ -578,6 +544,29 @@
                 "Chlamydia"
             ],
             "See results about": []
+        },
+        "Bacillus anthracis": {
+            "label": "Bacillus anthracis",
+            "description": "Bacillus anthracis is the etiologic agent of anthrax — a common disease of livestock and, occasionally, of humans — and the only obligate pathogen within the genus Bacillus. Wikipedia",
+            "type": "Chemical Compound",
+            "Scientific name ": [
+                "Bacillus anthracis"
+            ],
+            "See results about": []
+        },
+        "Clostridium botulinum": {
+            "label": "Clostridium botulinum",
+            "description": "Clostridium botulinum is a Gram-positive, rod-shaped bacterium that produces several exotoxins. The best known are its neurotoxins, subdivided in types A-H, that cause the flaccid muscular paralysis seen in botulism. Wikipedia",
+            "type": "Bacteria",
+            "Scientific name ": [
+                "Clostridium botulinum"
+            ],
+            "Higher classification ": [
+                "Clostridium"
+            ],
+            "Rank ": [
+                "Species"
+            ]
         },
         "Chloroflexi (class)": {
             "label": "Chloroflexi",
@@ -605,20 +594,6 @@
             ],
             "Higher classification ": [
                 "Dictyoglomus"
-            ]
-        },
-        "Clostridium botulinum": {
-            "label": "Clostridium botulinum",
-            "description": "Clostridium botulinum is a Gram-positive, rod-shaped bacterium that produces several exotoxins. The best known are its neurotoxins, subdivided in types A-H, that cause the flaccid muscular paralysis seen in botulism. Wikipedia",
-            "type": "Bacteria",
-            "Scientific name ": [
-                "Clostridium botulinum"
-            ],
-            "Higher classification ": [
-                "Clostridium"
-            ],
-            "Rank ": [
-                "Species"
             ]
         },
         "Planctomycetes": {
@@ -670,18 +645,6 @@
             ],
             "See results about": []
         },
-        "Thermotogae": {
-            "label": "Thermotogae",
-            "description": "Thermotogae is a phylum of the domain \"Bacteria\". Wikipedia",
-            "type": "Bacteria",
-            "Rank ": [
-                "Phylum"
-            ],
-            "Higher classification ": [
-                "Bacteria"
-            ],
-            "See results about": []
-        },
         "Streptococcus pneumoniae": {
             "label": "Streptococcus pneumoniae",
             "description": "Streptococcus pneumoniae, or pneumococcus, is a Gram-positive, alpha-hemolytic, aerotolerant, aerobic member of the genus Streptococcus. Wikipedia",
@@ -691,6 +654,20 @@
             ],
             "Higher classification ": [
                 "Streptococcus"
+            ]
+        },
+        "Verrucomicrobia": {
+            "label": "Verrucomicrobia",
+            "description": "Verrucomicrobia is a recently described phylum of bacteria. This phylum contains only a few described species. The species identified have been isolated from fresh water and soil environments and human faeces. Wikipedia",
+            "type": "",
+            "Rank ": [
+                "Phylum"
+            ],
+            "Lower classifications ": [
+                "Akkermansia",
+                " Verrucomicrobium",
+                " Prosthecobacter",
+                " Methylacidiphilum"
             ]
         },
         "Thermus aquaticus": {
@@ -707,19 +684,26 @@
                 "Species"
             ]
         },
-        "Verrucomicrobia": {
-            "label": "Verrucomicrobia",
-            "description": "Verrucomicrobia is a recently described phylum of bacteria. This phylum contains only a few described species. The species identified have been isolated from fresh water and soil environments and human faeces. Wikipedia",
+        "Streptococcus oralis": {
+            "label": "Streptococcus oralis",
+            "description": "Streptococcus oralis is a Gram positive bacterium that grows characteristically in chains. It forms small white colonies on a Wilkins-Chalgren agar plate. It is found in high numbers in the oral cavity. Wikipedia",
             "type": "",
+            "Scientific name ": [
+                "Streptococcus oralis"
+            ],
+            "See results about": []
+        },
+        "Thermotogae": {
+            "label": "Thermotogae",
+            "description": "Thermotogae is a phylum of the domain \"Bacteria\". Wikipedia",
+            "type": "Bacteria",
             "Rank ": [
                 "Phylum"
             ],
-            "Lower classifications ": [
-                "Akkermansia",
-                " Verrucomicrobium",
-                " Prosthecobacter",
-                " Methylacidiphilum"
-            ]
+            "Higher classification ": [
+                "Bacteria"
+            ],
+            "See results about": []
         },
         "Actinomyces": {
             "label": "Actinomyces",
@@ -739,12 +723,18 @@
             ],
             "See results about": []
         },
-        "Pseudovibrio": {
-            "label": "Pseudovibrio",
-            "description": "In taxonomy, Pseudovibrio is a genus of the Rhodobacteraceae. Wikipedia",
+        "Actinomyces israelii": {
+            "label": "''Actinomyces israelii''",
+            "description": "Actinomyces israelii is a species of gram-positive rod-shaped bacteria within the Actinomyces. Known to live commensally on and within humans, A. israelii is an opportunistic pathogen and a cause of actinomycosis. Wikipedia",
             "type": "",
+            "Scientific name ": [
+                "Actinomyces israelii"
+            ],
+            "Higher classification ": [
+                "Actinomyces"
+            ],
             "Rank ": [
-                "Genus"
+                "Species"
             ]
         },
         "Aeromonas punctata": {
@@ -759,20 +749,6 @@
             ],
             "Higher classification ": [
                 "Aeromonas"
-            ]
-        },
-        "Actinomyces israelii": {
-            "label": "''Actinomyces israelii''",
-            "description": "Actinomyces israelii is a species of gram-positive rod-shaped bacteria within the Actinomyces. Known to live commensally on and within humans, A. israelii is an opportunistic pathogen and a cause of actinomycosis. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Actinomyces israelii"
-            ],
-            "Higher classification ": [
-                "Actinomyces"
-            ],
-            "Rank ": [
-                "Species"
             ]
         },
         "Amycolatopsis": {
@@ -827,11 +803,6 @@
             ],
             "See results about": []
         },
-        "Streptomyces coelicolor": {
-            "label": "Streptomyces coelicolor",
-            "description": "Streptomyces coelicolor is a soil-dwelling Gram-positive bacterium that belongs to the genus Streptomyces. Wikipedia",
-            "type": ""
-        },
         "Venenivibrio stagnispumantis": {
             "label": "Venenivibrio stagnispumantis",
             "description": "Venenivibrio stagnispumantis strain CP.B2 is the first microorganisms isolated from the terrestrial hot spring Champagne Pool in Waiotapu, New Zealand. Wikipedia",
@@ -840,38 +811,21 @@
                 "Venenivibrio stagnispumantis"
             ]
         },
-        "Herpetosiphon": {
-            "label": "Herpetosiphon",
-            "description": "Herpetosiphon is a genus of bacteria in the family Herpetosiphonaceae. Wikipedia",
-            "type": "",
-            "See results about": []
-        },
-        "Herpetosiphon giganteus": {
-            "label": "Herpetosiphon giganteus",
-            "description": "Herpetosiphon giganteus is a species of bacteria in the genus Herpetosiphon known to produce 16 restriction enzymes.\nH. giganteus has been studied for its gliding motility. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Herpetosiphon giganteus"
-            ]
+        "Streptomyces coelicolor": {
+            "label": "Streptomyces coelicolor",
+            "description": "Streptomyces coelicolor is a soil-dwelling Gram-positive bacterium that belongs to the genus Streptomyces. Wikipedia",
+            "type": ""
         },
         "Sporosarcina pasteurii": {
             "label": "Sporosarcina pasteurii",
             "description": "Sporosarcina pasteurii formerly known as Bacillus pasteurii from older taxonomies, is a bacterium with the ability to precipitate calcite and solidify sand given a calcium source and urea, through the ... Wikipedia",
             "type": ""
         },
-        "Abiotrophia": {
-            "label": "Abiotrophia",
-            "description": "Abiotrophia is a genus of lactic acid bacteria, a family in the phylum Firmicutes. Wikipedia",
-            "type": "Bacteria",
-            "Scientific name ": [
-                "Abiotrophia"
-            ],
-            "Rank ": [
-                "Genus"
-            ],
-            "Higher classification ": [
-                "Aerococcaceae"
-            ]
+        "Herpetosiphon": {
+            "label": "Herpetosiphon",
+            "description": "Herpetosiphon is a genus of bacteria in the family Herpetosiphonaceae. Wikipedia",
+            "type": "",
+            "See results about": []
         },
         "Ahrensia": {
             "label": "Ahrensia",
@@ -879,6 +833,14 @@
             "type": "",
             "Rank ": [
                 "Genus"
+            ]
+        },
+        "Herpetosiphon giganteus": {
+            "label": "Herpetosiphon giganteus",
+            "description": "Herpetosiphon giganteus is a species of bacteria in the genus Herpetosiphon known to produce 16 restriction enzymes.\nH. giganteus has been studied for its gliding motility. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Herpetosiphon giganteus"
             ]
         },
         "Albidovulum": {
@@ -897,6 +859,20 @@
                 "Genus"
             ],
             "See results about": []
+        },
+        "Abiotrophia": {
+            "label": "Abiotrophia",
+            "description": "Abiotrophia is a genus of lactic acid bacteria, a family in the phylum Firmicutes. Wikipedia",
+            "type": "Bacteria",
+            "Scientific name ": [
+                "Abiotrophia"
+            ],
+            "Rank ": [
+                "Genus"
+            ],
+            "Higher classification ": [
+                "Aerococcaceae"
+            ]
         },
         "Amaricoccus": {
             "label": "Amaricoccus",
@@ -927,14 +903,6 @@
                 "Genus"
             ]
         },
-        "Pannonibacter": {
-            "label": "Pannonibacter",
-            "description": "In taxonomy, Pannonibacter is a genus of the Rhodobacteraceae. Wikipedia",
-            "type": "",
-            "Rank ": [
-                "Genus"
-            ]
-        },
         "Marinosulfonomonas": {
             "label": "Marinosulfonomonas",
             "description": "In taxonomy, Marinosulfonomonas is a genus of the Rhodobacteraceae. Wikipedia",
@@ -946,6 +914,14 @@
         "Silicibacter": {
             "label": "Silicibacter",
             "description": "In taxonomy, Silicibacter is a genus of the Rhodobacteraceae. Wikipedia",
+            "type": "",
+            "Rank ": [
+                "Genus"
+            ]
+        },
+        "Pannonibacter": {
+            "label": "Pannonibacter",
+            "description": "In taxonomy, Pannonibacter is a genus of the Rhodobacteraceae. Wikipedia",
             "type": "",
             "Rank ": [
                 "Genus"
@@ -974,22 +950,6 @@
             ],
             "See results about": []
         },
-        "Stappia": {
-            "label": "Stappia",
-            "description": "In taxonomy, Stappia is a genus of the Rhodobacteraceae. Some members of the genus oxidize carbon monoxide aerobically. Wikipedia",
-            "type": "",
-            "Rank ": [
-                "Genus"
-            ]
-        },
-        "Acidobacteria": {
-            "label": "Acidobacteria",
-            "description": "Acidobacteria are a newly devised phylum of Bacteria, whose members are physiologically diverse and ubiquitous, especially in soils, but are under-represented in culture. Wikipedia",
-            "type": "Bacteria",
-            "Higher classification ": [
-                "Bacteria"
-            ]
-        },
         "Thalassobius": {
             "label": "Thalassobius",
             "description": "In taxonomy, Thalassobius is a genus of the Rhodobacteraceae. Wikipedia",
@@ -1015,6 +975,67 @@
                 "Bacilli",
                 " Clostridia"
             ]
+        },
+        "Acidobacteria": {
+            "label": "Acidobacteria",
+            "description": "Acidobacteria are a newly devised phylum of Bacteria, whose members are physiologically diverse and ubiquitous, especially in soils, but are under-represented in culture. Wikipedia",
+            "type": "Bacteria",
+            "Higher classification ": [
+                "Bacteria"
+            ]
+        },
+        "Stappia": {
+            "label": "Stappia",
+            "description": "In taxonomy, Stappia is a genus of the Rhodobacteraceae. Some members of the genus oxidize carbon monoxide aerobically. Wikipedia",
+            "type": "",
+            "Rank ": [
+                "Genus"
+            ]
+        },
+        "Bacteria": {
+            "label": "Bacteria",
+            "description": "Bacteria constitute a large domain of prokaryotic microorganisms. Typically a few micrometres in length, bacteria have a number of shapes, ranging from spheres to rods and spirals. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Bacteria"
+            ],
+            "Rank ": [
+                "Domain"
+            ],
+            "Lower classifications ": [
+                "Synergistetes",
+                " Deinococcus-Thermus",
+                " Thermotogae",
+                " Gemmatimonadetes",
+                " Sphingobacteria",
+                " Planctobacteria",
+                " Tenericutes",
+                " Aquificae",
+                " Cyanobacteria",
+                " Firmicutes",
+                " Thermodesulfobacteria",
+                " Actinobacteria",
+                " Planctomycetes",
+                " Chloroflexi",
+                " Acidobacteria",
+                " Fusobacteria",
+                " Proteobacteria",
+                " Fibrobacteres",
+                " NitrospiraeMore"
+            ],
+            "See results about": []
+        },
+        "Tenericutes": {
+            "label": "Tenericutes",
+            "description": "Tenericutes is a phylum of bacteria that contains the Class Mollicutes. The name was validated in 1984 as a new division. The Tenericutes lack a cell wall and therefore are Gram negative. Wikipedia",
+            "type": "Bacteria",
+            "Rank ": [
+                "Phylum"
+            ],
+            "Higher classification ": [
+                "Bacteria"
+            ],
+            "See results about": []
         },
         "Green sulfur bacteria": {
             "label": "Green sulfur bacteria",
@@ -1065,51 +1086,30 @@
                 " Pseudomonas rubrisubalbicansMore"
             ],
             "See results about": []
-        },
-        "Tenericutes": {
-            "label": "Tenericutes",
-            "description": "Tenericutes is a phylum of bacteria that contains the Class Mollicutes. The name was validated in 1984 as a new division. The Tenericutes lack a cell wall and therefore are Gram negative. Wikipedia",
-            "type": "Bacteria",
-            "Rank ": [
-                "Phylum"
-            ],
-            "Higher classification ": [
-                "Bacteria"
-            ],
-            "See results about": []
-        },
-        "Streptococcus oralis": {
-            "label": "Streptococcus oralis",
-            "description": "Streptococcus oralis is a Gram positive bacterium that grows characteristically in chains. It forms small white colonies on a Wilkins-Chalgren agar plate. It is found in high numbers in the oral cavity. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Streptococcus oralis"
-            ],
-            "See results about": []
         }
     },
     "summary": {
         "label": 88,
         "description": 88,
         "type": 88,
-        "Scientific name ": 39,
-        "Higher classification ": 42,
-        "Rank ": 65,
-        "Lower classifications ": 21,
-        "See results about": 25
+        "scientific_name": 1,
+        "higher_classification": 1,
+        "rank": 1,
+        "lower_classifications": 1,
+        "see_results_about": 1
     },
     "infoboxless": [
         "Leptospira",
-        "Anaerobacter",
         "Pseudonocardiaceae",
+        "Anaerobacter",
         "Rhodobacterales",
         "Herpetosiphonaceae",
         "Herpetosiphonales",
         "Helicobacter pylori  EMpylori.jpg  1",
         "Simkaniaceae",
-        "Mycobacterium indicus pranii",
-        "Lentisphaerae",
         "Waddlia",
-        "Kutzneria"
+        "Mycobacterium indicus pranii",
+        "Kutzneria",
+        "Lentisphaerae"
     ]
 }

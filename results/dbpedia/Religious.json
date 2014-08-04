@@ -1,13 +1,5 @@
 {
     "instances": {
-        "Bernadette Rebienot": {
-            "label": "International Council of 13 Indigenous Grandmothers",
-            "description": "The International Council of 13 Indigenous Grandmothers is an international alliance of indigenous female elders that focuses on issues such as the environment, internationalism, and human rights. Wikipedia",
-            "type": "",
-            "Founded ": [
-                "2004"
-            ]
-        },
         "Alexander Berzin (scholar)": {
             "label": "Alexander Berzin",
             "description": "Alexander Berzin is a scholar, translator, and teacher of Tibetan Buddhism. Wikipedia",
@@ -22,6 +14,14 @@
                 "Harvard University"
             ],
             "Books": []
+        },
+        "Bernadette Rebienot": {
+            "label": "International Council of 13 Indigenous Grandmothers",
+            "description": "The International Council of 13 Indigenous Grandmothers is an international alliance of indigenous female elders that focuses on issues such as the environment, internationalism, and human rights. Wikipedia",
+            "type": "",
+            "Founded ": [
+                "2004"
+            ]
         },
         "Brad Warner": {
             "label": "Brad Warner",
@@ -61,6 +61,13 @@
             ],
             "People also search for": []
         },
+        "Lu Sheng-yen": {
+            "label": "Lu Sheng-yen",
+            "description": "Lu Sheng-Yen, commonly referred to by followers as Grand Master Lu is the founder and spiritual leader of the True Buddha School, a new Buddhist sect with teachings taken from Sutrayana and Vajrayana, as well as Taoism. Wikipedia",
+            "type": "",
+            "Born ": "June 27, 1945 (age 68), Chiayi County, Taiwan",
+            "People also search for": []
+        },
         "Matthieu Ricard": {
             "label": "Matthieu Ricard",
             "description": "Matthieu Ricard is a French Buddhist monk who resides at Shechen Tennyi Dargyeling Monastery in Nepal.\nBorn in Aix-les-Bains, Savoie, France, he is the son of the late Jean-François Revel, a renowned French philosopher. Wikipedia",
@@ -75,13 +82,6 @@
                 " Brilliant Moon Glimpses of Dilgo Khyentse Rinpoche"
             ],
             "Books": []
-        },
-        "Lu Sheng-yen": {
-            "label": "Lu Sheng-yen",
-            "description": "Lu Sheng-Yen, commonly referred to by followers as Grand Master Lu is the founder and spiritual leader of the True Buddha School, a new Buddhist sect with teachings taken from Sutrayana and Vajrayana, as well as Taoism. Wikipedia",
-            "type": "",
-            "Born ": "June 27, 1945 (age 68), Chiayi County, Taiwan",
-            "People also search for": []
         },
         "Ali al-Sistani": {
             "label": "Ali al-Sistani",
@@ -131,13 +131,6 @@
                 " Francis Anthony Gomes"
             ]
         },
-        "Tripurari Swami": {
-            "label": "Tripurari Swami",
-            "description": "Tripurari Swami, also known as Swami B.V. Tripurari and Swami Tripurari, is \"an author, poet and guru. As a prominent master in the Gaudiya Vaishnava lineage, he is one of the leading practitioners of Bhakti-yoga in the West.\" Wikipedia",
-            "type": "Author",
-            "Born ": "March 12, 1949 (age 65), Teaneck, New Jersey, United States",
-            "Books": []
-        },
         "Wu Kwang": {
             "label": "Wu Kwang",
             "description": "Wu Kwang Soen Sa Nim, born Richard Shrobe, is head Zen teacher at Chogye International Zen Center of New York, a practice center of the Kwan Um School of Zen. Before coming to Zen practice Richard studied Hinduism under Swami Satchidananda. Wikipedia",
@@ -158,6 +151,13 @@
             ],
             "People also search for": []
         },
+        "Tripurari Swami": {
+            "label": "Tripurari Swami",
+            "description": "Tripurari Swami, also known as Swami B.V. Tripurari and Swami Tripurari, is \"an author, poet and guru. As a prominent master in the Gaudiya Vaishnava lineage, he is one of the leading practitioners of Bhakti-yoga in the West.\" Wikipedia",
+            "type": "Author",
+            "Born ": "March 12, 1949 (age 65), Teaneck, New Jersey, United States",
+            "Books": []
+        },
         "Achan Sobin S. Namto": {
             "label": "Achan Sobin S. Namto",
             "description": "Achan Sobin S. Namto is a Buddhist monk who has taught Vipassana meditation and Buddhist psychology in Southeast Asia and North America for over 50 years. Wikipedia",
@@ -168,14 +168,6 @@
             ],
             "People also search for": []
         },
-        "Ayya Khema": {
-            "label": "Ayya Khema",
-            "description": "Ayya Khema, a Buddhist teacher, was born as Ilse Kussel in Berlin, Germany, to Jewish parents. Khema escaped Nazis persecution during World War II. She eventually moved to the United States. Wikipedia",
-            "type": "",
-            "Born ": "August 25, 1923, Berlin, Germany",
-            "Died ": "November 2, 1997",
-            "Books": []
-        },
         "Ali Naqi Naqvi": {
             "label": "Ali Naqi Naqvi",
             "description": "Ayatollah Sayyed Ali Naqi Naqvi, also known as Naqqan, was a mujtahid from Lucknow, India who graduated from Najaf, Iraq. He is famous for his writings in Urdu, including the most famous Shaheed-e-Insaniyat and Tareekh-e-Islam. Wikipedia",
@@ -184,19 +176,13 @@
             "Died ": "May 18, 1988, Lucknow, India",
             "People also search for": []
         },
-        "Herbert Edward Ryle": {
-            "label": "Herbert Edward Ryle",
-            "description": "Herbert Edward Ryle KCVO was an author, Old Testament scholar and the Dean of Westminster. Wikipedia",
-            "type": "Author",
-            "Born ": "May 25, 1856, South Kensington, United Kingdom",
-            "Died ": "August 20, 1925, Westminster, United Kingdom",
-            "Education ": [
-                "Eton College"
-            ],
-            "Parents ": [
-                "J. C. Ryle"
-            ],
-            "People also search for": []
+        "Ayya Khema": {
+            "label": "Ayya Khema",
+            "description": "Ayya Khema, a Buddhist teacher, was born as Ilse Kussel in Berlin, Germany, to Jewish parents. Khema escaped Nazis persecution during World War II. She eventually moved to the United States. Wikipedia",
+            "type": "",
+            "Born ": "August 25, 1923, Berlin, Germany",
+            "Died ": "November 2, 1997",
+            "Books": []
         },
         "Eliseo Soriano": {
             "label": "Eliseo Soriano",
@@ -215,6 +201,20 @@
                 "Shorty Award for Television"
             ],
             "Recent posts": []
+        },
+        "Herbert Edward Ryle": {
+            "label": "Herbert Edward Ryle",
+            "description": "Herbert Edward Ryle KCVO was an author, Old Testament scholar and the Dean of Westminster. Wikipedia",
+            "type": "Author",
+            "Born ": "May 25, 1856, South Kensington, United Kingdom",
+            "Died ": "August 20, 1925, Westminster, United Kingdom",
+            "Education ": [
+                "Eton College"
+            ],
+            "Parents ": [
+                "J. C. Ryle"
+            ],
+            "People also search for": []
         },
         "Kyozan Joshu Sasaki": {
             "label": "Kyozan Joshu Sasaki",
@@ -239,13 +239,11 @@
             "Died ": "May 28, 1957, Colombo, Sri Lanka",
             "People also search for": []
         },
-        "Sheikh Mohamad Osseiran": {
-            "label": "Sheikh Mohamad Osseiran",
-            "description": "Sheikh Mohamad Osseiran is the Jaafari mufti of Saida and Zahrani districts of South Lebanon, Lebanon. Sheikh Osseiran is famous as a highly moderate Shi'a-Muslim Lebanese politician who focuses much of his efforts on interfaith dialogue. Wikipedia",
-            "type": "Mufti",
-            "Born ": [
-                "Sidon"
-            ],
+        "Phrabhavanaviriyakhun": {
+            "label": "Phrabhavanaviriyakhun",
+            "description": "Phrabhavanaviriyakhun is a Thai Buddhist monk. Born in 1941 in Kanchanaburi, Thailand, he followed secular education to post-graduate level. Wikipedia",
+            "type": "",
+            "Born ": "December 21, 1941 (age 72), Kanchanaburi, Thailand",
             "People also search for": []
         },
         "Robina Courtin": {
@@ -253,6 +251,15 @@
             "description": "Robina Courtin, is a Buddhist nun in the Tibetan Buddhist Gelugpa tradition and lineage of Lama Thubten Yeshe and Lama Zopa Rinpoche. In 1996 she founded Liberation Prison Project, which she ran until 2009. Wikipedia",
             "type": "",
             "Born ": "December 20, 1944 (age 69), Melbourne, Australia",
+            "People also search for": []
+        },
+        "Sheikh Mohamad Osseiran": {
+            "label": "Sheikh Mohamad Osseiran",
+            "description": "Sheikh Mohamad Osseiran is the Jaafari mufti of Saida and Zahrani districts of South Lebanon, Lebanon. Sheikh Osseiran is famous as a highly moderate Shi'a-Muslim Lebanese politician who focuses much of his efforts on interfaith dialogue. Wikipedia",
+            "type": "Mufti",
+            "Born ": [
+                "Sidon"
+            ],
             "People also search for": []
         },
         "Thanissaro Bhikkhu": {
@@ -273,13 +280,6 @@
             "description": "Sayadaw U Pandita is one of the foremost living masters of Vipassana meditation. He trained in the Burmese Theravada Buddhist tradition. Wikipedia",
             "type": "",
             "Born ": "July 29, 1921 (age 92), Insein Township, Myanmar",
-            "People also search for": []
-        },
-        "Phrabhavanaviriyakhun": {
-            "label": "Phrabhavanaviriyakhun",
-            "description": "Phrabhavanaviriyakhun is a Thai Buddhist monk. Born in 1941 in Kanchanaburi, Thailand, he followed secular education to post-graduate level. Wikipedia",
-            "type": "",
-            "Born ": "December 21, 1941 (age 72), Kanchanaburi, Thailand",
             "People also search for": []
         },
         "Shahab al-Din Suhrawardi": {
@@ -323,6 +323,17 @@
             "Born ": "February 12, 1630, Higo Province",
             "Died ": "April 27, 1682"
         },
+        "Imakita Kosen": {
+            "label": "Imakita Kosen",
+            "description": "Imakita Kōsen was a Japanese Rinzai Zen rōshi and Neo-Confucianist.\nKosen did his Zen training under Daisetsu Shoen at Sōkoku-ji and received inka from Gisan Zenkai at Sōgen-ji in Okayama. Wikipedia",
+            "type": "",
+            "Born ": [
+                "1816",
+                " Settsu Province"
+            ],
+            "Died ": "January 16, 1892",
+            "People also search for": []
+        },
         "Tulku Urgyen Rinpoche": {
             "label": "Tulku Urgyen Rinpoche",
             "description": "Tulku Urgyen Rinpoche. A contemporary Buddhist master of the Kagyü and Nyingma lineages, who lived at Nagi Gompa hermitage in Nepal, Urgyen Rinpoche was considered one of the greatest Dzogchen masters of our time. Wikipedia",
@@ -342,17 +353,6 @@
             ],
             "People also search for": []
         },
-        "Imakita Kosen": {
-            "label": "Imakita Kosen",
-            "description": "Imakita Kōsen was a Japanese Rinzai Zen rōshi and Neo-Confucianist.\nKosen did his Zen training under Daisetsu Shoen at Sōkoku-ji and received inka from Gisan Zenkai at Sōgen-ji in Okayama. Wikipedia",
-            "type": "",
-            "Born ": [
-                "1816",
-                " Settsu Province"
-            ],
-            "Died ": "January 16, 1892",
-            "People also search for": []
-        },
         "Lal Shahbaz Qalandar": {
             "label": "Lal Shahbaz Qalandar",
             "description": "Syed Usman Marwandi also known as Hazrat Lal Shahbaz Qalandar, Sayed sufi saint, philosopher, poet, and qalandar, born as Syed Hussain Shah, he belonged to the Suhrawardiyya order of Sufis.\nHe preached religious tolerance among Muslims and Hindus. Wikipedia",
@@ -369,12 +369,6 @@
             ],
             "People also search for": []
         },
-        "Channa (Buddhist)": {
-            "label": "Channa",
-            "description": "Channa - The Divine Charioteer was a royal servant and head charioteer of Prince Siddhartha, who was to become the Buddha. Channa later became a disciple of the Buddha and achieved arahantship, as is described in the 78th verse of the Dhammapada. Wikipedia",
-            "type": "Buddhist",
-            "People also search for": []
-        },
         "Ben Klassen": {
             "label": "Ben Klassen",
             "description": "Bernhardt \"Ben\" Klassen was a self-described White supremacist and an American religious leader who founded the Church of the Creator with the publication of his book Nature's Eternal Religion in 1973. Wikipedia",
@@ -386,11 +380,15 @@
             ],
             "People also search for": []
         },
-        "Hsin Ting": {
-            "label": "Hsin Ting",
-            "description": "Hsin Ting is a Buddhist monk from Taiwan who served as the sixth-term abbot and director of Fo Guang Shan from 1997 to 2005. He served as acting abbot for three years after the sudden death of his predecessor, the Venerable Hsin Ping, in 1995. Wikipedia",
-            "type": "",
-            "Born ": "February 2, 1944 (age 70), Yunlin County, Taiwan",
+        "Dilgo Khyentse": {
+            "label": "Dilgo Khyentse Rinpoche",
+            "description": "Dilgo Khyentse Rinpoche was a Vajrayana master, scholar, poet, teacher, and head of the Nyingma school of Tibetan Buddhism from 1987 to 1991. Wikipedia",
+            "type": "Poet",
+            "Born ": [
+                "1910",
+                " Kham"
+            ],
+            "Died ": "September 28, 1991, Bhutan",
             "People also search for": []
         },
         "Hongzhi Zhengjue": {
@@ -407,6 +405,19 @@
             ],
             "People also search for": []
         },
+        "Channa (Buddhist)": {
+            "label": "Channa",
+            "description": "Channa - The Divine Charioteer was a royal servant and head charioteer of Prince Siddhartha, who was to become the Buddha. Channa later became a disciple of the Buddha and achieved arahantship, as is described in the 78th verse of the Dhammapada. Wikipedia",
+            "type": "Buddhist",
+            "People also search for": []
+        },
+        "Hsin Ting": {
+            "label": "Hsin Ting",
+            "description": "Hsin Ting is a Buddhist monk from Taiwan who served as the sixth-term abbot and director of Fo Guang Shan from 1997 to 2005. He served as acting abbot for three years after the sudden death of his predecessor, the Venerable Hsin Ping, in 1995. Wikipedia",
+            "type": "",
+            "Born ": "February 2, 1944 (age 70), Yunlin County, Taiwan",
+            "People also search for": []
+        },
         "Hu Songshan": {
             "label": "Hu Songshan",
             "description": "Hu Songshan, a Hui, was born in 1880, in Tongxin County, Ningxia, China. His Muslim name in Arabic was Sa'd al-Din simplified Chinese 赛尔敦丁; traditional Chinese 賽爾敦丁; pinyin sài ěr dūn dīng). Wikipedia",
@@ -419,17 +430,6 @@
                 "1955",
                 " China"
             ],
-            "People also search for": []
-        },
-        "Dilgo Khyentse": {
-            "label": "Dilgo Khyentse Rinpoche",
-            "description": "Dilgo Khyentse Rinpoche was a Vajrayana master, scholar, poet, teacher, and head of the Nyingma school of Tibetan Buddhism from 1987 to 1991. Wikipedia",
-            "type": "Poet",
-            "Born ": [
-                "1910",
-                " Kham"
-            ],
-            "Died ": "September 28, 1991, Bhutan",
             "People also search for": []
         },
         "Reza Hosseini Nassab": {
@@ -456,6 +456,14 @@
             ],
             "Books": []
         },
+        "Suzuki Shōsan": {
+            "label": "Suzuki Shōsan",
+            "description": "Suzuki Shōsan was a Japanese samurai who served under the Shogun Tokugawa Ieyasu. Shōsan was born in modern-day Aichi Prefecture of Japan. Wikipedia",
+            "type": "",
+            "Born ": "February 5, 1579, Japan",
+            "Died ": "July 28, 1655",
+            "People also search for": []
+        },
         "Tampalawela Dhammaratana": {
             "label": "Tampalawela Dhammaratana",
             "description": "Ven. Dr. Tampalawela Dhammaratana, French and Sri Lankan national, was born in Sri Lanka and received his traditional Buddhist education from Sangharaja Pirivena in Kandy and Sunetradevi University College. Wikipedia",
@@ -480,6 +488,17 @@
             ],
             "People also search for": []
         },
+        "Kobun Chino Otogawa": {
+            "label": "Kobun Chino Otogawa",
+            "description": "Kobun Otogawa was a Sōtō Zen priest. Wikipedia",
+            "type": "",
+            "Born ": "February 1, 1938",
+            "Died ": "July 26, 2002, Switzerland",
+            "Education ": [
+                "Komazawa University"
+            ],
+            "People also search for": []
+        },
         "Trungram Gyaltrul Rinpoche": {
             "label": "Trungram Gyaltrul Rinpoche",
             "description": "Trungram Gyaltrul\nA line of tulkus of the Karma Kagyu school of Tibetan Buddhism.\nThe 4th Trungram Gyaltrul, also Drungram Gyaltrul, Tenpa Gyaltsen, and Gyalwa Lama, was born into a Nepalese Sherpa ... Wikipedia",
@@ -488,14 +507,6 @@
                 "1968",
                 " India"
             ],
-            "People also search for": []
-        },
-        "Suzuki Shōsan": {
-            "label": "Suzuki Shōsan",
-            "description": "Suzuki Shōsan was a Japanese samurai who served under the Shogun Tokugawa Ieyasu. Shōsan was born in modern-day Aichi Prefecture of Japan. Wikipedia",
-            "type": "",
-            "Born ": "February 5, 1579, Japan",
-            "Died ": "July 28, 1655",
             "People also search for": []
         },
         "Wuzhun Shifan": {
@@ -512,24 +523,11 @@
             ],
             "People also search for": []
         },
-        "Nonin Chowaney": {
-            "label": "Nonin Chowaney",
-            "description": "Rev. Nonin Chowaney is an American Soto Zen priest, brush calligrapher, and the current abbot and head priest of the Nebraska Zen Center at the Heartland Temple in Omaha, Nebraska. Wikipedia",
-            "type": "",
-            "People also search for": []
-        },
         "Addai II Giwargis": {
             "label": "Addai II Giwargis",
             "description": "Mar Addai II, born Shimun Giwargis, is the incumbent Catholicos Patriarch of the Ancient Church of the East and resides in the Apostolic See of Seleucia-Ctesiphon in Baghdad, Iraq. Wikipedia",
             "type": "",
             "Born ": "August 1, 1950 (age 63), Iraq",
-            "People also search for": []
-        },
-        "Radhanath Swami": {
-            "label": "Radhanath Swami",
-            "description": "Radhanath Swami is a Gaudiya Vaishnava guru. He works largely from Mumbai in India and also travels extensively throughout Europe and America. He has been instrumental in the founding of the Bhaktivedanta hospital in Mumbai. Wikipedia",
-            "type": "",
-            "Born ": "December 7, 1950 (age 63), Chicago, Illinois, United States",
             "People also search for": []
         },
         "Nanda (Buddhist nun)": {
@@ -548,15 +546,17 @@
             ],
             "People also search for": []
         },
-        "Kobun Chino Otogawa": {
-            "label": "Kobun Chino Otogawa",
-            "description": "Kobun Otogawa was a Sōtō Zen priest. Wikipedia",
+        "Radhanath Swami": {
+            "label": "Radhanath Swami",
+            "description": "Radhanath Swami is a Gaudiya Vaishnava guru. He works largely from Mumbai in India and also travels extensively throughout Europe and America. He has been instrumental in the founding of the Bhaktivedanta hospital in Mumbai. Wikipedia",
             "type": "",
-            "Born ": "February 1, 1938",
-            "Died ": "July 26, 2002, Switzerland",
-            "Education ": [
-                "Komazawa University"
-            ],
+            "Born ": "December 7, 1950 (age 63), Chicago, Illinois, United States",
+            "People also search for": []
+        },
+        "Nonin Chowaney": {
+            "label": "Nonin Chowaney",
+            "description": "Rev. Nonin Chowaney is an American Soto Zen priest, brush calligrapher, and the current abbot and head priest of the Nebraska Zen Center at the Heartland Temple in Omaha, Nebraska. Wikipedia",
+            "type": "",
             "People also search for": []
         },
         "Danxia Zichun": {
@@ -616,16 +616,16 @@
             "type": "",
             "Born ": "January 8, 1944 (age 70), Korea"
         },
-        "Wangdrak Rinpoche": {
-            "label": "Wangdrak Rinpoche",
-            "description": "Wangdrak Rinpoche is the abbot of Gebchak Gonpa, holding responsibility for the nuns' spiritual training and their material well-being.\nWangdrak Rinpoche the third is the reincarnation of Wangdrak Dorje. Wikipedia",
-            "type": "",
-            "People also search for": []
-        },
         "Ngawang Jigdral Rinpoche": {
             "label": "Ngawang Jigdral Rinpoche",
             "description": "Ngawang Jigdral Rinpoche, known as Pemba Sherpa, is a Nyingma tulku and said to be the 3rd reincarnation of Gomchen Rinpoche.\nFrom an early age he joined Himalaya Sherpa Buddhist School in Nepal where he learned basic Buddhist and secular studies. Wikipedia",
             "type": "Lama",
+            "People also search for": []
+        },
+        "Wangdrak Rinpoche": {
+            "label": "Wangdrak Rinpoche",
+            "description": "Wangdrak Rinpoche is the abbot of Gebchak Gonpa, holding responsibility for the nuns' spiritual training and their material well-being.\nWangdrak Rinpoche the third is the reincarnation of Wangdrak Dorje. Wikipedia",
+            "type": "",
             "People also search for": []
         },
         "Hanumatpresaka Swami": {
@@ -656,12 +656,16 @@
             "Died ": "January 18, 1969, Mount Abu",
             "People also search for": []
         },
-        "Juan de Velasco": {
-            "label": "Juan de Velasco",
-            "description": "Juan de Velasco y Pérez Petroche was an 18th-century Jesuit priest, historian, and professor of philosophy and theology from the Royal Audience of Quito. He was born in Riobamba to Juan de Velasco y López de Moncayo and to María Pérez Petroche. Wikipedia",
+        "Nisshō": {
+            "label": "Nisshō",
+            "description": "Nisshō was a Buddhist disciple of Nichiren and the uncle of Nichirō. He was the only disciple who was actually older than Nichiren himself. Wikipedia",
             "type": "",
-            "Born ": "January 27, 1727, Riobamba, Chimborazo Province, Ecuador",
-            "Died ": "June 29, 1792, Faenza, Italy",
+            "Born ": [
+                "1236"
+            ],
+            "Died ": [
+                "1323"
+            ],
             "People also search for": []
         },
         "Mohammad Hussein Fadlallah": {
@@ -680,16 +684,12 @@
             "Died ": "August 21, 1974, New Delhi, India",
             "People also search for": []
         },
-        "Nisshō": {
-            "label": "Nisshō",
-            "description": "Nisshō was a Buddhist disciple of Nichiren and the uncle of Nichirō. He was the only disciple who was actually older than Nichiren himself. Wikipedia",
+        "Juan de Velasco": {
+            "label": "Juan de Velasco",
+            "description": "Juan de Velasco y Pérez Petroche was an 18th-century Jesuit priest, historian, and professor of philosophy and theology from the Royal Audience of Quito. He was born in Riobamba to Juan de Velasco y López de Moncayo and to María Pérez Petroche. Wikipedia",
             "type": "",
-            "Born ": [
-                "1236"
-            ],
-            "Died ": [
-                "1323"
-            ],
+            "Born ": "January 27, 1727, Riobamba, Chimborazo Province, Ecuador",
+            "Died ": "June 29, 1792, Faenza, Italy",
             "People also search for": []
         },
         "Vidyaranya": {
@@ -713,6 +713,22 @@
             ],
             "People also search for": []
         },
+        "Abe no Seimei": {
+            "label": "Abe no Seimei",
+            "description": "Abe no Seimei was an onmyōji, a leading specialist of onmyōdō during the middle of the Heian Period in Japan. Wikipedia",
+            "type": "",
+            "Born ": [
+                "921 AD",
+                " Sakurai",
+                " Nara Prefecture",
+                " Japan"
+            ],
+            "Died ": [
+                "1005",
+                " Japan"
+            ],
+            "People also search for": []
+        },
         "Thomas Folan": {
             "label": "Thomas Folan",
             "description": "Very Rev. Fr. Thomas D Folan, 1810 - 1874, King of the Claddagh. Wikipedia",
@@ -730,19 +746,24 @@
                 " Thomas Nicholas Burke"
             ]
         },
-        "Abe no Seimei": {
-            "label": "Abe no Seimei",
-            "description": "Abe no Seimei was an onmyōji, a leading specialist of onmyōdō during the middle of the Heian Period in Japan. Wikipedia",
-            "type": "",
-            "Born ": [
-                "921 AD",
-                " Sakurai",
-                " Nara Prefecture",
-                " Japan"
+        "Akhtar Raza Khan": {
+            "label": "Akhtar Raza Khan",
+            "description": "Akhtar Raza Khan is an Islamic jurist, born on Tuesday 2 February 1943 in the district of Saudagran in the city of Bareilly, India. The name given during his Aqeeqah was Muhammad. He was also given the name Muhammad Ismail Raza. Wikipedia",
+            "type": "Grand Mufti",
+            "Born ": "November 23, 1943 (age 70), Bareilly, India",
+            "Education ": [
+                "Al-Azhar University"
             ],
-            "Died ": [
-                "1005",
-                " Japan"
+            "People also search for": []
+        },
+        "Bhakti Tirtha Swami": {
+            "label": "Bhakti Tirtha Swami",
+            "description": "Bhakti Tirtha Swami, also known as Swami Krishnapada, was a leading guru and governing body commissioner of the International Society for Krishna Consciousness. He was the highest-ranking African American in ISKCON. Wikipedia",
+            "type": "",
+            "Born ": "February 25, 1950, Cleveland, Ohio, United States",
+            "Died ": "June 27, 2005",
+            "Education ": [
+                "Princeton University"
             ],
             "People also search for": []
         },
@@ -762,33 +783,22 @@
                 " Jan C. Scruggs"
             ]
         },
-        "Eido Tai Shimano": {
-            "label": "Eido Tai Shimano",
-            "description": "Eido Tai Shimano is a Rinzai Zen Buddhist roshi. He was the founding abbot of the New York Zendo Shobo-Ji in Manhattan and Dai Bosatsu Zendo Kongo-Ji monastery in the Catskill mountains of New York; he ... Wikipedia",
-            "type": "",
-            "Born ": [
-                "1932",
-                " Tokyo",
-                " Japan"
-            ],
-            "People also search for": []
-        },
-        "Akhtar Raza Khan": {
-            "label": "Akhtar Raza Khan",
-            "description": "Akhtar Raza Khan is an Islamic jurist, born on Tuesday 2 February 1943 in the district of Saudagran in the city of Bareilly, India. The name given during his Aqeeqah was Muhammad. He was also given the name Muhammad Ismail Raza. Wikipedia",
-            "type": "Grand Mufti",
-            "Born ": "November 23, 1943 (age 70), Bareilly, India",
-            "Education ": [
-                "Al-Azhar University"
-            ],
-            "People also search for": []
-        },
         "Fenggan": {
             "label": "Fenggan",
             "description": "Fenggan was a Chinese Zen monk-poet lived in the Tang Dynasty, associated with Hanshan and Shide in the famed \"Tiantai Trio\". Wikipedia",
             "type": "Poet",
             "Born ": [
                 "China"
+            ],
+            "People also search for": []
+        },
+        "John Still": {
+            "label": "John Still",
+            "description": "John Leonard Still is an English former footballer and the current manager of Luton Town in the Conference Premier. Wikipedia",
+            "type": "Soccer player",
+            "Born ": "April 24, 1950 (age 63), West Ham",
+            "Position ": [
+                "Defender"
             ],
             "People also search for": []
         },
@@ -800,6 +810,28 @@
             "Died ": "April 12, 1963, Quezon City, Philippines",
             "Children ": [
                 "Eraño Manalo"
+            ],
+            "People also search for": []
+        },
+        "Eido Tai Shimano": {
+            "label": "Eido Tai Shimano",
+            "description": "Eido Tai Shimano is a Rinzai Zen Buddhist roshi. He was the founding abbot of the New York Zendo Shobo-Ji in Manhattan and Dai Bosatsu Zendo Kongo-Ji monastery in the Catskill mountains of New York; he ... Wikipedia",
+            "type": "",
+            "Born ": [
+                "1932",
+                " Tokyo",
+                " Japan"
+            ],
+            "People also search for": []
+        },
+        "Harada Daiun Sogaku": {
+            "label": "Harada Daiun Sogaku",
+            "description": "Daiun Sogaku Harada Rōshi was a Sōtō Zen monk who trained under both Soto and Rinzai teachers and became known for his teaching combining methods from both schools. Wikipedia",
+            "type": "",
+            "Born ": "October 13, 1871, Obama, Fukui Prefecture, Japan",
+            "Died ": "December 12, 1961",
+            "Education ": [
+                "Komazawa University"
             ],
             "People also search for": []
         },
@@ -819,28 +851,6 @@
             ],
             "People also search for": []
         },
-        "Bhakti Tirtha Swami": {
-            "label": "Bhakti Tirtha Swami",
-            "description": "Bhakti Tirtha Swami, also known as Swami Krishnapada, was a leading guru and governing body commissioner of the International Society for Krishna Consciousness. He was the highest-ranking African American in ISKCON. Wikipedia",
-            "type": "",
-            "Born ": "February 25, 1950, Cleveland, Ohio, United States",
-            "Died ": "June 27, 2005",
-            "Education ": [
-                "Princeton University"
-            ],
-            "People also search for": []
-        },
-        "Harada Daiun Sogaku": {
-            "label": "Harada Daiun Sogaku",
-            "description": "Daiun Sogaku Harada Rōshi was a Sōtō Zen monk who trained under both Soto and Rinzai teachers and became known for his teaching combining methods from both schools. Wikipedia",
-            "type": "",
-            "Born ": "October 13, 1871, Obama, Fukui Prefecture, Japan",
-            "Died ": "December 12, 1961",
-            "Education ": [
-                "Komazawa University"
-            ],
-            "People also search for": []
-        },
         "Kamo no Yasunori": {
             "label": "Kamo no Yasunori",
             "description": "Kamo no Yasunori was an onmyōji, a practitioner of onmyōdō, during the Heian period in Japan. He was considered the premier onmyōji of his time.\nYasunori was the son of the onmyōji Kamo no Tadayuki. Wikipedia",
@@ -849,16 +859,6 @@
                 "Japan"
             ],
             "See results about": []
-        },
-        "John Still": {
-            "label": "John Still",
-            "description": "John Leonard Still is an English former footballer and the current manager of Luton Town in the Conference Premier. Wikipedia",
-            "type": "Soccer player",
-            "Born ": "April 24, 1950 (age 63), West Ham",
-            "Position ": [
-                "Defender"
-            ],
-            "People also search for": []
         },
         "Koun Ejō": {
             "label": "Koun Ejō",
@@ -884,17 +884,16 @@
             ],
             "People also search for": []
         },
+        "Merle Kodo Boyd": {
+            "label": "Merle Kodo Boyd",
+            "description": "Merle Kodo Boyd is the first ever African-American woman to have received Dharma transmission in Zen Buddhism, a Dharma heir of Wendy Egyoku Nakao in the White Plum Asanga. Wikipedia",
+            "type": "",
+            "People also search for": []
+        },
         "Nōnin": {
             "label": "Nōnin",
             "description": "Dainichibō Nōnin was a Japanese Buddhist monk who started the first Zen school in Japan. Wikipedia",
             "type": "",
-            "People also search for": []
-        },
-        "Nikken Abe": {
-            "label": "Nikken Abe",
-            "description": "Nikken Abe was the 67th high priest of Nichiren Shoshu, a major school of Nichiren Buddhism, and chief priest of its head temple Taisekiji in Fujinomiya, Shizuoka, Japan. Wikipedia",
-            "type": "",
-            "Born ": "December 19, 1922 (age 91)",
             "People also search for": []
         },
         "Omori Sogen": {
@@ -913,10 +912,11 @@
             ],
             "People also search for": []
         },
-        "Merle Kodo Boyd": {
-            "label": "Merle Kodo Boyd",
-            "description": "Merle Kodo Boyd is the first ever African-American woman to have received Dharma transmission in Zen Buddhism, a Dharma heir of Wendy Egyoku Nakao in the White Plum Asanga. Wikipedia",
+        "Nikken Abe": {
+            "label": "Nikken Abe",
+            "description": "Nikken Abe was the 67th high priest of Nichiren Shoshu, a major school of Nichiren Buddhism, and chief priest of its head temple Taisekiji in Fujinomiya, Shizuoka, Japan. Wikipedia",
             "type": "",
+            "Born ": "December 19, 1922 (age 91)",
             "People also search for": []
         },
         "Pino Puglisi": {
@@ -925,32 +925,6 @@
             "type": "",
             "Born ": "September 15, 1937, Palermo, Italy",
             "Died ": "September 15, 1993, Palermo, Italy",
-            "People also search for": []
-        },
-        "Sasaki Gensō": {
-            "label": "Sasaki Gensō",
-            "description": "Sasaki Gensō is a Japanese Rinzai Rōshi, a successor in the Tenryū-ji line of Rinzai Zen, a teacher of Jikishinkage-ryū swordsmanship, and a calligrapher. Wikipedia",
-            "type": "",
-            "Born ": [
-                "1947",
-                " Japan"
-            ],
-            "People also search for": []
-        },
-        "Tettsū Gikai": {
-            "label": "Tettsū Gikai",
-            "description": "Tettsū Gikai is considered the third spiritual leader of the Sōtō Zen school of Buddhism in Japan. He began his Buddhist life as a student of the Darumashū's Ekan, but later both became students of Eihei Dōgen's newly established Sōtō school. Wikipedia",
-            "type": "",
-            "Born ": "February 18, 1219",
-            "Died ": "October 18, 1309",
-            "People also search for": []
-        },
-        "Shōkū": {
-            "label": "Shōkū",
-            "description": "Shōkū, sometimes called Seizan was a disciple of Hōnen, founder of the Jōdo-shū Buddhist sect. Shōkū later succeeded another disciple of Hōnen, Jōhen as the head of a former Shingon Buddhist temple, ... Wikipedia",
-            "type": "",
-            "Born ": "November 30, 1177, Kyoto, Kyoto Prefecture, Japan",
-            "Died ": "December 24, 1247, Kyoto, Kyoto Prefecture, Japan",
             "People also search for": []
         },
         "Tamala Krishna Goswami": {
@@ -963,6 +937,32 @@
                 "Southern Methodist University",
                 " University of Cambridge"
             ],
+            "People also search for": []
+        },
+        "Sasaki Gensō": {
+            "label": "Sasaki Gensō",
+            "description": "Sasaki Gensō is a Japanese Rinzai Rōshi, a successor in the Tenryū-ji line of Rinzai Zen, a teacher of Jikishinkage-ryū swordsmanship, and a calligrapher. Wikipedia",
+            "type": "",
+            "Born ": [
+                "1947",
+                " Japan"
+            ],
+            "People also search for": []
+        },
+        "Shōkū": {
+            "label": "Shōkū",
+            "description": "Shōkū, sometimes called Seizan was a disciple of Hōnen, founder of the Jōdo-shū Buddhist sect. Shōkū later succeeded another disciple of Hōnen, Jōhen as the head of a former Shingon Buddhist temple, ... Wikipedia",
+            "type": "",
+            "Born ": "November 30, 1177, Kyoto, Kyoto Prefecture, Japan",
+            "Died ": "December 24, 1247, Kyoto, Kyoto Prefecture, Japan",
+            "People also search for": []
+        },
+        "Tettsū Gikai": {
+            "label": "Tettsū Gikai",
+            "description": "Tettsū Gikai is considered the third spiritual leader of the Sōtō Zen school of Buddhism in Japan. He began his Buddhist life as a student of the Darumashū's Ekan, but later both became students of Eihei Dōgen's newly established Sōtō school. Wikipedia",
+            "type": "",
+            "Born ": "February 18, 1219",
+            "Died ": "October 18, 1309",
             "People also search for": []
         },
         "William Bill": {
@@ -993,28 +993,26 @@
         "label": 92,
         "description": 92,
         "type": 92,
-        "Founded ": 1,
-        "Born ": 84,
-        "Education ": 19,
-        "Books": 6,
-        "People also search for": 75,
-        "Died ": 42,
-        "Children ": 3,
-        "Books ": 5,
-        "Parents ": 6,
-        "Movies ": 2,
-        "People also search for ": 4,
-        "TV shows ": 1,
-        "Nominations ": 1,
-        "Recent posts": 1,
-        "Spouse ": 1,
-        "Siblings ": 2,
-        "See results about": 1,
-        "Position ": 1
+        "born": 1,
+        "education": 1,
+        "books": 1,
+        "founded": 1,
+        "people_also_search_for": 1,
+        "died": 1,
+        "children": 1,
+        "parents": 1,
+        "movies": 1,
+        "tv_shows": 1,
+        "nominations": 1,
+        "recent_posts": 1,
+        "spouse": 1,
+        "siblings": 1,
+        "position": 1,
+        "see_results_about": 1
     },
     "infoboxless": [
-        "Aama Bombo",
         "A. Milton Musser",
+        "Aama Bombo",
         "Flordemayo",
         "Muhammad Madani Miya Ashrafi al-Jilani",
         "Grand Ayatollah Muhammad Hussain Najafi",

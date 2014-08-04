@@ -1,5 +1,10 @@
 {
     "instances": {
+        "CSU Sibiu": {
+            "label": "CSU Sibiu",
+            "description": "CSU Sibiu is a Romanian professional basketball club, based in Sibiu, Romania. The club competes in the Romanian Basketball Division A, winning the championship in 1995 and 1999. The home arena is Transilvania Hall, a 3000 seat arena in Sibiu. Wikipedia",
+            "type": ""
+        },
         "ČEZ Basketball Nymburk": {
             "label": "ČEZ Basketball Nymburk",
             "description": "ČEZ Basketball Nymburk is a professional basketball team that plays in the top professional Czech basketball league, the NBL. The team is based in the town of Nymburk. The club's main sponsor is ČEZ, a Czech energy company. Wikipedia",
@@ -10,11 +15,6 @@
             "Location ": [
                 "Czech Republic"
             ]
-        },
-        "CSU Sibiu": {
-            "label": "CSU Sibiu",
-            "description": "CSU Sibiu is a Romanian professional basketball club, based in Sibiu, Romania. The club competes in the Romanian Basketball Division A, winning the championship in 1995 and 1999. The home arena is Transilvania Hall, a 3000 seat arena in Sibiu. Wikipedia",
-            "type": ""
         },
         "EWE Baskets Oldenburg": {
             "label": "EWE Baskets Oldenburg",
@@ -30,65 +30,9 @@
                 "Germany"
             ]
         },
-        "CB L'Hospitalet": {
-            "label": "CB L'Hospitalet",
-            "description": "Club Bàsquet L'Hospitalet is a professional basketball team based in L'Hospitalet de Llobregat, Catalonia and plays in the Complex Esportiu L'Hospitalet Nord, in Liga EBA league. Wikipedia",
-            "type": ""
-        },
-        "CB Murcia": {
-            "label": "CB Murcia",
-            "description": "Club Baloncesto Murcia, S.A.D., also known as UCAM Murcia by sponsorship reasons, is a professional basketball team based in Murcia, Region of Murcia, Spain. The team plays in ACB. It plays their home games at Palacio de Deportes de Murcia. Wikipedia",
-            "type": "",
-            "Founded ": [
-                "1985"
-            ],
-            "Arena/Stadium ": [
-                "Palacio de Deportes de Murcia"
-            ],
-            "Location ": [
-                "Spain"
-            ]
-        },
-        "CB Granada": {
-            "label": "CB Granada",
-            "description": "Club Baloncesto Granada, S.A.D. was a professional basketball team based in Granada, Andalusia. The team was founded in 1994 and has had notable players during its history, as Curtis Borchardt, Darvin ... Wikipedia",
-            "type": "",
-            "Founded ": [
-                "1994"
-            ]
-        },
-        "BC Sakalai": {
-            "label": "BC Sakalai",
-            "description": "BC „Sakalai“ is a professional basketball club based in Vilnius, Lithuania playing in the Lithuanian Basketball League and the Baltic Basketball League. They play their home games at the 1,000-seat Ekinstos laisvalaikio centras. Wikipedia",
-            "type": "",
-            "Founded ": [
-                "1994"
-            ],
-            "Location ": [
-                "Vilnius"
-            ]
-        },
         "TBB Trier": {
             "label": "TBB Trier",
             "description": "TBB Trier is a professional basketball club based in Trier, Germany. The club plays in the German League. Their home arena is Trier Arena, which has a capacity of 5,495 people. Wikipedia",
-            "type": ""
-        },
-        "BC Lietkabelis": {
-            "label": "BC Lietkabelis",
-            "description": "BC „Lietkabelis“ is the major basketball club of Panevėžys, Lithuania participating in Lithuanian Basketball League and Baltic Basketball League. On 15 April 2011, BC „Techasas“ signed contract with Egidijus Dimša until the end of the season. Wikipedia",
-            "type": "",
-            "Arena/Stadium ": [
-                "Cido Arena"
-            ]
-        },
-        "Webmoebel Baskets": {
-            "label": "Webmoebel Baskets",
-            "description": "webmoebel Baskets is a basketball club based in Paderborn, Germany that plays in the Basketball Bundesliga. Wikipedia",
-            "type": ""
-        },
-        "Baloncesto León": {
-            "label": "Baloncesto León",
-            "description": "Club Baloncesto León was a basketball team, based in León, Spain. Wikipedia",
             "type": ""
         },
         "Élan Béarnais Pau-Orthez": {
@@ -103,6 +47,14 @@
             ],
             "Location ": [
                 "France"
+            ]
+        },
+        "BC Lietkabelis": {
+            "label": "BC Lietkabelis",
+            "description": "BC „Lietkabelis“ is the major basketball club of Panevėžys, Lithuania participating in Lithuanian Basketball League and Baltic Basketball League. On 15 April 2011, BC „Techasas“ signed contract with Egidijus Dimša until the end of the season. Wikipedia",
+            "type": "",
+            "Arena/Stadium ": [
+                "Cido Arena"
             ]
         },
         "BC Khimki": {
@@ -120,6 +72,118 @@
             ],
             "Mascot ": [
                 "BC Khimki Hedgehog"
+            ]
+        },
+        "Webmoebel Baskets": {
+            "label": "Webmoebel Baskets",
+            "description": "webmoebel Baskets is a basketball club based in Paderborn, Germany that plays in the Basketball Bundesliga. Wikipedia",
+            "type": ""
+        },
+        "BC Sakalai": {
+            "label": "BC Sakalai",
+            "description": "BC „Sakalai“ is a professional basketball club based in Vilnius, Lithuania playing in the Lithuanian Basketball League and the Baltic Basketball League. They play their home games at the 1,000-seat Ekinstos laisvalaikio centras. Wikipedia",
+            "type": "",
+            "Founded ": [
+                "1994"
+            ],
+            "Location ": [
+                "Vilnius"
+            ]
+        },
+        "CB Avenida": {
+            "label": "CB Avenida",
+            "description": "Perfumerías Avenida Baloncesto formerly C.B. Halcón Viajes, is a women's professional Basketball team based in Salamanca, Spain. The team currently plays in league Liga Femenina de Baloncesto. Wikipedia",
+            "type": "",
+            "Founded ": [
+                "1988"
+            ],
+            "Location ": [
+                "Spain"
+            ]
+        },
+        "Baloncesto León": {
+            "label": "Baloncesto León",
+            "description": "Club Baloncesto León was a basketball team, based in León, Spain. Wikipedia",
+            "type": ""
+        },
+        "CB Granada": {
+            "label": "CB Granada",
+            "description": "Club Baloncesto Granada, S.A.D. was a professional basketball team based in Granada, Andalusia. The team was founded in 1994 and has had notable players during its history, as Curtis Borchardt, Darvin ... Wikipedia",
+            "type": "",
+            "Founded ": [
+                "1994"
+            ]
+        },
+        "CB L'Hospitalet": {
+            "label": "CB L'Hospitalet",
+            "description": "Club Bàsquet L'Hospitalet is a professional basketball team based in L'Hospitalet de Llobregat, Catalonia and plays in the Complex Esportiu L'Hospitalet Nord, in Liga EBA league. Wikipedia",
+            "type": ""
+        },
+        "CB Sevilla": {
+            "label": "CB Sevilla",
+            "description": "Club Deportivo Baloncesto Sevilla, S.A.D. is a professional basketball team in the Asociación de Clubs de Baloncesto. It is based in Seville, Andalusia, and play their home games at the Palacio Municipal San Pablo. Wikipedia",
+            "type": "",
+            "Founded ": [
+                "1987"
+            ],
+            "Arena/Stadium ": [
+                "Palacio Municipal de Deportes San Pablo"
+            ],
+            "Locations ": [
+                "Spain",
+                " Seville"
+            ]
+        },
+        "CB Murcia": {
+            "label": "CB Murcia",
+            "description": "Club Baloncesto Murcia, S.A.D., also known as UCAM Murcia by sponsorship reasons, is a professional basketball team based in Murcia, Region of Murcia, Spain. The team plays in ACB. It plays their home games at Palacio de Deportes de Murcia. Wikipedia",
+            "type": "",
+            "Founded ": [
+                "1985"
+            ],
+            "Arena/Stadium ": [
+                "Palacio de Deportes de Murcia"
+            ],
+            "Location ": [
+                "Spain"
+            ]
+        },
+        "Fortitudo Pallacanestro Bologna": {
+            "label": "Fortitudo Pallacanestro Bologna",
+            "description": "Fortitudo Pallacanestro Bologna is a basketball club based in Bologna, Italy. Wikipedia",
+            "type": "",
+            "Founded ": [
+                "1932"
+            ],
+            "Location ": [
+                "Italy"
+            ],
+            "See results about": []
+        },
+        "CE Lleida Bàsquet": {
+            "label": "CE Lleida Bàsquet",
+            "description": "Club Esportiu Ciutat i Provincia de Lleida Basquetbol is a professional basketball team based in Lleida, Catalonia, Spain and plays in the Barris Nord, in LEB Oro league. Wikipedia",
+            "type": ""
+        },
+        "Harlem Globetrotters": {
+            "label": "Harlem Globetrotters",
+            "description": "The Harlem Globetrotters are an exhibition basketball team that combines athleticism, theater, and comedy. The executive offices for the team are located in downtown Phoenix, Arizona; the team is owned by Herschend Family Entertainment. Wikipedia",
+            "type": "",
+            "Recent posts": []
+        },
+        "KK Cibona": {
+            "label": "KK Cibona",
+            "description": "Košarkaški klub Cibona is a professional basketball club based in Zagreb, Croatia. It competes in the Croatian League and the Adriatic League. Wikipedia",
+            "type": "",
+            "Founded ": [
+                "1946"
+            ],
+            "Arena/Stadium ": [
+                "Dražen Petrović Basketball Hall"
+            ],
+            "Locations ": [
+                "Croatia",
+                " Zagreb"
             ]
         },
         "KK Partizan": {
@@ -140,19 +204,12 @@
                 " Serbia"
             ]
         },
-        "CB Sevilla": {
-            "label": "CB Sevilla",
-            "description": "Club Deportivo Baloncesto Sevilla, S.A.D. is a professional basketball team in the Asociación de Clubs de Baloncesto. It is based in Seville, Andalusia, and play their home games at the Palacio Municipal San Pablo. Wikipedia",
+        "KK Vojvodina": {
+            "label": "KK Vojvodina Srbijagas",
+            "description": "KK Vojvodina Srbijagas is a professional basketball club from Novi Sad, Serbia. The club currently participates in the Basketball League of Serbia. They play their home games in SPENS. Wikipedia",
             "type": "",
-            "Founded ": [
-                "1987"
-            ],
             "Arena/Stadium ": [
-                "Palacio Municipal de Deportes San Pablo"
-            ],
-            "Locations ": [
-                "Spain",
-                " Seville"
+                "SPC Vojvodina"
             ]
         },
         "Galatasaray Medical Park (men's basketball)": {
@@ -172,42 +229,6 @@
                 "Ergin Ataman"
             ]
         },
-        "CB Avenida": {
-            "label": "CB Avenida",
-            "description": "Perfumerías Avenida Baloncesto formerly C.B. Halcón Viajes, is a women's professional Basketball team based in Salamanca, Spain. The team currently plays in league Liga Femenina de Baloncesto. Wikipedia",
-            "type": "",
-            "Founded ": [
-                "1988"
-            ],
-            "Location ": [
-                "Spain"
-            ]
-        },
-        "KK Vojvodina": {
-            "label": "KK Vojvodina Srbijagas",
-            "description": "KK Vojvodina Srbijagas is a professional basketball club from Novi Sad, Serbia. The club currently participates in the Basketball League of Serbia. They play their home games in SPENS. Wikipedia",
-            "type": "",
-            "Arena/Stadium ": [
-                "SPC Vojvodina"
-            ]
-        },
-        "Fortitudo Pallacanestro Bologna": {
-            "label": "Fortitudo Pallacanestro Bologna",
-            "description": "Fortitudo Pallacanestro Bologna is a basketball club based in Bologna, Italy. Wikipedia",
-            "type": "",
-            "Founded ": [
-                "1932"
-            ],
-            "Location ": [
-                "Italy"
-            ],
-            "See results about": []
-        },
-        "CE Lleida Bàsquet": {
-            "label": "CE Lleida Bàsquet",
-            "description": "Club Esportiu Ciutat i Provincia de Lleida Basquetbol is a professional basketball team based in Lleida, Catalonia, Spain and plays in the Barris Nord, in LEB Oro league. Wikipedia",
-            "type": ""
-        },
         "KK Zagreb": {
             "label": "KK Zagreb",
             "description": "Košarkaški klub Zagreb is a professional basketball club based in Zagreb, Croatia. It competes in the Croatian League, the Adriatic League and in the 2011/12 season for the first time in the modern Euroleague. Wikipedia",
@@ -220,21 +241,6 @@
             ],
             "Location ": [
                 "Zagreb"
-            ]
-        },
-        "KK Cibona": {
-            "label": "KK Cibona",
-            "description": "Košarkaški klub Cibona is a professional basketball club based in Zagreb, Croatia. It competes in the Croatian League and the Adriatic League. Wikipedia",
-            "type": "",
-            "Founded ": [
-                "1946"
-            ],
-            "Arena/Stadium ": [
-                "Dražen Petrović Basketball Hall"
-            ],
-            "Locations ": [
-                "Croatia",
-                " Zagreb"
             ]
         },
         "Los Angeles Lakers": {
@@ -261,17 +267,6 @@
             ],
             "Roster": []
         },
-        "Harlem Globetrotters": {
-            "label": "Harlem Globetrotters",
-            "description": "The Harlem Globetrotters are an exhibition basketball team that combines athleticism, theater, and comedy. The executive offices for the team are located in downtown Phoenix, Arizona; the team is owned by Herschend Family Entertainment. Wikipedia",
-            "type": "",
-            "Recent posts": []
-        },
-        "Criollos de Caguas (basketball)": {
-            "label": "Criollos de Caguas",
-            "description": "The Criollos de Caguas were a BSN basketball team based in Caguas, Puerto Rico. Wikipedia",
-            "type": ""
-        },
         "PBC CSKA Moscow": {
             "label": "PBC CSKA Moscow",
             "description": "PBC CSKA Moscow is a Russian professional basketball team that is based in Moscow, Russia. The club is a member of the VTB United League and the Euroleague. Wikipedia",
@@ -287,31 +282,6 @@
                 " Megasport Arena"
             ]
         },
-        "Neptūnas (basketball club)": {
-            "label": "BC Neptūnas",
-            "description": "BC Neptūnas is the major basketball club of Klaipėda, Lithuania participating in Lithuanian Basketball League and Baltic Basketball League. BC Maistas basketball club was founded in 1962. In 1964, BC Maistas's name was changed to BC Neptūnas. Wikipedia",
-            "type": "",
-            "Founded ": [
-                "1964"
-            ]
-        },
-        "Hapoel Afula": {
-            "label": "Hapoel Afula F.C.",
-            "description": "Hapoel Afula is an Israeli football club based in Afula. The club will be playing in Liga Leumit in the 2013-14 season. Their main rivals are Hapoel Asi Gilboa. Wikipedia",
-            "type": "",
-            "League ": [
-                "Liga Leumit"
-            ]
-        },
-        "Ros Casares Valencia": {
-            "label": "Ros Casares Valencia",
-            "description": "Ros Casares Godella is a professional women's basketball team based in Godella, Spain. It played in the Liga Femenina de Baloncesto between 1996 and 2012, when it resigned to play in Euroleague and Spanish League. Wikipedia",
-            "type": "",
-            "Locations ": [
-                "Spain",
-                " Valencia"
-            ]
-        },
         "Tofaş S.K.": {
             "label": "Tofaş S.K.",
             "description": "Tofaş Spor Kulübü is a professional basketball team based in Bursa, Turkey. Their home arena is the Bursa Atatürk Sport Hall with a capacity of 3,500 seats. The team sponsored by Tofaş. It is a Turkish automaker. Wikipedia",
@@ -324,15 +294,45 @@
                 " Bursa"
             ]
         },
-        "Hapoel Eilat B.C.": {
-            "label": "Hapoel Eilat B.C.",
-            "description": "Hapoel Eilat is an Israeli basketball club. The team playing currently in the Ligat Loto.\nThe team represented the Far-South region of the country - the Arabah Area, and the city of Eilat. The team climbed to the First Division in season 1990/91. Wikipedia",
-            "type": ""
+        "Neptūnas (basketball club)": {
+            "label": "BC Neptūnas",
+            "description": "BC Neptūnas is the major basketball club of Klaipėda, Lithuania participating in Lithuanian Basketball League and Baltic Basketball League. BC Maistas basketball club was founded in 1962. In 1964, BC Maistas's name was changed to BC Neptūnas. Wikipedia",
+            "type": "",
+            "Founded ": [
+                "1964"
+            ]
         },
         "Lappeenrannan NMKY": {
             "label": "Lappeenrannan NMKY",
             "description": "Lappeenrannan NMKY is a basketball club based in a city of Lappeenranta, Finland. It was formed in 1951 and has won two Finnish Championships and two Finnish Cups. Wikipedia",
             "type": ""
+        },
+        "Ros Casares Valencia": {
+            "label": "Ros Casares Valencia",
+            "description": "Ros Casares Godella is a professional women's basketball team based in Godella, Spain. It played in the Liga Femenina de Baloncesto between 1996 and 2012, when it resigned to play in Euroleague and Spanish League. Wikipedia",
+            "type": "",
+            "Locations ": [
+                "Spain",
+                " Valencia"
+            ]
+        },
+        "Criollos de Caguas (basketball)": {
+            "label": "Criollos de Caguas",
+            "description": "The Criollos de Caguas were a BSN basketball team based in Caguas, Puerto Rico. Wikipedia",
+            "type": ""
+        },
+        "Hapoel Eilat B.C.": {
+            "label": "Hapoel Eilat B.C.",
+            "description": "Hapoel Eilat is an Israeli basketball club. The team playing currently in the Ligat Loto.\nThe team represented the Far-South region of the country - the Arabah Area, and the city of Eilat. The team climbed to the First Division in season 1990/91. Wikipedia",
+            "type": ""
+        },
+        "Hapoel Afula": {
+            "label": "Hapoel Afula F.C.",
+            "description": "Hapoel Afula is an Israeli football club based in Afula. The club will be playing in Liga Leumit in the 2013-14 season. Their main rivals are Hapoel Asi Gilboa. Wikipedia",
+            "type": "",
+            "League ": [
+                "Liga Leumit"
+            ]
         },
         "UNIQA Euroleasing Sopron": {
             "label": "UNIQA Euroleasing Sopron",
@@ -342,24 +342,23 @@
                 "Hungary"
             ]
         },
-        "Aris B.C.": {
-            "label": "Aris B.C.",
-            "description": "Aris Basketball Club is the professional basketball team of the Thessaloniki-based Greek sport club Aris Thessaloniki. Aris BC was founded in 1922, eight years after the founding of Aris Thessaloniki. Wikipedia",
-            "type": "",
-            "Founded ": [
-                "1922"
-            ],
-            "Locations ": [
-                "Thessaloniki",
-                " Greece"
-            ]
-        },
         "BC Nevėžis": {
             "label": "BC Nevėžis",
             "description": "BC Nevėžis is a professional Lithuania basketball club which currently plays in Lithuanian Basketball League and Baltic Basketball League. BC „Nevėžis“ was founded in 1992 by Stasys Mickevičius. Wikipedia",
             "type": "",
             "Founded ": [
                 "1992"
+            ]
+        },
+        "BC Astana": {
+            "label": "BC Astana",
+            "description": "Basketball Club Astana is a Kazakhstani professional basketball club that is based in the capital of Kazakhstan, Astana. The team competes in the National Basketball League and VTB United League since 2011. Wikipedia",
+            "type": "",
+            "Founded ": [
+                "2011"
+            ],
+            "Location ": [
+                "Astana"
             ]
         },
         "Asseco Prokom Gdynia": {
@@ -381,27 +380,6 @@
                 " Poland"
             ]
         },
-        "BC Astana": {
-            "label": "BC Astana",
-            "description": "Basketball Club Astana is a Kazakhstani professional basketball club that is based in the capital of Kazakhstan, Astana. The team competes in the National Basketball League and VTB United League since 2011. Wikipedia",
-            "type": "",
-            "Founded ": [
-                "2011"
-            ],
-            "Location ": [
-                "Astana"
-            ]
-        },
-        "Birmingham Bullets": {
-            "label": "Birmingham Bullets",
-            "description": "The Birmingham Bullets were a basketball team from Birmingham, who competed in the British Basketball League. Wikipedia",
-            "type": ""
-        },
-        "BC Krasnye Krylia": {
-            "label": "BC Krasnye Krylia",
-            "description": "BC Krasnye Krylya Samara Region is a Russian professional basketball club from the city of Samara, Russia. The team played in the 2009-10 Russian Super League as a replacement for bankrupt CSK VVS, that is also from Samara. Wikipedia",
-            "type": ""
-        },
         "BC Donetsk": {
             "label": "BC Donetsk",
             "description": "BC Donetsk is a Ukrainian professional basketball club, based in Donetsk. The team plays in the Ukrainian SuperLeague. The mascot of the team is a tiger, and this also appears on their team logo; and \"The Tigers\" is also the team nickname. Wikipedia",
@@ -412,6 +390,11 @@
             "Location ": [
                 "Donetsk"
             ]
+        },
+        "BC Krasnye Krylia": {
+            "label": "BC Krasnye Krylia",
+            "description": "BC Krasnye Krylya Samara Region is a Russian professional basketball club from the city of Samara, Russia. The team played in the 2009-10 Russian Super League as a replacement for bankrupt CSK VVS, that is also from Samara. Wikipedia",
+            "type": ""
         },
         "FC Bayern Munich (basketball)": {
             "label": "FC Bayern Munich",
@@ -430,6 +413,16 @@
                 "Munich",
                 " Germany"
             ]
+        },
+        "KD Slovan": {
+            "label": "KD Slovan",
+            "description": "Košarkarsko društvo Slovan, commonly referred to as KD Slovan or simply Slovan, is a professional basketball team from Ljubljana, Slovenia. Wikipedia",
+            "type": ""
+        },
+        "Birmingham Bullets": {
+            "label": "Birmingham Bullets",
+            "description": "The Birmingham Bullets were a basketball team from Birmingham, who competed in the British Basketball League. Wikipedia",
+            "type": ""
         },
         "KK Cedevita": {
             "label": "KK Cedevita",
@@ -453,31 +446,26 @@
                 " Zagreb"
             ]
         },
-        "KD Slovan": {
-            "label": "KD Slovan",
-            "description": "Košarkarsko društvo Slovan, commonly referred to as KD Slovan or simply Slovan, is a professional basketball team from Ljubljana, Slovenia. Wikipedia",
-            "type": ""
-        },
-        "Manila Metrostars": {
-            "label": "Manila Metrostars",
-            "description": "The Manila Metrostars was a professional basketball team in the now-defunct Metropolitan Basketball Association from 1998 to 2001. Wikipedia",
-            "type": ""
-        },
-        "Panionios B.C.": {
-            "label": "Panionios B.C.",
-            "description": "Panionios B.C. is the Greek professional basketball club that plays its home games in Nea Smyrni, Athens, Greece. Wikipedia",
+        "Aris B.C.": {
+            "label": "Aris B.C.",
+            "description": "Aris Basketball Club is the professional basketball team of the Thessaloniki-based Greek sport club Aris Thessaloniki. Aris BC was founded in 1922, eight years after the founding of Aris Thessaloniki. Wikipedia",
             "type": "",
             "Founded ": [
-                "1919"
+                "1922"
             ],
             "Locations ": [
-                "Greece",
-                " Nea Smyrni"
+                "Thessaloniki",
+                " Greece"
             ]
         },
         "Peristeri B.C.": {
             "label": "Peristeri B.C.",
             "description": "Peristeri B.C., is a Greek professional basketball club that was founded on October 22, 1971. The club is located in Peristeri, Greece, which is a suburban municipality of the city of Athens. The team competes in the Greek League. Wikipedia",
+            "type": ""
+        },
+        "Manila Metrostars": {
+            "label": "Manila Metrostars",
+            "description": "The Manila Metrostars was a professional basketball team in the now-defunct Metropolitan Basketball Association from 1998 to 2001. Wikipedia",
             "type": ""
         },
         "Plymouth Raiders": {
@@ -487,52 +475,6 @@
             "Arena/Stadium ": [
                 "Plymouth Pavilions"
             ]
-        },
-        "Sporting Al Riyadi Beirut": {
-            "label": "Sporting Al Riyadi Beirut",
-            "description": "ALRIYADI CLUB, also known as Riyadi Club and Sporting Club is a Lebanese Basketball club based in Raouché, Beirut where both men's and women's tournaments are held every year. Wikipedia",
-            "type": ""
-        },
-        "Spirou Charleroi": {
-            "label": "Spirou Charleroi",
-            "description": "Belgacom Spirou Charleroi, also known as Spirou Basket Club and currently sponsored as Belgacom Spirou, is a Belgian professional basketball club that is located in Charleroi, Belgium. The club competes in the top Belgian League. Wikipedia",
-            "type": "",
-            "Founded ": [
-                "1989"
-            ],
-            "Arena/Stadium ": [
-                "Spiroudome"
-            ],
-            "Location ": [
-                "Belgium"
-            ]
-        },
-        "SLUC Nancy Basket": {
-            "label": "SLUC Nancy Basket",
-            "description": "Stade Lorrain Université Club Nancy Basket, commonly referred to as SLUC Nancy Basket, is a French professional basketball club based in Nancy. They currently participates in the LNB Pro A. Wikipedia",
-            "type": "",
-            "Founded ": [
-                "1967"
-            ],
-            "Arena/Stadium ": [
-                "Palais des Sports Jean Weille"
-            ]
-        },
-        "Victoria Libertas Pesaro": {
-            "label": "Victoria Libertas Pesaro",
-            "description": "Victoria Libertas, full name Unione Sportiva Victoria Libertas Pallacanestro, is a professional basketball team that is based in Pesaro, Italy. Wikipedia",
-            "type": "",
-            "Founded ": [
-                "1946"
-            ],
-            "Location ": [
-                "Italy"
-            ]
-        },
-        "Rethymno Aegean B.C.": {
-            "label": "Rethymno Aegean B.C.",
-            "description": "Rethymno Aegean B.C. or A.G.O.R., is a Greek professional basketball club that was founded in Rethymno, Crete in 1986. The club is also commonly known as Rethymno B.C. The parent athletic club was founded in 1965. Wikipedia",
-            "type": ""
         },
         "Ratiopharm Ulm": {
             "label": "ratiopharm Ulm",
@@ -554,9 +496,62 @@
                 "Basketball Bundesliga"
             ]
         },
-        "Leones de Ponce (basketball)": {
-            "label": "Leones de Ponce",
-            "description": "The Leones de Ponce are a BSN basketball team based in Ponce, Puerto Rico. The Lions are one of the BSN's most successful franchises, having won a total of twelve championships. Wikipedia",
+        "Rethymno Aegean B.C.": {
+            "label": "Rethymno Aegean B.C.",
+            "description": "Rethymno Aegean B.C. or A.G.O.R., is a Greek professional basketball club that was founded in Rethymno, Crete in 1986. The club is also commonly known as Rethymno B.C. The parent athletic club was founded in 1965. Wikipedia",
+            "type": ""
+        },
+        "SLUC Nancy Basket": {
+            "label": "SLUC Nancy Basket",
+            "description": "Stade Lorrain Université Club Nancy Basket, commonly referred to as SLUC Nancy Basket, is a French professional basketball club based in Nancy. They currently participates in the LNB Pro A. Wikipedia",
+            "type": "",
+            "Founded ": [
+                "1967"
+            ],
+            "Arena/Stadium ": [
+                "Palais des Sports Jean Weille"
+            ]
+        },
+        "Panionios B.C.": {
+            "label": "Panionios B.C.",
+            "description": "Panionios B.C. is the Greek professional basketball club that plays its home games in Nea Smyrni, Athens, Greece. Wikipedia",
+            "type": "",
+            "Founded ": [
+                "1919"
+            ],
+            "Locations ": [
+                "Greece",
+                " Nea Smyrni"
+            ]
+        },
+        "Spirou Charleroi": {
+            "label": "Spirou Charleroi",
+            "description": "Belgacom Spirou Charleroi, also known as Spirou Basket Club and currently sponsored as Belgacom Spirou, is a Belgian professional basketball club that is located in Charleroi, Belgium. The club competes in the top Belgian League. Wikipedia",
+            "type": "",
+            "Founded ": [
+                "1989"
+            ],
+            "Arena/Stadium ": [
+                "Spiroudome"
+            ],
+            "Location ": [
+                "Belgium"
+            ]
+        },
+        "Victoria Libertas Pesaro": {
+            "label": "Victoria Libertas Pesaro",
+            "description": "Victoria Libertas, full name Unione Sportiva Victoria Libertas Pallacanestro, is a professional basketball team that is based in Pesaro, Italy. Wikipedia",
+            "type": "",
+            "Founded ": [
+                "1946"
+            ],
+            "Location ": [
+                "Italy"
+            ]
+        },
+        "Sporting Al Riyadi Beirut": {
+            "label": "Sporting Al Riyadi Beirut",
+            "description": "ALRIYADI CLUB, also known as Riyadi Club and Sporting Club is a Lebanese Basketball club based in Raouché, Beirut where both men's and women's tournaments are held every year. Wikipedia",
             "type": ""
         },
         "Strasbourg IG": {
@@ -577,21 +572,25 @@
                 " Strasbourg"
             ]
         },
+        "AZS Koszalin": {
+            "label": "AZS Koszalin",
+            "description": "AZS Koszalin is a Polish basketball team, based in Koszalin, playing in the Polska Liga Koszykówki, the Polish Basketball League. Wikipedia",
+            "type": ""
+        },
         "Basket Rimini Crabs": {
             "label": "Basket Rimini Crabs",
             "description": "The Basket Rimini Crabs are an Italian basketball team from the city of Rimini.\nBasket Rimini was established in 1947 as Polisportiva Libertas. In 1978-79 season, it played for the first time in a professional league. Wikipedia",
             "type": ""
         },
-        "Cholet Basket": {
-            "label": "Cholet Basket",
-            "description": "Cholet Basket is a professional basketball club that is based in Cholet, France. The club plays in the French League. Their home arena is La Meilleraie. Wikipedia",
+        "Capitanes de Arecibo": {
+            "label": "Capitanes de Arecibo",
+            "description": "The Capitanes de Arecibo are a team in the Baloncesto Superior Nacional, Puerto Rico's main basketball league. In 2010, the team also played in the Premier Basketball League under the name Capitanes de Puerto Rico. Wikipedia",
             "type": "",
-            "Founded ": "June 18, 1975",
-            "Arena/Stadium ": [
-                "La Meilleraie"
+            "Founded ": [
+                "1946"
             ],
             "Location ": [
-                "France"
+                "Puerto Rico"
             ]
         },
         "Changwon LG Sakers": {
@@ -608,31 +607,95 @@
                 "Korean Basketball League"
             ]
         },
-        "Capitanes de Arecibo": {
-            "label": "Capitanes de Arecibo",
-            "description": "The Capitanes de Arecibo are a team in the Baloncesto Superior Nacional, Puerto Rico's main basketball league. In 2010, the team also played in the Premier Basketball League under the name Capitanes de Puerto Rico. Wikipedia",
+        "Cholet Basket": {
+            "label": "Cholet Basket",
+            "description": "Cholet Basket is a professional basketball club that is based in Cholet, France. The club plays in the French League. Their home arena is La Meilleraie. Wikipedia",
             "type": "",
-            "Founded ": [
-                "1946"
+            "Founded ": "June 18, 1975",
+            "Arena/Stadium ": [
+                "La Meilleraie"
             ],
             "Location ": [
-                "Puerto Rico"
+                "France"
             ]
+        },
+        "Leones de Ponce (basketball)": {
+            "label": "Leones de Ponce",
+            "description": "The Leones de Ponce are a BSN basketball team based in Ponce, Puerto Rico. The Lions are one of the BSN's most successful franchises, having won a total of twelve championships. Wikipedia",
+            "type": ""
         },
         "Czarni Słupsk": {
             "label": "Czarni Słupsk",
             "description": "Czarni Słupsk is a Polish basketball team, based in Słupsk, playing in Tauron Basket Liga. Their home arena is Hala Gryfia. Wikipedia",
             "type": ""
         },
-        "AZS Koszalin": {
-            "label": "AZS Koszalin",
-            "description": "AZS Koszalin is a Polish basketball team, based in Koszalin, playing in the Polska Liga Koszykówki, the Polish Basketball League. Wikipedia",
-            "type": ""
-        },
         "Estudiantes de Bahía Blanca": {
             "label": "Estudiantes de Bahía Blanca",
             "description": "Club Estudiantes de Bahía Blanca, known as Weber Bahía Estudiantes for sponsorship reasons, is a sports club based in Bahía Blanca, Buenos Aires Province, Argentina. Wikipedia",
             "type": ""
+        },
+        "Flamengo Basketball": {
+            "label": "Flamengo Basketball",
+            "description": "Flamengo's Basketball team is a Brazilian professional team, part of the Clube de Regatas do Flamengo family. Wikipedia",
+            "type": "",
+            "See results about": []
+        },
+        "Maccabi Ashdod B.C.": {
+            "label": "Maccabi Ashdod B.C.",
+            "description": "Maccabi Ashdod is a professional basketball team based in the port city of Ashdod. It is the basketball division of the Maccabi Ashdod sports club. Wikipedia",
+            "type": "",
+            "Founded ": [
+                "1961"
+            ],
+            "Location ": [
+                "Israel"
+            ]
+        },
+        "Quilmes de Mar del Plata": {
+            "label": "Quilmes de Mar del Plata",
+            "description": "Club Atlético Quilmes is a sports club based in Mar del Plata, Buenos Aires Province, Argentina. The club is mostly known for its basketball team, which currently plays in the Torneo Nacional de Ascenso. Wikipedia",
+            "type": ""
+        },
+        "Solna Vikings": {
+            "label": "Solna Vikings",
+            "description": "Solna Vikings is a Swedish basketball team that currently plays in the highest Swedish division, Obol Basketball League. Solna Vikings was founded on 27 April 1999, when Solna IF announced that it would not continue playing. Wikipedia",
+            "type": "",
+            "Location ": [
+                "Solna"
+            ]
+        },
+        "Spartak Primorye": {
+            "label": "Spartak Primorye",
+            "description": "BC Spartak Primorye is a Russian professional basketball club based in Vladivostok, Russia. It currently plays in the Russian Professional Basketball League. Wikipedia",
+            "type": "",
+            "Founded ": [
+                "1999"
+            ],
+            "Location ": [
+                "Vladivostok"
+            ]
+        },
+        "Turów Zgorzelec": {
+            "label": "Turów Zgorzelec",
+            "description": "PGE Turów Zgorzelec is a Polish professional basketball team that is based in Zgorzelec. The club plays in the Polska Liga Koszykówki and the Eurocup. The club's home court is Centrum Sportowe. Wikipedia",
+            "type": "",
+            "Founded ": [
+                "1948"
+            ],
+            "Location ": [
+                "Poland"
+            ]
+        },
+        "BC Šiauliai": {
+            "label": "BC Šiauliai",
+            "description": "BC Šiauliai, also known as Šiaulių Šiauliai, is the professional basketball club of Šiauliai, Lithuania. The club competes in the Lithuanian Basketball League and Baltic Basketball League . It has won the 3rd place award in the LKL a record 9 times. Wikipedia",
+            "type": "",
+            "Founded ": [
+                "1994"
+            ],
+            "Arena/Stadium ": [
+                "Šiauliai Arena"
+            ]
         },
         "Brose Baskets": {
             "label": "Brose Baskets",
@@ -655,44 +718,6 @@
                 " Germany"
             ]
         },
-        "Quilmes de Mar del Plata": {
-            "label": "Quilmes de Mar del Plata",
-            "description": "Club Atlético Quilmes is a sports club based in Mar del Plata, Buenos Aires Province, Argentina. The club is mostly known for its basketball team, which currently plays in the Torneo Nacional de Ascenso. Wikipedia",
-            "type": ""
-        },
-        "Turów Zgorzelec": {
-            "label": "Turów Zgorzelec",
-            "description": "PGE Turów Zgorzelec is a Polish professional basketball team that is based in Zgorzelec. The club plays in the Polska Liga Koszykówki and the Eurocup. The club's home court is Centrum Sportowe. Wikipedia",
-            "type": "",
-            "Founded ": [
-                "1948"
-            ],
-            "Location ": [
-                "Poland"
-            ]
-        },
-        "Landstede Basketbal": {
-            "label": "Landstede Basketbal",
-            "description": "Landstede Basketbal is a Dutch basketball organisation from Zwolle which plays in the Dutch Basketball League, the Dutch first division. The club was founded as Cees Lubbers The Hammers in 1995. Wikipedia",
-            "type": ""
-        },
-        "Maccabi Ashdod B.C.": {
-            "label": "Maccabi Ashdod B.C.",
-            "description": "Maccabi Ashdod is a professional basketball team based in the port city of Ashdod. It is the basketball division of the Maccabi Ashdod sports club. Wikipedia",
-            "type": "",
-            "Founded ": [
-                "1961"
-            ],
-            "Location ": [
-                "Israel"
-            ]
-        },
-        "Flamengo Basketball": {
-            "label": "Flamengo Basketball",
-            "description": "Flamengo's Basketball team is a Brazilian professional team, part of the Clube de Regatas do Flamengo family. Wikipedia",
-            "type": "",
-            "See results about": []
-        },
         "Applied Science University (basketball team)": {
             "label": "Applied Science University",
             "description": "Applied Science University is a Jordanian professional basketball club based in Amman, Jordan. They compete in the Jordanian Premier Basketball League as of 2009. In 2009, they finished 2–4 to earn third place in the federation. Wikipedia",
@@ -701,85 +726,60 @@
                 "Amman"
             ]
         },
-        "Solna Vikings": {
-            "label": "Solna Vikings",
-            "description": "Solna Vikings is a Swedish basketball team that currently plays in the highest Swedish division, Obol Basketball League. Solna Vikings was founded on 27 April 1999, when Solna IF announced that it would not continue playing. Wikipedia",
-            "type": "",
-            "Location ": [
-                "Solna"
-            ]
-        },
-        "BC Šiauliai": {
-            "label": "BC Šiauliai",
-            "description": "BC Šiauliai, also known as Šiaulių Šiauliai, is the professional basketball club of Šiauliai, Lithuania. The club competes in the Lithuanian Basketball League and Baltic Basketball League . It has won the 3rd place award in the LKL a record 9 times. Wikipedia",
-            "type": "",
-            "Founded ": [
-                "1994"
-            ],
-            "Arena/Stadium ": [
-                "Šiauliai Arena"
-            ]
-        },
-        "Spartak Primorye": {
-            "label": "Spartak Primorye",
-            "description": "BC Spartak Primorye is a Russian professional basketball club based in Vladivostok, Russia. It currently plays in the Russian Professional Basketball League. Wikipedia",
-            "type": "",
-            "Founded ": [
-                "1999"
-            ],
-            "Location ": [
-                "Vladivostok"
-            ]
+        "Landstede Basketbal": {
+            "label": "Landstede Basketbal",
+            "description": "Landstede Basketbal is a Dutch basketball organisation from Zwolle which plays in the Dutch Basketball League, the Dutch first division. The club was founded as Cees Lubbers The Hammers in 1995. Wikipedia",
+            "type": ""
         }
     },
     "summary": {
         "label": 72,
         "description": 72,
         "type": 72,
-        "Founded ": 36,
-        "Location ": 26,
-        "Arena/Stadium ": 21,
-        "Head coach ": 11,
-        "Mascot ": 3,
-        "Locations ": 12,
-        "See results about": 2,
-        "Division ": 2,
-        "NBA championships ": 1,
-        "Nicknames ": 1,
-        "Roster": 1,
-        "Recent posts": 1,
-        "Arenas/Stadiums ": 3,
-        "League ": 1,
-        "Conference ": 1
+        "founded": 1,
+        "location": 1,
+        "arena/stadium": 1,
+        "head_coach": 1,
+        "mascot": 1,
+        "locations": 1,
+        "see_results_about": 1,
+        "recent_posts": 1,
+        "division": 1,
+        "nba_championships": 1,
+        "nicknames": 1,
+        "roster": 1,
+        "arenas/stadiums": 1,
+        "league": 1,
+        "conference": 1
     },
     "infoboxless": [
         "BC Andorra",
-        "BC Žalgiris",
         "CB Zaragoza",
+        "CSK VVS Samara",
+        "BC Žalgiris",
         "Kauhajoen Karhu",
+        "Shropshire Warriors",
         "BBL Birmingham",
         "BC Radviliškis",
-        "Shropshire Warriors",
         "Brunei Barracudas",
-        "Al-Hilal (basketball)",
         "KK Kvarner 2010",
+        "Al-Hilal (basketball)",
         "BBV Hagen",
         "BC Enisey",
-        "Al-Ansar (Saudi Arabia, basketball)",
+        "London Towers",
         "PBC CSKA Sofia",
-        "Ararat Tehran BC",
         "Satria Muda BritAma Jakarta",
+        "LMT",
+        "Al-Ansar (Saudi Arabia, basketball)",
+        "Ararat Tehran BC",
         "Juventus (basketball club)",
         "K.A.O.D. B.C.",
-        "CSU Brașov",
-        "Durham Wildcats",
         "San Miguel Beermen (ABL)",
-        "Aisin Seahorses",
+        "CSU Brașov",
         "AEK Larnaca B.C.",
-        "KK Mladost Omoljica",
+        "Aisin Seahorses",
+        "Durham Wildcats",
         "Essex Pirates",
-        "CSK VVS Samara",
-        "LMT",
-        "London Towers"
+        "KK Mladost Omoljica"
     ]
 }

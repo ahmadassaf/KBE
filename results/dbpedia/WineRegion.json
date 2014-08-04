@@ -1,16 +1,16 @@
 {
     "instances": {
-        "Côtes du Rhône AOC": {
-            "label": "Côtes du Rhône AOC",
-            "description": "Côtes du Rhône is a wine-growing Appellation d'Origine Contrôlée for the Rhône wine region of France, which may be used throughout the region, also in those areas which are covered by other AOCs. Wikipedia",
-            "type": "Appellation",
-            "People also search for": []
-        },
         "Burgundy wine": {
             "label": "Burgundy wine",
             "description": "Burgundy wine is wine made in the Burgundy region in eastern France, in the valleys and slopes west of the Saône River, a tributary of the Rhône. Wikipedia",
             "type": "Red Wine",
             "Nutrition Facts": []
+        },
+        "Côtes du Rhône AOC": {
+            "label": "Côtes du Rhône AOC",
+            "description": "Côtes du Rhône is a wine-growing Appellation d'Origine Contrôlée for the Rhône wine region of France, which may be used throughout the region, also in those areas which are covered by other AOCs. Wikipedia",
+            "type": "Appellation",
+            "People also search for": []
         },
         "Crozes-Hermitage AOC": {
             "label": "Crozes-Hermitage AOC",
@@ -22,14 +22,14 @@
             "description": "Palatinate is a German wine-growing region in the area of Bad Dürkheim, Neustadt an der Weinstraße, and Landau in Rhineland-Palatinate. Before 1993, it was known as Rhine Palatinate. Wikipedia",
             "type": "Wine region"
         },
-        "Eastern Townships": {
-            "label": "Eastern Townships",
-            "description": "The Eastern Townships is a tourist region and a former administrative region in southeastern Quebec situated between the former seigneuries south of the Saint Lawrence River and the United States border. Wikipedia",
-            "type": ""
-        },
         "Côte Chalonnaise": {
             "label": "Côte Chalonnaise",
             "description": "Côte Chalonnaise is a subregion of the Burgundy wine region of France. Côte Chalonnaise lies to the south of the Côte d'Or continuing the same geology southward. Wikipedia",
+            "type": ""
+        },
+        "Eastern Townships": {
+            "label": "Eastern Townships",
+            "description": "The Eastern Townships is a tourist region and a former administrative region in southeastern Quebec situated between the former seigneuries south of the Saint Lawrence River and the United States border. Wikipedia",
             "type": ""
         },
         "Alta Mesa AVA": {
@@ -42,30 +42,25 @@
             "description": "The Altus AVA is an American Viticultural Area located in northwest Arkansas near the town of Altus in Franklin County. Wikipedia",
             "type": ""
         },
-        "Bergerac wine": {
-            "label": "Bergerac wine-growing region",
-            "description": "The Bergerac wine-growing region is a subregion of South West France, is located around the town of Bergerac in the Dordogne department, and comprises 93 communes. Wikipedia",
-            "type": ""
-        },
         "Applegate Valley AVA": {
             "label": "Applegate Valley AVA",
             "description": "The Applegate Valley AVA is an American Viticultural Area located in southern Oregon. It is entirely contained within the Rogue Valley AVA, which is itself included within the larger Southern Oregon AVA. Wikipedia",
             "type": ""
         },
-        "Borden Ranch AVA": {
-            "label": "Borden Ranch AVA",
-            "description": "The Borden Ranch AVA is an American Viticultural Area located in both Sacramento County and San Joaquin County, California. It is part of the larger Lodi AVA. Wikipedia",
+        "Bergerac wine": {
+            "label": "Bergerac wine-growing region",
+            "description": "The Bergerac wine-growing region is a subregion of South West France, is located around the town of Bergerac in the Dordogne department, and comprises 93 communes. Wikipedia",
             "type": ""
-        },
-        "Chalone AVA": {
-            "label": "Chalone",
-            "description": "The Chalone AVA is an American Viticultural Area in the Monterey and San Benito counties of California, located in the Gabilan Mountains east of Soledad. The 8,640 acres region is named for the nearby Chalone peaks. Wikipedia",
-            "type": "Appellation"
         },
         "Central Coast AVA": {
             "label": "Central Coast AVA",
             "description": "The Central Coast AVA is a large American Viticultural Area that spans from Santa Barbara County in the south to the San Francisco Bay Area in the north. The boundaries of the Central Coast include portions of six counties. Wikipedia",
             "type": "Appellation"
+        },
+        "Borden Ranch AVA": {
+            "label": "Borden Ranch AVA",
+            "description": "The Borden Ranch AVA is an American Viticultural Area located in both Sacramento County and San Joaquin County, California. It is part of the larger Lodi AVA. Wikipedia",
+            "type": ""
         },
         "Chalk Hill AVA": {
             "label": "Chalk Hill",
@@ -83,15 +78,10 @@
             "description": "Condrieu is a French wine-growing Appellation d'Origine Contrôlée located in the northern Rhône wine, near Vienne and to the south of the Côte-Rôtie AOC. Wikipedia",
             "type": "Appellation"
         },
-        "Eola-Amity Hills AVA": {
-            "label": "Eola-Amity Hills AVA",
-            "description": "The Eola-Amity Hills AVA is an American Viticultural Area located in Polk County and Yamhill County, Oregon. It is entirely contained within the Willamette Valley AVA, and stretches from the city of Amity in the north to Salem in the south. Wikipedia",
-            "type": ""
-        },
-        "Dunnigan Hills AVA": {
-            "label": "Dunnigan Hills AVA",
-            "description": "The Dunnigan Hills AVA is an American Viticultural Area located in the Dunnigan Hills, in Yolo County, California. Wikipedia",
-            "type": ""
+        "Covelo AVA": {
+            "label": "Covelo AVA",
+            "description": "The Covelo AVA is an American Viticultural Area located in northern Mendocino County, California. Although the region only has 2 acres under vine, it was granted AVA status by the United States Department ... Wikipedia",
+            "type": "Appellation"
         },
         "Cornas AOC": {
             "label": "Cornas AOC",
@@ -103,15 +93,20 @@
             "description": "The Edna Valley AVA is an American Viticultural Area located in San Luis Obispo County, California south of the city of San Luis Obispo and north of the town of Arroyo Grande. It is part of the larger Central Coast AVA. Wikipedia",
             "type": ""
         },
-        "Covelo AVA": {
-            "label": "Covelo AVA",
-            "description": "The Covelo AVA is an American Viticultural Area located in northern Mendocino County, California. Although the region only has 2 acres under vine, it was granted AVA status by the United States Department ... Wikipedia",
-            "type": "Appellation"
-        },
         "Fennville AVA": {
             "label": "Fennville AVA",
             "description": "The Fennville AVA is an American Viticultural Area located in Allegan County, Michigan. Entirely contained within the larger Lake Michigan Shore AVA, the Fennville AVA borders Lake Michigan on the west, ... Wikipedia",
             "type": ""
+        },
+        "Eola-Amity Hills AVA": {
+            "label": "Eola-Amity Hills AVA",
+            "description": "The Eola-Amity Hills AVA is an American Viticultural Area located in Polk County and Yamhill County, Oregon. It is entirely contained within the Willamette Valley AVA, and stretches from the city of Amity in the north to Salem in the south. Wikipedia",
+            "type": ""
+        },
+        "Chalone AVA": {
+            "label": "Chalone",
+            "description": "The Chalone AVA is an American Viticultural Area in the Monterey and San Benito counties of California, located in the Gabilan Mountains east of Soledad. The 8,640 acres region is named for the nearby Chalone peaks. Wikipedia",
+            "type": "Appellation"
         },
         "Fredericksburg in the Texas Hill Country AVA": {
             "label": "Fredericksburg in the Texas Hill Country AVA",
@@ -123,14 +118,14 @@
             "description": "The Hudson River Region AVA is an American Viticultural Area around the Hudson River in eastern New York. The region is home to the oldest continuously operating winery in North America, the Brotherhood Winery, established in 1839. Wikipedia",
             "type": ""
         },
-        "Lirac AOC": {
-            "label": "Lirac AOC",
-            "description": "Lirac is a wine-growing Appellation d'Origine Contrôlée in the department of Gard situated in the low hills along the right bank of the Rhône river in the southern Rhône wine region of France. It is named after the village of Lirac. Wikipedia",
-            "type": "Appellation"
-        },
         "High Valley AVA": {
             "label": "High Valley AVA",
             "description": "High Valley AVA is an American Viticultural Area located in the eastern part of Lake County, California. Wikipedia",
+            "type": "Appellation"
+        },
+        "Jahant AVA": {
+            "label": "Jahant AVA",
+            "description": "The Jahant AVA is an American Viticultural Area located within the Lodi AVA. Most of the AVA is located within San Joaquin County, California, with a small part in Sacramento County. Wikipedia",
             "type": "Appellation"
         },
         "Long Island AVA": {
@@ -139,25 +134,19 @@
             "type": "",
             "See results about": []
         },
-        "Mâconnais": {
-            "label": "Mâconnais",
-            "description": "The Mâconnais district is located in the south of the Burgundy wine region in France, west of the Saône river. It takes its name from the town of Mâcon. Wikipedia",
-            "type": "",
-            "See results about": []
+        "Lirac AOC": {
+            "label": "Lirac AOC",
+            "description": "Lirac is a wine-growing Appellation d'Origine Contrôlée in the department of Gard situated in the low hills along the right bank of the Rhône river in the southern Rhône wine region of France. It is named after the village of Lirac. Wikipedia",
+            "type": "Appellation"
         },
         "Madera AVA": {
             "label": "Madera AVA",
             "description": "The Madera AVA is an American Viticultural Area located in both Fresno County and Madera County, in central California. Wikipedia",
             "type": ""
         },
-        "Jahant AVA": {
-            "label": "Jahant AVA",
-            "description": "The Jahant AVA is an American Viticultural Area located within the Lodi AVA. Most of the AVA is located within San Joaquin County, California, with a small part in Sacramento County. Wikipedia",
-            "type": "Appellation"
-        },
-        "Missouri wine": {
-            "label": "Missouri wine",
-            "description": "Missouri Wine refers to wine made from grapes grown in the U.S. state of Missouri. German immigrants in the early-to-mid-19th century, founded the wine industry in Missouri, resulting in its wine corridor being called the Missouri \"Rhineland\". Wikipedia",
+        "Mâconnais": {
+            "label": "Mâconnais",
+            "description": "The Mâconnais district is located in the south of the Burgundy wine region in France, west of the Saône river. It takes its name from the town of Mâcon. Wikipedia",
             "type": "",
             "See results about": []
         },
@@ -165,6 +154,12 @@
             "label": "Martha's Vineyard AVA",
             "description": "The Martha's Vineyard AVA is an American Viticultural Area located in Dukes County, Massachusetts, including all of the land on the islands named Martha's Vineyard and Chappaquiddick Island. Wikipedia",
             "type": ""
+        },
+        "Missouri wine": {
+            "label": "Missouri wine",
+            "description": "Missouri Wine refers to wine made from grapes grown in the U.S. state of Missouri. German immigrants in the early-to-mid-19th century, founded the wine industry in Missouri, resulting in its wine corridor being called the Missouri \"Rhineland\". Wikipedia",
+            "type": "",
+            "See results about": []
         },
         "Mount Harlan AVA": {
             "label": "Mount Harlan AVA",
@@ -177,14 +172,19 @@
             "type": "Appellation",
             "People also search for": []
         },
+        "Northern Sonoma AVA": {
+            "label": "Northern Sonoma AVA",
+            "description": "The Northern Sonoma AVA is an American Viticultural Area in Sonoma County, California, USA. The appellation covers most of the county with the notable exceptions of the Los Carneros AVA and Sonoma Valley ... Wikipedia",
+            "type": "Appellation"
+        },
         "North Coast AVA": {
             "label": "North Coast",
             "description": "The North Coast AVA is an American Viticultural Area in the state of California that encompasses grape-growing regions in six counties located north of San Francisco Lake, Marin, Mendocino, Napa, Sonoma, and Solano. Wikipedia",
             "type": "Appellation"
         },
-        "Northern Sonoma AVA": {
-            "label": "Northern Sonoma AVA",
-            "description": "The Northern Sonoma AVA is an American Viticultural Area in Sonoma County, California, USA. The appellation covers most of the county with the notable exceptions of the Los Carneros AVA and Sonoma Valley ... Wikipedia",
+        "Oak Knoll District of Napa Valley AVA": {
+            "label": "Oak Knoll District",
+            "description": "The Oak Knoll District of Napa Valley AVA is an American Viticultural Area located within Napa Valley AVA at the southern end of the valley floor. Wikipedia",
             "type": "Appellation"
         },
         "Oregon wine": {
@@ -193,19 +193,14 @@
             "type": "927 followers on Google+",
             "Recent posts": []
         },
-        "Potter Valley AVA": {
-            "label": "Potter Valley AVA",
-            "description": "The Potter Valley AVA is an American Viticultural Area located in northern Mendocino County, California centered around town of Potter Valley. Wikipedia",
-            "type": "Appellation"
-        },
-        "Red Hills Lake County AVA": {
-            "label": "Red Hills Lake County",
-            "description": "The Red Hills Lake County AVA is an American Viticultural Area located in Lake County, California. The wine region lies along the southwestern shores of Clear Lake, separating Excelsior Valley to the east from Big Valley to the west. Wikipedia",
-            "type": ""
-        },
         "Red Mountain AVA": {
             "label": "Red Mountain AVA",
             "description": "The Red Mountain AVA is an American Viticultural Area that includes the land surrounding Red Mountain in Benton County, Washington. It is part of the Yakima Valley AVA, which in turn is part of the larger Columbia Valley AVA. Wikipedia",
+            "type": "Appellation"
+        },
+        "Potter Valley AVA": {
+            "label": "Potter Valley AVA",
+            "description": "The Potter Valley AVA is an American Viticultural Area located in northern Mendocino County, California centered around town of Potter Valley. Wikipedia",
             "type": "Appellation"
         },
         "Ramona Valley AVA": {
@@ -213,14 +208,9 @@
             "description": "The Ramona Valley AVA is an American Viticultural Area located 28 miles northeast of the city of San Diego in San Diego County, California centered around the city of Ramona. Wikipedia",
             "type": ""
         },
-        "Oak Knoll District of Napa Valley AVA": {
-            "label": "Oak Knoll District",
-            "description": "The Oak Knoll District of Napa Valley AVA is an American Viticultural Area located within Napa Valley AVA at the southern end of the valley floor. Wikipedia",
-            "type": "Appellation"
-        },
-        "San Antonio Valley AVA": {
-            "label": "San Antonio Valley AVA",
-            "description": "The San Antonio Valley AVA is an American Viticultural Area centered around San Antonio Valley in Monterey County, California. Wikipedia",
+        "Red Hills Lake County AVA": {
+            "label": "Red Hills Lake County",
+            "description": "The Red Hills Lake County AVA is an American Viticultural Area located in Lake County, California. The wine region lies along the southwestern shores of Clear Lake, separating Excelsior Valley to the east from Big Valley to the west. Wikipedia",
             "type": ""
         },
         "Saddle Rock-Malibu AVA": {
@@ -228,19 +218,24 @@
             "description": "The Saddle Rock-Malibu AVA is an American Viticultural Area in Los Angeles County, California. The region was once part of the 200,000 acres Saddle Rock Ranch, created from the original Spanish Land Grant. Wikipedia",
             "type": ""
         },
+        "San Antonio Valley AVA": {
+            "label": "San Antonio Valley AVA",
+            "description": "The San Antonio Valley AVA is an American Viticultural Area centered around San Antonio Valley in Monterey County, California. Wikipedia",
+            "type": ""
+        },
         "San Bernabe AVA": {
             "label": "San Bernabe AVA",
             "description": "The San Bernabe AVA is an American Viticultural Area located in southern Monterey County, California. It is part of the larger Monterey AVA. San Bernabe is located between the Salinas River on the east, and the Santa Lucia Mountains on the west. Wikipedia",
             "type": "Appellation"
         },
-        "Santa Clara Valley AVA": {
-            "label": "Santa Clara Valley",
-            "description": "The Santa Clara Valley AVA is an American Viticultural Area located in Santa Clara County, California. The area served an important role in the early history of California wine and was home to the pioneer winemakers Paul Masson and Charles Lefranc. Wikipedia",
-            "type": ""
-        },
         "San Ysidro District AVA": {
             "label": "San Ysidro District AVA",
             "description": "The San Ysidro District AVA is an American Viticultural Area located in Santa Clara County, California. It is part of the larger Santa Clara Valley AVA and is located in the foothills of the Diablo Range. Wikipedia",
+            "type": ""
+        },
+        "Santa Clara Valley AVA": {
+            "label": "Santa Clara Valley",
+            "description": "The Santa Clara Valley AVA is an American Viticultural Area located in Santa Clara County, California. The area served an important role in the early history of California wine and was home to the pioneer winemakers Paul Masson and Charles Lefranc. Wikipedia",
             "type": ""
         },
         "Santa Cruz Mountains AVA": {
@@ -253,19 +248,14 @@
             "description": "The Snake River Valley AVA in an American Viticultural Area that encompasses an area in Southwestern Idaho and two counties in eastern Oregon. Wikipedia",
             "type": ""
         },
-        "South Coast AVA": {
-            "label": "South Coast AVA",
-            "description": "The South Coast AVA is an American Viticultural Area in the state of California that encompasses grape-growing regions in five counties of Southern California Los Angeles, Orange, Riverside, San Bernardino, and San Diego. Wikipedia",
-            "type": "Appellation"
+        "Solano County Green Valley AVA": {
+            "label": "Solano County Green Valley AVA",
+            "description": "The Solano County Green Valley AVA is an American Viticultural Area located in Solano County, California. Located southeast of the Napa Valley AVA, Green Valley is about 1 mile long and 4 miles long. Wikipedia",
+            "type": ""
         },
         "Sonoita AVA": {
             "label": "Sonoita AVA",
             "description": "The Sonoita AVA is an American Viticultural Area located in southeast Arizona, south of the city of Tucson. Wikipedia",
-            "type": ""
-        },
-        "Solano County Green Valley AVA": {
-            "label": "Solano County Green Valley AVA",
-            "description": "The Solano County Green Valley AVA is an American Viticultural Area located in Solano County, California. Located southeast of the Napa Valley AVA, Green Valley is about 1 mile long and 4 miles long. Wikipedia",
             "type": ""
         },
         "Southeastern New England AVA": {
@@ -273,15 +263,15 @@
             "description": "The Southeastern New England AVA is an American Viticultural Area that includes portions of thirteen counties in three New England states Connecticut, Massachusetts, and Rhode Island. Wikipedia",
             "type": "Appellation"
         },
+        "South Coast AVA": {
+            "label": "South Coast AVA",
+            "description": "The South Coast AVA is an American Viticultural Area in the state of California that encompasses grape-growing regions in five counties of Southern California Los Angeles, Orange, Riverside, San Bernardino, and San Diego. Wikipedia",
+            "type": "Appellation"
+        },
         "St. Helena AVA": {
             "label": "St. Helena AVA",
             "description": "The St. Helena AVA is an American Viticultural Area located within Napa Valley, centered around the town of St. Helena, California. Wikipedia",
             "type": "Appellation"
-        },
-        "Temecula Valley AVA": {
-            "label": "Temecula Valley AVA",
-            "description": "The Temecula Valley AVA is an American Viticultural Area in southern Riverside County, California. Wikipedia",
-            "type": ""
         },
         "Tavel AOC": {
             "label": "Tavel AOC",
@@ -294,6 +284,16 @@
             "type": "",
             "People also search for": []
         },
+        "Temecula Valley AVA": {
+            "label": "Temecula Valley AVA",
+            "description": "The Temecula Valley AVA is an American Viticultural Area in southern Riverside County, California. Wikipedia",
+            "type": ""
+        },
+        "Walla Walla Valley AVA": {
+            "label": "Walla Walla Valley AVA",
+            "description": "The Walla Walla Valley AVA is an American Viticultural Area located within Washington State and extending partly into the northeastern corner of Oregon. The wine region is entirely included within the larger Columbia Valley AVA. Wikipedia",
+            "type": "Appellation"
+        },
         "Tracy Hills AVA": {
             "label": "Tracy Hills AVA",
             "description": "The Tracy Hills AVA is an American Viticultural Area located in both San Joaquin County and Stanislaus County, California. Wikipedia",
@@ -304,10 +304,10 @@
             "description": "The Willow Creek AVA is an American Viticultural Area located in the Humboldt and Trinity counties of northern California, near the town of Willow Creek. Wikipedia",
             "type": ""
         },
-        "Walla Walla Valley AVA": {
-            "label": "Walla Walla Valley AVA",
-            "description": "The Walla Walla Valley AVA is an American Viticultural Area located within Washington State and extending partly into the northeastern corner of Oregon. The wine region is entirely included within the larger Columbia Valley AVA. Wikipedia",
-            "type": "Appellation"
+        "Ahr (wine region)": {
+            "label": "Ahr",
+            "description": "Ahr is a wine region for quality wine in Germany, and is located in the valley of the river Ahr, a tributary of Rhine, and is situated in the federal state of Rhineland-Palatinate. Wikipedia",
+            "type": "Wine region"
         },
         "Côtes du Rhône": {
             "label": "Côtes du Rhône AOC",
@@ -320,16 +320,16 @@
             "description": "Ajaccio is an Appellation d'Origine Contrôlée for wine situated in Corsica, France as a part of the Corsica wine region. Ajaccio was earlier known as Coteaux d'Ajaccio and covers a vast stretch of land that looks down over the Mediterranean Sea. Wikipedia",
             "type": ""
         },
-        "Ahr (wine region)": {
-            "label": "Ahr",
-            "description": "Ahr is a wine region for quality wine in Germany, and is located in the valley of the river Ahr, a tributary of Rhine, and is situated in the federal state of Rhineland-Palatinate. Wikipedia",
-            "type": "Wine region"
-        },
         "Alexander Valley AVA": {
             "label": "Alexander Valley AVA",
             "description": "The Alexander Valley is a Californian American Viticultural Area just north of Healdsburg in Sonoma County. It is home to many wineries and vineyards, as well as the city of Cloverdale. It is the largest and most fully planted wine region in Sonoma. Wikipedia",
             "type": "Appellation",
             "People also search for": []
+        },
+        "Dunnigan Hills AVA": {
+            "label": "Dunnigan Hills AVA",
+            "description": "The Dunnigan Hills AVA is an American Viticultural Area located in the Dunnigan Hills, in Yolo County, California. Wikipedia",
+            "type": ""
         },
         "Alexandria Lakes AVA": {
             "label": "Alexandria Lakes AVA",
@@ -341,22 +341,6 @@
             "description": "The Anderson Valley AVA is an American Viticultural Area centered on the Anderson Valley in Mendocino County, California. It is known primarily for its Pinot noir and sparkling wine production. Wikipedia",
             "type": "Appellation"
         },
-        "Arizona wine": {
-            "label": "Arizona Wine Growers Association",
-            "description": "",
-            "type": "",
-            "People also search for": []
-        },
-        "Antelope Valley of the California High Desert AVA": {
-            "label": "Antelope Valley of the California High Desert AVA",
-            "description": "The Antelope Valley of the California High Desert AVA is an American Viticultural Area north of Los Angeles. The AVA is near the Sierra Pelona Valley AVA and the Leona Valley AVA. Wikipedia",
-            "type": ""
-        },
-        "Arkansas Mountain AVA": {
-            "label": "Arkansas Mountain AVA",
-            "description": "The Arkansas Mountain AVA is an American Viticultural Area located in the Ozark Mountains of northwestern Arkansas. It is part of the larger Ozark Mountain AVA, which also includes regions in Missouri and Oklahoma. Wikipedia",
-            "type": ""
-        },
         "Arroyo Grande Valley AVA": {
             "label": "Arroyo Grande Valley",
             "description": "The Arroyo Grande Valley AVA is an American Viticultural Area located in San Luis Obispo County, California. It is part of the larger Central Coast AVA. Wikipedia",
@@ -367,10 +351,11 @@
             "description": "The Arroyo Seco AVA is an American Viticultural Area in Monterey County, California, southeast of Monterey Bay. The appellation encompasses 18,240 acres in the valley adjacent to the Arroyo Seco Creek. Wikipedia",
             "type": "Appellation"
         },
-        "Bell Mountain AVA": {
-            "label": "Bell Mountain AVA",
-            "description": "The Bell Mountain AVA is an American Viticultural Area located in Gillespie County, Texas. It was the first designated wine area located entirely in the state of Texas, and covers an area of over 3,200 acres. Wikipedia",
-            "type": "Appellation"
+        "Arizona wine": {
+            "label": "Arizona Wine Growers Association",
+            "description": "",
+            "type": "",
+            "People also search for": []
         },
         "Atlas Peak AVA": {
             "label": "Atlas Peak",
@@ -383,6 +368,11 @@
             "description": "The Augusta AVA was the first federally approved American Viticultural Area gaining the status on June 20, 1980, eight months before the Napa Valley AVA in northern California. Wikipedia",
             "type": ""
         },
+        "Bell Mountain AVA": {
+            "label": "Bell Mountain AVA",
+            "description": "The Bell Mountain AVA is an American Viticultural Area located in Gillespie County, Texas. It was the first designated wine area located entirely in the state of Texas, and covers an area of over 3,200 acres. Wikipedia",
+            "type": "Appellation"
+        },
         "Ben Lomond Mountain AVA": {
             "label": "Ben Lomond Mountain AVA",
             "description": "The Ben Lomond Mountain AVA is an American Viticultural Area in Santa Cruz County, California, located on the western edge of the Santa Cruz Mountains. Wikipedia",
@@ -392,41 +382,51 @@
             "label": "Benmore Valley AVA",
             "description": "The Benmore Valley AVA is an American Viticultural Area located in southwestern Lake County, California. The valley is named for Benjamin Moore, a local 19th century cattle rustler. Wikipedia",
             "type": ""
+        },
+        "Arkansas Mountain AVA": {
+            "label": "Arkansas Mountain AVA",
+            "description": "The Arkansas Mountain AVA is an American Viticultural Area located in the Ozark Mountains of northwestern Arkansas. It is part of the larger Ozark Mountain AVA, which also includes regions in Missouri and Oklahoma. Wikipedia",
+            "type": ""
+        },
+        "Antelope Valley of the California High Desert AVA": {
+            "label": "Antelope Valley of the California High Desert AVA",
+            "description": "The Antelope Valley of the California High Desert AVA is an American Viticultural Area north of Los Angeles. The AVA is near the Sierra Pelona Valley AVA and the Leona Valley AVA. Wikipedia",
+            "type": ""
         }
     },
     "summary": {
         "label": 76,
         "description": 76,
         "type": 76,
-        "People also search for": 8,
-        "Nutrition Facts": 1,
-        "See results about": 3,
-        "Recent posts": 1
+        "nutrition_facts": 1,
+        "people_also_search_for": 1,
+        "see_results_about": 1,
+        "recent_posts": 1
     },
     "infoboxless": [
+        "Côtes du Rhône Villages AOC",
         "Beaumes de Venise AOC",
         "California wine",
         "Connecticut wine",
         "Delaware wine",
-        "Iowa wine",
+        "Idaho wine",
         "Illinois wine",
+        "Iowa wine",
         "Loramie Creek AVA",
         "Maine wine",
         "Michigan wine",
         "New Jersey wine",
         "North Fork of Roanoke AVA",
+        "Ohio wine",
         "Pennsylvania wine",
         "Virginia wine",
-        "Alabama wine",
         "Vouvray (wine)",
+        "Alabama wine",
         "Alaska wine",
         "Alella (DO)",
         "Arkansas wine",
-        "Azerbaijani wine",
-        "Barbera d'Asti",
         "Armenian wine",
-        "Côtes du Rhône Villages AOC",
-        "Idaho wine",
-        "Ohio wine"
+        "Azerbaijani wine",
+        "Barbera d'Asti"
     ]
 }

@@ -1,15 +1,18 @@
 {
     "instances": {
-        "John Sealy Hospital": {
-            "label": "John Sealy Hospital",
-            "description": "John Sealy Hospital is a hospital that is a part of the University of Texas Medical Branch complex in Galveston, Texas, United States. Wikipedia",
-            "type": "",
+        "Hôtel-Dieu de Paris": {
+            "label": "Hôtel-Dieu de Paris",
+            "description": "The Hôtel-Dieu de Paris is regarded as the oldest hospital in the city of Paris, France, and is the most central of the Assistance publique - hôpitaux de Paris hospitals. The hospital is linked to the Faculté de Médecine Paris-Descartes. Wikipedia",
+            "type": "Hospital",
             "Address ": [
-                "803 Market St.",
-                " Galveston",
-                " Texas",
-                " 77550"
-            ]
+                "1 Parvis Notre-Dame - Place Jean-Paul II",
+                " 75004 Paris",
+                " France"
+            ],
+            "Hours ": [
+                "+33 1 42 34 82 34"
+            ],
+            "People also search for": []
         },
         "Hadassah Medical Center": {
             "label": "Hadassah Medical Center",
@@ -48,19 +51,16 @@
             ],
             "People also search for": []
         },
-        "Hôtel-Dieu de Paris": {
-            "label": "Hôtel-Dieu de Paris",
-            "description": "The Hôtel-Dieu de Paris is regarded as the oldest hospital in the city of Paris, France, and is the most central of the Assistance publique - hôpitaux de Paris hospitals. The hospital is linked to the Faculté de Médecine Paris-Descartes. Wikipedia",
-            "type": "Hospital",
+        "John Sealy Hospital": {
+            "label": "John Sealy Hospital",
+            "description": "John Sealy Hospital is a hospital that is a part of the University of Texas Medical Branch complex in Galveston, Texas, United States. Wikipedia",
+            "type": "",
             "Address ": [
-                "1 Parvis Notre-Dame - Place Jean-Paul II",
-                " 75004 Paris",
-                " France"
-            ],
-            "Hours ": [
-                "+33 1 42 34 82 34"
-            ],
-            "People also search for": []
+                "803 Market St.",
+                " Galveston",
+                " Texas",
+                " 77550"
+            ]
         },
         "Necker-Enfants Malades Hospital": {
             "label": "Necker-Enfants Malades Hospital",
@@ -162,15 +162,22 @@
             ],
             "People also search for": []
         },
-        "Bangkok Christian Hospital": {
-            "label": "Bangkok Christian Hospital",
-            "description": "The Bangkok Christian Hospital is one of the oldest general hospitals in Bangkok, Thailand. Situated on Silom Road, Bangrak District. Wikipedia",
+        "St Thomas' Hospital": {
+            "label": "St Thomas' Hospital",
+            "description": "St Thomas' Hospital is a large NHS teaching hospital in Central London. Administratively part of the Guy's and St Thomas' NHS Foundation Trust, together with Guy's Hospital and King's College Hospital ... Wikipedia",
             "type": "",
             "Address ": [
-                "124 Silom Rd",
-                " Bangkok 10500",
-                " Thailand"
-            ]
+                "Westminster Bridge Rd",
+                " London SE1 7EH",
+                " United Kingdom"
+            ],
+            "Phone ": [
+                "+44 20 7188 7188"
+            ],
+            "Founder ": [
+                "Florence Nightingale"
+            ],
+            "See results about": []
         },
         "St. Luke's Hospital (New Bedford, Massachusetts)": {
             "label": "St. Luke's Hospital",
@@ -184,48 +191,6 @@
             ],
             "Phone ": [
                 "(508) 997-1515"
-            ],
-            "People also search for": []
-        },
-        "Akershus University Hospital": {
-            "label": "Akershus University Hospital",
-            "description": "The Akershus University Hospital is a Norwegian public university hospital located in the Lørenskog municipality, in the county of Akershus, east of the Norwegian capital Oslo. Wikipedia",
-            "type": "",
-            "Address ": "Sykehusveien 25, 1478 Lørenskog, Norway",
-            "Phone ": [
-                "+47 915 02 900"
-            ],
-            "People also search for": []
-        },
-        "Cirque Lodge": {
-            "label": "Cirque Lodge",
-            "description": "Cirque Lodge is a for-profit addiction facility located in Orem, Utah founded in 1999 by Richard Losee. In 2002, Cirque Lodge opened a second facility in Orem, Utah in a former television studio. Wikipedia",
-            "type": "",
-            "Founder ": [
-                "Richard Losee"
-            ],
-            "Founded ": [
-                "1999",
-                " Sundance Resort",
-                " Utah",
-                " United States"
-            ],
-            "Recent posts": []
-        },
-        "Bangkok Hospital": {
-            "label": "Bangkok Hospital",
-            "description": "Bangkok Hospital is a hospital located in Bangkok, Thailand. It was opened in 1972 by a team of doctors, pharmacists and 30 nurses. Wikipedia",
-            "type": "",
-            "Address ": [
-                "2 Soi Soonvijai 7",
-                " New Petchburi road",
-                " Bangkapi",
-                " Huay Khwang",
-                " 10310",
-                " Thailand"
-            ],
-            "Phone ": [
-                "+66 2 310 3000"
             ],
             "People also search for": []
         },
@@ -257,28 +222,32 @@
                 "+353 1 809 3000"
             ]
         },
-        "Bedford Hospital": {
-            "label": "Gilbert Hitchcock House Bedford Hospital North Wing",
-            "description": "",
-            "type": "",
-            "See results about": []
-        },
-        "St Thomas' Hospital": {
-            "label": "St Thomas' Hospital",
-            "description": "St Thomas' Hospital is a large NHS teaching hospital in Central London. Administratively part of the Guy's and St Thomas' NHS Foundation Trust, together with Guy's Hospital and King's College Hospital ... Wikipedia",
+        "Bangkok Hospital": {
+            "label": "Bangkok Hospital",
+            "description": "Bangkok Hospital is a hospital located in Bangkok, Thailand. It was opened in 1972 by a team of doctors, pharmacists and 30 nurses. Wikipedia",
             "type": "",
             "Address ": [
-                "Westminster Bridge Rd",
-                " London SE1 7EH",
-                " United Kingdom"
+                "2 Soi Soonvijai 7",
+                " New Petchburi road",
+                " Bangkapi",
+                " Huay Khwang",
+                " 10310",
+                " Thailand"
             ],
             "Phone ": [
-                "+44 20 7188 7188"
+                "+66 2 310 3000"
             ],
-            "Founder ": [
-                "Florence Nightingale"
+            "People also search for": []
+        },
+        "Akershus University Hospital": {
+            "label": "Akershus University Hospital",
+            "description": "The Akershus University Hospital is a Norwegian public university hospital located in the Lørenskog municipality, in the county of Akershus, east of the Norwegian capital Oslo. Wikipedia",
+            "type": "",
+            "Address ": "Sykehusveien 25, 1478 Lørenskog, Norway",
+            "Phone ": [
+                "+47 915 02 900"
             ],
-            "See results about": []
+            "People also search for": []
         },
         "Bellevue Hospital Center": {
             "label": "Bellevue Hospital Center",
@@ -293,12 +262,6 @@
             "Phone ": [
                 "(212) 562-4141"
             ]
-        },
-        "Berufsgenossenschaftliche Kliniken Bergmannstrost Halle": {
-            "label": "Berufsgenossenschaftliche Kliniken Bergmannstrost Halle",
-            "description": "The Berufsgenossenschaftliche Kliniken Bergmannstrost Halle is the teaching hospital facility of University of Halle-Wittenberg, located in Halle, Saxony-Anhalt. Wikipedia",
-            "type": "",
-            "Address ": "Merseburger Straße 165, 06112 Halle (Saale), Germany"
         },
         "Boston Children's Hospital": {
             "label": "Boston Children's Hospital",
@@ -315,17 +278,17 @@
             ],
             "Recent posts": []
         },
-        "Changi General Hospital": {
-            "label": "Changi General Hospital",
-            "description": "Changi General Hospital is a 790-bed hospital located in Simei, eastern Singapore. It is Singapore's first purpose-built general hospital to serve communities in the east and north-east regions. Wikipedia",
+        "Berufsgenossenschaftliche Kliniken Bergmannstrost Halle": {
+            "label": "Berufsgenossenschaftliche Kliniken Bergmannstrost Halle",
+            "description": "The Berufsgenossenschaftliche Kliniken Bergmannstrost Halle is the teaching hospital facility of University of Halle-Wittenberg, located in Halle, Saxony-Anhalt. Wikipedia",
             "type": "",
-            "Address ": [
-                "2 Simei Street 3",
-                " Singapore 529889"
-            ],
-            "Phone ": [
-                "+65 6788 8833"
-            ]
+            "Address ": "Merseburger Straße 165, 06112 Halle (Saale), Germany"
+        },
+        "Bedford Hospital": {
+            "label": "Gilbert Hitchcock House Bedford Hospital North Wing",
+            "description": "",
+            "type": "",
+            "See results about": []
         },
         "Centre hospitalier de l'Université de Montréal": {
             "label": "Centre hospitalier de l'Université de Montréal",
@@ -335,22 +298,6 @@
                 "Montreal",
                 " QC",
                 " Canada"
-            ],
-            "People also search for": []
-        },
-        "Children's Hospital Colorado": {
-            "label": "Children's Hospital of Denver",
-            "description": "Children’s Hospital Colorado is a nonprofit hospital for children located on the Anschutz Medical Campus near the interchange of I-225 and Colfax Avenue in Aurora. Wikipedia",
-            "type": "",
-            "Address ": [
-                "13123 E 16th Ave",
-                " Aurora",
-                " CO 80045",
-                " United States"
-            ],
-            "Opened ": "February 17, 1910",
-            "Phone ": [
-                "(720) 777-1234"
             ],
             "People also search for": []
         },
@@ -372,20 +319,33 @@
             ],
             "People also search for": []
         },
-        "Doncaster Royal Infirmary": {
-            "label": "Doncaster Royal Infirmary",
-            "description": "Doncaster Royal Infirmary is a district general hospital of 800 beds, located in Doncaster, South Yorkshire, England. Each year the hospital treats around 150,000 patients along with 95,500 A&E patients. Wikipedia",
-            "type": "Hospital",
+        "Children's Hospital Colorado": {
+            "label": "Children's Hospital of Denver",
+            "description": "Children’s Hospital Colorado is a nonprofit hospital for children located on the Anschutz Medical Campus near the interchange of I-225 and Colfax Avenue in Aurora. Wikipedia",
+            "type": "",
             "Address ": [
-                "Armthorpe Rd",
-                " Doncaster",
-                " South Yorkshire DN2 5LT",
-                " United Kingdom"
+                "13123 E 16th Ave",
+                " Aurora",
+                " CO 80045",
+                " United States"
             ],
+            "Opened ": "February 17, 1910",
             "Phone ": [
-                "+44 1302 366666"
+                "(720) 777-1234"
             ],
             "People also search for": []
+        },
+        "Changi General Hospital": {
+            "label": "Changi General Hospital",
+            "description": "Changi General Hospital is a 790-bed hospital located in Simei, eastern Singapore. It is Singapore's first purpose-built general hospital to serve communities in the east and north-east regions. Wikipedia",
+            "type": "",
+            "Address ": [
+                "2 Simei Street 3",
+                " Singapore 529889"
+            ],
+            "Phone ": [
+                "+65 6788 8833"
+            ]
         },
         "Dartmouth–Hitchcock Medical Center": {
             "label": "Dartmouth Hitchcock Medical Center",
@@ -423,6 +383,21 @@
             ],
             "People also search for": []
         },
+        "Doncaster Royal Infirmary": {
+            "label": "Doncaster Royal Infirmary",
+            "description": "Doncaster Royal Infirmary is a district general hospital of 800 beds, located in Doncaster, South Yorkshire, England. Each year the hospital treats around 150,000 patients along with 95,500 A&E patients. Wikipedia",
+            "type": "Hospital",
+            "Address ": [
+                "Armthorpe Rd",
+                " Doncaster",
+                " South Yorkshire DN2 5LT",
+                " United Kingdom"
+            ],
+            "Phone ": [
+                "+44 1302 366666"
+            ],
+            "People also search for": []
+        },
         "Fairview Training Center": {
             "label": "Fairview Training Center",
             "description": "The Fairview Training Center was a state-run facility for people with developmental disabilities in Salem, Oregon, United States. Fairview was established in 1907 as the State Institution for the Feeble-Minded. Wikipedia",
@@ -435,6 +410,16 @@
             "label": "The Great Western Hospital",
             "description": "",
             "type": "",
+            "People also search for": []
+        },
+        "Greifswald University Hospital": {
+            "label": "Greifswald University Hospital",
+            "description": "Greifswald University Hospital in Greifswald, Germany is a teaching hospital for the University of Greifswald's medical school. Wikipedia",
+            "type": "",
+            "Address ": "Fleischmannstraße 8, 17489 Greifswald, Germany",
+            "Phone ": [
+                "+49 3834 860"
+            ],
             "People also search for": []
         },
         "Gold Coast Hospital": {
@@ -450,15 +435,22 @@
                 "+61 7 5519 8211"
             ]
         },
-        "Greifswald University Hospital": {
-            "label": "Greifswald University Hospital",
-            "description": "Greifswald University Hospital in Greifswald, Germany is a teaching hospital for the University of Greifswald's medical school. Wikipedia",
+        "Guy's Hospital": {
+            "label": "St Thomas' Hospital",
+            "description": "St Thomas' Hospital is a large NHS teaching hospital in Central London. Administratively part of the Guy's and St Thomas' NHS Foundation Trust, together with Guy's Hospital and King's College Hospital ... Wikipedia",
             "type": "",
-            "Address ": "Fleischmannstraße 8, 17489 Greifswald, Germany",
-            "Phone ": [
-                "+49 3834 860"
+            "Address ": [
+                "Westminster Bridge Rd",
+                " London SE1 7EH",
+                " United Kingdom"
             ],
-            "People also search for": []
+            "Phone ": [
+                "+44 20 7188 7188"
+            ],
+            "Founder ": [
+                "Florence Nightingale"
+            ],
+            "See results about": []
         },
         "Health Sciences North": {
             "label": "Health Sciences North",
@@ -477,23 +469,6 @@
                 "Ontario"
             ],
             "People also search for": []
-        },
-        "Guy's Hospital": {
-            "label": "St Thomas' Hospital",
-            "description": "St Thomas' Hospital is a large NHS teaching hospital in Central London. Administratively part of the Guy's and St Thomas' NHS Foundation Trust, together with Guy's Hospital and King's College Hospital ... Wikipedia",
-            "type": "",
-            "Address ": [
-                "Westminster Bridge Rd",
-                " London SE1 7EH",
-                " United Kingdom"
-            ],
-            "Phone ": [
-                "+44 20 7188 7188"
-            ],
-            "Founder ": [
-                "Florence Nightingale"
-            ],
-            "See results about": []
         },
         "Hornsby Ku-ring-gai Hospital": {
             "label": "Hornsby Ku-ring-gai Hospital",
@@ -599,6 +574,16 @@
                 "(323) 226-2622"
             ]
         },
+        "Meyer Children's Hospital": {
+            "label": "Meyer Children's Hospital",
+            "description": "The Meyer Children Hospital is a pediatric hospital located in Florence, Italy.\nThe hospital is an official member of the European Network of Health Promoting Hospitals of the World Health Organization ... Wikipedia",
+            "type": "",
+            "Address ": "Viale Gaetano Pieraccini, 24, 50141 Firenze, Italy",
+            "Phone ": [
+                "+39 055 56621"
+            ],
+            "People also search for": []
+        },
         "Markham Stouffville Hospital": {
             "label": "Markham Stouffville Hospital",
             "description": "Markham Stouffville Hospital is an acute care and community hospital serving south-east York Region. The hospital is located on Ninth Line north of Highway 7 in east-end Markham, Ontario, immediately south of the town of Whitchurch–Stouffville. Wikipedia",
@@ -620,16 +605,6 @@
             ],
             "People also search for": []
         },
-        "Meyer Children's Hospital": {
-            "label": "Meyer Children's Hospital",
-            "description": "The Meyer Children Hospital is a pediatric hospital located in Florence, Italy.\nThe hospital is an official member of the European Network of Health Promoting Hospitals of the World Health Organization ... Wikipedia",
-            "type": "",
-            "Address ": "Viale Gaetano Pieraccini, 24, 50141 Firenze, Italy",
-            "Phone ": [
-                "+39 055 56621"
-            ],
-            "People also search for": []
-        },
         "Monklands Hospital": {
             "label": "Monklands Hospital",
             "description": "Monklands District General Hospital, is a district general hospital in Airdrie, North Lanarkshire, Scotland. Administered by NHS Lanarkshire, it serves a population of approximately 260,000 people of North and South Lanarkshire council areas. Wikipedia",
@@ -648,33 +623,20 @@
             ],
             "People also search for": []
         },
-        "Montfort Hospital": {
-            "label": "Montfort Hospital",
-            "description": "The Montfort Hospital is a francophone hospital in Ottawa, Canada offering bilingual medical care to patients in the National Capital Region. Wikipedia",
+        "Monroe Carell Jr. Children's Hospital at Vanderbilt": {
+            "label": "Monroe Carell Jr. Children's Hospital at Vanderbilt",
+            "description": "The Monroe Carell Jr. Children's Hospital at Vanderbilt, also known as Vanderbilt Children's Hospital, is a children's hospital affiliated with Vanderbilt University Medical Center in Nashville, Tennessee. Wikipedia",
             "type": "",
             "Address ": [
-                "713 Montreal Road",
-                " Ottawa",
-                " ON K1K 0T2",
-                " Canada"
+                "2200 Children's Way",
+                " Nashville",
+                " TN 37232",
+                " United States"
             ],
             "Phone ": [
-                "+1 613-746-4621"
-            ]
-        },
-        "Mount Sinai Hospital, Toronto": {
-            "label": "Mount Sinai Hospital, Toronto",
-            "description": "Mount Sinai Hospital is a hospital in Toronto, Ontario, Canada. Although it is physically linked by bridges and tunnels to three University Health Network hospitals, Mount Sinai is an independently operated facility. Wikipedia",
-            "type": "",
-            "Address ": [
-                "600 University Ave",
-                " Toronto",
-                " ON M5G 1X5",
-                " Canada"
+                "(615) 936-1000"
             ],
-            "Phone ": [
-                "+1 416-596-4200"
-            ]
+            "Recent posts": []
         },
         "Musgrave Park Hospital": {
             "label": "Musgrave Park Hospital",
@@ -693,6 +655,34 @@
             ],
             "People also search for": []
         },
+        "Mount Sinai Hospital, Toronto": {
+            "label": "Mount Sinai Hospital, Toronto",
+            "description": "Mount Sinai Hospital is a hospital in Toronto, Ontario, Canada. Although it is physically linked by bridges and tunnels to three University Health Network hospitals, Mount Sinai is an independently operated facility. Wikipedia",
+            "type": "",
+            "Address ": [
+                "600 University Ave",
+                " Toronto",
+                " ON M5G 1X5",
+                " Canada"
+            ],
+            "Phone ": [
+                "+1 416-596-4200"
+            ]
+        },
+        "Montfort Hospital": {
+            "label": "Montfort Hospital",
+            "description": "The Montfort Hospital is a francophone hospital in Ottawa, Canada offering bilingual medical care to patients in the National Capital Region. Wikipedia",
+            "type": "",
+            "Address ": [
+                "713 Montreal Road",
+                " Ottawa",
+                " ON K1K 0T2",
+                " Canada"
+            ],
+            "Phone ": [
+                "+1 613-746-4621"
+            ]
+        },
         "National Hospital for Neurology and Neurosurgery": {
             "label": "National Hospital for Neurology and Neurosurgery",
             "description": "The National Hospital for Neurology and Neurosurgery is a neurological hospital in London, United Kingdom and part of the University College London Hospitals NHS Foundation Trust. Wikipedia",
@@ -707,18 +697,19 @@
             ],
             "People also search for": []
         },
-        "National University Hospital": {
-            "label": "National University Hospital",
-            "description": "The National University Hospital was established in 1985 and it serves as a tertiary hospital, clinical training centre and research centre for the medical and dental faculties of the National University of Singapore. Wikipedia",
+        "Penn Presbyterian Medical Center": {
+            "label": "Penn Presbyterian Medical Center",
+            "description": "Penn Presbyterian Medical Center is a hospital located in the University City section of West Philadelphia. It is located between Market Street and Powelton Avenue, and N. 38 Street and N. Sloan Street. Wikipedia",
             "type": "",
             "Address ": [
-                "5 Lower Kent Ridge Rd",
-                " Singapore 119074"
+                "51 N 39th St",
+                " Philadelphia",
+                " PA 19104",
+                " United States"
             ],
-            "Phone ": [
-                "+65 6779 5555"
-            ],
-            "See results about": []
+            "Hours ": [
+                "(215) 662-8000"
+            ]
         },
         "Northwick Park Hospital": {
             "label": "Northwick Park Hospital",
@@ -733,21 +724,6 @@
             "Phone ": [
                 "+44 20 8864 3232"
             ]
-        },
-        "Monroe Carell Jr. Children's Hospital at Vanderbilt": {
-            "label": "Monroe Carell Jr. Children's Hospital at Vanderbilt",
-            "description": "The Monroe Carell Jr. Children's Hospital at Vanderbilt, also known as Vanderbilt Children's Hospital, is a children's hospital affiliated with Vanderbilt University Medical Center in Nashville, Tennessee. Wikipedia",
-            "type": "",
-            "Address ": [
-                "2200 Children's Way",
-                " Nashville",
-                " TN 37232",
-                " United States"
-            ],
-            "Phone ": [
-                "(615) 936-1000"
-            ],
-            "Recent posts": []
         },
         "Northwestern Memorial Hospital": {
             "label": "Northwestern Memorial Hospital",
@@ -770,6 +746,19 @@
             ],
             "People also search for": []
         },
+        "National University Hospital": {
+            "label": "National University Hospital",
+            "description": "The National University Hospital was established in 1985 and it serves as a tertiary hospital, clinical training centre and research centre for the medical and dental faculties of the National University of Singapore. Wikipedia",
+            "type": "",
+            "Address ": [
+                "5 Lower Kent Ridge Rd",
+                " Singapore 119074"
+            ],
+            "Phone ": [
+                "+65 6779 5555"
+            ],
+            "See results about": []
+        },
         "Perth Royal Infirmary": {
             "label": "Perth Royal Infirmary",
             "description": "Perth Royal Infirmary is a district hospital in Perth. The Royal Infirmary, administered by NHS Tayside, caters for both the city and wider Perth & Kinross area, with a population around 182 000, being served by the hospital. Wikipedia",
@@ -784,34 +773,6 @@
                 "+44 1738 623311"
             ],
             "People also search for": []
-        },
-        "Prince of Wales Hospital, Sydney": {
-            "label": "Prince of Wales Hospital, Sydney",
-            "description": "The Prince of Wales Hospital is a major public teaching hospital located in Sydney's eastern suburb of Randwick, providing a full range of hospital services to the people of New South Wales, Australia. Wikipedia",
-            "type": "",
-            "Address ": [
-                "Barker St",
-                " Randwick NSW 2031",
-                " Australia"
-            ],
-            "Phone ": [
-                "+61 2 9650 4000"
-            ],
-            "People also search for": []
-        },
-        "Penn Presbyterian Medical Center": {
-            "label": "Penn Presbyterian Medical Center",
-            "description": "Penn Presbyterian Medical Center is a hospital located in the University City section of West Philadelphia. It is located between Market Street and Powelton Avenue, and N. 38 Street and N. Sloan Street. Wikipedia",
-            "type": "",
-            "Address ": [
-                "51 N 39th St",
-                " Philadelphia",
-                " PA 19104",
-                " United States"
-            ],
-            "Hours ": [
-                "(215) 662-8000"
-            ]
         },
         "Royal Alexandra Hospital for Children": {
             "label": "Royal Alexandra Hospital for Children",
@@ -853,6 +814,20 @@
             ],
             "People also search for": []
         },
+        "Prince of Wales Hospital, Sydney": {
+            "label": "Prince of Wales Hospital, Sydney",
+            "description": "The Prince of Wales Hospital is a major public teaching hospital located in Sydney's eastern suburb of Randwick, providing a full range of hospital services to the people of New South Wales, Australia. Wikipedia",
+            "type": "",
+            "Address ": [
+                "Barker St",
+                " Randwick NSW 2031",
+                " Australia"
+            ],
+            "Phone ": [
+                "+61 2 9650 4000"
+            ],
+            "People also search for": []
+        },
         "Royal Columbian Hospital": {
             "label": "Royal Columbian Hospital",
             "description": "The Royal Columbian Hospital is the oldest hospital in the Canadian province of British Columbia and one of the busiest in the Fraser Health Authority. Wikipedia",
@@ -862,6 +837,34 @@
                 " New Westminster",
                 " BC V3L 3W7",
                 " Canada"
+            ]
+        },
+        "Saint John's Health Center": {
+            "label": "Saint John's Health Center",
+            "description": "Saint John's Health Center is a private not-for-profit, Roman Catholic hospital in Santa Monica, California, United States. The hospital was founded in 1942 by the Sisters of Charity of Leavenworth. Wikipedia",
+            "type": "Hospital",
+            "Address ": [
+                "2121 Santa Monica Blvd",
+                " Santa Monica",
+                " CA 90404",
+                " United States"
+            ],
+            "Phone ": [
+                "(310) 829-5511"
+            ],
+            "People also search for": []
+        },
+        "Royal Melbourne Hospital": {
+            "label": "Royal Melbourne Hospital",
+            "description": "The Royal Melbourne Hospital, located in Parkville, Victoria an inner suburb of Melbourne is one of Australia’s leading public hospitals. It is a major teaching hospital for tertiary health care with a reputation in clinical research. Wikipedia",
+            "type": "",
+            "Address ": [
+                "300 Grattan St",
+                " Parkville VIC 3050",
+                " Australia"
+            ],
+            "Hours ": [
+                "+61 3 9342 7000"
             ]
         },
         "Royal Free Hospital": {
@@ -881,32 +884,10 @@
             ],
             "People also search for": []
         },
-        "Royal Melbourne Hospital": {
-            "label": "Royal Melbourne Hospital",
-            "description": "The Royal Melbourne Hospital, located in Parkville, Victoria an inner suburb of Melbourne is one of Australia’s leading public hospitals. It is a major teaching hospital for tertiary health care with a reputation in clinical research. Wikipedia",
-            "type": "",
-            "Address ": [
-                "300 Grattan St",
-                " Parkville VIC 3050",
-                " Australia"
-            ],
-            "Hours ": [
-                "+61 3 9342 7000"
-            ]
-        },
-        "Sequoia Hospital": {
-            "label": "Sequoia Hospital",
-            "description": "Sequoia Hospital is a hospital in Redwood City, California, USA. It is operated by Dignity Health. Wikipedia",
-            "type": "",
-            "Address ": [
-                "170 Alameda De Las Pulgas",
-                " Redwood City",
-                " CA 94062",
-                " United States"
-            ],
-            "Hours ": [
-                "(650) 369-5811"
-            ]
+        "Saint Vincent's Catholic Medical Center": {
+            "label": "Saint Vincent's Catholic Medical Center",
+            "description": "Saint Vincent Catholic Medical Centers was a healthcare system, anchored by its flagship hospital, St. Vincent's Hospital Manhattan, locally referred to as \"St. Vincent's\". Wikipedia",
+            "type": ""
         },
         "St. Rose Dominican Hospital – Rose de Lima Campus": {
             "label": "St. Rose Dominican Hospital – Rose de Lima Campus",
@@ -937,42 +918,35 @@
                 "(240) 826-6000"
             ]
         },
-        "Saint John's Health Center": {
-            "label": "Saint John's Health Center",
-            "description": "Saint John's Health Center is a private not-for-profit, Roman Catholic hospital in Santa Monica, California, United States. The hospital was founded in 1942 by the Sisters of Charity of Leavenworth. Wikipedia",
-            "type": "Hospital",
-            "Address ": [
-                "2121 Santa Monica Blvd",
-                " Santa Monica",
-                " CA 90404",
-                " United States"
-            ],
-            "Phone ": [
-                "(310) 829-5511"
-            ],
-            "People also search for": []
-        },
-        "Saint Vincent's Catholic Medical Center": {
-            "label": "Saint Vincent's Catholic Medical Center",
-            "description": "Saint Vincent Catholic Medical Centers was a healthcare system, anchored by its flagship hospital, St. Vincent's Hospital Manhattan, locally referred to as \"St. Vincent's\". Wikipedia",
-            "type": ""
-        },
-        "St George's Hospital": {
-            "label": "St George's Hospital",
-            "description": "Founded in 1733, St George’s Hospital is one of the UK's largest teaching hospitals. It shares its main hospital site in Tooting in the London Borough of Wandsworth, with the St George's, University ... Wikipedia",
+        "Sequoia Hospital": {
+            "label": "Sequoia Hospital",
+            "description": "Sequoia Hospital is a hospital in Redwood City, California, USA. It is operated by Dignity Health. Wikipedia",
             "type": "",
             "Address ": [
-                "Blackshaw Rd",
-                " London SW17 0QT",
+                "170 Alameda De Las Pulgas",
+                " Redwood City",
+                " CA 94062",
+                " United States"
+            ],
+            "Hours ": [
+                "(650) 369-5811"
+            ]
+        },
+        "St Bartholomew's Hospital": {
+            "label": "St Bartholomew's Hospital",
+            "description": "St Bartholomew's Hospital, also known simply as Barts, or more formally as The Royal Hospital of St Bartholomew is a hospital in Smithfield in the City of London. Wikipedia",
+            "type": "",
+            "Address ": [
+                "W Smithfield",
+                " London EC1A 7BE",
                 " United Kingdom"
             ],
             "Phone ": [
-                "+44 20 8672 1255"
+                "+44 20 7377 7000"
             ],
-            "CEO ": [
-                "Miles Scott"
-            ],
-            "See results about": []
+            "Founder ": [
+                "Rahere"
+            ]
         },
         "St James's University Hospital": {
             "label": "St James's University Hospital",
@@ -993,27 +967,43 @@
             "description": "",
             "type": ""
         },
+        "St George's Hospital": {
+            "label": "St George's Hospital",
+            "description": "Founded in 1733, St George’s Hospital is one of the UK's largest teaching hospitals. It shares its main hospital site in Tooting in the London Borough of Wandsworth, with the St George's, University ... Wikipedia",
+            "type": "",
+            "Address ": [
+                "Blackshaw Rd",
+                " London SW17 0QT",
+                " United Kingdom"
+            ],
+            "Phone ": [
+                "+44 20 8672 1255"
+            ],
+            "CEO ": [
+                "Miles Scott"
+            ],
+            "See results about": []
+        },
+        "Stoke Mandeville Hospital": {
+            "label": "Stoke Mandeville Hospital",
+            "description": "Stoke Mandeville Hospital is a large National Health Service hospital in the District of Aylesbury Vale and the town of Aylesbury, near the village of Stoke Mandeville in Buckinghamshire. It is part of Buckinghamshire Healthcare NHS Trust. Wikipedia",
+            "type": "",
+            "Address ": [
+                "Mandeville Road",
+                " Aylesbury",
+                " Buckinghamshire HP21 8AL",
+                " United Kingdom"
+            ],
+            "Phone ": [
+                "+44 1296 315000"
+            ],
+            "People also search for": []
+        },
         "Strong Memorial Hospital": {
             "label": "Strong Memorial Hospital",
             "description": "",
             "type": "",
             "See results about": []
-        },
-        "St Bartholomew's Hospital": {
-            "label": "St Bartholomew's Hospital",
-            "description": "St Bartholomew's Hospital, also known simply as Barts, or more formally as The Royal Hospital of St Bartholomew is a hospital in Smithfield in the City of London. Wikipedia",
-            "type": "",
-            "Address ": [
-                "W Smithfield",
-                " London EC1A 7BE",
-                " United Kingdom"
-            ],
-            "Phone ": [
-                "+44 20 7377 7000"
-            ],
-            "Founder ": [
-                "Rahere"
-            ]
         },
         "Sydney Hospital": {
             "label": "Sydney Hospital",
@@ -1056,35 +1046,6 @@
                 "+65 6256 6011"
             ]
         },
-        "The Ottawa Hospital": {
-            "label": "The Ottawa Hospital",
-            "description": "The Ottawa Hospital, or L'Hôpital d'Ottawa, is a non-profit, public university teaching hospital in Ottawa, Canada. The hospital is made up of the former Grace Hospital, Riverside Hospital, Ottawa General Hospital and Ottawa Civic Hospital. Wikipedia",
-            "type": "",
-            "Address ": [
-                "501 Smyth Rd",
-                " Ottawa",
-                " ON K1H 8L6",
-                " Canada"
-            ],
-            "Phone ": [
-                "+1 613-722-7000"
-            ]
-        },
-        "Stoke Mandeville Hospital": {
-            "label": "Stoke Mandeville Hospital",
-            "description": "Stoke Mandeville Hospital is a large National Health Service hospital in the District of Aylesbury Vale and the town of Aylesbury, near the village of Stoke Mandeville in Buckinghamshire. It is part of Buckinghamshire Healthcare NHS Trust. Wikipedia",
-            "type": "",
-            "Address ": [
-                "Mandeville Road",
-                " Aylesbury",
-                " Buckinghamshire HP21 8AL",
-                " United Kingdom"
-            ],
-            "Phone ": [
-                "+44 1296 315000"
-            ],
-            "People also search for": []
-        },
         "Tengku Ampuan Rahimah Hospital": {
             "label": "Hospital Besar Tengku Ampuan Rahimah",
             "description": "The Tengku Ampuan Rahimah Hospital in Klang, also known as Klang General Hospital or Klang GH is a 864-bed government tertiary hospital located in the south of the royal town of Klang, Selangor, Malaysia. Wikipedia",
@@ -1098,6 +1059,20 @@
                 "+60 3-3375 7000"
             ],
             "People also search for": []
+        },
+        "The Ottawa Hospital": {
+            "label": "The Ottawa Hospital",
+            "description": "The Ottawa Hospital, or L'Hôpital d'Ottawa, is a non-profit, public university teaching hospital in Ottawa, Canada. The hospital is made up of the former Grace Hospital, Riverside Hospital, Ottawa General Hospital and Ottawa Civic Hospital. Wikipedia",
+            "type": "",
+            "Address ": [
+                "501 Smyth Rd",
+                " Ottawa",
+                " ON K1H 8L6",
+                " Canada"
+            ],
+            "Phone ": [
+                "+1 613-722-7000"
+            ]
         },
         "Toronto General Hospital": {
             "label": "Toronto General Hospital",
@@ -1150,20 +1125,6 @@
             ],
             "People also search for": []
         },
-        "University Medical Center of Southern Nevada": {
-            "label": "University Medical Center of Southern Nevada",
-            "description": "The University Medical Center of Southern Nevada, known locally as UMC, is a non-profit hospital in Las Vegas, Nevada. Wikipedia",
-            "type": "",
-            "Address ": [
-                "1800 W Charleston Blvd",
-                " Las Vegas",
-                " NV 89102",
-                " United States"
-            ],
-            "Hours ": [
-                "(702) 383-2000"
-            ]
-        },
         "University Medical Center (Tucson, Arizona)": {
             "label": "University Medical Center",
             "description": "University of Arizona Medical Center formerly University Medical Center — Tucson, is a private, non-profit 487-bed acute-care hospital in Tucson, Arizona. UAMC has two units University Campus and South Campus. Wikipedia",
@@ -1177,12 +1138,6 @@
             "Phone ": [
                 "(520) 694-0111"
             ],
-            "People also search for": []
-        },
-        "Mid-Western Regional Hospital, Nenagh": {
-            "label": "Mid-Western Regional Hospital, Nenagh",
-            "description": "The Mid-Western Regional Hospital, Nenagh is a public hospital located in Nenagh, County Tipperary, Ireland. Wikipedia",
-            "type": "",
             "People also search for": []
         },
         "Vanderbilt University Medical Center": {
@@ -1200,6 +1155,26 @@
             ],
             "People also search for": []
         },
+        "University Medical Center of Southern Nevada": {
+            "label": "University Medical Center of Southern Nevada",
+            "description": "The University Medical Center of Southern Nevada, known locally as UMC, is a non-profit hospital in Las Vegas, Nevada. Wikipedia",
+            "type": "",
+            "Address ": [
+                "1800 W Charleston Blvd",
+                " Las Vegas",
+                " NV 89102",
+                " United States"
+            ],
+            "Hours ": [
+                "(702) 383-2000"
+            ]
+        },
+        "Mid-Western Regional Hospital, Nenagh": {
+            "label": "Mid-Western Regional Hospital, Nenagh",
+            "description": "The Mid-Western Regional Hospital, Nenagh is a public hospital located in Nenagh, County Tipperary, Ireland. Wikipedia",
+            "type": "",
+            "People also search for": []
+        },
         "Aradale Mental Hospital": {
             "label": "Aradale Mental Hospital",
             "description": "Aradale Mental Hospital was an Australian psychiatric hospital, located in Ararat, a rural city in Victoria, Australia. Wikipedia",
@@ -1211,20 +1186,6 @@
             "description": "Mont Park Asylum was a psychiatric hospital located in Melbourne, Australia. It was closed in the late-1990s. Wikipedia",
             "type": "Hospital",
             "People also search for": []
-        },
-        "St. James's Hospital": {
-            "label": "St. James's Hospital",
-            "description": "St. James's Hospital, also known as SJH, is the largest university teaching hospital in Dublin, Ireland. Its academic partner is the University of Dublin. Wikipedia",
-            "type": "",
-            "Address ": [
-                "James's St",
-                " Dublin 8",
-                " Ireland"
-            ],
-            "Phone ": [
-                "+353 1 410 3000"
-            ],
-            "See results about": []
         },
         "Roswell Park Cancer Institute": {
             "label": "Roswell Park Cancer Institute",
@@ -1261,6 +1222,20 @@
             "Phone ": [
                 "+61 8 9431 3333"
             ]
+        },
+        "St. James's Hospital": {
+            "label": "St. James's Hospital",
+            "description": "St. James's Hospital, also known as SJH, is the largest university teaching hospital in Dublin, Ireland. Its academic partner is the University of Dublin. Wikipedia",
+            "type": "",
+            "Address ": [
+                "James's St",
+                " Dublin 8",
+                " Ireland"
+            ],
+            "Phone ": [
+                "+353 1 410 3000"
+            ],
+            "See results about": []
         },
         "Royal Perth Hospital": {
             "label": "Royal Perth Hospital",
@@ -1300,6 +1275,37 @@
             ],
             "People also search for": []
         },
+        "Cirque Lodge": {
+            "label": "Cirque Lodge",
+            "description": "Cirque Lodge is a for-profit addiction facility located in Orem, Utah founded in 1999 by Richard Losee. In 2002, Cirque Lodge opened a second facility in Orem, Utah in a former television studio. Wikipedia",
+            "type": "",
+            "Founder ": [
+                "Richard Losee"
+            ],
+            "Founded ": [
+                "1999",
+                " Sundance Resort",
+                " Utah",
+                " United States"
+            ],
+            "Recent posts": []
+        },
+        "Bangkok Christian Hospital": {
+            "label": "Bangkok Christian Hospital",
+            "description": "The Bangkok Christian Hospital is one of the oldest general hospitals in Bangkok, Thailand. Situated on Silom Road, Bangrak District. Wikipedia",
+            "type": "",
+            "Address ": [
+                "124 Silom Rd",
+                " Bangkok 10500",
+                " Thailand"
+            ]
+        },
+        "Instituto Oncologico Nacional": {
+            "label": "Instituto Oncologico Nacional",
+            "description": "The National Oncologic Institute or ION is a specialized hospital for cancer treatment, located in Panama City, Panama. Wikipedia",
+            "type": "Hospital",
+            "People also search for": []
+        },
         "Aravind Eye Hospital": {
             "label": "Aravind Eye Hospital",
             "description": "Aravind Eye Care Hospital is an ophthalmological hospital with several locations in India. It was founded by Dr. Govindappa Venkataswamy in 1976. Wikipedia",
@@ -1316,45 +1322,34 @@
             "Phone ": [
                 "+91 452 435 6100"
             ]
-        },
-        "Instituto Oncologico Nacional": {
-            "label": "Instituto Oncologico Nacional",
-            "description": "The National Oncologic Institute or ION is a specialized hospital for cancer treatment, located in Panama City, Panama. Wikipedia",
-            "type": "Hospital",
-            "People also search for": []
-        },
-        "Lakeside Mental Hospital": {
-            "label": "Lakeside Behavioral Health System",
-            "description": "",
-            "type": "",
-            "People also search for": []
         }
     },
     "summary": {
-        "label": 98,
-        "description": 98,
-        "type": 98,
-        "Address ": 83,
-        "People also search for": 52,
-        "Opened ": 14,
-        "Phone ": 63,
-        "Function ": 3,
-        "Founded ": 2,
-        "Hours ": 12,
-        "Founder ": 9,
-        "Architect ": 1,
-        "Recent posts": 4,
-        "See results about": 10,
-        "Official name ": 1,
-        "Province ": 1,
-        "CEO ": 3,
-        "Awards ": 1,
-        "Height ": 1,
-        "Architectural style ": 1,
-        "Architects ": 1
+        "label": 97,
+        "description": 97,
+        "type": 97,
+        "address": 1,
+        "hours": 1,
+        "people_also_search_for": 1,
+        "opened": 1,
+        "phone": 1,
+        "function": 1,
+        "founded": 1,
+        "founder": 1,
+        "architect": 1,
+        "see_results_about": 1,
+        "recent_posts": 1,
+        "official_name": 1,
+        "province": 1,
+        "ceo": 1,
+        "awards": 1,
+        "height": 1,
+        "architectural_style": 1,
+        "architects": 1
     },
     "infoboxless": [
-        "Midwest Proton Radiotherapy Institute",
-        "Baptist Health"
+        "Baptist Health",
+        "Lakeside Mental Hospital",
+        "Midwest Proton Radiotherapy Institute"
     ]
 }

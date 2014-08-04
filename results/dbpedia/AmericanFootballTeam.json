@@ -1,5 +1,27 @@
 {
     "instances": {
+        "Green Bay Packers": {
+            "label": "Green Bay Packers",
+            "description": "The Green Bay Packers are an American football team based in Green Bay, Wisconsin. They are members of the North Division of the National Football Conference in the National Football League. Wikipedia",
+            "type": "221,920 followers on Google+",
+            "Head coach ": [
+                "Mike McCarthy"
+            ],
+            "Location ": [
+                "Green Bay"
+            ],
+            "Arena/Stadium ": [
+                "Lambeau Field"
+            ],
+            "Fight song ": [
+                "Go! You Packers! Go!"
+            ],
+            "Division ": [
+                "NFC North"
+            ],
+            "NFL championships ": "1966, 1967, 1996, 2010",
+            "Roster": []
+        },
         "New England Patriots": {
             "label": "New England Patriots",
             "description": "The New England Patriots are a professional American football team based in the Greater Boston area. The Patriots play their home games at Gillette Stadium in the town of Foxborough, Massachusetts. Wikipedia",
@@ -22,28 +44,6 @@
                 " Homeland Defense",
                 " The Pats"
             ],
-            "Roster": []
-        },
-        "Green Bay Packers": {
-            "label": "Green Bay Packers",
-            "description": "The Green Bay Packers are an American football team based in Green Bay, Wisconsin. They are members of the North Division of the National Football Conference in the National Football League. Wikipedia",
-            "type": "221,920 followers on Google+",
-            "Head coach ": [
-                "Mike McCarthy"
-            ],
-            "Location ": [
-                "Green Bay"
-            ],
-            "Arena/Stadium ": [
-                "Lambeau Field"
-            ],
-            "Fight song ": [
-                "Go! You Packers! Go!"
-            ],
-            "Division ": [
-                "NFC North"
-            ],
-            "NFL championships ": "1966, 1967, 1996, 2010",
             "Roster": []
         },
         "Pittsburgh Steelers": {
@@ -73,15 +73,15 @@
         "label": 3,
         "description": 3,
         "type": 3,
-        "Location ": 3,
-        "Head coach ": 3,
-        "Arena/Stadium ": 3,
-        "Division ": 3,
-        "NFL championships ": 3,
-        "Nicknames ": 1,
-        "Roster": 3,
-        "Fight song ": 1,
-        "Mascot ": 1
+        "head_coach": 1,
+        "location": 1,
+        "arena/stadium": 1,
+        "fight_song": 1,
+        "division": 1,
+        "nfl_championships": 1,
+        "roster": 1,
+        "nicknames": 1,
+        "mascot": 1
     },
     "infoboxless": []
 }

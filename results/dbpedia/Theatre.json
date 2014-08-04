@@ -1,18 +1,5 @@
 {
     "instances": {
-        "Deutsches Schauspielhaus": {
-            "label": "Deutsches Schauspielhaus",
-            "description": "The Deutsches Schauspielhaus is a theatre in the St. Georg quarter of the city of Hamburg, Germany. With a capacity for 1192 spectators, it places it as Germany's largest theatre. Wikipedia",
-            "type": "",
-            "Address ": "Kirchenallee 39, 20099 Hamburg, Germany",
-            "Opened ": [
-                "1901"
-            ],
-            "Phone ": [
-                "+49 40 248710"
-            ],
-            "People also search for": []
-        },
         "Arlene Schnitzer Concert Hall": {
             "label": "Arlene Schnitzer Concert Hall, Portland",
             "description": "The Arlene Schnitzer Concert Hall, opened as the Portland Publix Theater before becoming the Paramount after 1930, is a historic theater building and performing arts center in Portland, Oregon, United States. Wikipedia",
@@ -43,29 +30,18 @@
             ],
             "Upcoming events": []
         },
-        "Haymarket Theatre": {
-            "label": "Haymarket Theatre",
-            "description": "The Theatre Royal Haymarket is a West End theatre in the Haymarket in the City of Westminster which dates back to 1720, making it the third-oldest London playhouse still in use. Wikipedia",
-            "type": "Theatre in City of Westminster, England",
-            "Address ": [
-                "18 Suffolk St",
-                " London SW1Y 4HT",
-                " United Kingdom"
+        "Deutsches Schauspielhaus": {
+            "label": "Deutsches Schauspielhaus",
+            "description": "The Deutsches Schauspielhaus is a theatre in the St. Georg quarter of the city of Hamburg, Germany. With a capacity for 1192 spectators, it places it as Germany's largest theatre. Wikipedia",
+            "type": "",
+            "Address ": "Kirchenallee 39, 20099 Hamburg, Germany",
+            "Opened ": [
+                "1901"
             ],
-            "Capacity ": [
-                "893"
-            ],
-            "Opened ": "July 4, 1821",
             "Phone ": [
-                "+44 20 7930 8890"
+                "+49 40 248710"
             ],
-            "Hours ": [
-                "Theatre"
-            ],
-            "Function ": [
-                "John Nash"
-            ],
-            "Upcoming events": []
+            "People also search for": []
         },
         "Prince Edward Theatre": {
             "label": "Prince Edward Theatre",
@@ -96,6 +72,52 @@
                 " Art Deco"
             ],
             "Upcoming events": []
+        },
+        "Haymarket Theatre": {
+            "label": "Haymarket Theatre",
+            "description": "The Theatre Royal Haymarket is a West End theatre in the Haymarket in the City of Westminster which dates back to 1720, making it the third-oldest London playhouse still in use. Wikipedia",
+            "type": "Theatre in City of Westminster, England",
+            "Address ": [
+                "18 Suffolk St",
+                " London SW1Y 4HT",
+                " United Kingdom"
+            ],
+            "Capacity ": [
+                "893"
+            ],
+            "Opened ": "July 4, 1821",
+            "Phone ": [
+                "+44 20 7930 8890"
+            ],
+            "Hours ": [
+                "Theatre"
+            ],
+            "Function ": [
+                "John Nash"
+            ],
+            "Upcoming events": []
+        },
+        "Sadler's Wells Theatre": {
+            "label": "Sadler's Wells Theatre",
+            "description": "Sadler's Wells Theatre is a performing arts venue located in Rosebery Avenue, Clerkenwell in the London Borough of Islington. The present day theatre is the sixth on the site since 1683. Wikipedia",
+            "type": "",
+            "Address ": [
+                "Rosebery Ave",
+                " London EC1R 4TN",
+                " United Kingdom"
+            ],
+            "Capacity ": [
+                "1",
+                "568"
+            ],
+            "Opened ": [
+                "1683"
+            ],
+            "Phone ": [
+                "+44 844 412 4300"
+            ],
+            "Upcoming events": [],
+            "Recent posts": []
         },
         "Theater Basel": {
             "label": "Theater Basel",
@@ -130,28 +152,6 @@
                 "Michael Scott"
             ],
             "Upcoming events": []
-        },
-        "Sadler's Wells Theatre": {
-            "label": "Sadler's Wells Theatre",
-            "description": "Sadler's Wells Theatre is a performing arts venue located in Rosebery Avenue, Clerkenwell in the London Borough of Islington. The present day theatre is the sixth on the site since 1683. Wikipedia",
-            "type": "",
-            "Address ": [
-                "Rosebery Ave",
-                " London EC1R 4TN",
-                " United Kingdom"
-            ],
-            "Capacity ": [
-                "1",
-                "568"
-            ],
-            "Opened ": [
-                "1683"
-            ],
-            "Phone ": [
-                "+44 844 412 4300"
-            ],
-            "Upcoming events": [],
-            "Recent posts": []
         },
         "Apollo Theater Chicago": {
             "label": "Apollo Theater Chicago",
@@ -246,62 +246,6 @@
             ],
             "People also search for": []
         },
-        "Théâtre Hébertot": {
-            "label": "Théâtre Hébertot",
-            "description": "Théâtre Hébertot is a theatre at 78, boulevard des Batignolles, in the 17th arrondissement of Paris, France. The theatre, completed in 1838 and opening as the Théâtre des Batignolles, was later renamed Théâtre des Arts in 1907. Wikipedia",
-            "type": "",
-            "Address ": [
-                "78bis Boulevard des Batignolles",
-                " 75017 Paris",
-                " France"
-            ],
-            "Opened ": [
-                "1838"
-            ],
-            "Phone ": [
-                "+33 1 43 87 23 23"
-            ],
-            "People also search for": []
-        },
-        "Théâtre Antoine-Simone Berriau": {
-            "label": "Théâtre Antoine-Simone Berriau",
-            "description": "Théâtre Antoine-Simone Berriau is a theater located at 14 boulevard de Strasbourg in the 10th arrondissement of Paris.\nThe 800-seat Italian Style theater was built in the year 1866. Wikipedia",
-            "type": "Theater",
-            "Opened ": [
-                "1866"
-            ],
-            "People also search for": []
-        },
-        "Théâtre Marigny": {
-            "label": "Théâtre Marigny",
-            "description": "The Théâtre Marigny is a theatre in Paris, situated near the junction of the Champs-Élysées and the Avenue Marigny in the 8th arrondissement. Wikipedia",
-            "type": "",
-            "Address ": [
-                "Carré Marigny",
-                " 75008 Paris",
-                " France"
-            ],
-            "Opened ": [
-                "1883"
-            ],
-            "Hours ": [
-                "+33 1 53 96 70 30"
-            ],
-            "Phone ": [
-                "Charles Garnier"
-            ],
-            "People also search for": []
-        },
-        "Théâtre de l'Atelier": {
-            "label": "Théâtre de l'Atelier",
-            "description": "The Théâtre de l'Atelier is a theatre at 1, place Charles Dullin in the 18th arrondissement of Paris. Wikipedia",
-            "type": "",
-            "Address ": [
-                "1 Place Charles Dullin",
-                " 75018 Paris",
-                " France"
-            ]
-        },
         "Royal Opera House": {
             "label": "Royal Opera House, London",
             "description": "The Royal Opera House is an opera house and major performing arts venue in Covent Garden, central London. Wikipedia",
@@ -337,15 +281,60 @@
             "Upcoming events": [],
             "Recent posts": []
         },
-        "Artsdepot": {
-            "label": "artsdepot",
-            "description": "The artsdepot is a multi-purpose cultural centre located in North Finchley, in the London borough of Barnet. It was officially opened on 23 October 2004 for the enjoyment and development of the arts in North London. Wikipedia",
+        "Théâtre Antoine-Simone Berriau": {
+            "label": "Théâtre Antoine-Simone Berriau",
+            "description": "Théâtre Antoine-Simone Berriau is a theater located at 14 boulevard de Strasbourg in the 10th arrondissement of Paris.\nThe 800-seat Italian Style theater was built in the year 1866. Wikipedia",
+            "type": "Theater",
+            "Opened ": [
+                "1866"
+            ],
+            "People also search for": []
+        },
+        "Théâtre Hébertot": {
+            "label": "Théâtre Hébertot",
+            "description": "Théâtre Hébertot is a theatre at 78, boulevard des Batignolles, in the 17th arrondissement of Paris, France. The theatre, completed in 1838 and opening as the Théâtre des Batignolles, was later renamed Théâtre des Arts in 1907. Wikipedia",
             "type": "",
             "Address ": [
-                "5 Nether St",
-                " North Finchley",
-                " London N12 0GA",
-                " United Kingdom"
+                "78bis Boulevard des Batignolles",
+                " 75017 Paris",
+                " France"
+            ],
+            "Opened ": [
+                "1838"
+            ],
+            "Phone ": [
+                "+33 1 43 87 23 23"
+            ],
+            "People also search for": []
+        },
+        "Théâtre Marigny": {
+            "label": "Théâtre Marigny",
+            "description": "The Théâtre Marigny is a theatre in Paris, situated near the junction of the Champs-Élysées and the Avenue Marigny in the 8th arrondissement. Wikipedia",
+            "type": "",
+            "Address ": [
+                "Carré Marigny",
+                " 75008 Paris",
+                " France"
+            ],
+            "Opened ": [
+                "1883"
+            ],
+            "Hours ": [
+                "+33 1 53 96 70 30"
+            ],
+            "Phone ": [
+                "Charles Garnier"
+            ],
+            "People also search for": []
+        },
+        "Théâtre de l'Atelier": {
+            "label": "Théâtre de l'Atelier",
+            "description": "The Théâtre de l'Atelier is a theatre at 1, place Charles Dullin in the 18th arrondissement of Paris. Wikipedia",
+            "type": "",
+            "Address ": [
+                "1 Place Charles Dullin",
+                " 75018 Paris",
+                " France"
             ]
         },
         "Théâtre des Capucines": {
@@ -401,6 +390,17 @@
                 "Charles J. Phipps"
             ],
             "People also search for": []
+        },
+        "Artsdepot": {
+            "label": "artsdepot",
+            "description": "The artsdepot is a multi-purpose cultural centre located in North Finchley, in the London borough of Barnet. It was officially opened on 23 October 2004 for the enjoyment and development of the arts in North London. Wikipedia",
+            "type": "",
+            "Address ": [
+                "5 Nether St",
+                " North Finchley",
+                " London N12 0GA",
+                " United Kingdom"
+            ]
         },
         "Barbican Centre": {
             "label": "Barbican Centre",
@@ -486,27 +486,6 @@
             ],
             "People also search for": []
         },
-        "Ferguson Center for the Arts": {
-            "label": "Ferguson Center for the Arts",
-            "description": "The Ferguson Center for the Arts is a theater and concert hall on the campus of Christopher Newport University in Newport News, Virginia, USA. The complex fully opened in September 2005 with two concert halls and many other facilities. Wikipedia",
-            "type": "Theater",
-            "Address ": [
-                "1 University Place",
-                " Newport News",
-                " Virginia"
-            ],
-            "Capacity ": [
-                "1",
-                "753"
-            ],
-            "Opened ": [
-                "September 2005"
-            ],
-            "Architect ": [
-                "I. M. Pei"
-            ],
-            "People also search for": []
-        },
         "Criterion Theatre": {
             "label": "Criterion Theatre",
             "description": "The Criterion Theatre is a West End theatre situated on Piccadilly Circus in the City of Westminster, and is a Grade II* listed building. It has an official capacity of 588. Wikipedia",
@@ -530,6 +509,27 @@
                 "Thomas Verity"
             ],
             "Upcoming events": [],
+            "People also search for": []
+        },
+        "Ferguson Center for the Arts": {
+            "label": "Ferguson Center for the Arts",
+            "description": "The Ferguson Center for the Arts is a theater and concert hall on the campus of Christopher Newport University in Newport News, Virginia, USA. The complex fully opened in September 2005 with two concert halls and many other facilities. Wikipedia",
+            "type": "Theater",
+            "Address ": [
+                "1 University Place",
+                " Newport News",
+                " Virginia"
+            ],
+            "Capacity ": [
+                "1",
+                "753"
+            ],
+            "Opened ": [
+                "September 2005"
+            ],
+            "Architect ": [
+                "I. M. Pei"
+            ],
             "People also search for": []
         },
         "Guthrie Theater": {
@@ -624,6 +624,24 @@
             ],
             "People also search for": []
         },
+        "Pioneer Playhouse": {
+            "label": "Pioneer Playhouse",
+            "description": "The Pioneer Playhouse, located in Danville, Kentucky, is the oldest outdoor theater in the state of Kentucky. Wikipedia",
+            "type": "Theater",
+            "Address ": [
+                "840 Stanford Rd",
+                " Danville",
+                " KY 40422",
+                " United States"
+            ],
+            "Opened ": [
+                "1950"
+            ],
+            "Phone ": [
+                "(859) 236-2747"
+            ],
+            "People also search for": []
+        },
         "Morton H. Meyerson Symphony Center": {
             "label": "Morton H. Meyerson Symphony Center, Dallas",
             "description": "The Morton H. Meyerson Symphony Center is a concert hall located in the Arts District of downtown Dallas, Texas. Wikipedia",
@@ -648,67 +666,6 @@
             ],
             "Function ": [
                 "I. M. Pei"
-            ],
-            "Upcoming events": []
-        },
-        "Pioneer Playhouse": {
-            "label": "Pioneer Playhouse",
-            "description": "The Pioneer Playhouse, located in Danville, Kentucky, is the oldest outdoor theater in the state of Kentucky. Wikipedia",
-            "type": "Theater",
-            "Address ": [
-                "840 Stanford Rd",
-                " Danville",
-                " KY 40422",
-                " United States"
-            ],
-            "Opened ": [
-                "1950"
-            ],
-            "Phone ": [
-                "(859) 236-2747"
-            ],
-            "People also search for": []
-        },
-        "Teatro Tapia": {
-            "label": "Teatro Tapia",
-            "description": "Teatro Alejandro Tapia y Rivera, is among the oldest free-standing drama stage buildings under U.S. flag still in use. It is located in San Juan, Puerto Rico. It is named after Alejandro Tapia y Rivera, a Puerto Rican poet and dramatist. Wikipedia",
-            "type": "Building in Puerto Rico",
-            "Address ": [
-                "Calle Fortaleza",
-                " San Juan",
-                " 00901",
-                " Puerto Rico"
-            ],
-            "Opened ": [
-                "1832"
-            ],
-            "Phone ": [
-                "+1 787-721-0180"
-            ],
-            "Function ": [
-                "Theatre"
-            ],
-            "People also search for": []
-        },
-        "Richmond Theatre": {
-            "label": "Richmond Theatre",
-            "description": "The present Richmond Theatre, in the London Borough of Richmond upon Thames, is a British Victorian theatre located on Little Green, adjacent to Richmond Green. Wikipedia",
-            "type": "",
-            "Address ": [
-                "The Green",
-                " Richmond",
-                " Surrey TW9 1QJ",
-                " United Kingdom"
-            ],
-            "Capacity ": [
-                "840"
-            ],
-            "Opened ": "September 18, 1899",
-            "Phone ": [
-                "+44 20 8332 4500"
-            ],
-            "Hours ": [
-                "Frank Matcham"
             ],
             "Upcoming events": []
         },
@@ -737,6 +694,49 @@
             ],
             "People also search for": []
         },
+        "Richmond Theatre": {
+            "label": "Richmond Theatre",
+            "description": "The present Richmond Theatre, in the London Borough of Richmond upon Thames, is a British Victorian theatre located on Little Green, adjacent to Richmond Green. Wikipedia",
+            "type": "",
+            "Address ": [
+                "The Green",
+                " Richmond",
+                " Surrey TW9 1QJ",
+                " United Kingdom"
+            ],
+            "Capacity ": [
+                "840"
+            ],
+            "Opened ": "September 18, 1899",
+            "Phone ": [
+                "+44 20 8332 4500"
+            ],
+            "Hours ": [
+                "Frank Matcham"
+            ],
+            "Upcoming events": []
+        },
+        "Teatro Tapia": {
+            "label": "Teatro Tapia",
+            "description": "Teatro Alejandro Tapia y Rivera, is among the oldest free-standing drama stage buildings under U.S. flag still in use. It is located in San Juan, Puerto Rico. It is named after Alejandro Tapia y Rivera, a Puerto Rican poet and dramatist. Wikipedia",
+            "type": "Building in Puerto Rico",
+            "Address ": [
+                "Calle Fortaleza",
+                " San Juan",
+                " 00901",
+                " Puerto Rico"
+            ],
+            "Opened ": [
+                "1832"
+            ],
+            "Phone ": [
+                "+1 787-721-0180"
+            ],
+            "Function ": [
+                "Theatre"
+            ],
+            "People also search for": []
+        },
         "Wilbur Theatre": {
             "label": "Wilbur Theatre",
             "description": "Wilbur Theatre is a historic theater at 244-250 Tremont Street in Boston, Massachusetts. The Wilbur Theatre was originally opened in 1914 but was revitalized in 2008. Wikipedia",
@@ -754,6 +754,27 @@
                 "(617) 248-9700"
             ],
             "Upcoming events": []
+        },
+        "La MaMa Experimental Theatre Club": {
+            "label": "La MaMa Experimental Theatre Club",
+            "description": "La MaMa Experimental Theatre Club is an off-off Broadway theatre founded in 1961 by Ellen Stewart, and named in reference to her. Wikipedia",
+            "type": "",
+            "Address ": [
+                "74 E 4th St",
+                " New York",
+                " NY 10003",
+                " United States"
+            ],
+            "Phone ": [
+                "(212) 475-7710"
+            ],
+            "Founder ": [
+                "Ellen Stewart"
+            ],
+            "Founded ": [
+                "1961"
+            ],
+            "People also search for": []
         },
         "Baxter Theatre Centre": {
             "label": "Baxter Theatre Centre, Cape Town",
@@ -780,55 +801,6 @@
             "description": "",
             "type": "",
             "People also search for": []
-        },
-        "La MaMa Experimental Theatre Club": {
-            "label": "La MaMa Experimental Theatre Club",
-            "description": "La MaMa Experimental Theatre Club is an off-off Broadway theatre founded in 1961 by Ellen Stewart, and named in reference to her. Wikipedia",
-            "type": "",
-            "Address ": [
-                "74 E 4th St",
-                " New York",
-                " NY 10003",
-                " United States"
-            ],
-            "Phone ": [
-                "(212) 475-7710"
-            ],
-            "Founder ": [
-                "Ellen Stewart"
-            ],
-            "Founded ": [
-                "1961"
-            ],
-            "People also search for": []
-        },
-        "The Public Theater": {
-            "label": "Public Theater",
-            "description": "The Public Theater is a New York City arts organization founded as The Shakespeare Workshop in 1954 by Joseph Papp, with the intention of showcasing the works of up-and-coming playwrights and performers. Wikipedia",
-            "type": "Theater Company",
-            "Founder ": [
-                "Joseph Papp"
-            ],
-            "Founded ": [
-                "1954"
-            ],
-            "Awards ": [
-                "Tony Award for Best Revival of a Musical",
-                " Drama Desk Special Award",
-                " Drama Desk Award for Unique Theatrical Experience",
-                " Drama Desk Award for Outstanding Revival of a Musical",
-                " Drama Desk Vernon Rice Award",
-                " Obie Award for Special CitationsMore"
-            ],
-            "Nominations ": [
-                "Tony Award for Best Musical",
-                " Tony Award for Best Play",
-                " Tony Award for Best Revival of a Play",
-                " Drama Desk Award for Outstanding Musical",
-                " Drama Desk Award for Outstanding Play",
-                " Drama Desk Award for Outstanding Revival of a Play",
-                " Drama Desk Award for Outstanding RevivalMore"
-            ]
         },
         "Damascus Opera House": {
             "label": "Damascus Opera House",
@@ -874,6 +846,48 @@
             ],
             "Upcoming events": []
         },
+        "The Public Theater": {
+            "label": "Public Theater",
+            "description": "The Public Theater is a New York City arts organization founded as The Shakespeare Workshop in 1954 by Joseph Papp, with the intention of showcasing the works of up-and-coming playwrights and performers. Wikipedia",
+            "type": "Theater Company",
+            "Founder ": [
+                "Joseph Papp"
+            ],
+            "Founded ": [
+                "1954"
+            ],
+            "Awards ": [
+                "Tony Award for Best Revival of a Musical",
+                " Drama Desk Special Award",
+                " Drama Desk Award for Unique Theatrical Experience",
+                " Drama Desk Award for Outstanding Revival of a Musical",
+                " Drama Desk Vernon Rice Award",
+                " Obie Award for Special CitationsMore"
+            ],
+            "Nominations ": [
+                "Tony Award for Best Musical",
+                " Tony Award for Best Play",
+                " Tony Award for Best Revival of a Play",
+                " Drama Desk Award for Outstanding Musical",
+                " Drama Desk Award for Outstanding Play",
+                " Drama Desk Award for Outstanding Revival of a Play",
+                " Drama Desk Award for Outstanding RevivalMore"
+            ]
+        },
+        "Albany Theatre": {
+            "label": "Albany Theatre",
+            "description": "The Albany is a multi-purpose arts centre in Deptford, south-east London.\nFacilities include a flexible performance space holding up to 300 seated or 600 standing and a bar, two studio theatres, a performance cafe and rehearsal / meeting rooms. Wikipedia",
+            "type": "",
+            "Address ": [
+                "Douglas Way",
+                " London SE8 4AG",
+                " United Kingdom"
+            ],
+            "Hours ": [
+                "+44 20 8692 4446"
+            ],
+            "People also search for": []
+        },
         "Ambassadors Theatre": {
             "label": "Ambassadors Theatre London",
             "description": "The Ambassadors Theatre, is a West End theatre located in West Street, near Cambridge Circus on the Charing Cross Road in the City of Westminster. Wikipedia",
@@ -897,20 +911,6 @@
                 "W. G. R. Sprague"
             ],
             "Upcoming events": [],
-            "People also search for": []
-        },
-        "Albany Theatre": {
-            "label": "Albany Theatre",
-            "description": "The Albany is a multi-purpose arts centre in Deptford, south-east London.\nFacilities include a flexible performance space holding up to 300 seated or 600 standing and a bar, two studio theatres, a performance cafe and rehearsal / meeting rooms. Wikipedia",
-            "type": "",
-            "Address ": [
-                "Douglas Way",
-                " London SE8 4AG",
-                " United Kingdom"
-            ],
-            "Hours ": [
-                "+44 20 8692 4446"
-            ],
             "People also search for": []
         },
         "Avalon Theatre": {
@@ -1005,6 +1005,28 @@
             ],
             "People also search for": []
         },
+        "Curtain Theatre": {
+            "label": "Curtain Theatre",
+            "description": "The Curtain Theatre was an Elizabethan playhouse located in Curtain Close, Shoreditch, just outside the City of London. It opened in 1577, and continued staging plays until 1622. Wikipedia",
+            "type": ""
+        },
+        "De Montfort Hall": {
+            "label": "De Montfort Hall",
+            "description": "De Montfort Hall is a music and performance venue in Leicester, England. It is situated adjacent to Victoria Park and is named after Simon de Montfort, Earl of Leicester. Wikipedia",
+            "type": "",
+            "Address ": [
+                "Granville Rd",
+                " Leicester LE1 7RU",
+                " United Kingdom"
+            ],
+            "Opened ": [
+                "1913"
+            ],
+            "Phone ": [
+                "+44 116 233 3111"
+            ],
+            "Upcoming events": []
+        },
         "Empire, Leicester Square": {
             "label": "Empire, Leicester Square",
             "description": "The Empire is a large cinema on the north side of Leicester Square, in the City of Westminster, London. It is one of many large cinemas in, and adjoining, the Square which are used for film premières and first runs. Wikipedia",
@@ -1025,28 +1047,6 @@
                 " Frank Verity"
             ],
             "People also search for": []
-        },
-        "De Montfort Hall": {
-            "label": "De Montfort Hall",
-            "description": "De Montfort Hall is a music and performance venue in Leicester, England. It is situated adjacent to Victoria Park and is named after Simon de Montfort, Earl of Leicester. Wikipedia",
-            "type": "",
-            "Address ": [
-                "Granville Rd",
-                " Leicester LE1 7RU",
-                " United Kingdom"
-            ],
-            "Opened ": [
-                "1913"
-            ],
-            "Phone ": [
-                "+44 116 233 3111"
-            ],
-            "Upcoming events": []
-        },
-        "Curtain Theatre": {
-            "label": "Curtain Theatre",
-            "description": "The Curtain Theatre was an Elizabethan playhouse located in Curtain Close, Shoreditch, just outside the City of London. It opened in 1577, and continued staging plays until 1622. Wikipedia",
-            "type": ""
         },
         "Fitzgerald Theater": {
             "label": "Fitzgerald Theater",
@@ -1072,17 +1072,6 @@
                 "Marshall and Fox"
             ],
             "Upcoming events": []
-        },
-        "Georgian Theatre Royal": {
-            "label": "Georgian Theatre Royal",
-            "description": "The Georgian Theatre Royal is a theatre and historic Georgian playhouse in the market town of Richmond, North Yorkshire, England. It is among the oldest of Britain's extant theatres. Wikipedia",
-            "type": "",
-            "Address ": [
-                "Victoria Rd",
-                " Richmond",
-                " Yorkshire DL10 4DW",
-                " United Kingdom"
-            ]
         },
         "Fortune Theatre, Dunedin": {
             "label": "Fortune Theatre, Dunedin",
@@ -1110,6 +1099,17 @@
                 "Robert Lawson"
             ],
             "People also search for": []
+        },
+        "Georgian Theatre Royal": {
+            "label": "Georgian Theatre Royal",
+            "description": "The Georgian Theatre Royal is a theatre and historic Georgian playhouse in the market town of Richmond, North Yorkshire, England. It is among the oldest of Britain's extant theatres. Wikipedia",
+            "type": "",
+            "Address ": [
+                "Victoria Rd",
+                " Richmond",
+                " Yorkshire DL10 4DW",
+                " United Kingdom"
+            ]
         },
         "Grand Opera House, Belfast": {
             "label": "Grand Opera House, Belfast",
@@ -1139,6 +1139,16 @@
             ],
             "People also search for": []
         },
+        "Landmark Theater (Richmond, Virginia)": {
+            "label": "Landmark Theater",
+            "description": "The Altria Theater in Richmond, Virginia, United States is a theater at the southwest corner of Monroe Park, the largest venue of Richmond CenterStage's performing arts complex. Wikipedia",
+            "type": "Richmond, Virginia",
+            "Opened ": "October 28, 1927",
+            "Architect ": [
+                "Charles M. Robinson"
+            ],
+            "Upcoming events": []
+        },
         "Imperial Theatre": {
             "label": "Imperial Theatre, Saint John",
             "description": "The Imperial Theatre, in Saint John, New Brunswick, was designed by Philadelphia architect Albert Westover and built in 1912 by the Imperial Theatre by the Keith-Albee-Orpheum Corporation vaudeville ... Wikipedia",
@@ -1157,23 +1167,6 @@
             ],
             "People also search for": []
         },
-        "Koncerthuset": {
-            "label": "The Koncerthuset",
-            "description": "The Koncerthuset by Jean Nouvel is a part of the new DR Byen, that houses the Danish Broadcasting Corporation, DR. The concert hall and the DR Town are located in the northern part of Ørestad - an ambitious development area in Copenhagen, Denmark. Wikipedia",
-            "type": "Concert Hall in Copenhagen, Denmark",
-            "Address ": "Emil Holms Kanal 20, 2300 København, Denmark",
-            "Opened ": "January 17, 2009",
-            "Phone ": [
-                "+45 35 20 62 62"
-            ],
-            "Function ": [
-                "Concert Hall"
-            ],
-            "Architect ": [
-                "Jean Nouvel"
-            ],
-            "Upcoming events": []
-        },
         "Limerick Athenaeum": {
             "label": "Limerick Athenaeum",
             "description": "Limerick Athenaeum was a centre of learning, established in Limerick city, Ireland, in 1852. Wikipedia",
@@ -1182,36 +1175,12 @@
                 "1855"
             ]
         },
-        "Landmark Theater (Richmond, Virginia)": {
-            "label": "Landmark Theater",
-            "description": "The Altria Theater in Richmond, Virginia, United States is a theater at the southwest corner of Monroe Park, the largest venue of Richmond CenterStage's performing arts complex. Wikipedia",
-            "type": "Richmond, Virginia",
-            "Opened ": "October 28, 1927",
-            "Architect ": [
-                "Charles M. Robinson"
-            ],
-            "Upcoming events": []
-        },
         "Loew's Grand Theatre": {
             "label": "Loew's Grand Theatre",
             "description": "Loew's Grand Theater, originally DeGive's Grand Opera House, was a movie theater at the corner of Peachtree and Forsyth Streets in downtown Atlanta, Georgia, in the United States. Wikipedia",
             "type": "Movie theatre",
             "Opened ": [
                 "1893"
-            ]
-        },
-        "Lyric Theatre (Hammersmith)": {
-            "label": "Lyric Theatre",
-            "description": "The Lyric Theatre, also known as the Lyric Hammersmith, is a theatre in King Street, in the London Borough of Hammersmith and Fulham, which takes pride in its original, \"groundbreaking\" productions. Wikipedia",
-            "type": "Hammersmith",
-            "Address ": [
-                "Lyric Square",
-                " King St",
-                " London W6 0QL",
-                " United Kingdom"
-            ],
-            "Phone ": [
-                "+44 20 8741 6850"
             ]
         },
         "London Palladium": {
@@ -1240,6 +1209,23 @@
             "Function ": [
                 "Frank Matcham",
                 " Walter Gibbons"
+            ],
+            "Upcoming events": []
+        },
+        "Koncerthuset": {
+            "label": "The Koncerthuset",
+            "description": "The Koncerthuset by Jean Nouvel is a part of the new DR Byen, that houses the Danish Broadcasting Corporation, DR. The concert hall and the DR Town are located in the northern part of Ørestad - an ambitious development area in Copenhagen, Denmark. Wikipedia",
+            "type": "Concert Hall in Copenhagen, Denmark",
+            "Address ": "Emil Holms Kanal 20, 2300 København, Denmark",
+            "Opened ": "January 17, 2009",
+            "Phone ": [
+                "+45 35 20 62 62"
+            ],
+            "Function ": [
+                "Concert Hall"
+            ],
+            "Architect ": [
+                "Jean Nouvel"
             ],
             "Upcoming events": []
         },
@@ -1297,31 +1283,19 @@
             ],
             "Upcoming events": []
         },
-        "Mississippi Nights": {
-            "label": "Mississippi Nights",
-            "description": "Mississippi Nights was a music club in St. Louis, Missouri. It was located at 914 N 1st Street, on the western bank of the Mississippi River, four blocks north of the Gateway Arch in Laclede's Landing. Wikipedia",
-            "type": ""
-        },
-        "Marlowe Theatre": {
-            "label": "Marlowe Theatre",
-            "description": "The Marlowe Theatre is a major 1,200-seat theatre in Canterbury, England.\nIt closed in March 2009 for redevelopment and a brand-new Marlowe Theatre reopened on 4 October 2011. Wikipedia",
-            "type": "",
+        "Lyric Theatre (Hammersmith)": {
+            "label": "Lyric Theatre",
+            "description": "The Lyric Theatre, also known as the Lyric Hammersmith, is a theatre in King Street, in the London Borough of Hammersmith and Fulham, which takes pride in its original, \"groundbreaking\" productions. Wikipedia",
+            "type": "Hammersmith",
             "Address ": [
-                "The Friars",
-                " Canterbury",
-                " Kent CT1 2AS",
+                "Lyric Square",
+                " King St",
+                " London W6 0QL",
                 " United Kingdom"
             ],
-            "Opened ": [
-                "1984"
-            ],
             "Phone ": [
-                "+44 1227 787787"
-            ],
-            "Architect ": [
-                "Keith Williams"
-            ],
-            "Upcoming events": []
+                "+44 20 8741 6850"
+            ]
         },
         "Mark Taper Forum": {
             "label": "Mark Taper Forum",
@@ -1352,6 +1326,55 @@
             ],
             "People also search for": []
         },
+        "Marlowe Theatre": {
+            "label": "Marlowe Theatre",
+            "description": "The Marlowe Theatre is a major 1,200-seat theatre in Canterbury, England.\nIt closed in March 2009 for redevelopment and a brand-new Marlowe Theatre reopened on 4 October 2011. Wikipedia",
+            "type": "",
+            "Address ": [
+                "The Friars",
+                " Canterbury",
+                " Kent CT1 2AS",
+                " United Kingdom"
+            ],
+            "Opened ": [
+                "1984"
+            ],
+            "Phone ": [
+                "+44 1227 787787"
+            ],
+            "Architect ": [
+                "Keith Williams"
+            ],
+            "Upcoming events": []
+        },
+        "Mississippi Nights": {
+            "label": "Mississippi Nights",
+            "description": "Mississippi Nights was a music club in St. Louis, Missouri. It was located at 914 N 1st Street, on the western bank of the Mississippi River, four blocks north of the Gateway Arch in Laclede's Landing. Wikipedia",
+            "type": ""
+        },
+        "O2 Apollo Manchester": {
+            "label": "O2 Apollo Manchester",
+            "description": "The O2 Apollo Manchester is a concert venue in Ardwick Green, Manchester, England. Locally known as The Apollo, it is a Grade II listed building, with a capacity of 3,500. Wikipedia",
+            "type": "Building in Manchester, England",
+            "Address ": [
+                "Stockport Rd",
+                " Ardwick Green",
+                " Manchester M12 6AP",
+                " United Kingdom"
+            ],
+            "Opened ": [
+                "1938"
+            ],
+            "Architectural style ": [
+                "Art Deco"
+            ],
+            "Architects ": [
+                "Peter Cummings",
+                " R. Gillespie Williams",
+                " Alex Irvine"
+            ],
+            "Upcoming events": []
+        },
         "Neil Simon Theatre": {
             "label": "Neil Simon Theatre",
             "description": "The Neil Simon Theatre, formerly the Alvin Theatre, is a Broadway venue built in 1927 and located at 250 West 52nd Street in midtown-Manhattan. Wikipedia",
@@ -1377,67 +1400,6 @@
                 "Herbert J. Krapp"
             ],
             "Upcoming events": []
-        },
-        "Mixed Blood Theatre Company": {
-            "label": "Mixed Blood Theatre",
-            "description": "",
-            "type": "",
-            "People also search for": []
-        },
-        "O2 Apollo Manchester": {
-            "label": "O2 Apollo Manchester",
-            "description": "The O2 Apollo Manchester is a concert venue in Ardwick Green, Manchester, England. Locally known as The Apollo, it is a Grade II listed building, with a capacity of 3,500. Wikipedia",
-            "type": "Building in Manchester, England",
-            "Address ": [
-                "Stockport Rd",
-                " Ardwick Green",
-                " Manchester M12 6AP",
-                " United Kingdom"
-            ],
-            "Opened ": [
-                "1938"
-            ],
-            "Architectural style ": [
-                "Art Deco"
-            ],
-            "Architects ": [
-                "Peter Cummings",
-                " R. Gillespie Williams",
-                " Alex Irvine"
-            ],
-            "Upcoming events": []
-        },
-        "Philharmonie Luxembourg": {
-            "label": "Philharmonie Luxembourg",
-            "description": "The Grande-Duchesse Joséphine-Charlotte Concert Hall is a concert hall located on the Kirchberg plateau in the City of Luxembourg. Opened in 2005, it now plays host to 400 performances each year and is one of the main concert halls in Europe. Wikipedia",
-            "type": "",
-            "Address ": [
-                "1 Place de l'Europe",
-                " 1499 Luxembourg"
-            ],
-            "Opened ": "June 26, 2005",
-            "Hours ": [
-                "Christian de Portzamparc"
-            ],
-            "People also search for": []
-        },
-        "Queen's Film Theatre": {
-            "label": "Queen's Film Theatre",
-            "description": "The Queen's Film Theatre or QFT is a small independent cinema at Queen's University Belfast, Northern Ireland that was founded in 1968. Wikipedia",
-            "type": "Cinema in Belfast, Northern Ireland",
-            "Address ": [
-                "20 University Square",
-                " Northern Ireland",
-                " Belfast BT7 1PA",
-                " United Kingdom"
-            ],
-            "Opened ": [
-                "1968"
-            ],
-            "Function ": [
-                "Movie theater"
-            ],
-            "People also search for": []
         },
         "Phoenix Theatre (London)": {
             "label": "Phoenix Theatre",
@@ -1466,6 +1428,20 @@
             ],
             "Upcoming events": []
         },
+        "Philharmonie Luxembourg": {
+            "label": "Philharmonie Luxembourg",
+            "description": "The Grande-Duchesse Joséphine-Charlotte Concert Hall is a concert hall located on the Kirchberg plateau in the City of Luxembourg. Opened in 2005, it now plays host to 400 performances each year and is one of the main concert halls in Europe. Wikipedia",
+            "type": "",
+            "Address ": [
+                "1 Place de l'Europe",
+                " 1499 Luxembourg"
+            ],
+            "Opened ": "June 26, 2005",
+            "Hours ": [
+                "Christian de Portzamparc"
+            ],
+            "People also search for": []
+        },
         "Queen's Theatre, Hornchurch": {
             "label": "Queen's Theatre, Hornchurch",
             "description": "The Queen's Theatre, Hornchurch is a 500-seat theatre located in Hornchurch in the London Borough of Havering, east London.\nThe theatre opened in its current purpose-built site on Billet Lane, Hornchurch in 1975. Wikipedia",
@@ -1490,6 +1466,30 @@
             ],
             "Upcoming events": []
         },
+        "Queen's Film Theatre": {
+            "label": "Queen's Film Theatre",
+            "description": "The Queen's Film Theatre or QFT is a small independent cinema at Queen's University Belfast, Northern Ireland that was founded in 1968. Wikipedia",
+            "type": "Cinema in Belfast, Northern Ireland",
+            "Address ": [
+                "20 University Square",
+                " Northern Ireland",
+                " Belfast BT7 1PA",
+                " United Kingdom"
+            ],
+            "Opened ": [
+                "1968"
+            ],
+            "Function ": [
+                "Movie theater"
+            ],
+            "People also search for": []
+        },
+        "Mixed Blood Theatre Company": {
+            "label": "Mixed Blood Theatre",
+            "description": "",
+            "type": "",
+            "People also search for": []
+        },
         "Studio 54": {
             "label": "Studio 54",
             "description": "Studio 54 was a popular New York nightclub from 1977 until 1981 when it was sold by founders and creators Steve Rubell and Ian Schrager. Wikipedia",
@@ -1512,19 +1512,6 @@
                 " Eugene De Rosa"
             ],
             "See results about": []
-        },
-        "Théâtre national de Chaillot": {
-            "label": "Théâtre national de Chaillot",
-            "description": "The Théâtre National de Chaillot is a theatre located in the Palais de Chaillot at 1, place du Trocadero, in the 16th arrondissement of Paris. Wikipedia",
-            "type": "",
-            "Address ": [
-                "1 Place du Trocadéro et du 11 Novembre",
-                " 75116 Paris",
-                " France"
-            ],
-            "Hours ": [
-                "+33 1 53 65 30 00"
-            ]
         },
         "The Playhouse, Weston-super-Mare": {
             "label": "The Playhouse, Weston-super-Mare",
@@ -1549,19 +1536,18 @@
             ],
             "Upcoming events": []
         },
-        "The Ritz (Manchester)": {
-            "label": "The Ritz",
-            "description": "The Ritz is a live music venue in Whitworth Street West in Manchester, England. Built in 1927, The Ritz was designated a Grade II listed building on 6 June 1994. The venue is notable for its sprung dance floor. Wikipedia",
-            "type": "Manchester",
+        "Théâtre national de Chaillot": {
+            "label": "Théâtre national de Chaillot",
+            "description": "The Théâtre National de Chaillot is a theatre located in the Palais de Chaillot at 1, place du Trocadero, in the 16th arrondissement of Paris. Wikipedia",
+            "type": "",
             "Address ": [
-                "Whitworth St W",
-                " Manchester M1 5NQ",
-                " United Kingdom"
+                "1 Place du Trocadéro et du 11 Novembre",
+                " 75116 Paris",
+                " France"
             ],
-            "Phone ": [
-                "+44 161 236 3234"
-            ],
-            "Upcoming events": []
+            "Hours ": [
+                "+33 1 53 65 30 00"
+            ]
         },
         "The Seagull (theatre)": {
             "label": "The Seagull",
@@ -1581,15 +1567,19 @@
             ],
             "People also search for": []
         },
-        "Theatre Royal, Dumfries": {
-            "label": "Theatre Royal, Dumfries",
-            "description": "The Theatre Royal in Dumfries, Scotland is a the oldest working theatre in Scotland. The Theatre is owned by the Guild of Players who bought it in 1959, thereby saving it from demolition. Wikipedia",
-            "type": "",
+        "The Ritz (Manchester)": {
+            "label": "The Ritz",
+            "description": "The Ritz is a live music venue in Whitworth Street West in Manchester, England. Built in 1927, The Ritz was designated a Grade II listed building on 6 June 1994. The venue is notable for its sprung dance floor. Wikipedia",
+            "type": "Manchester",
             "Address ": [
-                "58-70 Shakespeare St",
-                " Dumfries DG1 2JH",
+                "Whitworth St W",
+                " Manchester M1 5NQ",
                 " United Kingdom"
-            ]
+            ],
+            "Phone ": [
+                "+44 161 236 3234"
+            ],
+            "Upcoming events": []
         },
         "The Thekla": {
             "label": "Thekla",
@@ -1632,26 +1622,28 @@
             ],
             "People also search for": []
         },
-        "The Tabernacle": {
-            "label": "The Tabernacle",
-            "description": "The Tabernacle, known colloquially as The Tabby, is a mid-size concert hall in the U.S. city of Atlanta. Wikipedia",
+        "Theatre Royal, Dumfries": {
+            "label": "Theatre Royal, Dumfries",
+            "description": "The Theatre Royal in Dumfries, Scotland is a the oldest working theatre in Scotland. The Theatre is owned by the Guild of Players who bought it in 1959, thereby saving it from demolition. Wikipedia",
             "type": "",
             "Address ": [
-                "152 Luckie St NW",
-                " Atlanta",
-                " GA 30303",
-                " United States"
-            ],
-            "Opened ": [
-                "1911"
-            ],
-            "Phone ": [
-                "(404) 659-9022"
+                "58-70 Shakespeare St",
+                " Dumfries DG1 2JH",
+                " United Kingdom"
+            ]
+        },
+        "Theatre Royal, Plymouth": {
+            "label": "Theatre Royal, Plymouth",
+            "description": "The Theatre Royal Plymouth in Plymouth, Devon, England is \"the largest and best attended regional producing theatre in the UK and the leading promoter of theatre in the south west\", according to Arts Council England. Wikipedia",
+            "type": "",
+            "Address ": [
+                "Royal Parade",
+                " Plymouth PL1 2TR",
+                " United Kingdom"
             ],
             "Hours ": [
-                "R. H. Hunt"
+                "+44 1752 267222"
             ],
-            "Upcoming events": [],
             "People also search for": []
         },
         "Trafalgar Studios": {
@@ -1683,6 +1675,28 @@
             ],
             "Upcoming events": []
         },
+        "The Tabernacle": {
+            "label": "The Tabernacle",
+            "description": "The Tabernacle, known colloquially as The Tabby, is a mid-size concert hall in the U.S. city of Atlanta. Wikipedia",
+            "type": "",
+            "Address ": [
+                "152 Luckie St NW",
+                " Atlanta",
+                " GA 30303",
+                " United States"
+            ],
+            "Opened ": [
+                "1911"
+            ],
+            "Phone ": [
+                "(404) 659-9022"
+            ],
+            "Hours ": [
+                "R. H. Hunt"
+            ],
+            "Upcoming events": [],
+            "People also search for": []
+        },
         "Tricycle Theatre": {
             "label": "Tricycle Theatre",
             "description": "The Tricycle Theatre is located on Kilburn High Road in Kilburn in the London Borough of Brent, England. Wikipedia",
@@ -1708,91 +1722,44 @@
                 "Tim Foster"
             ],
             "Upcoming events": []
-        },
-        "Theatre Royal, Plymouth": {
-            "label": "Theatre Royal, Plymouth",
-            "description": "The Theatre Royal Plymouth in Plymouth, Devon, England is \"the largest and best attended regional producing theatre in the UK and the leading promoter of theatre in the south west\", according to Arts Council England. Wikipedia",
-            "type": "",
-            "Address ": [
-                "Royal Parade",
-                " Plymouth PL1 2TR",
-                " United Kingdom"
-            ],
-            "Hours ": [
-                "+44 1752 267222"
-            ],
-            "People also search for": []
-        },
-        "Savoy Theatre": {
-            "label": "Savoy Theatre",
-            "description": "",
-            "type": "",
-            "Upcoming events": []
-        },
-        "Belasco Theatre": {
-            "label": "Belasco Theatre",
-            "description": "",
-            "type": "",
-            "Upcoming events": []
-        },
-        "Apollo Theatre": {
-            "label": "Apollo Theatre",
-            "description": "The Apollo Theatre is a Grade II listed West End theatre, on Shaftesbury Avenue in the City of Westminster, in central London. Wikipedia",
-            "type": "Theatre in City of Westminster, England",
-            "Address ": [
-                "Shaftesbury Ave",
-                " London W1D 7ES",
-                " United Kingdom"
-            ],
-            "Capacity ": [
-                "775"
-            ],
-            "Opened ": "February 21, 1901",
-            "Phone ": [
-                "+44 844 482 9671"
-            ],
-            "Hours ": [
-                "Theatre"
-            ],
-            "Function ": [
-                "Lewin Sharp"
-            ],
-            "Upcoming events": []
         }
     },
     "summary": {
-        "label": 94,
-        "description": 94,
-        "type": 94,
-        "Address ": 79,
-        "Opened ": 64,
-        "Phone ": 61,
-        "People also search for": 44,
-        "Architectural style ": 16,
-        "Function ": 21,
-        "Architecture firm ": 2,
-        "Architects ": 11,
-        "Upcoming events": 39,
-        "Capacity ": 29,
-        "Hours ": 33,
-        "Architectural styles ": 1,
-        "Architect ": 11,
-        "Recent posts": 4,
-        "Owners ": 1,
-        "See results about": 2,
-        "Founder ": 3,
-        "Founded ": 3,
-        "Awards ": 1,
-        "Nominations ": 1,
-        "Province ": 1,
-        "Destruction date ": 1,
-        "Destroyed by ": 1
+        "label": 91,
+        "description": 91,
+        "type": 91,
+        "address": 1,
+        "opened": 1,
+        "phone": 1,
+        "architectural_style": 1,
+        "function": 1,
+        "architecture_firm": 1,
+        "architects": 1,
+        "upcoming_events": 1,
+        "people_also_search_for": 1,
+        "capacity": 1,
+        "architectural_styles": 1,
+        "hours": 1,
+        "recent_posts": 1,
+        "architect": 1,
+        "owners": 1,
+        "see_results_about": 1,
+        "founder": 1,
+        "founded": 1,
+        "awards": 1,
+        "nominations": 1,
+        "province": 1,
+        "destruction_date": 1,
+        "destroyed_by": 1
     },
     "infoboxless": [
+        "Apollo Theatre",
+        "Savoy Theatre",
         "ARK Theatre Company",
-        "Bard on the Beach",
-        "Roxy Theatre (New York City)",
         "Arclight Theatre",
+        "Bard on the Beach",
+        "Belasco Theatre",
+        "Roxy Theatre (New York City)",
         "Royalty Theatre",
         "Saville Theatre"
     ]

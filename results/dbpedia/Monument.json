@@ -1,21 +1,5 @@
 {
     "instances": {
-        "Mao Zedong Statue (Chengdu)": {
-            "label": "Mao Zedong Statue",
-            "description": "The Mao Zedong Statue is located in Tianfu Square, Chengdu, Sichuan, China. The monument stands 30 m tall and depicts Mao Zedong with an outstretched arm. Wikipedia",
-            "type": "Chengdu"
-        },
-        "Afrikaans Language Monument": {
-            "label": "Afrikaans Language Monument",
-            "description": "The Afrikaans Language Monument is located on a hill overlooking Paarl, Western Cape Province, South Africa. Wikipedia",
-            "type": "",
-            "Address ": [
-                "Gabbema Doordrift St",
-                " Paarl 7646",
-                " South Africa"
-            ],
-            "People also search for": []
-        },
         "Ontario Veterans Memorial": {
             "label": "Ontario Veterans Memorial",
             "description": "Ontario Veterans War Memorial is a 30-metre-long granite wall located on the front south lawn of Queen's Park in Toronto, Ontario. The wall was designed by Allan Harding MacKay and landscape architectural firm Phillips Farevaag Smallenberg. Wikipedia",
@@ -28,16 +12,43 @@
             ],
             "See results about": []
         },
-        "Cross of All Nations": {
-            "label": "Cross of All Nations",
-            "description": "The Cross of All Nations is a monumental cross located in Qanat Bakish, a locality close to the Lebanese town of Baskinta. The cross was built near a church dating back to 1898 on a land belonging to the Lebanese Maronite Order. Wikipedia",
-            "type": ""
+        "Afrikaans Language Monument": {
+            "label": "Afrikaans Language Monument",
+            "description": "The Afrikaans Language Monument is located on a hill overlooking Paarl, Western Cape Province, South Africa. Wikipedia",
+            "type": "",
+            "Address ": [
+                "Gabbema Doordrift St",
+                " Paarl 7646",
+                " South Africa"
+            ],
+            "People also search for": []
         },
         "Prince Henry the Navigator (statue)": {
             "label": "Prince Henry the Navigator",
             "description": "Prince Henry the Navigator is an historic statue located on a traffic median at the intersection of Eastern Avenue and Pleasant Street in the Flint Village section of Fall River, Massachusetts. Wikipedia",
             "type": "Statue",
             "See results about": []
+        },
+        "Mao Zedong Statue (Chengdu)": {
+            "label": "Mao Zedong Statue",
+            "description": "The Mao Zedong Statue is located in Tianfu Square, Chengdu, Sichuan, China. The monument stands 30 m tall and depicts Mao Zedong with an outstretched arm. Wikipedia",
+            "type": "Chengdu"
+        },
+        "Cross of All Nations": {
+            "label": "Cross of All Nations",
+            "description": "The Cross of All Nations is a monumental cross located in Qanat Bakish, a locality close to the Lebanese town of Baskinta. The cross was built near a church dating back to 1898 on a land belonging to the Lebanese Maronite Order. Wikipedia",
+            "type": ""
+        },
+        "Terry Fox Memorial and Lookout": {
+            "label": "Terry Fox Memorial and Lookout",
+            "description": "The Terry Fox Monument, situated in the outskirts of Thunder Bay, Ontario, Canada, signifies cancer research activist Terry Fox's tragic halt in his Marathon of Hope on 31 August 1980. Wikipedia",
+            "type": "",
+            "Address ": [
+                "Thunder Bay",
+                " ON",
+                " Canada"
+            ],
+            "People also search for": []
         },
         "Dewey Arch": {
             "label": "Dewey Arch",
@@ -51,23 +62,6 @@
             ],
             "People also search for": []
         },
-        "Clock Tower, Faisalabad": {
-            "label": "Clock Tower",
-            "description": "The Faisalabad Clock Tower is a clock tower in Faisalabad, Punjab, Pakistan, and is one of the oldest monuments still standing in its original state from the period of the British Raj. Wikipedia",
-            "type": "Faisalabad",
-            "People also search for": []
-        },
-        "Terry Fox Memorial and Lookout": {
-            "label": "Terry Fox Memorial and Lookout",
-            "description": "The Terry Fox Monument, situated in the outskirts of Thunder Bay, Ontario, Canada, signifies cancer research activist Terry Fox's tragic halt in his Marathon of Hope on 31 August 1980. Wikipedia",
-            "type": "",
-            "Address ": [
-                "Thunder Bay",
-                " ON",
-                " Canada"
-            ],
-            "People also search for": []
-        },
         "Tomb of Sher Shah Suri": {
             "label": "Tomb of Sher Shah Suri",
             "description": "The tomb of Sher Shah Suri is in the Sasaram town of Bihar state, India. The tomb was built in memory of Emperor Sher Shah Suri, a Pathan from Bihar who defeated the Mughal Empire and founded the Suri Empire in northern India. Wikipedia",
@@ -78,6 +72,12 @@
                 " Bihar 821115",
                 " India"
             ]
+        },
+        "Clock Tower, Faisalabad": {
+            "label": "Clock Tower",
+            "description": "The Faisalabad Clock Tower is a clock tower in Faisalabad, Punjab, Pakistan, and is one of the oldest monuments still standing in its original state from the period of the British Raj. Wikipedia",
+            "type": "Faisalabad",
+            "People also search for": []
         },
         "Yad Kennedy": {
             "label": "Yad Kennedy",
@@ -131,25 +131,24 @@
                 " Philippines"
             ]
         },
+        "Yusif ibn Kuseyir Mausoleum": {
+            "label": "Yusif ibn Kuseyir Mausoleum",
+            "description": "The Mausoleum of Yusif ibn Kuseyir was built in 1161–1162, in Nakchivan city. Architect of the mausoleum was Ajami ibn Abubakr Nakhchivani. Wikipedia",
+            "type": ""
+        },
         "Raibania fort": {
             "label": "Raibania fort",
             "description": "Raibania fort is a group of ancient forts in Baleswar district, Odisha India. This fort complex is considered as the biggest medieval fort of eastern India. It was built during the Buddhist era in Odisha. Wikipedia",
             "type": ""
         },
-        "Samadhi of Ranjit Singh": {
-            "label": "Samadhi of Ranjit Singh",
-            "description": "The Samadhi of Ranjit Singh is a building housing the funerary urns of the Sikh ruler Maharaja Ranjit Singh. It is located near the Lahore Fort and Badshahi Mosque in Lahore, Pakistan. Wikipedia",
+        "African Renaissance Monument": {
+            "label": "African Renaissance Monument",
+            "description": "The African Renaissance Monument is a 49m tall bronze statue located on top of one of the twin hills known as Collines des Mamelles, outside of Dakar, Senegal. Wikipedia",
             "type": "",
             "Address ": [
-                "Walled City",
-                " Lahore",
-                " Pakistan"
-            ],
-            "Function ": [
-                "Samadhi"
-            ],
-            "Burials ": [
-                "Ranjit Singh"
+                "Ouakam",
+                " Dakar",
+                " Senegal"
             ],
             "People also search for": []
         },
@@ -167,22 +166,6 @@
                 " Mian Shahul Mouhammed Kalhoro",
                 " Muhammad Muradyab KhanMore"
             ]
-        },
-        "Yusif ibn Kuseyir Mausoleum": {
-            "label": "Yusif ibn Kuseyir Mausoleum",
-            "description": "The Mausoleum of Yusif ibn Kuseyir was built in 1161–1162, in Nakchivan city. Architect of the mausoleum was Ajami ibn Abubakr Nakhchivani. Wikipedia",
-            "type": ""
-        },
-        "African Renaissance Monument": {
-            "label": "African Renaissance Monument",
-            "description": "The African Renaissance Monument is a 49m tall bronze statue located on top of one of the twin hills known as Collines des Mamelles, outside of Dakar, Senegal. Wikipedia",
-            "type": "",
-            "Address ": [
-                "Ouakam",
-                " Dakar",
-                " Senegal"
-            ],
-            "People also search for": []
         },
         "Temple of Augustus (Pula)": {
             "label": "Temple of Augustus",
@@ -213,16 +196,32 @@
             "type": "",
             "People also search for": []
         },
-        "Triumphal arch, Chişinău": {
-            "label": "Triumphal arch, Chişinău",
-            "description": "The Triumphal arch is a monument in Central Chişinău. Wikipedia",
-            "type": "",
-            "People also search for": []
+        "Monument aux braves de N.D.G.": {
+            "label": "Monument aux braves de N.D.G.",
+            "description": "The Monument aux braves de Notre-Dame-de-Grâce is a monument in Montreal. Wikipedia",
+            "type": ""
         },
         "Mihai Eminescu Statue, Montreal": {
             "label": "Place de la Roumanie",
             "description": "",
             "type": ""
+        },
+        "Samadhi of Ranjit Singh": {
+            "label": "Samadhi of Ranjit Singh",
+            "description": "The Samadhi of Ranjit Singh is a building housing the funerary urns of the Sikh ruler Maharaja Ranjit Singh. It is located near the Lahore Fort and Badshahi Mosque in Lahore, Pakistan. Wikipedia",
+            "type": "",
+            "Address ": [
+                "Walled City",
+                " Lahore",
+                " Pakistan"
+            ],
+            "Function ": [
+                "Samadhi"
+            ],
+            "Burials ": [
+                "Ranjit Singh"
+            ],
+            "People also search for": []
         },
         "War Memorial of Montreal West": {
             "label": "War Memorial of Montreal West",
@@ -247,16 +246,16 @@
             ],
             "People also search for": []
         },
-        "Monument aux braves de N.D.G.": {
-            "label": "Monument aux braves de N.D.G.",
-            "description": "The Monument aux braves de Notre-Dame-de-Grâce is a monument in Montreal. Wikipedia",
-            "type": ""
-        },
-        "Commando Memorial": {
-            "label": "Commando Memorial",
-            "description": "The Commando Memorial is a Category A listed monument in Scotland, dedicated to the men of the original British Commando Forces raised during World War II. Wikipedia",
+        "Triumphal arch, Chişinău": {
+            "label": "Triumphal arch, Chişinău",
+            "description": "The Triumphal arch is a monument in Central Chişinău. Wikipedia",
             "type": "",
             "People also search for": []
+        },
+        "Bobby Moore Sculpture": {
+            "label": "Statue of Bobby Moore, Wembley",
+            "description": "The Bobby Moore statue is a bronze sculpture of the former West Ham and England footballer Bobby Moore, situated outside England's national stadium, Wembley Stadium, in London. Wikipedia",
+            "type": ""
         },
         "Royal Monastery of Brou": {
             "label": "Royal Monastery of Brou",
@@ -268,6 +267,12 @@
                 " France"
             ]
         },
+        "Commando Memorial": {
+            "label": "Commando Memorial",
+            "description": "The Commando Memorial is a Category A listed monument in Scotland, dedicated to the men of the original British Commando Forces raised during World War II. Wikipedia",
+            "type": "",
+            "People also search for": []
+        },
         "Uppatasanti Pagoda": {
             "label": "Uppatasanti Pagoda",
             "description": "Uppatasanti Pagoda is a prominent landmark in Naypyidaw, the new capital of Burma. The pagoda, which houses a Buddha tooth relic from China. It is nearly a same-sized replica of Shwedagon Pagoda in Yangon and stands 99 metres tall. Wikipedia",
@@ -277,10 +282,11 @@
                 " Myanmar (Burma)"
             ]
         },
-        "Bobby Moore Sculpture": {
-            "label": "Statue of Bobby Moore, Wembley",
-            "description": "The Bobby Moore statue is a bronze sculpture of the former West Ham and England footballer Bobby Moore, situated outside England's national stadium, Wembley Stadium, in London. Wikipedia",
-            "type": ""
+        "Jam Gadang": {
+            "label": "Jam Gadang",
+            "description": "Jam Gadang is a clocktower and major landmark of the city of Bukittinggi, West Sumatra, Indonesia. It is located in the centre of the city, near the main market, Pasar Atas, and is a tourist attraction. Wikipedia",
+            "type": "",
+            "People also search for": []
         },
         "Nizami Mausoleum": {
             "label": "Nizami Mausoleum",
@@ -296,12 +302,6 @@
                 " Lake Göygöl",
                 " Momine Khatun Mausoleum"
             ]
-        },
-        "Jam Gadang": {
-            "label": "Jam Gadang",
-            "description": "Jam Gadang is a clocktower and major landmark of the city of Bukittinggi, West Sumatra, Indonesia. It is located in the centre of the city, near the main market, Pasar Atas, and is a tourist attraction. Wikipedia",
-            "type": "",
-            "People also search for": []
         },
         "Aviation Martyrs' Monument": {
             "label": "Aviation Martyrs' Monument",
@@ -358,6 +358,12 @@
             ],
             "People also search for": []
         },
+        "Skanderbeg Monument (Tirana)": {
+            "label": "Skanderbeg Monument",
+            "description": "The Skanderbeg Monument is a monument located in the Skanderbeg Square, Tirana, Albania. Wikipedia",
+            "type": "Tirana",
+            "People also search for": []
+        },
         "Tsar Cannon": {
             "label": "Tsar Cannon",
             "description": "The Tsar Cannon is a large, 5.94 metres long cannon on display on the grounds of the Moscow Kremlin. It was cast in 1586 in Moscow, by the Russian master bronze caster Andrey Chokhov. Mostly of symbolic impact, it was never used in a war. Wikipedia",
@@ -368,20 +374,14 @@
             "description": "The Alley of Classics is a sculptural complex located in Bălţi, Moldova. Wikipedia",
             "type": ""
         },
-        "Skanderbeg Monument (Tirana)": {
-            "label": "Skanderbeg Monument",
-            "description": "The Skanderbeg Monument is a monument located in the Skanderbeg Square, Tirana, Albania. Wikipedia",
-            "type": "Tirana",
-            "People also search for": []
+        "Veera Abhaya Anjaneya Hanuman Swami": {
+            "label": "Veera Abhaya Anjaneya Hanuman Swami",
+            "description": "Veera Abhaya Anjaneya Hanuman Swami is a statue in depicting Hanuman. It is located in the village of Paritala, approximately 30 km from the city of Vijayawada, in the state of Andhra Pradesh, India. Wikipedia",
+            "type": ""
         },
         "Guishan Guanyin of the Thousand Hands and Eyes": {
             "label": "Guishan Guanyin of the Thousand Hands and Eyes",
             "description": "Guishan Guanyin of the Thousand Hands and Eyes is the fourth tallest statue in China, and the seventh tallest in the world. Wikipedia",
-            "type": ""
-        },
-        "Veera Abhaya Anjaneya Hanuman Swami": {
-            "label": "Veera Abhaya Anjaneya Hanuman Swami",
-            "description": "Veera Abhaya Anjaneya Hanuman Swami is a statue in depicting Hanuman. It is located in the village of Paritala, approximately 30 km from the city of Vijayawada, in the state of Andhra Pradesh, India. Wikipedia",
             "type": ""
         },
         "Château de Fondat": {
@@ -423,6 +423,11 @@
             "description": "The South African War Memorial is a memorial located at University Avenue and Queen Street West in Toronto. Wikipedia",
             "type": "Toronto"
         },
+        "Dante Monument (Montreal)": {
+            "label": "Dante Monument",
+            "description": "The Dante Monument is a memorial in Little Italy, Montreal. Wikipedia",
+            "type": "Montreal"
+        },
         "Cenotaph (Montreal)": {
             "label": "Cenotaph",
             "description": "The Cenotaph is a public monument in Montreal. Wikipedia",
@@ -431,15 +436,18 @@
                 "Québec"
             ]
         },
-        "Dante Monument (Montreal)": {
-            "label": "Dante Monument",
-            "description": "The Dante Monument is a memorial in Little Italy, Montreal. Wikipedia",
-            "type": "Montreal"
-        },
         "Fermière Monument (Montreal)": {
             "label": "Fermière Monument",
             "description": "La Fermière is a monument in Montreal. Wikipedia",
             "type": "Montreal"
+        },
+        "Roddick Gates": {
+            "label": "Roddick Gates",
+            "description": "The Roddick Memorial Gates are a monument in Montreal and the main entrance to the McGill University.\nThe Roddick Gates are on Sherbrooke Street and are at the head of the very short but broad McGill College Avenue which starts at Place Ville-Marie. Wikipedia",
+            "type": "",
+            "Province ": [
+                "Québec"
+            ]
         },
         "George-Étienne Cartier Monument": {
             "label": "George-Étienne Cartier Monument",
@@ -462,14 +470,6 @@
         "Macdonald Monument": {
             "label": "Macdonald Monument",
             "description": "The Macdonald Monument is a monument of sculptor George Edward Wade located at Place du Canada in Montreal. Wikipedia",
-            "type": "",
-            "Province ": [
-                "Québec"
-            ]
-        },
-        "Roddick Gates": {
-            "label": "Roddick Gates",
-            "description": "The Roddick Memorial Gates are a monument in Montreal and the main entrance to the McGill University.\nThe Roddick Gates are on Sherbrooke Street and are at the head of the very short but broad McGill College Avenue which starts at Place Ville-Marie. Wikipedia",
             "type": "",
             "Province ": [
                 "Québec"
@@ -540,6 +540,11 @@
             ],
             "People also search for": []
         },
+        "Harvard Bixi": {
+            "label": "Harvard Bixi",
+            "description": "The Harvard Bixi is a 17-foot high, 27 ton Chinese marble stele located at Harvard University, north of Boylston Hall and west of Widener Library in Harvard Yard, in Cambridge, Massachusetts. Wikipedia",
+            "type": ""
+        },
         "Castillo de San Andrés": {
             "label": "Castillo de San Andrés",
             "description": "The Castillo o Torre de San Andrés is located in the village of San Andrés. This castle served to protect the island of Tenerife from pirate attacks. Wikipedia",
@@ -550,9 +555,9 @@
             "description": "Diri Baba Mausoleum – is a mausoleum of Sheikh Diri Baba, located in Maraza city of Gobustan Rayon of Azerbaijan. Wikipedia",
             "type": ""
         },
-        "Harvard Bixi": {
-            "label": "Harvard Bixi",
-            "description": "The Harvard Bixi is a 17-foot high, 27 ton Chinese marble stele located at Harvard University, north of Boylston Hall and west of Widener Library in Harvard Yard, in Cambridge, Massachusetts. Wikipedia",
+        "Pir Khidir Zinda": {
+            "label": "Pir Khidir Zinda",
+            "description": "Pir Khidir Zinda or Khidir Zunja – is a sacred place for Muslims, located at the foot of Beshbarmag rock in Siyazan rayon of Azerbaijan. Wikipedia",
             "type": ""
         },
         "Atkinson Clock Tower": {
@@ -569,9 +574,9 @@
             ],
             "People also search for": []
         },
-        "Pir Khidir Zinda": {
-            "label": "Pir Khidir Zinda",
-            "description": "Pir Khidir Zinda or Khidir Zunja – is a sacred place for Muslims, located at the foot of Beshbarmag rock in Siyazan rayon of Azerbaijan. Wikipedia",
+        "Sheykh Babi Yagub Mausoleum": {
+            "label": "Sheykh Babi Yagub Mausoleum",
+            "description": "Sheykh Babi Yagub Mausoleum – is a mausoleum in Babi village of Fuzuli Rayon of Azerbaijan and was built in 1272. Wikipedia",
             "type": ""
         },
         "Boer War Memorial (Montreal)": {
@@ -581,11 +586,6 @@
             "Province ": [
                 "Québec"
             ]
-        },
-        "Sheykh Babi Yagub Mausoleum": {
-            "label": "Sheykh Babi Yagub Mausoleum",
-            "description": "Sheykh Babi Yagub Mausoleum – is a mausoleum in Babi village of Fuzuli Rayon of Azerbaijan and was built in 1272. Wikipedia",
-            "type": ""
         },
         "Choeung Ek": {
             "label": "Choeung Ek",
@@ -611,6 +611,16 @@
             ],
             "People also search for": []
         },
+        "Red Basilica": {
+            "label": "Red Basilica",
+            "description": "The \"Red Basilica\", also called variously the Red Hall and Red Courtyard, is a monumental ruined temple in the ancient city of Pergamon, now Bergama, in western Turkey. Wikipedia",
+            "type": "",
+            "Address ": [
+                "Adjacent to the 2nd otogar",
+                " Bergama",
+                " Turkey"
+            ]
+        },
         "Fort Moore": {
             "label": "Fort Moore",
             "description": "Fort Moore was an historic U.S. Military Fort in Los Angeles, California, during the Mexican–American War. Wikipedia",
@@ -621,15 +631,15 @@
             "description": "The John the Baptist Monument is a 19.8-meter concrete statue in downtown San Juan de los Morros, Guárico state, Venezuela, erected in honor of John the Baptist. Commonly called San Juanote, it's one of the highest statues in Venezuela. Wikipedia",
             "type": ""
         },
-        "Red Basilica": {
-            "label": "Red Basilica",
-            "description": "The \"Red Basilica\", also called variously the Red Hall and Red Courtyard, is a monumental ruined temple in the ancient city of Pergamon, now Bergama, in western Turkey. Wikipedia",
+        "Arch of the Sergii": {
+            "label": "Arch of the Sergii",
+            "description": "Arch of the Sergii is an Ancient Roman triumphal arch located in Pula, Croatia. The arch commemorates three brothers of the Sergii family, specifically Lucius Sergius Lepidus, a tribune serving in the ... Wikipedia",
             "type": "",
             "Address ": [
-                "Adjacent to the 2nd otogar",
-                " Bergama",
-                " Turkey"
-            ]
+                "Pula",
+                " Croatia"
+            ],
+            "People also search for": []
         },
         "Voortrekker Monument": {
             "label": "Voortrekker Monument",
@@ -652,22 +662,6 @@
             ],
             "People also search for": []
         },
-        "Samora Machel Monument": {
-            "label": "Samora Machel Monument",
-            "description": "The Samora Machel Monument in Mbuzini, near Komatipoort in the Mpumalanga province of South Africa, marks the spot where the plane carrying the then-President of Mozambique crashed in 1986. It was declared a National Heritage Site in 2006. Wikipedia",
-            "type": "",
-            "See results about": []
-        },
-        "Arch of the Sergii": {
-            "label": "Arch of the Sergii",
-            "description": "Arch of the Sergii is an Ancient Roman triumphal arch located in Pula, Croatia. The arch commemorates three brothers of the Sergii family, specifically Lucius Sergius Lepidus, a tribune serving in the ... Wikipedia",
-            "type": "",
-            "Address ": [
-                "Pula",
-                " Croatia"
-            ],
-            "People also search for": []
-        },
         "Martin Luther King, Jr. Memorial": {
             "label": "Martin Luther King, Jr. Memorial",
             "description": "The Martin Luther King, Jr. Memorial is located in West Potomac Park in Washington, D.C., southwest of the National Mall. The national memorial is America's 395th unit in the national park service. Wikipedia",
@@ -686,13 +680,11 @@
             ],
             "People also search for": []
         },
-        "Garibaldi Monument in Taganrog": {
-            "label": "Garibaldi Monument in Taganrog",
-            "description": "In the first half of 19th century Taganrog was one of the largest ports in Russia. Hundreds of ships from European ports came into the haven. Wikipedia",
+        "Samora Machel Monument": {
+            "label": "Samora Machel Monument",
+            "description": "The Samora Machel Monument in Mbuzini, near Komatipoort in the Mpumalanga province of South Africa, marks the spot where the plane carrying the then-President of Mozambique crashed in 1986. It was declared a National Heritage Site in 2006. Wikipedia",
             "type": "",
-            "Created ": [
-                "1961"
-            ]
+            "See results about": []
         },
         "Grand Bazaar, Istanbul": {
             "label": "Grand Bazaar",
@@ -706,11 +698,6 @@
                 "+90 212 519 1248"
             ],
             "People also search for": []
-        },
-        "Alexander I Statue in Taganrog": {
-            "label": "Alexander I Statue in Taganrog",
-            "description": "The monument to Alexander I of Russia was erected on the initiative of the people of Taganrog in memory of the emperor's stay and death in the city. Wikipedia",
-            "type": "Art"
         },
         "Liberty Bell": {
             "label": "Liberty Bell",
@@ -748,6 +735,14 @@
             "description": "Taghlar cave – is a cave, where habituated a human of the Stone Age. The cave is located in Azerbaijan, in the southern part of Böyük Tağlar village, on the left shore of the Guruchay River. Wikipedia",
             "type": ""
         },
+        "Garibaldi Monument in Taganrog": {
+            "label": "Garibaldi Monument in Taganrog",
+            "description": "In the first half of 19th century Taganrog was one of the largest ports in Russia. Hundreds of ships from European ports came into the haven. Wikipedia",
+            "type": "",
+            "Created ": [
+                "1961"
+            ]
+        },
         "National Monument (Amsterdam)": {
             "label": "National Monument",
             "description": "The National Monument is a 1956 World War II monument on Dam Square in Amsterdam. A national Remembrance of the Dead ceremony is held at the monument every year on 4 May to commemorate the casualties of World War II and subsequent armed conflicts. Wikipedia",
@@ -762,13 +757,10 @@
             ],
             "People also search for": []
         },
-        "Ranevskaya Monument": {
-            "label": "Ranevskaya Monument",
-            "description": "The Monument to Faina Ranevskaya, designed and sculpted by David Begalov is located in front of Faina Ranevskaya's birth house in Taganrog.\nFaina Ranevskaya is recognized as one of the greatest comic actors of the 20th Century. Wikipedia",
-            "type": "",
-            "Address ": [
-                "Russia"
-            ]
+        "Alexander I Statue in Taganrog": {
+            "label": "Alexander I Statue in Taganrog",
+            "description": "The monument to Alexander I of Russia was erected on the initiative of the people of Taganrog in memory of the emperor's stay and death in the city. Wikipedia",
+            "type": "Art"
         },
         "Peter I Monument in Taganrog": {
             "label": "Peter I Monument in Taganrog",
@@ -782,48 +774,55 @@
             "Created ": [
                 "1901"
             ]
+        },
+        "Ranevskaya Monument": {
+            "label": "Ranevskaya Monument",
+            "description": "The Monument to Faina Ranevskaya, designed and sculpted by David Begalov is located in front of Faina Ranevskaya's birth house in Taganrog.\nFaina Ranevskaya is recognized as one of the greatest comic actors of the 20th Century. Wikipedia",
+            "type": "",
+            "Address ": [
+                "Russia"
+            ]
         }
     },
     "summary": {
         "label": 85,
         "description": 85,
         "type": 85,
-        "Address ": 36,
-        "People also search for": 30,
-        "See results about": 3,
-        "Architect ": 3,
-        "Opened ": 5,
-        "Function ": 3,
-        "Burials ": 2,
-        "Children ": 1,
-        "People also search for ": 3,
-        "Elevation ": 1,
-        "Hours ": 4,
-        "Province ": 7,
-        "Subject ": 1,
-        "Established ": 1,
-        "Height ": 3,
-        "Architectural style ": 1,
-        "Architects ": 2,
-        "Phone ": 8,
-        "Architectural styles ": 1,
-        "Created ": 3
+        "address": 1,
+        "see_results_about": 1,
+        "people_also_search_for": 1,
+        "architect": 1,
+        "opened": 1,
+        "children": 1,
+        "function": 1,
+        "burials": 1,
+        "elevation": 1,
+        "hours": 1,
+        "province": 1,
+        "subject": 1,
+        "established": 1,
+        "height": 1,
+        "architectural_style": 1,
+        "architects": 1,
+        "phone": 1,
+        "architectural_styles": 1,
+        "created": 1
     },
     "infoboxless": [
         "Sigismund Bell",
-        "Marie-Victorin Statue",
         "Capitoline Wolf, Chişinău",
-        "Newkirk Viaduct Monument",
+        "Marie-Victorin Statue",
         "Monument to Sergei Yesenin in St. Petersburg",
+        "Newkirk Viaduct Monument",
         "Memorial to Victims of Stalinist Repression",
         "Memorial to the People Killed by Bolsheviks",
         "Monument to Simion Murafa, Alexei Mateevici and Andrei Hodorogea",
         "Pelican Pete",
+        "Jeanne Mance Monument",
+        "Les petits Baigneurs",
+        "Pioneers' Obelisk (Montreal)",
         "Rudi Geodetic Point",
         "Haji Gayib’s bathhouse",
-        "World Cup Sculpture",
-        "Pioneers' Obelisk (Montreal)",
-        "Jeanne Mance Monument",
-        "Les petits Baigneurs"
+        "World Cup Sculpture"
     ]
 }

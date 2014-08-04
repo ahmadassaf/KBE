@@ -6,12 +6,6 @@
             "type": "",
             "See results about": []
         },
-        "CNBC Europe": {
-            "label": "CNBC Europe",
-            "description": "CNBC Europe is a business and financial news television channel which airs across Europe, the Middle East and Africa. The station is based in London, where it shares the Adrian Smith-designed 10 Fleet Place building with Dow Jones & Company. Wikipedia",
-            "type": "",
-            "See results about": []
-        },
         "Discovery Channel": {
             "label": "Discovery Channel",
             "description": "Discovery Channel is an American basic cable and satellite television channel that is the flagship television property of Discovery Communications, a publicly traded company run by CEO David Zaslav. Wikipedia",
@@ -24,15 +18,15 @@
             ],
             "People also search for": []
         },
-        "FashionTV": {
-            "label": "FashionTV",
-            "description": "FashionTV is an international fashion and lifestyle broadcasting television channel. Founded in France in 1997 by its Polish-born president Michel Adam Lisowski, FashionTV has become one of the most ... Wikipedia",
+        "CNBC Europe": {
+            "label": "CNBC Europe",
+            "description": "CNBC Europe is a business and financial news television channel which airs across Europe, the Middle East and Africa. The station is based in London, where it shares the Adrian Smith-designed 10 Fleet Place building with Dow Jones & Company. Wikipedia",
             "type": "",
             "See results about": []
         },
-        "NHK World": {
-            "label": "NHK World",
-            "description": "NHK World is the international broadcasting service of NHK, Japan's public broadcaster. The service is aimed at the overseas market, similar to BBC World News, DW, France 24 and RT, and broadcast through ... Wikipedia",
+        "FashionTV": {
+            "label": "FashionTV",
+            "description": "FashionTV is an international fashion and lifestyle broadcasting television channel. Founded in France in 1997 by its Polish-born president Michel Adam Lisowski, FashionTV has become one of the most ... Wikipedia",
             "type": "",
             "See results about": []
         },
@@ -42,15 +36,21 @@
             "type": "",
             "See results about": []
         },
-        "Sky Movies": {
-            "label": "Sky Movies",
-            "description": "Sky Movies is the collective name for the premium subscription television movie channels operated by Sky Television, and later British Sky Broadcasting. It has around 5 million subscribers, via satellite, cable and IPTV in the UK and Ireland. Wikipedia",
+        "NHK World": {
+            "label": "NHK World",
+            "description": "NHK World is the international broadcasting service of NHK, Japan's public broadcaster. The service is aimed at the overseas market, similar to BBC World News, DW, France 24 and RT, and broadcast through ... Wikipedia",
             "type": "",
             "See results about": []
         },
         "Sky Atlantic": {
             "label": "Sky Atlantic",
             "description": "Sky Atlantic is a television channel owned by British Sky Broadcasting. It launched on 1 February 2011 on Sky in the United Kingdom and Ireland. Wikipedia",
+            "type": "",
+            "See results about": []
+        },
+        "Sky Movies": {
+            "label": "Sky Movies",
+            "description": "Sky Movies is the collective name for the premium subscription television movie channels operated by Sky Television, and later British Sky Broadcasting. It has around 5 million subscribers, via satellite, cable and IPTV in the UK and Ireland. Wikipedia",
             "type": "",
             "See results about": []
         },
@@ -73,15 +73,6 @@
             ],
             "Recent posts": []
         },
-        "Eurosport": {
-            "label": "Eurosport",
-            "description": "Eurosport is a pan-European television sports network co-operated by French broadcaster TF1 Group, and Discovery Communications Incorporated taking a 20% minority interest share in December 2012. Wikipedia",
-            "type": "",
-            "Founder ": [
-                "European Broadcasting Union"
-            ],
-            "People also search for": []
-        },
         "Channel 4": {
             "label": "Channel 4",
             "description": "Channel 4 is a British public-service television broadcaster which began transmission on 2 November 1982. Wikipedia",
@@ -92,11 +83,14 @@
             ],
             "Recent posts": []
         },
-        "Sky News": {
-            "label": "Sky News",
-            "description": "Sky News UK is a 24-hour, multi-media news operation based in Britain. It provides non-stop rolling news on television, online, and on a range of mobile devices – as well as delivering a service of ... Wikipedia",
+        "Eurosport": {
+            "label": "Eurosport",
+            "description": "Eurosport is a pan-European television sports network co-operated by French broadcaster TF1 Group, and Discovery Communications Incorporated taking a 20% minority interest share in December 2012. Wikipedia",
             "type": "",
-            "Recent posts": []
+            "Founder ": [
+                "European Broadcasting Union"
+            ],
+            "People also search for": []
         },
         "Liquidation Channel": {
             "label": "Liquidation Channel",
@@ -109,6 +103,12 @@
             "description": "",
             "type": "",
             "People also search for": []
+        },
+        "Sky News": {
+            "label": "Sky News",
+            "description": "Sky News UK is a 24-hour, multi-media news operation based in Britain. It provides non-stop rolling news on television, online, and on a range of mobile devices – as well as delivering a service of ... Wikipedia",
+            "type": "",
+            "Recent posts": []
         },
         "KTLA": {
             "label": "KTLA",
@@ -137,96 +137,96 @@
         "label": 18,
         "description": 18,
         "type": 18,
-        "See results about": 7,
-        "Founder ": 2,
-        "Founded ": 5,
-        "People also search for": 7,
-        "Headquarters ": 1,
-        "Recent posts": 3,
-        "CEO ": 1
+        "see_results_about": 1,
+        "founder": 1,
+        "founded": 1,
+        "people_also_search_for": 1,
+        "headquarters": 1,
+        "recent_posts": 1,
+        "ceo": 1
     },
     "infoboxless": [
-        "AXN Sci Fi",
         "ČT24",
         "AXN Crime",
+        "AXN Sci Fi",
+        "Acasă",
         "All Music",
         "BBC Alba (TV channel)",
         "BBC Prime",
-        "BravaHDTV",
         "Bio. (UK)",
+        "BravaHDTV",
         "CCTV News",
-        "Acasă",
         "CNN International",
-        "Comedy Central",
         "Center.tv",
         "Channel 1 (Israel)",
-        "Fox Crime",
-        "EinsFestival",
-        "Discovery History",
+        "Comedy Central",
         "DMAX (TV channel)",
+        "Discovery History",
+        "EinsFestival",
+        "Fox Crime",
+        "GIGA Television",
         "MTV Czech",
         "MTV Greece",
-        "GIGA Television",
-        "Markíza",
         "MTV Pulse",
+        "MTV Shows",
+        "Markíza",
         "Mega Channel",
-        "Motors TV",
         "Minimax (TV channel)",
+        "Motors TV",
         "NBC Europe",
-        "Nova TV (Croatia)",
         "Nicktoons (Netherlands & Flanders)",
+        "Nova TV (Croatia)",
+        "Phoenix (German TV station)",
+        "Planète+",
         "Polonia 1",
         "Prima Cool",
-        "Phoenix (German TV station)",
-        "MTV Shows",
-        "Planète+",
         "Prima family",
         "RTL 102.5 TV",
         "RTL Télé Lëtzebuerg",
-        "SIC Mulher",
+        "Rai Storia",
         "SIC Internacional",
+        "SIC Mulher",
         "SIC Radical",
+        "Super RTL",
         "TV Barrandov",
+        "TeleZüri",
         "UKTV Bright Ideas",
         "WDR Fernsehen",
-        "TeleZüri",
-        "Super RTL",
-        "Rai Storia",
         "BBC Three",
         "Canal Nostalgia",
+        "Canal Nou",
+        "Canal Sur 2",
+        "Das Erste",
         "Fly Music",
         "France 24",
         "Kabel eins",
-        "Canal Sur 2",
-        "Das Erste",
-        "Canal Nou",
         "Neox (TV channel)",
         "Playboy TV",
+        "TV Breizh",
         "TV Canaria",
+        "TV Canaria 2",
         "Telemadrid",
         "BBC News (TV channel)",
         "BBC World News",
-        "TV Breizh",
-        "TV Canaria 2",
-        "Atv (Turkey)",
         "ITV News Channel",
         "3e",
-        "Fox Deportes",
+        "Atv (Turkey)",
+        "Channel 2 (Iran)",
         "E4 (channel)",
+        "Fox Deportes",
         "GOL TV",
         "ITV3",
         "KAZD",
-        "Channel 2 (Iran)",
-        "KTDO",
         "KNBC",
-        "Nuestra Tele Noticias 24 Horas",
+        "KTDO",
         "MOV (TV channel)",
-        "TV2 (Hungary)",
-        "ZTV",
-        "Viasat Hockey",
-        "Viasat Golf",
+        "Nuestra Tele Noticias 24 Horas",
         "Stöð 2 Extra",
-        "DXDJ-TV",
-        "Crime"
+        "TV2 (Hungary)",
+        "Crime",
+        "ZTV",
+        "Viasat Golf",
+        "Viasat Hockey",
+        "DXDJ-TV"
     ]
 }

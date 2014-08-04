@@ -23,6 +23,49 @@
             "Other model years ": "1993, 1994",
             "Configurations": []
         },
+        "Audi RS 4": {
+            "label": "2008 Audi RS 4",
+            "description": "",
+            "type": "",
+            "Engine size ": [
+                "4.2L"
+            ],
+            "MPG ": [
+                "up to 13 city / 20 highway"
+            ],
+            "Horsepower ": [
+                "420 HP"
+            ],
+            "Other model years ": [
+                "2007"
+            ],
+            "Make ": [
+                "Audi"
+            ],
+            "Body styles": []
+        },
+        "Audi Quattro": {
+            "label": "1994 Audi Quattro",
+            "description": "",
+            "type": "",
+            "Engine size ": [
+                "4.2L"
+            ],
+            "Body style ": [
+                "Sedan"
+            ],
+            "MPG ": [
+                "14 city / 20 highway"
+            ],
+            "Horsepower ": [
+                "276 HP"
+            ],
+            "Make ": [
+                "Audi"
+            ],
+            "Other model years ": "1992, 1993",
+            "People also search for": []
+        },
         "Aston Martin Vanquish": {
             "label": "2014 Aston Martin Vanquish",
             "description": "",
@@ -48,70 +91,24 @@
             ],
             "People also search for": []
         },
-        "Audi Quattro": {
-            "label": "1994 Audi Quattro",
+        "Chevrolet Suburban": {
+            "label": "2014 Chevrolet Suburban",
             "description": "",
             "type": "",
             "Engine size ": [
-                "4.2L"
+                "5.3L"
             ],
-            "Body style ": [
-                "Sedan"
-            ],
-            "MPG ": [
-                "14 city / 20 highway"
-            ],
-            "Horsepower ": [
-                "276 HP"
+            "MSRP ": [
+                "from $46",
+                "300"
             ],
             "Make ": [
-                "Audi"
-            ],
-            "Other model years ": "1992, 1993",
-            "People also search for": []
-        },
-        "Audi RS 4": {
-            "label": "2008 Audi RS 4",
-            "description": "",
-            "type": "",
-            "Engine size ": [
-                "4.2L"
+                "Chevrolet"
             ],
             "MPG ": [
-                "up to 13 city / 20 highway"
+                "15 city / 21 highway"
             ],
-            "Horsepower ": [
-                "420 HP"
-            ],
-            "Other model years ": [
-                "2007"
-            ],
-            "Make ": [
-                "Audi"
-            ],
-            "Body styles": []
-        },
-        "BMW 8 Series (E31)": {
-            "label": "1997 BMW 8 Series",
-            "description": "",
-            "type": "",
-            "Body style ": [
-                "Coupe"
-            ],
-            "MPG ": [
-                "up to 15 city / 20 highway"
-            ],
-            "Horsepower ": [
-                "282 HP to 322 HP"
-            ],
-            "Engine size ": [
-                "4.4L",
-                " 5.4L"
-            ],
-            "Available trims ": [
-                "840CiA",
-                " 850CiA"
-            ],
+            "Other model years ": "2012, 2013",
             "Configurations": []
         },
         "Chevrolet Corvette": {
@@ -133,26 +130,6 @@
             ],
             "Other model years ": "2012, 2013",
             "Body styles": []
-        },
-        "Chevrolet Suburban": {
-            "label": "2014 Chevrolet Suburban",
-            "description": "",
-            "type": "",
-            "Engine size ": [
-                "5.3L"
-            ],
-            "MSRP ": [
-                "from $46",
-                "300"
-            ],
-            "Make ": [
-                "Chevrolet"
-            ],
-            "MPG ": [
-                "15 city / 21 highway"
-            ],
-            "Other model years ": "2012, 2013",
-            "Configurations": []
         },
         "Chrysler Crossfire": {
             "label": "2008 Chrysler Crossfire",
@@ -217,26 +194,6 @@
             "Other model years ": "2008, 2009",
             "People also search for": []
         },
-        "Dodge Charger (B-body)": {
-            "label": "2014 Dodge Charger",
-            "description": "",
-            "type": "",
-            "Make ": [
-                "Dodge"
-            ],
-            "MSRP ": [
-                "from $27",
-                "595"
-            ],
-            "MPG ": [
-                "up to 19 city / 31 highway"
-            ],
-            "Horsepower ": [
-                "292 HP to 470 HP"
-            ],
-            "Other model years ": "2012, 2013",
-            "Configurations": []
-        },
         "Ferrari 575M Maranello": {
             "label": "2006 Ferrari 575 M",
             "description": "",
@@ -256,6 +213,29 @@
             "Available trims ": [
                 "Maranello",
                 " Maranello F1"
+            ],
+            "Configurations": []
+        },
+        "BMW 8 Series (E31)": {
+            "label": "1997 BMW 8 Series",
+            "description": "",
+            "type": "",
+            "Body style ": [
+                "Coupe"
+            ],
+            "MPG ": [
+                "up to 15 city / 20 highway"
+            ],
+            "Horsepower ": [
+                "282 HP to 322 HP"
+            ],
+            "Engine size ": [
+                "4.4L",
+                " 5.4L"
+            ],
+            "Available trims ": [
+                "840CiA",
+                " 850CiA"
             ],
             "Configurations": []
         },
@@ -353,108 +333,128 @@
                 " GT"
             ],
             "Configurations": []
+        },
+        "Dodge Charger (B-body)": {
+            "label": "2014 Dodge Charger",
+            "description": "",
+            "type": "",
+            "Make ": [
+                "Dodge"
+            ],
+            "MSRP ": [
+                "from $27",
+                "595"
+            ],
+            "MPG ": [
+                "up to 19 city / 31 highway"
+            ],
+            "Horsepower ": [
+                "292 HP to 470 HP"
+            ],
+            "Other model years ": "2012, 2013",
+            "Configurations": []
         }
     },
     "summary": {
         "label": 16,
         "description": 16,
         "type": 16,
-        "Engine size ": 15,
-        "Body style ": 11,
-        "MPG ": 15,
-        "Horsepower ": 15,
-        "Available trims ": 6,
-        "Other model years ": 9,
-        "Configurations": 9,
-        "Make ": 9,
-        "MSRP ": 6,
-        "People also search for": 4,
-        "Body styles": 3
+        "engine_size": 1,
+        "body_style": 1,
+        "mpg": 1,
+        "horsepower": 1,
+        "available_trims": 1,
+        "other_model_years": 1,
+        "configurations": 1,
+        "make": 1,
+        "body_styles": 1,
+        "people_also_search_for": 1,
+        "msrp": 1
     },
     "infoboxless": [
         "Škoda 1201",
-        "Škoda Octavia (1959–1971)",
         "Škoda 1202",
+        "Škoda Octavia (1959–1971)",
+        "Škoda Yeti",
+        "AMC Eagle",
         "Alfa Romeo 145",
+        "Alfa Romeo 147",
         "Alfa Romeo 155",
         "Alfa Romeo 156",
-        "Alfa Romeo 147",
         "Alfa Romeo 159",
         "Alfa Romeo 166",
         "Alfa Romeo 1900",
-        "Škoda Yeti",
         "Alfa Romeo 2000",
-        "AMC Eagle",
         "Alfa Romeo 2600",
         "Alfa Romeo 8C Competizione",
+        "Alfa Romeo GTA",
         "Alfa Romeo GTV & Spider",
+        "Alfa Romeo MiTo",
         "AmphiCoach GTS-1",
         "Ascari KZ1",
         "Audi F103",
+        "Austin Metro",
         "Autobianchi Y10",
-        "Alfa Romeo MiTo",
         "BMC ADO16",
-        "Alfa Romeo GTA",
         "BYD Flyer",
         "Bentley S3",
-        "Benz Velo",
-        "Caparo T1",
-        "Bugatti Type 57",
         "Bentley T-series",
-        "Citroën Ami",
-        "Chevrolet Citation",
+        "Benz Velo",
         "Brabus Rocket",
+        "Bugatti Type 57",
+        "Caparo T1",
+        "Chevrolet Citation",
+        "Citroën Ami",
         "Citroën Axel",
+        "Citroën C15",
         "Citroën C25",
         "Citroën DS3",
-        "Citroën C15",
-        "Citroën LNA",
         "Citroën Dyane",
         "Citroën Jumpy",
+        "Citroën LNA",
         "Citroën Méhari",
-        "Citroën Traction Avant",
         "Citroën Saxo",
-        "Dacia Lăstun",
-        "Dacia 1325",
+        "Citroën Traction Avant",
+        "Dacia 1300",
         "Dacia 1320",
+        "Dacia 1325",
+        "Dacia Lăstun",
+        "Dacia Nova",
         "Daihatsu Terios",
         "Datsun 510",
-        "Dacia 1300",
         "Dauer 962 Le Mans",
         "De Tomaso Guarà",
         "De Tomaso Pantera",
-        "Dacia Nova",
-        "FSO Syrena",
+        "Dodge WC series",
         "Electrocar",
+        "FSO Syrena",
         "Ferrari Berlinetta Boxer",
+        "Fiat 1100",
         "Fiat Albea",
         "Fiat Barchetta",
-        "Fiat 1100",
-        "Dodge WC series",
         "Fiat Coupé",
         "Fiat Croma",
         "Fiat Dino",
-        "Fiat Idea",
         "Fiat Doblò",
+        "Fiat Duna",
+        "Fiat Idea",
         "Fiat Linea",
         "Fiat Marea",
-        "Fiat Duna",
-        "Fiat Scudo",
         "Fiat Palio",
         "Fiat Ritmo",
-        "Ford Capri",
+        "Fiat Scudo",
         "Fiat Siena",
-        "Ford Falcon (North America)",
-        "Ford Kuga",
-        "Ford Model B (1932)",
-        "Ford Model A (1927–1931)",
         "Fiat Tipo",
-        "Ford Pinto",
-        "Ford Orion",
-        "Ford Puma",
-        "Ford S-Max",
-        "Ford RS200",
+        "Ford Capri",
+        "Ford Falcon (North America)",
         "Ford GT40",
-        "Austin Metro"
+        "Ford Kuga",
+        "Ford Model A (1927–1931)",
+        "Ford Model B (1932)",
+        "Ford Orion",
+        "Ford Pinto",
+        "Ford Puma",
+        "Ford RS200",
+        "Ford S-Max"
     ]
 }

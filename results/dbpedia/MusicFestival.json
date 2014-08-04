@@ -23,33 +23,33 @@
             ],
             "See results about": []
         },
-        "Montreal International Jazz Festival": {
-            "label": "Montreal International Jazz Festival",
-            "description": "",
-            "type": "",
-            "People also search for": []
-        },
         "Woodstock": {
             "label": "Woodstock",
             "description": "The Woodstock Music & Art Fair—informally, the Woodstock Festival or simply Woodstock—was a music festival, billed as \"An Aquarian Exposition 3 Days of Peace & Music\". Wikipedia",
             "type": "Music Festival",
             "See results about": []
         },
+        "Montreal International Jazz Festival": {
+            "label": "Montreal International Jazz Festival",
+            "description": "",
+            "type": "",
+            "People also search for": []
+        },
         "Appel Farm Arts and Music Festival": {
             "label": "Appel Farm Arts and Music Festival",
             "description": "The Appel Farm Arts and Music Festival, is an annual one-day festival held the first Saturday in June at Appel Farm Arts and Music Center located near Elmer, in Salem County, New Jersey, USA. Wikipedia",
             "type": ""
+        },
+        "Mayfair (festival)": {
+            "label": "Mayfair",
+            "description": "Mayfair Festival of the Arts is a multidisciplinary arts festival produced by Mayfair Inc, a 501 nonprofit organization.\nThe Festival is held annually at in Allentown, Pennsylvania. It has been held Memorial Day weekend since 1986. Wikipedia",
+            "type": "Festival"
         },
         "Dockville": {
             "label": "Dockville",
             "description": "Dockville is a music and art festival on Europe's biggest river island, Hamburg's district Wilhelmsburg. It is sponsored by the German Internationale Bauausstellung and it took place for the first time in 2007. Wikipedia",
             "type": "",
             "People also search for": []
-        },
-        "Mayfair (festival)": {
-            "label": "Mayfair",
-            "description": "Mayfair Festival of the Arts is a multidisciplinary arts festival produced by Mayfair Inc, a 501 nonprofit organization.\nThe Festival is held annually at in Allentown, Pennsylvania. It has been held Memorial Day weekend since 1986. Wikipedia",
-            "type": "Festival"
         },
         "Pukkelpop": {
             "label": "Pukkelpop",
@@ -69,17 +69,6 @@
             "description": "",
             "type": ""
         },
-        "Falcon Ridge Folk Festival": {
-            "label": "Falcon Ridge Folk Festival",
-            "description": "The Falcon Ridge Folk Festival is an American annual folk-oriented music festival and dance festival formerly held at the Long Hill Farm in Hillsdale, New York, USA. Wikipedia",
-            "type": "Music Festival",
-            "Address ": [
-                "44 County Road 7d",
-                " Hillsdale",
-                " NY 12529",
-                " United States"
-            ]
-        },
         "International Music Summit": {
             "label": "International Music Summit",
             "description": "",
@@ -90,30 +79,41 @@
             "label": "Homegrown Music Festival",
             "description": "Homegrown Music Festival has been held annually in Wellington, New Zealand since 2008. Wikipedia",
             "type": "New Zealand"
+        },
+        "Falcon Ridge Folk Festival": {
+            "label": "Falcon Ridge Folk Festival",
+            "description": "The Falcon Ridge Folk Festival is an American annual folk-oriented music festival and dance festival formerly held at the Long Hill Farm in Hillsdale, New York, USA. Wikipedia",
+            "type": "Music Festival",
+            "Address ": [
+                "44 County Road 7d",
+                " Hillsdale",
+                " NY 12529",
+                " United States"
+            ]
         }
     },
     "summary": {
         "label": 14,
         "description": 14,
         "type": 14,
-        "People also search for": 4,
-        "Address ": 3,
-        "See results about": 3,
-        "Recent posts": 1
+        "people_also_search_for": 1,
+        "address": 1,
+        "see_results_about": 1,
+        "recent_posts": 1
     },
     "infoboxless": [
         "American Folk Blues Festival",
         "Fantasy Fair and Magic Mountain Music Festival",
         "G! Festival",
-        "Greenbelt festival",
         "Graspop Metal Meeting",
+        "Greenbelt festival",
         "Live Earth",
         "Masters of Rock (festival)",
         "Mighty Sounds",
         "Open'er Festival",
-        "Sonisphere Festival",
         "Pohoda (music festival)",
         "Rock am Ring and Rock im Park",
+        "Sonisphere Festival",
         "Summer Breeze Open Air",
         "Summerfest",
         "Warped Tour",
@@ -134,9 +134,9 @@
         "Ankkarock",
         "Ashton Court Festival",
         "Bay Area Rock Fest",
+        "Bonnaroo Music Festival",
         "City Stages",
         "Cosquin Rock",
-        "Bonnaroo Music Festival",
         "Crossroads Guitar Festival",
         "Dong Open Air",
         "Electric Daisy Carnival",
@@ -145,11 +145,15 @@
         "Gone South",
         "Hands Across America",
         "Heavy MTL",
-        "K-Rockathon",
         "Hove Festival",
-        "Liri Blues Festival",
-        "Independence-D",
         "Impericon Never Say Die! Tour",
+        "Independence-D",
+        "K-Rockathon",
+        "Liri Blues Festival",
+        "Long Beach Blues Festival",
+        "Magic Circle Festival",
+        "Marktrock",
+        "Meredith Music Festival",
         "Metalcamp",
         "Metalmania",
         "Mystery Land",
@@ -177,16 +181,12 @@
         "Soundwave (Australian music festival)",
         "Never Say Never Festival",
         "All Points West Music & Arts Festival",
-        "Magic Circle Festival",
-        "Meredith Music Festival",
         "Bingley Music Live",
-        "Chicago Powerfest",
         "Bulldog Bash",
+        "Chicago Powerfest",
         "Fun Fun Fun Fest",
         "Gathering of the Vibes",
         "Hellflame Festival",
-        "Jalometalli Winterfest",
-        "Marktrock",
-        "Long Beach Blues Festival"
+        "Jalometalli Winterfest"
     ]
 }

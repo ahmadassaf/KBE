@@ -1,5 +1,19 @@
 {
     "instances": {
+        "Aleksandr Ivanchenkov": {
+            "label": "Aleksandr Ivanchenkov",
+            "description": "Aleksandr Sergeyevich Ivanchenkov is a retired Soviet cosmonaut who flew as Flight Engineer on Soyuz 29 and Soyuz T-6, he spent 147 days, 12 hours and 37 minutes in space. Wikipedia",
+            "type": "Cosmonaut",
+            "Born ": "September 28, 1940 (age 73), Ivanteyevka, Moscow Oblast, Russia",
+            "Space missions ": [
+                "Soyuz T-6",
+                " Soyuz 29"
+            ],
+            "First space flight ": [
+                "Soyuz 29"
+            ],
+            "People also search for": []
+        },
         "Alan Bean": {
             "label": "Alan Bean",
             "description": "Alan LaVern Bean is a former NASA astronaut and currently a painter. Bean was selected to become an astronaut by NASA in 1963 as part of Astronaut Group 3. Wikipedia",
@@ -30,20 +44,6 @@
             "Education ": [
                 "University of Texas at Austin (1955)",
                 " R.L. Paschal High School"
-            ],
-            "People also search for": []
-        },
-        "Aleksandr Ivanchenkov": {
-            "label": "Aleksandr Ivanchenkov",
-            "description": "Aleksandr Sergeyevich Ivanchenkov is a retired Soviet cosmonaut who flew as Flight Engineer on Soyuz 29 and Soyuz T-6, he spent 147 days, 12 hours and 37 minutes in space. Wikipedia",
-            "type": "Cosmonaut",
-            "Born ": "September 28, 1940 (age 73), Ivanteyevka, Moscow Oblast, Russia",
-            "Space missions ": [
-                "Soyuz T-6",
-                " Soyuz 29"
-            ],
-            "First space flight ": [
-                "Soyuz 29"
             ],
             "People also search for": []
         },
@@ -101,23 +101,6 @@
             ],
             "People also search for": []
         },
-        "Bjarni Tryggvason": {
-            "label": "Bjarni Tryggvason",
-            "description": "Bjarni V. Tryggvason is an Icelandic-born Canadian engineer and a former NRC/CSA astronaut. He served as a Payload Specialist on Space Shuttle mission STS-85 in 1997, a 12-day mission to study changes in the Earth’s atmosphere. Wikipedia",
-            "type": "Engineer",
-            "Born ": "September 21, 1945 (age 68), Reykjavik, Iceland",
-            "Space missions ": [
-                "STS-85"
-            ],
-            "First space flight ": [
-                "STS-85"
-            ],
-            "Education ": [
-                "University of Western Ontario",
-                " University of British Columbia"
-            ],
-            "People also search for": []
-        },
         "Christer Fuglesang": {
             "label": "Christer Fuglesang",
             "description": "Arne Christer Fuglesang is a Swedish physicist and an ESA astronaut. He was first launched aboard the STS-116 Space Shuttle mission on December 10, 2006, at 0147 GMT, making him the first Swedish citizen in space. Wikipedia",
@@ -142,15 +125,20 @@
             ],
             "People also search for": []
         },
-        "Charles Edward Jones": {
-            "label": "Charles Edward Jones",
-            "description": "Colonel Charles Edward Jones was a United States Air Force officer, a computer programmer, and an astronaut in the USAF Manned Spaceflight Engineer Program. Wikipedia",
-            "type": "Astronaut",
-            "Born ": "November 4, 1952, Clinton, Indiana, United States",
-            "Died ": "September 11, 2001, New York City, New York, United States",
+        "Bjarni Tryggvason": {
+            "label": "Bjarni Tryggvason",
+            "description": "Bjarni V. Tryggvason is an Icelandic-born Canadian engineer and a former NRC/CSA astronaut. He served as a Payload Specialist on Space Shuttle mission STS-85 in 1997, a 12-day mission to study changes in the Earth’s atmosphere. Wikipedia",
+            "type": "Engineer",
+            "Born ": "September 21, 1945 (age 68), Reykjavik, Iceland",
+            "Space missions ": [
+                "STS-85"
+            ],
+            "First space flight ": [
+                "STS-85"
+            ],
             "Education ": [
-                "United States Air Force Academy",
-                " Wichita East High School"
+                "University of Western Ontario",
+                " University of British Columbia"
             ],
             "People also search for": []
         },
@@ -228,6 +216,18 @@
             ],
             "People also search for": []
         },
+        "Charles Edward Jones": {
+            "label": "Charles Edward Jones",
+            "description": "Colonel Charles Edward Jones was a United States Air Force officer, a computer programmer, and an astronaut in the USAF Manned Spaceflight Engineer Program. Wikipedia",
+            "type": "Astronaut",
+            "Born ": "November 4, 1952, Clinton, Indiana, United States",
+            "Died ": "September 11, 2001, New York City, New York, United States",
+            "Education ": [
+                "United States Air Force Academy",
+                " Wichita East High School"
+            ],
+            "People also search for": []
+        },
         "Duane G. Carey": {
             "label": "Duane G. Carey",
             "description": "Duane Gene \"Digger\" Carey is a retired lieutenant colonel in the United States Air Force and a former NASA astronaut. Wikipedia",
@@ -244,23 +244,6 @@
             ],
             "Space agency ": [
                 "NASA"
-            ],
-            "People also search for": []
-        },
-        "Elliot See": {
-            "label": "Elliot See",
-            "description": "Elliot McKay See, Jr., was an American astronaut, selected in the second group of astronauts. He died in 1966 in a NASA trainer jet crash in St. Louis while training for what would have been his first space flight, Gemini 9. Wikipedia",
-            "type": "Astronaut",
-            "Born ": "July 23, 1927, Dallas, Texas, United States",
-            "Died ": "February 28, 1966, St. Louis, Missouri, United States",
-            "Space agency ": [
-                "NASA"
-            ],
-            "Education ": [
-                "University of Texas at Austin",
-                " University of California",
-                " Los Angeles",
-                " United States Merchant Marine Academy"
             ],
             "People also search for": []
         },
@@ -285,6 +268,23 @@
                 "United States Military Academy",
                 " University of Michigan",
                 " U.S. Air Force Test Pilot School"
+            ],
+            "People also search for": []
+        },
+        "Elliot See": {
+            "label": "Elliot See",
+            "description": "Elliot McKay See, Jr., was an American astronaut, selected in the second group of astronauts. He died in 1966 in a NASA trainer jet crash in St. Louis while training for what would have been his first space flight, Gemini 9. Wikipedia",
+            "type": "Astronaut",
+            "Born ": "July 23, 1927, Dallas, Texas, United States",
+            "Died ": "February 28, 1966, St. Louis, Missouri, United States",
+            "Space agency ": [
+                "NASA"
+            ],
+            "Education ": [
+                "University of Texas at Austin",
+                " University of California",
+                " Los Angeles",
+                " United States Merchant Marine Academy"
             ],
             "People also search for": []
         },
@@ -597,6 +597,20 @@
             ],
             "People also search for": []
         },
+        "Lev Dyomin": {
+            "label": "Lev Dyomin",
+            "description": "Lev Stepanovich Dyomin was a Soviet cosmonaut who flew on the Soyuz 15 spaceflight in 1974. This spaceflight was intended to dock with the space station Salyut 3, but the docking failed. Wikipedia",
+            "type": "Cosmonaut",
+            "Born ": "January 11, 1926, Moscow, Russia",
+            "Died ": "December 18, 1998, Star City, Russia",
+            "Space missions ": [
+                "Soyuz 15"
+            ],
+            "First space flight ": [
+                "Soyuz 15"
+            ],
+            "People also search for": []
+        },
         "Leonid Kadeniuk": {
             "label": "Leonid Kadeniuk",
             "description": "Leonid Kostyantynovych Kadenyuk, born 28 January 1951 in Klishkivtsi, Chernivtsi Oblast of the Ukrainian SSR is the first astronaut of independent Ukraine. He made his flight on NASA's Columbia in 1997 as part of the international mission STS-87. Wikipedia",
@@ -610,20 +624,6 @@
             ],
             "First space flight ": [
                 "STS-87"
-            ],
-            "People also search for": []
-        },
-        "Lev Dyomin": {
-            "label": "Lev Dyomin",
-            "description": "Lev Stepanovich Dyomin was a Soviet cosmonaut who flew on the Soyuz 15 spaceflight in 1974. This spaceflight was intended to dock with the space station Salyut 3, but the docking failed. Wikipedia",
-            "type": "Cosmonaut",
-            "Born ": "January 11, 1926, Moscow, Russia",
-            "Died ": "December 18, 1998, Star City, Russia",
-            "Space missions ": [
-                "Soyuz 15"
-            ],
-            "First space flight ": [
-                "Soyuz 15"
             ],
             "People also search for": []
         },
@@ -668,21 +668,6 @@
             ],
             "People also search for": []
         },
-        "Maksim Surayev": {
-            "label": "Maksim Surayev",
-            "description": "Maksim Viktorovich Surayev is a Russian cosmonaut. Wikipedia",
-            "type": "Cosmonaut",
-            "Born ": "May 24, 1972 (age 41), Chelyabinsk, Russia",
-            "Space missions ": [
-                "Soyuz TMA-16",
-                " Expedition 21",
-                " Expedition 22"
-            ],
-            "Education ": [
-                "Russian Academy of Sciences"
-            ],
-            "People also search for": []
-        },
         "Loren Shriver": {
             "label": "Loren Shriver",
             "description": "Loren James Shriver is a former NASA astronaut, aviator, and a retired US Air Force Colonel. Wikipedia",
@@ -703,6 +688,21 @@
                 "Purdue University",
                 " United States Air Force Academy",
                 " U.S. Air Force Test Pilot School"
+            ],
+            "People also search for": []
+        },
+        "Maksim Surayev": {
+            "label": "Maksim Surayev",
+            "description": "Maksim Viktorovich Surayev is a Russian cosmonaut. Wikipedia",
+            "type": "Cosmonaut",
+            "Born ": "May 24, 1972 (age 41), Chelyabinsk, Russia",
+            "Space missions ": [
+                "Soyuz TMA-16",
+                " Expedition 21",
+                " Expedition 22"
+            ],
+            "Education ": [
+                "Russian Academy of Sciences"
             ],
             "People also search for": []
         },
@@ -1325,6 +1325,34 @@
             ],
             "People also search for": []
         },
+        "Ronald J. Garan, Jr.": {
+            "label": "Ronald J. Garan, Jr.",
+            "description": "Ronald John Garan, Jr. is a NASA astronaut. After graduating from State University of New York College at Oneonta in 1982, he joined the Air Force, becoming a Second Lieutenant in 1984. Wikipedia",
+            "type": "3,125,769 followers on Google+",
+            "Born ": "October 30, 1961 (age 52), Yonkers, New York, United States",
+            "Space missions ": [
+                "Expedition 27",
+                " Soyuz TMA-21",
+                " Expedition 28",
+                " STS-124"
+            ],
+            "Space time ": [
+                "177d 23h 54m"
+            ],
+            "Spouse ": [
+                "Carmel Courtney"
+            ],
+            "First space flight ": [
+                "STS-124"
+            ],
+            "Education ": [
+                "University of Florida (1996)",
+                " Embry-Riddle Aeronautical University (1994)",
+                " State University of New York at Oneonta (1982)",
+                " Roosevelt High School (1979)More"
+            ],
+            "Recent posts": []
+        },
         "Rusty Schweickart": {
             "label": "Rusty Schweickart",
             "description": "Russell Louis \"Rusty\" Schweickart aka Schweikart is an American former astronaut, research scientist, US Air Force fighter pilot, business and government executive. Wikipedia",
@@ -1413,25 +1441,6 @@
             ],
             "People also search for": []
         },
-        "Steven R. Nagel": {
-            "label": "Steven R. Nagel",
-            "description": "Steven Ray Nagel is a retired Colonel in the USAF and a former NASA astronaut. Wikipedia",
-            "type": "Astronaut",
-            "Born ": "October 27, 1946 (age 67), Canton, Illinois, United States",
-            "Space missions ": [
-                "STS-37",
-                " STS-61-A",
-                " STS-51-G",
-                " STS-55"
-            ],
-            "Education ": [
-                "University of Illinois at Urbana-Champaign"
-            ],
-            "First space flight ": [
-                "STS-51-G"
-            ],
-            "People also search for": []
-        },
         "Sonny Carter": {
             "label": "Sonny Carter",
             "description": "Manley Lanier \"Sonny\" Carter, Jr. was an American physician, professional soccer player, United States Navy officer, and NASA astronaut who flew on STS-33. Wikipedia",
@@ -1477,6 +1486,25 @@
                 "York University (1983)",
                 " York University (1977)",
                 " Merivale High School"
+            ],
+            "People also search for": []
+        },
+        "Steven R. Nagel": {
+            "label": "Steven R. Nagel",
+            "description": "Steven Ray Nagel is a retired Colonel in the USAF and a former NASA astronaut. Wikipedia",
+            "type": "Astronaut",
+            "Born ": "October 27, 1946 (age 67), Canton, Illinois, United States",
+            "Space missions ": [
+                "STS-37",
+                " STS-61-A",
+                " STS-51-G",
+                " STS-55"
+            ],
+            "Education ": [
+                "University of Illinois at Urbana-Champaign"
+            ],
+            "First space flight ": [
+                "STS-51-G"
             ],
             "People also search for": []
         },
@@ -1773,6 +1801,28 @@
             ],
             "People also search for": []
         },
+        "William Anders": {
+            "label": "William Anders",
+            "description": "William Alison \"Bill\" Anders is a former United States Air Force officer, NASA astronaut and businessman. Wikipedia",
+            "type": "Astronaut",
+            "Born ": "October 17, 1933 (age 80), Hong Kong, China",
+            "Space missions ": [
+                "Apollo 8"
+            ],
+            "First space flight ": [
+                "Apollo 8"
+            ],
+            "Space agency ": [
+                "NASA"
+            ],
+            "Education ": [
+                "Grossmont High School",
+                " Harvard Business School",
+                " Air Force Institute of Technology",
+                " United States Naval Academy"
+            ],
+            "People also search for": []
+        },
         "William E. Thornton": {
             "label": "William E. Thornton",
             "description": "William Edgar Thornton is a former NASA Astronaut. Thornton was born in Faison, North Carolina, and is married with two sons to the former Elizabeth Jennifer Fowler of Hertfordshire, England. Wikipedia",
@@ -1864,28 +1914,6 @@
             ],
             "People also search for": []
         },
-        "William Anders": {
-            "label": "William Anders",
-            "description": "William Alison \"Bill\" Anders is a former United States Air Force officer, NASA astronaut and businessman. Wikipedia",
-            "type": "Astronaut",
-            "Born ": "October 17, 1933 (age 80), Hong Kong, China",
-            "Space missions ": [
-                "Apollo 8"
-            ],
-            "First space flight ": [
-                "Apollo 8"
-            ],
-            "Space agency ": [
-                "NASA"
-            ],
-            "Education ": [
-                "Grossmont High School",
-                " Harvard Business School",
-                " Air Force Institute of Technology",
-                " United States Naval Academy"
-            ],
-            "People also search for": []
-        },
         "Yang Liwei": {
             "label": "Yang Liwei",
             "description": "Yang Liwei; born June 21, 1965 is a major general and military pilot and China National Space Administration astronaut. In 2003, he became the first person sent into space by the Chinese space program. Wikipedia",
@@ -1919,23 +1947,6 @@
             ],
             "People also search for": []
         },
-        "Yuri Shargin": {
-            "label": "Yuri Shargin",
-            "description": "Yuri Georgiyevich Shargin is a cosmonaut in the Russian Space Forces.\nHe was born March 20, 1960 in Engels, Saratov Oblast, Russian SFSR. He is divorced and has two children. Wikipedia",
-            "type": "Cosmonaut",
-            "Born ": "March 20, 1960 (age 54), Engels, Saratov Oblast, Russia",
-            "Space missions ": [
-                "Soyuz TMA-5",
-                " Soyuz TMA-4"
-            ],
-            "First space flight ": [
-                "Soyuz TMA-4"
-            ],
-            "Space agency ": [
-                "Russian Federal Space Agency"
-            ],
-            "People also search for": []
-        },
         "Yuri Baturin": {
             "label": "Yuri Baturin",
             "description": "Yuri Mikhailovich Baturin, is a Russian cosmonaut and former politician.\nBaturin graduated from the Moscow Institute of Physics and Technology in 1973, and is the former head of National Security; he is also an author in constitutional law. Wikipedia",
@@ -1956,6 +1967,23 @@
             ],
             "People also search for": []
         },
+        "Yuri Shargin": {
+            "label": "Yuri Shargin",
+            "description": "Yuri Georgiyevich Shargin is a cosmonaut in the Russian Space Forces.\nHe was born March 20, 1960 in Engels, Saratov Oblast, Russian SFSR. He is divorced and has two children. Wikipedia",
+            "type": "Cosmonaut",
+            "Born ": "March 20, 1960 (age 54), Engels, Saratov Oblast, Russia",
+            "Space missions ": [
+                "Soyuz TMA-5",
+                " Soyuz TMA-4"
+            ],
+            "First space flight ": [
+                "Soyuz TMA-4"
+            ],
+            "Space agency ": [
+                "Russian Federal Space Agency"
+            ],
+            "People also search for": []
+        },
         "Yury Glazkov": {
             "label": "Yury Glazkov",
             "description": "Yury Nikolayevich Glazkov was a Soviet Air Force officer and a cosmonaut. Glazkov held the rank of major general in the Russian Air Force. Wikipedia",
@@ -1973,19 +2001,6 @@
             ],
             "First space flight ": [
                 "Soyuz 24"
-            ],
-            "People also search for": []
-        },
-        "Zhai Zhigang": {
-            "label": "Zhai Zhigang",
-            "description": "Zhai Zhigang is an officer in the People's Liberation Army Air Force and a CNSA astronaut. During the Shenzhou 7 mission in 2008, he became the first Chinese citizen to carry out a spacewalk. Wikipedia",
-            "type": "Astronaut",
-            "Born ": "October 10, 1966 (age 47), Longjiang County, China",
-            "Space missions ": [
-                "Shenzhou 7"
-            ],
-            "First space flight ": [
-                "Shenzhou 7"
             ],
             "People also search for": []
         },
@@ -2025,6 +2040,19 @@
             ],
             "People also search for": []
         },
+        "Zhai Zhigang": {
+            "label": "Zhai Zhigang",
+            "description": "Zhai Zhigang is an officer in the People's Liberation Army Air Force and a CNSA astronaut. During the Shenzhou 7 mission in 2008, he became the first Chinese citizen to carry out a spacewalk. Wikipedia",
+            "type": "Astronaut",
+            "Born ": "October 10, 1966 (age 47), Longjiang County, China",
+            "Space missions ": [
+                "Shenzhou 7"
+            ],
+            "First space flight ": [
+                "Shenzhou 7"
+            ],
+            "People also search for": []
+        },
         "Eugene Cernan": {
             "label": "Eugene Cernan",
             "description": "Eugene Andrew \"Gene\" Cernan is a retired American naval officer, fighter pilot and NASA astronaut. He has been into space three times as pilot of Gemini 9A in June 1966; as lunar module pilot of Apollo ... Wikipedia",
@@ -2051,60 +2079,31 @@
                 " Proviso East High School"
             ],
             "People also search for": []
-        },
-        "Ronald J. Garan, Jr.": {
-            "label": "Ronald J. Garan, Jr.",
-            "description": "Ronald John Garan, Jr. is a NASA astronaut. After graduating from State University of New York College at Oneonta in 1982, he joined the Air Force, becoming a Second Lieutenant in 1984. Wikipedia",
-            "type": "3,125,769 followers on Google+",
-            "Born ": "October 30, 1961 (age 52), Yonkers, New York, United States",
-            "Space missions ": [
-                "Expedition 27",
-                " Soyuz TMA-21",
-                " Expedition 28",
-                " STS-124"
-            ],
-            "Space time ": [
-                "177d 23h 54m"
-            ],
-            "Spouse ": [
-                "Carmel Courtney"
-            ],
-            "First space flight ": [
-                "STS-124"
-            ],
-            "Education ": [
-                "University of Florida (1996)",
-                " Embry-Riddle Aeronautical University (1994)",
-                " State University of New York at Oneonta (1982)",
-                " Roosevelt High School (1979)More"
-            ],
-            "Recent posts": []
         }
     },
     "summary": {
         "label": 98,
         "description": 98,
         "type": 98,
-        "Born ": 98,
-        "Space missions ": 94,
-        "Artwork ": 1,
-        "Spouse ": 20,
-        "Children ": 10,
-        "Education ": 76,
-        "People also search for": 97,
-        "First space flight ": 77,
-        "Space time ": 10,
-        "Parents ": 8,
-        "Space agency ": 35,
-        "Died ": 16,
-        "Awards ": 3,
-        "Movies ": 5,
-        "Books ": 5,
-        "Office ": 1,
-        "Movies and TV shows ": 1,
-        "Books": 1,
-        "Siblings ": 1,
-        "Recent posts": 1
+        "born": 1,
+        "space_missions": 1,
+        "first_space_flight": 1,
+        "people_also_search_for": 1,
+        "artwork": 1,
+        "spouse": 1,
+        "children": 1,
+        "education": 1,
+        "space_time": 1,
+        "parents": 1,
+        "space_agency": 1,
+        "awards": 1,
+        "died": 1,
+        "movies": 1,
+        "books": 1,
+        "office": 1,
+        "movies_and_tv_shows": 1,
+        "recent_posts": 1,
+        "siblings": 1
     },
     "infoboxless": [
         "Ivan Bella",

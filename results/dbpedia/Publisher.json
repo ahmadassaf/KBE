@@ -1,5 +1,14 @@
 {
     "instances": {
+        "DC Comics": {
+            "label": "DC Comics",
+            "description": "DC Comics, Inc. is one of the largest and most successful companies operating in the market for American comic books and related media. Wikipedia",
+            "type": "1,637,005 followers on Google+",
+            "Founder ": [
+                "Malcolm Wheeler-Nicholson"
+            ],
+            "Recent posts": []
+        },
         "Oni Press": {
             "label": "Oni Press",
             "description": "Oni Press is an American independent comic book publisher based in Portland, Oregon. It was founded in 1997 by Bob Schreck and Joe Nozemack with the goal of publishing the kinds of comics and graphic novels they themselves would want to read. Wikipedia",
@@ -12,15 +21,6 @@
                 " Joe Nozemack"
             ],
             "People also search for": []
-        },
-        "DC Comics": {
-            "label": "DC Comics",
-            "description": "DC Comics, Inc. is one of the largest and most successful companies operating in the market for American comic books and related media. Wikipedia",
-            "type": "1,637,005 followers on Google+",
-            "Founder ": [
-                "Malcolm Wheeler-Nicholson"
-            ],
-            "Recent posts": []
         },
         "Boosey & Hawkes": {
             "label": "Boosey & Hawkes",
@@ -94,11 +94,11 @@
             "type": "Company",
             "People also search for": []
         },
-        "Zed Books": {
-            "label": "Zed Books",
-            "description": "",
-            "type": "",
-            "See results about": []
+        "Holt McDougal": {
+            "label": "Holt, Rinehart and Winston",
+            "description": "Holt McDougal is an American publishing company, a division of Houghton Mifflin Harcourt, that specializes in textbooks for use in secondary schools. Holt, Rinehart & Winston was a division of Harcourt Education. Wikipedia",
+            "type": "Publishing company",
+            "People also search for": []
         },
         "Reaktion Books": {
             "label": "Reaktion Books",
@@ -108,11 +108,11 @@
                 "1985"
             ]
         },
-        "Holt McDougal": {
-            "label": "Holt, Rinehart and Winston",
-            "description": "Holt McDougal is an American publishing company, a division of Houghton Mifflin Harcourt, that specializes in textbooks for use in secondary schools. Holt, Rinehart & Winston was a division of Harcourt Education. Wikipedia",
-            "type": "Publishing company",
-            "People also search for": []
+        "Zed Books": {
+            "label": "Zed Books",
+            "description": "",
+            "type": "",
+            "See results about": []
         },
         "Deseret Book": {
             "label": "Deseret Book",
@@ -126,6 +126,21 @@
             ],
             "Recent posts": []
         },
+        "Johns Hopkins University Press": {
+            "label": "Johns Hopkins University Press",
+            "description": "",
+            "type": "",
+            "See results about": []
+        },
+        "Wiley-Blackwell": {
+            "label": "Wiley-Blackwell",
+            "description": "Wiley-Blackwell is the international scientific, technical, medical, and scholarly publishing business of John Wiley & Sons. Wikipedia",
+            "type": "Company",
+            "Founded ": [
+                "2001"
+            ],
+            "People also search for": []
+        },
         "Doubleday (publisher)": {
             "label": "Doubleday",
             "description": "Doubleday is an American publishing company. Wikipedia",
@@ -138,27 +153,24 @@
             ],
             "People also search for": []
         },
-        "Wiley-Blackwell": {
-            "label": "Wiley-Blackwell",
-            "description": "Wiley-Blackwell is the international scientific, technical, medical, and scholarly publishing business of John Wiley & Sons. Wikipedia",
-            "type": "Company",
-            "Founded ": [
-                "2001"
-            ],
-            "People also search for": []
-        },
-        "Johns Hopkins University Press": {
-            "label": "Johns Hopkins University Press",
-            "description": "",
-            "type": "",
-            "See results about": []
-        },
         "Drawn and Quarterly": {
             "label": "Drawn and Quarterly",
             "description": "Drawn and Quarterly is a publishing company based in Montreal, Quebec, Canada, specializing in comics. It publishes primarily comic books, graphic novels and comic strip collections. Wikipedia",
             "type": "Company",
             "Founded ": [
                 "1990"
+            ],
+            "People also search for": []
+        },
+        "Harlequin Enterprises": {
+            "label": "Harlequin Enterprises",
+            "description": "Harlequin Enterprises Limited is a Toronto-based company that publishes series romance and women's fiction. Wikipedia",
+            "type": "Publishing company",
+            "CEO ": [
+                "Donna M. Hayes"
+            ],
+            "Founded ": [
+                "May 1949"
             ],
             "People also search for": []
         },
@@ -194,18 +206,6 @@
             ],
             "Founded ": [
                 "1980"
-            ],
-            "People also search for": []
-        },
-        "Harlequin Enterprises": {
-            "label": "Harlequin Enterprises",
-            "description": "Harlequin Enterprises Limited is a Toronto-based company that publishes series romance and women's fiction. Wikipedia",
-            "type": "Publishing company",
-            "CEO ": [
-                "Donna M. Hayes"
-            ],
-            "Founded ": [
-                "May 1949"
             ],
             "People also search for": []
         },
@@ -253,6 +253,15 @@
             "type": "",
             "See results about": []
         },
+        "Northwestern University Press": {
+            "label": "Northwestern University Press",
+            "description": "Northwestern University Press is the university press of Northwestern University in Evanston, Illinois, USA. Wikipedia",
+            "type": "",
+            "Founded ": [
+                "1893"
+            ],
+            "People also search for": []
+        },
         "South End Press": {
             "label": "South End Press",
             "description": "South End Press is a non-profit book publisher run on a model of participatory economics. It was founded in 1977 by Michael Albert, Lydia Sargent, John Schall, Pat Walker, Juliet Schor, Mary Lea, Joe ... Wikipedia",
@@ -265,14 +274,11 @@
             ],
             "People also search for": []
         },
-        "Northwestern University Press": {
-            "label": "Northwestern University Press",
-            "description": "Northwestern University Press is the university press of Northwestern University in Evanston, Illinois, USA. Wikipedia",
+        "University of Texas Press": {
+            "label": "University of Texas Press",
+            "description": "",
             "type": "",
-            "Founded ": [
-                "1893"
-            ],
-            "People also search for": []
+            "See results about": []
         },
         "Avon (publishers)": {
             "label": "Avon",
@@ -283,18 +289,25 @@
             ],
             "People also search for": []
         },
-        "University of Texas Press": {
-            "label": "University of Texas Press",
-            "description": "",
-            "type": "",
-            "See results about": []
-        },
         "Prentice Hall": {
             "label": "Prentice Hall",
             "description": "Prentice Hall is a major educational publisher owned by Pearson PLC. Prentice Hall publishes print and digital content for the 6–12 and higher-education market. Wikipedia",
             "type": "Publishing company",
             "Founded ": [
                 "1913"
+            ],
+            "People also search for": []
+        },
+        "Alfred Music Publishing": {
+            "label": "Alfred Music",
+            "description": "Alfred Music is a family-owned and operated music publishing company. Founded in New York in 1922, it is headquartered in Van Nuys, Los Angeles, California, with additional branches in Miami, New York, ... Wikipedia",
+            "type": "Company",
+            "Headquarters ": [
+                "Van Nuys",
+                " CA"
+            ],
+            "Founded ": [
+                "1922"
             ],
             "People also search for": []
         },
@@ -317,25 +330,6 @@
             ],
             "See results about": []
         },
-        "Alfred Music Publishing": {
-            "label": "Alfred Music",
-            "description": "Alfred Music is a family-owned and operated music publishing company. Founded in New York in 1922, it is headquartered in Van Nuys, Los Angeles, California, with additional branches in Miami, New York, ... Wikipedia",
-            "type": "Company",
-            "Headquarters ": [
-                "Van Nuys",
-                " CA"
-            ],
-            "Founded ": [
-                "1922"
-            ],
-            "People also search for": []
-        },
-        "Crown Publishing Group": {
-            "label": "Crown Publishing Group",
-            "description": "",
-            "type": "",
-            "See results about": []
-        },
         "Bantam Books": {
             "label": "Bantam Books",
             "description": "Bantam Books is an American publishing house owned entirely by Random House, the German media corporation subsidiary of Bertelsmann; it is an imprint of the Random House Publishing Group. Wikipedia",
@@ -352,6 +346,17 @@
             ],
             "People also search for": []
         },
+        "Crown Publishing Group": {
+            "label": "Crown Publishing Group",
+            "description": "",
+            "type": "",
+            "See results about": []
+        },
+        "Haus Publishing": {
+            "label": "Haus Publishing",
+            "description": "",
+            "type": ""
+        },
         "Llewellyn Worldwide": {
             "label": "Llewellyn Worldwide",
             "description": "Llewellyn Worldwide is a New Age publisher, currently based in Woodbury, Minnesota, a suburb of St. Paul. Wikipedia",
@@ -367,11 +372,6 @@
                 " Inc."
             ]
         },
-        "Haus Publishing": {
-            "label": "Haus Publishing",
-            "description": "",
-            "type": ""
-        },
         "McGill-Queen's University Press": {
             "label": "McGill-Queen's University Press",
             "description": "The McGill-Queen's University Press is a joint venture between McGill University in Montreal, Quebec and Queen's University in Kingston, Ontario. Wikipedia",
@@ -381,6 +381,18 @@
                 " McClelland & Stewart",
                 " University of British Columbia Press"
             ]
+        },
+        "Naiad Press": {
+            "label": "Naiad Press",
+            "description": "Naiad Press was one of the first publishing companies dedicated to lesbian literature. At its closing it was the oldest and largest lesbian/feminist publisher in the world. Wikipedia",
+            "type": "Publishing company",
+            "Founder ": [
+                "Barbara Grier"
+            ],
+            "Founded ": [
+                "1973"
+            ],
+            "People also search for": []
         },
         "New Writers Press": {
             "label": "New Writers Press",
@@ -394,15 +406,12 @@
                 " Trevor Joyce"
             ]
         },
-        "Naiad Press": {
-            "label": "Naiad Press",
-            "description": "Naiad Press was one of the first publishing companies dedicated to lesbian literature. At its closing it was the oldest and largest lesbian/feminist publisher in the world. Wikipedia",
-            "type": "Publishing company",
-            "Founder ": [
-                "Barbara Grier"
-            ],
+        "Three Rivers Press": {
+            "label": "Three Rivers Press",
+            "description": "Three Rivers Press is the trade paperback imprint of the Crown Publishing Group, a division of Random House. It publishes original paperback titles as well as paperback reprints of books issued initially in hardcover by the other Crown imprints. Wikipedia",
+            "type": "Company",
             "Founded ": [
-                "1973"
+                "1992"
             ],
             "People also search for": []
         },
@@ -426,15 +435,6 @@
             ],
             "Founded ": [
                 "1927"
-            ],
-            "People also search for": []
-        },
-        "Three Rivers Press": {
-            "label": "Three Rivers Press",
-            "description": "Three Rivers Press is the trade paperback imprint of the Crown Publishing Group, a division of Random House. It publishes original paperback titles as well as paperback reprints of books issued initially in hardcover by the other Crown imprints. Wikipedia",
-            "type": "Company",
-            "Founded ": [
-                "1992"
             ],
             "People also search for": []
         },
@@ -497,6 +497,14 @@
             ],
             "People also search for": []
         },
+        "New York Review Books": {
+            "label": "New York Review Books",
+            "description": "New York Review Books is the publishing house of The New York Review of Books. Its imprints are New York Review Books Classics, New York Review Books Collections, The New York Review Children's Collection and NYRB Lit. Wikipedia",
+            "type": "",
+            "Founded ": [
+                "1999"
+            ]
+        },
         "Apogee Books": {
             "label": "Apogee Books",
             "description": "Apogee Books is an imprint of Canadian publishing house Collector's Guide Publishing. The Apogee imprint began with \"Apollo 8 The NASA Mission Reports\" in November 1998 at the request of astronaut Buzz Aldrin, second man on the moon. Wikipedia",
@@ -532,34 +540,6 @@
             ],
             "People also search for": []
         },
-        "Gita Press": {
-            "label": "Gita Press",
-            "description": "The Gita Press is world's largest publishers of Hindu religious texts. It is located in Gorakhpur city of India's Uttar Pradesh state. It was founded in 1923 by Jaya Dayal Goyandka for promoting the principles of Sanatana Dharma. Wikipedia",
-            "type": "",
-            "Founder ": [
-                "Hanuman Prasad Poddar"
-            ],
-            "Founded ": [
-                "1923"
-            ]
-        },
-        "New York Review Books": {
-            "label": "New York Review Books",
-            "description": "New York Review Books is the publishing house of The New York Review of Books. Its imprints are New York Review Books Classics, New York Review Books Collections, The New York Review Children's Collection and NYRB Lit. Wikipedia",
-            "type": "",
-            "Founded ": [
-                "1999"
-            ]
-        },
-        "Universal Edition": {
-            "label": "Universal Edition",
-            "description": "Universal Edition is a classical music publishing firm. Founded in 1901 in Vienna, and originally intended to provide the core classical works and educational works to the Austrian market. Wikipedia",
-            "type": "",
-            "Founded ": [
-                "1901"
-            ],
-            "People also search for": []
-        },
         "Ave Maria Press": {
             "label": "Ave Maria Press",
             "description": "Ave Maria Press is a Roman Catholic publishing company which was founded in 1865 by Father Edward Sorin, a Holy Cross priest who had founded the University of Notre Dame. Wikipedia",
@@ -584,6 +564,26 @@
                 "501(c)(3)"
             ],
             "Recent posts": []
+        },
+        "Gita Press": {
+            "label": "Gita Press",
+            "description": "The Gita Press is world's largest publishers of Hindu religious texts. It is located in Gorakhpur city of India's Uttar Pradesh state. It was founded in 1923 by Jaya Dayal Goyandka for promoting the principles of Sanatana Dharma. Wikipedia",
+            "type": "",
+            "Founder ": [
+                "Hanuman Prasad Poddar"
+            ],
+            "Founded ": [
+                "1923"
+            ]
+        },
+        "Universal Edition": {
+            "label": "Universal Edition",
+            "description": "Universal Edition is a classical music publishing firm. Founded in 1901 in Vienna, and originally intended to provide the core classical works and educational works to the Austrian market. Wikipedia",
+            "type": "",
+            "Founded ": [
+                "1901"
+            ],
+            "People also search for": []
         },
         "Time Inc.": {
             "label": "Time Inc.",
@@ -632,17 +632,6 @@
             ],
             "See results about": []
         },
-        "Cleis Press": {
-            "label": "Cleis Press",
-            "description": "",
-            "type": ""
-        },
-        "University of Chicago Press": {
-            "label": "University of Chicago Press",
-            "description": "",
-            "type": "",
-            "People also search for": []
-        },
         "Baen Books": {
             "label": "Baen Books",
             "description": "Baen Books is an American publishing company established in 1983 by science fiction publisher and editor Jim Baen. Wikipedia",
@@ -654,6 +643,17 @@
                 "1983"
             ],
             "People also search for": []
+        },
+        "University of Chicago Press": {
+            "label": "University of Chicago Press",
+            "description": "",
+            "type": "",
+            "People also search for": []
+        },
+        "Cleis Press": {
+            "label": "Cleis Press",
+            "description": "",
+            "type": ""
         },
         "Theodore Presser Company": {
             "label": "Theodore Presser Company",
@@ -774,70 +774,55 @@
                 "1975"
             ],
             "People also search for": []
-        },
-        "Columbia University Press": {
-            "label": "Columbia University Press",
-            "description": "",
-            "type": "",
-            "People also search for": []
-        },
-        "Dedalus Books": {
-            "label": "Dedalus Ltd",
-            "description": "",
-            "type": ""
-        },
-        "Holiday House": {
-            "label": "Holiday House",
-            "description": "",
-            "type": "",
-            "People also search for": []
         }
     },
     "summary": {
-        "label": 74,
-        "description": 74,
-        "type": 74,
-        "Founded ": 55,
-        "Founders ": 7,
-        "People also search for": 42,
-        "Founder ": 18,
-        "Recent posts": 3,
-        "Headquarters ": 4,
-        "Assets ": 2,
-        "Income ": 2,
-        "Nonprofit category ": 2,
-        "Tax deductibility code ": 2,
-        "People also search for ": 9,
-        "See results about": 9,
-        "CEO ": 4,
-        "Related topics": 1
+        "label": 71,
+        "description": 71,
+        "type": 71,
+        "founder": 1,
+        "recent_posts": 1,
+        "founded": 1,
+        "founders": 1,
+        "people_also_search_for": 1,
+        "headquarters": 1,
+        "assets": 1,
+        "income": 1,
+        "nonprofit_category": 1,
+        "tax_deductibility_code": 1,
+        "see_results_about": 1,
+        "ceo": 1,
+        "related_topics": 1
     },
     "infoboxless": [
         "Alice James Books",
+        "Graywolf Press",
+        "Columbia University Press",
         "D. C. Heath and Company",
         "F. A. Davis Company",
         "L. Miller & Son, Ltd.",
-        "Tiny Hardcore Press",
-        "ESPN Books",
         "Phoenix Pick",
+        "Tiny Hardcore Press",
+        "Turner Publishing Company",
+        "ESPN Books",
+        "Abaris Books",
+        "Annick Press",
         "Brass Tacks Press",
         "Jeremy P. Tarcher Inc.",
-        "Abaris Books",
+        "Dedalus Books",
+        "PowerHouse Books",
         "Barricade Books",
+        "Berg Publishers",
         "Marvel Music",
         "Binford & Mort",
         "Gambero Rosso",
-        "Andersen Press",
-        "Current Opinion",
-        "A K Peters, Ltd.",
-        "Annick Press",
-        "Graywolf Press",
-        "PowerHouse Books",
-        "Berg Publishers",
         "Black Lizard",
+        "Andersen Press",
         "AuthorHouse",
         "CQ Press",
-        "Turner Publishing Company",
-        "Indiana University Press"
+        "Current Opinion",
+        "Holiday House",
+        "Indiana University Press",
+        "A K Peters, Ltd."
     ]
 }

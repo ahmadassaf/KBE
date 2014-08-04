@@ -1,5 +1,9 @@
 {
     "instances": {
+        "Alejandro Goic": "/Users/ahmadassaf/Dropbox/Projects/Knowledge Graph Scrapper/cache/instances_GKB/Alejandro_Goic.json",
+        "Arnold Mathew": "/Users/ahmadassaf/Dropbox/Projects/Knowledge Graph Scrapper/cache/instances_GKB/Arnold_Mathew.json",
+        "Bernhard Rieger": "/Users/ahmadassaf/Dropbox/Projects/Knowledge Graph Scrapper/cache/instances_GKB/Bernhard_Rieger.json",
+        "Cain and Abel": "/Users/ahmadassaf/Dropbox/Projects/Knowledge Graph Scrapper/cache/instances_GKB/Cain_and_Abel.json",
         "Ángel Suquía Goicoechea": {
             "label": "Ángel Suquía Goicoechea",
             "description": "Angel Suquía Goicoechea was a Catholic Cardinal who served as archbishop of Madrid from 1983 until 1994.\nHe was educated at the La Salle Christian Brothers at Beasain from 1925 until 1927. Wikipedia",
@@ -8,10 +12,20 @@
             "Died ": "July 13, 2006",
             "People also search for": []
         },
+        "Émile Biayenda": {
+            "label": "Émile Biayenda",
+            "description": "Émile Biayenda was the Archbishop of Brazzaville, Congo from 1971 to 1977, and a Cardinal of the Roman Catholic Church. He was born in Mpangala, Vinza, where he grew up. Wikipedia",
+            "type": "",
+            "Born ": [
+                "1927"
+            ],
+            "Died ": "March 23, 1977, Brazzaville, Congo",
+            "People also search for": []
+        },
         "Æthelthryth": {
             "label": "Æthelthryth",
             "description": "Æthelthryth is the name for the Anglo-Saxon saint known, particularly in a religious context, as Etheldreda or Audrey. She was an East Anglian princess, a Fenland and Northumbrian queen and Abbess of Ely. Wikipedia",
-            "type": "",
+            "type": "Saint",
             "Born ": [
                 "636 AD",
                 " Exning",
@@ -36,6 +50,14 @@
             ],
             "People also search for": []
         },
+        "Émilie Gamelin": {
+            "label": "Émilie Gamelin",
+            "description": "Émilie Tavernier Gamelin, S.P., was a French Canadian social worker and Roman Catholic Religious Sister. She is best known as the founder of the Sisters of Providence of Montreal. In 2001 she was beatified by Pope John Paul II. Wikipedia",
+            "type": "",
+            "Born ": "February 19, 1800, Montreal, Canada",
+            "Died ": "September 23, 1851, Province of Canada",
+            "People also search for": []
+        },
         "Acca of Hexham": {
             "label": "Acca of Hexham",
             "description": "Saint Acca of Hexham was a Northumbrian saint and Bishop of Hexham from 709 until 732. Wikipedia",
@@ -50,30 +72,12 @@
             ],
             "People also search for": []
         },
-        "Émile Biayenda": {
-            "label": "Émile Biayenda",
-            "description": "Émile Biayenda was the Archbishop of Brazzaville, Congo from 1971 to 1977, and a Cardinal of the Roman Catholic Church. He was born in Mpangala, Vinza, where he grew up. Wikipedia",
-            "type": "",
-            "Born ": [
-                "1927"
-            ],
-            "Died ": "March 23, 1977, Brazzaville, Congo",
-            "People also search for": []
-        },
         "Achille Liénart": {
             "label": "Achille Liénart",
             "description": "Achille Liénart was a French Cardinal of the Roman Catholic Church. He served as Bishop of Lille from 1928 to 1968, and was elevated to the cardinalate in 1930. Wikipedia",
             "type": "",
             "Born ": "February 7, 1884, France",
             "Died ": "February 15, 1973",
-            "People also search for": []
-        },
-        "Émilie Gamelin": {
-            "label": "Émilie Gamelin",
-            "description": "Émilie Tavernier Gamelin, S.P., was a French Canadian social worker and Roman Catholic Religious Sister. She is best known as the founder of the Sisters of Providence of Montreal. In 2001 she was beatified by Pope John Paul II. Wikipedia",
-            "type": "",
-            "Born ": "February 19, 1800, Montreal, Canada",
-            "Died ": "September 23, 1851, Province of Canada",
             "People also search for": []
         },
         "Adam Maida": {
@@ -100,18 +104,6 @@
             ],
             "People also search for": []
         },
-        "Adolfo Nicolás": {
-            "label": "Adolfo Nicolás",
-            "description": "Very Rev. Adolfo Nicolás Pachón, S.J., S.T.D. is a Spanish priest of the Roman Catholic Church. He is the thirtieth and current Superior General of the Society of Jesus, the largest religious order in the Roman Catholic Church. Wikipedia",
-            "type": "",
-            "Born ": "April 29, 1936 (age 77), Villamuriel de Cerrato, Spain",
-            "Education ": [
-                "Sophia University",
-                " University of Alcalá",
-                " Pontifical Gregorian University"
-            ],
-            "People also search for": []
-        },
         "Adelaide, Abbess of Vilich": {
             "label": "Adelaide, Abbess of Vilich",
             "description": "Adelaide, Abbess of Vilich, also known as Adelheid, was a daughter of Megingoz des Brunharingen, Count of Guelders, and Gerberga of Metzgau, a granddaughter of Charles the Simple, king of the West Franks. Wikipedia",
@@ -126,12 +118,17 @@
             ],
             "People also search for": []
         },
-        "Adolph Kolping": {
-            "label": "Adolph Kolping",
-            "description": "Adolph Kolping was a German Catholic priest, who has been beatified by the Catholic Church. He was a leader in providing social support for young workers in the cities of industrial Germany, and worldwide. Wikipedia",
+        "Adolfo Nicolás": {
+            "label": "Adolfo Nicolás",
+            "description": "Very Rev. Adolfo Nicolás Pachón, S.J., S.T.D. is a Spanish priest of the Roman Catholic Church. He is the thirtieth and current Superior General of the Society of Jesus, the largest religious order in the Roman Catholic Church. Wikipedia",
             "type": "",
-            "Born ": "December 8, 1813, Kerpen, Germany",
-            "Died ": "December 4, 1865, Cologne, Germany"
+            "Born ": "April 29, 1936 (age 77), Villamuriel de Cerrato, Spain",
+            "Education ": [
+                "Sophia University",
+                " University of Alcalá",
+                " Pontifical Gregorian University"
+            ],
+            "People also search for": []
         },
         "Agathoclia": {
             "label": "Agathoclia",
@@ -142,21 +139,12 @@
             ],
             "People also search for": []
         },
-        "Agostino Casaroli": {
-            "label": "Agostino Casaroli",
-            "description": "Agostino Casaroli was an Italian Catholic priest and diplomat for the Holy See, who became Cardinal Secretary of State. Wikipedia",
+        "Adolph Kolping": {
+            "label": "Adolph Kolping",
+            "description": "Adolph Kolping was a German Catholic priest, who has been beatified by the Catholic Church. He was a leader in providing social support for young workers in the cities of industrial Germany, and worldwide. Wikipedia",
             "type": "",
-            "Born ": "November 24, 1914, Castel San Giovanni, Italy",
-            "Died ": "June 9, 1998, Rome, Italy",
-            "People also search for": []
-        },
-        "Albert Decourtray": {
-            "label": "Albert Decourtray",
-            "description": "Albert Florent Augustin Decourtray S.T.D. was a French Roman Catholic Cardinal and Archbishop of Lyon. Wikipedia",
-            "type": "",
-            "Born ": "April 9, 1923, Wattignies, France",
-            "Died ": "September 16, 1994, Lyon, France",
-            "People also search for": []
+            "Born ": "December 8, 1813, Kerpen, Germany",
+            "Died ": "December 4, 1865, Cologne, Germany"
         },
         "Alban of Mainz": {
             "label": "Alban of Mainz",
@@ -190,6 +178,14 @@
                 " ExuperiusMore"
             ]
         },
+        "Agostino Casaroli": {
+            "label": "Agostino Casaroli",
+            "description": "Agostino Casaroli was an Italian Catholic priest and diplomat for the Holy See, who became Cardinal Secretary of State. Wikipedia",
+            "type": "",
+            "Born ": "November 24, 1914, Castel San Giovanni, Italy",
+            "Died ": "June 9, 1998, Rome, Italy",
+            "People also search for": []
+        },
         "Albert of Louvain": {
             "label": "Albert of Louvain",
             "description": "Saint Albert of Louvain or Albert of Leuven was Prince-Bishop of Liège from 22 September 1191 till January 1192. He was canonized in 1613. Wikipedia",
@@ -205,6 +201,22 @@
             ],
             "People also search for": []
         },
+        "Albert Decourtray": {
+            "label": "Albert Decourtray",
+            "description": "Albert Florent Augustin Decourtray S.T.D. was a French Roman Catholic Cardinal and Archbishop of Lyon. Wikipedia",
+            "type": "",
+            "Born ": "April 9, 1923, Wattignies, France",
+            "Died ": "September 16, 1994, Lyon, France",
+            "People also search for": []
+        },
+        "Alberto Bovone": {
+            "label": "Alberto Bovone",
+            "description": "Alberto Bovone was an Italian Cardinal of the Roman Catholic Church. He served as Prefect of the Congregation for the Causes of Saints from 1995 until his death, and was elevated to the cardinalate in 1998. Wikipedia",
+            "type": "",
+            "Born ": "June 11, 1922, Frugarolo, Italy",
+            "Died ": "April 17, 1998",
+            "People also search for": []
+        },
         "Alberto Marvelli": {
             "label": "Alberto Marvelli",
             "description": "Alberto Marvelli was an Italian member of the Catholic Action.\nBorn at Ferrara, he was given a Christian formation by his mother, who kept their home open to the poor. Through his upbringing he became a firm defender of the poor in his later years. Wikipedia",
@@ -216,12 +228,12 @@
             ],
             "People also search for": []
         },
-        "Alberto Bovone": {
-            "label": "Alberto Bovone",
-            "description": "Alberto Bovone was an Italian Cardinal of the Roman Catholic Church. He served as Prefect of the Congregation for the Causes of Saints from 1995 until his death, and was elevated to the cardinalate in 1998. Wikipedia",
+        "Alberto di Jorio": {
+            "label": "Alberto di Jorio",
+            "description": "Alberto di Jorio, was a cardinal of the Catholic Church and for many years along with the layman Bernadino Nogara the powerhouse behind the growing wealth of the Vatican and the Istituto per le Opere di Religione. Wikipedia",
             "type": "",
-            "Born ": "June 11, 1922, Frugarolo, Italy",
-            "Died ": "April 17, 1998",
+            "Born ": "July 18, 1884, Rome, Italy",
+            "Died ": "September 5, 1979",
             "People also search for": []
         },
         "Alexander Ewing": {
@@ -232,12 +244,12 @@
             "Died ": "May 22, 1873, Hertfordshire, United Kingdom",
             "People also search for": []
         },
-        "Alberto di Jorio": {
-            "label": "Alberto di Jorio",
-            "description": "Alberto di Jorio, was a cardinal of the Catholic Church and for many years along with the layman Bernadino Nogara the powerhouse behind the growing wealth of the Vatican and the Istituto per le Opere di Religione. Wikipedia",
+        "Alfonso López Trujillo": {
+            "label": "Alfonso López Trujillo",
+            "description": "Alfonso López Trujillo was a Colombian Cardinal Bishop of the Roman Catholic Church and president of the Pontifical Council for the Family. Wikipedia",
             "type": "",
-            "Born ": "July 18, 1884, Rome, Italy",
-            "Died ": "September 5, 1979",
+            "Born ": "November 8, 1935, Villahermosa, Colombia",
+            "Died ": "April 19, 2008, Rome, Italy",
             "People also search for": []
         },
         "Alfredo Ildefonso Schuster": {
@@ -246,14 +258,6 @@
             "type": "",
             "Born ": "January 18, 1880, Rome, Italy",
             "Died ": "August 30, 1954, Venegono Inferiore, Italy",
-            "People also search for": []
-        },
-        "Alfonso López Trujillo": {
-            "label": "Alfonso López Trujillo",
-            "description": "Alfonso López Trujillo was a Colombian Cardinal Bishop of the Roman Catholic Church and president of the Pontifical Council for the Family. Wikipedia",
-            "type": "",
-            "Born ": "November 8, 1935, Villahermosa, Colombia",
-            "Died ": "April 19, 2008, Rome, Italy",
             "People also search for": []
         },
         "Alfredo Ottaviani": {
@@ -358,6 +362,12 @@
                 " Italy"
             ]
         },
+        "Angelo Mai": {
+            "label": "Angelo Mai",
+            "description": "",
+            "type": "",
+            "People also search for": []
+        },
         "Angilbert": {
             "label": "Angilbert",
             "description": "Saint Angilbert was a Frank who served Charlemagne as a diplomat, abbot, poet and semi-son-in-law. He was of noble Frankish parentage, and educated at the palace school in Aquae Grani under Alcuin. Wikipedia",
@@ -366,12 +376,6 @@
                 "February 18",
                 " 814 AD"
             ],
-            "People also search for": []
-        },
-        "Angelo Mai": {
-            "label": "Angelo Mai",
-            "description": "",
-            "type": "",
             "People also search for": []
         },
         "Anna Maria Taigi": {
@@ -390,6 +394,15 @@
             "Died ": "February 9, 1824, Dülmen, Germany",
             "People also search for": []
         },
+        "Anselm, Duke of Friuli": {
+            "label": "Anselm, Duke of Friuli",
+            "description": "Anselm, the Duke of Forum Julii in the northeastern part of Lombard Italy, left the world at the height of his secular career, and in 750 built a monastery at Fanano, a place given to him by Aistulf, ... Wikipedia",
+            "type": "",
+            "Died ": [
+                "805 AD"
+            ],
+            "People also search for": []
+        },
         "Ansegisus": {
             "label": "Ansegisus",
             "description": "Saint Ansegisus was a monastic reformer of the Franks.\nBorn about 770, of noble parentage, at the age of eighteen he entered the Benedictine monastery of Fontanelle in the diocese of Rouen. Wikipedia",
@@ -400,15 +413,6 @@
             ],
             "Died ": [
                 "830 AD"
-            ],
-            "People also search for": []
-        },
-        "Anselm, Duke of Friuli": {
-            "label": "Anselm, Duke of Friuli",
-            "description": "Anselm, the Duke of Forum Julii in the northeastern part of Lombard Italy, left the world at the height of his secular career, and in 750 built a monastery at Fanano, a place given to him by Aistulf, ... Wikipedia",
-            "type": "",
-            "Died ": [
-                "805 AD"
             ],
             "People also search for": []
         },
@@ -481,6 +485,13 @@
                 " Thomas Ludger Dupré"
             ]
         },
+        "Anthony Olubunmi Okogie": {
+            "label": "Anthony Olubunmi Okogie",
+            "description": "Anthony Olubunmi Okogie is a Nigerian Cardinal Priest and formerly Archbishop of Lagos in the Roman Catholic Church. Wikipedia",
+            "type": "",
+            "Born ": "June 16, 1936 (age 77), Lagos, Nigeria",
+            "People also search for": []
+        },
         "Antipope Clement III": {
             "label": "Antipope Clement III",
             "description": "Guibert or Wibert of Ravenna was an Italian prelate, archbishop of Ravenna, who was elected pope in 1080 in opposition to Pope Gregory VII. Wikipedia",
@@ -500,13 +511,6 @@
             "Died ": [
                 "1102"
             ],
-            "People also search for": []
-        },
-        "Anthony Olubunmi Okogie": {
-            "label": "Anthony Olubunmi Okogie",
-            "description": "Anthony Olubunmi Okogie is a Nigerian Cardinal Priest and formerly Archbishop of Lagos in the Roman Catholic Church. Wikipedia",
-            "type": "",
-            "Born ": "June 16, 1936 (age 77), Lagos, Nigeria",
             "People also search for": []
         },
         "Anton Josef Gruscha": {
@@ -533,30 +537,6 @@
             "Died ": "May 2, 1459, Florence, Italy",
             "People also search for": []
         },
-        "Antoninus of Sorrento": {
-            "label": "Antoninus of Sorrento",
-            "description": "Antoninus of Sorrento was an Italian abbot, hermit, and saint.\nBorn at Campagna, he left his native town to become a monk at Monte Cassino. Wikipedia",
-            "type": "",
-            "Born ": [
-                "Campagna",
-                " Italy"
-            ],
-            "Died ": [
-                "830 AD"
-            ],
-            "People also search for": []
-        },
-        "Arnold Janssen": {
-            "label": "Arnold Janssen",
-            "description": "Saint Arnold Janssen, S.V.D. was a Roman Catholic priest and missionary, and is venerated as a saint. Wikipedia",
-            "type": "",
-            "Born ": "November 5, 1837, Goch, Germany",
-            "Died ": "January 15, 1909, Holland, Netherlands",
-            "Education ": [
-                "University of Bonn"
-            ],
-            "People also search for": []
-        },
         "Antonio Vico (Cardinal)": {
             "label": "Antonio Vico",
             "description": "Antonio Vico S.T.D. J.U.D. was a Cardinal of the Roman Catholic Church and Prefect of the Congregation of Rites.\nVico was born in Agugliano, Italy. Wikipedia",
@@ -566,30 +546,6 @@
             "Education ": [
                 "Almo Collegio Capranica"
             ],
-            "People also search for": []
-        },
-        "Atto of Pistoia": {
-            "label": "Atto of Pistoia",
-            "description": "Atto of Pistoia was a Portuguese-born 12th-century prelate and historiographer in Italy.\nHe was born at Beja in the Portuguese region of Alentejo in 1070. Wikipedia",
-            "type": "",
-            "Born ": [
-                "1070",
-                " Beja",
-                " Portugal"
-            ],
-            "Died ": "May 22, 1153",
-            "People also search for ": [
-                "Saint Humility",
-                " Baculus of Sorrento",
-                " John Gualbert"
-            ]
-        },
-        "August Hlond": {
-            "label": "August Hlond",
-            "description": "August Hlond was a Polish cardinal, who was Archbishop of Poznań and Gniezno in 1926 and primate in Poland, Archbishop of Gniezno and Warsaw in 1946. Wikipedia",
-            "type": "",
-            "Born ": "July 5, 1881, Mysłowice, Poland",
-            "Died ": "October 22, 1948, Warsaw, Poland",
             "People also search for": []
         },
         "Auguste-René-Marie Dubourg": {
@@ -634,6 +590,78 @@
             "Died ": "April 19, 2003",
             "People also search for": []
         },
+        "Antoninus of Sorrento": {
+            "label": "Antoninus of Sorrento",
+            "description": "Antoninus of Sorrento was an Italian abbot, hermit, and saint.\nBorn at Campagna, he left his native town to become a monk at Monte Cassino. Wikipedia",
+            "type": "",
+            "Born ": [
+                "Campagna",
+                " Italy"
+            ],
+            "Died ": [
+                "830 AD"
+            ],
+            "People also search for": []
+        },
+        "Basilio Pompilj": {
+            "label": "Basilio Pompilj",
+            "description": "Basilio Pompilj was an Italian Cardinal of the Roman Catholic Church. He served as Vicar General of Rome from 1913 until his death, and was elevated to the cardinalate in 1911. Wikipedia",
+            "type": "",
+            "Born ": "April 16, 1858, Spoleto, Italy",
+            "Died ": "May 5, 1931, Rome, Italy",
+            "People also search for": []
+        },
+        "August Hlond": {
+            "label": "August Hlond",
+            "description": "August Hlond was a Polish cardinal, who was Archbishop of Poznań and Gniezno in 1926 and primate in Poland, Archbishop of Gniezno and Warsaw in 1946. Wikipedia",
+            "type": "",
+            "Born ": "July 5, 1881, Mysłowice, Poland",
+            "Died ": "October 22, 1948, Warsaw, Poland",
+            "People also search for": []
+        },
+        "Benedetto Aloisi Masella": {
+            "label": "Benedetto Aloisi Masella",
+            "description": "Benedetto Aloisi Masella was an Italian Cardinal of the Roman Catholic Church who served as Prefect of the Discipline of the Sacraments from 1954 to 1968, and as Chamberlain of the Roman Church from 1958 until his death. Wikipedia",
+            "type": "",
+            "Born ": "June 29, 1879, Pontecorvo, Italy",
+            "Died ": "September 30, 1970",
+            "People also search for": []
+        },
+        "Atto of Pistoia": {
+            "label": "Atto of Pistoia",
+            "description": "Atto of Pistoia was a Portuguese-born 12th-century prelate and historiographer in Italy.\nHe was born at Beja in the Portuguese region of Alentejo in 1070. Wikipedia",
+            "type": "",
+            "Born ": [
+                "1070",
+                " Beja",
+                " Portugal"
+            ],
+            "Died ": "May 22, 1153",
+            "People also search for ": [
+                "Saint Humility",
+                " Baculus of Sorrento",
+                " John Gualbert"
+            ]
+        },
+        "Benno Gut": {
+            "label": "Benno Gut",
+            "description": "Benno Walter Gut, OSB was a Swiss Cardinal of the Roman Catholic Church. He served as Prefect of the Congregation for Divine Worship in the Roman Curia from 1969 until his death, and was elevated to the cardinalate in 1967. Wikipedia",
+            "type": "",
+            "Born ": "April 1, 1897, Reiden, Switzerland",
+            "Died ": "December 8, 1970, Rome, Italy",
+            "People also search for": []
+        },
+        "Arnold Janssen": {
+            "label": "Arnold Janssen",
+            "description": "Saint Arnold Janssen, S.V.D. was a Roman Catholic priest and missionary, and is venerated as a saint. Wikipedia",
+            "type": "",
+            "Born ": "November 5, 1837, Goch, Germany",
+            "Died ": "January 15, 1909, Holland, Netherlands",
+            "Education ": [
+                "University of Bonn"
+            ],
+            "People also search for": []
+        },
         "Austregisilus": {
             "label": "Austregisilus",
             "description": "Saint Austregisilus was bishop of Bourges from 612 to 624. His feast day is May 20. A native of Bourges, he was educated as a courtier. Wikipedia",
@@ -641,6 +669,13 @@
             "Died ": [
                 "624 AD"
             ],
+            "People also search for": []
+        },
+        "Bernard Panafieu": {
+            "label": "Bernard Panafieu",
+            "description": "Bernard Louis Auguste Paul Panafieu is a French Roman Catholic Cardinal. Wikipedia",
+            "type": "",
+            "Born ": "January 26, 1931 (age 83), Châtellerault, France",
             "People also search for": []
         },
         "Bartolo Longo": {
@@ -665,14 +700,6 @@
                 " Oxford"
             ],
             "Books": []
-        },
-        "Basilio Pompilj": {
-            "label": "Basilio Pompilj",
-            "description": "Basilio Pompilj was an Italian Cardinal of the Roman Catholic Church. He served as Vicar General of Rome from 1913 until his death, and was elevated to the cardinalate in 1911. Wikipedia",
-            "type": "",
-            "Born ": "April 16, 1858, Spoleto, Italy",
-            "Died ": "May 5, 1931, Rome, Italy",
-            "People also search for": []
         },
         "Berhtwald": {
             "label": "Berhtwald",
@@ -705,6 +732,25 @@
                 " WighardMore"
             ]
         },
+        "Bolesław Kominek": {
+            "label": "Bolesław Kominek",
+            "description": "Bolesław Kominek was a Polish Cardinal of the Roman Catholic Church. He served as Archbishop of Wrocław from 1972 until his death, and was elevated to the cardinalate in 1973. Wikipedia",
+            "type": "",
+            "Born ": "December 23, 1903, Radlin, Silesian Voivodeship, Poland",
+            "Died ": "March 10, 1974, Wrocław, Poland",
+            "People also search for": []
+        },
+        "Bernardin Gantin": {
+            "label": "Bernardin Gantin",
+            "description": "Bernardin Gantin was a prominent Beninese cardinal of the Roman Catholic Church. He served as Metropolitan Archbishop of the Roman Catholic Archdiocese of Cotonou and then at the Vatican in the service ... Wikipedia",
+            "type": "",
+            "Born ": "May 8, 1922, Toffo, Benin",
+            "Died ": "May 13, 2008, Paris, France",
+            "Education ": [
+                "Pontifical Lateran University"
+            ],
+            "People also search for": []
+        },
         "Bernard Francis Law": {
             "label": "Bernard Francis Law",
             "description": "Bernard Francis Law is an American cardinal of the Roman Catholic Church. He is the Archbishop emeritus of Boston, a member of the Roman Curia, former archpriest of the Basilica di Santa Maria Maggiore, ... Wikipedia",
@@ -716,14 +762,6 @@
             ],
             "People also search for": []
         },
-        "Benedetto Aloisi Masella": {
-            "label": "Benedetto Aloisi Masella",
-            "description": "Benedetto Aloisi Masella was an Italian Cardinal of the Roman Catholic Church who served as Prefect of the Discipline of the Sacraments from 1954 to 1968, and as Chamberlain of the Roman Church from 1958 until his death. Wikipedia",
-            "type": "",
-            "Born ": "June 29, 1879, Pontecorvo, Italy",
-            "Died ": "September 30, 1970",
-            "People also search for": []
-        },
         "Bernward of Hildesheim": {
             "label": "Bernward of Hildesheim",
             "description": "Saint Bernward was the thirteenth Bishop of Hildesheim from 993 until his death in 1022. Wikipedia",
@@ -733,13 +771,6 @@
                 " Duchy of Saxony"
             ],
             "Died ": "November 20, 1022, Hildesheim, Germany",
-            "People also search for": []
-        },
-        "Bernard Panafieu": {
-            "label": "Bernard Panafieu",
-            "description": "Bernard Louis Auguste Paul Panafieu is a French Roman Catholic Cardinal. Wikipedia",
-            "type": "",
-            "Born ": "January 26, 1931 (age 83), Châtellerault, France",
             "People also search for": []
         },
         "Brice of Tours": {
@@ -756,12 +787,14 @@
             ],
             "People also search for": []
         },
-        "Bolesław Kominek": {
-            "label": "Bolesław Kominek",
-            "description": "Bolesław Kominek was a Polish Cardinal of the Roman Catholic Church. He served as Archbishop of Wrocław from 1972 until his death, and was elevated to the cardinalate in 1973. Wikipedia",
+        "Bruno (Bishop of Würzburg)": {
+            "label": "Bruno",
+            "description": "Bruno of Würzburg, also known as Bruno of Carinthia, was imperial chancellor of Italy from 1027 to 1034 for Conrad II, Holy Roman Emperor, to whom he was related, and from 1034 until his death prince-bishop of Würzburg. Wikipedia",
             "type": "",
-            "Born ": "December 23, 1903, Radlin, Silesian Voivodeship, Poland",
-            "Died ": "March 10, 1974, Wrocław, Poland",
+            "Born ": [
+                "Duchy of Carinthia"
+            ],
+            "Died ": "May 26, 1045",
             "People also search for": []
         },
         "Brendan of Birr": {
@@ -775,22 +808,23 @@
             ],
             "People also search for": []
         },
-        "Bruno (Bishop of Würzburg)": {
-            "label": "Bruno",
-            "description": "Bruno of Würzburg, also known as Bruno of Carinthia, was imperial chancellor of Italy from 1027 to 1034 for Conrad II, Holy Roman Emperor, to whom he was related, and from 1034 until his death prince-bishop of Würzburg. Wikipedia",
-            "type": "",
-            "Born ": [
-                "Duchy of Carinthia"
-            ],
-            "Died ": "May 26, 1045",
-            "People also search for": []
-        },
         "Bruno Heim": {
             "label": "Bruno Heim",
             "description": "Bruno Bernard Heim was the Vatican's first Apostolic Nuncio to Britain and was one of the most prominent armorists of twentieth century ecclesiastical heraldry. Wikipedia",
             "type": "",
             "Born ": "March 5, 1911, Olten, Switzerland",
             "Died ": "March 18, 2003"
+        },
+        "Camillo Laurenti": {
+            "label": "Camillo Laurenti",
+            "description": "Camillo Laurenti was an Italian Cardinal of the Roman Catholic Church. He served as Prefect of the Sacred Congregation of Rites from 1929 until his death, and was elevated to the cardinalate in 1921. Wikipedia",
+            "type": "",
+            "Born ": "November 20, 1861, Monte Porzio Catone, Italy",
+            "Died ": "September 6, 1938",
+            "Education ": [
+                "Almo Collegio Capranica"
+            ],
+            "People also search for": []
         },
         "Burchard of Würzburg": {
             "label": "Burchard of Würzburg",
@@ -828,25 +862,6 @@
             ],
             "People also search for": []
         },
-        "Candida Maria of Jesus": {
-            "label": "Candida Maria of Jesus",
-            "description": "Saint Candida Maria of Jesus, F.I., was a Spanish Religious Sister and educator. She founded the Spanish Congregation of the Daughters of Jesus on 8 December 1871 in Salamanca, Spain. Wikipedia",
-            "type": "",
-            "Born ": "May 31, 1845, Andoain, Spain",
-            "Died ": "August 9, 1912, Salamanca, Spain",
-            "People also search for": []
-        },
-        "Camillo Laurenti": {
-            "label": "Camillo Laurenti",
-            "description": "Camillo Laurenti was an Italian Cardinal of the Roman Catholic Church. He served as Prefect of the Sacred Congregation of Rites from 1929 until his death, and was elevated to the cardinalate in 1921. Wikipedia",
-            "type": "",
-            "Born ": "November 20, 1861, Monte Porzio Catone, Italy",
-            "Died ": "September 6, 1938",
-            "Education ": [
-                "Almo Collegio Capranica"
-            ],
-            "People also search for": []
-        },
         "Carlo Grano": {
             "label": "Carlo Grano",
             "description": "Carlo Grano was an Italian Cardinal of the Roman Catholic Church who served as Apostolic Nuncio to Italy from 1958 to 1967, and was elevated to the cardinalate in 1967. Wikipedia",
@@ -858,11 +873,39 @@
             ],
             "People also search for": []
         },
-        "Carlos Amigo Vallejo": {
-            "label": "Carlos Amigo Vallejo",
-            "description": "Carlos Amigo Vallejo, O.F.M. is a Cardinal Priest and Archbishop Emeritus of Seville in the Roman Catholic Church. Wikipedia",
+        "Carlo Gaetano Gaisruck": {
+            "label": "Carlo Gaetano Gaisruck",
+            "description": "Karl Kajetan von Gaisruck was an Austrian Cardinal and the archbishop of Milan from 1816 to 1846. He also held the title of Graf or Count. Wikipedia",
             "type": "",
-            "Born ": "August 23, 1934 (age 79), Medina de Rioseco, Spain",
+            "Born ": "August 7, 1769, Klagenfurt, Austria",
+            "Died ": "November 19, 1846, Milan, Italy",
+            "Education ": [
+                "University of Salzburg"
+            ],
+            "People also search for": []
+        },
+        "Candida Maria of Jesus": {
+            "label": "Candida Maria of Jesus",
+            "description": "Saint Candida Maria of Jesus, F.I., was a Spanish Religious Sister and educator. She founded the Spanish Congregation of the Daughters of Jesus on 8 December 1871 in Salamanca, Spain. Wikipedia",
+            "type": "",
+            "Born ": "May 31, 1845, Andoain, Spain",
+            "Died ": "August 9, 1912, Salamanca, Spain",
+            "People also search for": []
+        },
+        "Casimiro Gennari": {
+            "label": "Casimiro Gennari",
+            "description": "Casimiro Gennari was an Italian Cardinal of the Roman Catholic Church and was former Prefect of the Congregation of the Council.\nCasimiro Gennari was born in Maratea, Basilicata. Wikipedia",
+            "type": "",
+            "Born ": "December 29, 1839, Maratea, Italy",
+            "Died ": "January 31, 1914, Rome, Italy",
+            "People also search for": []
+        },
+        "Catherine of Bologna": {
+            "label": "Catherine of Bologna",
+            "description": "Saint Catherine of Bologna, O.S.C. was an Italian cloistered nun, artist and saint.\nThe patron saint of artists and against temptations, Catherine de'Vigri was venerated for nearly three centuries in ... Wikipedia",
+            "type": "",
+            "Born ": "September 8, 1413, Bologna, Italy",
+            "Died ": "March 9, 1463, Bologna, Italy",
             "People also search for": []
         },
         "Carlos Manuel Rodríguez Santiago": {
@@ -871,6 +914,21 @@
             "type": "",
             "Born ": "November 22, 1918, Caguas, Puerto Rico",
             "Died ": "July 13, 1963, Río Piedras, Puerto Rico",
+            "People also search for": []
+        },
+        "Ceferino Namuncurá": {
+            "label": "Ceferino Namuncurá",
+            "description": "Blessed Ceferino Namuncurá was a saintly religious student and the object of a Roman Catholic cultus of veneration in northern Patagonia and throughout Argentina. Wikipedia",
+            "type": "",
+            "Born ": "August 26, 1886, Chimpay, Argentina",
+            "Died ": "May 11, 1905, Rome, Italy",
+            "People also search for": []
+        },
+        "Carlos Amigo Vallejo": {
+            "label": "Carlos Amigo Vallejo",
+            "description": "Carlos Amigo Vallejo, O.F.M. is a Cardinal Priest and Archbishop Emeritus of Seville in the Roman Catholic Church. Wikipedia",
+            "type": "",
+            "Born ": "August 23, 1934 (age 79), Medina de Rioseco, Spain",
             "People also search for": []
         },
         "Ceolfrith": {
@@ -883,22 +941,6 @@
                 " Langres",
                 " France"
             ],
-            "People also search for": []
-        },
-        "Catherine of Bologna": {
-            "label": "Catherine of Bologna",
-            "description": "Saint Catherine of Bologna, O.S.C. was an Italian cloistered nun, artist and saint.\nThe patron saint of artists and against temptations, Catherine de'Vigri was venerated for nearly three centuries in ... Wikipedia",
-            "type": "",
-            "Born ": "September 8, 1413, Bologna, Italy",
-            "Died ": "March 9, 1463, Bologna, Italy",
-            "People also search for": []
-        },
-        "Ceferino Namuncurá": {
-            "label": "Ceferino Namuncurá",
-            "description": "Blessed Ceferino Namuncurá was a saintly religious student and the object of a Roman Catholic cultus of veneration in northern Patagonia and throughout Argentina. Wikipedia",
-            "type": "",
-            "Born ": "August 26, 1886, Chimpay, Argentina",
-            "Died ": "May 11, 1905, Rome, Italy",
             "People also search for": []
         },
         "Christina the Astonishing": {
@@ -950,20 +992,6 @@
             ],
             "Books": []
         },
-        "Chromatius": {
-            "label": "Chromatius",
-            "description": "Saint Chromatius was a bishop of Aquileia.\nHe was probably born at Aquileia, and in any case grew up there. His father had died when Chromatius was an infant. He was raised by his mother and large family of older siblings. Wikipedia",
-            "type": "",
-            "Born ": [
-                "Aquileia",
-                " Italy"
-            ],
-            "Died ": [
-                "Grado",
-                " Italy"
-            ],
-            "People also search for": []
-        },
         "Columba of Spain": {
             "label": "Columba of Spain",
             "description": "Saint Columba of Spain, or Columba of Cordova, was a nun who was born in Cordoba, Spain and died around 853.\nShe was a nun at Tabanos, near Cordoba, but was driven from there by the Moorish persecution in 852. Wikipedia",
@@ -982,6 +1010,33 @@
                 " Satyrus of Milan"
             ]
         },
+        "Chromatius": {
+            "label": "Chromatius",
+            "description": "Saint Chromatius was a bishop of Aquileia.\nHe was probably born at Aquileia, and in any case grew up there. His father had died when Chromatius was an infant. He was raised by his mother and large family of older siblings. Wikipedia",
+            "type": "",
+            "Born ": [
+                "Aquileia",
+                " Italy"
+            ],
+            "Died ": [
+                "Grado",
+                " Italy"
+            ],
+            "People also search for": []
+        },
+        "Conrad of Constance": {
+            "label": "Conrad of Constance",
+            "description": "Saint Conrad of Constance was a bishop and saint. Wikipedia",
+            "type": "",
+            "Born ": [
+                "900 AD"
+            ],
+            "Died ": [
+                "November 26",
+                " 975 AD"
+            ],
+            "People also search for": []
+        },
         "Corbinian": {
             "label": "Corbinian",
             "description": "Saint Corbinian was a Frankish bishop. After living as a hermit near Chartres for fourteen years, he made a pilgrimage to Rome. Pope Gregory II sent him to Bavaria. Wikipedia",
@@ -997,19 +1052,6 @@
                 " 730 AD",
                 " Freising",
                 " Germany"
-            ],
-            "People also search for": []
-        },
-        "Conrad of Constance": {
-            "label": "Conrad of Constance",
-            "description": "Saint Conrad of Constance was a bishop and saint. Wikipedia",
-            "type": "",
-            "Born ": [
-                "900 AD"
-            ],
-            "Died ": [
-                "November 26",
-                " 975 AD"
             ],
             "People also search for": []
         },
@@ -1079,66 +1121,22 @@
                 " Æthelnoth",
                 " AthelmMore"
             ]
-        },
-        "Casimiro Gennari": {
-            "label": "Casimiro Gennari",
-            "description": "Casimiro Gennari was an Italian Cardinal of the Roman Catholic Church and was former Prefect of the Congregation of the Council.\nCasimiro Gennari was born in Maratea, Basilicata. Wikipedia",
-            "type": "",
-            "Born ": "December 29, 1839, Maratea, Italy",
-            "Died ": "January 31, 1914, Rome, Italy",
-            "People also search for": []
-        },
-        "Bernardin Gantin": {
-            "label": "Bernardin Gantin",
-            "description": "Bernardin Gantin was a prominent Beninese cardinal of the Roman Catholic Church. He served as Metropolitan Archbishop of the Roman Catholic Archdiocese of Cotonou and then at the Vatican in the service ... Wikipedia",
-            "type": "",
-            "Born ": "May 8, 1922, Toffo, Benin",
-            "Died ": "May 13, 2008, Paris, France",
-            "Education ": [
-                "Pontifical Lateran University"
-            ],
-            "People also search for": []
-        },
-        "Benno Gut": {
-            "label": "Benno Gut",
-            "description": "Benno Walter Gut, OSB was a Swiss Cardinal of the Roman Catholic Church. He served as Prefect of the Congregation for Divine Worship in the Roman Curia from 1969 until his death, and was elevated to the cardinalate in 1967. Wikipedia",
-            "type": "",
-            "Born ": "April 1, 1897, Reiden, Switzerland",
-            "Died ": "December 8, 1970, Rome, Italy",
-            "People also search for": []
-        },
-        "Carlo Gaetano Gaisruck": {
-            "label": "Carlo Gaetano Gaisruck",
-            "description": "Karl Kajetan von Gaisruck was an Austrian Cardinal and the archbishop of Milan from 1816 to 1846. He also held the title of Graf or Count. Wikipedia",
-            "type": "",
-            "Born ": "August 7, 1769, Klagenfurt, Austria",
-            "Died ": "November 19, 1846, Milan, Italy",
-            "Education ": [
-                "University of Salzburg"
-            ],
-            "People also search for": []
         }
     },
     "summary": {
         "label": 96,
         "description": 96,
         "type": 96,
-        "Born ": 84,
-        "Died ": 84,
-        "People also search for": 82,
-        "Spouse ": 1,
-        "Parents ": 5,
-        "Siblings ": 3,
-        "Education ": 23,
-        "People also search for ": 9,
-        "Children ": 1,
-        "Awards ": 1,
-        "Books": 2
+        "born": 1,
+        "died": 1,
+        "people_also_search_for": 1,
+        "spouse": 1,
+        "parents": 1,
+        "siblings": 1,
+        "education": 1,
+        "children": 1,
+        "awards": 1,
+        "books": 1
     },
-    "infoboxless": [
-        "Bernhard Rieger",
-        "Cain and Abel",
-        "Alejandro Goic",
-        "Arnold Mathew"
-    ]
+    "infoboxless": []
 }

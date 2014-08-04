@@ -1,11 +1,5 @@
 {
     "instances": {
-        "Galaxy Zoo": {
-            "label": "Galaxy Zoo",
-            "description": "Galaxy Zoo is an online astronomy project which invites people to assist in the morphological classification of large numbers of galaxies. Wikipedia",
-            "type": "",
-            "Related topics": []
-        },
         "DeviantArt": {
             "label": "deviantART, Inc.",
             "description": "DeviantArt, LLC is an online community showcasing various forms of user-made artwork. It was first launched on August 7, 2000 by Scott Jarkoff, Matthew Stephens, Angelo Sotira and others. Wikipedia",
@@ -44,30 +38,11 @@
             ],
             "Recent posts": []
         },
-        "Kazakh Wikipedia": {
-            "label": "Kazakh Wikipedia",
-            "description": "The Kazakh Wikipedia is a Wikipedia in the Kazakh language. Wikipedia",
-            "type": "",
-            "See results about": []
-        },
-        "MathWorld": {
-            "label": "MathWorld",
-            "description": "MathWorld is an online mathematics reference work, created and largely written by Eric W. Weisstein. Wikipedia",
+        "Galaxy Zoo": {
+            "label": "Galaxy Zoo",
+            "description": "Galaxy Zoo is an online astronomy project which invites people to assist in the morphological classification of large numbers of galaxies. Wikipedia",
             "type": "",
             "Related topics": []
-        },
-        "WikiLeaks": {
-            "label": "WikiLeaks",
-            "description": "WikiLeaks is an international, online, non-profit, journalistic organisation which publishes secret information, news leaks, and classified media from anonymous sources. Wikipedia",
-            "type": "",
-            "Founder ": [
-                "Julian Assange"
-            ],
-            "Founded ": "October 4, 2006",
-            "Awards ": [
-                "Economist New Media Award",
-                " Amnesty International UK Digital Media Award"
-            ]
         },
         "FeedBurner": {
             "label": "FeedBurner",
@@ -84,11 +59,30 @@
             ],
             "People also search for": []
         },
-        "German Wikipedia": {
-            "label": "German Wikipedia",
-            "description": "The German Wikipedia is the German-language edition of Wikipedia, a free and publicly editable online encyclopedia. Wikipedia",
+        "Kazakh Wikipedia": {
+            "label": "Kazakh Wikipedia",
+            "description": "The Kazakh Wikipedia is a Wikipedia in the Kazakh language. Wikipedia",
             "type": "",
             "See results about": []
+        },
+        "WikiLeaks": {
+            "label": "WikiLeaks",
+            "description": "WikiLeaks is an international, online, non-profit, journalistic organisation which publishes secret information, news leaks, and classified media from anonymous sources. Wikipedia",
+            "type": "",
+            "Founder ": [
+                "Julian Assange"
+            ],
+            "Founded ": "October 4, 2006",
+            "Awards ": [
+                "Economist New Media Award",
+                " Amnesty International UK Digital Media Award"
+            ]
+        },
+        "MathWorld": {
+            "label": "MathWorld",
+            "description": "MathWorld is an online mathematics reference work, created and largely written by Eric W. Weisstein. Wikipedia",
+            "type": "",
+            "Related topics": []
         },
         "ImageShack": {
             "label": "Imageshack",
@@ -111,6 +105,12 @@
             ],
             "People also search for": []
         },
+        "German Wikipedia": {
+            "label": "German Wikipedia",
+            "description": "The German Wikipedia is the German-language edition of Wikipedia, a free and publicly editable online encyclopedia. Wikipedia",
+            "type": "",
+            "See results about": []
+        },
         "Orion's Arm": {
             "label": "Orion's Arm",
             "description": "Orion's Arm, is a multi-authored online science fiction world-building project, first established in 2000 by M. Alan Kazlev, Donna Malcolm Hirsekorn, Bernd Helfert and Anders Sandberg and further co-authored by many people since. Wikipedia",
@@ -122,6 +122,15 @@
             "description": "The Russian Wikipedia is the Russian language edition of Wikipedia. It has over 1,094,000 articles. It was founded on 20 May 2001. By May 2008 it had become the 10th largest Wikipedia by size and in January 2014 it ranks 7th. Wikipedia",
             "type": "",
             "See results about": []
+        },
+        "Technorati": {
+            "label": "Technorati",
+            "description": "Technorati is an Internet search engine for searching blogs. By June 2008, Technorati was indexing 112.8 million blogs and over 250 million pieces of tagged social media. Wikipedia",
+            "type": "",
+            "Founder ": [
+                "Dave Sifry"
+            ],
+            "People also search for": []
         },
         "Softonic.com": {
             "label": "Softonic International S.L.",
@@ -135,26 +144,11 @@
             ],
             "Recent posts": []
         },
-        "Technorati": {
-            "label": "Technorati",
-            "description": "Technorati is an Internet search engine for searching blogs. By June 2008, Technorati was indexing 112.8 million blogs and over 250 million pieces of tagged social media. Wikipedia",
-            "type": "",
-            "Founder ": [
-                "Dave Sifry"
-            ],
-            "People also search for": []
-        },
         "Aluka": {
             "label": "Aluka",
             "description": "Aluka is an online digital library focusing on materials about Africa. Aluka's mission is to connect scholars from around the world by building a common platform that allows online collaboration and knowledge sharing. Wikipedia",
             "type": "",
             "See results about": []
-        },
-        "Truthout": {
-            "label": "Truthout",
-            "description": "Truthout is a 501 nonprofit, progressive news organization in the United States that operates a web site and distributes a daily newsletter. Wikipedia",
-            "type": "",
-            "Recent posts": []
         },
         "GittiGidiyor": {
             "label": "Gittigidiyor",
@@ -163,107 +157,113 @@
             "Founded ": [
                 "2004"
             ]
+        },
+        "Truthout": {
+            "label": "Truthout",
+            "description": "Truthout is a 501 nonprofit, progressive news organization in the United States that operates a web site and distributes a daily newsletter. Wikipedia",
+            "type": "",
+            "Recent posts": []
         }
     },
     "summary": {
         "label": 17,
         "description": 17,
         "type": 17,
-        "Related topics": 2,
-        "CEO ": 2,
-        "Founded ": 7,
-        "Founders ": 4,
-        "Recent posts": 4,
-        "Stock price ": 1,
-        "Headquarters ": 1,
-        "See results about": 5,
-        "Founder ": 3,
-        "Awards ": 1,
-        "People also search for": 3
+        "ceo": 1,
+        "founded": 1,
+        "founders": 1,
+        "recent_posts": 1,
+        "stock_price": 1,
+        "headquarters": 1,
+        "related_topics": 1,
+        "people_also_search_for": 1,
+        "see_results_about": 1,
+        "founder": 1,
+        "awards": 1
     },
     "infoboxless": [
+        "About.com",
         "AllAfrica.com",
         "Astronomy Picture of the Day",
         "Cebuano Wikipedia",
         "Ciao (website)",
-        "About.com",
         "Encyclopedia Dramatica",
-        "Google Scholar",
         "Europeana",
+        "Google Scholar",
         "Hot or Not",
         "Identi.ca",
-        "MSN Games",
-        "Irish Wikipedia",
         "Index Fungorum",
         "Ipredator",
+        "Irish Wikipedia",
+        "MSN Games",
         "Malayalam Wikipedia",
-        "Mozdev.org",
-        "Memory Alpha",
         "MeatballWiki",
-        "Metapedia",
-        "Mozilla Add-ons",
-        "Panoramio",
+        "Memory Alpha",
         "Metacritic",
-        "SourceWatch",
-        "SKY-MAP.ORG",
+        "Metapedia",
+        "Mozdev.org",
+        "Mozilla Add-ons",
         "Open Site",
-        "Swahili Wikipedia",
-        "Stupidedia",
+        "Panoramio",
+        "SKY-MAP.ORG",
+        "Silesian Wikipedia",
+        "SourceWatch",
         "Stuff.co.nz",
-        "Telugu Wikipedia",
-        "Tamil Wikipedia",
+        "Stupidedia",
+        "Swahili Wikipedia",
         "Têtes à claques",
+        "Tamil Wikipedia",
+        "Telugu Wikipedia",
+        "The Million Dollar Homepage",
         "The Pirate Bay",
         "The Smoking Gun",
         "The Week in Chess",
-        "The Million Dollar Homepage",
+        "VK (social network)",
         "WebCrawler",
         "WikiWikiWeb",
-        "Anime News Network",
-        "Zazaki Wikipedia",
-        "VK (social network)",
-        "Arabic Wikipedia",
         "Wookieepedia",
+        "Zazaki Wikipedia",
+        "Anime News Network",
+        "Arabic Wikipedia",
         "Box Office Mojo",
         "Citizendium",
-        "French Wikipedia",
-        "Faith Freedom International",
         "Enciclopedia Libre Universal en Español",
         "Encyclopedia of Life",
-        "Google News",
-        "Google Videos",
-        "Google Maps",
+        "Faith Freedom International",
+        "French Wikipedia",
+        "Galician Wikipedia",
         "Google Buzz",
         "Google Images",
-        "Killer List of Videogames",
-        "International Plant Names Index",
-        "Internet Movie Database",
+        "Google Maps",
+        "Google News",
+        "Google Videos",
         "Grooveshark",
+        "International Plant Names Index",
+        "Internet Broadway Database",
+        "Internet Movie Database",
+        "Killer List of Videogames",
         "MobyGames",
         "PlanetMath",
-        "Internet Broadway Database",
         "Welsh Wikipedia",
-        "Wikibooks",
-        "Wikiquote",
         "WikiMapia",
+        "Wikibooks",
         "Wikipedia",
-        "Wikispecies",
-        "Wikiversity",
-        "Wikitravel",
+        "Wikiquote",
         "Wikisource",
+        "Wikispecies",
+        "Wikitravel",
+        "Wikiversity",
         "Wiktionary",
-        "FilmOn",
         "Distributed.net",
-        "St Pete Creative Network",
+        "FilmOn",
         "ManBeef.com",
+        "St Pete Creative Network",
         "VideoGamer.com",
+        "Winter (Irish band)",
+        "ViXra",
         "Pegasus News",
         "FactCheck.org",
-        "ViXra",
         "43 Things",
-        "Abandonia",
-        "Winter (Irish band)",
-        "Silesian Wikipedia",
-        "Galician Wikipedia"
+        "Abandonia"
     ]
 }

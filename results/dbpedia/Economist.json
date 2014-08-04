@@ -1,20 +1,5 @@
 {
     "instances": {
-        "Karl William Kapp": {
-            "label": "K. William Kapp",
-            "description": "Karl William Kapp was a German-American economist and professor of economics at the University of the City of New York and later the University of Basel. Wikipedia",
-            "type": "Economist",
-            "Born ": "October 27, 1910, Königsberg, Germany",
-            "Died ": "April 4, 1976, Dubrovnik, Croatia",
-            "Books ": [
-                "The humanization of the social sciences"
-            ],
-            "Education ": [
-                "Humboldt University of Berlin",
-                " Frankfurt School"
-            ],
-            "People also search for": []
-        },
         "Georg Friedrich Knapp": {
             "label": "Georg Friedrich Knapp",
             "description": "Georg Friedrich Knapp was a German economist who in 1895 published The State Theory of Money, which founded the chartalist school of monetary theory, which takes the statist stance that money must have ... Wikipedia",
@@ -32,17 +17,20 @@
             ],
             "People also search for": []
         },
-        "Arthur C. Brooks": {
-            "label": "Arthur C. Brooks",
-            "description": "Arthur C. Brooks is an American social scientist and musician. He is the president of the American Enterprise Institute, a conservative think tank. Brooks is best known for his work on the junctions between culture, economics, and politics. Wikipedia",
-            "type": "Economic Consultant",
-            "Born ": "May 21, 1964 (age 49), Spokane, Washington, United States",
-            "Education ": [
-                "Frederick S. Pardee RAND Graduate School",
-                " Florida Atlantic University",
-                " Thomas Edison State College"
+        "Karl William Kapp": {
+            "label": "K. William Kapp",
+            "description": "Karl William Kapp was a German-American economist and professor of economics at the University of the City of New York and later the University of Basel. Wikipedia",
+            "type": "Economist",
+            "Born ": "October 27, 1910, Königsberg, Germany",
+            "Died ": "April 4, 1976, Dubrovnik, Croatia",
+            "Books ": [
+                "The humanization of the social sciences"
             ],
-            "Books": []
+            "Education ": [
+                "Humboldt University of Berlin",
+                " Frankfurt School"
+            ],
+            "People also search for": []
         },
         "Carl Menger": {
             "label": "Carl Menger",
@@ -64,40 +52,16 @@
             ],
             "People also search for": []
         },
-        "David Landes": {
-            "label": "David Landes",
-            "description": "David Saul Landes was a professor of economics and of history at Harvard University. He was the author of Bankers and Pashas, Revolution in Time, The Unbound Prometheus, The Wealth and Poverty of Nations and Dynasties. Wikipedia",
-            "type": "Author",
-            "Born ": "April 29, 1924, New York City, New York, United States",
-            "Died ": "August 17, 2013",
+        "Arthur C. Brooks": {
+            "label": "Arthur C. Brooks",
+            "description": "Arthur C. Brooks is an American social scientist and musician. He is the president of the American Enterprise Institute, a conservative think tank. Brooks is best known for his work on the junctions between culture, economics, and politics. Wikipedia",
+            "type": "Economic Consultant",
+            "Born ": "May 21, 1964 (age 49), Spokane, Washington, United States",
             "Education ": [
-                "City College of New York",
-                " Harvard University"
+                "Frederick S. Pardee RAND Graduate School",
+                " Florida Atlantic University",
+                " Thomas Edison State College"
             ],
-            "Books": []
-        },
-        "Ester Boserup": {
-            "label": "Ester Boserup",
-            "description": "Ester Boserup, born Ester Børgesen in Copenhagen, was a Danish economist. She studied economic and agricultural development, worked at the United Nations as well as other international organizations, and she wrote several books. Wikipedia",
-            "type": "Economist",
-            "Born ": "May 18, 1910, Copenhagen, Denmark",
-            "Died ": "September 24, 1999",
-            "Education ": [
-                "University of Copenhagen"
-            ],
-            "Books ": [
-                "Woman's role in economic development",
-                " The conditions of agricultural growth",
-                " My Professional Life and Publications",
-                " 1929-1998More"
-            ],
-            "People also search for": []
-        },
-        "David Prychitko": {
-            "label": "David Prychitko",
-            "description": "David L. Prychitko is an American economist of the Austrian School. Wikipedia",
-            "type": "Economist",
-            "Born ": "June 22, 1962 (age 51), Evergreen Park, Illinois, United States",
             "Books": []
         },
         "Daron Acemoğlu": {
@@ -117,6 +81,25 @@
             ],
             "Books": []
         },
+        "David Landes": {
+            "label": "David Landes",
+            "description": "David Saul Landes was a professor of economics and of history at Harvard University. He was the author of Bankers and Pashas, Revolution in Time, The Unbound Prometheus, The Wealth and Poverty of Nations and Dynasties. Wikipedia",
+            "type": "Author",
+            "Born ": "April 29, 1924, New York City, New York, United States",
+            "Died ": "August 17, 2013",
+            "Education ": [
+                "City College of New York",
+                " Harvard University"
+            ],
+            "Books": []
+        },
+        "David Prychitko": {
+            "label": "David Prychitko",
+            "description": "David L. Prychitko is an American economist of the Austrian School. Wikipedia",
+            "type": "Economist",
+            "Born ": "June 22, 1962 (age 51), Evergreen Park, Illinois, United States",
+            "Books": []
+        },
         "Don Lavoie": {
             "label": "Don Lavoie",
             "description": "Donald Charles \"Don\" Lavoie was an Austrian school economist. He worked at the Cato Institute. He wrote two books on the problem of economic calculation. His first book on this subject was Rivalry and Central Planning. Wikipedia",
@@ -131,6 +114,34 @@
             "Education ": [
                 "Worcester Polytechnic Institute",
                 " New York University"
+            ],
+            "People also search for": []
+        },
+        "Ester Boserup": {
+            "label": "Ester Boserup",
+            "description": "Ester Boserup, born Ester Børgesen in Copenhagen, was a Danish economist. She studied economic and agricultural development, worked at the United Nations as well as other international organizations, and she wrote several books. Wikipedia",
+            "type": "Economist",
+            "Born ": "May 18, 1910, Copenhagen, Denmark",
+            "Died ": "September 24, 1999",
+            "Education ": [
+                "University of Copenhagen"
+            ],
+            "Books ": [
+                "Woman's role in economic development",
+                " The conditions of agricultural growth",
+                " My Professional Life and Publications",
+                " 1929-1998More"
+            ],
+            "People also search for": []
+        },
+        "Friedrich von Wieser": {
+            "label": "Friedrich von Wieser",
+            "description": "Friedrich Freiherr von Wieser was an early economist of the Austrian School of economics. Born in Vienna, the son of Privy Councillor Leopold von Wieser, a high official in the war ministry, he first trained in sociology and law. Wikipedia",
+            "type": "Freiherr",
+            "Born ": "July 10, 1851, Vienna, Austria",
+            "Died ": "July 22, 1926, Vienna, Austria",
+            "Education ": [
+                "University of Vienna"
             ],
             "People also search for": []
         },
@@ -152,34 +163,6 @@
             ],
             "People also search for": []
         },
-        "Friedrich von Wieser": {
-            "label": "Friedrich von Wieser",
-            "description": "Friedrich Freiherr von Wieser was an early economist of the Austrian School of economics. Born in Vienna, the son of Privy Councillor Leopold von Wieser, a high official in the war ministry, he first trained in sociology and law. Wikipedia",
-            "type": "Freiherr",
-            "Born ": "July 10, 1851, Vienna, Austria",
-            "Died ": "July 22, 1926, Vienna, Austria",
-            "Education ": [
-                "University of Vienna"
-            ],
-            "People also search for": []
-        },
-        "Frank Fetter": {
-            "label": "Frank Fetter",
-            "description": "Frank Albert Fetter was an American economist of the Austrian School. Fetter's treatise, The Principles of Economics, contributed to an increased American interest in the Austrian School, including the ... Wikipedia",
-            "type": "Economist",
-            "Born ": "March 8, 1863, Peru, Indiana, United States",
-            "Died ": "March 21, 1949, Princeton, New Jersey, United States",
-            "Education ": [
-                "Martin Luther University of Halle-Wittenberg"
-            ],
-            "Books ": [
-                "Capital",
-                " Interest and Rent",
-                " Manual of References and Exercises in Economics for Use with Volume II. Modern Economic Problems - The Original Classic Edition",
-                " Manual of References and Exercises in Economics for Use with Volume II. Modern Economic ProblemsMore"
-            ],
-            "People also search for": []
-        },
         "George Reisman": {
             "label": "George Reisman",
             "description": "George Gerald Reisman is an American economist and Professor Emeritus of Economics at Pepperdine University. He is the author of The Government Against the Economy, which was praised by both F. A. Wikipedia",
@@ -192,6 +175,25 @@
                 "Capitalism A Treatise on Economics"
             ],
             "People also search for": []
+        },
+        "George Stigler": {
+            "label": "George Stigler",
+            "description": "George Joseph Stigler was a U.S. economist. He won the Nobel Memorial Prize in Economic Sciences in 1982, and was a key leader of the Chicago School of Economics, along with his close friend Milton Friedman. Wikipedia",
+            "type": "Economist",
+            "Born ": "January 17, 1911, Seattle, Washington, United States",
+            "Died ": "December 1, 1991, Chicago, Illinois, United States",
+            "Education ": [
+                "University of Washington",
+                " Northwestern University",
+                " University of Chicago"
+            ],
+            "Awards ": [
+                "Nobel Memorial Prize in Economic Sciences",
+                " Guggenheim Fellowship for Social Sciences",
+                " US & Canada",
+                " National Medal of Science for Behavioral and Social ScienceMore"
+            ],
+            "Books": []
         },
         "Hal Varian": {
             "label": "Hal Varian",
@@ -229,29 +231,6 @@
             ],
             "People also search for": []
         },
-        "Israel Kirzner": {
-            "label": "Israel Kirzner",
-            "description": "Israel Meir Kirzner is an American economist closely identified with the Austrian School. Wikipedia",
-            "type": "Economist",
-            "Born ": "February 13, 1930 (age 84), London, United Kingdom",
-            "Education ": [
-                "University of Cape Town",
-                " Brooklyn College",
-                " New York University"
-            ],
-            "Books": []
-        },
-        "Henry Hazlitt": {
-            "label": "Henry Hazlitt",
-            "description": "Henry Stuart Hazlitt was an American journalist who wrote about business and economics for such publications as The Wall Street Journal, The Nation, The American Mercury, Newsweek, and The New York Times. Wikipedia",
-            "type": "Journalist",
-            "Born ": "November 28, 1894, Philadelphia, Pennsylvania, United States",
-            "Died ": "July 8, 1993",
-            "Education ": [
-                "City College of New York"
-            ],
-            "Books": []
-        },
         "Harvey J. Levin": {
             "label": "Harvey J. Levin",
             "description": "Harvey Joshua Levin was an American economist. He was university research professor in the Department of Economics at Hofstra University, Augustus B. Weller Professor of Economics at Hofstra, and founder and director of its Public Policy Workshop. Wikipedia",
@@ -269,6 +248,46 @@
             ],
             "People also search for": []
         },
+        "Henry Hazlitt": {
+            "label": "Henry Hazlitt",
+            "description": "Henry Stuart Hazlitt was an American journalist who wrote about business and economics for such publications as The Wall Street Journal, The Nation, The American Mercury, Newsweek, and The New York Times. Wikipedia",
+            "type": "Journalist",
+            "Born ": "November 28, 1894, Philadelphia, Pennsylvania, United States",
+            "Died ": "July 8, 1993",
+            "Education ": [
+                "City College of New York"
+            ],
+            "Books": []
+        },
+        "Frank Fetter": {
+            "label": "Frank Fetter",
+            "description": "Frank Albert Fetter was an American economist of the Austrian School. Fetter's treatise, The Principles of Economics, contributed to an increased American interest in the Austrian School, including the ... Wikipedia",
+            "type": "Economist",
+            "Born ": "March 8, 1863, Peru, Indiana, United States",
+            "Died ": "March 21, 1949, Princeton, New Jersey, United States",
+            "Education ": [
+                "Martin Luther University of Halle-Wittenberg"
+            ],
+            "Books ": [
+                "Capital",
+                " Interest and Rent",
+                " Manual of References and Exercises in Economics for Use with Volume II. Modern Economic Problems - The Original Classic Edition",
+                " Manual of References and Exercises in Economics for Use with Volume II. Modern Economic ProblemsMore"
+            ],
+            "People also search for": []
+        },
+        "Israel Kirzner": {
+            "label": "Israel Kirzner",
+            "description": "Israel Meir Kirzner is an American economist closely identified with the Austrian School. Wikipedia",
+            "type": "Economist",
+            "Born ": "February 13, 1930 (age 84), London, United Kingdom",
+            "Education ": [
+                "University of Cape Town",
+                " Brooklyn College",
+                " New York University"
+            ],
+            "Books": []
+        },
         "John Maurice Clark": {
             "label": "John Maurice Clark",
             "description": "John Maurice Clark was an American economist whose work combined the rigor of traditional economic analysis with an \"institutionalist\" attitude. Wikipedia",
@@ -284,24 +303,18 @@
             ],
             "Books": []
         },
-        "George Stigler": {
-            "label": "George Stigler",
-            "description": "George Joseph Stigler was a U.S. economist. He won the Nobel Memorial Prize in Economic Sciences in 1982, and was a key leader of the Chicago School of Economics, along with his close friend Milton Friedman. Wikipedia",
+        "Joseph Salerno": {
+            "label": "Joseph Salerno",
+            "description": "Joseph T. Salerno is an American Austrian School economist. He teaches at the business school of Pace University in New York City. Wikipedia",
             "type": "Economist",
-            "Born ": "January 17, 1911, Seattle, Washington, United States",
-            "Died ": "December 1, 1991, Chicago, Illinois, United States",
+            "Born ": [
+                "United States of America"
+            ],
             "Education ": [
-                "University of Washington",
-                " Northwestern University",
-                " University of Chicago"
+                "Boston College",
+                " Rutgers University"
             ],
-            "Awards ": [
-                "Nobel Memorial Prize in Economic Sciences",
-                " Guggenheim Fellowship for Social Sciences",
-                " US & Canada",
-                " National Medal of Science for Behavioral and Social ScienceMore"
-            ],
-            "Books": []
+            "People also search for": []
         },
         "Ken Schoolland": {
             "label": "Ken Schoolland",
@@ -316,19 +329,6 @@
             "Books ": [
                 "The Adventures of Jonathan Gullible",
                 " Shogun's ghost"
-            ],
-            "People also search for": []
-        },
-        "Joseph Salerno": {
-            "label": "Joseph Salerno",
-            "description": "Joseph T. Salerno is an American Austrian School economist. He teaches at the business school of Pace University in New York City. Wikipedia",
-            "type": "Economist",
-            "Born ": [
-                "United States of America"
-            ],
-            "Education ": [
-                "Boston College",
-                " Rutgers University"
             ],
             "People also search for": []
         },
@@ -361,6 +361,17 @@
             ],
             "People also search for": []
         },
+        "Lionel Robbins, Baron Robbins": {
+            "label": "Lionel Robbins, Baron Robbins",
+            "description": "Lionel Charles Robbins, Baron Robbins, FBA was a British economist and head of the economics department at the London School of Economics. Wikipedia",
+            "type": "Economist",
+            "Born ": "November 22, 1898, Sipson, United Kingdom",
+            "Died ": "May 15, 1984, London, United Kingdom",
+            "Education ": [
+                "London School of Economics and Political Science"
+            ],
+            "Books": []
+        },
         "Mark Skousen": {
             "label": "Mark Skousen",
             "description": "Mark Andrew Skousen is an American economist, investment analyst, newsletter editor, college professor and author. Wikipedia",
@@ -379,17 +390,6 @@
             ],
             "Books": []
         },
-        "Lionel Robbins, Baron Robbins": {
-            "label": "Lionel Robbins, Baron Robbins",
-            "description": "Lionel Charles Robbins, Baron Robbins, FBA was a British economist and head of the economics department at the London School of Economics. Wikipedia",
-            "type": "Economist",
-            "Born ": "November 22, 1898, Sipson, United Kingdom",
-            "Died ": "May 15, 1984, London, United Kingdom",
-            "Education ": [
-                "London School of Economics and Political Science"
-            ],
-            "Books": []
-        },
         "Mark Spitznagel": {
             "label": "Mark Spitznagel",
             "description": "Mark Spitznagel is an American investor, author, and farmer.\nSpitznagel is known for his über-bearish “Austrian”-based stock market investing and pioneering “tail-hedging,” and most notoriously for his hugely ... Wikipedia",
@@ -398,6 +398,25 @@
             "Education ": [
                 "Kalamazoo College",
                 " New York University"
+            ],
+            "People also search for": []
+        },
+        "Mark Thornton": {
+            "label": "Mark Thornton",
+            "description": "Mark Thornton is an American economist of the Austrian School. He has written on the topic of prohibition of drugs, the economics of the American Civil War, and the \"Skyscraper Index\", He is a Senior ... Wikipedia",
+            "type": "Economist",
+            "Born ": "June 7, 1960 (age 53), United States of America",
+            "Books ": [
+                "The Economics of Prohibition",
+                " Tariffs",
+                " Blockades",
+                " and Inflation The Economics of the Civil War",
+                " Meditation in a New York Minute Super Calm for the Super Busy",
+                " Do we have free will?More"
+            ],
+            "Education ": [
+                "Auburn University",
+                " St. Bonaventure University"
             ],
             "People also search for": []
         },
@@ -429,22 +448,21 @@
             ],
             "People also search for": []
         },
-        "Mark Thornton": {
-            "label": "Mark Thornton",
-            "description": "Mark Thornton is an American economist of the Austrian School. He has written on the topic of prohibition of drugs, the economics of the American Civil War, and the \"Skyscraper Index\", He is a Senior ... Wikipedia",
+        "May Louise Cowles": {
+            "label": "May Louise Cowles",
+            "description": "May Louise Cowles was an American economist, researcher, author, and advocate of Home Economics. She was a member of the faculty at the University of Wisconsin–Madison from 1915–1958. Wikipedia",
             "type": "Economist",
-            "Born ": "June 7, 1960 (age 53), United States of America",
-            "Books ": [
-                "The Economics of Prohibition",
-                " Tariffs",
-                " Blockades",
-                " and Inflation The Economics of the Civil War",
-                " Meditation in a New York Minute Super Calm for the Super Busy",
-                " Do we have free will?More"
+            "Born ": "September 25, 1892, Sibley, Kansas, United States",
+            "Died ": [
+                "1978",
+                " Madison",
+                " Wisconsin",
+                " United States"
             ],
             "Education ": [
-                "Auburn University",
-                " St. Bonaventure University"
+                "Kansas State University",
+                " University of Wisconsin-Madison",
+                " University of Chicago"
             ],
             "People also search for": []
         },
@@ -462,24 +480,6 @@
             ],
             "Awards ": [
                 "MacArthur Fellowship"
-            ],
-            "People also search for": []
-        },
-        "May Louise Cowles": {
-            "label": "May Louise Cowles",
-            "description": "May Louise Cowles was an American economist, researcher, author, and advocate of Home Economics. She was a member of the faculty at the University of Wisconsin–Madison from 1915–1958. Wikipedia",
-            "type": "Economist",
-            "Born ": "September 25, 1892, Sibley, Kansas, United States",
-            "Died ": [
-                "1978",
-                " Madison",
-                " Wisconsin",
-                " United States"
-            ],
-            "Education ": [
-                "Kansas State University",
-                " University of Wisconsin-Madison",
-                " University of Chicago"
             ],
             "People also search for": []
         },
@@ -533,24 +533,6 @@
             ],
             "People also search for": []
         },
-        "Peter Boettke": {
-            "label": "Peter Boettke",
-            "description": "Peter Joseph Boettke is an American economist of the Austrian School. He is currently a University Professor of Economics and Philosophy at George Mason University; the BB&T Professor for the Study of ... Wikipedia",
-            "type": "Economist",
-            "Born ": "January 3, 1960 (age 54), Rahway, New Jersey, United States",
-            "Spouse ": [
-                "Rosemary Boettke"
-            ],
-            "Children ": [
-                "Stephen Boettke",
-                " Matthew Boettke"
-            ],
-            "Education ": [
-                "George Mason University",
-                " Grove City College"
-            ],
-            "Books": []
-        },
         "Paul Krugman": {
             "label": "Paul Krugman",
             "description": "Paul Robin Krugman is an American economist, Professor of Economics and International Affairs at the Woodrow Wilson School of Public and International Affairs at Princeton University, Centenary Professor ... Wikipedia",
@@ -573,6 +555,24 @@
                 " John Bates Clark Medal",
                 " H. C. Recktenwald Prize in Economics",
                 " Prince of Asturias Award for Social ScienceMore"
+            ],
+            "Books": []
+        },
+        "Peter Boettke": {
+            "label": "Peter Boettke",
+            "description": "Peter Joseph Boettke is an American economist of the Austrian School. He is currently a University Professor of Economics and Philosophy at George Mason University; the BB&T Professor for the Study of ... Wikipedia",
+            "type": "Economist",
+            "Born ": "January 3, 1960 (age 54), Rahway, New Jersey, United States",
+            "Spouse ": [
+                "Rosemary Boettke"
+            ],
+            "Children ": [
+                "Stephen Boettke",
+                " Matthew Boettke"
+            ],
+            "Education ": [
+                "George Mason University",
+                " Grove City College"
             ],
             "Books": []
         },
@@ -639,27 +639,6 @@
             ],
             "Books": []
         },
-        "Robert Higgs": {
-            "label": "Robert Higgs",
-            "description": "Robert Higgs is an American economic historian and economist combining insights from Public Choice, the New Institutional economics, and the Austrian school of economics; and a libertarian anarchist in political and legal theory and public policy. Wikipedia",
-            "type": "Economist",
-            "Born ": "February 1, 1944 (age 70), United States of America",
-            "Education ": [
-                "Johns Hopkins University"
-            ],
-            "Books": []
-        },
-        "Richard T. Ely": {
-            "label": "Richard T. Ely",
-            "description": "Richard Theodore Ely was an American economist, author, and leader of the Progressive movement who called for more government intervention in order to reform what they perceived as the injustices of ... Wikipedia",
-            "type": "Economist",
-            "Born ": "April 13, 1854, Ripley, New York, United States",
-            "Died ": "October 4, 1943, Old Lyme, Connecticut, United States",
-            "Education ": [
-                "Columbia University"
-            ],
-            "Books": []
-        },
         "Richard D. Wolff": {
             "label": "Richard D. Wolff",
             "description": "Richard D. Wolff is an American heterodox economist, well known for his work on Marxian economics, economic methodology, and class analysis. Wikipedia",
@@ -673,11 +652,25 @@
             ],
             "People also search for": []
         },
-        "Robin Hahnel": {
-            "label": "Robin Hahnel",
-            "description": "Robin Eric Hahnel is Professor of Economics at Portland State University. He was a professor at American University for many years and has traveled extensively advising on economic matters all over the world. Wikipedia",
+        "Richard T. Ely": {
+            "label": "Richard T. Ely",
+            "description": "Richard Theodore Ely was an American economist, author, and leader of the Progressive movement who called for more government intervention in order to reform what they perceived as the injustices of ... Wikipedia",
             "type": "Economist",
-            "Born ": "March 25, 1946 (age 68)",
+            "Born ": "April 13, 1854, Ripley, New York, United States",
+            "Died ": "October 4, 1943, Old Lyme, Connecticut, United States",
+            "Education ": [
+                "Columbia University"
+            ],
+            "Books": []
+        },
+        "Robert Higgs": {
+            "label": "Robert Higgs",
+            "description": "Robert Higgs is an American economic historian and economist combining insights from Public Choice, the New Institutional economics, and the Austrian school of economics; and a libertarian anarchist in political and legal theory and public policy. Wikipedia",
+            "type": "Economist",
+            "Born ": "February 1, 1944 (age 70), United States of America",
+            "Education ": [
+                "Johns Hopkins University"
+            ],
             "Books": []
         },
         "Robert P. Murphy": {
@@ -694,6 +687,13 @@
                 " New York University"
             ],
             "People also search for": []
+        },
+        "Robin Hahnel": {
+            "label": "Robin Hahnel",
+            "description": "Robin Eric Hahnel is Professor of Economics at Portland State University. He was a professor at American University for many years and has traveled extensively advising on economic matters all over the world. Wikipedia",
+            "type": "Economist",
+            "Born ": "March 25, 1946 (age 68)",
+            "Books": []
         },
         "Roger Garrison": {
             "label": "Roger Garrison",
@@ -816,18 +816,6 @@
             ],
             "Books": []
         },
-        "Will Hutton": {
-            "label": "Will Hutton",
-            "description": "William Nicolas Hutton is a British political economist, writer, weekly newspaper columnist and former editor-in-chief for The Observer. Wikipedia",
-            "type": "Economist",
-            "Born ": "May 21, 1950 (age 63), Woolwich, London, United Kingdom",
-            "Education ": [
-                "INSEAD",
-                " University of Bristol",
-                " Chislehurst and Sidcup Grammar School"
-            ],
-            "Books": []
-        },
         "Wilbur Olin Hedrick": {
             "label": "Wilbur Olin Hedrick",
             "description": "Wilbur O. Hedrick started as a professor of Economics at Michigan State College in 1908. Wikipedia",
@@ -840,22 +828,17 @@
                 " Ulysses Prentiss Hedrick"
             ]
         },
-        "William Harold Hutt": {
-            "label": "William Harold Hutt",
-            "description": "William Harold \"Bill\" Hutt was an English economist who described himself as a classical liberal. Wikipedia",
+        "Will Hutton": {
+            "label": "Will Hutton",
+            "description": "William Nicolas Hutton is a British political economist, writer, weekly newspaper columnist and former editor-in-chief for The Observer. Wikipedia",
             "type": "Economist",
-            "Born ": "August 3, 1899, London, United Kingdom",
-            "Died ": "June 19, 1988",
+            "Born ": "May 21, 1950 (age 63), Woolwich, London, United Kingdom",
             "Education ": [
-                "London School of Economics and Political Science"
+                "INSEAD",
+                " University of Bristol",
+                " Chislehurst and Sidcup Grammar School"
             ],
-            "Books ": [
-                "The Keynesian episode",
-                " Politically impossible -- ?",
-                " Plan for Reconstruction A Project for Victory in War and Peace",
-                " The Theory of Idle ResourcesMore"
-            ],
-            "People also search for": []
+            "Books": []
         },
         "Willem Buiter": {
             "label": "Willem Buiter",
@@ -879,6 +862,23 @@
             ],
             "People also search for": []
         },
+        "William Harold Hutt": {
+            "label": "William Harold Hutt",
+            "description": "William Harold \"Bill\" Hutt was an English economist who described himself as a classical liberal. Wikipedia",
+            "type": "Economist",
+            "Born ": "August 3, 1899, London, United Kingdom",
+            "Died ": "June 19, 1988",
+            "Education ": [
+                "London School of Economics and Political Science"
+            ],
+            "Books ": [
+                "The Keynesian episode",
+                " Politically impossible -- ?",
+                " Plan for Reconstruction A Project for Victory in War and Peace",
+                " The Theory of Idle ResourcesMore"
+            ],
+            "People also search for": []
+        },
         "Franz Oppenheimer": {
             "label": "Franz Oppenheimer",
             "description": "Franz Oppenheimer was a German-Jewish sociologist and political economist, who published also in the area of the fundamental sociology of the state. Wikipedia",
@@ -896,6 +896,20 @@
                 "Hillel Oppenheimer"
             ],
             "People also search for": []
+        },
+        "George Ayittey": {
+            "label": "George Ayittey",
+            "description": "George Ayittey is a Ghanaian economist, author and president of the Free Africa Foundation in Washington DC. He is a professor at American University, and an associate scholar at the Foreign Policy Research Institute. Wikipedia",
+            "type": "Economist",
+            "Born ": [
+                "1945"
+            ],
+            "Education ": [
+                "University of Ghana",
+                " University of Manitoba",
+                " University of Western Ontario"
+            ],
+            "Books": []
         },
         "Ricardo J. Caballero": {
             "label": "Ricardo J. Caballero",
@@ -926,34 +940,6 @@
             ],
             "People also search for": []
         },
-        "George Ayittey": {
-            "label": "George Ayittey",
-            "description": "George Ayittey is a Ghanaian economist, author and president of the Free Africa Foundation in Washington DC. He is a professor at American University, and an associate scholar at the Foreign Policy Research Institute. Wikipedia",
-            "type": "Economist",
-            "Born ": [
-                "1945"
-            ],
-            "Education ": [
-                "University of Ghana",
-                " University of Manitoba",
-                " University of Western Ontario"
-            ],
-            "Books": []
-        },
-        "Huw Dixon": {
-            "label": "Huw Dixon",
-            "description": "Huw David Dixon is a British economist. He has been a professor at Cardiff Business School since 2006, having previously been Head of Economics at the University of York after being a Professor of ... Wikipedia",
-            "type": "Economist",
-            "Born ": [
-                "July 1958",
-                " Swansea",
-                " United Kingdom"
-            ],
-            "Education ": [
-                "University of Oxford"
-            ],
-            "People also search for": []
-        },
         "Joan Sardà i Dexeus": {
             "label": "Joan Sardà i Dexeus",
             "description": "Joan Sardà i Dexeus, was a Spanish lawyer, economist and author, whose work inspired the National Stabilization Plan in Spain in 1959 that led to the Spanish miracle of 1959-1973. Wikipedia",
@@ -967,23 +953,6 @@
             ],
             "People also search for": []
         },
-        "Dennis Robertson (economist)": {
-            "label": "Dennis Holme Robertson",
-            "description": "Sir Dennis Holme Robertson was an English economist who taught at Cambridge and London Universities. Wikipedia",
-            "type": "Economist",
-            "Born ": "May 23, 1890, Lowestoft, United Kingdom",
-            "Died ": "April 21, 1963, Cambridge, United Kingdom",
-            "Books ": [
-                "A Survey of Modern Monetary Controversy",
-                " Britain in the World Economy"
-            ],
-            "Education ": [
-                "Trinity College",
-                " Cambridge",
-                " Eton College"
-            ],
-            "People also search for": []
-        },
         "Lars Pålsson Syll": {
             "label": "Lars Pålsson Syll",
             "description": "Lars Pålsson Syll is a Swedish economist who is a Professor of Social Studies and Associate professor of Economic History at Malmö University College. Wikipedia",
@@ -993,6 +962,20 @@
             ],
             "Education ": [
                 "Lund University"
+            ],
+            "People also search for": []
+        },
+        "Huw Dixon": {
+            "label": "Huw Dixon",
+            "description": "Huw David Dixon is a British economist. He has been a professor at Cardiff Business School since 2006, having previously been Head of Economics at the University of York after being a Professor of ... Wikipedia",
+            "type": "Economist",
+            "Born ": [
+                "July 1958",
+                " Swansea",
+                " United Kingdom"
+            ],
+            "Education ": [
+                "University of Oxford"
             ],
             "People also search for": []
         },
@@ -1017,6 +1000,23 @@
             ],
             "People also search for": []
         },
+        "Dennis Robertson (economist)": {
+            "label": "Dennis Holme Robertson",
+            "description": "Sir Dennis Holme Robertson was an English economist who taught at Cambridge and London Universities. Wikipedia",
+            "type": "Economist",
+            "Born ": "May 23, 1890, Lowestoft, United Kingdom",
+            "Died ": "April 21, 1963, Cambridge, United Kingdom",
+            "Books ": [
+                "A Survey of Modern Monetary Controversy",
+                " Britain in the World Economy"
+            ],
+            "Education ": [
+                "Trinity College",
+                " Cambridge",
+                " Eton College"
+            ],
+            "People also search for": []
+        },
         "Michael Lipton": {
             "label": "Michael. Lipton",
             "description": "Michael Lipton FBA is an economist specialising in rural poverty in developing countries, including issues relating to land reform and urban bias. Wikipedia",
@@ -1037,22 +1037,6 @@
             ],
             "People also search for": []
         },
-        "Richard Ebeling": {
-            "label": "Richard Ebeling",
-            "description": "Richard M. Ebeling is an American libertarian author, and was president of the Foundation for Economic Education from 2003 to 2008.\nHe has written and edited numerous books, including the three-volume Selected Writings of Ludwig von Mises. Wikipedia",
-            "type": "Author",
-            "Born ": "January 30, 1950 (age 64), New York City, New York, United States",
-            "Spouse ": [
-                "Anna Ebeling"
-            ],
-            "Education ": [
-                "California State University",
-                " Sacramento",
-                " Middlesex University",
-                " Rutgers University"
-            ],
-            "People also search for": []
-        },
         "Phillip D. Cagan": {
             "label": "Phillip D. Cagan",
             "description": "Phillip David Cagan was an American scholar and author. He was Professor of Economics Emeritus at Columbia University. Wikipedia",
@@ -1069,15 +1053,21 @@
             ],
             "People also search for": []
         },
-        "Anthony Thirlwall": {
-            "label": "Anthony Thirlwall",
-            "description": "Tony Thirlwall is Professor of Applied Economics at the University of Kent. He has made major contributions to regional economics; the analysis of unemployment and inflation; balance of payments theory, ... Wikipedia",
+        "Richard Ebeling": {
+            "label": "Richard Ebeling",
+            "description": "Richard M. Ebeling is an American libertarian author, and was president of the Foundation for Economic Education from 2003 to 2008.\nHe has written and edited numerous books, including the three-volume Selected Writings of Ludwig von Mises. Wikipedia",
             "type": "Author",
-            "Born ": "April 21, 1941 (age 72)",
-            "Education ": [
-                "University of Leeds"
+            "Born ": "January 30, 1950 (age 64), New York City, New York, United States",
+            "Spouse ": [
+                "Anna Ebeling"
             ],
-            "Books": []
+            "Education ": [
+                "California State University",
+                " Sacramento",
+                " Middlesex University",
+                " Rutgers University"
+            ],
+            "People also search for": []
         },
         "Bjørn Skogstad Aamo": {
             "label": "Bjørn Skogstad Aamo",
@@ -1091,6 +1081,36 @@
                 "Labour Party"
             ],
             "People also search for": []
+        },
+        "Anthony Thirlwall": {
+            "label": "Anthony Thirlwall",
+            "description": "Tony Thirlwall is Professor of Applied Economics at the University of Kent. He has made major contributions to regional economics; the analysis of unemployment and inflation; balance of payments theory, ... Wikipedia",
+            "type": "Author",
+            "Born ": "April 21, 1941 (age 72)",
+            "Education ": [
+                "University of Leeds"
+            ],
+            "Books": []
+        },
+        "Dambisa Moyo": {
+            "label": "Dambisa Moyo",
+            "description": "Dambisa Felicia Moyo is a Zambian-born economist who analyzes the macroeconomy, foreign aid impact, and global affairs. Wikipedia",
+            "type": "Economist",
+            "Born ": [
+                "1969",
+                " Lusaka",
+                " Zambia"
+            ],
+            "Nationality ": [
+                "Zambian"
+            ],
+            "Education ": [
+                "John F. Kennedy School of Government",
+                " American University",
+                " Harvard University",
+                " University of Oxford"
+            ],
+            "Books": []
         },
         "Bruno Hildebrand": {
             "label": "Bruno Hildebrand",
@@ -1117,26 +1137,6 @@
                 " Fuqua School of Business"
             ],
             "People also search for": []
-        },
-        "Dambisa Moyo": {
-            "label": "Dambisa Moyo",
-            "description": "Dambisa Felicia Moyo is a Zambian-born economist who analyzes the macroeconomy, foreign aid impact, and global affairs. Wikipedia",
-            "type": "Economist",
-            "Born ": [
-                "1969",
-                " Lusaka",
-                " Zambia"
-            ],
-            "Nationality ": [
-                "Zambian"
-            ],
-            "Education ": [
-                "John F. Kennedy School of Government",
-                " American University",
-                " Harvard University",
-                " University of Oxford"
-            ],
-            "Books": []
         },
         "Randall Wright": {
             "label": "Randall Wright",
@@ -1171,16 +1171,6 @@
             ],
             "People also search for": []
         },
-        "Jan Kregel": {
-            "label": "Jan Kregel",
-            "description": "Jan A. Kregel is an eminent Post-Keynesian economist.\nKregel has served since 2006 as Professor of Finance and Development at Tallinn University of Technology, Tallinn, Estonia. Wikipedia",
-            "type": "Economist",
-            "Born ": "April 19, 1944 (age 69), Dallas, Texas, United States",
-            "Education ": [
-                "University of Cambridge"
-            ],
-            "People also search for": []
-        },
         "Hans-Werner Sinn": {
             "label": "Hans-Werner Sinn",
             "description": "Hans-Werner Sinn is a German economist and President of the Ifo Institute for Economic Research. Wikipedia",
@@ -1209,14 +1199,13 @@
             ],
             "People also search for": []
         },
-        "Karl Knies": {
-            "label": "Karl Knies",
-            "description": "Karl Gustav Adolf Knies was a German economist of the historical school of economics, best known as the author of Political Economy from the Standpoint of the Historical Method. Wikipedia",
+        "Jan Kregel": {
+            "label": "Jan Kregel",
+            "description": "Jan A. Kregel is an eminent Post-Keynesian economist.\nKregel has served since 2006 as Professor of Finance and Development at Tallinn University of Technology, Tallinn, Estonia. Wikipedia",
             "type": "Economist",
-            "Born ": "March 29, 1821, Marburg, Germany",
-            "Died ": "August 3, 1898, Heidelberg, Germany",
+            "Born ": "April 19, 1944 (age 69), Dallas, Texas, United States",
             "Education ": [
-                "Philipps University of Marburg"
+                "University of Cambridge"
             ],
             "People also search for": []
         },
@@ -1228,6 +1217,17 @@
             "Education ": [
                 "Ruprecht Karl University of Heidelberg",
                 " Ludwig Maximilian University of Munich"
+            ],
+            "People also search for": []
+        },
+        "Karl Knies": {
+            "label": "Karl Knies",
+            "description": "Karl Gustav Adolf Knies was a German economist of the historical school of economics, best known as the author of Political Economy from the Standpoint of the Historical Method. Wikipedia",
+            "type": "Economist",
+            "Born ": "March 29, 1821, Marburg, Germany",
+            "Died ": "August 3, 1898, Heidelberg, Germany",
+            "Education ": [
+                "Philipps University of Marburg"
             ],
             "People also search for": []
         },
@@ -1333,19 +1333,6 @@
             ],
             "People also search for": []
         },
-        "Ariel Rubinstein": {
-            "label": "Ariel Rubinstein",
-            "description": "Ariel Rubinstein is an Israeli economist who works in game theory. Wikipedia",
-            "type": "Economist",
-            "Born ": "April 13, 1951 (age 62), Jerusalem, Israel",
-            "Education ": [
-                "Hebrew University of Jerusalem"
-            ],
-            "Awards ": [
-                "Erwin Plein Nemmers Prize in Economics"
-            ],
-            "Books": []
-        },
         "Randall G. Holcombe": {
             "label": "Randall G. Holcombe",
             "description": "Randall Gregory Holcombe is an American economist, and the DeVoe Moore Professor of Economics at Florida State University. Wikipedia",
@@ -1359,6 +1346,35 @@
                 " University of Florida"
             ],
             "Books": []
+        },
+        "Ariel Rubinstein": {
+            "label": "Ariel Rubinstein",
+            "description": "Ariel Rubinstein is an Israeli economist who works in game theory. Wikipedia",
+            "type": "Economist",
+            "Born ": "April 13, 1951 (age 62), Jerusalem, Israel",
+            "Education ": [
+                "Hebrew University of Jerusalem"
+            ],
+            "Awards ": [
+                "Erwin Plein Nemmers Prize in Economics"
+            ],
+            "Books": []
+        },
+        "Emmanuel Saez": {
+            "label": "Emmanuel Saez",
+            "description": "Emmanuel Saez is a French and American economist who is Professor of Economics at the University of California, Berkeley. His work, done with Thomas Piketty, includes tracking the incomes of the poor, middle class and rich around the world. Wikipedia",
+            "type": "Economist",
+            "Born ": "November 26, 1972 (age 41), Spain",
+            "Awards ": [
+                "John Bates Clark Medal",
+                " MacArthur Fellowship"
+            ],
+            "Education ": [
+                "Paris School of Economics",
+                " Massachusetts Institute of Technology",
+                " École Normale Supérieure"
+            ],
+            "People also search for": []
         },
         "Eugene Fama": {
             "label": "Eugene Fama",
@@ -1401,22 +1417,6 @@
             ],
             "People also search for": []
         },
-        "Emmanuel Saez": {
-            "label": "Emmanuel Saez",
-            "description": "Emmanuel Saez is a French and American economist who is Professor of Economics at the University of California, Berkeley. His work, done with Thomas Piketty, includes tracking the incomes of the poor, middle class and rich around the world. Wikipedia",
-            "type": "Economist",
-            "Born ": "November 26, 1972 (age 41), Spain",
-            "Awards ": [
-                "John Bates Clark Medal",
-                " MacArthur Fellowship"
-            ],
-            "Education ": [
-                "Paris School of Economics",
-                " Massachusetts Institute of Technology",
-                " École Normale Supérieure"
-            ],
-            "People also search for": []
-        },
         "Nouriel Roubini": {
             "label": "Nouriel Roubini",
             "description": "Nouriel Roubini is an American economist. He anticipated the collapse of the United States housing market and the worldwide recession which started in 2008. Wikipedia",
@@ -1438,27 +1438,25 @@
         "label": 96,
         "description": 96,
         "type": 96,
-        "Born ": 96,
-        "Died ": 34,
-        "Books ": 34,
-        "Education ": 90,
-        "People also search for": 62,
-        "Children ": 6,
-        "Books": 33,
-        "Awards ": 16,
-        "Parents ": 3,
-        "Siblings ": 2,
-        "Party ": 3,
-        "Previous offices ": 1,
-        "Spouse ": 7,
-        "Height ": 1,
-        "Nationality ": 3,
-        "People also search for ": 1
+        "born": 1,
+        "died": 1,
+        "education": 1,
+        "books": 1,
+        "children": 1,
+        "people_also_search_for": 1,
+        "awards": 1,
+        "parents": 1,
+        "siblings": 1,
+        "party": 1,
+        "previous_offices": 1,
+        "height": 1,
+        "spouse": 1,
+        "nationality": 1
     },
     "infoboxless": [
-        "G. D. H. Cole",
+        "Benjamin Anderson",
         "F. A. Harper",
-        "Yuri Maltsev",
-        "Benjamin Anderson"
+        "G. D. H. Cole",
+        "Yuri Maltsev"
     ]
 }

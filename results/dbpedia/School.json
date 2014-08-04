@@ -1,5 +1,38 @@
 {
     "instances": {
+        "Columbine High School": {
+            "label": "Columbine High School",
+            "description": "Columbine High School or CHS is a high school in unincorporated Jefferson County, Colorado, United States. Wikipedia",
+            "type": "",
+            "Address ": [
+                "6201 S Pierce St",
+                " Littleton",
+                " CO 80123",
+                " United States"
+            ],
+            "District ": [
+                "Jefferson County Public Schools"
+            ],
+            "Founded ": [
+                "1973"
+            ],
+            "Phone ": [
+                "(303) 982-4400"
+            ],
+            "Mascot ": [
+                "Rebels"
+            ],
+            "Highest grade ": [
+                "Twelfth grade"
+            ],
+            "Lowest grade ": [
+                "Ninth grade"
+            ],
+            "Colors ": [
+                "Blue",
+                " Silver"
+            ]
+        },
         "Carl-Zeiss-Gymnasium Jena": {
             "label": "Carl-Zeiss-Gymnasium Jena",
             "description": "The Carl-Zeiss-Gymnasium Jena is a state-funded German elite Gymnasium for highly gifted students in the fields of math, science, and technology. Wikipedia",
@@ -47,36 +80,13 @@
             "type": "",
             "People also search for": []
         },
-        "Katharineum": {
-            "label": "Katharineum",
-            "description": "The Katharineum zu Lübeck is a humanistic gymnasium founded 1531 in the Hanseatic city Lübeck, Germany. In 2006 the 475th anniversary of this Latin school was celebrated with several events. Wikipedia",
+        "Gelehrtenschule des Johanneums": {
+            "label": "Gelehrtenschule des Johanneums",
+            "description": "The Gelehrtenschule des Johanneums is a Gymnasium in Hamburg, Germany. It is Hamburg's oldest school and was founded in 1529 by Johannes Bugenhagen. The school's motto is The Future needs a Heritage. Wikipedia",
             "type": "",
-            "Address ": "Königstraße 27-31, 23552 Lübeck, Germany",
-            "Phone ": [
-                "+49 451 122 ext. 8631"
-            ],
+            "Address ": "Maria-Louisen-Straße 114, 22301 Hamburg, Germany",
             "Founded ": [
-                "1531"
-            ]
-        },
-        "Gresham's School": {
-            "label": "Gresham's School",
-            "description": "Gresham’s School is an independent coeducational boarding school in Holt in North Norfolk, England. Gresham's School is one of the top 20 IB schools in England. Wikipedia",
-            "type": "",
-            "Address ": [
-                "Cromer Rd",
-                " Holt",
-                " Norfolk NR25 6EA",
-                " United Kingdom"
-            ],
-            "Phone ": [
-                "+44 1263 714500"
-            ],
-            "Founder ": [
-                "John Gresham"
-            ],
-            "Founded ": [
-                "1555"
+                "1529"
             ]
         },
         "Gordonstoun": {
@@ -99,14 +109,30 @@
                 "+44 1343 837837"
             ]
         },
-        "Gelehrtenschule des Johanneums": {
-            "label": "Gelehrtenschule des Johanneums",
-            "description": "The Gelehrtenschule des Johanneums is a Gymnasium in Hamburg, Germany. It is Hamburg's oldest school and was founded in 1529 by Johannes Bugenhagen. The school's motto is The Future needs a Heritage. Wikipedia",
+        "Gresham's School": {
+            "label": "Gresham's School",
+            "description": "Gresham’s School is an independent coeducational boarding school in Holt in North Norfolk, England. Gresham's School is one of the top 20 IB schools in England. Wikipedia",
             "type": "",
-            "Address ": "Maria-Louisen-Straße 114, 22301 Hamburg, Germany",
+            "Address ": [
+                "Cromer Rd",
+                " Holt",
+                " Norfolk NR25 6EA",
+                " United Kingdom"
+            ],
+            "Phone ": [
+                "+44 1263 714500"
+            ],
+            "Founder ": [
+                "John Gresham"
+            ],
             "Founded ": [
-                "1529"
+                "1555"
             ]
+        },
+        "Hochschule für Grafik und Buchkunst Leipzig": {
+            "label": "Hochschule für Grafik und Buchkunst Leipzig",
+            "description": "The Hochschule für Grafik und Buchkunst in Leipzig is one of the oldest art schools in Germany, dating back to 1764. The school has four colleges specialising in fine arts, graphic design, photography and new media art with around 500 students. Wikipedia",
+            "type": ""
         },
         "Hockerill Anglo-European College": {
             "label": "Hockerill Anglo-European College",
@@ -131,139 +157,16 @@
             "type": "",
             "People also search for": []
         },
-        "Hochschule für Grafik und Buchkunst Leipzig": {
-            "label": "Hochschule für Grafik und Buchkunst Leipzig",
-            "description": "The Hochschule für Grafik und Buchkunst in Leipzig is one of the oldest art schools in Germany, dating back to 1764. The school has four colleges specialising in fine arts, graphic design, photography and new media art with around 500 students. Wikipedia",
-            "type": ""
-        },
-        "Columbine High School": {
-            "label": "Columbine High School",
-            "description": "Columbine High School or CHS is a high school in unincorporated Jefferson County, Colorado, United States. Wikipedia",
+        "Katharineum": {
+            "label": "Katharineum",
+            "description": "The Katharineum zu Lübeck is a humanistic gymnasium founded 1531 in the Hanseatic city Lübeck, Germany. In 2006 the 475th anniversary of this Latin school was celebrated with several events. Wikipedia",
             "type": "",
-            "Address ": [
-                "6201 S Pierce St",
-                " Littleton",
-                " CO 80123",
-                " United States"
-            ],
-            "District ": [
-                "Jefferson County Public Schools"
+            "Address ": "Königstraße 27-31, 23552 Lübeck, Germany",
+            "Phone ": [
+                "+49 451 122 ext. 8631"
             ],
             "Founded ": [
-                "1973"
-            ],
-            "Phone ": [
-                "(303) 982-4400"
-            ],
-            "Mascot ": [
-                "Rebels"
-            ],
-            "Highest grade ": [
-                "Twelfth grade"
-            ],
-            "Lowest grade ": [
-                "Ninth grade"
-            ],
-            "Colors ": [
-                "Blue",
-                " Silver"
-            ]
-        },
-        "Marlborough College": {
-            "label": "Marlborough College",
-            "description": "Marlborough College is a co-educational independent school for day and boarding pupils located in Marlborough, Wiltshire. Founded in 1843 for the sons of Church of England clergy, it is now fully coeducational. Wikipedia",
-            "type": "Marlborough, Wiltshire, England",
-            "Address ": [
-                "Bath Rd",
-                " Marlborough SN8 1PA",
-                " United Kingdom"
-            ],
-            "Phone ": [
-                "+44 1672 892200"
-            ],
-            "Founded ": [
-                "1843"
-            ],
-            "Colors ": [
-                "White",
-                " Navy Blue"
-            ]
-        },
-        "Matthew Arnold School, Staines-upon-Thames": {
-            "label": "Matthew Arnold School, Staines-upon-Thames",
-            "description": "Matthew Arnold School is a co-educational secondary school with academy status located in Staines-upon-Thames, Surrey, England. The school educates pupils from the age of 11 to 16. Wikipedia",
-            "type": "Staines-upon-Thames, Middlesex",
-            "Address ": [
-                "Kingston Rd",
-                " Staines",
-                " Surrey TW18 1PF",
-                " United Kingdom"
-            ],
-            "Phone ": [
-                "+44 1784 457275"
-            ],
-            "Founded ": [
-                "1975"
-            ]
-        },
-        "Oslo Cathedral School": {
-            "label": "Oslo Cathedral School",
-            "description": "Schola Osloensis, known in Norwegian as Oslo katedralskole and more commonly as \"Katta\" is an upper secondary school located in Oslo, Norway. The school offers the college preparatory studiespesialisering of the Norwegian school system. Wikipedia",
-            "type": "",
-            "Address ": "Ullevålsveien 31, 0171 Oslo, Norway",
-            "Phone ": [
-                "+47 23 35 34 70"
-            ],
-            "Founded ": [
-                "1153"
-            ]
-        },
-        "Phillips Academy": {
-            "label": "Phillips Academy",
-            "description": "Phillips Academy Andover is a highly selective, prestigious co-educational independent boarding preparatory school for boarding and day students in grades 9–12, along with a post-graduate year. Wikipedia",
-            "type": "Andover, Massachusetts",
-            "Address ": [
-                "180 Main St",
-                " Andover",
-                " MA 01810",
-                " United States"
-            ],
-            "Mascot ": [
-                "Gunga"
-            ],
-            "Hours ": [
-                "(978) 749-4000"
-            ],
-            "Phone ": [
-                "Samuel Phillips",
-                " Jr."
-            ],
-            "Founder ": [
-                "1778"
-            ],
-            "Founded ": [
-                "Twelfth grade"
-            ],
-            "Highest grade ": [
-                "Ninth grade"
-            ],
-            "People also search for": []
-        },
-        "Peter Symonds College": {
-            "label": "Peter Symonds College",
-            "description": "Peter Symonds College is a sixth form college in Winchester, Hampshire, in the south of England. It is one of the largest sixth form colleges in Britain. Wikipedia",
-            "type": "",
-            "Address ": [
-                "Owen's Rd",
-                " Winchester",
-                " Hampshire SO22 6RX",
-                " United Kingdom"
-            ],
-            "Hours ": [
-                "+44 1962 857500"
-            ],
-            "Phone ": [
-                "1897"
+                "1531"
             ]
         },
         "Moravian Academy": {
@@ -297,6 +200,103 @@
             "Colors ": [
                 "Red",
                 " Gold"
+            ],
+            "People also search for": []
+        },
+        "Marlborough College": {
+            "label": "Marlborough College",
+            "description": "Marlborough College is a co-educational independent school for day and boarding pupils located in Marlborough, Wiltshire. Founded in 1843 for the sons of Church of England clergy, it is now fully coeducational. Wikipedia",
+            "type": "Marlborough, Wiltshire, England",
+            "Address ": [
+                "Bath Rd",
+                " Marlborough SN8 1PA",
+                " United Kingdom"
+            ],
+            "Phone ": [
+                "+44 1672 892200"
+            ],
+            "Founded ": [
+                "1843"
+            ],
+            "Colors ": [
+                "White",
+                " Navy Blue"
+            ]
+        },
+        "Oslo Cathedral School": {
+            "label": "Oslo Cathedral School",
+            "description": "Schola Osloensis, known in Norwegian as Oslo katedralskole and more commonly as \"Katta\" is an upper secondary school located in Oslo, Norway. The school offers the college preparatory studiespesialisering of the Norwegian school system. Wikipedia",
+            "type": "",
+            "Address ": "Ullevålsveien 31, 0171 Oslo, Norway",
+            "Phone ": [
+                "+47 23 35 34 70"
+            ],
+            "Founded ": [
+                "1153"
+            ]
+        },
+        "Matthew Arnold School, Staines-upon-Thames": {
+            "label": "Matthew Arnold School, Staines-upon-Thames",
+            "description": "Matthew Arnold School is a co-educational secondary school with academy status located in Staines-upon-Thames, Surrey, England. The school educates pupils from the age of 11 to 16. Wikipedia",
+            "type": "Staines-upon-Thames, Middlesex",
+            "Address ": [
+                "Kingston Rd",
+                " Staines",
+                " Surrey TW18 1PF",
+                " United Kingdom"
+            ],
+            "Phone ": [
+                "+44 1784 457275"
+            ],
+            "Founded ": [
+                "1975"
+            ]
+        },
+        "Peter Symonds College": {
+            "label": "Peter Symonds College",
+            "description": "Peter Symonds College is a sixth form college in Winchester, Hampshire, in the south of England. It is one of the largest sixth form colleges in Britain. Wikipedia",
+            "type": "",
+            "Address ": [
+                "Owen's Rd",
+                " Winchester",
+                " Hampshire SO22 6RX",
+                " United Kingdom"
+            ],
+            "Hours ": [
+                "+44 1962 857500"
+            ],
+            "Phone ": [
+                "1897"
+            ]
+        },
+        "Phillips Academy": {
+            "label": "Phillips Academy",
+            "description": "Phillips Academy Andover is a highly selective, prestigious co-educational independent boarding preparatory school for boarding and day students in grades 9–12, along with a post-graduate year. Wikipedia",
+            "type": "Andover, Massachusetts",
+            "Address ": [
+                "180 Main St",
+                " Andover",
+                " MA 01810",
+                " United States"
+            ],
+            "Mascot ": [
+                "Gunga"
+            ],
+            "Hours ": [
+                "(978) 749-4000"
+            ],
+            "Phone ": [
+                "Samuel Phillips",
+                " Jr."
+            ],
+            "Founder ": [
+                "1778"
+            ],
+            "Founded ": [
+                "Twelfth grade"
+            ],
+            "Highest grade ": [
+                "Ninth grade"
             ],
             "People also search for": []
         },
@@ -424,6 +424,21 @@
                 "Ontario"
             ]
         },
+        "Abiel Smith School": {
+            "label": "Abiel Smith School",
+            "description": "Abiel Smith School, founded in 1835, is a school located at 46 Joy Street in Boston, Massachusetts, United States, adjacent to the African Meeting House. Wikipedia",
+            "type": "Building in Boston, Massachusetts",
+            "Address ": [
+                "46 Joy St",
+                " Boston",
+                " MA",
+                " United States"
+            ],
+            "Opened ": [
+                "1835"
+            ],
+            "People also search for": []
+        },
         "IES Jaume Vicens Vives": {
             "label": "Instituto de Educación Secundaria Ies Jaume Vicens Vives",
             "description": "",
@@ -446,45 +461,6 @@
                 "1980"
             ]
         },
-        "Haberdashers' Aske's Boys' School": {
-            "label": "Haberdashers' Aske's Boys' School",
-            "description": "The Haberdashers' Aske's Boys' School is a British private school for boys aged 4–18. It is situated in Hertfordshire and is a member of the Headmasters' and Headmistresses' Conference and of the Haileybury Group. Wikipedia",
-            "type": "Borehamwood, Hertfordshire",
-            "Address ": [
-                "Butterfly Lane",
-                " Elstree",
-                " Hertfordshire WD6 3AF",
-                " United Kingdom"
-            ],
-            "Phone ": [
-                "+44 20 8266 1700"
-            ],
-            "Founded ": [
-                "1690"
-            ],
-            "See results about": []
-        },
-        "Abiel Smith School": {
-            "label": "Abiel Smith School",
-            "description": "Abiel Smith School, founded in 1835, is a school located at 46 Joy Street in Boston, Massachusetts, United States, adjacent to the African Meeting House. Wikipedia",
-            "type": "Building in Boston, Massachusetts",
-            "Address ": [
-                "46 Joy St",
-                " Boston",
-                " MA",
-                " United States"
-            ],
-            "Opened ": [
-                "1835"
-            ],
-            "People also search for": []
-        },
-        "Ancillae Assumpta Academy": {
-            "label": "Ancillae-Assumpta Academy",
-            "description": "",
-            "type": "",
-            "People also search for": []
-        },
         "Blatchington Mill School and Sixth Form College": {
             "label": "Blatchington Mill School and Sixth Form College",
             "description": "Blatchington Mill School is a coeducational secondary school in Hove, Brighton and Hove for 11 to 19 year olds. Wikipedia",
@@ -506,33 +482,35 @@
                 "1979"
             ]
         },
-        "Navarre High School": {
-            "label": "Navarre High School",
-            "description": "Navarre High School is one of six high schools in the Santa Rosa County School District. The school is located in Navarre, Florida, USA, in Santa Rosa County. Its feeder schools are Holley-Navarre Middle School and Woodlawn Beach Middle School. Wikipedia",
-            "type": "",
+        "Haberdashers' Aske's Boys' School": {
+            "label": "Haberdashers' Aske's Boys' School",
+            "description": "The Haberdashers' Aske's Boys' School is a British private school for boys aged 4–18. It is situated in Hertfordshire and is a member of the Headmasters' and Headmistresses' Conference and of the Haileybury Group. Wikipedia",
+            "type": "Borehamwood, Hertfordshire",
             "Address ": [
-                "8600 High School Blvd",
-                " Navarre",
-                " FL 32566",
-                " United States"
-            ],
-            "District ": [
-                "Santa Rosa County School District"
+                "Butterfly Lane",
+                " Elstree",
+                " Hertfordshire WD6 3AF",
+                " United Kingdom"
             ],
             "Phone ": [
-                "(850) 936-6080"
-            ]
+                "+44 20 8266 1700"
+            ],
+            "Founded ": [
+                "1690"
+            ],
+            "See results about": []
+        },
+        "Ancillae Assumpta Academy": {
+            "label": "Ancillae-Assumpta Academy",
+            "description": "",
+            "type": "",
+            "People also search for": []
         },
         "Arcadia High School (Arcadia, Wisconsin)": {
             "label": "Arcadia High School",
             "description": "",
             "type": "",
             "People also search for": []
-        },
-        "Van Alstyne Independent School District": {
-            "label": "Van Alstyne Independent School District",
-            "description": "The Van Alstyne Independent School District is a public school district in Grayson County, Texas, USA, based in Van Alstyne, Texas. The district extends into portions of northern Collin County. Wikipedia",
-            "type": ""
         },
         "Duncanville High School": {
             "label": "Duncanville High School",
@@ -572,6 +550,44 @@
                 "(508) 359-4367"
             ]
         },
+        "Navarre High School": {
+            "label": "Navarre High School",
+            "description": "Navarre High School is one of six high schools in the Santa Rosa County School District. The school is located in Navarre, Florida, USA, in Santa Rosa County. Its feeder schools are Holley-Navarre Middle School and Woodlawn Beach Middle School. Wikipedia",
+            "type": "",
+            "Address ": [
+                "8600 High School Blvd",
+                " Navarre",
+                " FL 32566",
+                " United States"
+            ],
+            "District ": [
+                "Santa Rosa County School District"
+            ],
+            "Phone ": [
+                "(850) 936-6080"
+            ]
+        },
+        "Sekolah Berasrama Penuh Integrasi Selandar": {
+            "label": "Sekolah Berasrama Penuh Integrasi Selandar",
+            "description": "",
+            "type": ""
+        },
+        "Van Alstyne Independent School District": {
+            "label": "Van Alstyne Independent School District",
+            "description": "The Van Alstyne Independent School District is a public school district in Grayson County, Texas, USA, based in Van Alstyne, Texas. The district extends into portions of northern Collin County. Wikipedia",
+            "type": ""
+        },
+        "Belgrano Day School": {
+            "label": "Belgrano Day School",
+            "description": "Belgrano Day School is a private selective bilingual mixed-sex day school located in the Belgrano neighbourhood of Buenos Aires, Argentina.\nIt offers a national and international curriculum for pupils aged 2 to 18 years old. Wikipedia",
+            "type": "",
+            "Address ": [
+                "Juramento 3035",
+                " C1428DOA Buenos Aires",
+                " Capital Federal",
+                " Argentina"
+            ]
+        },
         "Chapin School (New Jersey)": {
             "label": "Chapin School",
             "description": "Chapin School is a private coeducational day school located in Lawrence Township, New Jersey, United States, serving students in pre-kindergarten through eighth grade situated on a 13-acre campus located 2 miles outside of Princeton. Wikipedia",
@@ -585,11 +601,6 @@
             "Hours ": [
                 "1931"
             ]
-        },
-        "Sekolah Berasrama Penuh Integrasi Selandar": {
-            "label": "Sekolah Berasrama Penuh Integrasi Selandar",
-            "description": "",
-            "type": ""
         },
         "Chattanooga Central High School": {
             "label": "Chattanooga Central High School",
@@ -614,44 +625,11 @@
             "type": "",
             "People also search for": []
         },
-        "Belgrano Day School": {
-            "label": "Belgrano Day School",
-            "description": "Belgrano Day School is a private selective bilingual mixed-sex day school located in the Belgrano neighbourhood of Buenos Aires, Argentina.\nIt offers a national and international curriculum for pupils aged 2 to 18 years old. Wikipedia",
-            "type": "",
-            "Address ": [
-                "Juramento 3035",
-                " C1428DOA Buenos Aires",
-                " Capital Federal",
-                " Argentina"
-            ]
-        },
         "La Salle High School (Niagara Falls, New York)": {
             "label": "La Salle High School",
             "description": "",
             "type": "",
             "People also search for": []
-        },
-        "Jim Thorpe Area School District": {
-            "label": "Jim Thorpe Area School District",
-            "description": "The Jim Thorpe Area School District is located in the United States state of Pennsylvania. It comprises the borough of Jim Thorpe and the townships of Penn Forest and South Kidder. It covers a total area of 137 square miles. Wikipedia",
-            "type": ""
-        },
-        "New Middle East International School, Riyadh": {
-            "label": "New Middle East International School, Riyadh",
-            "description": "The New Middle East International School is an international school in Riyadh, Saudi Arabia. The school was established in 1998 and has about 3,900 students, mostly from Riyadh's Indian and Pakistani community. Wikipedia",
-            "type": "Riyadh, Riyadh Region",
-            "Address ": [
-                "Prince Fahd Bin Salman Rd",
-                " An Namudhajiyah",
-                " Riyadh 12731",
-                " Saudi Arabia"
-            ],
-            "Phone ": [
-                "+966 1 402 8411"
-            ],
-            "Founded ": [
-                "1998"
-            ]
         },
         "Bodwell High School": {
             "label": "Bodwell High School",
@@ -676,11 +654,27 @@
                 "Grade 8"
             ]
         },
-        "Timothy Christian School (New Jersey)": {
-            "label": "Timothy Christian School",
-            "description": "",
-            "type": "",
-            "People also search for": []
+        "Jim Thorpe Area School District": {
+            "label": "Jim Thorpe Area School District",
+            "description": "The Jim Thorpe Area School District is located in the United States state of Pennsylvania. It comprises the borough of Jim Thorpe and the townships of Penn Forest and South Kidder. It covers a total area of 137 square miles. Wikipedia",
+            "type": ""
+        },
+        "New Middle East International School, Riyadh": {
+            "label": "New Middle East International School, Riyadh",
+            "description": "The New Middle East International School is an international school in Riyadh, Saudi Arabia. The school was established in 1998 and has about 3,900 students, mostly from Riyadh's Indian and Pakistani community. Wikipedia",
+            "type": "Riyadh, Riyadh Region",
+            "Address ": [
+                "Prince Fahd Bin Salman Rd",
+                " An Namudhajiyah",
+                " Riyadh 12731",
+                " Saudi Arabia"
+            ],
+            "Phone ": [
+                "+966 1 402 8411"
+            ],
+            "Founded ": [
+                "1998"
+            ]
         },
         "Pakistan International School, Riyadh": {
             "label": "Pakistan International School, Riyadh",
@@ -694,6 +688,12 @@
             "Founded ": [
                 "1968"
             ]
+        },
+        "Timothy Christian School (New Jersey)": {
+            "label": "Timothy Christian School",
+            "description": "",
+            "type": "",
+            "People also search for": []
         },
         "Comilla Zilla School": {
             "label": "Comilla Zilla School",
@@ -718,19 +718,18 @@
                 "1873"
             ]
         },
-        "Wimbledon Chase Primary School": {
-            "label": "Wimbledon Chase Primary School",
-            "description": "Wimbledon Chase Primary School is a primary school located on Merton Hall Road in Wimbledon, London, England. It educates boys and girls aged 3 to 11. The school also houses the Acorn Nursery which caters for very young children. Wikipedia",
-            "type": "London, Greater London",
+        "Eastern Junior-Senior High School": {
+            "label": "Eastern Junior-Senior High School",
+            "description": "Eastern Junior-Senior High School is located in Greentown, Indiana and houses grades 7-12 for Eastern Howard School Corporation. Wikipedia",
+            "type": "Greentown, Indiana",
             "Address ": [
-                "London",
-                " United Kingdom"
+                "421 S Harrison St",
+                " Greentown",
+                " IN 46936",
+                " United States"
             ],
             "Phone ": [
-                "+44 20 8542 1413"
-            ],
-            "Founded ": [
-                "1907"
+                "(765) 628-3333"
             ]
         },
         "Quartz Hill High School": {
@@ -759,18 +758,19 @@
                 "Ninth grade"
             ]
         },
-        "Eastern Junior-Senior High School": {
-            "label": "Eastern Junior-Senior High School",
-            "description": "Eastern Junior-Senior High School is located in Greentown, Indiana and houses grades 7-12 for Eastern Howard School Corporation. Wikipedia",
-            "type": "Greentown, Indiana",
+        "Wimbledon Chase Primary School": {
+            "label": "Wimbledon Chase Primary School",
+            "description": "Wimbledon Chase Primary School is a primary school located on Merton Hall Road in Wimbledon, London, England. It educates boys and girls aged 3 to 11. The school also houses the Acorn Nursery which caters for very young children. Wikipedia",
+            "type": "London, Greater London",
             "Address ": [
-                "421 S Harrison St",
-                " Greentown",
-                " IN 46936",
-                " United States"
+                "London",
+                " United Kingdom"
             ],
             "Phone ": [
-                "(765) 628-3333"
+                "+44 20 8542 1413"
+            ],
+            "Founded ": [
+                "1907"
             ]
         },
         "GEMS Royal Dubai School": {
@@ -822,31 +822,6 @@
             ],
             "See results about": []
         },
-        "Severna Park": {
-            "label": "Severna Park",
-            "description": "Severna Park is a census-designated place in Anne Arundel County, Maryland, United States. Severna Park is part of the Baltimore-Washington Metropolitan Area, and is located approximately 8 miles north ... Wikipedia",
-            "type": "Maryland",
-            "Area ": [
-                "19.34 sq miles (50.1 km²)"
-            ]
-        },
-        "Salesianum": {
-            "label": "Salesianum School",
-            "description": "Salesianum School is a Roman Catholic independent school for boys, located in Wilmington, Delaware. It is run independently within the Roman Catholic Diocese of Wilmington and is operated by the Oblates of St. Francis de Sales. Wikipedia",
-            "type": "Wilmington, Delaware",
-            "Address ": [
-                "1801 N Broom St",
-                " Wilmington",
-                " DE 19802",
-                " United States"
-            ],
-            "Phone ": [
-                "(302) 654-2495"
-            ],
-            "Founded ": [
-                "1903"
-            ]
-        },
         "Academy of Our Lady of Peace": {
             "label": "The Academy of Our Lady of Peace",
             "description": "Academy of Our Lady of Peace, is a Catholic high school for young women in San Diego, started by the Sisters of St. Joseph of Carondelet. Wikipedia",
@@ -874,6 +849,31 @@
                 " Blue"
             ],
             "People also search for": []
+        },
+        "Severna Park": {
+            "label": "Severna Park",
+            "description": "Severna Park is a census-designated place in Anne Arundel County, Maryland, United States. Severna Park is part of the Baltimore-Washington Metropolitan Area, and is located approximately 8 miles north ... Wikipedia",
+            "type": "Maryland",
+            "Area ": [
+                "19.34 sq miles (50.1 km²)"
+            ]
+        },
+        "Salesianum": {
+            "label": "Salesianum School",
+            "description": "Salesianum School is a Roman Catholic independent school for boys, located in Wilmington, Delaware. It is run independently within the Roman Catholic Diocese of Wilmington and is operated by the Oblates of St. Francis de Sales. Wikipedia",
+            "type": "Wilmington, Delaware",
+            "Address ": [
+                "1801 N Broom St",
+                " Wilmington",
+                " DE 19802",
+                " United States"
+            ],
+            "Phone ": [
+                "(302) 654-2495"
+            ],
+            "Founded ": [
+                "1903"
+            ]
         },
         "Edison High School (Fresno, California)": {
             "label": "Edison High School",
@@ -932,23 +932,6 @@
             ],
             "See results about": []
         },
-        "The Woodlands School and Sports College": {
-            "label": "Woodlands Academy, Coventry",
-            "description": "Woodlands Academy is a boys secondary school with academy status situated in west Coventry in the West Midlands, England. Wikipedia",
-            "type": "Coventry, West Midlands",
-            "Address ": [
-                "Broad Ln",
-                " Coventry",
-                " West Midlands CV5",
-                " United Kingdom"
-            ],
-            "Phone ": [
-                "+44 24 7646 2634"
-            ],
-            "Founded ": [
-                "1954"
-            ]
-        },
         "Notre Dame High School (St. Louis)": {
             "label": "Notre Dame High School",
             "description": "Notre Dame High School is a Roman Catholic private all-girls school located in St. Louis, Missouri, on the Mississippi River. It is located in the Roman Catholic Archdiocese of Saint Louis. Wikipedia",
@@ -992,21 +975,21 @@
                 " Maroon"
             ]
         },
-        "The Abbey School, Reading": {
-            "label": "The Abbey School, Reading",
-            "description": "The Abbey School is an independent selective day school for girls, in Reading, Berkshire, England. The school has Church of England traditions, although it accepts girls of all faiths. The Abbey School offers education for girls aged 3 to 18. Wikipedia",
-            "type": "Reading, Berkshire",
+        "The Woodlands School and Sports College": {
+            "label": "Woodlands Academy, Coventry",
+            "description": "Woodlands Academy is a boys secondary school with academy status situated in west Coventry in the West Midlands, England. Wikipedia",
+            "type": "Coventry, West Midlands",
             "Address ": [
-                "17 Kendrick Rd",
-                " Reading",
-                " West Berkshire RG1 5DZ",
+                "Broad Ln",
+                " Coventry",
+                " West Midlands CV5",
                 " United Kingdom"
             ],
             "Phone ": [
-                "+44 118 987 2256"
+                "+44 24 7646 2634"
             ],
             "Founded ": [
-                "1887"
+                "1954"
             ]
         },
         "South African College School": {
@@ -1023,6 +1006,23 @@
                 "White",
                 " Blue",
                 " Navy Blue"
+            ]
+        },
+        "The Abbey School, Reading": {
+            "label": "The Abbey School, Reading",
+            "description": "The Abbey School is an independent selective day school for girls, in Reading, Berkshire, England. The school has Church of England traditions, although it accepts girls of all faiths. The Abbey School offers education for girls aged 3 to 18. Wikipedia",
+            "type": "Reading, Berkshire",
+            "Address ": [
+                "17 Kendrick Rd",
+                " Reading",
+                " West Berkshire RG1 5DZ",
+                " United Kingdom"
+            ],
+            "Phone ": [
+                "+44 118 987 2256"
+            ],
+            "Founded ": [
+                "1887"
             ]
         },
         "Saint Anne, Illinois": {
@@ -1055,26 +1055,6 @@
                 "School District 59 Peace River South"
             ]
         },
-        "Christ's College, Finchley": {
-            "label": "Christ's College Finchley",
-            "description": "Christ's College is a secondary school with academy status in East Finchley, London, United Kingdom. It falls under the London Borough of Barnet Local Education Authority for admissions. Wikipedia",
-            "type": "England",
-            "Address ": [
-                "E End Rd",
-                " Finchley",
-                " London N2 0SE",
-                " United Kingdom"
-            ],
-            "Motto ": [
-                "Usque Proficiens"
-            ],
-            "Phone ": [
-                "+44 20 8349 3581"
-            ],
-            "Hours ": [
-                "1906"
-            ]
-        },
         "Princeton High School, Sharonville, Ohio": {
             "label": "Princeton High School",
             "description": "Princeton High School is a public, co-educational high school located in Sharonville, Ohio. It is a part of the Cincinnati Metropolitan area.\nPrinceton High School serves grades nine through twelve. Wikipedia",
@@ -1096,6 +1076,26 @@
             ],
             "Founded ": [
                 "1959"
+            ]
+        },
+        "Christ's College, Finchley": {
+            "label": "Christ's College Finchley",
+            "description": "Christ's College is a secondary school with academy status in East Finchley, London, United Kingdom. It falls under the London Borough of Barnet Local Education Authority for admissions. Wikipedia",
+            "type": "England",
+            "Address ": [
+                "E End Rd",
+                " Finchley",
+                " London N2 0SE",
+                " United Kingdom"
+            ],
+            "Motto ": [
+                "Usque Proficiens"
+            ],
+            "Phone ": [
+                "+44 20 8349 3581"
+            ],
+            "Hours ": [
+                "1906"
             ]
         },
         "Scott Creek Middle School": {
@@ -1134,12 +1134,6 @@
             "Founded ": [
                 "1896"
             ]
-        },
-        "Aberdeen School District (South Dakota)": {
-            "label": "Aberdeen School District 61",
-            "description": "",
-            "type": "",
-            "See results about": []
         },
         "Aberdeen School District (Idaho)": {
             "label": "Aberdeen School Superintendent",
@@ -1181,29 +1175,6 @@
                 "Tenth grade"
             ]
         },
-        "Danville High School (Arkansas)": {
-            "label": "Danville High School",
-            "description": "Danville High School is a comprehensive public secondary school located in Danville, Arkansas, United States, for students in grades nine through twelve. Wikipedia",
-            "type": "Danville, Arkansas",
-            "Address ": [
-                "101 J A Moudy Dr",
-                " Danville",
-                " AR 72833",
-                " United States"
-            ],
-            "District ": [
-                "Danville School District"
-            ],
-            "Phone ": [
-                "(479) 495-4810"
-            ],
-            "Highest grade ": [
-                "Twelfth grade"
-            ],
-            "Lowest grade ": [
-                "Ninth grade"
-            ]
-        },
         "Danville High School (Alabama)": {
             "label": "Danville High School",
             "description": "Danville High School is a public secondary school located in Danville, Alabama, United States; it is part of the Morgan County school system. Its student body consists primarily of the following ethnicities white, black, and Hispanic. Wikipedia",
@@ -1227,17 +1198,21 @@
                 " Morgan County School District"
             ]
         },
-        "Farmington High School (Arkansas)": {
-            "label": "Farmington High School",
-            "description": "Farmington High School is a comprehensive public high school located in the fringe town of Farmington, Arkansas, United States. The school provides secondary education for students in grades 9 through 12. Wikipedia",
-            "type": "Farmington, Arkansas",
+        "Danville High School (Arkansas)": {
+            "label": "Danville High School",
+            "description": "Danville High School is a comprehensive public secondary school located in Danville, Arkansas, United States, for students in grades nine through twelve. Wikipedia",
+            "type": "Danville, Arkansas",
             "Address ": [
-                "Farmington",
-                " AR",
+                "101 J A Moudy Dr",
+                " Danville",
+                " AR 72833",
                 " United States"
             ],
             "District ": [
-                "Farmington School District"
+                "Danville School District"
+            ],
+            "Phone ": [
+                "(479) 495-4810"
             ],
             "Highest grade ": [
                 "Twelfth grade"
@@ -1258,6 +1233,66 @@
             ],
             "Lowest grade ": [
                 "Tenth grade"
+            ]
+        },
+        "Hermitage High School (Arkansas)": {
+            "label": "Hermitage School District",
+            "description": "",
+            "type": "",
+            "See results about": []
+        },
+        "Aberdeen School District (South Dakota)": {
+            "label": "Aberdeen School District 61",
+            "description": "",
+            "type": "",
+            "See results about": []
+        },
+        "Farmington High School (Arkansas)": {
+            "label": "Farmington High School",
+            "description": "Farmington High School is a comprehensive public high school located in the fringe town of Farmington, Arkansas, United States. The school provides secondary education for students in grades 9 through 12. Wikipedia",
+            "type": "Farmington, Arkansas",
+            "Address ": [
+                "Farmington",
+                " AR",
+                " United States"
+            ],
+            "District ": [
+                "Farmington School District"
+            ],
+            "Highest grade ": [
+                "Twelfth grade"
+            ],
+            "Lowest grade ": [
+                "Ninth grade"
+            ]
+        },
+        "Lakeview High School (Battle Creek, Michigan)": {
+            "label": "Lakeview High School",
+            "description": "",
+            "type": ""
+        },
+        "Lincoln County School District Number 1": {
+            "label": "Lincoln County School District #1",
+            "description": "The Lincoln County School District No. 1 is a public school district in Lincoln County, Wyoming, United States, based in Diamondville, Wyoming. Wikipedia",
+            "type": ""
+        },
+        "Vaddukoddai Hindu College": {
+            "label": "Vaddu Hindu College",
+            "description": "",
+            "type": ""
+        },
+        "Omaha High School (Arkansas)": {
+            "label": "Omaha High School",
+            "description": "Omaha High School is a comprehensive public high school located in Omaha, Arkansas, United States. The school provides secondary education in grades 7 through 12 for students in the Omaha and surrounding ... Wikipedia",
+            "type": "Arkansas",
+            "District ": [
+                "Omaha School District"
+            ],
+            "Highest grade ": [
+                "Twelfth grade"
+            ],
+            "Lowest grade ": [
+                "Seventh grade"
             ]
         },
         "Hillsdale High School (Michigan)": {
@@ -1281,31 +1316,11 @@
                 " Blue"
             ]
         },
-        "Hermitage High School (Arkansas)": {
-            "label": "Hermitage School District",
-            "description": "",
+        "ACS International Schools": {
+            "label": "ACS International SchoolsACS International School Doha",
+            "description": "ACS International Schools is a group of four private schools, three in England and one in Qatar. Until 2005, the organisation was known as American Community Schools. Wikipedia",
             "type": "",
             "See results about": []
-        },
-        "Lakeview High School (Battle Creek, Michigan)": {
-            "label": "Lakeview High School",
-            "description": "",
-            "type": ""
-        },
-        "Lincoln County School District Number 1": {
-            "label": "Lincoln County School District #1",
-            "description": "The Lincoln County School District No. 1 is a public school district in Lincoln County, Wyoming, United States, based in Diamondville, Wyoming. Wikipedia",
-            "type": ""
-        },
-        "A. P. Møller School": {
-            "label": "A. P. Møller Skolen",
-            "description": "",
-            "type": ""
-        },
-        "Vaddukoddai Hindu College": {
-            "label": "Vaddu Hindu College",
-            "description": "",
-            "type": ""
         },
         "ACG Sunderland School and College": {
             "label": "ACG Sunderland School and College",
@@ -1324,26 +1339,6 @@
                 "2007"
             ]
         },
-        "Omaha High School (Arkansas)": {
-            "label": "Omaha High School",
-            "description": "Omaha High School is a comprehensive public high school located in Omaha, Arkansas, United States. The school provides secondary education in grades 7 through 12 for students in the Omaha and surrounding ... Wikipedia",
-            "type": "Arkansas",
-            "District ": [
-                "Omaha School District"
-            ],
-            "Highest grade ": [
-                "Twelfth grade"
-            ],
-            "Lowest grade ": [
-                "Seventh grade"
-            ]
-        },
-        "ACS International Schools": {
-            "label": "ACS International SchoolsACS International School Doha",
-            "description": "ACS International Schools is a group of four private schools, three in England and one in Qatar. Until 2005, the organisation was known as American Community Schools. Wikipedia",
-            "type": "",
-            "See results about": []
-        },
         "Abdul Hamid Sharaf School": {
             "label": "Abdul Hamid Sharaf School",
             "description": "Abdul Hamid Sharaf School is a private school in Amman, Jordan. It was founded by Farid and Sue Dahdah, in 1980. It is named after the former prime minister Abdul Hamid Sharaf, who had recently died at the time. Wikipedia",
@@ -1352,61 +1347,52 @@
                 "1980"
             ]
         },
-        "Catholic Memorial High School": {
-            "label": "Catholic Memorial High School",
+        "A. P. Møller School": {
+            "label": "A. P. Møller Skolen",
             "description": "",
             "type": ""
-        },
-        "Jasper High School (Arkansas)": {
-            "label": "Jasper High School",
-            "description": "",
-            "type": "",
-            "People also search for": []
-        },
-        "Woodlawn High School (Arkansas)": {
-            "label": "Woodlawn High School",
-            "description": "",
-            "type": "",
-            "People also search for": []
         }
     },
     "summary": {
-        "label": 94,
-        "description": 94,
-        "type": 94,
-        "Address ": 60,
-        "Phone ": 47,
-        "Founded ": 40,
-        "Founder ": 8,
-        "Mascot ": 4,
-        "Highest grade ": 13,
-        "Lowest grade ": 12,
-        "People also search for": 18,
-        "District ": 21,
-        "Colors ": 9,
-        "Hours ": 6,
-        "Tax ID ": 2,
-        "Tax deductibility code ": 2,
-        "Assets ": 1,
-        "Income ": 1,
-        "Enrollment ": 4,
-        "Founders ": 1,
-        "See results about": 8,
-        "Motto ": 2,
-        "Province ": 1,
-        "Opened ": 1,
-        "Area ": 1,
-        "Weather ": 1,
-        "Local time ": 1,
-        "Population ": 1,
-        "Color ": 1
+        "label": 91,
+        "description": 91,
+        "type": 91,
+        "address": 1,
+        "district": 1,
+        "founded": 1,
+        "phone": 1,
+        "mascot": 1,
+        "highest_grade": 1,
+        "lowest_grade": 1,
+        "colors": 1,
+        "founder": 1,
+        "people_also_search_for": 1,
+        "tax_id": 1,
+        "tax_deductibility_code": 1,
+        "assets": 1,
+        "income": 1,
+        "hours": 1,
+        "enrollment": 1,
+        "founders": 1,
+        "see_results_about": 1,
+        "motto": 1,
+        "province": 1,
+        "opened": 1,
+        "area": 1,
+        "weather": 1,
+        "local_time": 1,
+        "population": 1,
+        "color": 1
     },
     "infoboxless": [
         "European School, Culham",
         "Western Beaver County School District",
         "Parameshwara College, Jaffna",
-        "Abbey Vocational School",
+        "Wellington School",
         "Franklin High School",
-        "Wellington School"
+        "Catholic Memorial High School",
+        "Jasper High School (Arkansas)",
+        "Woodlawn High School (Arkansas)",
+        "Abbey Vocational School"
     ]
 }
