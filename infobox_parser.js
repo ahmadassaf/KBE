@@ -30,9 +30,10 @@ infobox_parser.prototype.parse = function(instance, type, callback) {
 	var cache_filename = __dirname + '/cache/instances_GKB/'+ instance.replace(/[^a-zA-Z0-9]/g,'_') +'.json';
 
 	this.cache.getCache(cache_filename, function(error, data) {
-		if (!error && !data) infobox_parser.query(instance, type,cache_filename,function(error, data){
-			callback(null,data);
-		});
+		if (!error && !data)
+			infobox_parser.query(instance, type,cache_filename,function(error, data){
+				callback(null,data);
+			});
 		else if (!error) callback(null,data);
 	});
 };

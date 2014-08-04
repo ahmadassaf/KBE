@@ -18,7 +18,7 @@ Cache.prototype.getCache = function(cache_filename, callback) {
 
 Cache.prototype.setCache = function(cache_filename, data, cacheCallback) {
 	var json 			 = _.isObject(data) ? data : JSON.parse(data);
-	fs.writeFile(cache_filename, JSON.stringify(json, null, 4), function(error){	
+	fs.writeFile(cache_filename, JSON.stringify(json, null, 4), function(error){
 		if (!error) {
 			console.log('File: '+ cache_filename +' successfully written!');
 			cacheCallback(null);

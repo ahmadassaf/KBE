@@ -1,9 +1,8 @@
 var request        = require('request');
 var querystring    = require("querystring");
 var async          = require("async");
-var fs             = require('fs');
 var _              = require('underscore');
-var Cache 		   = require('./cache');
+var Cache 		     = require('./cache');
 var Infobox_parser = require('./infobox_parser');
 
 var sparql_federator = function(options) {
@@ -19,10 +18,7 @@ var sparql_federator = function(options) {
 };
 
 sparql_federator.prototype.output = function(data) {
-	var cache_filename   = __dirname + '/cache/result.json';
-	this.cache.setCache(cache_filename, data, function(error, data) {
-		if (!error) console.log("Google Knowledge Extractor Completed successfully !!");
-	});
+
 }
 
 sparql_federator.prototype.parseDBpediaConcepts = function(json) {
@@ -30,11 +26,11 @@ sparql_federator.prototype.parseDBpediaConcepts = function(json) {
 	console.log("Parsing DBpedia Concepts ... ");
 
 	var sparql_federator = this;
-	var json 			 = _.isObject(json) ? json : JSON.parse(json);
+	var json             = _.isObject(json) ? json : JSON.parse(json);
 	var result           = {};
 
 	// For Each DBpedia concept fetch all its instances
-	async.each(json.results.bindings,function(item, asyncCallback){
+	async.eachLimit(json.results.bindings,10,function(item, asyncCallback){
 		var concept        = item.c.value;
 		var type_label     = decodeURIComponent(concept).replace(/_/g,' ');
 		var label          = type_label.substr(type_label.lastIndexOf('/') + 1);
@@ -54,7 +50,13 @@ sparql_federator.prototype.parseDBpediaConcepts = function(json) {
 			}
 		});
 	  },function(err){
-	  	sparql_federator.output(result);
+
+	  	console.log('All files have been processed successfully');
+
+			var cache_filename   = __dirname + '/cache/result.json';
+			sparql_federator.cache.setCache(cache_filename, result, function(error, data) {
+				if (!error) console.log("Google Knowledge Extractor Result File is Written successfully !!");
+			});
 	  }
 	);
 }
@@ -66,7 +68,7 @@ sparql_federator.prototype.parseDBpediaInstance = function(type,json,conceptsCal
 	var sparql_federator = this;
 	var cache_filename   = __dirname + '/cache/GKB/' + type + '.json';
 	var result           = {"instances" : {}, "summary" : {}, "infoboxless":[]};
-	var json 			 = _.isObject(json) ? json : JSON.parse(json);
+	var json             = _.isObject(json) ? json : JSON.parse(json);
 
 	sparql_federator.cache.getCache(cache_filename, function(error, data) {
 		// There is no cached instance GKB file
@@ -83,7 +85,7 @@ sparql_federator.prototype.parseDBpediaInstance = function(type,json,conceptsCal
 							instance_proprties      = _.keys(data);
 							for(var i = 0, l = instance_proprties.length; i < l ; i++ ) {
 								if (_.indexOf(_.keys(result.summary),instance_proprties[i]) == -1 ) {
-									result.summary[instance_proprties[i]] = 1;
+									result.summary[instance_proprties[i].trim().toLowerCase().replace(/ /g, '_')] = 1;
 								} else result.summary[instance_proprties[i]]++;
 							}
 						} else result.infoboxless.push(label);
@@ -91,20 +93,17 @@ sparql_federator.prototype.parseDBpediaInstance = function(type,json,conceptsCal
 					asyncCallback();
 				});
 			  },function(err){
-				sparql_federator.cache.setCache(cache_filename,result,function() {
-					if (!error) {
-						conceptsCallback(null,result);
-					}
-				});
+					sparql_federator.cache.setCache(cache_filename,result,function() {
+						if (!error) conceptsCallback(null,result);
+					});
 			  });
-		} else {
-			conceptsCallback(null,data);
-		}
+		} else conceptsCallback(null,data);
 	});
 }
 
 sparql_federator.prototype.getKnowledgeBox = function(instance, type, callback) {
 	sparql_federator = this;
+	// This timeout function is to throttle requests done to Google Search in order to minimize the chances of Google blocing us
 	setTimeout(function() {
 		console.log("Getting Google Knowledge Boxes for type for: " + type + " instance: " + instance);
 		var infobox_parser  = new Infobox_parser(sparql_federator.options.proxy);
