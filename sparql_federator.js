@@ -17,10 +17,6 @@ var sparql_federator = function(options) {
 	};
 };
 
-sparql_federator.prototype.output = function(data) {
-
-}
-
 sparql_federator.prototype.parseDBpediaConcepts = function(json) {
 
 	console.log("Parsing DBpedia Concepts ... ");

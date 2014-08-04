@@ -10,6 +10,7 @@
     "cheerio"    : "latest",
     "querystring": "latest",
     "async"	     : "latest",
-    "underscore" : "latest"
+    "underscore" : "latest",
+    "mkdirp"     : "latest"
   }
 }

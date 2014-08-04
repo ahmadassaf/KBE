@@ -1,7 +1,25 @@
-var fs = require('fs');
-var _  = require('underscore');
+var fs    = require('fs');
+var _     = require('underscore');
+var mkdir = require('mkdirp');
+var async = require("async");
 
-var Cache = function() {};
+var Cache = function() {
+	var cache_filename   = __dirname + '/cache/';
+	var folder_names     = ["GKB","instances_GKB","instances"];
+
+	async.each(folder_names,function(folder, asyncCallback){
+		var folder_name = cache_filename + folder;
+		mkdir(folder_name, function (err) {
+	    if (err) console.error(err)
+	   	 else {
+	   	 	console.log('Cache Folder: ' + folder_name + " created or already exitst");
+	   	 	asyncCallback();
+	   	 }
+		});
+  },function(err){
+  	console.log('Cache Folder created at destination ...');
+  });
+};
 
 Cache.prototype.getCache = function(cache_filename, callback) {
 	fs.exists(cache_filename, function(exists) {
