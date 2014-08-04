@@ -22,9 +22,9 @@ The Algorithm implemented is the following:
  - run ```npm install``` on the root of the local project directory 
 
 You have to create one folder for caching ...
- - main folder called cache in the root of the project.
+ - Main folder called cache in the root of the project.
  
- We Will automatically create other three child folders:
+We Will automatically create other three child folders:
  
  	+ folder called ```GKB``` inside the cache folder: This will hold the aggregated Google Knowledge boxes extracted for a DBpedia concept (type)
  	+ folder called ```instances_GKB``` inside the cache folder: This will hold the Google Knowledge box for a single instance
