@@ -26,9 +26,9 @@ You have to create one folder for caching ...
  
 We Will automatically create other three child folders:
  
- 	+ folder called ```GKB``` inside the cache folder: This will hold the aggregated Google Knowledge boxes extracted for a DBpedia concept (type)
- 	+ folder called ```instances_GKB``` inside the cache folder: This will hold the Google Knowledge box for a single instance
- 	+ folder called ```instances``` inside the cache folder: This will hold the DBpedia instances for each concept (type)
+- folder called ```GKB``` inside the cache folder: This will hold the aggregated Google Knowledge boxes extracted for a DBpedia concept (type)
+- folder called ```instances_GKB``` inside the cache folder: This will hold the Google Knowledge box for a single instance
+- folder called ```instances``` inside the cache folder: This will hold the DBpedia instances for each concept (type)
 
  - run ```node server.js```
  - The application is run in the console and the output will be available in results/result.json
