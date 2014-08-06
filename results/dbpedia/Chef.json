@@ -53,46 +53,6 @@
             "Recent posts": [],
             "Books": []
         },
-        "Amy Finley": {
-            "label": "Amy Finley",
-            "description": "Amy Finley is a cook and writer who was the winner of the third season of The Next Food Network Star and was thus awarded a commitment to host a cooking show on the Food Network. Wikipedia",
-            "type": "",
-            "Born ": [
-                "1973",
-                " San Diego",
-                " California",
-                " United States"
-            ],
-            "Education ": [
-                "University of California",
-                " Los Angeles"
-            ],
-            "TV shows ": [
-                "The Gourmet Next Door"
-            ],
-            "People also search for": []
-        },
-        "Anne Burrell": {
-            "label": "Anne Burrell",
-            "description": "Anne W. Burrell is an American chef, TV personality, and was an instructor at the Institute of Culinary Education in New York City until 2007. Wikipedia",
-            "type": "Chef",
-            "Born ": "September 21, 1969 (age 44), Cazenovia, New York, United States",
-            "Nationality ": [
-                "American"
-            ],
-            "TV shows ": [
-                "Worst Cooks in America",
-                " Secrets of a Restaurant Chef"
-            ],
-            "Education ": [
-                "Canisius College",
-                " Culinary Institute of America"
-            ],
-            "Nominations ": [
-                "Daytime Emmy Award for Outstanding Lifestyle/Culinary Host"
-            ],
-            "People also search for": []
-        },
         "Anthony Bourdain": {
             "label": "Anthony Bourdain",
             "description": "Anthony Michael Bourdain is an American chef, author, and television personality. He is known for his 2000 book Kitchen Confidential Adventures in the Culinary Underbelly, and in 2005 he began hosting ... Wikipedia",
@@ -119,6 +79,25 @@
             ],
             "Recent posts": [],
             "Books": []
+        },
+        "Amy Finley": {
+            "label": "Amy Finley",
+            "description": "Amy Finley is a cook and writer who was the winner of the third season of The Next Food Network Star and was thus awarded a commitment to host a cooking show on the Food Network. Wikipedia",
+            "type": "",
+            "Born ": [
+                "1973",
+                " San Diego",
+                " California",
+                " United States"
+            ],
+            "Education ": [
+                "University of California",
+                " Los Angeles"
+            ],
+            "TV shows ": [
+                "The Gourmet Next Door"
+            ],
+            "People also search for": []
         },
         "Bobby Flay": {
             "label": "Bobby Flay",
@@ -191,16 +170,6 @@
             ],
             "People also search for": []
         },
-        "Chef Anton": {
-            "label": "Chef Anton",
-            "description": "Chef Anton is the stage name of Anthony S. Riniti, a trained chef from the Culinary Institute of America in Hyde Park, New York. Wikipedia",
-            "type": "",
-            "Born ": "January 29, 1969 (age 45), The Bronx, New York City, New York, United States",
-            "Education ": [
-                "Culinary Institute of America"
-            ],
-            "People also search for": []
-        },
         "Emeril Lagasse": {
             "label": "Emeril Lagasse",
             "description": "Emeril John Lagasse is an American celebrity chef, restaurateur, television personality, and cookbook author. Wikipedia",
@@ -237,6 +206,27 @@
                 " Jillian Lagasse",
                 " Meril Lovelace Lagasse",
                 " Emeril John Lagasse IV"
+            ],
+            "People also search for": []
+        },
+        "Anne Burrell": {
+            "label": "Anne Burrell",
+            "description": "Anne W. Burrell is an American chef, TV personality, and was an instructor at the Institute of Culinary Education in New York City until 2007. Wikipedia",
+            "type": "Chef",
+            "Born ": "September 21, 1969 (age 44), Cazenovia, New York, United States",
+            "Nationality ": [
+                "American"
+            ],
+            "TV shows ": [
+                "Worst Cooks in America",
+                " Secrets of a Restaurant Chef"
+            ],
+            "Education ": [
+                "Canisius College",
+                " Culinary Institute of America"
+            ],
+            "Nominations ": [
+                "Daytime Emmy Award for Outstanding Lifestyle/Culinary Host"
             ],
             "People also search for": []
         },
@@ -287,6 +277,16 @@
             ],
             "People also search for": []
         },
+        "Chef Anton": {
+            "label": "Chef Anton",
+            "description": "Chef Anton is the stage name of Anthony S. Riniti, a trained chef from the Culinary Institute of America in Hyde Park, New York. Wikipedia",
+            "type": "",
+            "Born ": "January 29, 1969 (age 45), The Bronx, New York City, New York, United States",
+            "Education ": [
+                "Culinary Institute of America"
+            ],
+            "People also search for": []
+        },
         "Hosea Rosenberg": {
             "label": "Hosea Rosenberg",
             "description": "Hosea Rosenberg is an American chef residing in Boulder, Colorado. He was the winner of the fifth season of Top Chef, Bravo's cooking competition show.\nRosenberg was born in Taos, New Mexico. Wikipedia",
@@ -301,19 +301,6 @@
             ],
             "People also search for": []
         },
-        "Ilan Hall": {
-            "label": "Ilan Hall",
-            "description": "Ilan D. Hall is an American chef, best known as the winner of the second season of the Bravo television network's reality series Top Chef. Wikipedia",
-            "type": "Chef",
-            "Born ": "April 6, 1982 (age 31), Great Neck, New York, United States",
-            "Education ": [
-                "Culinary Institute of America"
-            ],
-            "TV shows ": [
-                "Knife Fight"
-            ],
-            "People also search for": []
-        },
         "Ingrid Hoffmann": {
             "label": "Ingrid Hoffmann",
             "description": "Ingrid Hoffmann is a Colombian-American television personality and restaurateur, who hosts the Food Network series Simply Delicioso and the Spanish-language cooking and lifestyle show Delicioso on Galavisión. Wikipedia",
@@ -324,6 +311,19 @@
             ],
             "TV shows ": [
                 "Simply Delicioso"
+            ],
+            "People also search for": []
+        },
+        "Ilan Hall": {
+            "label": "Ilan Hall",
+            "description": "Ilan D. Hall is an American chef, best known as the winner of the second season of the Bravo television network's reality series Top Chef. Wikipedia",
+            "type": "Chef",
+            "Born ": "April 6, 1982 (age 31), Great Neck, New York, United States",
+            "Education ": [
+                "Culinary Institute of America"
+            ],
+            "TV shows ": [
+                "Knife Fight"
             ],
             "People also search for": []
         },
@@ -398,6 +398,21 @@
             ],
             "People also search for": []
         },
+        "Kevin Woodford": {
+            "label": "Kevin Woodford",
+            "description": "Kevin Woodford is a Manx celebrity chef, actor, television presenter, businessman, hotelier and former restaurateur. Wikipedia",
+            "type": "Celebrity chef",
+            "Born ": "June 4, 1950 (age 63), Douglas, Isle of Man",
+            "Books ": [
+                "Kevin Woodford's 60 Best Holiday Recipes"
+            ],
+            "TV shows ": [
+                "Can't Cook",
+                " Won't Cook",
+                " The Heaven and Earth Show"
+            ],
+            "People also search for": []
+        },
         "Julia Child": {
             "label": "Julia Child",
             "description": "Julia Carolyn Child was an American chef, author, and television personality. She is recognized for bringing French cuisine to the American public with her debut cookbook, Mastering the Art of French ... Wikipedia",
@@ -430,21 +445,6 @@
                 " Cooking with Master ChefsMore"
             ],
             "Movies and TV shows": []
-        },
-        "Kevin Woodford": {
-            "label": "Kevin Woodford",
-            "description": "Kevin Woodford is a Manx celebrity chef, actor, television presenter, businessman, hotelier and former restaurateur. Wikipedia",
-            "type": "Celebrity chef",
-            "Born ": "June 4, 1950 (age 63), Douglas, Isle of Man",
-            "Books ": [
-                "Kevin Woodford's 60 Best Holiday Recipes"
-            ],
-            "TV shows ": [
-                "Can't Cook",
-                " Won't Cook",
-                " The Heaven and Earth Show"
-            ],
-            "People also search for": []
         },
         "Manju Malhi": {
             "label": "Manju Malhi",
@@ -482,6 +482,31 @@
             ],
             "People also search for": []
         },
+        "Michael Chiarello": {
+            "label": "Michael Chiarello",
+            "description": "Michael Chiarello is an American celebrity chef specializing in Italian-influenced California cuisine. He hosts the cooking show, Easy Entertaining with Michael Chiarello, on the Food Network and hosts NapaStyle on the Fine Living Network. Wikipedia",
+            "type": "Chef",
+            "Born ": "January 26, 1962 (age 52), Red Bluff, California, United States",
+            "Spouse ": [
+                "Eileen Chiarello (m. 2003)"
+            ],
+            "TV shows ": [
+                "Easy Entertaining with Michael Chiarello"
+            ],
+            "Books ": [
+                "Napa stories",
+                " Napa Stories Wine Journal"
+            ],
+            "Nationality ": [
+                "American",
+                " Italian"
+            ],
+            "Education ": [
+                "Florida International University",
+                " Culinary Institute of America"
+            ],
+            "People also search for": []
+        },
         "Masaharu Morimoto": {
             "label": "Masaharu Morimoto",
             "description": "Masaharu Morimoto is a Japanese chef, best known as an Iron Chef on the Japanese TV cooking show Iron Chef and its spinoff Iron Chef America. He is also known for his unique style of presenting food. Wikipedia",
@@ -507,55 +532,11 @@
             ],
             "People also search for": []
         },
-        "Melissa d'Arabian": {
-            "label": "Melissa d'Arabian",
-            "description": "Melissa Donovan d’Arabian is an American mother of four, chef, and host of her own television show. She is recognized as The Next Food Network Star’s fifth season winner. Wikipedia",
-            "type": "Television personality",
-            "Born ": "October 1, 1968 (age 45), Tucson, Arizona, United States",
-            "Nationality ": [
-                "American"
-            ],
-            "Education ": [
-                "University of Vermont"
-            ],
-            "TV shows ": [
-                "Ten Dollar Dinners"
-            ],
-            "Books ": [
-                "Ten Dollar Dinners"
-            ],
-            "People also search for": []
-        },
         "Merrilees Parker": {
             "label": "Merrilees Parker",
             "description": "Merrilees Parker is a British celebrity chef and TV presenter. She is mainly known for presenting television programmes combining food and travel as well as various more traditional cookery programmes. Wikipedia",
             "type": "Chef",
             "Born ": "August 11, 1971 (age 42)",
-            "People also search for": []
-        },
-        "Michael Chiarello": {
-            "label": "Michael Chiarello",
-            "description": "Michael Chiarello is an American celebrity chef specializing in Italian-influenced California cuisine. He hosts the cooking show, Easy Entertaining with Michael Chiarello, on the Food Network and hosts NapaStyle on the Fine Living Network. Wikipedia",
-            "type": "Chef",
-            "Born ": "January 26, 1962 (age 52), Red Bluff, California, United States",
-            "Spouse ": [
-                "Eileen Chiarello (m. 2003)"
-            ],
-            "TV shows ": [
-                "Easy Entertaining with Michael Chiarello"
-            ],
-            "Books ": [
-                "Napa stories",
-                " Napa Stories Wine Journal"
-            ],
-            "Nationality ": [
-                "American",
-                " Italian"
-            ],
-            "Education ": [
-                "Florida International University",
-                " Culinary Institute of America"
-            ],
             "People also search for": []
         },
         "Michael Symon": {
@@ -637,6 +618,40 @@
             ],
             "People also search for": []
         },
+        "Robin Miller (chef)": {
+            "label": "Robin Miller",
+            "description": "Robin Vitetta-Miller was the host of the Food Network cooking show Quick Fix Meals with Robin Miller. As a nutritionist and food writer, her work has appeared in multiple magazines and publications. Wikipedia",
+            "type": "Nutritionist",
+            "Born ": "August 23, 1966 (age 47)",
+            "Education ": [
+                "New York University"
+            ],
+            "Movies and TV shows ": [
+                "Quick Fix Meals with Robin Miller",
+                " Quick Fix Meals with Robin Miller Quick & Delicious",
+                " Quick Fix Meals with Robin Miller Make Ahead MealsMore"
+            ],
+            "People also search for": []
+        },
+        "Melissa d'Arabian": {
+            "label": "Melissa d'Arabian",
+            "description": "Melissa Donovan d’Arabian is an American mother of four, chef, and host of her own television show. She is recognized as The Next Food Network Star’s fifth season winner. Wikipedia",
+            "type": "Television personality",
+            "Born ": "October 1, 1968 (age 45), Tucson, Arizona, United States",
+            "Nationality ": [
+                "American"
+            ],
+            "Education ": [
+                "University of Vermont"
+            ],
+            "TV shows ": [
+                "Ten Dollar Dinners"
+            ],
+            "Books ": [
+                "Ten Dollar Dinners"
+            ],
+            "People also search for": []
+        },
         "Sara Moulton": {
             "label": "Sara Moulton",
             "description": "Sara Moulton is an American chef, cookbook author and television personality.\nShe was the on-air food editor for Good Morning America, a morning news-and-talk show broadcast on the ABC television network, from 1997 through 2012. Wikipedia",
@@ -692,29 +707,6 @@
             ],
             "People also search for": []
         },
-        "Robin Miller (chef)": {
-            "label": "Robin Miller",
-            "description": "Robin Vitetta-Miller was the host of the Food Network cooking show Quick Fix Meals with Robin Miller. As a nutritionist and food writer, her work has appeared in multiple magazines and publications. Wikipedia",
-            "type": "Nutritionist",
-            "Born ": "August 23, 1966 (age 47)",
-            "Education ": [
-                "New York University"
-            ],
-            "Movies and TV shows ": [
-                "Quick Fix Meals with Robin Miller",
-                " Quick Fix Meals with Robin Miller Quick & Delicious",
-                " Quick Fix Meals with Robin Miller Make Ahead MealsMore"
-            ],
-            "People also search for": []
-        },
-        "Paul Bocuse": {
-            "label": "Paul Bocuse",
-            "description": "Paul Bocuse is a French chef based in Lyon who is famous for the high quality of his restaurants and his innovative approaches to cuisine. Wikipedia",
-            "type": "Chef",
-            "Born ": "February 11, 1926 (age 88), Collonges-au-Mont-d'Or, France",
-            "Books": [],
-            "People also search for": []
-        },
         "Gianfranco Chiarini": {
             "label": "Gianfranco Chiarini",
             "description": "Gianfranco Chiarini is an Italian celebrity and Michelin starred chef from Ferrara, Italy. Chiarini's culinary style is Italian nouvelle fusion cuisine. Wikipedia",
@@ -724,17 +716,12 @@
                 "Le Cordon Bleu"
             ]
         },
-        "Fabio Viviani (chef)": {
-            "label": "Fabio Viviani",
-            "description": "Fabio Viviani is an Italian chef, restaurateur, reality television personality, a New York Times best-selling author, and a naturalized U.S. citizen. Wikipedia",
+        "Paul Bocuse": {
+            "label": "Paul Bocuse",
+            "description": "Paul Bocuse is a French chef based in Lyon who is famous for the high quality of his restaurants and his innovative approaches to cuisine. Wikipedia",
             "type": "Chef",
-            "Born ": "October 10, 1978 (age 35), Florence, Italy",
-            "Spouse ": [
-                "Jessica Viviani"
-            ],
-            "Books ": [
-                "Fabio's Italian Kitchen"
-            ],
+            "Born ": "February 11, 1926 (age 88), Collonges-au-Mont-d'Or, France",
+            "Books": [],
             "People also search for": []
         },
         "Stefan Richter": {
@@ -780,16 +767,16 @@
             ],
             "People also search for": []
         },
-        "David Thompson (chef)": {
-            "label": "David Thompson",
-            "description": "David Thompson is an Australian chef, restaurateur and cookery writer, known for his skill and expertise in Thai cuisine. Wikipedia",
+        "Fabio Viviani (chef)": {
+            "label": "Fabio Viviani",
+            "description": "Fabio Viviani is an Italian chef, restaurateur, reality television personality, a New York Times best-selling author, and a naturalized U.S. citizen. Wikipedia",
             "type": "Chef",
-            "Born ": [
-                "Sydney",
-                " Australia"
+            "Born ": "October 10, 1978 (age 35), Florence, Italy",
+            "Spouse ": [
+                "Jessica Viviani"
             ],
-            "Awards ": [
-                "James Beard Award for International Cooking"
+            "Books ": [
+                "Fabio's Italian Kitchen"
             ],
             "People also search for": []
         },
@@ -802,6 +789,19 @@
                 "Phillips Academy",
                 " Brown University"
             ]
+        },
+        "David Thompson (chef)": {
+            "label": "David Thompson",
+            "description": "David Thompson is an Australian chef, restaurateur and cookery writer, known for his skill and expertise in Thai cuisine. Wikipedia",
+            "type": "Chef",
+            "Born ": [
+                "Sydney",
+                " Australia"
+            ],
+            "Awards ": [
+                "James Beard Award for International Cooking"
+            ],
+            "People also search for": []
         },
         "Jean-Christophe Novelli": {
             "label": "Jean-Christophe Novelli",
@@ -848,16 +848,6 @@
             ],
             "People also search for": []
         },
-        "Stephen Yan": {
-            "label": "Stephen Yan",
-            "description": "Stephen Yan was the host of the successful Canadian television cooking show for CBC Television, Wok with Yan.\nThe Vancouver-based chef moved to Canada in the 1960s and owned two Chinese restaurants in Vancouver. Wikipedia",
-            "type": "Chef",
-            "Born ": [
-                "Hong Kong",
-                " China"
-            ],
-            "People also search for": []
-        },
         "Susur Lee": {
             "label": "Susur Lee",
             "description": "Susur Lee is a celebrated chef based in Toronto, Ontario, Canada. He was born in Hong Kong, the youngest of six children. He served his culinary apprenticeship at Hong Kong's renowned Peninsula Hotel. Wikipedia",
@@ -901,6 +891,16 @@
             "Born ": "July 17, 1949 (age 64), Brixen, Italy",
             "People also search for": []
         },
+        "Stephen Yan": {
+            "label": "Stephen Yan",
+            "description": "Stephen Yan was the host of the successful Canadian television cooking show for CBC Television, Wok with Yan.\nThe Vancouver-based chef moved to Canada in the 1960s and owned two Chinese restaurants in Vancouver. Wikipedia",
+            "type": "Chef",
+            "Born ": [
+                "Hong Kong",
+                " China"
+            ],
+            "People also search for": []
+        },
         "Guy Savoy": {
             "label": "Guy Savoy, Restaurant",
             "description": "",
@@ -942,6 +942,22 @@
             ],
             "People also search for": []
         },
+        "Bryan Voltaggio": {
+            "label": "Bryan Voltaggio",
+            "description": "Bryan Voltaggio is an American chef residing in Frederick, Maryland. He received an AOS in culinary arts from The Culinary Institute of America and was mentored by chef Charlie Palmer. Wikipedia",
+            "type": "Chef",
+            "Born ": "April 19, 1976 (age 37), Frederick, Maryland, United States",
+            "Education ": [
+                "Culinary Institute of America"
+            ],
+            "Siblings ": [
+                "Michael Voltaggio"
+            ],
+            "Nominations ": [
+                "James Beard Award for Best Chef Mid-Atlantic"
+            ],
+            "People also search for": []
+        },
         "Alfred Portale": {
             "label": "Alfred Portale",
             "description": "Alfred Portale is an American chef, author and restaurateur known as a pioneer in the New American cuisine movement. Wikipedia",
@@ -964,22 +980,6 @@
             ],
             "People also search for": []
         },
-        "Bryan Voltaggio": {
-            "label": "Bryan Voltaggio",
-            "description": "Bryan Voltaggio is an American chef residing in Frederick, Maryland. He received an AOS in culinary arts from The Culinary Institute of America and was mentored by chef Charlie Palmer. Wikipedia",
-            "type": "Chef",
-            "Born ": "April 19, 1976 (age 37), Frederick, Maryland, United States",
-            "Education ": [
-                "Culinary Institute of America"
-            ],
-            "Siblings ": [
-                "Michael Voltaggio"
-            ],
-            "Nominations ": [
-                "James Beard Award for Best Chef Mid-Atlantic"
-            ],
-            "People also search for": []
-        },
         "Dave Martin (chef)": {
             "label": "Dave Martin",
             "description": "Dave Martin is an American chef from Long Beach, California who was a finalist in Top Chef. While on Top Chef, Martin won three elimination challenges and made it to the final three. Wikipedia",
@@ -991,6 +991,30 @@
             "description": "Emilio Baglioni became chef and host to the Hollywood stars, employed by Jack Warner of Warner Brothers Studios as the head of the commissary and executive dining room for Jack Warner and heads of every ... Wikipedia",
             "type": "",
             "Born ": "May 4, 1932 (age 81), Valle Castellana, Italy"
+        },
+        "Heston Blumenthal": {
+            "label": "Heston Blumenthal",
+            "description": "Heston Marc Blumenthal, OBE is an English celebrity chef and owner of The Fat Duck, a three-Michelin-starred restaurant in Bray, Berkshire, which has been voted Best Restaurant in the UK and received ... Wikipedia",
+            "type": "Chef",
+            "Born ": "May 27, 1966 (age 47), London, United Kingdom",
+            "Spouse ": [
+                "Zanna Blumenthal"
+            ],
+            "Education ": [
+                "Latymer Upper School",
+                " John Hampden Grammar School"
+            ],
+            "Children ": [
+                "Jack Blumenthal",
+                " Jessie Blumenthal",
+                " Joy Blumenthal"
+            ],
+            "Parents ": [
+                "Stephen Blumenthal",
+                " Celia Blumenthal"
+            ],
+            "Books": [],
+            "People also search for": []
         },
         "Daniel Boulud": {
             "label": "Daniel Boulud",
@@ -1016,30 +1040,6 @@
                 "Alix Boulud"
             ],
             "Books": []
-        },
-        "Heston Blumenthal": {
-            "label": "Heston Blumenthal",
-            "description": "Heston Marc Blumenthal, OBE is an English celebrity chef and owner of The Fat Duck, a three-Michelin-starred restaurant in Bray, Berkshire, which has been voted Best Restaurant in the UK and received ... Wikipedia",
-            "type": "Chef",
-            "Born ": "May 27, 1966 (age 47), London, United Kingdom",
-            "Spouse ": [
-                "Zanna Blumenthal"
-            ],
-            "Education ": [
-                "Latymer Upper School",
-                " John Hampden Grammar School"
-            ],
-            "Children ": [
-                "Jack Blumenthal",
-                " Jessie Blumenthal",
-                " Joy Blumenthal"
-            ],
-            "Parents ": [
-                "Stephen Blumenthal",
-                " Celia Blumenthal"
-            ],
-            "Books": [],
-            "People also search for": []
         },
         "Chris Santos": {
             "label": "Chris Santos",
@@ -1079,14 +1079,6 @@
             "Education ": [
                 "Dollar Academy"
             ],
-            "People also search for": []
-        },
-        "Bernard Loiseau": {
-            "label": "Bernard Loiseau",
-            "description": "Bernard Loiseau was a French chef. He committed suicide by firearm in 2003 when newspaper reports hinted that his restaurant might lose its 3-star status. Wikipedia",
-            "type": "Chef",
-            "Born ": "January 13, 1951, Chamalières, France",
-            "Died ": "February 24, 2003, Saulieu, France",
             "People also search for": []
         },
         "Marcus Wareing": {
@@ -1308,12 +1300,6 @@
             ],
             "People also search for": []
         },
-        "Angela Malik": {
-            "label": "Angela Malik Cooking School",
-            "description": "",
-            "type": "",
-            "People also search for": []
-        },
         "Carme Ruscalleda": {
             "label": "Carme Ruscalleda",
             "description": "Carme Ruscalleda i Serra is a renowned Catalan chef of the restaurant Sant Pau in Sant Pol de Mar, near Barcelona. She also owns and manages the restaurant Sant Pau de Tòquio in Japan. Wikipedia",
@@ -1323,6 +1309,20 @@
                 " Sant Pol de Mar",
                 " Spain"
             ],
+            "People also search for": []
+        },
+        "Angela Malik": {
+            "label": "Angela Malik Cooking School",
+            "description": "",
+            "type": "",
+            "People also search for": []
+        },
+        "Bernard Loiseau": {
+            "label": "Bernard Loiseau",
+            "description": "Bernard Loiseau was a French chef. He committed suicide by firearm in 2003 when newspaper reports hinted that his restaurant might lose its 3-star status. Wikipedia",
+            "type": "Chef",
+            "Born ": "January 13, 1951, Chamalières, France",
+            "Died ": "February 24, 2003, Saulieu, France",
             "People also search for": []
         },
         "Wilo Benet": {
@@ -1346,6 +1346,41 @@
             "Born ": "May 25, 1995 (age 18), New York, United States",
             "People also search for": []
         },
+        "Aida Mollenkamp": {
+            "label": "Aida Mollenkamp",
+            "description": "Aida Marianne Mollenkamp is a chef, television personality, and food writer from Manhattan Beach, California. Wikipedia",
+            "type": "3,231 followers on Google+",
+            "Born ": "April 15, 1980 (age 33), California, United States",
+            "Education ": [
+                "Le Cordon Bleu",
+                " Cornell University School of Hotel Administration",
+                " Cornell University"
+            ],
+            "Recent posts": []
+        },
+        "Claire Robinson": {
+            "label": "Claire Robinson",
+            "description": "Claire Robinson is a cook and television host of the Food Network series 5 Ingredient Fix. By definition, Claire is not a chef and does not warrant the title as described in the brigade de cuisine. Wikipedia",
+            "type": "Chef",
+            "Born ": [
+                "Jacksonville",
+                " Florida",
+                " United States"
+            ],
+            "Spouse ": [
+                "Bailey Robinson"
+            ],
+            "Movies and TV shows ": [
+                "5 Ingredient Fix",
+                " Food Network Challenge",
+                " The Rainmaker"
+            ],
+            "Education ": [
+                "University of Memphis",
+                " French Culinary Institute"
+            ],
+            "People also search for": []
+        },
         "Angela Hartnett": {
             "label": "Angela Hartnett",
             "description": "Angela Hartnett, MBE is an English chef. A protégée of Gordon Ramsay who was made famous by her appearances on British television, she was Chef-Patron at Angela Hartnett at The Connaught in London. Wikipedia",
@@ -1363,17 +1398,31 @@
             ],
             "People also search for": []
         },
-        "Aida Mollenkamp": {
-            "label": "Aida Mollenkamp",
-            "description": "Aida Marianne Mollenkamp is a chef, television personality, and food writer from Manhattan Beach, California. Wikipedia",
-            "type": "3,231 followers on Google+",
-            "Born ": "April 15, 1980 (age 33), California, United States",
-            "Education ": [
-                "Le Cordon Bleu",
-                " Cornell University School of Hotel Administration",
-                " Cornell University"
+        "Gennaro Contaldo": {
+            "label": "Gennaro Contaldo",
+            "description": "Gennaro Contaldo, co-owned and was executive chef of the now-closed Passione restaurant, in Charlotte Street, London, UK. Wikipedia",
+            "type": "Chef",
+            "Born ": "January 21, 1949 (age 65), Minori, Italy",
+            "People also search for": []
+        },
+        "Ina Garten": {
+            "label": "Ina Garten",
+            "description": "Ina Rosenberg Garten is an American author, Emmy Award winning host of the Food Network program Barefoot Contessa, and former White House nuclear policy analyst. Wikipedia",
+            "type": "Author",
+            "Born ": "February 2, 1948 (age 66), Brooklyn, New York, United States",
+            "Full name ": [
+                "Ina Rosenberg Garten"
             ],
-            "Recent posts": []
+            "Height ": [
+                "5' 3\" (1.60 m)"
+            ],
+            "Spouse ": [
+                "Jeffrey Garten (m. 1968)"
+            ],
+            "TV shows ": [
+                "Barefoot Contessa"
+            ],
+            "Books": []
         },
         "Ellie Krieger": {
             "label": "Ellie Krieger",
@@ -1395,30 +1444,6 @@
             "Awards ": [
                 "IACP Cookbook Award - Health and Special Diet",
                 " James Beard Award for Focus on Health"
-            ],
-            "People also search for": []
-        },
-        "Gennaro Contaldo": {
-            "label": "Gennaro Contaldo",
-            "description": "Gennaro Contaldo, co-owned and was executive chef of the now-closed Passione restaurant, in Charlotte Street, London, UK. Wikipedia",
-            "type": "Chef",
-            "Born ": "January 21, 1949 (age 65), Minori, Italy",
-            "People also search for": []
-        },
-        "Isa Chandra Moskowitz": {
-            "label": "Isa Chandra Moskowitz",
-            "description": "Isa Chandra Moskowitz is an American author, magazine columnist, and former host of community access cooking show Post Punk Kitchen. Wikipedia",
-            "type": "Author",
-            "Born ": "February 3, 1973 (age 41), Brooklyn, New York, United States",
-            "Books": []
-        },
-        "Jason Atherton": {
-            "label": "Jason Atherton",
-            "description": "Jason Atherton, is an English chef. His restaurant Pollen Street Social gained a Michelin Star in 2011, its opening year. He was the Executive Chef at Gordon Ramsay's Michelin starred Maze in London until 30 April 2010. Wikipedia",
-            "type": "Chef",
-            "Born ": "September 6, 1971 (age 42), Sheffield, United Kingdom",
-            "Education ": [
-                "Boston College"
             ],
             "People also search for": []
         },
@@ -1444,6 +1469,16 @@
                 " Kitchen Burnout",
                 " The Chopping Block",
                 " Marco's Great British Feast"
+            ],
+            "People also search for": []
+        },
+        "Jason Atherton": {
+            "label": "Jason Atherton",
+            "description": "Jason Atherton, is an English chef. His restaurant Pollen Street Social gained a Michelin Star in 2011, its opening year. He was the Executive Chef at Gordon Ramsay's Michelin starred Maze in London until 30 April 2010. Wikipedia",
+            "type": "Chef",
+            "Born ": "September 6, 1971 (age 42), Sheffield, United Kingdom",
+            "Education ": [
+                "Boston College"
             ],
             "People also search for": []
         },
@@ -1533,15 +1568,6 @@
             ],
             "People also search for": []
         },
-        "Peter Chang (chef)": {
-            "label": "Peter Chang",
-            "description": "Peter Chang is an award winning chef specializing in Szechwan cuisine who has cooked for restaurants in the American southeast. Chang was born in Hubei Province and trained in China, and cooked a meal for the Chinese president, Hu Jintao. Wikipedia",
-            "type": "Chef",
-            "Born ": [
-                "Hubei",
-                " China"
-            ]
-        },
         "Eric Lanlard": {
             "label": "Eric Lanlard",
             "description": "Éric Lanlard is a French pâtissier and celebrity chef. He was previously a chef for the French Navy but moved to the UK in 1989 to work with Albert and Michel Roux. Wikipedia",
@@ -1553,18 +1579,21 @@
             ],
             "People also search for": []
         },
+        "Peter Chang (chef)": {
+            "label": "Peter Chang",
+            "description": "Peter Chang is an award winning chef specializing in Szechwan cuisine who has cooked for restaurants in the American southeast. Chang was born in Hubei Province and trained in China, and cooked a meal for the Chinese president, Hu Jintao. Wikipedia",
+            "type": "Chef",
+            "Born ": [
+                "Hubei",
+                " China"
+            ]
+        },
         "Christophe Aribert": {
             "label": "Christophe Aribert",
             "description": "Christophe Aribert is a French chef with two Michelin stars and 4 toques Gault Millau. He runs the kitchen of the restaurant at the Grand Hotel Les Terrasses at Uriage-les-Bains. Wikipedia",
             "type": "Chef",
             "Born ": "April 25, 1971 (age 42), Grenoble, France",
             "People also search for": []
-        },
-        "Greggy Soriano": {
-            "label": "Greggy Soriano",
-            "description": "Gregory Paul Soriano also known as Greggy Soriano, is a cake designer. He is known for being in the first season of Cake Boss Next Great Baker on TLC. Soriano is a television personality and founder of his own brand, Greggy Soriano Holdings, LLC. Wikipedia",
-            "type": "",
-            "Born ": "August 19, 1984 (age 29), Glendora, California, United States"
         },
         "Kevin Sbraga": {
             "label": "Kevin Sbraga",
@@ -1575,6 +1604,12 @@
                 "Johnson & Wales University"
             ],
             "People also search for": []
+        },
+        "Greggy Soriano": {
+            "label": "Greggy Soriano",
+            "description": "Gregory Paul Soriano also known as Greggy Soriano, is a cake designer. He is known for being in the first season of Cake Boss Next Great Baker on TLC. Soriano is a television personality and founder of his own brand, Greggy Soriano Holdings, LLC. Wikipedia",
+            "type": "",
+            "Born ": "August 19, 1984 (age 29), Glendora, California, United States"
         },
         "Lynn Crawford": {
             "label": "Lynn Crawford",
@@ -1605,79 +1640,76 @@
             ],
             "People also search for": []
         },
-        "Ina Garten": {
-            "label": "Ina Garten",
-            "description": "Ina Rosenberg Garten is an American author, Emmy Award winning host of the Food Network program Barefoot Contessa, and former White House nuclear policy analyst. Wikipedia",
+        "Isa Chandra Moskowitz": {
+            "label": "Isa Chandra Moskowitz",
+            "description": "Isa Chandra Moskowitz is an American author, magazine columnist, and former host of community access cooking show Post Punk Kitchen. Wikipedia",
             "type": "Author",
-            "Born ": "February 2, 1948 (age 66), Brooklyn, New York, United States",
-            "Full name ": [
-                "Ina Rosenberg Garten"
-            ],
-            "Height ": [
-                "5' 3\" (1.60 m)"
-            ],
-            "Spouse ": [
-                "Jeffrey Garten (m. 1968)"
-            ],
-            "TV shows ": [
-                "Barefoot Contessa"
-            ],
+            "Born ": "February 3, 1973 (age 41), Brooklyn, New York, United States",
             "Books": []
-        },
-        "Claire Robinson": {
-            "label": "Claire Robinson",
-            "description": "Claire Robinson is a cook and television host of the Food Network series 5 Ingredient Fix. By definition, Claire is not a chef and does not warrant the title as described in the brigade de cuisine. Wikipedia",
-            "type": "Chef",
-            "Born ": [
-                "Jacksonville",
-                " Florida",
-                " United States"
-            ],
-            "Spouse ": [
-                "Bailey Robinson"
-            ],
-            "Movies and TV shows ": [
-                "5 Ingredient Fix",
-                " Food Network Challenge",
-                " The Rainmaker"
-            ],
-            "Education ": [
-                "University of Memphis",
-                " French Culinary Institute"
-            ],
-            "People also search for": []
         }
     },
     "summary": {
-        "label": 97,
-        "description": 97,
-        "type": 97,
-        "born": 1,
-        "full_name": 1,
-        "height": 1,
-        "education": 1,
-        "tv_shows": 1,
-        "books": 1,
-        "spouse": 1,
-        "children": 1,
-        "recent_posts": 1,
-        "people_also_search_for": 1,
-        "nationality": 1,
-        "nominations": 1,
-        "movies_and_tv_shows": 1,
-        "siblings": 1,
-        "awards": 1,
-        "died": 1,
-        "parents": 1,
-        "see_results_about": 1,
-        "partner": 1,
-        "albums": 1,
-        "songs": 1,
-        "movies": 1
+        "label": {
+            "uri": "http://www.w3.org/2000/01/rdf-schema#label",
+            "count": 97
+        },
+        "description": {
+            "uri": "http://purl.org/dc/elements/1.1/description",
+            "count": 97
+        },
+        "type": {
+            "uri": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+            "count": 97
+        },
+        "height": {
+            "uri": "http://dbpedia.org/property/height",
+            "count": 12
+        },
+        "education": {
+            "uri": "http://dbpedia.org/property/education",
+            "count": 40
+        },
+        "books": {
+            "uri": "http://dbpedia.org/property/books",
+            "count": 23
+        },
+        "spouse": {
+            "uri": "http://dbpedia.org/property/spouse",
+            "count": 28
+        },
+        "children": {
+            "uri": "http://dbpedia.org/property/children",
+            "count": 16
+        },
+        "nationality": {
+            "uri": "http://dbpedia.org/property/nationality",
+            "count": 18
+        },
+        "awards": {
+            "uri": "http://dbpedia.org/property/awards",
+            "count": 13
+        }
     },
     "infoboxless": [
         "Judie Byrd",
         "James Beard",
         "Luke Hayes-Alexander"
-    ]
+    ],
+    "Unmapped_Properties": {
+        "born": 1,
+        "fullName": 1,
+        "tvShows": 1,
+        "recentPosts": 1,
+        "peopleAlsoSearchFor": 1,
+        "moviesAndTvShows": 1,
+        "nominations": 1,
+        "siblings": 1,
+        "died": 1,
+        "parents": 1,
+        "seeResultsAbout": 1,
+        "partner": 1,
+        "albums": 1,
+        "songs": 1,
+        "movies": 1
+    }
 }

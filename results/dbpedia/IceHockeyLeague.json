@@ -1,5 +1,11 @@
 {
     "instances": {
+        "Minnesota Hockey": {
+            "label": "Minnesota Hockey",
+            "description": "Minnesota Hockey is the statewide governing body of amateur hockey in Minnesota and an affiliate of USA Hockey. Since 1947, Minnesota Hockey has been providing volunteer services for the development and promotion of all youth hockey in Minnesota. Wikipedia",
+            "type": "",
+            "See results about": []
+        },
         "Ligue Centrale de Hockey": {
             "label": "Central Hockey League",
             "description": "The Central Hockey League is a mid-level minor professional hockey league.\nUntil 2013, it was owned by Global Entertainment Corporation, at which point it was purchased by the individual franchise owners. Wikipedia",
@@ -27,12 +33,6 @@
             ],
             "People also search for": []
         },
-        "Minnesota Hockey": {
-            "label": "Minnesota Hockey",
-            "description": "Minnesota Hockey is the statewide governing body of amateur hockey in Minnesota and an affiliate of USA Hockey. Since 1947, Minnesota Hockey has been providing volunteer services for the development and promotion of all youth hockey in Minnesota. Wikipedia",
-            "type": "",
-            "See results about": []
-        },
         "National Hockey League": {
             "label": "National Hockey League",
             "description": "The National Hockey League is an \"unincorporated not-for-profit association\" which operates a major professional ice hockey league.\nCurrently there are 30 franchised member clubs, 23 located in the United States and 7 in Canada. Wikipedia",
@@ -52,17 +52,34 @@
         }
     },
     "summary": {
-        "label": 4,
-        "description": 4,
-        "type": 4,
-        "headquarters": 1,
-        "founders": 1,
-        "people_also_search_for": 1,
-        "founder": 1,
-        "see_results_about": 1,
-        "founded": 1,
-        "ceo": 1,
-        "recent_posts": 1
+        "label": {
+            "uri": "http://www.w3.org/2000/01/rdf-schema#label",
+            "count": 4
+        },
+        "description": {
+            "uri": "http://fr.dbpedia.org/ontology/abstract",
+            "count": 4
+        },
+        "type": {
+            "uri": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+            "count": 4
+        },
+        "headquarters": {
+            "uri": "http://dbpedia.org/property/headquarters",
+            "count": 3
+        },
+        "founder": {
+            "uri": "http://dbpedia.org/property/founder",
+            "count": 2
+        },
+        "founded": {
+            "uri": "http://dbpedia.org/property/founded",
+            "count": 1
+        },
+        "ceo": {
+            "uri": "http://dbpedia.org/property/ceo",
+            "count": 1
+        }
     },
     "infoboxless": [
         "AL-Bank Ligaen",
@@ -142,13 +159,13 @@
         "Croatian Ice Hockey League",
         "Deutsche Eishockey Liga",
         "Icelandic Hockey League",
-        "MOL Liga",
         "Ligue Nord-Américaine de Hockey",
+        "MOL Liga",
         "Meistriliiga (ice hockey)",
         "National Collegiate women's ice hockey championship",
         "National Women's Hockey League",
-        "SM-sarja",
         "North Eastern Hockey League",
+        "SM-sarja",
         "Serie A (ice hockey)",
         "South East Hockey League",
         "Southern Professional Hockey League",
@@ -161,5 +178,11 @@
         "America East Hockey League",
         "Czechoslovak 2. Liga",
         "Esiliiga (ice hockey)"
-    ]
+    ],
+    "Unmapped_Properties": {
+        "seeResultsAbout": 1,
+        "founders": 1,
+        "peopleAlsoSearchFor": 1,
+        "recentPosts": 1
+    }
 }

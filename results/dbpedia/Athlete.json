@@ -1,31 +1,5 @@
 {
     "instances": {
-        "A. J. Edds": "/Users/ahmadassaf/Dropbox/Projects/Knowledge Graph Scrapper/cache/instances_GKB/A__J__Edds.json",
-        "Alan Pérez": "/Users/ahmadassaf/Dropbox/Projects/Knowledge Graph Scrapper/cache/instances_GKB/Alan_P_rez.json",
-        "Álvaro Rafael González": {
-            "label": "Álvaro Rafael González",
-            "description": "Álvaro Rafael González Luengo, nickname \"Tata\" is a Uruguayan football Midfielder who currently plays for Lazio in the Italian Serie A. The Uruguayan also plays as a full back for the capital team. Wikipedia",
-            "type": "Soccer player",
-            "Born ": "October 29, 1984 (age 29), Montevideo, Uruguay",
-            "Height ": [
-                "5' 9\" (1.76 m)"
-            ],
-            "Weight ": [
-                "159 lbs (72 kg)"
-            ],
-            "Career start ": [
-                "2003"
-            ],
-            "Salary ": [
-                "700",
-                "000 EUR (2012)"
-            ],
-            "Current teams ": [
-                "S.S. Lazio (#15 / Midfielder)",
-                " Uruguay national football team (Midfielder)"
-            ],
-            "People also search for": []
-        },
         "Ángel Berlanga": {
             "label": "Ángel Berlanga",
             "description": "Ángel Luis Berlanga Vina is a Spanish footballer who plays as a centerback for Auckland City FC in the New Zealand Football Championship. Wikipedia",
@@ -55,25 +29,6 @@
             ],
             "People also search for": []
         },
-        "Éric Dazé": {
-            "label": "Éric Dazé",
-            "description": "Éric Dazé is a retired Canadian professional ice hockey winger who played for the Chicago Blackhawks of the National Hockey League for eleven seasons. Wikipedia",
-            "type": "Ice hockey player",
-            "Born ": "July 2, 1975 (age 38), Montreal, Canada",
-            "Career start ": [
-                "1994"
-            ],
-            "Career end ": [
-                "2005"
-            ],
-            "Weight ": [
-                "235 lbs (107 kg)"
-            ],
-            "Position ": [
-                "Winger"
-            ],
-            "People also search for": []
-        },
         "Ángel di María": {
             "label": "Ángel di María",
             "description": "Ángel Fabián di María Hernández is an Argentine professional footballer who currently plays as a winger for Spanish La Liga club Real Madrid and the Argentine national team. Wikipedia",
@@ -97,28 +52,6 @@
             ],
             "People also search for": []
         },
-        "Éric Desjardins": {
-            "label": "Éric Desjardins",
-            "description": "Éric Desjardins is a Canadian former professional ice hockey defenceman who played 17 seasons in the National Hockey League with the Montreal Canadiens and Philadelphia Flyers. Wikipedia",
-            "type": "Ice hockey player",
-            "Born ": "June 14, 1969 (age 44), Rouyn-Noranda, Canada",
-            "Career start ": [
-                "1988"
-            ],
-            "Career end ": [
-                "2006"
-            ],
-            "Weight ": [
-                "205 lbs (93 kg)"
-            ],
-            "Spouse ": [
-                "Manon Bouthiller Desjardins"
-            ],
-            "Position ": [
-                "Defenseman"
-            ],
-            "People also search for": []
-        },
         "Édgar Barreto": {
             "label": "Édgar Barreto",
             "description": "Édgar Osvaldo Barreto Cáceres is a Paraguayan footballer who currently plays for Italian Serie B club Palermo and played for the Paraguay national football team from 2004 to 2011. Barreto is the brother of fellow Paraguayan goalkeeper Diego Barreto. Wikipedia",
@@ -139,6 +72,47 @@
             ],
             "Siblings ": [
                 "Diego Barreto"
+            ],
+            "People also search for": []
+        },
+        "Éric Dazé": {
+            "label": "Éric Dazé",
+            "description": "Éric Dazé is a retired Canadian professional ice hockey winger who played for the Chicago Blackhawks of the National Hockey League for eleven seasons. Wikipedia",
+            "type": "Ice hockey player",
+            "Born ": "July 2, 1975 (age 38), Montreal, Canada",
+            "Career start ": [
+                "1994"
+            ],
+            "Career end ": [
+                "2005"
+            ],
+            "Weight ": [
+                "235 lbs (107 kg)"
+            ],
+            "Position ": [
+                "Winger"
+            ],
+            "People also search for": []
+        },
+        "Éric Desjardins": {
+            "label": "Éric Desjardins",
+            "description": "Éric Desjardins is a Canadian former professional ice hockey defenceman who played 17 seasons in the National Hockey League with the Montreal Canadiens and Philadelphia Flyers. Wikipedia",
+            "type": "Ice hockey player",
+            "Born ": "June 14, 1969 (age 44), Rouyn-Noranda, Canada",
+            "Career start ": [
+                "1988"
+            ],
+            "Career end ": [
+                "2006"
+            ],
+            "Weight ": [
+                "205 lbs (93 kg)"
+            ],
+            "Spouse ": [
+                "Manon Bouthiller Desjardins"
+            ],
+            "Position ": [
+                "Defenseman"
             ],
             "People also search for": []
         },
@@ -230,16 +204,23 @@
             ],
             "People also search for": []
         },
-        "Abdelaziz Ahanfouf": {
-            "label": "Abdelaziz Ahanfouf",
-            "description": "Abdelaziz „Aziz“ Ahanfouf is a German-Moroccan footballer who last played for SV Darmstadt 98. Wikipedia",
+        "Aaron Hughes": {
+            "label": "Aaron Hughes",
+            "description": "Aaron William Hughes is a Northern Irish footballer who plays as a defender for Queens Park Rangers. Hughes is able to play centre back, right back or left back, as well as anywhere in midfield. Wikipedia",
             "type": "Soccer player",
-            "Born ": "January 14, 1978 (age 36), Flörsheim am Main, Germany",
+            "Born ": "November 8, 1979 (age 34), Cookstown, United Kingdom",
             "Height ": [
-                "6' 0\" (1.84 m)"
+                "6' 0\" (1.83 m)"
             ],
-            "Position ": [
-                "Forward"
+            "Weight ": [
+                "172 lbs (78 kg)"
+            ],
+            "Career start ": [
+                "1997"
+            ],
+            "Current teams ": [
+                "Northern Ireland national football team (Defender)",
+                " Queens Park Rangers F.C. (#18 / Defender)"
             ],
             "People also search for": []
         },
@@ -267,66 +248,6 @@
             ],
             "People also search for": []
         },
-        "Abdeljalil Hadda": {
-            "label": "Abdeljalil Hadda",
-            "description": "Abdeljalil Hadda, sometimes named Kamatcho, is a Moroccan retired footballer who played as a striker. Wikipedia",
-            "type": "Soccer player",
-            "Born ": "March 23, 1972 (age 42), Meknes, Morocco",
-            "Height ": [
-                "5' 10\" (1.79 m)"
-            ],
-            "Weight ": [
-                "165 lbs (75 kg)"
-            ],
-            "Position ": [
-                "Forward"
-            ],
-            "People also search for": []
-        },
-        "Aaron Hughes": {
-            "label": "Aaron Hughes",
-            "description": "Aaron William Hughes is a Northern Irish footballer who plays as a defender for Queens Park Rangers. Hughes is able to play centre back, right back or left back, as well as anywhere in midfield. Wikipedia",
-            "type": "Soccer player",
-            "Born ": "November 8, 1979 (age 34), Cookstown, United Kingdom",
-            "Height ": [
-                "6' 0\" (1.83 m)"
-            ],
-            "Weight ": [
-                "172 lbs (78 kg)"
-            ],
-            "Career start ": [
-                "1997"
-            ],
-            "Current teams ": [
-                "Northern Ireland national football team (Defender)",
-                " Queens Park Rangers F.C. (#18 / Defender)"
-            ],
-            "People also search for": []
-        },
-        "Abdelkader Ghezzal": {
-            "label": "Abdelkader Ghezzal",
-            "description": "Abdelkader Mohamed Ghezzal is an Algerian footballer. He currently plays as a forward for the Italian club Latina on loan from Parma. Wikipedia",
-            "type": "Soccer player",
-            "Born ": "December 5, 1984 (age 29), Décines-Charpieu, France",
-            "Height ": [
-                "6' 0\" (1.83 m)"
-            ],
-            "Weight ": [
-                "172 lbs (78 kg)"
-            ],
-            "Salary ": [
-                "600",
-                "000 EUR (2010)"
-            ],
-            "Siblings ": [
-                "Rachid Ghezzal"
-            ],
-            "Current teams ": [
-                "Algeria national football team (Forward)",
-                " U.S. Latina Calcio (#31 / Forward)"
-            ],
-            "People also search for": []
-        },
         "Aaron Scott (footballer)": {
             "label": "Aaron Scott",
             "description": "Aaron James Scott is a New Zealand footballer who plays for NZFC side Waitakere United and has represented New Zealand under 23 at the Olympics and played for the senior side, the All Whites. Wikipedia",
@@ -341,6 +262,59 @@
             "Current teams ": [
                 "New Zealand national football team (Defender)",
                 " Waitakere United (#2 / Defender)"
+            ],
+            "People also search for": []
+        },
+        "Abdelaziz Ahanfouf": {
+            "label": "Abdelaziz Ahanfouf",
+            "description": "Abdelaziz „Aziz“ Ahanfouf is a German-Moroccan footballer who last played for SV Darmstadt 98. Wikipedia",
+            "type": "Soccer player",
+            "Born ": "January 14, 1978 (age 36), Flörsheim am Main, Germany",
+            "Height ": [
+                "6' 0\" (1.84 m)"
+            ],
+            "Position ": [
+                "Forward"
+            ],
+            "People also search for": []
+        },
+        "Álvaro Rafael González": {
+            "label": "Álvaro Rafael González",
+            "description": "Álvaro Rafael González Luengo, nickname \"Tata\" is a Uruguayan football Midfielder who currently plays for Lazio in the Italian Serie A. The Uruguayan also plays as a full back for the capital team. Wikipedia",
+            "type": "Soccer player",
+            "Born ": "October 29, 1984 (age 29), Montevideo, Uruguay",
+            "Height ": [
+                "5' 9\" (1.76 m)"
+            ],
+            "Weight ": [
+                "159 lbs (72 kg)"
+            ],
+            "Career start ": [
+                "2003"
+            ],
+            "Salary ": [
+                "700",
+                "000 EUR (2012)"
+            ],
+            "Current teams ": [
+                "S.S. Lazio (#15 / Midfielder)",
+                " Uruguay national football team (Midfielder)"
+            ],
+            "People also search for": []
+        },
+        "Abdeljalil Hadda": {
+            "label": "Abdeljalil Hadda",
+            "description": "Abdeljalil Hadda, sometimes named Kamatcho, is a Moroccan retired footballer who played as a striker. Wikipedia",
+            "type": "Soccer player",
+            "Born ": "March 23, 1972 (age 42), Meknes, Morocco",
+            "Height ": [
+                "5' 10\" (1.79 m)"
+            ],
+            "Weight ": [
+                "165 lbs (75 kg)"
+            ],
+            "Position ": [
+                "Forward"
             ],
             "People also search for": []
         },
@@ -400,33 +374,35 @@
             ],
             "People also search for": []
         },
-        "Adam Oates": {
-            "label": "Adam Oates",
-            "description": "Adam Robert Oates is a Canadian former professional ice hockey player and current head coach of the Washington Capitals of the National Hockey League. Wikipedia",
-            "type": "",
-            "Born ": "August 27, 1962 (age 51), Weston, Ontario, Canada",
-            "Career start ": [
-                "1985"
-            ],
-            "Career end ": [
-                "2004"
-            ],
-            "Team ": [
-                "Washington Capitals"
-            ],
-            "Spouse ": [
-                "Donna Oates"
-            ],
-            "Education ": [
-                "Rensselaer Polytechnic Institute"
-            ],
-            "People also search for": []
-        },
         "Adam Hall": {
             "label": "Adam Hall GmbH",
             "description": "",
             "type": "",
             "See results about": []
+        },
+        "Abdelkader Ghezzal": {
+            "label": "Abdelkader Ghezzal",
+            "description": "Abdelkader Mohamed Ghezzal is an Algerian footballer. He currently plays as a forward for the Italian club Latina on loan from Parma. Wikipedia",
+            "type": "Soccer player",
+            "Born ": "December 5, 1984 (age 29), Décines-Charpieu, France",
+            "Height ": [
+                "6' 0\" (1.83 m)"
+            ],
+            "Weight ": [
+                "172 lbs (78 kg)"
+            ],
+            "Salary ": [
+                "600",
+                "000 EUR (2010)"
+            ],
+            "Siblings ": [
+                "Rachid Ghezzal"
+            ],
+            "Current teams ": [
+                "Algeria national football team (Forward)",
+                " U.S. Latina Calcio (#31 / Forward)"
+            ],
+            "People also search for": []
         },
         "Adam Ondra": {
             "label": "Adam Ondra",
@@ -459,16 +435,6 @@
             ],
             "People also search for": []
         },
-        "Adriano Malori": {
-            "label": "Adriano Malori",
-            "description": "Adriano Malori is an Italian professional road racing cyclist, who currently rides for UCI ProTeam Movistar Team. Malori was the Lanterne Rouge of the 2010 Tour de France, finishing almost four and a half hours behind winner Andy Schleck. Wikipedia",
-            "type": "",
-            "Born ": "January 28, 1988 (age 26), Parma, Italy",
-            "Weight ": [
-                "150 lbs (68 kg)"
-            ],
-            "People also search for": []
-        },
         "Adrià Granell": {
             "label": "Adrià Granell",
             "description": "Adrià Granell Artal, simply known as Adrià, is a Spanish footballer who plays for Huracán Valencia CF in Segunda División B, as a left winger. Wikipedia",
@@ -476,6 +442,16 @@
             "Born ": "March 13, 1986 (age 28), Valencia, Spain",
             "Height ": [
                 "5' 7\" (1.69 m)"
+            ],
+            "People also search for": []
+        },
+        "Adriano Malori": {
+            "label": "Adriano Malori",
+            "description": "Adriano Malori is an Italian professional road racing cyclist, who currently rides for UCI ProTeam Movistar Team. Malori was the Lanterne Rouge of the 2010 Tour de France, finishing almost four and a half hours behind winner Andy Schleck. Wikipedia",
+            "type": "",
+            "Born ": "January 28, 1988 (age 26), Parma, Italy",
+            "Weight ": [
+                "150 lbs (68 kg)"
             ],
             "People also search for": []
         },
@@ -881,16 +857,6 @@
             ],
             "People also search for": []
         },
-        "Alen Škoro": {
-            "label": "Alen Škoro",
-            "description": "Alen Škoro is a Bosnian footballer. He has made 4 appearances for the Bosnia and Herzegovina national football team. Wikipedia",
-            "type": "",
-            "Born ": "March 30, 1981 (age 32), Sarajevo, Bosnia and Herzegovina",
-            "Height ": [
-                "6' 2\" (1.88 m)"
-            ],
-            "People also search for": []
-        },
         "Aleksandra Krunić": {
             "label": "Aleksandra Krunić",
             "description": "Aleksandra Krunić is a Serbian professional tennis player, who was, as of 16 September 2012, ranked No. 126. Krunić has won six ITF events — five in singles and one in doubles. Wikipedia",
@@ -904,6 +870,16 @@
             ],
             "Turned pro ": [
                 "2008"
+            ],
+            "People also search for": []
+        },
+        "Alen Škoro": {
+            "label": "Alen Škoro",
+            "description": "Alen Škoro is a Bosnian footballer. He has made 4 appearances for the Bosnia and Herzegovina national football team. Wikipedia",
+            "type": "",
+            "Born ": "March 30, 1981 (age 32), Sarajevo, Bosnia and Herzegovina",
+            "Height ": [
+                "6' 2\" (1.88 m)"
             ],
             "People also search for": []
         },
@@ -1152,19 +1128,6 @@
             ],
             "People also search for": []
         },
-        "Alexander Vladimirovich Volkov": {
-            "label": "Alexander Vladimirovich Volkov",
-            "description": "Alexander Vladimirovich Volkov is a former professional tennis player from Russia. Wikipedia",
-            "type": "",
-            "Born ": "March 3, 1967 (age 47), Kaliningrad, Russia",
-            "Weight ": [
-                "174 lbs (79 kg)"
-            ],
-            "Turned pro ": [
-                "1988"
-            ],
-            "People also search for": []
-        },
         "Alexander Semin": {
             "label": "Alexander Semin",
             "description": "Alexander Valerevich Semin is a Russian professional ice hockey player with the Carolina Hurricanes of the National Hockey League. He had previously played for the Washington Capitals. Wikipedia",
@@ -1185,6 +1148,19 @@
             "Current teams ": [
                 "Russian National Ice Hockey Team (#28 / Forward)",
                 " Carolina Hurricanes (#28 / Right wing)"
+            ],
+            "People also search for": []
+        },
+        "Alexander Vladimirovich Volkov": {
+            "label": "Alexander Vladimirovich Volkov",
+            "description": "Alexander Vladimirovich Volkov is a former professional tennis player from Russia. Wikipedia",
+            "type": "",
+            "Born ": "March 3, 1967 (age 47), Kaliningrad, Russia",
+            "Weight ": [
+                "174 lbs (79 kg)"
+            ],
+            "Turned pro ": [
+                "1988"
             ],
             "People also search for": []
         },
@@ -1217,6 +1193,51 @@
             ],
             "People also search for": []
         },
+        "Alexander Zickler": {
+            "label": "Alexander Zickler",
+            "description": "Alexander Zickler is a German retired footballer who played as a striker.\nHe spent 12 years of his professional career with Bayern Munich, appearing in more than 300 official games and winning 19 major ... Wikipedia",
+            "type": "",
+            "Born ": "February 28, 1974 (age 40), Bad Salzungen, Germany",
+            "Height ": [
+                "6' 2\" (1.88 m)"
+            ],
+            "Weight ": [
+                "192 lbs (87 kg)"
+            ],
+            "Current team ": [
+                "LASK Linz"
+            ],
+            "People also search for": []
+        },
+        "Adam Oates": {
+            "label": "Adam Oates",
+            "description": "Adam Robert Oates is a Canadian former professional ice hockey player and current head coach of the Washington Capitals of the National Hockey League. Wikipedia",
+            "type": "",
+            "Born ": "August 27, 1962 (age 51), Weston, Ontario, Canada",
+            "Career start ": [
+                "1985"
+            ],
+            "Career end ": [
+                "2004"
+            ],
+            "Team ": [
+                "Washington Capitals"
+            ],
+            "Spouse ": [
+                "Donna Oates"
+            ],
+            "Education ": [
+                "Rensselaer Polytechnic Institute"
+            ],
+            "People also search for": []
+        },
+        "Alexandr Romankov": {
+            "label": "Alexandr Romankov",
+            "description": "Alexandr Romankov is a former fencer from the former Soviet Union, who was born on 7 November 1953 in the town of Korsakov on the island of Sakhalin. Wikipedia",
+            "type": "",
+            "Born ": "November 7, 1953 (age 60), Korsakov, Russia",
+            "People also search for": []
+        },
         "Alexandre Mendy": {
             "label": "Alexandre Mendy",
             "description": "Noël Alexandre \"Alex\" Mendy is a French footballer who plays as a Winger and can play as a Forward or Attacking central midfielder. He played formerly for FK Mladá Boleslav and helped them win the Czech Cup in 2011. Wikipedia",
@@ -1234,29 +1255,6 @@
             "Siblings ": [
                 "Vincent Mendy"
             ],
-            "People also search for": []
-        },
-        "Alexander Zickler": {
-            "label": "Alexander Zickler",
-            "description": "Alexander Zickler is a German retired footballer who played as a striker.\nHe spent 12 years of his professional career with Bayern Munich, appearing in more than 300 official games and winning 19 major ... Wikipedia",
-            "type": "",
-            "Born ": "February 28, 1974 (age 40), Bad Salzungen, Germany",
-            "Height ": [
-                "6' 2\" (1.88 m)"
-            ],
-            "Weight ": [
-                "192 lbs (87 kg)"
-            ],
-            "Current team ": [
-                "LASK Linz"
-            ],
-            "People also search for": []
-        },
-        "Alexandr Romankov": {
-            "label": "Alexandr Romankov",
-            "description": "Alexandr Romankov is a former fencer from the former Soviet Union, who was born on 7 November 1953 in the town of Korsakov on the island of Sakhalin. Wikipedia",
-            "type": "",
-            "Born ": "November 7, 1953 (age 60), Korsakov, Russia",
             "People also search for": []
         },
         "Alexandro Alves do Nascimento": {
@@ -1312,19 +1310,6 @@
             ],
             "People also search for": []
         },
-        "Ali Carter": {
-            "label": "Ali Carter",
-            "description": "Allister \"Ali\" Carter is an English professional snooker player, who lives in Chelmsford. He is a two-time World Championship runner-up, twice losing to Ronnie O'Sullivan, in 2008 and 2012. Wikipedia",
-            "type": "",
-            "Born ": "July 25, 1979 (age 34), Colchester, United Kingdom",
-            "Height ": [
-                "5' 8\" (1.73 m)"
-            ],
-            "Nationality ": [
-                "English"
-            ],
-            "People also search for": []
-        },
         "Ali Karimi": {
             "label": "Ali Karimi",
             "description": "Mohammad-Ali Karimi Pashaki, known as Ali Karimi, is an Iranian football player, who currently plays for Tractor Sazi in Iran's Premier Football League and played for 15 years for the Iranian national team. Wikipedia",
@@ -1346,6 +1331,19 @@
             "Current teams ": [
                 "Tractor Sazi F.C. (#8 / Midfielder)",
                 " Iran national football team (Midfielder)"
+            ],
+            "People also search for": []
+        },
+        "Ali Carter": {
+            "label": "Ali Carter",
+            "description": "Allister \"Ali\" Carter is an English professional snooker player, who lives in Chelmsford. He is a two-time World Championship runner-up, twice losing to Ronnie O'Sullivan, in 2008 and 2012. Wikipedia",
+            "type": "",
+            "Born ": "July 25, 1979 (age 34), Colchester, United Kingdom",
+            "Height ": [
+                "5' 8\" (1.73 m)"
+            ],
+            "Nationality ": [
+                "English"
             ],
             "People also search for": []
         },
@@ -1604,37 +1602,126 @@
         }
     },
     "summary": {
-        "label": 98,
-        "description": 98,
-        "type": 98,
-        "born": 1,
-        "height": 1,
-        "weight": 1,
-        "career_start": 1,
-        "salary": 1,
-        "current_teams": 1,
-        "people_also_search_for": 1,
-        "current_team": 1,
-        "position": 1,
-        "career_end": 1,
-        "spouse": 1,
-        "children": 1,
-        "siblings": 1,
-        "nationality": 1,
-        "partner": 1,
-        "turned_pro": 1,
-        "school": 1,
-        "education": 1,
-        "died": 1,
-        "martial_art": 1,
-        "division": 1,
-        "team": 1,
-        "see_results_about": 1,
-        "awards": 1,
-        "parents": 1,
-        "number": 1,
-        "movies": 1,
-        "shoots": 1
+        "label": {
+            "uri": "http://dbpedia.org/property/label",
+            "count": 98
+        },
+        "description": {
+            "uri": "http://dbpedia.org/property/description",
+            "count": 98
+        },
+        "type": {
+            "uri": "http://dbpedia.org/property/type",
+            "count": 98
+        },
+        "born": {
+            "uri": "http://dbpedia.org/property/born",
+            "count": 97
+        },
+        "height": {
+            "uri": "http://dbpedia.org/property/height",
+            "count": 70
+        },
+        "careerStart": {
+            "uri": "http://dbpedia.org/property/careerStart",
+            "count": 25
+        },
+        "currentTeam": {
+            "uri": "http://dbpedia.org/property/currentTeam",
+            "count": 17
+        },
+        "position": {
+            "uri": "http://dbpedia.org/property/position",
+            "count": 19
+        },
+        "weight": {
+            "uri": "http://dbpedia.org/property/height/weight",
+            "count": 45
+        },
+        "spouse": {
+            "uri": "http://dbpedia.org/ontology/spouse",
+            "count": 16
+        },
+        "salary": {
+            "uri": "http://dbpedia.org/property/salary",
+            "count": 15
+        },
+        "currentTeams": {
+            "uri": "http://dbpedia.org/property/currentTeams",
+            "count": 13
+        },
+        "children": {
+            "uri": "http://dbpedia.org/property/children",
+            "count": 5
+        },
+        "siblings": {
+            "uri": "http://dbpedia.org/property/siblings",
+            "count": 15
+        },
+        "careerEnd": {
+            "uri": "http://dbpedia.org/property/careerEnd",
+            "count": 9
+        },
+        "nationality": {
+            "uri": "http://dbpedia.org/property/nationality",
+            "count": 5
+        },
+        "partner": {
+            "uri": "http://dbpedia.org/ontology/partner",
+            "count": 1
+        },
+        "turnedPro": {
+            "uri": "http://dbpedia.org/property/turnedPro",
+            "count": 10
+        },
+        "school": {
+            "uri": "http://dbpedia.org/property/school",
+            "count": 2
+        },
+        "education": {
+            "uri": "http://dbpedia.org/ontology/education",
+            "count": 12
+        },
+        "died": {
+            "uri": "http://dbpedia.org/property/died",
+            "count": 9
+        },
+        "martialArt": {
+            "uri": "http://dbpedia.org/property/martialArt",
+            "count": 1
+        },
+        "division": {
+            "uri": "http://dbpedia.org/property/division",
+            "count": 1
+        },
+        "awards": {
+            "uri": "http://dbpedia.org/property/awards",
+            "count": 2
+        },
+        "parents": {
+            "uri": "http://dbpedia.org/property/parents",
+            "count": 4
+        },
+        "team": {
+            "uri": "http://dbpedia.org/property/team",
+            "count": 1
+        },
+        "number": {
+            "uri": "http://dbpedia.org/property/number",
+            "count": 1
+        },
+        "shoots": {
+            "uri": "http://dbpedia.org/property/shoots",
+            "count": 1
+        }
     },
-    "infoboxless": []
+    "infoboxless": [
+        "A. J. Edds",
+        "Alan Pérez"
+    ],
+    "Unmapped_Properties": {
+        "peopleAlsoSearchFor": 1,
+        "seeResultsAbout": 1,
+        "movies": 1
+    }
 }

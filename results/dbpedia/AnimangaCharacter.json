@@ -53,16 +53,18 @@
         }
     },
     "summary": {
-        "label": 4,
-        "description": 4,
-        "type": 4,
-        "see_results_about": 1,
-        "initial_release": 1,
-        "characters": 1,
-        "director": 1,
-        "adapted_from": 1,
-        "mpaa_rating": 1,
-        "cast": 1
+        "label": {
+            "uri": "http://www.w3.org/2000/01/rdf-schema#label",
+            "count": 4
+        },
+        "description": {
+            "uri": "http://fr.dbpedia.org/ontology/abstract",
+            "count": 4
+        },
+        "type": {
+            "uri": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+            "count": 4
+        }
     },
     "infoboxless": [
         "Urd (Oh My Goddess!)",
@@ -119,8 +121,8 @@
         "Kyo Sohma",
         "Seto Kaiba",
         "Teletha Tessa Testarossa",
-        "Fumi Himeno",
         "Akane Higurashi",
+        "Fumi Himeno",
         "Gasser (Bobobo-bo Bo-bobo)",
         "Jelly Jiggler",
         "Mai Tokiha",
@@ -161,5 +163,14 @@
         "Janice Em",
         "Breetai",
         "Exedore"
-    ]
+    ],
+    "Unmapped_Properties": {
+        "seeResultsAbout": 1,
+        "initialRelease": 1,
+        "characters": 1,
+        "director": 1,
+        "adaptedFrom": 1,
+        "mpaaRating": 1,
+        "cast": 1
+    }
 }

@@ -5,7 +5,7 @@ var async = require("async");
 
 var Cache = function() {
 	var cache_filename   = __dirname + '/cache/';
-	var folder_names     = ["GKB","instances_GKB","instances"];
+	var folder_names     = ["GKB","instances_GKB","instances","instance_properties"];
 
 	async.each(folder_names,function(folder, asyncCallback){
 		var folder_name = cache_filename + folder;

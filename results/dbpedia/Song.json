@@ -1,11 +1,5 @@
 {
     "instances": {
-        "Plastic People": {
-            "label": "Plastic People",
-            "description": "",
-            "type": "",
-            "People also search for": []
-        },
         "Chattanooga Choo Choo": {
             "label": "Terminal Station",
             "description": "Terminal Station in Chattanooga, Tennessee, is a former railroad station, once owned and operated by the Southern Railway, listed on the National Register of Historic Places. Wikipedia",
@@ -30,6 +24,18 @@
             ],
             "People also search for": []
         },
+        "Plastic People": {
+            "label": "Plastic People",
+            "description": "",
+            "type": "",
+            "People also search for": []
+        },
+        "Dig a Pony": {
+            "label": "Dig A Pony",
+            "description": "",
+            "type": "",
+            "People also search for": []
+        },
         "Wish You Were Here (Pink Floyd song)": {
             "label": "Wish You Were Here",
             "description": "Wish You Were Here is the ninth studio album by the English progressive rock group Pink Floyd, released in September 1975. It explores themes of absence, the music business and former band member Syd Barrett's mental decline. Wikipedia",
@@ -44,12 +50,6 @@
             ],
             "People also search for": []
         },
-        "Dig a Pony": {
-            "label": "Dig A Pony",
-            "description": "",
-            "type": "",
-            "People also search for": []
-        },
         "Un Blodymary (song)": {
             "label": "Un Blodymary",
             "description": "Un Blodymary is the second studio album by the Spanish pop group Las Ketchup. The lead single, \"Un Blodymary\", was the Spanish entry in the Eurovision Song Contest 2006, where it placed 21st. Wikipedia",
@@ -61,18 +61,26 @@
         }
     },
     "summary": {
-        "label": 5,
-        "description": 5,
-        "type": 5,
-        "people_also_search_for": 1,
-        "address": 1,
-        "area": 1,
-        "opened": 1,
-        "architectural_style": 1,
-        "architect": 1,
-        "release_date": 1,
-        "artist": 1,
-        "labels": 1
+        "label": {
+            "uri": "http://dbpedia.org/property/label",
+            "count": 5
+        },
+        "description": {
+            "uri": "http://purl.org/dc/elements/1.1/description",
+            "count": 5
+        },
+        "type": {
+            "uri": "http://dbpedia.org/property/type",
+            "count": 5
+        },
+        "releaseDate": {
+            "uri": "http://dbpedia.org/ontology/releaseDate",
+            "count": 2
+        },
+        "artist": {
+            "uri": "http://dbpedia.org/property/artist",
+            "count": 2
+        }
     },
     "infoboxless": [
         "(Ghost) Riders in the Sky: A Cowboy Legend",
@@ -170,5 +178,14 @@
         "All (song)",
         "All Blues",
         "Amsterdam (Maggie MacNeal song)"
-    ]
+    ],
+    "Unmapped_Properties": {
+        "address": 1,
+        "area": 1,
+        "opened": 1,
+        "architecturalStyle": 1,
+        "architect": 1,
+        "peopleAlsoSearchFor": 1,
+        "labels": 1
+    }
 }

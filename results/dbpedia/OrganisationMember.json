@@ -25,20 +25,6 @@
             "description": "The Charlotte 49ers men's soccer team is an intercollegiate varsity sports team of the University of North Carolina at Charlotte. The team is a member of the Atlantic 10 Conference of the National Collegiate Athletic Association. Wikipedia",
             "type": "Soccer team"
         },
-        "Ghaxaq F.C.": {
-            "label": "Ghaxaq F.C.",
-            "description": "Ghaxaq F.C. is a football club from the village of Ghaxaq in south-eastern Malta. Founded in 1950, it currently competes in the Maltese Third Division. Wikipedia",
-            "type": "Soccer club",
-            "Founded ": [
-                "1950"
-            ]
-        },
-        "Ajax Sportman Combinatie": {
-            "label": "Sportvereniging \"Ajax-Sportman-Combinatie\"",
-            "description": "",
-            "type": "",
-            "People also search for": []
-        },
         "Steve Biko Football Club": {
             "label": "Steve Biko FC",
             "description": "The Steve Biko Football Club is a football club from Bakau in the West African, state of Gambia, located near the capital of Banjul. They played in the GFA League First Division, which was the highest league in Gambian football. Wikipedia",
@@ -49,17 +35,47 @@
             "League ": [
                 "GFA League First Division"
             ]
+        },
+        "Ajax Sportman Combinatie": {
+            "label": "Sportvereniging \"Ajax-Sportman-Combinatie\"",
+            "description": "",
+            "type": "",
+            "People also search for": []
+        },
+        "Ghaxaq F.C.": {
+            "label": "Ghaxaq F.C.",
+            "description": "Ghaxaq F.C. is a football club from the village of Ghaxaq in south-eastern Malta. Founded in 1950, it currently competes in the Maltese Third Division. Wikipedia",
+            "type": "Soccer club",
+            "Founded ": [
+                "1950"
+            ]
         }
     },
     "summary": {
-        "label": 6,
-        "description": 6,
-        "type": 6,
-        "founded": 1,
-        "arenas/stadiums": 1,
-        "location": 1,
-        "people_also_search_for": 1,
-        "league": 1
+        "label": {
+            "uri": "http://www.w3.org/2000/01/rdf-schema#label",
+            "count": 6
+        },
+        "description": {
+            "uri": "http://fr.dbpedia.org/ontology/abstract",
+            "count": 6
+        },
+        "type": {
+            "uri": "http://dbpedia.org/property/type",
+            "count": 6
+        },
+        "founded": {
+            "uri": "http://dbpedia.org/property/founded",
+            "count": 3
+        },
+        "location": {
+            "uri": "http://dbpedia.org/property/location",
+            "count": 1
+        },
+        "league": {
+            "uri": "http://dbpedia.org/property/league",
+            "count": 1
+        }
     },
     "infoboxless": [
         "1965–66 Mersin İdmanyurdu season",
@@ -156,5 +172,9 @@
         "Évreux FC  hristian Domingues  1",
         "Évreux FC  hristophe Autret  1",
         "Íþróttafélagið Höttur  Óttar Steinn Magnússon  1"
-    ]
+    ],
+    "Unmapped_Properties": {
+        "arenas/stadiums": 1,
+        "peopleAlsoSearchFor": 1
+    }
 }

@@ -1,5 +1,18 @@
 {
     "instances": {
+        "Ines Diers": {
+            "label": "Ines Diers",
+            "description": "Ines Diers is a former freestyle swimmer from East Germany. At age sixteen she won a total number of five medals at the boycotted 1980 Summer Olympics in Moscow, USSR. Wikipedia",
+            "type": "Olympic athlete",
+            "Born ": "November 2, 1963 (age 50), Rochlitz, Germany",
+            "Height ": [
+                "5' 9\" (1.75 m)"
+            ],
+            "Weight ": [
+                "141 lbs (64 kg)"
+            ],
+            "People also search for": []
+        },
         "Ford Konno": {
             "label": "Ford Hiroshi Konno",
             "description": "Ford Hiroshi Konno is an American former competition swimmer, two-time Olympic champion, and former world record-holder in three events.\nKonno was born in Honolulu, Hawaii. Wikipedia",
@@ -13,19 +26,6 @@
             ],
             "Education ": [
                 "Ohio State University"
-            ],
-            "People also search for": []
-        },
-        "Ines Diers": {
-            "label": "Ines Diers",
-            "description": "Ines Diers is a former freestyle swimmer from East Germany. At age sixteen she won a total number of five medals at the boycotted 1980 Summer Olympics in Moscow, USSR. Wikipedia",
-            "type": "Olympic athlete",
-            "Born ": "November 2, 1963 (age 50), Rochlitz, Germany",
-            "Height ": [
-                "5' 9\" (1.75 m)"
-            ],
-            "Weight ": [
-                "141 lbs (64 kg)"
             ],
             "People also search for": []
         },
@@ -1078,16 +1078,6 @@
             "Died ": "November 22, 1964, Linz, Austria",
             "People also search for": []
         },
-        "Michael Söderlund": {
-            "label": "Michael Söderlund",
-            "description": "Michael Söderlund is a former swimmer from Sweden who competed in three consecutive Summer Olympics, between 1980 to 1988. In the 1984 Summer Olympics, he was a part of the 4×100 m freestyle relay team, swimming one leg in the prelims. Wikipedia",
-            "type": "Swimmer",
-            "Born ": "March 30, 1962 (age 51), Karlskrona, Sweden",
-            "Height ": [
-                "5' 11\" (1.81 m)"
-            ],
-            "People also search for": []
-        },
         "Karen Legg": {
             "label": "Karen Legg",
             "description": "Karen Legg-Crumpler is a former British freestyle swimmer.\nDuring her seven-year international career, she won four world, two European and seven Commonwealth medals. Wikipedia",
@@ -1098,6 +1088,16 @@
             ],
             "Weight ": [
                 "130 lbs (59 kg)"
+            ],
+            "People also search for": []
+        },
+        "Michael Söderlund": {
+            "label": "Michael Söderlund",
+            "description": "Michael Söderlund is a former swimmer from Sweden who competed in three consecutive Summer Olympics, between 1980 to 1988. In the 1984 Summer Olympics, he was a part of the 4×100 m freestyle relay team, swimming one leg in the prelims. Wikipedia",
+            "type": "Swimmer",
+            "Born ": "March 30, 1962 (age 51), Karlskrona, Sweden",
+            "Height ": [
+                "5' 11\" (1.81 m)"
             ],
             "People also search for": []
         },
@@ -1153,25 +1153,38 @@
         }
     },
     "summary": {
-        "label": 85,
-        "description": 85,
-        "type": 85,
-        "born": 1,
-        "height": 1,
-        "weight": 1,
-        "education": 1,
-        "people_also_search_for": 1,
-        "died": 1,
-        "siblings": 1,
-        "parents": 1,
-        "spouse": 1,
-        "children": 1,
-        "full_name": 1,
-        "nationality": 1,
-        "partner": 1,
-        "awards": 1,
-        "books": 1,
-        "nominations": 1
+        "label": {
+            "uri": "http://www.w3.org/2000/01/rdf-schema#label",
+            "count": 85
+        },
+        "description": {
+            "uri": "http://purl.org/dc/elements/1.1/description",
+            "count": 85
+        },
+        "type": {
+            "uri": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+            "count": 85
+        },
+        "height": {
+            "uri": "http://dbpedia.org/property/height",
+            "count": 54
+        },
+        "weight": {
+            "uri": "http://dbpedia.org/property/weight",
+            "count": 48
+        },
+        "education": {
+            "uri": "http://dbpedia.org/property/education",
+            "count": 24
+        },
+        "spouse": {
+            "uri": "http://dbpedia.org/property/spouse",
+            "count": 7
+        },
+        "nationality": {
+            "uri": "http://dbpedia.org/property/nationality",
+            "count": 1
+        }
     },
     "infoboxless": [
         "Éva Novák-Gerard",
@@ -1189,5 +1202,18 @@
         "Robin Backhaus",
         "Gösta Persson",
         "Mikael Örn"
-    ]
+    ],
+    "Unmapped_Properties": {
+        "born": 1,
+        "peopleAlsoSearchFor": 1,
+        "died": 1,
+        "siblings": 1,
+        "parents": 1,
+        "children": 1,
+        "fullName": 1,
+        "partner": 1,
+        "awards": 1,
+        "books": 1,
+        "nominations": 1
+    }
 }

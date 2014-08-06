@@ -68,19 +68,38 @@
         }
     },
     "summary": {
-        "label": 7,
-        "description": 7,
-        "type": 7,
-        "see_results_about": 1,
-        "recent_posts": 1,
-        "founded": 1,
-        "headquarters": 1,
-        "ceo": 1,
-        "founders": 1,
-        "founder": 1,
-        "first_episode": 1,
-        "cast": 1,
-        "people_also_search_for": 1
+        "label": {
+            "uri": "http://www.w3.org/2000/01/rdf-schema#label",
+            "count": 7
+        },
+        "description": {
+            "uri": "http://fr.dbpedia.org/ontology/abstract",
+            "count": 7
+        },
+        "type": {
+            "uri": "http://dbpedia.org/property/type",
+            "count": 7
+        },
+        "founded": {
+            "uri": "http://dbpedia.org/property/founded",
+            "count": 1
+        },
+        "headquarters": {
+            "uri": "http://dbpedia.org/property/headquarters",
+            "count": 2
+        },
+        "ceo": {
+            "uri": "http://dbpedia.org/property/ceo",
+            "count": 1
+        },
+        "founders": {
+            "uri": "http://dbpedia.org/property/founders",
+            "count": 1
+        },
+        "founder": {
+            "uri": "http://dbpedia.org/property/founder",
+            "count": 1
+        }
     },
     "infoboxless": [
         "Aamulehti",
@@ -176,5 +195,12 @@
         "Albany Student Press",
         "Alto Adige (newspaper)",
         "American Free Press"
-    ]
+    ],
+    "Unmapped_Properties": {
+        "seeResultsAbout": 1,
+        "recentPosts": 1,
+        "firstEpisode": 1,
+        "cast": 1,
+        "peopleAlsoSearchFor": 1
+    }
 }

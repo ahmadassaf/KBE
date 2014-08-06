@@ -17,20 +17,6 @@
             ],
             "Points of interest": []
         },
-        "Þorlákshöfn": {
-            "label": "Þorlákshöfn",
-            "description": "Þorlákshöfn is a town on the southern coast of Iceland in the Municipality of Ölfus.\nThe town name is named after Þorlákur Helgi who was bishop at Skálholt. Wikipedia",
-            "type": "",
-            "Weather ": [
-                "42°F (6°C)",
-                " Wind SW at 8 mph (13 km/h)",
-                " 79% Humidity"
-            ],
-            "Local time ": [
-                "Tuesday 147 PM"
-            ],
-            "See results about": []
-        },
         "Östringen": {
             "label": "Östringen",
             "description": "Östringen is a town in Northern Karlsruhe district in Baden-Württemberg, Germany. Östringen is a sister city with Abergavenny, South Wales. Wikipedia",
@@ -47,6 +33,20 @@
             "Local time ": [
                 "Tuesday 247 PM"
             ]
+        },
+        "Þorlákshöfn": {
+            "label": "Þorlákshöfn",
+            "description": "Þorlákshöfn is a town on the southern coast of Iceland in the Municipality of Ölfus.\nThe town name is named after Þorlákur Helgi who was bishop at Skálholt. Wikipedia",
+            "type": "",
+            "Weather ": [
+                "42°F (6°C)",
+                " Wind SW at 8 mph (13 km/h)",
+                " 79% Humidity"
+            ],
+            "Local time ": [
+                "Tuesday 147 PM"
+            ],
+            "See results about": []
         },
         "Žarėnai": {
             "label": "Žarėnai",
@@ -68,6 +68,14 @@
             ],
             "Local time ": [
                 "Tuesday 247 PM"
+            ]
+        },
+        "Žemaičių Kalvarija": {
+            "label": "Žemaičių Kalvarija",
+            "description": "Žemaičių Kalvarija is a small town in Plungė district municipality, Lithuania. It is known as a major site for Catholic pilgrimage.\nEvery July the town hosts a large Church festival, known as the Great Žemaičių Kalvarija Festival. Wikipedia",
+            "type": "",
+            "Local time ": [
+                "Tuesday 347 PM"
             ]
         },
         "Židlochovice": {
@@ -95,12 +103,20 @@
                 "Tuesday 247 PM"
             ]
         },
-        "Žemaičių Kalvarija": {
-            "label": "Žemaičių Kalvarija",
-            "description": "Žemaičių Kalvarija is a small town in Plungė district municipality, Lithuania. It is known as a major site for Catholic pilgrimage.\nEvery July the town hosts a large Church festival, known as the Great Žemaičių Kalvarija Festival. Wikipedia",
+        "Abbeyfeale": {
+            "label": "Abbeyfeale",
+            "description": "Abbeyfeale is a historical market town in County Limerick, Ireland near the boundary with County Kerry. The town is in the south west of Ireland, some 21 km from Newcastle West on the N21 – the main road from Limerick to Tralee. Wikipedia",
             "type": "",
+            "Population ": [
+                "896 (1895)"
+            ],
+            "Weather ": [
+                "50°F (10°C)",
+                " Wind NW at 23 mph (37 km/h)",
+                " 62% Humidity"
+            ],
             "Local time ": [
-                "Tuesday 347 PM"
+                "Tuesday 147 PM"
             ]
         },
         "Aakirkeby": {
@@ -111,23 +127,6 @@
                 "37°F (3°C)",
                 " Wind NW at 21 mph (34 km/h)",
                 " 87% Humidity"
-            ],
-            "Local time ": [
-                "Tuesday 247 PM"
-            ]
-        },
-        "Abensberg": {
-            "label": "Abensberg",
-            "description": "Abensberg is a town in the Lower Bavarian district of Kelheim, in Bavaria, Germany, lying around 30 km southwest of Regensburg, 40 km east of Ingolstadt, 50 northwest of Landshut and 100 km north of Munich. Wikipedia",
-            "type": "",
-            "Population ": "12,629 (Dec 31, 2008)",
-            "Area ": [
-                "23.27 sq miles (60.28 km²)"
-            ],
-            "Weather ": [
-                "37°F (3°C)",
-                " Wind 0 mph (0 km/h)",
-                " 60% Humidity"
             ],
             "Local time ": [
                 "Tuesday 247 PM"
@@ -149,40 +148,21 @@
                 "Tuesday 147 PM"
             ]
         },
-        "Abbeyfeale": {
-            "label": "Abbeyfeale",
-            "description": "Abbeyfeale is a historical market town in County Limerick, Ireland near the boundary with County Kerry. The town is in the south west of Ireland, some 21 km from Newcastle West on the N21 – the main road from Limerick to Tralee. Wikipedia",
+        "Abensberg": {
+            "label": "Abensberg",
+            "description": "Abensberg is a town in the Lower Bavarian district of Kelheim, in Bavaria, Germany, lying around 30 km southwest of Regensburg, 40 km east of Ingolstadt, 50 northwest of Landshut and 100 km north of Munich. Wikipedia",
             "type": "",
-            "Population ": [
-                "896 (1895)"
-            ],
-            "Weather ": [
-                "50°F (10°C)",
-                " Wind NW at 23 mph (37 km/h)",
-                " 62% Humidity"
-            ],
-            "Local time ": [
-                "Tuesday 147 PM"
-            ]
-        },
-        "Ackley, Wisconsin": {
-            "label": "Ackley",
-            "description": "Ackley is a town in Langlade County, Wisconsin, United States. The population was 510 at the 2000 Census. The town was founded March 4, 1879. Wikipedia",
-            "type": "",
-            "Elevation ": [
-                "1",
-                "463' (446 m)"
-            ],
+            "Population ": "12,629 (Dec 31, 2008)",
             "Area ": [
-                "70.9 sq miles (183.6 km²)"
+                "23.27 sq miles (60.28 km²)"
             ],
             "Weather ": [
-                "6°F (-14°C)",
-                " Wind NW at 14 mph (23 km/h)",
-                " 65% Humidity"
+                "37°F (3°C)",
+                " Wind 0 mph (0 km/h)",
+                " 60% Humidity"
             ],
             "Local time ": [
-                "Tuesday 847 AM"
+                "Tuesday 247 PM"
             ]
         },
         "Acushnet, Massachusetts": {
@@ -203,6 +183,26 @@
             ],
             "Local time ": [
                 "Tuesday 947 AM"
+            ]
+        },
+        "Ackley, Wisconsin": {
+            "label": "Ackley",
+            "description": "Ackley is a town in Langlade County, Wisconsin, United States. The population was 510 at the 2000 Census. The town was founded March 4, 1879. Wikipedia",
+            "type": "",
+            "Elevation ": [
+                "1",
+                "463' (446 m)"
+            ],
+            "Area ": [
+                "70.9 sq miles (183.6 km²)"
+            ],
+            "Weather ": [
+                "6°F (-14°C)",
+                " Wind NW at 14 mph (23 km/h)",
+                " 65% Humidity"
+            ],
+            "Local time ": [
+                "Tuesday 847 AM"
             ]
         },
         "Adams, Massachusetts": {
@@ -260,22 +260,6 @@
                 "Tuesday 947 AM"
             ]
         },
-        "Addison Township, Somerset County, Pennsylvania": {
-            "label": "Addison Township",
-            "description": "Addison Township is a township in Somerset County, Pennsylvania, United States. The population was 1,019 at the 2000 census. It is part of the Johnstown, Pennsylvania Metropolitan Statistical Area. Wikipedia",
-            "type": "",
-            "Area ": [
-                "63.4 sq miles (164.2 km²)"
-            ],
-            "Weather ": [
-                "24°F (-4°C)",
-                " Wind SW at 3 mph (5 km/h)",
-                " 72% Humidity"
-            ],
-            "Local time ": [
-                "Tuesday 947 AM"
-            ]
-        },
         "Adams Township, Mower County, Minnesota": {
             "label": "Adams Township",
             "description": "Adams Township is a township in Mower County, Minnesota, United States. The population was 475 at the 2000 census. The largest town in the township is Adams with a population of 800 people. Wikipedia",
@@ -294,6 +278,22 @@
             ],
             "Local time ": [
                 "Tuesday 847 AM"
+            ]
+        },
+        "Addison Township, Somerset County, Pennsylvania": {
+            "label": "Addison Township",
+            "description": "Addison Township is a township in Somerset County, Pennsylvania, United States. The population was 1,019 at the 2000 census. It is part of the Johnstown, Pennsylvania Metropolitan Statistical Area. Wikipedia",
+            "type": "",
+            "Area ": [
+                "63.4 sq miles (164.2 km²)"
+            ],
+            "Weather ": [
+                "24°F (-4°C)",
+                " Wind SW at 3 mph (5 km/h)",
+                " 72% Humidity"
+            ],
+            "Local time ": [
+                "Tuesday 947 AM"
             ]
         },
         "Adelsheim": {
@@ -356,23 +356,6 @@
                 "Tuesday 847 AM"
             ]
         },
-        "Ahrensburg": {
-            "label": "Ahrensburg",
-            "description": "Ahrensburg is a town in Schleswig-Holstein, Germany. It is part of the Hamburg Metropolitan Region, situated in Stormarn. Its population around 31,700. Its outstanding sight is the Renaissance castle dating from 1595. Wikipedia",
-            "type": "",
-            "Population ": "30,907 (Dec 31, 2008)",
-            "Area ": [
-                "13.63 sq miles (35.3 km²)"
-            ],
-            "Weather ": [
-                "52°F (11°C)",
-                " Wind N at 2 mph (3 km/h)",
-                " 50% Humidity"
-            ],
-            "Local time ": [
-                "Tuesday 247 PM"
-            ]
-        },
         "Aguilar, Colorado": {
             "label": "Aguilar",
             "description": "The Town of Aguilar is a Statutory Town located in Las Animas County, Colorado, United States. Cattleman and prominent pioneer José Ramón Aguilar founded the town in 1894. The population was 593 at the 2000 census. Wikipedia",
@@ -391,6 +374,35 @@
             "Population ": [
                 "518 (2012)"
             ]
+        },
+        "Ahrensburg": {
+            "label": "Ahrensburg",
+            "description": "Ahrensburg is a town in Schleswig-Holstein, Germany. It is part of the Hamburg Metropolitan Region, situated in Stormarn. Its population around 31,700. Its outstanding sight is the Renaissance castle dating from 1595. Wikipedia",
+            "type": "",
+            "Population ": "30,907 (Dec 31, 2008)",
+            "Area ": [
+                "13.63 sq miles (35.3 km²)"
+            ],
+            "Weather ": [
+                "52°F (11°C)",
+                " Wind N at 2 mph (3 km/h)",
+                " 50% Humidity"
+            ],
+            "Local time ": [
+                "Tuesday 247 PM"
+            ]
+        },
+        "Aizkraukle": {
+            "label": "Aizkraukle",
+            "description": "Aizkraukle is a town in Vidzeme region in Latvia, the administrative centre of Aizkraukle municipality on the right bank of the Daugava River. Wikipedia",
+            "type": "",
+            "Area ": [
+                "4.568 sq miles (11.83 km²)"
+            ],
+            "Local time ": [
+                "Tuesday 348 PM"
+            ],
+            "See results about": []
         },
         "Akan, Wisconsin": {
             "label": "Akan",
@@ -412,18 +424,6 @@
                 "Tuesday 848 AM"
             ]
         },
-        "Aizkraukle": {
-            "label": "Aizkraukle",
-            "description": "Aizkraukle is a town in Vidzeme region in Latvia, the administrative centre of Aizkraukle municipality on the right bank of the Daugava River. Wikipedia",
-            "type": "",
-            "Area ": [
-                "4.568 sq miles (11.83 km²)"
-            ],
-            "Local time ": [
-                "Tuesday 348 PM"
-            ],
-            "See results about": []
-        },
         "Akron, Colorado": {
             "label": "Akron",
             "description": "The Town of Akron is a Statutory Town that is the county seat and the most populous town of Washington County, in the U.S. State of Colorado. The town population was 1,702 at the U.S. Census 2010. Wikipedia",
@@ -444,6 +444,25 @@
                 "686 (2012)"
             ]
         },
+        "Alabaster Township, Michigan": {
+            "label": "Alabaster Township",
+            "description": "Alabaster Township is a civil township of Iosco County in the U.S. state of Michigan. the 2010 census has the township population of 487.\nAlabaster Township was established in 1866. Wikipedia",
+            "type": "",
+            "Elevation ": [
+                "633' (193 m)"
+            ],
+            "Area ": [
+                "22.1 sq miles (57.24 km²)"
+            ],
+            "Weather ": [
+                "21°F (-6°C)",
+                " Wind NW at 3 mph (5 km/h)",
+                " 82% Humidity"
+            ],
+            "Local time ": [
+                "Tuesday 948 AM"
+            ]
+        },
         "Alamo, Tennessee": {
             "label": "Alamo",
             "description": "Alamo is a town in Crockett County, Tennessee. Its population was 2,461 at the time of the 2010 U.S. Census. Alamo, for historical reasons, is the county seat of Crockett County. Wikipedia",
@@ -462,25 +481,6 @@
             "Population ": [
                 "2",
                 "460 (2012)"
-            ]
-        },
-        "Alabaster Township, Michigan": {
-            "label": "Alabaster Township",
-            "description": "Alabaster Township is a civil township of Iosco County in the U.S. state of Michigan. the 2010 census has the township population of 487.\nAlabaster Township was established in 1866. Wikipedia",
-            "type": "",
-            "Elevation ": [
-                "633' (193 m)"
-            ],
-            "Area ": [
-                "22.1 sq miles (57.24 km²)"
-            ],
-            "Weather ": [
-                "21°F (-6°C)",
-                " Wind NW at 3 mph (5 km/h)",
-                " 82% Humidity"
-            ],
-            "Local time ": [
-                "Tuesday 948 AM"
             ]
         },
         "Alamo Heights, Texas": {
@@ -624,25 +624,6 @@
                 "185 (2012)"
             ]
         },
-        "Albion, Washington": {
-            "label": "Albion",
-            "description": "Albion is a town in Whitman County, Washington, United States. The population was 579 at the 2010 census. Wikipedia",
-            "type": "",
-            "Area ": [
-                "230 acres (93 ha)"
-            ],
-            "Weather ": [
-                "44°F (7°C)",
-                " Wind SE at 7 mph (11 km/h)",
-                " 44% Humidity"
-            ],
-            "Local time ": [
-                "Tuesday 648 AM"
-            ],
-            "Population ": [
-                "583 (2012)"
-            ]
-        },
         "Albion, Indiana": {
             "label": "Albion",
             "description": "Albion is a town in Albion and Jefferson townships, Noble County, Indiana, United States. The population was 2,349 at the 2010 census. The city is the county seat of Noble County. Wikipedia",
@@ -661,6 +642,25 @@
             "Population ": [
                 "2",
                 "346 (2012)"
+            ]
+        },
+        "Albion, Washington": {
+            "label": "Albion",
+            "description": "Albion is a town in Whitman County, Washington, United States. The population was 579 at the 2010 census. Wikipedia",
+            "type": "",
+            "Area ": [
+                "230 acres (93 ha)"
+            ],
+            "Weather ": [
+                "44°F (7°C)",
+                " Wind SE at 7 mph (11 km/h)",
+                " 44% Humidity"
+            ],
+            "Local time ": [
+                "Tuesday 648 AM"
+            ],
+            "Population ": [
+                "583 (2012)"
             ]
         },
         "Albion Township, Wright County, Minnesota": {
@@ -718,6 +718,25 @@
                 "Tuesday 948 AM"
             ]
         },
+        "Alderson, Oklahoma": {
+            "label": "Alderson",
+            "description": "Alderson is a town in Pittsburg County, Oklahoma, United States. The population was 304 at the 2010 census. Wikipedia",
+            "type": "",
+            "Area ": [
+                "320 acres (129 ha)"
+            ],
+            "Weather ": [
+                "32°F (0°C)",
+                " Wind 0 mph (0 km/h)",
+                " 89% Humidity"
+            ],
+            "Local time ": [
+                "Tuesday 848 AM"
+            ],
+            "Population ": [
+                "296 (2012)"
+            ]
+        },
         "Alden Township, St. Louis County, Minnesota": {
             "label": "Alden Township",
             "description": "Alden Township is a township in Saint Louis County, Minnesota, United States. The population was 213 at the 2010 census.\nSaint Louis County Road 266, Laine Road, Rossini Road, and Two Harbors Road pass through the township. Wikipedia",
@@ -738,25 +757,6 @@
                 "Tuesday 848 AM"
             ]
         },
-        "Alderson, Oklahoma": {
-            "label": "Alderson",
-            "description": "Alderson is a town in Pittsburg County, Oklahoma, United States. The population was 304 at the 2010 census. Wikipedia",
-            "type": "",
-            "Area ": [
-                "320 acres (129 ha)"
-            ],
-            "Weather ": [
-                "32°F (0°C)",
-                " Wind 0 mph (0 km/h)",
-                " 89% Humidity"
-            ],
-            "Local time ": [
-                "Tuesday 848 AM"
-            ],
-            "Population ": [
-                "296 (2012)"
-            ]
-        },
         "Alexandria, Tennessee": {
             "label": "Alexandria",
             "description": "Alexandria is a town in DeKalb County, Tennessee, United States. The population was 966 at the 2010 census. Wikipedia",
@@ -774,26 +774,6 @@
             ],
             "Population ": [
                 "973 (2012)"
-            ]
-        },
-        "Alfsborg Township, Sibley County, Minnesota": {
-            "label": "Alfsborg Township",
-            "description": "Alfsborg Township is a township in Sibley County, Minnesota, United States. The population was 356 at the 2000 census. Wikipedia",
-            "type": "",
-            "Elevation ": [
-                "1",
-                "001' (305 m)"
-            ],
-            "Area ": [
-                "35.1 sq miles (90.91 km²)"
-            ],
-            "Weather ": [
-                "13°F (-11°C)",
-                " Wind NW at 8 mph (13 km/h)",
-                " 63% Humidity"
-            ],
-            "Local time ": [
-                "Tuesday 848 AM"
             ]
         },
         "Alexandria Township, New Jersey": {
@@ -820,20 +800,21 @@
             ],
             "See results about": []
         },
-        "Algoma, Winnebago County, Wisconsin": {
-            "label": "Algoma",
-            "description": "Algoma is a town in Winnebago County, Wisconsin, United States. The population was 6,822 at the 2010 census. The unincorporated communities of Highland Shore, Leonards Point, Melrose Park, and Oakwood are located in the town. Wikipedia",
+        "Alfsborg Township, Sibley County, Minnesota": {
+            "label": "Alfsborg Township",
+            "description": "Alfsborg Township is a township in Sibley County, Minnesota, United States. The population was 356 at the 2000 census. Wikipedia",
             "type": "",
             "Elevation ": [
-                "781' (238 m)"
+                "1",
+                "001' (305 m)"
             ],
             "Area ": [
-                "11.16 sq miles (28.9 km²)"
+                "35.1 sq miles (90.91 km²)"
             ],
             "Weather ": [
-                "19°F (-7°C)",
-                " Wind SW at 3 mph (5 km/h)",
-                " 55% Humidity"
+                "13°F (-11°C)",
+                " Wind NW at 8 mph (13 km/h)",
+                " 63% Humidity"
             ],
             "Local time ": [
                 "Tuesday 848 AM"
@@ -853,6 +834,25 @@
             ],
             "Local time ": [
                 "Tuesday 948 AM"
+            ]
+        },
+        "Algoma, Winnebago County, Wisconsin": {
+            "label": "Algoma",
+            "description": "Algoma is a town in Winnebago County, Wisconsin, United States. The population was 6,822 at the 2010 census. The unincorporated communities of Highland Shore, Leonards Point, Melrose Park, and Oakwood are located in the town. Wikipedia",
+            "type": "",
+            "Elevation ": [
+                "781' (238 m)"
+            ],
+            "Area ": [
+                "11.16 sq miles (28.9 km²)"
+            ],
+            "Weather ": [
+                "19°F (-7°C)",
+                " Wind SW at 3 mph (5 km/h)",
+                " 55% Humidity"
+            ],
+            "Local time ": [
+                "Tuesday 848 AM"
             ]
         },
         "Allegheny Township, Venango County, Pennsylvania": {
@@ -1155,25 +1155,6 @@
                 "Tuesday 848 AM"
             ]
         },
-        "Amber, Oklahoma": {
-            "label": "Amber",
-            "description": "Amber is a town in Grady County, Oklahoma, United States. The population was 419 at the 2010 census. Wikipedia",
-            "type": "",
-            "Area ": [
-                "3.9 sq miles (10.1 km²)"
-            ],
-            "Weather ": [
-                "30°F (-1°C)",
-                " Wind W at 5 mph (8 km/h)",
-                " 93% Humidity"
-            ],
-            "Local time ": [
-                "Tuesday 848 AM"
-            ],
-            "Population ": [
-                "430 (2012)"
-            ]
-        },
         "Amalga, Utah": {
             "label": "Amalga",
             "description": "Amalga is a town in Cache County, Utah, United States. The population was 488 at the 2010 census. It is included in the Logan, Utah-Idaho Metropolitan Statistical Area. Wikipedia",
@@ -1191,6 +1172,25 @@
             ],
             "Population ": [
                 "497 (2012)"
+            ]
+        },
+        "Amber, Oklahoma": {
+            "label": "Amber",
+            "description": "Amber is a town in Grady County, Oklahoma, United States. The population was 419 at the 2010 census. Wikipedia",
+            "type": "",
+            "Area ": [
+                "3.9 sq miles (10.1 km²)"
+            ],
+            "Weather ": [
+                "30°F (-1°C)",
+                " Wind W at 5 mph (8 km/h)",
+                " 93% Humidity"
+            ],
+            "Local time ": [
+                "Tuesday 848 AM"
+            ],
+            "Population ": [
+                "430 (2012)"
             ]
         },
         "Amber Township, Michigan": {
@@ -1249,6 +1249,26 @@
             ],
             "Colleges and Universities": []
         },
+        "Amiret Township, Lyon County, Minnesota": {
+            "label": "Amiret Township",
+            "description": "Amiret Township is a township in Lyon County, Minnesota, United States. The population was 230 at the 2000 census. Wikipedia",
+            "type": "",
+            "Elevation ": [
+                "1",
+                "207' (368 m)"
+            ],
+            "Area ": [
+                "36.3 sq miles (94.02 km²)"
+            ],
+            "Weather ": [
+                "13°F (-11°C)",
+                " Wind NW at 13 mph (21 km/h)",
+                " 67% Humidity"
+            ],
+            "Local time ": [
+                "Tuesday 848 AM"
+            ]
+        },
         "Amity, Maine": {
             "label": "Amity",
             "description": "Amity is a town in Aroostook County, Maine, United States. The population was 238 at the 2010 census. Wikipedia",
@@ -1269,26 +1289,6 @@
             ],
             "Local time ": [
                 "Tuesday 948 AM"
-            ]
-        },
-        "Amiret Township, Lyon County, Minnesota": {
-            "label": "Amiret Township",
-            "description": "Amiret Township is a township in Lyon County, Minnesota, United States. The population was 230 at the 2000 census. Wikipedia",
-            "type": "",
-            "Elevation ": [
-                "1",
-                "207' (368 m)"
-            ],
-            "Area ": [
-                "36.3 sq miles (94.02 km²)"
-            ],
-            "Weather ": [
-                "13°F (-11°C)",
-                " Wind NW at 13 mph (21 km/h)",
-                " 67% Humidity"
-            ],
-            "Local time ": [
-                "Tuesday 848 AM"
             ]
         },
         "Amo, Indiana": {
@@ -1330,6 +1330,22 @@
                 "Tuesday 848 AM"
             ]
         },
+        "Ancram, New York": {
+            "label": "Ancram",
+            "description": "Ancram, New York is a town in Columbia County, New York, United States. The population was 1,573 at the 2010 census. The town was named after a location in Scotland.\nThe Town of Ancram is in the eastern part of the county. Wikipedia",
+            "type": "",
+            "Area ": [
+                "42.8 sq miles (110.9 km²)"
+            ],
+            "Weather ": [
+                "24°F (-4°C)",
+                " Wind SE at 1 mph (2 km/h)",
+                " 61% Humidity"
+            ],
+            "Local time ": [
+                "Tuesday 948 AM"
+            ]
+        },
         "Andernach": {
             "label": "Andernach",
             "description": "Andernach is a town in the district of Mayen-Koblenz, in Rhineland-Palatinate, Germany, of currently about 30,000 inhabitants. Wikipedia",
@@ -1367,22 +1383,6 @@
                 "Tuesday 848 AM"
             ]
         },
-        "Ancram, New York": {
-            "label": "Ancram",
-            "description": "Ancram, New York is a town in Columbia County, New York, United States. The population was 1,573 at the 2010 census. The town was named after a location in Scotland.\nThe Town of Ancram is in the eastern part of the county. Wikipedia",
-            "type": "",
-            "Area ": [
-                "42.8 sq miles (110.9 km²)"
-            ],
-            "Weather ": [
-                "24°F (-4°C)",
-                " Wind SE at 1 mph (2 km/h)",
-                " 61% Humidity"
-            ],
-            "Local time ": [
-                "Tuesday 948 AM"
-            ]
-        },
         "Andover, New Hampshire": {
             "label": "Andover",
             "description": "Andover is a town in Merrimack County, New Hampshire, United States. The population was 2,371 at the 2010 census. Andover includes the villages of Cilleyville, Potter Place, and East Andover, in addition to the town center. Wikipedia",
@@ -1403,20 +1403,6 @@
                 "Tuesday 948 AM"
             ]
         },
-        "Anguilla, Mississippi": {
-            "label": "Anguilla",
-            "description": "Anguilla is a town in Sharkey County, Mississippi. The population was 726 at the 2010 census. Wikipedia",
-            "type": "",
-            "Area ": [
-                "640 acres (259 ha)"
-            ],
-            "Local time ": [
-                "Tuesday 849 AM"
-            ],
-            "Population ": [
-                "708 (2012)"
-            ]
-        },
         "Angier, North Carolina": {
             "label": "Angier",
             "description": "Angier is a town in the Black River Township of Harnett County, North Carolina, United States. The population was 4,350 at the 2010 census. Wikipedia",
@@ -1435,6 +1421,20 @@
             ],
             "Local time ": [
                 "Tuesday 948 AM"
+            ]
+        },
+        "Anguilla, Mississippi": {
+            "label": "Anguilla",
+            "description": "Anguilla is a town in Sharkey County, Mississippi. The population was 726 at the 2010 census. Wikipedia",
+            "type": "",
+            "Area ": [
+                "640 acres (259 ha)"
+            ],
+            "Local time ": [
+                "Tuesday 849 AM"
+            ],
+            "Population ": [
+                "708 (2012)"
             ]
         },
         "Ann Township, Cottonwood County, Minnesota": {
@@ -1525,34 +1525,6 @@
                 "406 (2012)"
             ]
         },
-        "Antimony, Utah": {
-            "label": "Antimony",
-            "description": "Antimony is a town in Garfield County, Utah, United States. The population was 122 at the 2010 census, the same as the 2000 census. Wikipedia",
-            "type": "",
-            "Area ": [
-                "10.1 sq miles (26.16 km²)"
-            ],
-            "Local time ": [
-                "Tuesday 749 AM"
-            ],
-            "Population ": [
-                "119 (2012)"
-            ]
-        },
-        "Antonito, Colorado": {
-            "label": "Antonito",
-            "description": "The Town of Antonito is a statutory town located in Conejos County, Colorado, United States. At the 2000 census, the town's population was 873. Wikipedia",
-            "type": "",
-            "Area ": [
-                "256 acres (104 ha)"
-            ],
-            "Local time ": [
-                "Tuesday 749 AM"
-            ],
-            "Population ": [
-                "779 (2012)"
-            ]
-        },
         "Anthony Township, Montour County, Pennsylvania": {
             "label": "Anthony Township",
             "description": "Anthony Township is a township in Montour County, Pennsylvania, United States. The population was 1,388 at the 2000 census. Wikipedia",
@@ -1567,6 +1539,50 @@
             ],
             "Local time ": [
                 "Tuesday 949 AM"
+            ]
+        },
+        "Antimony, Utah": {
+            "label": "Antimony",
+            "description": "Antimony is a town in Garfield County, Utah, United States. The population was 122 at the 2010 census, the same as the 2000 census. Wikipedia",
+            "type": "",
+            "Area ": [
+                "10.1 sq miles (26.16 km²)"
+            ],
+            "Local time ": [
+                "Tuesday 749 AM"
+            ],
+            "Population ": [
+                "119 (2012)"
+            ]
+        },
+        "Antis Township, Blair County, Pennsylvania": {
+            "label": "Antis Township",
+            "description": "Antis Township is a township in Blair County, Pennsylvania, United States. The population was 6,499 at the 2010 census. Wikipedia",
+            "type": "",
+            "Area ": [
+                "61.08 sq miles (158.2 km²)"
+            ],
+            "Weather ": [
+                "23°F (-5°C)",
+                " Wind SE at 1 mph (2 km/h)",
+                " 68% Humidity"
+            ],
+            "Local time ": [
+                "Tuesday 949 AM"
+            ]
+        },
+        "Antonito, Colorado": {
+            "label": "Antonito",
+            "description": "The Town of Antonito is a statutory town located in Conejos County, Colorado, United States. At the 2000 census, the town's population was 873. Wikipedia",
+            "type": "",
+            "Area ": [
+                "256 acres (104 ha)"
+            ],
+            "Local time ": [
+                "Tuesday 749 AM"
+            ],
+            "Population ": [
+                "779 (2012)"
             ]
         },
         "Antwerp Township, Michigan": {
@@ -1588,20 +1604,24 @@
                 "Tuesday 949 AM"
             ]
         },
-        "Antis Township, Blair County, Pennsylvania": {
-            "label": "Antis Township",
-            "description": "Antis Township is a township in Blair County, Pennsylvania, United States. The population was 6,499 at the 2010 census. Wikipedia",
+        "Apache, Oklahoma": {
+            "label": "Apache",
+            "description": "Apache is a town in Caddo County, Oklahoma, USA. The population was 1,444 at the 2010 census. Wikipedia",
             "type": "",
             "Area ": [
-                "61.08 sq miles (158.2 km²)"
+                "2 sq miles (5.18 km²)"
             ],
             "Weather ": [
-                "23°F (-5°C)",
-                " Wind SE at 1 mph (2 km/h)",
-                " 68% Humidity"
+                "34°F (1°C)",
+                " Wind NW at 5 mph (8 km/h)",
+                " 74% Humidity"
+            ],
+            "Population ": [
+                "1",
+                "448 (2012)"
             ],
             "Local time ": [
-                "Tuesday 949 AM"
+                "Tuesday 849 AM"
             ]
         },
         "Arago Township, Hubbard County, Minnesota": {
@@ -1659,26 +1679,6 @@
                 "Tuesday 949 AM"
             ]
         },
-        "Apache, Oklahoma": {
-            "label": "Apache",
-            "description": "Apache is a town in Caddo County, Oklahoma, USA. The population was 1,444 at the 2010 census. Wikipedia",
-            "type": "",
-            "Area ": [
-                "2 sq miles (5.18 km²)"
-            ],
-            "Weather ": [
-                "34°F (1°C)",
-                " Wind NW at 5 mph (8 km/h)",
-                " 74% Humidity"
-            ],
-            "Population ": [
-                "1",
-                "448 (2012)"
-            ],
-            "Local time ": [
-                "Tuesday 849 AM"
-            ]
-        },
         "Arcadia, Oklahoma": {
             "label": "Arcadia",
             "description": "Arcadia is a town in Oklahoma County, Oklahoma, United States, and a part of the Oklahoma City metropolitan area. The population was 247 at the 2010 census, a decrease of 11.5 percent from 279 at the 285 at the 2000 census. Wikipedia",
@@ -1720,32 +1720,67 @@
         }
     },
     "summary": {
-        "label": 97,
-        "description": 97,
-        "type": 97,
-        "area": 1,
-        "weather": 1,
-        "local_time": 1,
-        "points_of_interest": 1,
-        "see_results_about": 1,
-        "population": 1,
-        "elevation": 1,
-        "people_also_search_for": 1,
-        "capital": 1,
-        "currency": 1,
-        "continent": 1,
-        "president": 1,
-        "national_anthem": 1,
-        "government": 1,
-        "destinations": 1,
-        "address": 1,
-        "hours": 1,
-        "unemployment_rate": 1,
-        "colleges_and_universities": 1
+        "label": {
+            "uri": "http://dbpedia.org/property/label",
+            "count": 97
+        },
+        "description": {
+            "uri": "http://dbpedia.org/property/description",
+            "count": 97
+        },
+        "type": {
+            "uri": "http://dbpedia.org/property/type",
+            "count": 97
+        },
+        "area": {
+            "uri": "http://dbpedia.org/property/area",
+            "count": 86
+        },
+        "population": {
+            "uri": "http://dbpedia.org/property/population",
+            "count": 47
+        },
+        "elevation": {
+            "uri": "http://dbpedia.org/property/elevation",
+            "count": 28
+        },
+        "capital": {
+            "uri": "http://dbpedia.org/property/capital",
+            "count": 1
+        },
+        "currency": {
+            "uri": "http://dbpedia.org/property/currency",
+            "count": 1
+        },
+        "continent": {
+            "uri": "http://dbpedia.org/property/continent",
+            "count": 1
+        },
+        "government": {
+            "uri": "http://dbpedia.org/property/government",
+            "count": 1
+        },
+        "address": {
+            "uri": "http://dbpedia.org/property/address",
+            "count": 1
+        }
     },
     "infoboxless": [
         "Akron Township, Michigan",
         "Altenburg",
         "Alvwood Township, Itasca County, Minnesota"
-    ]
+    ],
+    "Unmapped_Properties": {
+        "weather": 1,
+        "localTime": 1,
+        "pointsOfInterest": 1,
+        "seeResultsAbout": 1,
+        "peopleAlsoSearchFor": 1,
+        "president": 1,
+        "nationalAnthem": 1,
+        "destinations": 1,
+        "hours": 1,
+        "unemploymentRate": 1,
+        "collegesAndUniversities": 1
+    }
 }

@@ -14,34 +14,6 @@
                 "Mörrumsån"
             ]
         },
-        "Śniardwy": {
-            "label": "Śniardwy",
-            "description": "Śniardwy is a lake in the Masurian Lake District of the Warmian-Masurian Voivodeship, Poland. It is the largest lake in Poland with an area of 113.8 square kilometres. It is 22.1 kilometres long and 13.4 kilometres wide. Wikipedia",
-            "type": "",
-            "Surface elevation ": [
-                "384' (117 m)"
-            ],
-            "Area ": [
-                "43.94 sq miles (113.8 km²)"
-            ],
-            "Length ": [
-                "13.73 miles (22.1 km)"
-            ],
-            "Width ": [
-                "8.326 miles (13.4 km)"
-            ],
-            "Mean depth ": [
-                "21' 4\" (6.50 m)"
-            ]
-        },
-        "Aalkistensee": {
-            "label": "Aalkistensee",
-            "description": "Aalkistensee is a lake in Kraichgau, Baden-Württemberg, Germany. At an elevation of ca 250 m, its surface area is 0.136 km². Wikipedia",
-            "type": "",
-            "Area ": [
-                "34 acres (14 ha)"
-            ]
-        },
         "Öskjuvatn": {
             "label": "Öskjuvatn",
             "description": "Öskjuvatn is a lake in the Highlands of Iceland. Its surface area is about 11 km². With a depth of 217 m, it is the second deepest lake in Iceland after Jökulsárlón. Wikipedia",
@@ -78,6 +50,26 @@
             ],
             "People also search for": []
         },
+        "Śniardwy": {
+            "label": "Śniardwy",
+            "description": "Śniardwy is a lake in the Masurian Lake District of the Warmian-Masurian Voivodeship, Poland. It is the largest lake in Poland with an area of 113.8 square kilometres. It is 22.1 kilometres long and 13.4 kilometres wide. Wikipedia",
+            "type": "",
+            "Surface elevation ": [
+                "384' (117 m)"
+            ],
+            "Area ": [
+                "43.94 sq miles (113.8 km²)"
+            ],
+            "Length ": [
+                "13.73 miles (22.1 km)"
+            ],
+            "Width ": [
+                "8.326 miles (13.4 km)"
+            ],
+            "Mean depth ": [
+                "21' 4\" (6.50 m)"
+            ]
+        },
         "Štěchovice Reservoir": {
             "label": "Štěchovice Reservoir",
             "description": "Štěchovice Reservoir is a dam on Vltava River built during 1937 - 1945 as the second stage of the Vltava Cascade. The dam is named after nearby village Štěchovice. Wikipedia",
@@ -86,12 +78,65 @@
                 "236 acres (96 ha)"
             ]
         },
+        "Aalkistensee": {
+            "label": "Aalkistensee",
+            "description": "Aalkistensee is a lake in Kraichgau, Baden-Württemberg, Germany. At an elevation of ca 250 m, its surface area is 0.136 km². Wikipedia",
+            "type": "",
+            "Area ": [
+                "34 acres (14 ha)"
+            ]
+        },
         "Aasee (Bocholt)": {
             "label": "Aasee",
             "description": "Aasee is a lake in Bocholt, Kreis Borken, North Rhine-Westphalia, Germany. At an elevation of 23.8 meter, its surface area is 0.32 km². Wikipedia",
             "type": "",
             "Area ": [
                 "79 acres (32 ha)"
+            ]
+        },
+        "Achit Lake": {
+            "label": "Achit Lake",
+            "description": "Achit Lake is the largest freshwater lake in the Uvs Aimag of Mongolia, in the west of the country. At an elevation of 1,435 m above sea level it covers an area of 290 km². It is 28 km long, 16 km wide, and 10 m deep. Wikipedia",
+            "type": "",
+            "Surface elevation ": [
+                "4",
+                "708' (1",
+                "435 m)"
+            ],
+            "Area ": [
+                "112 sq miles (290 km²)"
+            ],
+            "Length ": [
+                "17.4 miles (28 km)"
+            ],
+            "Width ": [
+                "9.942 miles (16 km)"
+            ]
+        },
+        "Adolfosee": {
+            "label": "Adolfosee",
+            "description": "Adolfosee is a lake in North Rhine-Westphalia, Germany. At an elevation of 39 m, its surface area is 0.307 km². Wikipedia",
+            "type": "",
+            "Surface elevation ": [
+                "128' (39 m)"
+            ],
+            "Area ": [
+                "76 acres (31 ha)"
+            ],
+            "People also search for": []
+        },
+        "Aibi Lake": {
+            "label": "Aibi Lake",
+            "description": "Aibi Lake is a rift lake in north west China, near the border to Kazakhstan. Lying at the southeast end of the Dzungarian Gate, it is the catchment center of the southwestern part of the Dzungarian Basin. Wikipedia",
+            "type": "",
+            "Surface elevation ": [
+                "620' (189 m)"
+            ],
+            "Area ": [
+                "193.1 sq miles (500 km²)"
+            ],
+            "Mean depth ": [
+                "4' 7\" (1.40 m)"
             ]
         },
         "Akkajaure": {
@@ -116,25 +161,6 @@
             ],
             "Outflow location ": [
                 "Lule River"
-            ]
-        },
-        "Achit Lake": {
-            "label": "Achit Lake",
-            "description": "Achit Lake is the largest freshwater lake in the Uvs Aimag of Mongolia, in the west of the country. At an elevation of 1,435 m above sea level it covers an area of 290 km². It is 28 km long, 16 km wide, and 10 m deep. Wikipedia",
-            "type": "",
-            "Surface elevation ": [
-                "4",
-                "708' (1",
-                "435 m)"
-            ],
-            "Area ": [
-                "112 sq miles (290 km²)"
-            ],
-            "Length ": [
-                "17.4 miles (28 km)"
-            ],
-            "Width ": [
-                "9.942 miles (16 km)"
             ]
         },
         "Allner See": {
@@ -166,29 +192,31 @@
                 "492 feet (150 m)"
             ]
         },
-        "Aibi Lake": {
-            "label": "Aibi Lake",
-            "description": "Aibi Lake is a rift lake in north west China, near the border to Kazakhstan. Lying at the southeast end of the Dzungarian Gate, it is the catchment center of the southwestern part of the Dzungarian Basin. Wikipedia",
+        "Amsoldingersee": {
+            "label": "Amsoldingersee",
+            "description": "Amsoldingersee is small lake adjacent to the town of Amsoldingen, in the Upper Gürbetal. It is located near the city of Thun, Switzerland. The lake has a surface area of 38 hectares and a maximum length of 1.1 km and width of 500 m. Wikipedia",
             "type": "",
             "Surface elevation ": [
-                "620' (189 m)"
+                "2",
+                "103' (641 m)"
             ],
             "Area ": [
-                "193.1 sq miles (500 km²)"
+                "94 acres (38 ha)"
             ],
-            "Mean depth ": [
-                "4' 7\" (1.40 m)"
-            ]
-        },
-        "Arlesheimer See": {
-            "label": "Arlesheimer See",
-            "description": "Arlesheimer See is a lake in Baden-Württemberg, Germany. At an elevation of 212 m, its surface area is 0.060 km². Wikipedia",
-            "type": "",
-            "Surface elevation ": [
-                "696' (212 m)"
+            "Length ": [
+                "3",
+                "609 feet (1",
+                "100 m)"
             ],
-            "Area ": [
-                "15 acres (6 ha)"
+            "Width ": [
+                "1",
+                "640 feet (500 m)"
+            ],
+            "Catchment area ": [
+                "1.622 sq miles (4.202 km²)"
+            ],
+            "Cities ": [
+                "Amsoldingen"
             ],
             "People also search for": []
         },
@@ -208,6 +236,18 @@
             "Outflow location ": [
                 "Miass River"
             ]
+        },
+        "Arlesheimer See": {
+            "label": "Arlesheimer See",
+            "description": "Arlesheimer See is a lake in Baden-Württemberg, Germany. At an elevation of 212 m, its surface area is 0.060 km². Wikipedia",
+            "type": "",
+            "Surface elevation ": [
+                "696' (212 m)"
+            ],
+            "Area ": [
+                "15 acres (6 ha)"
+            ],
+            "People also search for": []
         },
         "Artillery Lake": {
             "label": "Artillery Lake",
@@ -456,15 +496,6 @@
                 "36.04 miles (58 km)"
             ]
         },
-        "Colico Lake": {
-            "label": "Colico Lake",
-            "description": "Colico Lake is located in the La Araucanía Region of Chile. The neighboring Caburgua Lake lies to the east of the lake and the Villarrica Lake to the south. Wikipedia",
-            "type": "",
-            "Area ": [
-                "21.62 sq miles (56 km²)"
-            ],
-            "People also search for": []
-        },
         "Cockshoot Broad": {
             "label": "Cockshoot Broad",
             "description": "Cockshoot Broad, one of the Norfolk Broads, lies on the River Bure within The Broads National Park in Norfolk, England. It is one of several Broads where boats are not allowed at any time of the year, although they can moor at its entrance. Wikipedia",
@@ -474,6 +505,15 @@
             ],
             "Outflow location ": [
                 "River Bure"
+            ],
+            "People also search for": []
+        },
+        "Colico Lake": {
+            "label": "Colico Lake",
+            "description": "Colico Lake is located in the La Araucanía Region of Chile. The neighboring Caburgua Lake lies to the east of the lake and the Villarrica Lake to the south. Wikipedia",
+            "type": "",
+            "Area ": [
+                "21.62 sq miles (56 km²)"
             ],
             "People also search for": []
         },
@@ -496,6 +536,17 @@
                 "Saskatchewan"
             ],
             "See results about": []
+        },
+        "Czarny Staw pod Rysami": {
+            "label": "Czarny Staw pod Rysami",
+            "description": "Czarny Staw pod Rysami is a mountain lake on the Polish side of Mount Rysy in the Tatra mountains. At 1,583 m above sea level, it overlooks the nearby lake of Morskie Oko. Its maximum depth is 76 m. Wikipedia",
+            "type": "",
+            "Surface elevation ": [
+                "5",
+                "194' (1",
+                "583 m)"
+            ],
+            "People also search for": []
         },
         "Dörgön Lake": {
             "label": "Dörgön Lake",
@@ -521,45 +572,6 @@
             "Inflow source ": [
                 "Khar Lake"
             ]
-        },
-        "Amsoldingersee": {
-            "label": "Amsoldingersee",
-            "description": "Amsoldingersee is small lake adjacent to the town of Amsoldingen, in the Upper Gürbetal. It is located near the city of Thun, Switzerland. The lake has a surface area of 38 hectares and a maximum length of 1.1 km and width of 500 m. Wikipedia",
-            "type": "",
-            "Surface elevation ": [
-                "2",
-                "103' (641 m)"
-            ],
-            "Area ": [
-                "94 acres (38 ha)"
-            ],
-            "Length ": [
-                "3",
-                "609 feet (1",
-                "100 m)"
-            ],
-            "Width ": [
-                "1",
-                "640 feet (500 m)"
-            ],
-            "Catchment area ": [
-                "1.622 sq miles (4.202 km²)"
-            ],
-            "Cities ": [
-                "Amsoldingen"
-            ],
-            "People also search for": []
-        },
-        "Czarny Staw pod Rysami": {
-            "label": "Czarny Staw pod Rysami",
-            "description": "Czarny Staw pod Rysami is a mountain lake on the Polish side of Mount Rysy in the Tatra mountains. At 1,583 m above sea level, it overlooks the nearby lake of Morskie Oko. Its maximum depth is 76 m. Wikipedia",
-            "type": "",
-            "Surface elevation ": [
-                "5",
-                "194' (1",
-                "583 m)"
-            ],
-            "People also search for": []
         },
         "Derwent Reservoir (Derbyshire)": {
             "label": "Derwent Reservoir",
@@ -604,30 +616,16 @@
             ],
             "People also search for": []
         },
-        "Dongting Lake": {
-            "label": "Dongting Lake",
-            "description": "Dongting Lake, or Lake Dongting is a large, shallow lake in northeastern Hu'nan province, China. It is a flood basin of the Yangtze River. Hence the lake's size depends on the season. Wikipedia",
+        "Dittligsee": {
+            "label": "Dittligsee",
+            "description": "Dittligsee is a lake in the Canton of Berne, Switzerland, near Blumenstein and Wattenwil. Its surface area is 6.02 ha. Wikipedia",
             "type": "",
+            "Surface elevation ": [
+                "2",
+                "139' (652 m)"
+            ],
             "Area ": [
-                "1",
-                "089 sq miles (2",
-                "820 km²)"
-            ],
-            "Province ": [
-                "Hunan"
-            ],
-            "Outflow location ": [
-                "Yangtze River"
-            ],
-            "Bridges ": [
-                "Dongting Lake Bridge"
-            ],
-            "Inflow source ": [
-                "Zi River",
-                " Xiang River",
-                " Yangtze River",
-                " Lishui River",
-                " Yuan River"
+                "15 acres (6 ha)"
             ],
             "People also search for": []
         },
@@ -657,6 +655,33 @@
                 "Dnieper River"
             ]
         },
+        "Dongting Lake": {
+            "label": "Dongting Lake",
+            "description": "Dongting Lake, or Lake Dongting is a large, shallow lake in northeastern Hu'nan province, China. It is a flood basin of the Yangtze River. Hence the lake's size depends on the season. Wikipedia",
+            "type": "",
+            "Area ": [
+                "1",
+                "089 sq miles (2",
+                "820 km²)"
+            ],
+            "Province ": [
+                "Hunan"
+            ],
+            "Outflow location ": [
+                "Yangtze River"
+            ],
+            "Bridges ": [
+                "Dongting Lake Bridge"
+            ],
+            "Inflow source ": [
+                "Zi River",
+                " Xiang River",
+                " Yangtze River",
+                " Lishui River",
+                " Yuan River"
+            ],
+            "People also search for": []
+        },
         "Drawsko Lake": {
             "label": "Drawsko Lake",
             "description": "Drawsko is a lake in Drawskie Lakeland, West Pomeranian Voivodeship, Poland. It is 1,956 ha large, 12,6 km long and 3.9 km wide. Maximum depth is 79.7 m, making it the second deepest lake in Poland. Wikipedia",
@@ -669,6 +694,14 @@
             ],
             "Width ": [
                 "2.423 miles (3.9 km)"
+            ]
+        },
+        "Emma Lake (Saskatchewan)": {
+            "label": "Emma Lake",
+            "description": "Emma Lake is a combined campground, and lake. The area has a population of around 900 in the summertime, and 200 in the wintertime. Emma Lake is 45 kilometers north of Prince Albert, Saskatchewan and 5 kilometers from Christopher Lake, Saskatchewan. Wikipedia",
+            "type": "",
+            "Province ": [
+                "Saskatchewan"
             ]
         },
         "Faaker See": {
@@ -689,14 +722,6 @@
                 "Gail"
             ],
             "People also search for": []
-        },
-        "Emma Lake (Saskatchewan)": {
-            "label": "Emma Lake",
-            "description": "Emma Lake is a combined campground, and lake. The area has a population of around 900 in the summertime, and 200 in the wintertime. Emma Lake is 45 kilometers north of Prince Albert, Saskatchewan and 5 kilometers from Christopher Lake, Saskatchewan. Wikipedia",
-            "type": "",
-            "Province ": [
-                "Saskatchewan"
-            ]
         },
         "Fjallavatn": {
             "label": "Fjallavatn",
@@ -733,6 +758,25 @@
             ],
             "People also search for": []
         },
+        "Franklin D. Roosevelt Lake": {
+            "label": "Franklin D. Roosevelt Lake",
+            "description": "Franklin D. Roosevelt Lake is the reservoir created in 1941 by the impoundment of the Columbia River by the Grand Coulee Dam in Washington state. It is named for Franklin D. Roosevelt, who was President during the construction of the dam. Wikipedia",
+            "type": "",
+            "Surface elevation ": [
+                "1",
+                "288' (393 m)"
+            ],
+            "Area ": [
+                "123.6 sq miles (320 km²)"
+            ],
+            "Inflow source ": [
+                "Columbia River"
+            ],
+            "Outflow location ": [
+                "Columbia River"
+            ],
+            "See results about": []
+        },
         "Funtensee": {
             "label": "Funtensee",
             "description": "Funtensee is a lake in the Steinernes Meer plateau in the Nationalpark Berchtesgaden, Bavaria, Germany located on the larger of the two sinkholes of the uvala, known for record low temperatures up to 30°C lower than the surrounding area. Wikipedia",
@@ -759,25 +803,6 @@
                 "559 feet (780 m)"
             ],
             "People also search for": []
-        },
-        "Franklin D. Roosevelt Lake": {
-            "label": "Franklin D. Roosevelt Lake",
-            "description": "Franklin D. Roosevelt Lake is the reservoir created in 1941 by the impoundment of the Columbia River by the Grand Coulee Dam in Washington state. It is named for Franklin D. Roosevelt, who was President during the construction of the dam. Wikipedia",
-            "type": "",
-            "Surface elevation ": [
-                "1",
-                "288' (393 m)"
-            ],
-            "Area ": [
-                "123.6 sq miles (320 km²)"
-            ],
-            "Inflow source ": [
-                "Columbia River"
-            ],
-            "Outflow location ": [
-                "Columbia River"
-            ],
-            "See results about": []
         },
         "Fuschlsee": {
             "label": "Fuschlsee",
@@ -821,20 +846,6 @@
                 "Chagres River"
             ]
         },
-        "Glattalpsee": {
-            "label": "Glattalpsee",
-            "description": "Glattalpsee is a lake on Glattalp, above Bisisthal, in the municipality of Muotathal, Canton of Schwyz, Switzerland. Its surface area is 0.39 km². Wikipedia",
-            "type": "",
-            "Surface elevation ": [
-                "6",
-                "086' (1",
-                "855 m)"
-            ],
-            "Area ": [
-                "96 acres (39 ha)"
-            ],
-            "People also search for": []
-        },
         "Gelmersee": {
             "label": "Gelmersee",
             "description": "Gelmersee is a lake in Bernese Oberland, Switzerland. The hydroelectric reservoir was built at the same time as Grimselsee. The reservoir's volume is 13 million m³ and its surface area 0.645 km². Wikipedia",
@@ -849,6 +860,20 @@
             ],
             "Catchment area ": [
                 "6.178 sq miles (16 km²)"
+            ],
+            "People also search for": []
+        },
+        "Glattalpsee": {
+            "label": "Glattalpsee",
+            "description": "Glattalpsee is a lake on Glattalp, above Bisisthal, in the municipality of Muotathal, Canton of Schwyz, Switzerland. Its surface area is 0.39 km². Wikipedia",
+            "type": "",
+            "Surface elevation ": [
+                "6",
+                "086' (1",
+                "855 m)"
+            ],
+            "Area ": [
+                "96 acres (39 ha)"
             ],
             "People also search for": []
         },
@@ -878,14 +903,6 @@
                 "Noteć"
             ]
         },
-        "Grænalón": {
-            "label": "Grænalón",
-            "description": "Grænalón is one of the glacier lakes of the Icelandic glacier Vatnajökull. It is situated in the south of Iceland. Its surface measures 18 km². Wikipedia",
-            "type": "",
-            "Area ": [
-                "6.95 sq miles (18 km²)"
-            ]
-        },
         "Gothensee": {
             "label": "Gothensee",
             "description": "Gothensee is a lake in Usedom, Mecklenburg-Vorpommern, Germany. At an elevation of 0 m, its surface area is 5.56 km². Wikipedia",
@@ -898,6 +915,14 @@
             ],
             "Mean depth ": [
                 "4' 1\" (1.25 m)"
+            ]
+        },
+        "Grænalón": {
+            "label": "Grænalón",
+            "description": "Grænalón is one of the glacier lakes of the Icelandic glacier Vatnajökull. It is situated in the south of Iceland. Its surface measures 18 km². Wikipedia",
+            "type": "",
+            "Area ": [
+                "6.95 sq miles (18 km²)"
             ]
         },
         "Great Bear Lake": {
@@ -970,11 +995,6 @@
             ],
             "People also search for": []
         },
-        "Grevelingen": {
-            "label": "Grevelingen",
-            "description": "Grevelingen or Grevelingenmeer is a former Rhine-Meuse estuary on the border of the Dutch provinces of South Holland and Zeeland that has become a lake due to the Delta Works. Wikipedia",
-            "type": ""
-        },
         "Greifensee": {
             "label": "Greifensee",
             "description": "Greifensee is a small lake in the canton of Zürich in Switzerland. Wikipedia",
@@ -1008,6 +1028,11 @@
                 " Greifensee"
             ],
             "See results about": []
+        },
+        "Grevelingen": {
+            "label": "Grevelingen",
+            "description": "Grevelingen or Grevelingenmeer is a former Rhine-Meuse estuary on the border of the Dutch provinces of South Holland and Zeeland that has become a lake due to the Delta Works. Wikipedia",
+            "type": ""
         },
         "Grimnitzsee": {
             "label": "Grimnitzsee",
@@ -1074,6 +1099,17 @@
                 "376 acres (152 ha)"
             ]
         },
+        "Gudelacksee": {
+            "label": "Gudelacksee",
+            "description": "Gudelacksee is a German lake in Lindow, Landkreis Ostprignitz-Ruppin, Brandenburg. At an elevation of 52 m, its surface area is 4.38 km². Wikipedia",
+            "type": "",
+            "Surface elevation ": [
+                "171' (52 m)"
+            ],
+            "Area ": [
+                "1.691 sq miles (4.38 km²)"
+            ]
+        },
         "Höytiäinen": {
             "label": "Höytiäinen",
             "description": "Höytiäinen is a lake in Finland. A mismanaged drainage attempt during 1859, the lake was by around one third of its size. Wikipedia",
@@ -1086,17 +1122,6 @@
             ],
             "Cities ": [
                 "Kontiolahti"
-            ]
-        },
-        "Gudelacksee": {
-            "label": "Gudelacksee",
-            "description": "Gudelacksee is a German lake in Lindow, Landkreis Ostprignitz-Ruppin, Brandenburg. At an elevation of 52 m, its surface area is 4.38 km². Wikipedia",
-            "type": "",
-            "Surface elevation ": [
-                "171' (52 m)"
-            ],
-            "Area ": [
-                "1.691 sq miles (4.38 km²)"
             ]
         },
         "Hücker Moor": {
@@ -1208,6 +1233,30 @@
             ],
             "People also search for": []
         },
+        "Hornindalsvatnet": {
+            "label": "Hornindalsvatnet",
+            "description": "Hornindalsvatnet is Norway's and Europe's deepest lake, officially measured to a depth of 514 metres. Its surface is 53 metres above sea level, which means that its bottom is 461 metres below sea level. Wikipedia",
+            "type": "",
+            "Surface elevation ": [
+                "174' (53 m)"
+            ],
+            "Area ": [
+                "19.69 sq miles (51 km²)"
+            ],
+            "Length ": [
+                "13.67 miles (22 km)"
+            ],
+            "Width ": [
+                "2.485 miles (4 km)"
+            ],
+            "Mean depth ": [
+                "774' (236 m)"
+            ],
+            "Cities ": [
+                "Hornindal",
+                " Eid"
+            ]
+        },
         "Hreðavatn": {
             "label": "Hreðavatn",
             "description": "Hreðavatn is a lake in the west of Iceland. It is situated near Route 1 between Borgarnes and the pass of Holtavörtuheiði. Nearby is the university faculty of Bifröst and the Grábrók craters as well as the mountain Baula. Wikipedia",
@@ -1245,30 +1294,6 @@
             ],
             "Outflow location ": [
                 "Argun River"
-            ]
-        },
-        "Hornindalsvatnet": {
-            "label": "Hornindalsvatnet",
-            "description": "Hornindalsvatnet is Norway's and Europe's deepest lake, officially measured to a depth of 514 metres. Its surface is 53 metres above sea level, which means that its bottom is 461 metres below sea level. Wikipedia",
-            "type": "",
-            "Surface elevation ": [
-                "174' (53 m)"
-            ],
-            "Area ": [
-                "19.69 sq miles (51 km²)"
-            ],
-            "Length ": [
-                "13.67 miles (22 km)"
-            ],
-            "Width ": [
-                "2.485 miles (4 km)"
-            ],
-            "Mean depth ": [
-                "774' (236 m)"
-            ],
-            "Cities ": [
-                "Hornindal",
-                " Eid"
             ]
         },
         "Kakhovka Reservoir": {
@@ -1323,23 +1348,6 @@
                 "Kuopio"
             ]
         },
-        "Kanas Lake": {
-            "label": "Kanas Lake",
-            "description": "Kanas Lake is a lake in Altay Prefecture, Xinjiang, China. The lake is located in a valley in the Altai Mountains, near the very northern tip of Xinjiang, and the province's borders with Kazakhstan, Mongolia, and Russia. Wikipedia",
-            "type": "",
-            "Surface elevation ": [
-                "4",
-                "396' (1",
-                "340 m)"
-            ],
-            "Area ": [
-                "17.66 sq miles (45.73 km²)"
-            ],
-            "Mean depth ": [
-                "394' (120 m)"
-            ],
-            "People also search for": []
-        },
         "Kamloops Lake": {
             "label": "Kamloops Lake",
             "description": "Kamloops Lake in British Columbia, Canada is situated on the Thompson River just west of Kamloops. The lake is 1.6 km wide, 29 km long, and up to 152 m deep. The community of Savona is located at the west end of the lake on the Thompson River. Wikipedia",
@@ -1365,6 +1373,23 @@
             "Cities ": [
                 "Savona",
                 " British Columbia"
+            ],
+            "People also search for": []
+        },
+        "Kanas Lake": {
+            "label": "Kanas Lake",
+            "description": "Kanas Lake is a lake in Altay Prefecture, Xinjiang, China. The lake is located in a valley in the Altai Mountains, near the very northern tip of Xinjiang, and the province's borders with Kazakhstan, Mongolia, and Russia. Wikipedia",
+            "type": "",
+            "Surface elevation ": [
+                "4",
+                "396' (1",
+                "340 m)"
+            ],
+            "Area ": [
+                "17.66 sq miles (45.73 km²)"
+            ],
+            "Mean depth ": [
+                "394' (120 m)"
             ],
             "People also search for": []
         },
@@ -1460,50 +1485,6 @@
             ],
             "People also search for": []
         },
-        "Kurile Lake": {
-            "label": "Kurile Lake",
-            "description": "Kurile Lake is a large caldera containing a crater lake located at the southern tip of Kamchatka Peninsula, within the Southern Kamchatka Wildlife Refuge in Russia.\nIt has an area of 77 square kilometres. Wikipedia",
-            "type": "",
-            "Surface elevation ": [
-                "338' (103 m)"
-            ],
-            "Elevation ": [
-                "266' (81 m)"
-            ],
-            "Last eruption ": [
-                "6440 BC"
-            ],
-            "Area ": [
-                "29.73 sq miles (77 km²)"
-            ],
-            "Mean depth ": [
-                "577' (176 m)"
-            ],
-            "People also search for": []
-        },
-        "Lac Brenet": {
-            "label": "Lac Brenet",
-            "description": "Lac Brenet is a lake in the Vallée de Joux, canton of Vaud, Switzerland. It is located north of the Lac de Joux, only 200 metres away. Its elevation of 1002 metres is 2 metres below that of Lac de Joux. Wikipedia",
-            "type": "",
-            "Surface elevation ": [
-                "3",
-                "287' (1",
-                "002 m)"
-            ],
-            "Area ": [
-                "198 acres (80 ha)"
-            ],
-            "Length ": [
-                "4",
-                "921 feet (1",
-                "500 m)"
-            ],
-            "Width ": [
-                "1",
-                "640 feet (500 m)"
-            ],
-            "People also search for": []
-        },
         "Kootenay Lake": {
             "label": "Kootenay Lake",
             "description": "Kootenay Lake is a lake located in British Columbia, Canada and is part of the Kootenay River. The lake has been raised by the Corra Linn Dam and has a dike system at the southern end, which, along with ... Wikipedia",
@@ -1539,41 +1520,66 @@
                 " Yellow perchMore"
             ]
         },
+        "Kurile Lake": {
+            "label": "Kurile Lake",
+            "description": "Kurile Lake is a large caldera containing a crater lake located at the southern tip of Kamchatka Peninsula, within the Southern Kamchatka Wildlife Refuge in Russia.\nIt has an area of 77 square kilometres. Wikipedia",
+            "type": "",
+            "Surface elevation ": [
+                "338' (103 m)"
+            ],
+            "Elevation ": [
+                "266' (81 m)"
+            ],
+            "Last eruption ": [
+                "6440 BC"
+            ],
+            "Area ": [
+                "29.73 sq miles (77 km²)"
+            ],
+            "Mean depth ": [
+                "577' (176 m)"
+            ],
+            "People also search for": []
+        },
         "Lac Blanc (Vosges)": {
             "label": "Station du Lac Blanc",
             "description": "",
             "type": "",
             "People also search for": []
         },
-        "Dittligsee": {
-            "label": "Dittligsee",
-            "description": "Dittligsee is a lake in the Canton of Berne, Switzerland, near Blumenstein and Wattenwil. Its surface area is 6.02 ha. Wikipedia",
+        "Lac Brenet": {
+            "label": "Lac Brenet",
+            "description": "Lac Brenet is a lake in the Vallée de Joux, canton of Vaud, Switzerland. It is located north of the Lac de Joux, only 200 metres away. Its elevation of 1002 metres is 2 metres below that of Lac de Joux. Wikipedia",
             "type": "",
             "Surface elevation ": [
-                "2",
-                "139' (652 m)"
+                "3",
+                "287' (1",
+                "002 m)"
             ],
             "Area ": [
-                "15 acres (6 ha)"
+                "198 acres (80 ha)"
+            ],
+            "Length ": [
+                "4",
+                "921 feet (1",
+                "500 m)"
+            ],
+            "Width ": [
+                "1",
+                "640 feet (500 m)"
             ],
             "People also search for": []
         },
-        "Lac de Montsalvens": {
-            "label": "Lac de Montsalvens",
-            "description": "Lac de Montsalvens is a lake in the Canton of Fribourg, Switzerland. The reservoir has a capacity of 12.6 million m³ and a surface area of 0.74 km². It is located on the road to Jaun Pass, between the villages of Broc and Charmey. Wikipedia",
+        "Lac Noir (Vosges)": {
+            "label": "Lac Noir",
+            "description": "Lac Noir is a lake in Orbey, Alsace, France. At an elevation of 955 m, its surface area is 0.14 km². Wikipedia",
             "type": "",
             "Surface elevation ": [
-                "2",
-                "628' (801 m)"
+                "3",
+                "133' (955 m)"
             ],
             "Area ": [
-                "183 acres (74 ha)"
-            ],
-            "Catchment area ": [
-                "66.8 sq miles (173 km²)"
-            ],
-            "Cities ": [
-                "Charmey"
+                "35 acres (14 ha)"
             ],
             "People also search for": []
         },
@@ -1600,16 +1606,22 @@
             ],
             "People also search for": []
         },
-        "Lac Noir (Vosges)": {
-            "label": "Lac Noir",
-            "description": "Lac Noir is a lake in Orbey, Alsace, France. At an elevation of 955 m, its surface area is 0.14 km². Wikipedia",
+        "Lac de Montsalvens": {
+            "label": "Lac de Montsalvens",
+            "description": "Lac de Montsalvens is a lake in the Canton of Fribourg, Switzerland. The reservoir has a capacity of 12.6 million m³ and a surface area of 0.74 km². It is located on the road to Jaun Pass, between the villages of Broc and Charmey. Wikipedia",
             "type": "",
             "Surface elevation ": [
-                "3",
-                "133' (955 m)"
+                "2",
+                "628' (801 m)"
             ],
             "Area ": [
-                "35 acres (14 ha)"
+                "183 acres (74 ha)"
+            ],
+            "Catchment area ": [
+                "66.8 sq miles (173 km²)"
+            ],
+            "Cities ": [
+                "Charmey"
             ],
             "People also search for": []
         },
@@ -1652,47 +1664,73 @@
             "Outflow location ": [
                 "Doubs"
             ]
-        },
-        "Adolfosee": {
-            "label": "Adolfosee",
-            "description": "Adolfosee is a lake in North Rhine-Westphalia, Germany. At an elevation of 39 m, its surface area is 0.307 km². Wikipedia",
-            "type": "",
-            "Surface elevation ": [
-                "128' (39 m)"
-            ],
-            "Area ": [
-                "76 acres (31 ha)"
-            ],
-            "People also search for": []
         }
     },
     "summary": {
-        "label": 96,
-        "description": 96,
-        "type": 96,
-        "surface_elevation": 1,
-        "area": 1,
-        "outflow_location": 1,
-        "length": 1,
-        "width": 1,
-        "mean_depth": 1,
-        "catchment_area": 1,
-        "people_also_search_for": 1,
-        "inflow_source": 1,
-        "see_results_about": 1,
-        "cities": 1,
-        "fish": 1,
-        "islands": 1,
-        "shore_length": 1,
-        "province": 1,
-        "bridges": 1,
-        "elevation": 1,
-        "last_eruption": 1
+        "label": {
+            "uri": "http://dbpedia.org/property/label",
+            "count": 96
+        },
+        "description": {
+            "uri": "http://dbpedia.org/property/description",
+            "count": 96
+        },
+        "type": {
+            "uri": "http://dbpedia.org/property/type",
+            "count": 96
+        },
+        "area": {
+            "uri": "http://dbpedia.org/property/area",
+            "count": 82
+        },
+        "length": {
+            "uri": "http://dbpedia.org/property/length",
+            "count": 32
+        },
+        "width": {
+            "uri": "http://dbpedia.org/property/width",
+            "count": 30
+        },
+        "cities": {
+            "uri": "http://dbpedia.org/property/cities",
+            "count": 19
+        },
+        "islands": {
+            "uri": "http://dbpedia.org/property/islands",
+            "count": 1
+        },
+        "shoreLength": {
+            "uri": "http://dbpedia.org/ontology/shoreLength",
+            "count": 8
+        },
+        "province": {
+            "uri": "http://dbpedia.org/property/province",
+            "count": 7
+        },
+        "elevation": {
+            "uri": "http://dbpedia.org/property/elevation",
+            "count": 1
+        },
+        "lastEruption": {
+            "uri": "http://dbpedia.org/property/lastEruption",
+            "count": 1
+        }
     },
     "infoboxless": [
         "Brampton Lake",
         "Crater Lake",
         "Fleesensee",
         "Fuhlensee"
-    ]
+    ],
+    "Unmapped_Properties": {
+        "surfaceElevation": 1,
+        "outflowLocation": 1,
+        "meanDepth": 1,
+        "catchmentArea": 1,
+        "peopleAlsoSearchFor": 1,
+        "inflowSource": 1,
+        "seeResultsAbout": 1,
+        "fish": 1,
+        "bridges": 1
+    }
 }

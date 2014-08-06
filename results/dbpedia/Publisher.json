@@ -1,14 +1,5 @@
 {
     "instances": {
-        "DC Comics": {
-            "label": "DC Comics",
-            "description": "DC Comics, Inc. is one of the largest and most successful companies operating in the market for American comic books and related media. Wikipedia",
-            "type": "1,637,005 followers on Google+",
-            "Founder ": [
-                "Malcolm Wheeler-Nicholson"
-            ],
-            "Recent posts": []
-        },
         "Oni Press": {
             "label": "Oni Press",
             "description": "Oni Press is an American independent comic book publisher based in Portland, Oregon. It was founded in 1997 by Bob Schreck and Joe Nozemack with the goal of publishing the kinds of comics and graphic novels they themselves would want to read. Wikipedia",
@@ -21,6 +12,15 @@
                 " Joe Nozemack"
             ],
             "People also search for": []
+        },
+        "DC Comics": {
+            "label": "DC Comics",
+            "description": "DC Comics, Inc. is one of the largest and most successful companies operating in the market for American comic books and related media. Wikipedia",
+            "type": "1,637,005 followers on Google+",
+            "Founder ": [
+                "Malcolm Wheeler-Nicholson"
+            ],
+            "Recent posts": []
         },
         "Boosey & Hawkes": {
             "label": "Boosey & Hawkes",
@@ -471,12 +471,6 @@
             "type": "",
             "See results about": []
         },
-        "Melville House Publishing": {
-            "label": "Melville House Publishing LLC",
-            "description": "",
-            "type": "",
-            "See results about": []
-        },
         "Sentinel (publisher)": {
             "label": "Sentinel",
             "description": "Sentinel was established in 2003 as a dedicated conservative imprint within Penguin Group. It publishes a wide variety of right-of-center books on subjects like politics, history, public policy, culture, religion and international relations. Wikipedia",
@@ -487,6 +481,12 @@
             "Founded ": [
                 "2003"
             ]
+        },
+        "Melville House Publishing": {
+            "label": "Melville House Publishing LLC",
+            "description": "",
+            "type": "",
+            "See results about": []
         },
         "Motivate Publishing": {
             "label": "Motivate Publishing",
@@ -777,22 +777,38 @@
         }
     },
     "summary": {
-        "label": 71,
-        "description": 71,
-        "type": 71,
-        "founder": 1,
-        "recent_posts": 1,
-        "founded": 1,
-        "founders": 1,
-        "people_also_search_for": 1,
-        "headquarters": 1,
-        "assets": 1,
-        "income": 1,
-        "nonprofit_category": 1,
-        "tax_deductibility_code": 1,
-        "see_results_about": 1,
-        "ceo": 1,
-        "related_topics": 1
+        "label": {
+            "uri": "http://www.w3.org/2000/01/rdf-schema#label",
+            "count": 71
+        },
+        "description": {
+            "uri": "http://dbpedia.org/property/description",
+            "count": 71
+        },
+        "type": {
+            "uri": "http://dbpedia.org/property/type",
+            "count": 71
+        },
+        "founded": {
+            "uri": "http://dbpedia.org/property/founded",
+            "count": 55
+        },
+        "founders": {
+            "uri": "http://dbpedia.org/property/founders",
+            "count": 7
+        },
+        "founder": {
+            "uri": "http://dbpedia.org/ontology/founder",
+            "count": 18
+        },
+        "headquarters": {
+            "uri": "http://dbpedia.org/property/headquarters",
+            "count": 4
+        },
+        "ceo": {
+            "uri": "http://dbpedia.org/property/ceo",
+            "count": 4
+        }
     },
     "infoboxless": [
         "Alice James Books",
@@ -824,5 +840,15 @@
         "Holiday House",
         "Indiana University Press",
         "A K Peters, Ltd."
-    ]
+    ],
+    "Unmapped_Properties": {
+        "peopleAlsoSearchFor": 1,
+        "recentPosts": 1,
+        "assets": 1,
+        "income": 1,
+        "nonprofitCategory": 1,
+        "taxDeductibilityCode": 1,
+        "seeResultsAbout": 1,
+        "relatedTopics": 1
+    }
 }

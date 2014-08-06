@@ -6,6 +6,23 @@
             "type": "",
             "People also search for": []
         },
+        "A&W Restaurants": {
+            "label": "A&W Restaurants",
+            "description": "A&W Restaurants, Inc., is a chain of fast-food restaurants distinguished by its draft root beer and root beer floats. A&W was arguably the first successful food franchise company, starting franchises in California, in 1923. Wikipedia",
+            "type": "",
+            "Headquarters ": [
+                "Lexington",
+                " KY"
+            ],
+            "Founded ": [
+                "1922",
+                " Lodi",
+                " California",
+                " United States"
+            ],
+            "Recent posts": [],
+            "People also search for": []
+        },
         "7th Level": {
             "label": "7th Level",
             "description": "7th Level was a video game development company based in Dallas, Texas and founded in 1993. The company was most famous for developing the three Monty Python games, G-Nome — a MechWarrior-style game, ... Wikipedia",
@@ -24,23 +41,6 @@
                 " Prague",
                 " Czech Republic"
             ],
-            "People also search for": []
-        },
-        "A&W Restaurants": {
-            "label": "A&W Restaurants",
-            "description": "A&W Restaurants, Inc., is a chain of fast-food restaurants distinguished by its draft root beer and root beer floats. A&W was arguably the first successful food franchise company, starting franchises in California, in 1923. Wikipedia",
-            "type": "",
-            "Headquarters ": [
-                "Lexington",
-                " KY"
-            ],
-            "Founded ": [
-                "1922",
-                " Lodi",
-                " California",
-                " United States"
-            ],
-            "Recent posts": [],
             "People also search for": []
         },
         "ABB Group": {
@@ -90,12 +90,6 @@
             ],
             "People also search for": []
         },
-        "AVG Technologies": {
-            "label": "AVG",
-            "description": "Anti-Virus Guard is a family of anti-virus and Internet security software for the Microsoft Windows, Linux, Mac OS X, and FreeBSD computing platforms, developed by AVG Technologies, a publicly traded Czech company formerly known as Grisoft. Wikipedia",
-            "type": "",
-            "Recent posts": []
-        },
         "ARY Group": {
             "label": "ARY Group",
             "description": "The ARY Group is a Dubai-based holding company founded by a Pakistani businessman, Haji Abdul Razzak Yaqoob. Abdul is the Chief Executive Officer and owner of the Group. Wikipedia",
@@ -103,6 +97,12 @@
             "Founder ": [
                 "Abdul Razzak Yaqoob"
             ]
+        },
+        "AVG Technologies": {
+            "label": "AVG",
+            "description": "Anti-Virus Guard is a family of anti-virus and Internet security software for the Microsoft Windows, Linux, Mac OS X, and FreeBSD computing platforms, developed by AVG Technologies, a publicly traded Czech company formerly known as Grisoft. Wikipedia",
+            "type": "",
+            "Recent posts": []
         },
         "Accenture": {
             "label": "Accenture",
@@ -130,15 +130,6 @@
             ],
             "Recent posts": []
         },
-        "Aer Arann": {
-            "label": "Aer Arann",
-            "description": "Aer Arann is a regional airline based in Dublin, Ireland. The airline operates scheduled services on behalf of Aer Lingus Regional. The airline has three bases in Cork, Dublin and Shannon which operate under the Aer Lingus Regional brand. Wikipedia",
-            "type": "",
-            "Founded ": [
-                "1970"
-            ],
-            "Track flight status": []
-        },
         "Adnams Brewery": {
             "label": "Adnams Brewery",
             "description": "Adnams PLC is a British regional brewery company founded in 1872 in Southwold, Suffolk, England, by George and Ernest Adnams. The company produces cask ale and pasteurised bottled beers. Annual production is around 85,000 barrels. Wikipedia",
@@ -151,6 +142,15 @@
                 " George Adnams"
             ],
             "Recent posts": []
+        },
+        "Aer Arann": {
+            "label": "Aer Arann",
+            "description": "Aer Arann is a regional airline based in Dublin, Ireland. The airline operates scheduled services on behalf of Aer Lingus Regional. The airline has three bases in Cork, Dublin and Shannon which operate under the Aer Lingus Regional brand. Wikipedia",
+            "type": "",
+            "Founded ": [
+                "1970"
+            ],
+            "Track flight status": []
         },
         "Aero Lloyd": {
             "label": "Aero Lloyd",
@@ -190,6 +190,15 @@
             "type": "",
             "People also search for": []
         },
+        "AgustaWestland": {
+            "label": "AgustaWestland",
+            "description": "AgustaWestland NV is a British-Italian multinational helicopter design and manufacturing company, and a wholly owned subsidiary of Finmeccanica. Wikipedia",
+            "type": "",
+            "Founded ": [
+                "2000"
+            ],
+            "People also search for": []
+        },
         "AirBaltic": {
             "label": "airBaltic",
             "description": "A/S Air Baltic Corporation, operating as AirBaltic and styled as airBaltic, is the Latvian flag carrier airline and a low-cost carrier, with its head office on the grounds of Riga International Airport in Mārupe municipality, near the capital, Riga. Wikipedia",
@@ -205,15 +214,6 @@
             ],
             "Track flight status": [],
             "Recent posts": []
-        },
-        "AgustaWestland": {
-            "label": "AgustaWestland",
-            "description": "AgustaWestland NV is a British-Italian multinational helicopter design and manufacturing company, and a wholly owned subsidiary of Finmeccanica. Wikipedia",
-            "type": "",
-            "Founded ": [
-                "2000"
-            ],
-            "People also search for": []
         },
         "Air – Transport Europe": {
             "label": "Air – Transport Europe",
@@ -300,17 +300,17 @@
             "Founded ": "November 12, 1954",
             "People also search for": []
         },
+        "Air Koryo": {
+            "label": "Air Koryo",
+            "description": "Air Koryo is the state-owned national flag carrier airline of North Korea, headquartered in Sunan-guyŏk, Pyongyang. Wikipedia",
+            "type": "",
+            "Track flight status": []
+        },
         "Air Malawi": {
             "label": "Air Malawi",
             "description": "Air Malawi Limited was the state-owned national airline of Malawi, based in Blantyre, which operated regional passenger services. Wikipedia",
             "type": "",
             "Founded ": "September 1, 1967",
-            "Track flight status": []
-        },
-        "Air Koryo": {
-            "label": "Air Koryo",
-            "description": "Air Koryo is the state-owned national flag carrier airline of North Korea, headquartered in Sunan-guyŏk, Pyongyang. Wikipedia",
-            "type": "",
             "Track flight status": []
         },
         "Air Mandalay": {
@@ -567,6 +567,14 @@
             ],
             "People also search for": []
         },
+        "AstroTurf": {
+            "label": "AstroTurf",
+            "description": "AstroTurf is a brand of artificial turf. The original AstroTurf product was a short-pile synthetic turf. The prime reason to incorporate AstroTurf on game fields was to avoid the cost of laying natural turf, especially indoors. Wikipedia",
+            "type": "",
+            "Founded ": [
+                "1964"
+            ]
+        },
         "Atari, SA": {
             "label": "Atari, SA",
             "description": "Atari SA is an international French holding company headquartered in Paris, France. It was originally called Infogrames Entertainment, SA. Its subsidiaries include Atari London Studio, Eden Games, Atari Interactive, Atari, Inc., and Humongous. Wikipedia",
@@ -584,14 +592,6 @@
                 " France"
             ],
             "People also search for": []
-        },
-        "AstroTurf": {
-            "label": "AstroTurf",
-            "description": "AstroTurf is a brand of artificial turf. The original AstroTurf product was a short-pile synthetic turf. The prime reason to incorporate AstroTurf on game fields was to avoid the cost of laying natural turf, especially indoors. Wikipedia",
-            "type": "",
-            "Founded ": [
-                "1964"
-            ]
         },
         "Atlanta Bread Company": {
             "label": "Atlanta Bread Company",
@@ -646,6 +646,27 @@
             ],
             "People also search for": []
         },
+        "August Storck": {
+            "label": "August Storck",
+            "description": "August Storck KG is a German sweets producer with headquarters in Berlin. Its subsidiary in the UK has been the company Bendicks in Winchester since 1988. Wikipedia",
+            "type": "",
+            "Headquarters ": [
+                "Berlin"
+            ],
+            "Founded ": [
+                "1903"
+            ],
+            "People also search for": []
+        },
+        "Austral Líneas Aéreas": {
+            "label": "Austral Líneas Aéreas",
+            "description": "Cielos del Sur S.A., operating as Austral Líneas Aéreas, more commonly known by its shortened name Austral, is a domestic airline of Argentina, the sister company of Aerolíneas Argentinas. Wikipedia",
+            "type": "",
+            "Founded ": [
+                "1971"
+            ],
+            "Track flight status": []
+        },
         "Australian Securities Exchange": {
             "label": "ASX",
             "description": "The Australian Securities Exchange is Australia's primary securities exchange. It was created by the merger of the Australian Stock Exchange and the Sydney Futures Exchange in July 2006. Wikipedia",
@@ -660,15 +681,6 @@
             "description": "Auto Union AG, Chemnitz, was an amalgamation of four German automobile manufacturers, founded in 1932 and established in 1936 in Chemnitz, Saxony, during the Great Depression. Wikipedia",
             "type": "",
             "People also search for": []
-        },
-        "Austral Líneas Aéreas": {
-            "label": "Austral Líneas Aéreas",
-            "description": "Cielos del Sur S.A., operating as Austral Líneas Aéreas, more commonly known by its shortened name Austral, is a domestic airline of Argentina, the sister company of Aerolíneas Argentinas. Wikipedia",
-            "type": "",
-            "Founded ": [
-                "1971"
-            ],
-            "Track flight status": []
         },
         "Avex Group": {
             "label": "Avex Group",
@@ -727,14 +739,12 @@
             ],
             "People also search for": []
         },
-        "Bahamasair": {
-            "label": "Bahamasair",
-            "description": "Bahamasair Holdings Limited, operating as Bahamasair, is an airline based in the Bahamasair House in Nassau, Bahamas. Wikipedia",
+        "BOTAŞ": {
+            "label": "BOTAŞ",
+            "description": "BOTAŞ Petroleum Pipeline Corporation is the state-owned crude oil and natural gas pipelines and trading company in Turkey. The company was established in 1974 as a subsidiary of Türkiye Petrolleri Anonim Ortaklığı. Wikipedia",
             "type": "",
-            "Founded ": [
-                "1973"
-            ],
-            "Track flight status": []
+            "Founded ": "August 15, 1974",
+            "People also search for": []
         },
         "Baboo (airline)": {
             "label": "Baboo",
@@ -745,17 +755,14 @@
             ],
             "Track flight status": []
         },
-        "August Storck": {
-            "label": "August Storck",
-            "description": "August Storck KG is a German sweets producer with headquarters in Berlin. Its subsidiary in the UK has been the company Bendicks in Winchester since 1988. Wikipedia",
+        "Bahamasair": {
+            "label": "Bahamasair",
+            "description": "Bahamasair Holdings Limited, operating as Bahamasair, is an airline based in the Bahamasair House in Nassau, Bahamas. Wikipedia",
             "type": "",
-            "Headquarters ": [
-                "Berlin"
-            ],
             "Founded ": [
-                "1903"
+                "1973"
             ],
-            "People also search for": []
+            "Track flight status": []
         },
         "Bally Technologies": {
             "label": "Bally Technologies",
@@ -773,12 +780,41 @@
             ],
             "People also search for": []
         },
-        "BOTAŞ": {
-            "label": "BOTAŞ",
-            "description": "BOTAŞ Petroleum Pipeline Corporation is the state-owned crude oil and natural gas pipelines and trading company in Turkey. The company was established in 1974 as a subsidiary of Türkiye Petrolleri Anonim Ortaklığı. Wikipedia",
+        "Banco Ambrosiano": {
+            "label": "Banco Ambrosiano",
+            "description": "Banco Ambrosiano was an Italian bank that collapsed in 1982. At the centre of the bank's failure was its chairman, Roberto Calvi and his membership in the illegal Masonic Lodge Propaganda Due. Wikipedia",
             "type": "",
-            "Founded ": "August 15, 1974",
+            "Founder ": [
+                "Roberto Calvi"
+            ],
+            "Founded ": [
+                "1896"
+            ],
             "People also search for": []
+        },
+        "Bandai Visual": {
+            "label": "Bandai Visual",
+            "description": "Bandai Visual Company, Limited, is a Japanese anime, film production and distribution enterprise, established by Bandai Company, Limited and a subsidiary of Namco Bandai Holdings, Inc., which is based in Minato, Tokyo, Japan. Wikipedia",
+            "type": "",
+            "Founded ": "August 23, 1983",
+            "People also search for": []
+        },
+        "Bang & Olufsen": {
+            "label": "Bang & Olufsen",
+            "description": "Bang & Olufsen is a Danish company that designs and manufactures audio products, television sets and telephones. Wikipedia",
+            "type": "",
+            "Headquarters ": [
+                "Struer",
+                " Denmark",
+                " Central Denmark Region"
+            ],
+            "CEO ": [
+                "Tue Mantoni"
+            ],
+            "Founded ": [
+                "1925"
+            ],
+            "Recent posts": []
         },
         "Bangkok Airways": {
             "label": "Bangkok Airways",
@@ -800,55 +836,6 @@
             "Track flight status": [],
             "Recent posts": []
         },
-        "Banco Ambrosiano": {
-            "label": "Banco Ambrosiano",
-            "description": "Banco Ambrosiano was an Italian bank that collapsed in 1982. At the centre of the bank's failure was its chairman, Roberto Calvi and his membership in the illegal Masonic Lodge Propaganda Due. Wikipedia",
-            "type": "",
-            "Founder ": [
-                "Roberto Calvi"
-            ],
-            "Founded ": [
-                "1896"
-            ],
-            "People also search for": []
-        },
-        "Bang & Olufsen": {
-            "label": "Bang & Olufsen",
-            "description": "Bang & Olufsen is a Danish company that designs and manufactures audio products, television sets and telephones. Wikipedia",
-            "type": "",
-            "Headquarters ": [
-                "Struer",
-                " Denmark",
-                " Central Denmark Region"
-            ],
-            "CEO ": [
-                "Tue Mantoni"
-            ],
-            "Founded ": [
-                "1925"
-            ],
-            "Recent posts": []
-        },
-        "Bandai Visual": {
-            "label": "Bandai Visual",
-            "description": "Bandai Visual Company, Limited, is a Japanese anime, film production and distribution enterprise, established by Bandai Company, Limited and a subsidiary of Namco Bandai Holdings, Inc., which is based in Minato, Tokyo, Japan. Wikipedia",
-            "type": "",
-            "Founded ": "August 23, 1983",
-            "People also search for": []
-        },
-        "Bank Leumi": {
-            "label": "Bank Leumi",
-            "description": "Bank Leumi is an Israeli bank. It was founded in London as the Anglo Palestine Company on February 27, 1902, by members of the Zionist movement to promote the industry, construction, agriculture, and ... Wikipedia",
-            "type": "",
-            "CEO ": [
-                "Rakefet Russak-Aminoach"
-            ],
-            "Founder ": [
-                "Theodor Herzl"
-            ],
-            "Founded ": "February 27, 1902",
-            "People also search for": []
-        },
         "Bank Hapoalim": {
             "label": "Bank Hapoalim",
             "description": "Bank Hapoalim is Israel’s largest bank. The Bank has a significant presence in global financial markets. Wikipedia",
@@ -863,6 +850,19 @@
                 "1921",
                 " Israel"
             ],
+            "People also search for": []
+        },
+        "Bank Leumi": {
+            "label": "Bank Leumi",
+            "description": "Bank Leumi is an Israeli bank. It was founded in London as the Anglo Palestine Company on February 27, 1902, by members of the Zionist movement to promote the industry, construction, agriculture, and ... Wikipedia",
+            "type": "",
+            "CEO ": [
+                "Rakefet Russak-Aminoach"
+            ],
+            "Founder ": [
+                "Theodor Herzl"
+            ],
+            "Founded ": "February 27, 1902",
             "People also search for": []
         },
         "Bank of America": {
@@ -883,18 +883,6 @@
             "Founded ": "November 3, 1930",
             "Recent posts": []
         },
-        "Barilla Group": {
-            "label": "Barilla Group",
-            "description": "Barilla S.p.A. is an Italian and European food company. Wikipedia",
-            "type": "",
-            "Headquarters ": [
-                "Parma"
-            ],
-            "Founded ": [
-                "1877"
-            ],
-            "People also search for": []
-        },
         "Bank of Montreal": {
             "label": "Bank of Montreal",
             "description": "The Bank of Montreal, or BMO Financial Group, is one of the Big Five banks in Canada. It is the fourth-largest bank in Canada by market capitalization and based on assets, and is the eleventh largest bank in North America. Wikipedia",
@@ -910,6 +898,18 @@
                 "1817",
                 " Montreal",
                 " Canada"
+            ],
+            "People also search for": []
+        },
+        "Barilla Group": {
+            "label": "Barilla Group",
+            "description": "Barilla S.p.A. is an Italian and European food company. Wikipedia",
+            "type": "",
+            "Headquarters ": [
+                "Parma"
+            ],
+            "Founded ": [
+                "1877"
             ],
             "People also search for": []
         },
@@ -940,6 +940,15 @@
             ],
             "Recent posts": []
         },
+        "Bayerische Oberlandbahn": {
+            "label": "Bayerische Oberlandbahn",
+            "description": "The Bayerische Oberlandbahn GmbH is a private railway company based in Holzkirchen, Germany, and owned by Veolia Verkehr.\nBOB Trains connect Munich with the alpine hamlets of Bayrischzell, Lenggries, and the spa town of Tegernsee. Wikipedia",
+            "type": "",
+            "Founded ": [
+                "1998"
+            ],
+            "People also search for": []
+        },
         "Beechcraft": {
             "label": "Beechcraft",
             "description": "Beechcraft Corporation is an American manufacturer of general aviation and military aircraft, ranging from light single-engined aircraft to twin-engined turboprop transports, and military trainers. Wikipedia",
@@ -950,6 +959,22 @@
             "Founders ": [
                 "Walter Herschel Beech",
                 " Olive Ann Beech"
+            ],
+            "People also search for": []
+        },
+        "Behringer": {
+            "label": "Behringer",
+            "description": "Behringer is an audio equipment company founded by Uli Behringer in 1989, in Willich, Germany. Behringer was listed as the 14th largest manufacturer of music products in 2007. Wikipedia",
+            "type": "",
+            "CEO ": [
+                "Uli Behringer"
+            ],
+            "Founder ": [
+                "Uli Behringer"
+            ],
+            "Founded ": [
+                "1989",
+                " Germany"
             ],
             "People also search for": []
         },
@@ -971,31 +996,6 @@
                 "Paul Carl Beiersdorf"
             ],
             "Founded ": "March 28, 1882",
-            "People also search for": []
-        },
-        "Behringer": {
-            "label": "Behringer",
-            "description": "Behringer is an audio equipment company founded by Uli Behringer in 1989, in Willich, Germany. Behringer was listed as the 14th largest manufacturer of music products in 2007. Wikipedia",
-            "type": "",
-            "CEO ": [
-                "Uli Behringer"
-            ],
-            "Founder ": [
-                "Uli Behringer"
-            ],
-            "Founded ": [
-                "1989",
-                " Germany"
-            ],
-            "People also search for": []
-        },
-        "Bayerische Oberlandbahn": {
-            "label": "Bayerische Oberlandbahn",
-            "description": "The Bayerische Oberlandbahn GmbH is a private railway company based in Holzkirchen, Germany, and owned by Veolia Verkehr.\nBOB Trains connect Munich with the alpine hamlets of Bayrischzell, Lenggries, and the spa town of Tegernsee. Wikipedia",
-            "type": "",
-            "Founded ": [
-                "1998"
-            ],
             "People also search for": []
         },
         "Ben & Jerry's": {
@@ -1079,21 +1079,38 @@
         }
     },
     "summary": {
-        "label": 92,
-        "description": 92,
-        "type": 92,
-        "people_also_search_for": 1,
-        "founded": 1,
-        "headquarters": 1,
-        "recent_posts": 1,
-        "stock_price": 1,
-        "ceo": 1,
-        "founder": 1,
-        "customer_service": 1,
-        "track_flight_status": 1,
-        "founders": 1,
-        "see_results_about": 1,
-        "technical_support": 1
+        "label": {
+            "uri": "http://dbpedia.org/property/label",
+            "count": 92
+        },
+        "description": {
+            "uri": "http://purl.org/dc/elements/1.1/description",
+            "count": 92
+        },
+        "type": {
+            "uri": "http://dbpedia.org/property/type",
+            "count": 92
+        },
+        "headquarters": {
+            "uri": "http://dbpedia.org/property/headquarters",
+            "count": 22
+        },
+        "founded": {
+            "uri": "http://dbpedia.org/property/founded",
+            "count": 76
+        },
+        "ceo": {
+            "uri": "http://dbpedia.org/property/president/ceo",
+            "count": 23
+        },
+        "founder": {
+            "uri": "http://dbpedia.org/ontology/founder",
+            "count": 22
+        },
+        "founders": {
+            "uri": "http://dbpedia.org/property/founders",
+            "count": 5
+        }
     },
     "infoboxless": [
         "A. Lange & Söhne",
@@ -1104,5 +1121,14 @@
         "Air Ivoire",
         "Amway Global",
         "Arriva RP"
-    ]
+    ],
+    "Unmapped_Properties": {
+        "peopleAlsoSearchFor": 1,
+        "recentPosts": 1,
+        "stockPrice": 1,
+        "customerService": 1,
+        "trackFlightStatus": 1,
+        "seeResultsAbout": 1,
+        "technicalSupport": 1
+    }
 }

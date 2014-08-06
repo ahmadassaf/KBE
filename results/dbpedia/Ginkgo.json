@@ -22,17 +22,28 @@
         }
     },
     "summary": {
-        "label": 2,
-        "description": 2,
-        "type": 2,
-        "scientific_name": 1,
-        "rank": 1,
-        "lower_classifications": 1,
-        "see_results_about": 1
+        "label": {
+            "uri": "http://www.w3.org/2000/01/rdf-schema#label",
+            "count": 2
+        },
+        "description": {
+            "uri": "http://fr.dbpedia.org/ontology/abstract",
+            "count": 2
+        },
+        "type": {
+            "uri": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+            "count": 2
+        }
     },
     "infoboxless": [
         "Sphenobaiera",
         "Cheirophyllum",
         "Chiropteris"
-    ]
+    ],
+    "Unmapped_Properties": {
+        "scientificName": 1,
+        "rank": 1,
+        "lowerClassifications": 1,
+        "seeResultsAbout": 1
+    }
 }

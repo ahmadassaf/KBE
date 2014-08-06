@@ -5,14 +5,6 @@
             "description": "Lepidodendron — known as scale trees — is an extinct genus of primitive, vascular, arborescent plant related to the lycopsids. They were part of the coal forest flora. Wikipedia",
             "type": ""
         },
-        "Sigillaria": {
-            "label": "Sigillaria",
-            "description": "Sigillaria is a genus of extinct, spore-bearing, arborescent plants which flourished in the Late Carboniferous period but dwindled to extinction in the early Permian period. Wikipedia",
-            "type": "",
-            "Rank ": [
-                "Genus"
-            ]
-        },
         "Baragwanathia": {
             "label": "Baragwanathia",
             "description": "Baragwanathia is a genus of extinct plants of the division Lycopodiophyta of Late Silurian to Early Devonian age, fossils of which have been found in Australia, Canada and China. Wikipedia",
@@ -45,6 +37,14 @@
             ],
             "Higher classification ": [
                 "Huperzia"
+            ]
+        },
+        "Sigillaria": {
+            "label": "Sigillaria",
+            "description": "Sigillaria is a genus of extinct, spore-bearing, arborescent plants which flourished in the Late Carboniferous period but dwindled to extinction in the early Permian period. Wikipedia",
+            "type": "",
+            "Rank ": [
+                "Genus"
             ]
         },
         "Leclercqia": {
@@ -410,20 +410,6 @@
                 "Selaginella uncinata"
             ]
         },
-        "Selaginella apoda": {
-            "label": "Selaginella apoda",
-            "description": "Selaginella apoda, commonly known as meadow spike-moss, is a lycophyte native to much of the eastern United States and parts of northeastern Mexico. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Selaginella apoda"
-            ],
-            "Rank ": [
-                "Species"
-            ],
-            "Higher classification ": [
-                "Selaginella"
-            ]
-        },
         "Isoëtes": {
             "label": "Isoetes",
             "description": "Isoëtes, commonly known as the quillworts, is a genus of plants in the class Isoëtopsida and order Isoëtales. They are lycopods. There are about 140–150 species, with a cosmopolitan distribution but often scarce to rare. Wikipedia",
@@ -450,12 +436,12 @@
             ],
             "See results about": []
         },
-        "Selaginella selaginoides": {
-            "label": "Selaginella selaginoides",
-            "description": "Selaginella selaginoides is a non-flowering plant of the spikemoss genus Selaginella with a wide distribution around the Northern Hemisphere. It resembles a moss in appearance but is a vascular plant belonging to the division Lycopodiophyta. Wikipedia",
+        "Selaginella apoda": {
+            "label": "Selaginella apoda",
+            "description": "Selaginella apoda, commonly known as meadow spike-moss, is a lycophyte native to much of the eastern United States and parts of northeastern Mexico. Wikipedia",
             "type": "",
             "Scientific name ": [
-                "Selaginella selaginoides"
+                "Selaginella apoda"
             ],
             "Rank ": [
                 "Species"
@@ -478,18 +464,18 @@
                 "Species"
             ]
         },
-        "Isoetes lacustris": {
-            "label": "Isoetes lacustris",
-            "description": "Isoetes lacustris is a boreal quillwort native on both sides of the northern Atlantic Ocean. In Europe, it is distributed from Poland west to northeastern France, throughout Scandinavia, the west and ... Wikipedia",
+        "Selaginella selaginoides": {
+            "label": "Selaginella selaginoides",
+            "description": "Selaginella selaginoides is a non-flowering plant of the spikemoss genus Selaginella with a wide distribution around the Northern Hemisphere. It resembles a moss in appearance but is a vascular plant belonging to the division Lycopodiophyta. Wikipedia",
             "type": "",
             "Scientific name ": [
-                "Isoetes lacustris"
+                "Selaginella selaginoides"
             ],
             "Rank ": [
                 "Species"
             ],
             "Higher classification ": [
-                "Isoetes"
+                "Selaginella"
             ]
         },
         "Lycopodiella": {
@@ -509,6 +495,20 @@
                 "Lycopodiella inundata"
             ],
             "See results about": []
+        },
+        "Isoetes lacustris": {
+            "label": "Isoetes lacustris",
+            "description": "Isoetes lacustris is a boreal quillwort native on both sides of the northern Atlantic Ocean. In Europe, it is distributed from Poland west to northeastern France, throughout Scandinavia, the west and ... Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Isoetes lacustris"
+            ],
+            "Rank ": [
+                "Species"
+            ],
+            "Higher classification ": [
+                "Isoetes"
+            ]
         },
         "Selaginella carinata": {
             "label": "Selaginella carinata",
@@ -540,20 +540,6 @@
                 "Diphasiastrum digitatum"
             ]
         },
-        "Lycopodiella inundata": {
-            "label": "Lycopodiella inundata",
-            "description": "Lycopodiella inundata is a species of club moss known by the common names inundated club moss, marsh club moss and northern bog club moss. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Lycopodiella inundata"
-            ],
-            "Rank ": [
-                "Species"
-            ],
-            "Higher classification ": [
-                "Lycopodiella"
-            ]
-        },
         "Isoetes nuttallii": {
             "label": "Isoetes nuttallii",
             "description": "Isoetes nuttallii is a species of quillwort, a type of lycopod. Its common name is Nuttall's quillwort. Wikipedia",
@@ -566,6 +552,20 @@
             ],
             "Higher classification ": [
                 "Isoetes"
+            ]
+        },
+        "Lycopodiella inundata": {
+            "label": "Lycopodiella inundata",
+            "description": "Lycopodiella inundata is a species of club moss known by the common names inundated club moss, marsh club moss and northern bog club moss. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Lycopodiella inundata"
+            ],
+            "Rank ": [
+                "Species"
+            ],
+            "Higher classification ": [
+                "Lycopodiella"
             ]
         },
         "Phylloglossum": {
@@ -582,6 +582,14 @@
                 "Phylloglossum"
             ]
         },
+        "Selaginella bryopteris": {
+            "label": "Selaginella bryopteris",
+            "description": "Selaginella bryopteris, known commonly as sanjeevini and sanjivini booti, is a lithophytic plant. It is used medicinally in India. The popular name sanjeevani which translates as \"One that infuses life\" derives from the medicinal properties. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Selaginella bryopteris"
+            ]
+        },
         "Lycopodiopsida": {
             "label": "Lycopodiopsida",
             "description": "The Lycopodiopsida are a class of plants often loosely grouped as the fern allies. Traditionally, the group included not only the clubmosses and firmosses, but also the spikemosses and the quillworts. Wikipedia",
@@ -594,14 +602,6 @@
             ],
             "Rank ": [
                 "Class"
-            ]
-        },
-        "Selaginella bryopteris": {
-            "label": "Selaginella bryopteris",
-            "description": "Selaginella bryopteris, known commonly as sanjeevini and sanjivini booti, is a lithophytic plant. It is used medicinally in India. The popular name sanjeevani which translates as \"One that infuses life\" derives from the medicinal properties. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Selaginella bryopteris"
             ]
         },
         "Isoetes eludens": {
@@ -620,20 +620,20 @@
                 "Lycopodium obscurum"
             ]
         },
-        "Selaginella serpens": {
-            "label": "Selaginella serpens",
-            "description": "Selaginella serpens is a species of plant in the Selaginellaceae family. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Selaginella serpens"
-            ]
-        },
         "Selaginella oregana": {
             "label": "Selaginella oregana",
             "description": "Selaginella oregana is a species of spikemoss known by the common name Oregon spikemoss. It is native to the Pacific Coast of western North America, where it can be found from British Columbia to northern California. Wikipedia",
             "type": "",
             "Scientific name ": [
                 "Selaginella oregana"
+            ]
+        },
+        "Selaginella serpens": {
+            "label": "Selaginella serpens",
+            "description": "Selaginella serpens is a species of plant in the Selaginellaceae family. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Selaginella serpens"
             ]
         },
         "Selaginella umbrosa": {
@@ -672,11 +672,6 @@
                 "Isoetes"
             ]
         },
-        "Lepidodendrales": {
-            "label": "Lepidodendrales",
-            "description": "Lepidodendrales were primitive, vascular, arborescent plants related to the lycopsids. They thrived during the Carboniferous period, and some reached heights of over 30 meters, with trunks often more than one meter in diameter. Wikipedia",
-            "type": ""
-        },
         "Isoetes howellii": {
             "label": "Isoetes howellii",
             "description": "Isoetes howellii is a species of quillwort, a type of lycopod. Its common name is Howell's quillwort. This is a \"primitive\" aquatic plant native to western North America which grows in wet habitat such as vernal pools. Wikipedia",
@@ -690,6 +685,11 @@
             "Higher classification ": [
                 "Isoetes"
             ]
+        },
+        "Lepidodendrales": {
+            "label": "Lepidodendrales",
+            "description": "Lepidodendrales were primitive, vascular, arborescent plants related to the lycopsids. They thrived during the Carboniferous period, and some reached heights of over 30 meters, with trunks often more than one meter in diameter. Wikipedia",
+            "type": ""
         },
         "Lycopodium dendroideum": {
             "label": "Lycopodium dendroideum",
@@ -705,6 +705,14 @@
             "type": "",
             "Scientific name ": [
                 "Lycopodium deuterodensum"
+            ]
+        },
+        "Selaginella asprella": {
+            "label": "Selaginella asprella",
+            "description": "Selaginella asprella is a species of spikemoss known by the common name bluish spikemoss. It is native to California and Baja California, where it has a disjunct distribution, occurring in the Klamath ... Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Selaginella asprella"
             ]
         },
         "Selaginella bifida": {
@@ -723,14 +731,6 @@
                 "Species"
             ]
         },
-        "Selaginella asprella": {
-            "label": "Selaginella asprella",
-            "description": "Selaginella asprella is a species of spikemoss known by the common name bluish spikemoss. It is native to California and Baja California, where it has a disjunct distribution, occurring in the Klamath ... Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Selaginella asprella"
-            ]
-        },
         "Selaginella bigelovii": {
             "label": "Selaginella bigelovii",
             "description": "Selaginella bigelovii is a species of spikemoss known by the common names bushy spikemoss and Bigelow's spikemoss. Wikipedia",
@@ -747,20 +747,20 @@
                 "Selaginella cinerascens"
             ]
         },
-        "Selaginella eremophila": {
-            "label": "Selaginella eremophila",
-            "description": "Selaginella eremophila is a species of spikemoss known by the common name desert spikemoss. It is native to the deserts and adjacent mountains around the intersection of California and Arizona with Baja California. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Selaginella eremophila"
-            ]
-        },
         "Selaginella densa": {
             "label": "Selaginella densa",
             "description": "Selaginella densa is a species of spikemoss known by the common names lesser spikemoss, prairie spikemoss, and Rocky Mountains spikemoss. Wikipedia",
             "type": "",
             "Scientific name ": [
                 "Selaginella densa"
+            ]
+        },
+        "Selaginella eremophila": {
+            "label": "Selaginella eremophila",
+            "description": "Selaginella eremophila is a species of spikemoss known by the common name desert spikemoss. It is native to the deserts and adjacent mountains around the intersection of California and Arizona with Baja California. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Selaginella eremophila"
             ]
         },
         "Selaginella hansenii": {
@@ -779,6 +779,14 @@
                 "Selaginella wallacei"
             ]
         },
+        "Selaginella watsonii": {
+            "label": "Selaginella watsonii",
+            "description": "Selaginella watsonii is a species of spikemoss known by the common name Watson's spikemoss. It is native to the western United States, where it grows in many rocky habitat types, including high mountain peaks in alpine climates. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Selaginella watsonii"
+            ]
+        },
         "Selaginella lepidophylla": {
             "label": "Selaginella lepidophylla",
             "description": "Selaginella lepidophylla is a species of desert plant in the spikemoss family. S. lepidophylla is noted for its ability to survive almost complete desiccation; during dry weather in its native habitat, ... Wikipedia",
@@ -791,14 +799,6 @@
             ],
             "Rank ": [
                 "Species"
-            ]
-        },
-        "Selaginella watsonii": {
-            "label": "Selaginella watsonii",
-            "description": "Selaginella watsonii is a species of spikemoss known by the common name Watson's spikemoss. It is native to the western United States, where it grows in many rocky habitat types, including high mountain peaks in alpine climates. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Selaginella watsonii"
             ]
         },
         "Isoetes melanospora": {
@@ -822,14 +822,18 @@
         }
     },
     "summary": {
-        "label": 75,
-        "description": 75,
-        "type": 75,
-        "rank": 1,
-        "higher_classification": 1,
-        "see_results_about": 1,
-        "scientific_name": 1,
-        "lower_classifications": 1
+        "label": {
+            "uri": "http://www.w3.org/2000/01/rdf-schema#label",
+            "count": 75
+        },
+        "description": {
+            "uri": "http://fr.dbpedia.org/ontology/abstract",
+            "count": 75
+        },
+        "type": {
+            "uri": "http://dbpedia.org/property/type",
+            "count": 75
+        }
     },
     "infoboxless": [
         "Lycopodium",
@@ -846,5 +850,12 @@
         "Huperziaceae",
         "Cyclodendron",
         "Brasilodendron"
-    ]
+    ],
+    "Unmapped_Properties": {
+        "rank": 1,
+        "higherClassification": 1,
+        "seeResultsAbout": 1,
+        "scientificName": 1,
+        "lowerClassifications": 1
+    }
 }

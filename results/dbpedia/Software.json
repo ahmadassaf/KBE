@@ -1,17 +1,5 @@
 {
     "instances": {
-        "Aliens versus Predator 2": {
-            "label": "Aliens versus Predator 2",
-            "description": "Aliens versus Predator 2 is a science fiction first-person shooter computer game developed by Monolith Productions and published by Fox Interactive for Microsoft Windows and Mac OS X computers in 2001. Wikipedia",
-            "type": "",
-            "See results about": []
-        },
-        "BloodRayne": {
-            "label": "BloodRayne",
-            "description": "BloodRayne is an action hack and slash video game and the first game in the BloodRayne series. In addition to a sequel, BloodRayne 2, Bloodrayne inspired a series of films and self-contained comic books. Wikipedia",
-            "type": "",
-            "See results about": []
-        },
         "Autodesk Inventor": {
             "label": "John Walker",
             "description": "John Walker is a computer programmer, co-founder of the computer-aided design software company Autodesk, and author. Wikipedia",
@@ -26,15 +14,33 @@
             "description": "Common Lisp is a dialect of the Lisp programming language, published in ANSI standard document ANSI INCITS 226-1994. From the ANSI Common Lisp standard the Common Lisp HyperSpec has been derived for use with web browsers. Wikipedia",
             "type": "",
             "See results about": []
+        },
+        "BloodRayne": {
+            "label": "BloodRayne",
+            "description": "BloodRayne is an action hack and slash video game and the first game in the BloodRayne series. In addition to a sequel, BloodRayne 2, Bloodrayne inspired a series of films and self-contained comic books. Wikipedia",
+            "type": "",
+            "See results about": []
+        },
+        "Aliens versus Predator 2": {
+            "label": "Aliens versus Predator 2",
+            "description": "Aliens versus Predator 2 is a science fiction first-person shooter computer game developed by Monolith Productions and published by Fox Interactive for Microsoft Windows and Mac OS X computers in 2001. Wikipedia",
+            "type": "",
+            "See results about": []
         }
     },
     "summary": {
-        "label": 4,
-        "description": 4,
-        "type": 4,
-        "see_results_about": 1,
-        "born": 1,
-        "people_also_search_for": 1
+        "label": {
+            "uri": "http://dbpedia.org/property/label",
+            "count": 4
+        },
+        "description": {
+            "uri": "http://dbpedia.org/property/description",
+            "count": 4
+        },
+        "type": {
+            "uri": "http://dbpedia.org/property/type",
+            "count": 4
+        }
     },
     "infoboxless": [
         "3-D Tic-Tac-Toe",
@@ -50,8 +56,8 @@
         "Ability Office",
         "Acquisition (software)",
         "ActiveSync",
-        "Adobe FrameMaker",
         "Adobe Atmosphere",
+        "Adobe FrameMaker",
         "Adobe PageMaker",
         "Aion: The Tower of Eternity",
         "Alan Wake",
@@ -133,5 +139,10 @@
         "Cossacks: European Wars",
         "Coyote Linux",
         "Crazy Machines"
-    ]
+    ],
+    "Unmapped_Properties": {
+        "born": 1,
+        "peopleAlsoSearchFor": 1,
+        "seeResultsAbout": 1
+    }
 }

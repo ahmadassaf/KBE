@@ -1,25 +1,5 @@
 {
     "instances": {
-        "Österreichische Galerie Belvedere": {
-            "label": "Österreichische Galerie Belvedere",
-            "description": "The Österreichische Galerie Belvedere is a museum housed in the Belvedere palace, in Vienna, Austria. Wikipedia",
-            "type": "",
-            "Address ": "Prinz Eugen-Straße 27, 1030 Wien, Austria",
-            "Hours ": [
-                "+43 1 79557134"
-            ],
-            "Phone ": [
-                "Museum"
-            ],
-            "Function ": [
-                "The Kiss",
-                " Beethoven Frieze",
-                " Death and the Maiden",
-                " Opferszene",
-                " The Family"
-            ],
-            "People also search for": []
-        },
         "Špilberk Castle": {
             "label": "Špilberk Castle",
             "description": "Špilberk Castle is an old castle on the hilltop in Brno, Southern Moravia. It began to be built as early as the first half of the 13th century by the Přemyslid kings and complete by King Ottokar II of Bohemia. Wikipedia",
@@ -56,6 +36,25 @@
             ],
             "People also search for": []
         },
+        "120 Collins Street": {
+            "label": "120 Collins Street",
+            "description": "120 Collins Street is a 265-metre skyscraper in Melbourne, Victoria, Australia. Built from 1989 to 1991 and comprises 50 levels of office accommodation and 4 levels of plant. Wikipedia",
+            "type": "",
+            "Address ": [
+                "Melbourne VIC 3000",
+                " Australia"
+            ],
+            "Height ": [
+                "869' (265 m)"
+            ],
+            "Opened ": [
+                "1991"
+            ],
+            "Floors ": [
+                "52"
+            ],
+            "People also search for": []
+        },
         "191 Peachtree Tower": {
             "label": "191 Peachtree Tower",
             "description": "One Ninety One Peachtree Tower is a 235 m 50-story skyscraper in Atlanta, Georgia. Designed by Johnson/Burgee Architects and Kendall/Heaton Associates Inc, the building was completed in 1990 and is the ... Wikipedia",
@@ -83,43 +82,6 @@
             ],
             "People also search for": []
         },
-        "120 Collins Street": {
-            "label": "120 Collins Street",
-            "description": "120 Collins Street is a 265-metre skyscraper in Melbourne, Victoria, Australia. Built from 1989 to 1991 and comprises 50 levels of office accommodation and 4 levels of plant. Wikipedia",
-            "type": "",
-            "Address ": [
-                "Melbourne VIC 3000",
-                " Australia"
-            ],
-            "Height ": [
-                "869' (265 m)"
-            ],
-            "Opened ": [
-                "1991"
-            ],
-            "Floors ": [
-                "52"
-            ],
-            "People also search for": []
-        },
-        "33 South Sixth": {
-            "label": "33 South Sixth",
-            "description": "33 South Sixth, formerly known as International Multifoods Tower, is a skyscraper in Minneapolis, Minnesota. It was designed by Skidmore, Owings and Merrill and stands 52 stories tall at 668 ft. Wikipedia",
-            "type": "",
-            "Address ": [
-                "33 6th Street South"
-            ],
-            "Height ": [
-                "668' (204 m)"
-            ],
-            "Opened ": [
-                "1983"
-            ],
-            "Floors ": [
-                "50"
-            ],
-            "People also search for": []
-        },
         "300 North LaSalle": {
             "label": "300 North LaSalle",
             "description": "300 North LaSalle is a 60-story mixed-use building, constructed from 2006 to 2009, located on the north bank of the Chicago River on the Near North Side community area of Chicago, Illinois, United States. Wikipedia",
@@ -141,21 +103,21 @@
             ],
             "People also search for": []
         },
-        "555 17th Street": {
-            "label": "555 17th Street",
-            "description": "555 17th Street, formerly known as the Anaconda Tower and the Qwest Tower, is a skyscraper in Denver, Colorado. The building was completed in 1978, and rises 40 floors and 507 feet in height. Wikipedia",
+        "33 South Sixth": {
+            "label": "33 South Sixth",
+            "description": "33 South Sixth, formerly known as International Multifoods Tower, is a skyscraper in Minneapolis, Minnesota. It was designed by Skidmore, Owings and Merrill and stands 52 stories tall at 668 ft. Wikipedia",
             "type": "",
             "Address ": [
-                "Denver"
+                "33 6th Street South"
             ],
             "Height ": [
-                "507' (155 m)"
+                "668' (204 m)"
             ],
             "Opened ": [
-                "1978"
+                "1983"
             ],
             "Floors ": [
-                "40"
+                "50"
             ],
             "People also search for": []
         },
@@ -177,6 +139,51 @@
             ],
             "Architect ": [
                 "Emery Roth"
+            ],
+            "People also search for": []
+        },
+        "360 Condominiums": {
+            "label": "360 Condominiums",
+            "description": "The Austin 360 Condominiums Tower is a residential skyscraper at 360 Nueces Street, Downtown Austin, Texas, United States, standing 562' 9\" tall with 44 floors and 430 rooms with over 14,000 sq ft of retail space. Wikipedia",
+            "type": "",
+            "Address ": [
+                "360 Nueces St",
+                " Austin",
+                " TX 78701"
+            ],
+            "Height ": [
+                "581' (177 m)"
+            ],
+            "Opened ": [
+                "2008"
+            ],
+            "Floors ": [
+                "44"
+            ],
+            "Phone ": [
+                "(512) 904-5600"
+            ],
+            "Architect ": [
+                "Preston Partnership",
+                " LLC"
+            ],
+            "People also search for": []
+        },
+        "555 17th Street": {
+            "label": "555 17th Street",
+            "description": "555 17th Street, formerly known as the Anaconda Tower and the Qwest Tower, is a skyscraper in Denver, Colorado. The building was completed in 1978, and rises 40 floors and 507 feet in height. Wikipedia",
+            "type": "",
+            "Address ": [
+                "Denver"
+            ],
+            "Height ": [
+                "507' (155 m)"
+            ],
+            "Opened ": [
+                "1978"
+            ],
+            "Floors ": [
+                "40"
             ],
             "People also search for": []
         },
@@ -206,30 +213,26 @@
             ],
             "People also search for": []
         },
-        "360 Condominiums": {
-            "label": "360 Condominiums",
-            "description": "The Austin 360 Condominiums Tower is a residential skyscraper at 360 Nueces Street, Downtown Austin, Texas, United States, standing 562' 9\" tall with 44 floors and 430 rooms with over 14,000 sq ft of retail space. Wikipedia",
+        "777 Tower": {
+            "label": "777 Tower",
+            "description": "777 Tower is a 221 m, 52-story office building designed by César Pelli in downtown Los Angeles, California. Wikipedia",
             "type": "",
             "Address ": [
-                "360 Nueces St",
-                " Austin",
-                " TX 78701"
+                "777 South Figueroa Street",
+                " Los Angeles",
+                " 94710"
             ],
             "Height ": [
-                "581' (177 m)"
+                "725' (221 m)"
             ],
             "Opened ": [
-                "2008"
+                "1991"
             ],
             "Floors ": [
-                "44"
+                "55"
             ],
-            "Phone ": [
-                "(512) 904-5600"
-            ],
-            "Architect ": [
-                "Preston Partnership",
-                " LLC"
+            "Architecture firm ": [
+                "César Pelli and Associates"
             ],
             "People also search for": []
         },
@@ -266,26 +269,49 @@
             ],
             "People also search for": []
         },
-        "777 Tower": {
-            "label": "777 Tower",
-            "description": "777 Tower is a 221 m, 52-story office building designed by César Pelli in downtown Los Angeles, California. Wikipedia",
+        "Abraj Al Bait": {
+            "label": "Abraj Al Bait",
+            "description": "The Abraj Al-Bait Towers, also known as the Mecca Royal Hotel Clock Tower, is a government-owned building complex in Mecca, Saudi Arabia. Wikipedia",
+            "type": "",
+            "People also search for": []
+        },
+        "Accademia": {
+            "label": "Accademia di Belle Arti Firenze",
+            "description": "The Accademia di Belle Arti di Firenze is an art academy in Florence, Italy. Wikipedia",
+            "type": "",
+            "Address ": "Via Ricasoli, 66, 50122 Firenze, Italy",
+            "Phone ": [
+                "+39 055 215449"
+            ],
+            "Founders ": [
+                "Michelangelo",
+                " Cosimo I de' Medici",
+                " Grand Duke of Tuscany",
+                " Giorgio Vasari"
+            ],
+            "People also search for": []
+        },
+        "Admiralty Head Light": {
+            "label": "Admiralty Head Light",
+            "description": "The Admiralty Head Light is a lighthouse located in Fort Casey State Park near Coupeville on Whidbey Island, Washington. Wikipedia",
             "type": "",
             "Address ": [
-                "777 South Figueroa Street",
-                " Los Angeles",
-                " 94710"
-            ],
-            "Height ": [
-                "725' (221 m)"
+                "1280 Engle Rd",
+                " Coupeville",
+                " WA 98239"
             ],
             "Opened ": [
-                "1991"
+                "1903"
             ],
-            "Floors ": [
-                "55"
+            "First lit ": [
+                "1903"
             ],
-            "Architecture firm ": [
-                "César Pelli and Associates"
+            "Hours ": [
+                "(360) 240-5584"
+            ],
+            "Phone ": [
+                "Stucco",
+                " Brick"
             ],
             "People also search for": []
         },
@@ -343,75 +369,16 @@
             ],
             "People also search for": []
         },
-        "Accademia": {
-            "label": "Accademia di Belle Arti Firenze",
-            "description": "The Accademia di Belle Arti di Firenze is an art academy in Florence, Italy. Wikipedia",
-            "type": "",
-            "Address ": "Via Ricasoli, 66, 50122 Firenze, Italy",
-            "Phone ": [
-                "+39 055 215449"
-            ],
-            "Founders ": [
-                "Michelangelo",
-                " Cosimo I de' Medici",
-                " Grand Duke of Tuscany",
-                " Giorgio Vasari"
-            ],
-            "People also search for": []
-        },
-        "Admiralty Head Light": {
-            "label": "Admiralty Head Light",
-            "description": "The Admiralty Head Light is a lighthouse located in Fort Casey State Park near Coupeville on Whidbey Island, Washington. Wikipedia",
-            "type": "",
-            "Address ": [
-                "1280 Engle Rd",
-                " Coupeville",
-                " WA 98239"
-            ],
-            "Opened ": [
-                "1903"
-            ],
-            "First lit ": [
-                "1903"
-            ],
-            "Hours ": [
-                "(360) 240-5584"
-            ],
-            "Phone ": [
-                "Stucco",
-                " Brick"
-            ],
-            "People also search for": []
+        "All Saints' Church, Wittenberg": {
+            "label": "All Saints' Church, Wittenberg",
+            "description": "All Saints' Church, commonly referred to as Schloßkirche to distinguish it from the Stadtkirche of St. Mary — and sometimes known as the Reformation Memorial Church — was a Catholic church which later ... Wikipedia",
+            "type": ""
         },
         "Almendres Cromlech": {
             "label": "Almendres Cromlech",
             "description": "The Cromlech of the Almendres megalithic complex, located near Guadalupe, in the civil parish of Nossa Senhora de Guadalupe, municipality of Évora, is the largest existing group of structured menhirs ... Wikipedia",
             "type": "",
             "People also search for": []
-        },
-        "All Saints' Church, Wittenberg": {
-            "label": "All Saints' Church, Wittenberg",
-            "description": "All Saints' Church, commonly referred to as Schloßkirche to distinguish it from the Stadtkirche of St. Mary — and sometimes known as the Reformation Memorial Church — was a Catholic church which later ... Wikipedia",
-            "type": ""
-        },
-        "Anta Grande do Zambujeiro": {
-            "label": "Anta Grande do Zambujeiro",
-            "description": "Anta Grande do Zambujeiro is a megalithic monument located in Nossa Senhora da Tourega, near Valverde, in the municipality of Évora, considered one of the biggest such structures in the Iberian Peninsula. Wikipedia",
-            "type": ""
-        },
-        "Archives of American Art": {
-            "label": "Archives of American Art",
-            "description": "The Archives of American Art is the largest collection of primary resources documenting the history of the visual arts in the United States. Wikipedia",
-            "type": "",
-            "Address ": [
-                "750 9th St NW #2200",
-                " Washington",
-                " DC 20001"
-            ],
-            "Hours ": [
-                "(202) 633-7950"
-            ],
-            "Recent posts": []
         },
         "Andersonville National Historic Site": {
             "label": "Andersonville National Historic Site",
@@ -431,6 +398,25 @@
             "Management ": [
                 "U.S. National Park Service"
             ]
+        },
+        "Anta Grande do Zambujeiro": {
+            "label": "Anta Grande do Zambujeiro",
+            "description": "Anta Grande do Zambujeiro is a megalithic monument located in Nossa Senhora da Tourega, near Valverde, in the municipality of Évora, considered one of the biggest such structures in the Iberian Peninsula. Wikipedia",
+            "type": ""
+        },
+        "Archives of American Art": {
+            "label": "Archives of American Art",
+            "description": "The Archives of American Art is the largest collection of primary resources documenting the history of the visual arts in the United States. Wikipedia",
+            "type": "",
+            "Address ": [
+                "750 9th St NW #2200",
+                " Washington",
+                " DC 20001"
+            ],
+            "Hours ": [
+                "(202) 633-7950"
+            ],
+            "Recent posts": []
         },
         "Arlene Schnitzer Concert Hall": {
             "label": "Arlene Schnitzer Concert Hall, Portland",
@@ -528,29 +514,6 @@
             ],
             "People also search for": []
         },
-        "BMW Museum": {
-            "label": "BMW Museum",
-            "description": "The BMW Museum is an automobile museum in Munich, Germany. Located near the Olympiapark, it deals with the history of the automobile manufacturer BMW.\nThe museum was established in 1973, shortly after the Summer Olympics opened. Wikipedia",
-            "type": "",
-            "Address ": "Am Olympiapark 2, 80809 München, Germany",
-            "Opened ": [
-                "1972"
-            ],
-            "Hours ": [
-                "Contemporary architecture"
-            ],
-            "Architectural style ": [
-                "+49 89 125016001"
-            ],
-            "Phone ": [
-                "Coop Himmelb(l)au"
-            ],
-            "Architecture firm ": [
-                "Karl Schwanzer",
-                " Coop Himmelb(l)au"
-            ],
-            "People also search for": []
-        },
         "Aviano Air Base": {
             "label": "Aviano Air Base",
             "description": "Aviano Air Base is a NATO base in northeastern Italy, in the Friuli-Venezia Giulia region. It is located in the Aviano municipality, at the foot of the Carnic Pre-Alps, or Southern Carnic Alps, about 15 kilometers from Pordenone. Wikipedia",
@@ -592,6 +555,29 @@
             ],
             "People also search for": []
         },
+        "BMW Museum": {
+            "label": "BMW Museum",
+            "description": "The BMW Museum is an automobile museum in Munich, Germany. Located near the Olympiapark, it deals with the history of the automobile manufacturer BMW.\nThe museum was established in 1973, shortly after the Summer Olympics opened. Wikipedia",
+            "type": "",
+            "Address ": "Am Olympiapark 2, 80809 München, Germany",
+            "Opened ": [
+                "1972"
+            ],
+            "Hours ": [
+                "Contemporary architecture"
+            ],
+            "Architectural style ": [
+                "+49 89 125016001"
+            ],
+            "Phone ": [
+                "Coop Himmelb(l)au"
+            ],
+            "Architecture firm ": [
+                "Karl Schwanzer",
+                " Coop Himmelb(l)au"
+            ],
+            "People also search for": []
+        },
         "BOK Tower": {
             "label": "Bok Tower Gardens",
             "description": "Bok Tower Gardens is a botanical garden and bird sanctuary, located north of Lake Wales, Florida, United States. Wikipedia",
@@ -627,19 +613,6 @@
             ],
             "Architect ": [
                 "Helmut Jahn"
-            ],
-            "People also search for": []
-        },
-        "Beit Rubinstein": {
-            "label": "Beit Rubinstein",
-            "description": "Rubinstein Building is a landmark skyscraper in Tel Aviv, Israel. The building was named after its developer, Rubinstein and Company. It was designed by Freiberger Architects. Wikipedia",
-            "type": "",
-            "Address ": [
-                "Tel Aviv-Yafo",
-                " Israel"
-            ],
-            "Opened ": [
-                "1999"
             ],
             "People also search for": []
         },
@@ -679,6 +652,19 @@
                 " William Vertue",
                 " Robert Vertue",
                 " George Phillips Manners"
+            ],
+            "People also search for": []
+        },
+        "Beit Rubinstein": {
+            "label": "Beit Rubinstein",
+            "description": "Rubinstein Building is a landmark skyscraper in Tel Aviv, Israel. The building was named after its developer, Rubinstein and Company. It was designed by Freiberger Architects. Wikipedia",
+            "type": "",
+            "Address ": [
+                "Tel Aviv-Yafo",
+                " Israel"
+            ],
+            "Opened ": [
+                "1999"
             ],
             "People also search for": []
         },
@@ -749,6 +735,26 @@
                 " France"
             ]
         },
+        "Österreichische Galerie Belvedere": {
+            "label": "Österreichische Galerie Belvedere",
+            "description": "The Österreichische Galerie Belvedere is a museum housed in the Belvedere palace, in Vienna, Austria. Wikipedia",
+            "type": "",
+            "Address ": "Prinz Eugen-Straße 27, 1030 Wien, Austria",
+            "Hours ": [
+                "+43 1 79557134"
+            ],
+            "Phone ": [
+                "Museum"
+            ],
+            "Function ": [
+                "The Kiss",
+                " Beethoven Frieze",
+                " Death and the Maiden",
+                " Opferszene",
+                " The Family"
+            ],
+            "People also search for": []
+        },
         "Beylerbeyi Palace": {
             "label": "Beylerbeyi Palace",
             "description": "The Beylerbeyi Palace is located in the Beylerbeyi neighbourhood of Istanbul, Turkey at the Asian side of the Bosphorus. An Imperial Ottoman summer residence built in the 1860s, it is now situated immediately north of the 1973 Bosphorus Bridge. Wikipedia",
@@ -775,24 +781,6 @@
                 " Ottoman architecture",
                 " Baroque architecture",
                 " Second Empire architecture"
-            ],
-            "People also search for": []
-        },
-        "Bradford Cathedral": {
-            "label": "Bradford Cathedral",
-            "description": "Bradford Cathedral, full name Cathedral Church of St Peter, is situated in the heart of Bradford in West Yorkshire, England, on a site used for Christian worship since the 8th century when missionaries based in Dewsbury evangelised the region. Wikipedia",
-            "type": "",
-            "Address ": [
-                "1 Stott Hill",
-                " Bradford",
-                " West Yorkshire BD1 4EH",
-                " United Kingdom"
-            ],
-            "Phone ": [
-                "+44 1274 777720"
-            ],
-            "Architectural style ": [
-                "English Gothic architecture"
             ],
             "People also search for": []
         },
@@ -825,17 +813,23 @@
             "description": "The Bosmal City Center is a business and residential tower located in Sarajevo, Bosnia and Herzegovina. Standing 118 m high, it is the second tallest residential building in the Balkans. Wikipedia",
             "type": ""
         },
-        "Butser Ancient Farm": {
-            "label": "Butser Ancient Farm",
-            "description": "Butser Ancient Farm is an archaeological open air museum located near to Petersfield in Hampshire, southern England. Wikipedia",
+        "Bradford Cathedral": {
+            "label": "Bradford Cathedral",
+            "description": "Bradford Cathedral, full name Cathedral Church of St Peter, is situated in the heart of Bradford in West Yorkshire, England, on a site used for Christian worship since the 8th century when missionaries based in Dewsbury evangelised the region. Wikipedia",
             "type": "",
             "Address ": [
-                "Chalton Ln",
-                " Waterlooville",
-                " Chalton",
-                " Hampshire PO8 0BG",
+                "1 Stott Hill",
+                " Bradford",
+                " West Yorkshire BD1 4EH",
                 " United Kingdom"
-            ]
+            ],
+            "Phone ": [
+                "+44 1274 777720"
+            ],
+            "Architectural style ": [
+                "English Gothic architecture"
+            ],
+            "People also search for": []
         },
         "Bressay Lighthouse": {
             "label": "Bressay Lighthouse",
@@ -881,11 +875,17 @@
             ],
             "People also search for": []
         },
-        "Cambridge University Library": {
-            "label": "Cambridge University Library",
-            "description": "",
+        "Butser Ancient Farm": {
+            "label": "Butser Ancient Farm",
+            "description": "Butser Ancient Farm is an archaeological open air museum located near to Petersfield in Hampshire, southern England. Wikipedia",
             "type": "",
-            "People also search for": []
+            "Address ": [
+                "Chalton Ln",
+                " Waterlooville",
+                " Chalton",
+                " Hampshire PO8 0BG",
+                " United Kingdom"
+            ]
         },
         "Cairo Tower": {
             "label": "Cairo Tower",
@@ -937,6 +937,12 @@
             ],
             "People also search for": []
         },
+        "Cambridge University Library": {
+            "label": "Cambridge University Library",
+            "description": "",
+            "type": "",
+            "People also search for": []
+        },
         "Campbell Mithun Tower": {
             "label": "Campbell Mithun Tower",
             "description": "The Campbell Mithun Tower in Minneapolis, Minnesota, USA is a 42-floor tower located on 9th Street and 3rd Avenue. Wikipedia",
@@ -960,6 +966,20 @@
                 "(612) 347-1000"
             ],
             "People also search for": []
+        },
+        "Cape Canaveral Air Force Station": {
+            "label": "Cape Canaveral Air Force Station",
+            "description": "Cape Canaveral Air Force Station is an installation of the United States Air Force Space Command's 45th Space Wing, headquartered at nearby Patrick Air Force Base. Wikipedia",
+            "type": "",
+            "Address ": [
+                "Cape Canaveral",
+                " FL 32920",
+                " United States"
+            ],
+            "Area ": [
+                "133 acres (54 ha)"
+            ],
+            "See results about": []
         },
         "Carew Tower": {
             "label": "Carew Tower",
@@ -991,27 +1011,21 @@
             ],
             "People also search for": []
         },
-        "Cape Canaveral Air Force Station": {
-            "label": "Cape Canaveral Air Force Station",
-            "description": "Cape Canaveral Air Force Station is an installation of the United States Air Force Space Command's 45th Space Wing, headquartered at nearby Patrick Air Force Base. Wikipedia",
+        "Casa Malaparte": {
+            "label": "Casa Malaparte",
+            "description": "Casa Malaparte is a house on Punta Massullo, on the eastern side of the Isle of Capri, Italy. It is one of the best examples of Italian modern and contemporary architecture. Wikipedia",
             "type": "",
-            "Address ": [
-                "Cape Canaveral",
-                " FL 32920",
-                " United States"
+            "Opened ": [
+                "1937"
             ],
-            "Area ": [
-                "133 acres (54 ha)"
+            "Architectural style ": [
+                "Italian modern and contemporary architecture"
             ],
-            "See results about": []
-        },
-        "Castle Solitude": {
-            "label": "Castle Solitude",
-            "description": "Castle Solitude in Stuttgart, Germany, was built as a hunting lodge between 1764 and 1769 under Duke Karl Eugen of Württemberg. It is not a true castle, but rather a rococo palace. Since 1956 the area is part of the urban district of Stuttgart-West. Wikipedia",
-            "type": "",
-            "Address ": "Solitude 1, 70197 Stuttgart, Germany",
-            "Phone ": [
-                "+49 711 2634916"
+            "Function ": [
+                "House"
+            ],
+            "Architect ": [
+                "Adalberto Libera"
             ],
             "People also search for": []
         },
@@ -1034,21 +1048,13 @@
             ],
             "People also search for": []
         },
-        "Casa Malaparte": {
-            "label": "Casa Malaparte",
-            "description": "Casa Malaparte is a house on Punta Massullo, on the eastern side of the Isle of Capri, Italy. It is one of the best examples of Italian modern and contemporary architecture. Wikipedia",
+        "Castle Solitude": {
+            "label": "Castle Solitude",
+            "description": "Castle Solitude in Stuttgart, Germany, was built as a hunting lodge between 1764 and 1769 under Duke Karl Eugen of Württemberg. It is not a true castle, but rather a rococo palace. Since 1956 the area is part of the urban district of Stuttgart-West. Wikipedia",
             "type": "",
-            "Opened ": [
-                "1937"
-            ],
-            "Architectural style ": [
-                "Italian modern and contemporary architecture"
-            ],
-            "Function ": [
-                "House"
-            ],
-            "Architect ": [
-                "Adalberto Libera"
+            "Address ": "Solitude 1, 70197 Stuttgart, Germany",
+            "Phone ": [
+                "+49 711 2634916"
             ],
             "People also search for": []
         },
@@ -1179,22 +1185,6 @@
             ],
             "People also search for": []
         },
-        "Chilehaus": {
-            "label": "Chilehaus",
-            "description": "The Chilehaus is a ten-story office building in Hamburg, Germany. It is located in the Kontorhausviertel. It is an exceptional example of the 1920s Brick Expressionism style of architecture. Wikipedia",
-            "type": "",
-            "Address ": "Fischertwiete 2, 20095 Hamburg, Germany",
-            "Opened ": [
-                "1924"
-            ],
-            "Phone ": [
-                "+49 40 349194247"
-            ],
-            "Architect ": [
-                "Johann Friedrich Höger"
-            ],
-            "People also search for": []
-        },
         "Chicago Temple Building": {
             "label": "Chicago Temple Building",
             "description": "The Chicago Temple Building is a 173 meter tall skyscraper church located at 77 W. Washington St. in Chicago, Illinois, United States. It is home to the congregation of the First United Methodist Church of Chicago. Wikipedia",
@@ -1238,6 +1228,22 @@
                 "Charles Gordon-Lennox",
                 " 7th Duke of Richmond",
                 " James Alms"
+            ],
+            "People also search for": []
+        },
+        "Chilehaus": {
+            "label": "Chilehaus",
+            "description": "The Chilehaus is a ten-story office building in Hamburg, Germany. It is located in the Kontorhausviertel. It is an exceptional example of the 1920s Brick Expressionism style of architecture. Wikipedia",
+            "type": "",
+            "Address ": "Fischertwiete 2, 20095 Hamburg, Germany",
+            "Opened ": [
+                "1924"
+            ],
+            "Phone ": [
+                "+49 40 349194247"
+            ],
+            "Architect ": [
+                "Johann Friedrich Höger"
             ],
             "People also search for": []
         },
@@ -1288,16 +1294,6 @@
             "description": "",
             "type": "",
             "People also search for": []
-        },
-        "Derby Central Library": {
-            "label": "Derby Central Library",
-            "description": "Derby Central Library was established in 1879 with Derby Museum and Art Gallery, in a red brick building designed in the Domestic Flemish Gothic style by Richard Knill Freeman and given to Derby by Michael Thomas Bass. Wikipedia",
-            "type": "",
-            "Address ": [
-                "Wardwick",
-                " Derby DE1 1HS",
-                " United Kingdom"
-            ]
         },
         "City-Hochhaus Leipzig": {
             "label": "City-Hochhaus Leipzig",
@@ -1352,6 +1348,16 @@
                 "51 acres (21 ha)"
             ]
         },
+        "Derby Central Library": {
+            "label": "Derby Central Library",
+            "description": "Derby Central Library was established in 1879 with Derby Museum and Art Gallery, in a red brick building designed in the Domestic Flemish Gothic style by Richard Knill Freeman and given to Derby by Michael Thomas Bass. Wikipedia",
+            "type": "",
+            "Address ": [
+                "Wardwick",
+                " Derby DE1 1HS",
+                " United Kingdom"
+            ]
+        },
         "Coit Tower": {
             "label": "Coit Tower",
             "description": "Coit Tower, also known as the Lillian Coit Memorial Tower, is a 210-foot tower in the Telegraph Hill neighborhood of San Francisco, California. Wikipedia",
@@ -1383,14 +1389,6 @@
             ],
             "People also search for": []
         },
-        "Dialogue in the Dark": {
-            "label": "Dialogue in the Dark",
-            "description": "Dialogue in the Dark is an awareness raising exhibition and franchise, as well as a social business. In Dialogue in the Dark, blind guides lead visitors in small groups through different settings in absolute darkness. Wikipedia",
-            "type": "",
-            "Founder ": [
-                "Andreas Heinecke"
-            ]
-        },
         "Deutsches Schauspielhaus": {
             "label": "Deutsches Schauspielhaus",
             "description": "The Deutsches Schauspielhaus is a theatre in the St. Georg quarter of the city of Hamburg, Germany. With a capacity for 1192 spectators, it places it as Germany's largest theatre. Wikipedia",
@@ -1403,6 +1401,14 @@
                 "+49 40 248710"
             ],
             "People also search for": []
+        },
+        "Dialogue in the Dark": {
+            "label": "Dialogue in the Dark",
+            "description": "Dialogue in the Dark is an awareness raising exhibition and franchise, as well as a social business. In Dialogue in the Dark, blind guides lead visitors in small groups through different settings in absolute darkness. Wikipedia",
+            "type": "",
+            "Founder ": [
+                "Andreas Heinecke"
+            ]
         },
         "Donauturm": {
             "label": "Donauturm",
@@ -1577,20 +1583,6 @@
             ],
             "People also search for": []
         },
-        "Electricity Museum (Lisbon)": {
-            "label": "Electricity Museum",
-            "description": "The Electricity Museum is a cultural centre that presents the evolution of Energy with a Museum of Science and Industrial Archaeology concept, where themed and experimental exhibits live side by side with a great variety of cultural events. Wikipedia",
-            "type": "",
-            "Address ": [
-                "Avenida Brasília",
-                " 1300-598 Lisboa",
-                " Portugal"
-            ],
-            "Hours ": [
-                "+351 21 002 8130"
-            ],
-            "People also search for": []
-        },
         "El Paso Energy Building": {
             "label": "El Paso Energy Building",
             "description": "The El Paso Energy Building is a 502-foot tall skyscraper in Houston, Texas. It was completed in 1963 and has 33 floors. It was originally known as the Tenneco Building. It is the 28th tallest building in the city. Wikipedia",
@@ -1609,10 +1601,18 @@
             ],
             "People also search for": []
         },
-        "Abraj Al Bait": {
-            "label": "Abraj Al Bait",
-            "description": "The Abraj Al-Bait Towers, also known as the Mecca Royal Hotel Clock Tower, is a government-owned building complex in Mecca, Saudi Arabia. Wikipedia",
+        "Electricity Museum (Lisbon)": {
+            "label": "Electricity Museum",
+            "description": "The Electricity Museum is a cultural centre that presents the evolution of Energy with a Museum of Science and Industrial Archaeology concept, where themed and experimental exhibits live side by side with a great variety of cultural events. Wikipedia",
             "type": "",
+            "Address ": [
+                "Avenida Brasília",
+                " 1300-598 Lisboa",
+                " Portugal"
+            ],
+            "Hours ": [
+                "+351 21 002 8130"
+            ],
             "People also search for": []
         },
         "Ellsworth Air Force Base": {
@@ -1745,43 +1745,6 @@
             ],
             "Recent posts": []
         },
-        "Europa Tower": {
-            "label": "Europa Tower",
-            "description": "The Europa Tower is the tallest skyscraper in the Baltic states. It is located in a district of Lithuania's capital, Vilnius, called Šnipiškės. It rises 148 meters above ground level. Wikipedia",
-            "type": "",
-            "Address ": [
-                "Vilnius"
-            ],
-            "Height ": [
-                "423' (129 m)"
-            ],
-            "Opened ": "May 1, 2004",
-            "Floors ": [
-                "33"
-            ],
-            "People also search for": []
-        },
-        "Exploratorium": {
-            "label": "Exploratorium",
-            "description": "The Exploratorium is a museum in San Francisco whose stated mission is to change the way the world learns. Wikipedia",
-            "type": "",
-            "Address ": [
-                "Pier 15",
-                " San Francisco",
-                " CA 94111",
-                " United States"
-            ],
-            "Phone ": [
-                "(415) 528-4360"
-            ],
-            "Founder ": [
-                "Frank Oppenheimer"
-            ],
-            "Founded ": [
-                "1969"
-            ],
-            "Recent posts": []
-        },
         "Fifth Avenue Place (Pittsburgh)": {
             "label": "Fifth Avenue Place",
             "description": "Fifth Avenue Place is a skyscraper in Pittsburgh, Pennsylvania. United States.\nThe building was completed in 1988 and it has 31 floors. Located at the corner of Liberty Avenue and Fifth Avenue, it rises 616 feet above Downtown Pittsburgh. Wikipedia",
@@ -1806,6 +1769,22 @@
             ],
             "Hours ": [
                 "Hugh Stubbins"
+            ],
+            "People also search for": []
+        },
+        "Europa Tower": {
+            "label": "Europa Tower",
+            "description": "The Europa Tower is the tallest skyscraper in the Baltic states. It is located in a district of Lithuania's capital, Vilnius, called Šnipiškės. It rises 148 meters above ground level. Wikipedia",
+            "type": "",
+            "Address ": [
+                "Vilnius"
+            ],
+            "Height ": [
+                "423' (129 m)"
+            ],
+            "Opened ": "May 1, 2004",
+            "Floors ": [
+                "33"
             ],
             "People also search for": []
         },
@@ -1836,46 +1815,144 @@
                 " Sr."
             ],
             "People also search for": []
+        },
+        "Exploratorium": {
+            "label": "Exploratorium",
+            "description": "The Exploratorium is a museum in San Francisco whose stated mission is to change the way the world learns. Wikipedia",
+            "type": "",
+            "Address ": [
+                "Pier 15",
+                " San Francisco",
+                " CA 94111",
+                " United States"
+            ],
+            "Phone ": [
+                "(415) 528-4360"
+            ],
+            "Founder ": [
+                "Frank Oppenheimer"
+            ],
+            "Founded ": [
+                "1969"
+            ],
+            "Recent posts": []
         }
     },
     "summary": {
-        "label": 99,
-        "description": 99,
-        "type": 99,
-        "address": 1,
-        "hours": 1,
-        "phone": 1,
-        "function": 1,
-        "people_also_search_for": 1,
-        "height": 1,
-        "construction_started": 1,
-        "opened": 1,
-        "floors": 1,
-        "architects": 1,
-        "architect": 1,
-        "architectural_style": 1,
-        "see_results_about": 1,
-        "architecture_firm": 1,
-        "tax_id": 1,
-        "tax_deductibility_code": 1,
-        "assets": 1,
-        "revenue": 1,
-        "founders": 1,
-        "first_lit": 1,
-        "recent_posts": 1,
-        "area": 1,
-        "management": 1,
-        "upcoming_events": 1,
-        "architectural_styles": 1,
-        "code": 1,
-        "elevation": 1,
-        "burials": 1,
-        "automated": 1,
-        "founder": 1,
-        "founded": 1,
-        "materials": 1
+        "label": {
+            "uri": "http://dbpedia.org/property/label",
+            "count": 99
+        },
+        "description": {
+            "uri": "http://purl.org/dc/elements/1.1/description",
+            "count": 99
+        },
+        "type": {
+            "uri": "http://dbpedia.org/property/careSystem/type",
+            "count": 99
+        },
+        "address": {
+            "uri": "http://dbpedia.org/property/address",
+            "count": 75
+        },
+        "height": {
+            "uri": "http://dbpedia.org/property/height",
+            "count": 39
+        },
+        "constructionStarted": {
+            "uri": "http://dbpedia.org/property/constructionStarted",
+            "count": 9
+        },
+        "opened": {
+            "uri": "http://dbpedia.org/property/opened",
+            "count": 56
+        },
+        "floors": {
+            "uri": "http://dbpedia.org/property/floors",
+            "count": 30
+        },
+        "hours": {
+            "uri": "http://dbpedia.org/property/hours",
+            "count": 19
+        },
+        "phone": {
+            "uri": "http://dbpedia.org/property/phone",
+            "count": 39
+        },
+        "architects": {
+            "uri": "http://dbpedia.org/property/architects",
+            "count": 7
+        },
+        "architect": {
+            "uri": "http://dbpedia.org/property/architect",
+            "count": 20
+        },
+        "architecturalStyle": {
+            "uri": "http://dbpedia.org/property/architecturalStyle",
+            "count": 17
+        },
+        "architectureFirm": {
+            "uri": "http://dbpedia.org/property/architectureFirm",
+            "count": 4
+        },
+        "founders": {
+            "uri": "http://dbpedia.org/property/founders",
+            "count": 1
+        },
+        "function": {
+            "uri": "http://dbpedia.org/property/function",
+            "count": 7
+        },
+        "area": {
+            "uri": "http://dbpedia.org/property/area",
+            "count": 7
+        },
+        "management": {
+            "uri": "http://dbpedia.org/ontology/management",
+            "count": 1
+        },
+        "architecturalStyles": {
+            "uri": "http://dbpedia.org/property/architecturalStyles",
+            "count": 4
+        },
+        "code": {
+            "uri": "http://dbpedia.org/property/code",
+            "count": 4
+        },
+        "elevation": {
+            "uri": "http://dbpedia.org/property/elevation",
+            "count": 4
+        },
+        "automated": {
+            "uri": "http://dbpedia.org/property/automated",
+            "count": 2
+        },
+        "founder": {
+            "uri": "http://dbpedia.org/property/founder",
+            "count": 3
+        },
+        "founded": {
+            "uri": "http://dbpedia.org/property/founded",
+            "count": 2
+        },
+        "materials": {
+            "uri": "http://dbpedia.org/property/materials",
+            "count": 1
+        }
     },
     "infoboxless": [
         "Dubai Towers Istanbul"
-    ]
+    ],
+    "Unmapped_Properties": {
+        "peopleAlsoSearchFor": 1,
+        "seeResultsAbout": 1,
+        "firstLit": 1,
+        "taxId": 1,
+        "taxDeductibilityCode": 1,
+        "assets": 1,
+        "revenue": 1,
+        "recentPosts": 1,
+        "upcomingEvents": 1,
+        "burials": 1
+    }
 }

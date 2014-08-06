@@ -1,19 +1,5 @@
 {
     "instances": {
-        "Ephedra distachya": {
-            "label": "Ephedra distachya",
-            "description": "Ephedra distachya is a shrub in the family Ephedraceae, about 25 cm to 50 cm high, that grows in southern Europe and parts of western and central Asia. Its local names include somlatha. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Ephedra distachya"
-            ],
-            "Higher classification ": [
-                "Ephedra"
-            ],
-            "Rank ": [
-                "Species"
-            ]
-        },
         "Ephedra alata": {
             "label": "Ephedra alata",
             "description": "Ephedra alata is a species of Ephedra that is native from Morocco and the Sahara in northern Africa, the Middle East and Western Asia, to Central Asia and Southwest Asia. Wikipedia",
@@ -42,6 +28,20 @@
                 "Ephedra"
             ]
         },
+        "Ephedra distachya": {
+            "label": "Ephedra distachya",
+            "description": "Ephedra distachya is a shrub in the family Ephedraceae, about 25 cm to 50 cm high, that grows in southern Europe and parts of western and central Asia. Its local names include somlatha. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Ephedra distachya"
+            ],
+            "Higher classification ": [
+                "Ephedra"
+            ],
+            "Rank ": [
+                "Species"
+            ]
+        },
         "Ephedra aspera": {
             "label": "Ephedra aspera",
             "description": "Ephedra aspera is a species of Ephedra known by the common names rough jointfir, boundary ephedra, and pitamoreal.\nIt is native to the southwestern United States from California to Texas and parts of northern Mexico. Wikipedia",
@@ -56,54 +56,26 @@
                 "Ephedra"
             ]
         },
-        "Ephedra californica": {
-            "label": "Ephedra californica",
-            "description": "Ephedra californica is a species of Ephedra, known by the common names California jointfir, California ephedra, desert tea, and cañatillo. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Ephedra californica"
-            ],
-            "Rank ": [
-                "Species"
-            ],
-            "Higher classification ": [
-                "Ephedra"
-            ]
-        },
-        "Ephedra fasciculata": {
-            "label": "Ephedra fasciculata",
-            "description": "Ephedra fasciculata is a species of plant in the Ephedraceae family. Common names are Arizona Ephedra, Arizona Jointfir, and Desert Mormon-tea. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Ephedra fasciculata"
-            ],
-            "Rank ": [
-                "Species"
-            ],
-            "Higher classification ": [
-                "Ephedra"
-            ]
-        },
-        "Ephedra cutleri": {
-            "label": "Ephedra cutleri",
-            "description": "Ephedra cutleri, the Navajo ephedra or Cutler's jointfir, is a species of Ephedra that is native to the Four Corners area of the Southwestern United States.\nThe rhizomatous shrubs form erect clumps, .25–1.5 metres tall and 3–5 metres wide. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Ephedra cutleri"
-            ],
-            "Rank ": [
-                "Species"
-            ],
-            "Higher classification ": [
-                "Ephedra"
-            ]
-        },
         "Ephedra boelckei": {
             "label": "Ephedra boelckei",
             "description": "Ephedra boelckei is a species of Ephedra that is native to Argentina.\n\nIt was originally described by Fidel Antonio Roig in 1984. It has been placed in section Alatae. Wikipedia",
             "type": "",
             "Scientific name ": [
                 "Ephedra boelckei"
+            ],
+            "Rank ": [
+                "Species"
+            ],
+            "Higher classification ": [
+                "Ephedra"
+            ]
+        },
+        "Ephedra californica": {
+            "label": "Ephedra californica",
+            "description": "Ephedra californica is a species of Ephedra, known by the common names California jointfir, California ephedra, desert tea, and cañatillo. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Ephedra californica"
             ],
             "Rank ": [
                 "Species"
@@ -132,6 +104,20 @@
             "type": "",
             "Scientific name ": [
                 "Ephedra fragilis"
+            ],
+            "Rank ": [
+                "Species"
+            ],
+            "Higher classification ": [
+                "Ephedra"
+            ]
+        },
+        "Ephedra cutleri": {
+            "label": "Ephedra cutleri",
+            "description": "Ephedra cutleri, the Navajo ephedra or Cutler's jointfir, is a species of Ephedra that is native to the Four Corners area of the Southwestern United States.\nThe rhizomatous shrubs form erect clumps, .25–1.5 metres tall and 3–5 metres wide. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Ephedra cutleri"
             ],
             "Rank ": [
                 "Species"
@@ -176,6 +162,20 @@
                 "Ephedra"
             ]
         },
+        "Ephedra multiflora": {
+            "label": "Ephedra multiflora",
+            "description": "Ephedra multiflora is a species of Ephedra that is native to northern Chile and Argentina.\nThe plant was originally described by Rodolfo Armando Philippi, later formally published by Otto Stapf in 1887, and placed in section Ephedra sect. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Ephedra multiflora"
+            ],
+            "Higher classification ": [
+                "Ephedra"
+            ],
+            "Rank ": [
+                "Species"
+            ]
+        },
         "Ephedra nevadensis": {
             "label": "Ephedra nevadensis",
             "description": "Ephedra nevadensis is a species of Ephedra native to dry areas of western North America.\nIts range extends west to California and Oregon, east to Texas, and south to Mexico, including areas of the Great Basin, Colorado plateau and desert Southwest. Wikipedia",
@@ -204,40 +204,12 @@
                 "Ephedra"
             ]
         },
-        "Ephedra multiflora": {
-            "label": "Ephedra multiflora",
-            "description": "Ephedra multiflora is a species of Ephedra that is native to northern Chile and Argentina.\nThe plant was originally described by Rodolfo Armando Philippi, later formally published by Otto Stapf in 1887, and placed in section Ephedra sect. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Ephedra multiflora"
-            ],
-            "Higher classification ": [
-                "Ephedra"
-            ],
-            "Rank ": [
-                "Species"
-            ]
-        },
         "Ephedra strobilacea": {
             "label": "Ephedra strobilacea",
             "description": "Ephedra strobilacea is a species of Ephedra that is native to Central Asia, including east to Afghanistan.\nThe plant grows at 700–2,500 metres in elevation. Wikipedia",
             "type": "",
             "Scientific name ": [
                 "Ephedra strobilacea"
-            ],
-            "Rank ": [
-                "Species"
-            ],
-            "Higher classification ": [
-                "Ephedra"
-            ]
-        },
-        "Ephedra trifurca": {
-            "label": "Ephedra trifurca",
-            "description": "Ephedra trifurca is a species of Ephedra known by the common names longleaf jointfir and Mexican tea. It is native to many of the northern states of Mexico and the southwestern United States, where it is a resident of desert scrub plant communities. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Ephedra trifurca"
             ],
             "Rank ": [
                 "Species"
@@ -260,6 +232,20 @@
                 "Ephedra"
             ]
         },
+        "Ephedra trifurca": {
+            "label": "Ephedra trifurca",
+            "description": "Ephedra trifurca is a species of Ephedra known by the common names longleaf jointfir and Mexican tea. It is native to many of the northern states of Mexico and the southwestern United States, where it is a resident of desert scrub plant communities. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Ephedra trifurca"
+            ],
+            "Rank ": [
+                "Species"
+            ],
+            "Higher classification ": [
+                "Ephedra"
+            ]
+        },
         "Ephedra viridis": {
             "label": "Ephedra viridis",
             "description": "Ephedra viridis, known by the common names green Mormon tea, green ephedra, and Indian tea, is a species of Ephedra. It is indigenous to the Western United States, where it is a member of varied scrub, woodland, desert, and open habitats. Wikipedia",
@@ -272,6 +258,20 @@
             ],
             "Rank ": [
                 "Species"
+            ]
+        },
+        "Ephedra fasciculata": {
+            "label": "Ephedra fasciculata",
+            "description": "Ephedra fasciculata is a species of plant in the Ephedraceae family. Common names are Arizona Ephedra, Arizona Jointfir, and Desert Mormon-tea. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Ephedra fasciculata"
+            ],
+            "Rank ": [
+                "Species"
+            ],
+            "Higher classification ": [
+                "Ephedra"
             ]
         },
         "Gnetum africanum": {
@@ -287,22 +287,6 @@
             "Higher classification ": [
                 "Gnetum"
             ]
-        },
-        "Gnetum": {
-            "label": "Gnetum",
-            "description": "Gnetum is a genus of about 30-35 species of gymnosperms, the sole genus in the family Gnetaceae and order Gnetales. They are tropical evergreen trees, shrubs and lianas. Unlike other gymnosperms they possess vessel elements in the xylem. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Gnetum"
-            ],
-            "Rank ": [
-                "Genus"
-            ],
-            "Lower classifications ": [
-                "Melinjo",
-                " Gnetum africanum"
-            ],
-            "See results about": []
         },
         "Gnetum gnemon": {
             "label": "Melinjo",
@@ -353,23 +337,50 @@
                 " Ephedra lomatolepis",
                 " Ephedra funereaMore"
             ]
+        },
+        "Gnetum": {
+            "label": "Gnetum",
+            "description": "Gnetum is a genus of about 30-35 species of gymnosperms, the sole genus in the family Gnetaceae and order Gnetales. They are tropical evergreen trees, shrubs and lianas. Unlike other gymnosperms they possess vessel elements in the xylem. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Gnetum"
+            ],
+            "Rank ": [
+                "Genus"
+            ],
+            "Lower classifications ": [
+                "Melinjo",
+                " Gnetum africanum"
+            ],
+            "See results about": []
         }
     },
     "summary": {
-        "label": 24,
-        "description": 24,
-        "type": 24,
-        "scientific_name": 1,
-        "higher_classification": 1,
-        "rank": 1,
-        "lower_classifications": 1,
-        "see_results_about": 1,
-        "people_also_search_for": 1
+        "label": {
+            "uri": "http://www.w3.org/2000/01/rdf-schema#label",
+            "count": 24
+        },
+        "description": {
+            "uri": "http://fr.dbpedia.org/ontology/abstract",
+            "count": 24
+        },
+        "type": {
+            "uri": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+            "count": 24
+        }
     },
     "infoboxless": [
         "Ephedra holoptera",
         "Ephedra lomatolepis",
         "Ephedra monosperma",
         "Gnetum cleistostachyum"
-    ]
+    ],
+    "Unmapped_Properties": {
+        "scientificName": 1,
+        "rank": 1,
+        "higherClassification": 1,
+        "peopleAlsoSearchFor": 1,
+        "lowerClassifications": 1,
+        "seeResultsAbout": 1
+    }
 }

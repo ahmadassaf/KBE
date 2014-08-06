@@ -8,17 +8,14 @@
             "Died ": "February 23, 1879, Berlin, Germany",
             "People also search for": []
         },
-        "Bernhard von Bülow": {
-            "label": "Bernhard von Bülow",
-            "description": "Bernhard Heinrich Karl Martin von Bülow, named in 1905 Prince von Bülow, was a German statesman who served as Secretary of State for Foreign Affairs for three years and then as Chancellor of the German Empire from 1900 to 1909. Wikipedia",
-            "type": "",
-            "Born ": "May 3, 1849, German Empire",
-            "Died ": "October 28, 1929, Rome, Italy",
-            "Education ": [
-                "Humboldt University of Berlin",
-                " University of Leipzig",
-                " University of Lausanne",
-                " Ernst Moritz Arndt University of GreifswaldMore"
+        "Clemens von Delbrück": {
+            "label": "Clemens von Delbrück",
+            "description": "Clemens Ernst Gottlieb Delbrück was a German conservative politician. He was ennobled in 1916. Wikipedia",
+            "type": "Politician",
+            "Born ": "January 19, 1856, Halle, Germany",
+            "Died ": "December 17, 1921, Jena, Germany",
+            "Party ": [
+                "German National People's Party"
             ],
             "People also search for": []
         },
@@ -33,14 +30,17 @@
             ],
             "People also search for": []
         },
-        "Clemens von Delbrück": {
-            "label": "Clemens von Delbrück",
-            "description": "Clemens Ernst Gottlieb Delbrück was a German conservative politician. He was ennobled in 1916. Wikipedia",
-            "type": "Politician",
-            "Born ": "January 19, 1856, Halle, Germany",
-            "Died ": "December 17, 1921, Jena, Germany",
-            "Party ": [
-                "German National People's Party"
+        "Bernhard von Bülow": {
+            "label": "Bernhard von Bülow",
+            "description": "Bernhard Heinrich Karl Martin von Bülow, named in 1905 Prince von Bülow, was a German statesman who served as Secretary of State for Foreign Affairs for three years and then as Chancellor of the German Empire from 1900 to 1909. Wikipedia",
+            "type": "",
+            "Born ": "May 3, 1849, German Empire",
+            "Died ": "October 28, 1929, Rome, Italy",
+            "Education ": [
+                "Humboldt University of Berlin",
+                " University of Leipzig",
+                " University of Lausanne",
+                " Ernst Moritz Arndt University of GreifswaldMore"
             ],
             "People also search for": []
         },
@@ -118,6 +118,14 @@
             ],
             "People also search for": []
         },
+        "Theobald von Bethmann-Hollweg": {
+            "label": "Theobald von Bethmann-Hollweg",
+            "description": "Theobald Theodor Friedrich Alfred von Bethmann Hollweg was a German politician and statesman who served as Chancellor of the German Empire from 1909 to 1917. Wikipedia",
+            "type": "German Politician",
+            "Born ": "November 29, 1856, Hohenfinow, Germany",
+            "Died ": "January 2, 1921, Hohenfinow, Germany",
+            "People also search for": []
+        },
         "Fred Sinowatz": {
             "label": "Fred Sinowatz",
             "description": "Alfred \"Fred\" Sinowatz was born in Neufeld an der Leitha, Burgenland, Austria. He was an Austrian politician of the Social Democratic Party of Austria, and was Chancellor of Austria from 1983 to 1986. Wikipedia",
@@ -127,14 +135,6 @@
             "Party ": [
                 "Social Democratic Party of Austria"
             ],
-            "People also search for": []
-        },
-        "Theobald von Bethmann-Hollweg": {
-            "label": "Theobald von Bethmann-Hollweg",
-            "description": "Theobald Theodor Friedrich Alfred von Bethmann Hollweg was a German politician and statesman who served as Chancellor of the German Empire from 1909 to 1917. Wikipedia",
-            "type": "German Politician",
-            "Born ": "November 29, 1856, Hohenfinow, Germany",
-            "Died ": "January 2, 1921, Hohenfinow, Germany",
             "People also search for": []
         },
         "Gustav Stresemann": {
@@ -183,6 +183,17 @@
             ],
             "People also search for": []
         },
+        "Kingsley Wood": {
+            "label": "Kingsley Wood",
+            "description": "Sir Howard Kingsley Wood was an English Conservative politician. The son of a Wesleyan Methodist minister, he qualified as a solicitor, and successfully specialised in industrial insurance. Wikipedia",
+            "type": "British Politician",
+            "Born ": "August 19, 1881",
+            "Died ": "September 21, 1943",
+            "Party ": [
+                "Conservative Party"
+            ],
+            "People also search for": []
+        },
         "Lutz Graf Schwerin von Krosigk": {
             "label": "Lutz Graf Schwerin von Krosigk",
             "description": "Johann Ludwig Graf Schwerin von Krosigk, born Johann Ludwig von Krosigk and known as Lutz von Krosigk was a German jurist and senior government official who served as Minister of Finance of Germany from 1932 to 1945. Wikipedia",
@@ -197,17 +208,6 @@
                 " University of Lausanne",
                 " Martin Luther University of Halle-Wittenberg",
                 " University of Oxford"
-            ],
-            "People also search for": []
-        },
-        "Kingsley Wood": {
-            "label": "Kingsley Wood",
-            "description": "Sir Howard Kingsley Wood was an English Conservative politician. The son of a Wesleyan Methodist minister, he qualified as a solicitor, and successfully specialised in industrial insurance. Wikipedia",
-            "type": "British Politician",
-            "Born ": "August 19, 1881",
-            "Died ": "September 21, 1943",
-            "Party ": [
-                "Conservative Party"
             ],
             "People also search for": []
         },
@@ -229,12 +229,6 @@
             ],
             "People also search for": []
         },
-        "Ambrose King": {
-            "label": "Ambrose King Sexual Health Centre",
-            "description": "",
-            "type": "",
-            "People also search for": []
-        },
         "Selwyn Lloyd": {
             "label": "Selwyn Lloyd",
             "description": "John Selwyn Brooke Lloyd, Baron Selwyn-Lloyd CH CBE TD PC, known for most of his career as Selwyn Lloyd, was a British Conservative Party politician who served as Foreign Secretary from 1955 to 1960, then as Chancellor of the Exchequer until 1962. Wikipedia",
@@ -254,11 +248,43 @@
             ],
             "People also search for": []
         },
+        "Ambrose King": {
+            "label": "Ambrose King Sexual Health Centre",
+            "description": "",
+            "type": "",
+            "People also search for": []
+        },
         "Omar Davies": {
             "label": "Omar Davies",
             "description": "Dr. Omar Davies is the current Minister of Transport, Works and Housing and the former Minister of Finance of Jamaica, he has been succeeded by Audley Shaw & by extension Dwight Nelson and Don Wehby. Wikipedia",
             "type": "",
             "Born ": "May 28, 1947 (age 66), Jamaica",
+            "People also search for": []
+        },
+        "Samuel David Mendelssohn": {
+            "label": "Samuel David Mendelssohn",
+            "description": "Samuel David Nathaniel Aaron Mendelssohn, known as Samuel David Mendelssohn, was a German political scientist, author and independent politician for the Free Democrats. Wikipedia",
+            "type": "Political scientist",
+            "Born ": "May 17, 1942, Jerusalem, Israel",
+            "Died ": "September 16, 2006, Ludwigshafen, Germany"
+        },
+        "Chlodwig, Prince of Hohenlohe-Schillingsfürst": {
+            "label": "Chlodwig, Prince of Hohenlohe-Schillingsfürst",
+            "description": "Chlodwig Carl Viktor, Prince of Hohenlohe-Schillingsfürst, Prince of Ratibor and Corvey, usually referred to as the Prince of Hohenlohe, was a German statesman, who served as Chancellor of Germany and Prime Minister of Prussia from 1894 to 1900. Wikipedia",
+            "type": "Former Chancellor of Germany",
+            "Born ": "March 31, 1819, Rotenburg an der Fulda, Germany",
+            "Died ": "July 6, 1901, Bad Ragaz, Switzerland",
+            "Party ": [
+                "Independent"
+            ],
+            "Children ": [
+                "Philipp Ernst",
+                " 8th Prince of Hohenlohe-Schillingsfürst"
+            ],
+            "Previous offices ": [
+                "Minister President of Prussia (1894–1900)",
+                " Chancellor of Germany (1894–1900)"
+            ],
             "People also search for": []
         },
         "Prince Maximilian of Baden": {
@@ -281,44 +307,11 @@
             ],
             "People also search for": []
         },
-        "Samuel David Mendelssohn": {
-            "label": "Samuel David Mendelssohn",
-            "description": "Samuel David Nathaniel Aaron Mendelssohn, known as Samuel David Mendelssohn, was a German political scientist, author and independent politician for the Free Democrats. Wikipedia",
-            "type": "Political scientist",
-            "Born ": "May 17, 1942, Jerusalem, Israel",
-            "Died ": "September 16, 2006, Ludwigshafen, Germany"
-        },
-        "Reginald Bray": {
-            "label": "Reginald Bray",
-            "description": "Sir Reginald Bray KG was the Chancellor of the Duchy of Lancaster under Henry VII, English courtier, and architect of the Henry VII Lady Chapel in Westminster Abbey. Wikipedia",
-            "type": "Architect",
-            "Born ": [
-                "1440",
-                " Worcestershire",
-                " United Kingdom"
-            ],
-            "Died ": [
-                "1503"
-            ],
-            "People also search for": []
-        },
-        "Chlodwig, Prince of Hohenlohe-Schillingsfürst": {
-            "label": "Chlodwig, Prince of Hohenlohe-Schillingsfürst",
-            "description": "Chlodwig Carl Viktor, Prince of Hohenlohe-Schillingsfürst, Prince of Ratibor and Corvey, usually referred to as the Prince of Hohenlohe, was a German statesman, who served as Chancellor of Germany and Prime Minister of Prussia from 1894 to 1900. Wikipedia",
-            "type": "Former Chancellor of Germany",
-            "Born ": "March 31, 1819, Rotenburg an der Fulda, Germany",
-            "Died ": "July 6, 1901, Bad Ragaz, Switzerland",
-            "Party ": [
-                "Independent"
-            ],
-            "Children ": [
-                "Philipp Ernst",
-                " 8th Prince of Hohenlohe-Schillingsfürst"
-            ],
-            "Previous offices ": [
-                "Minister President of Prussia (1894–1900)",
-                " Chancellor of Germany (1894–1900)"
-            ],
+        "Anton Kaindl": {
+            "label": "Anton Kaindl",
+            "description": "Anton Kaindl was an SS-Standartenführer and commandant of the Sachsenhausen concentration camp from 1942-1945.\nKaindl joined the army during the Weimar Republic in May 1920 and served until May 1932, leaving with the rank of sergeant. Wikipedia",
+            "type": "",
+            "Born ": "July 14, 1902 (age 111), Munich, Germany",
             "People also search for": []
         },
         "Klaus Barbie": {
@@ -338,13 +331,6 @@
             ],
             "People also search for": []
         },
-        "Anton Kaindl": {
-            "label": "Anton Kaindl",
-            "description": "Anton Kaindl was an SS-Standartenführer and commandant of the Sachsenhausen concentration camp from 1942-1945.\nKaindl joined the army during the Weimar Republic in May 1920 and served until May 1932, leaving with the rank of sergeant. Wikipedia",
-            "type": "",
-            "Born ": "July 14, 1902 (age 111), Munich, Germany",
-            "People also search for": []
-        },
         "Leo von Caprivi": {
             "label": "Leo von Caprivi",
             "description": "Georg Leo Graf von Caprivi de Caprera de Montecuccoli was a German general and statesman, who succeeded Otto von Bismarck as Chancellor of Germany. Caprivi served as German Chancellor from March 1890 to October 1894. Wikipedia",
@@ -353,20 +339,6 @@
             "Died ": "February 6, 1899, Skórzyn, Lubusz Voivodeship, Poland",
             "Party ": [
                 "Independent"
-            ],
-            "People also search for": []
-        },
-        "Franz von Papen": {
-            "label": "Franz von Papen",
-            "description": "Franz Joseph Hermann Michael Maria von Papen zu Köningen was a German nobleman, General Staff officer and politician. He served as Chancellor of Germany in 1932 and as Vice-Chancellor under Adolf Hitler in 1933–1934. Wikipedia",
-            "type": "Former Chancellor of Germany",
-            "Born ": "October 29, 1879, Werl, Germany",
-            "Died ": "May 2, 1969, Sasbach, Germany",
-            "Previous office ": [
-                "Chancellor of Germany (1932–1932)"
-            ],
-            "Party ": [
-                "Centre Party"
             ],
             "People also search for": []
         },
@@ -388,6 +360,20 @@
             ],
             "Siblings ": [
                 "John Scott Haldane"
+            ],
+            "People also search for": []
+        },
+        "Franz von Papen": {
+            "label": "Franz von Papen",
+            "description": "Franz Joseph Hermann Michael Maria von Papen zu Köningen was a German nobleman, General Staff officer and politician. He served as Chancellor of Germany in 1932 and as Vice-Chancellor under Adolf Hitler in 1933–1934. Wikipedia",
+            "type": "Former Chancellor of Germany",
+            "Born ": "October 29, 1879, Werl, Germany",
+            "Died ": "May 2, 1969, Sasbach, Germany",
+            "Previous office ": [
+                "Chancellor of Germany (1932–1932)"
+            ],
+            "Party ": [
+                "Centre Party"
             ],
             "People also search for": []
         },
@@ -419,6 +405,16 @@
             ],
             "People also search for": []
         },
+        "Gustav Sorge": {
+            "label": "Gustav Sorge",
+            "description": "Gustav Hermann Sorge, nicknamed \"Der eiserne Gustav\" for his brutality, was an SS-Hauptscharführer and a guard at Esterwegen concentration camp in the Emsland region of Germany prior to being assigned to Sachsenhausen concentration camp. Wikipedia",
+            "type": "",
+            "Born ": "April 24, 1911",
+            "Died ": [
+                "1978"
+            ],
+            "People also search for": []
+        },
         "Gustav Bauer": {
             "label": "Gustav Bauer",
             "description": "Gustav Adolf Bauer was a German Social Democratic Party leader and Chancellor of Germany from 1919 to 1920. He served as head of government for a total of 219 days. Wikipedia",
@@ -433,14 +429,12 @@
             ],
             "People also search for": []
         },
-        "Gustav Sorge": {
-            "label": "Gustav Sorge",
-            "description": "Gustav Hermann Sorge, nicknamed \"Der eiserne Gustav\" for his brutality, was an SS-Hauptscharführer and a guard at Esterwegen concentration camp in the Emsland region of Germany prior to being assigned to Sachsenhausen concentration camp. Wikipedia",
+        "Kurt Lischka": {
+            "label": "Kurt Lischka",
+            "description": "Kurt Werner Lischka was an SS Lieutenant Colonel and Gestapo chief assigned to Paris in Occupied France during World War II.\nLischka was the son of a bank official who studied law and political science in Breslau and Berlin. Wikipedia",
             "type": "",
-            "Born ": "April 24, 1911",
-            "Died ": [
-                "1978"
-            ],
+            "Born ": "August 16, 1909, Wrocław, Poland",
+            "Died ": "May 16, 1989, Brühl, Germany",
             "People also search for": []
         },
         "Thomas Helbling": {
@@ -454,14 +448,6 @@
             "Education ": [
                 "University of Berne"
             ],
-            "People also search for": []
-        },
-        "Kurt Lischka": {
-            "label": "Kurt Lischka",
-            "description": "Kurt Werner Lischka was an SS Lieutenant Colonel and Gestapo chief assigned to Paris in Occupied France during World War II.\nLischka was the son of a bank official who studied law and political science in Breslau and Berlin. Wikipedia",
-            "type": "",
-            "Born ": "August 16, 1909, Wrocław, Poland",
-            "Died ": "May 16, 1989, Brühl, Germany",
             "People also search for": []
         },
         "Victor Capesius": {
@@ -488,6 +474,17 @@
             ],
             "People also search for": []
         },
+        "Perry Broad": {
+            "label": "Perry Broad",
+            "description": "Perry Broad, also Pery Broad was a Brazilian Non-commissioned officer SS-Unterscharführer, active at Auschwitz from April 1942 - 1945 as a translator and stenographer at the Auschwitz headquarters. Wikipedia",
+            "type": "",
+            "Born ": "April 25, 1921, Rio de Janeiro, Rio de Janeiro, Brazil",
+            "Died ": "November 28, 1993, Düsseldorf, Germany",
+            "Education ": [
+                "Technical University of Berlin"
+            ],
+            "People also search for": []
+        },
         "James L. Oblinger": {
             "label": "James L. Oblinger",
             "description": "Dr. James L. Oblinger was the 13th Chancellor of North Carolina State University. He served in this position from 2005, after the resignation of Chancellor Marye Anne Fox, until his resignation on June ... Wikipedia",
@@ -500,17 +497,6 @@
             ],
             "Education ": [
                 "DePauw University"
-            ],
-            "People also search for": []
-        },
-        "Perry Broad": {
-            "label": "Perry Broad",
-            "description": "Perry Broad, also Pery Broad was a Brazilian Non-commissioned officer SS-Unterscharführer, active at Auschwitz from April 1942 - 1945 as a translator and stenographer at the Auschwitz headquarters. Wikipedia",
-            "type": "",
-            "Born ": "April 25, 1921, Rio de Janeiro, Rio de Janeiro, Brazil",
-            "Died ": "November 28, 1993, Düsseldorf, Germany",
-            "Education ": [
-                "Technical University of Berlin"
             ],
             "People also search for": []
         },
@@ -614,18 +600,6 @@
             ],
             "People also search for": []
         },
-        "Zhangsun Wuji": {
-            "label": "Zhangsun Wuji",
-            "description": "Zhangsun Wuji, courtesy name Fuji, formally the Duke of Zhao, was a chancellor of the Chinese dynasty Tang Dynasty during the reigns of his brother-in-law Emperor Taizong and nephew Emperor Gaozong. Wikipedia",
-            "type": "",
-            "Died ": [
-                "659 AD"
-            ],
-            "Siblings ": [
-                "Empress Zhangsun"
-            ],
-            "People also search for": []
-        },
         "Yu Qian": {
             "label": "Yu Qian",
             "description": "Yu Qian, a native of Qiantang, was a Chinese Defence Minister during the Ming dynasty. Wikipedia",
@@ -638,11 +612,16 @@
             ],
             "People also search for": []
         },
-        "Arpad Wigand": {
-            "label": "Arpad Wigand",
-            "description": "Arpad Wigand; was an SS-Oberführer who served as the SS and Police Leader in Warsaw from 4 August 1941 until 23 April 1943. Wikipedia",
+        "Zhangsun Wuji": {
+            "label": "Zhangsun Wuji",
+            "description": "Zhangsun Wuji, courtesy name Fuji, formally the Duke of Zhao, was a chancellor of the Chinese dynasty Tang Dynasty during the reigns of his brother-in-law Emperor Taizong and nephew Emperor Gaozong. Wikipedia",
             "type": "",
-            "Born ": "January 13, 1906 (age 108)",
+            "Died ": [
+                "659 AD"
+            ],
+            "Siblings ": [
+                "Empress Zhangsun"
+            ],
             "People also search for": []
         },
         "Judith A. Bense": {
@@ -656,6 +635,13 @@
                 "Florida State University",
                 " Washington State University"
             ],
+            "People also search for": []
+        },
+        "Arpad Wigand": {
+            "label": "Arpad Wigand",
+            "description": "Arpad Wigand; was an SS-Oberführer who served as the SS and Police Leader in Warsaw from 4 August 1941 until 23 April 1943. Wikipedia",
+            "type": "",
+            "Born ": "January 13, 1906 (age 108)",
             "People also search for": []
         },
         "Reginald Maudling": {
@@ -996,29 +982,55 @@
                 "Yang Shen"
             ],
             "People also search for": []
+        },
+        "Reginald Bray": {
+            "label": "Reginald Bray",
+            "description": "Sir Reginald Bray KG was the Chancellor of the Duchy of Lancaster under Henry VII, English courtier, and architect of the Henry VII Lady Chapel in Westminster Abbey. Wikipedia",
+            "type": "Architect",
+            "Born ": [
+                "1440",
+                " Worcestershire",
+                " United Kingdom"
+            ],
+            "Died ": [
+                "1503"
+            ],
+            "People also search for": []
         }
     },
     "summary": {
-        "label": 79,
-        "description": 79,
-        "type": 79,
-        "born": 1,
-        "died": 1,
-        "people_also_search_for": 1,
-        "education": 1,
-        "party": 1,
-        "spouse": 1,
-        "children": 1,
-        "awards": 1,
-        "previous_offices": 1,
-        "previous_office": 1,
-        "parents": 1,
-        "movies": 1,
-        "siblings": 1,
-        "office": 1,
-        "books": 1,
-        "height": 1,
-        "presidential_term": 1
+        "label": {
+            "uri": "http://www.w3.org/2000/01/rdf-schema#label",
+            "count": 79
+        },
+        "description": {
+            "uri": "http://purl.org/dc/elements/1.1/description",
+            "count": 79
+        },
+        "type": {
+            "uri": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+            "count": 79
+        },
+        "party": {
+            "uri": "http://dbpedia.org/property/party",
+            "count": 28
+        },
+        "education": {
+            "uri": "http://dbpedia.org/property/education",
+            "count": 30
+        },
+        "spouse": {
+            "uri": "http://dbpedia.org/property/spouse",
+            "count": 9
+        },
+        "children": {
+            "uri": "http://dbpedia.org/property/children",
+            "count": 6
+        },
+        "office": {
+            "uri": "http://dbpedia.org/property/office",
+            "count": 1
+        }
     },
     "infoboxless": [
         "Wei Zheng",
@@ -1028,5 +1040,19 @@
         "Ly Dao Thanh",
         "To Hien Thanh",
         "Lawrence Lau"
-    ]
+    ],
+    "Unmapped_Properties": {
+        "born": 1,
+        "died": 1,
+        "peopleAlsoSearchFor": 1,
+        "awards": 1,
+        "previousOffices": 1,
+        "previousOffice": 1,
+        "parents": 1,
+        "movies": 1,
+        "siblings": 1,
+        "books": 1,
+        "height": 1,
+        "presidentialTerm": 1
+    }
 }

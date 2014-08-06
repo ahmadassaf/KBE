@@ -12,12 +12,6 @@
                 " Estadio Hernando Siles"
             ]
         },
-        "Ajax Sportman Combinatie": {
-            "label": "Sportvereniging \"Ajax-Sportman-Combinatie\"",
-            "description": "",
-            "type": "",
-            "People also search for": []
-        },
         "Finland men's national volleyball team": {
             "label": "Finland men's national volleyball team",
             "description": "The Finland men's national volleyball team is the national team of Finland. It is governed by the Finland Volleyball Association and takes part in international volleyball competitions. Wikipedia",
@@ -30,6 +24,12 @@
             "label": "Charlotte 49ers men's soccer",
             "description": "The Charlotte 49ers men's soccer team is an intercollegiate varsity sports team of the University of North Carolina at Charlotte. The team is a member of the Atlantic 10 Conference of the National Collegiate Athletic Association. Wikipedia",
             "type": "Soccer team"
+        },
+        "Ajax Sportman Combinatie": {
+            "label": "Sportvereniging \"Ajax-Sportman-Combinatie\"",
+            "description": "",
+            "type": "",
+            "People also search for": []
         },
         "Ghaxaq F.C.": {
             "label": "Ghaxaq F.C.",
@@ -52,14 +52,30 @@
         }
     },
     "summary": {
-        "label": 6,
-        "description": 6,
-        "type": 6,
-        "founded": 1,
-        "arenas/stadiums": 1,
-        "people_also_search_for": 1,
-        "location": 1,
-        "league": 1
+        "label": {
+            "uri": "http://www.w3.org/2000/01/rdf-schema#label",
+            "count": 6
+        },
+        "description": {
+            "uri": "http://fr.dbpedia.org/ontology/abstract",
+            "count": 6
+        },
+        "type": {
+            "uri": "http://dbpedia.org/property/type",
+            "count": 6
+        },
+        "founded": {
+            "uri": "http://dbpedia.org/property/founded",
+            "count": 3
+        },
+        "location": {
+            "uri": "http://dbpedia.org/property/location",
+            "count": 1
+        },
+        "league": {
+            "uri": "http://dbpedia.org/property/league",
+            "count": 1
+        }
     },
     "infoboxless": [
         "1965–66 Mersin İdmanyurdu season",
@@ -74,8 +90,8 @@
         "1987–88 Mersin İdmanyurdu season",
         "1999–2000 Cardiff City F.C. season",
         "2007 South Carolina Gamecocks men's soccer team",
-        "2009 Carolina RailHawks FC season",
         "2009–10 Göztepe A.Ş. season",
+        "2009 Carolina RailHawks FC season",
         "2009 Vodacom Challenge",
         "Birmingham Bears",
         "Delaware Fightin' Blue Hens men's soccer",
@@ -156,5 +172,9 @@
         "Évreux FC  hristian Domingues  1",
         "Évreux FC  hristophe Autret  1",
         "Íþróttafélagið Höttur  Óttar Steinn Magnússon  1"
-    ]
+    ],
+    "Unmapped_Properties": {
+        "arenas/stadiums": 1,
+        "peopleAlsoSearchFor": 1
+    }
 }

@@ -1,11 +1,5 @@
 {
     "instances": {
-        "After Henry (radio series)": {
-            "label": "After Henry",
-            "description": "After Henry was a British sitcom written by Simon Brett. It started on BBC Radio 4 and later moved to television. Prunella Scales and Joan Sanderson starred in both radio and television versions.\nA novel, also by Simon Brett, followed the series. Wikipedia",
-            "type": "Television Series",
-            "Cast": []
-        },
         "Absolute Power (comedy)": {
             "label": "Absolute Power",
             "description": "Absolute Power is a British comedy series, set in the offices of Prentiss McCabe, a fictional public relations company in London, run by Charles Prentiss and Martin McCabe. Wikipedia",
@@ -21,6 +15,12 @@
             "Writers ": [
                 "Guy Andrews"
             ],
+            "Cast": []
+        },
+        "After Henry (radio series)": {
+            "label": "After Henry",
+            "description": "After Henry was a British sitcom written by Simon Brett. It started on BBC Radio 4 and later moved to television. Prunella Scales and Joan Sanderson starred in both radio and television versions.\nA novel, also by Simon Brett, followed the series. Wikipedia",
+            "type": "Television Series",
             "Cast": []
         },
         "Chambers (series)": {
@@ -40,12 +40,6 @@
             ],
             "Cast": []
         },
-        "Getting Nowhere Fast": {
-            "label": "Getting Nowhere Fast",
-            "description": "Getting Nowhere Fast is a BBC Radio sitcom written by and starring the comedian and musician Mervyn Stutter.\nStutter plays \"Merv\" the co-owner and manager of \"The Cyber Pass\", a former \"vodka'n'veggies\" bistro converted into an Internet Cafe. Wikipedia",
-            "type": "",
-            "See results about": []
-        },
         "Genius (radio series)": {
             "label": "Genius",
             "description": "Genius is a BBC Radio 4 comedy gameshow presented by comedian Dave Gorman. Listeners send in 'genius' ideas which are considered by Gorman and a guest before a studio audience, with a different guest for each show. Wikipedia",
@@ -58,6 +52,12 @@
                 " Lab Rats",
                 " Stewart Lee's Comedy Vehicle"
             ]
+        },
+        "Getting Nowhere Fast": {
+            "label": "Getting Nowhere Fast",
+            "description": "Getting Nowhere Fast is a BBC Radio sitcom written by and starring the comedian and musician Mervyn Stutter.\nStutter plays \"Merv\" the co-owner and manager of \"The Cyber Pass\", a former \"vodka'n'veggies\" bistro converted into an Internet Cafe. Wikipedia",
+            "type": "",
+            "See results about": []
         },
         "Hancock's Half Hour": {
             "label": "Hancock's Half Hour",
@@ -147,21 +147,34 @@
         }
     },
     "summary": {
-        "label": 13,
-        "description": 13,
-        "type": 13,
-        "cast": 1,
-        "first_episode": 1,
-        "final_episode": 1,
-        "network": 1,
-        "language": 1,
-        "writers": 1,
-        "genres": 1,
-        "see_results_about": 1,
-        "people_also_search_for": 1,
-        "director": 1,
-        "running_time": 1,
-        "production_companies": 1
+        "label": {
+            "uri": "http://dbpedia.org/property/label",
+            "count": 13
+        },
+        "description": {
+            "uri": "http://purl.org/dc/elements/1.1/description",
+            "count": 13
+        },
+        "type": {
+            "uri": "http://dbpedia.org/property/type",
+            "count": 13
+        },
+        "network": {
+            "uri": "http://dbpedia.org/property/network",
+            "count": 3
+        },
+        "language": {
+            "uri": "http://dbpedia.org/property/language",
+            "count": 3
+        },
+        "writers": {
+            "uri": "http://dbpedia.org/property/writers",
+            "count": 1
+        },
+        "director": {
+            "uri": "http://dbpedia.org/property/director",
+            "count": 1
+        }
     },
     "infoboxless": [
         "15 Minute Musical",
@@ -173,8 +186,8 @@
         "Act Your Age (radio series)",
         "Another Case of Milton Jones",
         "At Home with the Snails",
-        "Banter (radio show)",
         "Ballylenon",
+        "Banter (radio show)",
         "Beyond Our Ken",
         "Bigipedia",
         "Bleak Expectations",
@@ -251,5 +264,15 @@
         "Click (radio programme)",
         "The Archers",
         "BodyLove"
-    ]
+    ],
+    "Unmapped_Properties": {
+        "firstEpisode": 1,
+        "finalEpisode": 1,
+        "cast": 1,
+        "genres": 1,
+        "peopleAlsoSearchFor": 1,
+        "seeResultsAbout": 1,
+        "runningTime": 1,
+        "productionCompanies": 1
+    }
 }

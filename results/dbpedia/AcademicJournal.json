@@ -1,24 +1,31 @@
 {
     "instances": {
-        "The Nautilus (journal)": {
-            "label": "The Nautilus",
-            "description": "The Nautilus is a peer-reviewed scientific journal covering research in malacology. Hence its scope includes all aspects of the biology, ecology, and systematics of mollusks. Wikipedia",
-            "type": "Journal",
-            "Related topics": []
-        },
         "Antichthon": {
             "label": "Antichthon",
             "description": "Antichthon is the peer-reviewed academic journal of the Australasian Society for Classical Studies. The focus of the journal is ancient Greece and Rome, however, its scope is broadly defined so as to ... Wikipedia",
             "type": "",
             "See results about": []
+        },
+        "The Nautilus (journal)": {
+            "label": "The Nautilus",
+            "description": "The Nautilus is a peer-reviewed scientific journal covering research in malacology. Hence its scope includes all aspects of the biology, ecology, and systematics of mollusks. Wikipedia",
+            "type": "Journal",
+            "Related topics": []
         }
     },
     "summary": {
-        "label": 2,
-        "description": 2,
-        "type": 2,
-        "related_topics": 1,
-        "see_results_about": 1
+        "label": {
+            "uri": "http://www.w3.org/2000/01/rdf-schema#label",
+            "count": 2
+        },
+        "description": {
+            "uri": "http://fr.dbpedia.org/ontology/abstract",
+            "count": 2
+        },
+        "type": {
+            "uri": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+            "count": 2
+        }
     },
     "infoboxless": [
         "Annalen der Physik",
@@ -119,5 +126,9 @@
         "Journal of Political Economy",
         "Journal of Recreational Mathematics",
         "Journal of Statistical Software"
-    ]
+    ],
+    "Unmapped_Properties": {
+        "seeResultsAbout": 1,
+        "relatedTopics": 1
+    }
 }

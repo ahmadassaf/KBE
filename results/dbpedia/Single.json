@@ -74,12 +74,6 @@
             ],
             "Cast": []
         },
-        "Força": {
-            "label": "Force",
-            "description": "In physics, a force is any influence that causes an object to undergo a certain change, either concerning its movement, direction, or geometrical construction. Wikipedia",
-            "type": "",
-            "Related topics": []
-        },
         "Ferry Aid": {
             "label": "Ferry Aid",
             "description": "Ferry Aid were a British-American ensemble group, brought together to record the song \"Let It Be\" in 1987. Wikipedia",
@@ -95,6 +89,12 @@
             ],
             "People also search for": []
         },
+        "Força": {
+            "label": "Force",
+            "description": "In physics, a force is any influence that causes an object to undergo a certain change, either concerning its movement, direction, or geometrical construction. Wikipedia",
+            "type": "",
+            "Related topics": []
+        },
         "Heartbreak Hotel": {
             "label": "Elvis Presley's Heartbreak Hotel",
             "description": "",
@@ -103,29 +103,30 @@
         }
     },
     "summary": {
-        "label": 6,
-        "description": 6,
-        "type": 6,
-        "release_date": 1,
-        "artist": 1,
-        "see_results_about": 1,
-        "customer_service": 1,
-        "stock_price": 1,
-        "headquarters": 1,
-        "ceo": 1,
-        "founder": 1,
-        "founded": 1,
-        "recent_posts": 1,
-        "director": 1,
-        "running_time": 1,
-        "sequel": 1,
-        "awards": 1,
-        "cast": 1,
-        "related_topics": 1,
-        "active_from": 1,
-        "active_until": 1,
-        "members": 1,
-        "people_also_search_for": 1
+        "label": {
+            "uri": "http://dbpedia.org/property/label",
+            "count": 6
+        },
+        "description": {
+            "uri": "http://dbpedia.org/property/description",
+            "count": 6
+        },
+        "type": {
+            "uri": "http://dbpedia.org/property/type",
+            "count": 6
+        },
+        "releaseDate": {
+            "uri": "http://dbpedia.org/property/releaseDate",
+            "count": 2
+        },
+        "artist": {
+            "uri": "http://dbpedia.org/property/artist",
+            "count": 1
+        },
+        "director": {
+            "uri": "http://dbpedia.org/property/director",
+            "count": 1
+        }
     },
     "infoboxless": [
         "\"The Take Over, the Breaks Over\"",
@@ -222,5 +223,24 @@
         "I'll Be There for You (The Rembrandts song)",
         "I'm Not Jesus",
         "I'm Really Hot"
-    ]
+    ],
+    "Unmapped_Properties": {
+        "seeResultsAbout": 1,
+        "customerService": 1,
+        "stockPrice": 1,
+        "headquarters": 1,
+        "ceo": 1,
+        "founder": 1,
+        "founded": 1,
+        "recentPosts": 1,
+        "runningTime": 1,
+        "sequel": 1,
+        "awards": 1,
+        "cast": 1,
+        "activeFrom": 1,
+        "activeUntil": 1,
+        "members": 1,
+        "peopleAlsoSearchFor": 1,
+        "relatedTopics": 1
+    }
 }

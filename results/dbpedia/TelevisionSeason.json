@@ -1,8 +1,8 @@
 {
     "instances": {
-        "Grey's Anatomy (season 8)": {
-            "label": "Grey's Anatomy - Season 8",
-            "description": "The eighth season of the American television medical drama Grey's Anatomy, commenced airing on the American Broadcasting Company on September 22, 2011, with a special two-hour episode and ended on May ... Wikipedia",
+        "Desperate Housewives (season 4)": {
+            "label": "Desperate Housewives - Season 4",
+            "description": "The fourth season of Desperate Housewives, an American television series created by Marc Cherry, premiered on September 30, 2007 on ABC. Wikipedia",
             "type": "Television Season",
             "See results about": []
         },
@@ -12,16 +12,16 @@
             "type": "Television Season",
             "See results about": []
         },
-        "Desperate Housewives (season 4)": {
-            "label": "Desperate Housewives - Season 4",
-            "description": "The fourth season of Desperate Housewives, an American television series created by Marc Cherry, premiered on September 30, 2007 on ABC. Wikipedia",
-            "type": "Television Season",
-            "See results about": []
-        },
         "The Vampire Diaries (season 3)": {
             "label": "The Vampire Diaries - Season 3",
             "description": "The Vampire Diaries was officially renewed for a third season by The CW on April 26, 2011 that aired from September 15, 2011 to May 10, 2012. Wikipedia",
             "type": "TV Season",
+            "See results about": []
+        },
+        "Grey's Anatomy (season 8)": {
+            "label": "Grey's Anatomy - Season 8",
+            "description": "The eighth season of the American television medical drama Grey's Anatomy, commenced airing on the American Broadcasting Company on September 22, 2011, with a special two-hour episode and ended on May ... Wikipedia",
+            "type": "Television Season",
             "See results about": []
         },
         "South Park (season 16)": {
@@ -38,10 +38,18 @@
         }
     },
     "summary": {
-        "label": 6,
-        "description": 6,
-        "type": 6,
-        "see_results_about": 1
+        "label": {
+            "uri": "http://dbpedia.org/property/label",
+            "count": 6
+        },
+        "description": {
+            "uri": "http://dbpedia.org/property/description",
+            "count": 6
+        },
+        "type": {
+            "uri": "http://dbpedia.org/property/type",
+            "count": 6
+        }
     },
     "infoboxless": [
         "24 (season 4)",
@@ -138,5 +146,8 @@
         "Stargate Atlantis (season 1)",
         "Stargate Atlantis (season 2)",
         "Stargate Atlantis (season 4)"
-    ]
+    ],
+    "Unmapped_Properties": {
+        "seeResultsAbout": 1
+    }
 }

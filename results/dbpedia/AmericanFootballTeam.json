@@ -22,6 +22,28 @@
             "NFL championships ": "1966, 1967, 1996, 2010",
             "Roster": []
         },
+        "Pittsburgh Steelers": {
+            "label": "Pittsburgh Steelers",
+            "description": "The Pittsburgh Steelers are a professional football team based in Pittsburgh, Pennsylvania. The team currently belongs to the North Division of the American Football Conference in the National Football League. Wikipedia",
+            "type": "92,364 followers on Google+",
+            "Head coach ": [
+                "Mike Tomlin"
+            ],
+            "Location ": [
+                "Pittsburgh"
+            ],
+            "Mascot ": [
+                "Steely McBeam"
+            ],
+            "Arena/Stadium ": [
+                "Heinz Field"
+            ],
+            "Division ": [
+                "AFC North"
+            ],
+            "NFL championships ": "1974, 1975, 1978, 1979, 2005, 2008",
+            "Roster": []
+        },
         "New England Patriots": {
             "label": "New England Patriots",
             "description": "The New England Patriots are a professional American football team based in the Greater Boston area. The Patriots play their home games at Gillette Stadium in the town of Foxborough, Massachusetts. Wikipedia",
@@ -45,43 +67,38 @@
                 " The Pats"
             ],
             "Roster": []
-        },
-        "Pittsburgh Steelers": {
-            "label": "Pittsburgh Steelers",
-            "description": "The Pittsburgh Steelers are a professional football team based in Pittsburgh, Pennsylvania. The team currently belongs to the North Division of the American Football Conference in the National Football League. Wikipedia",
-            "type": "92,364 followers on Google+",
-            "Head coach ": [
-                "Mike Tomlin"
-            ],
-            "Location ": [
-                "Pittsburgh"
-            ],
-            "Mascot ": [
-                "Steely McBeam"
-            ],
-            "Arena/Stadium ": [
-                "Heinz Field"
-            ],
-            "Division ": [
-                "AFC North"
-            ],
-            "NFL championships ": "1974, 1975, 1978, 1979, 2005, 2008",
-            "Roster": []
         }
     },
     "summary": {
-        "label": 3,
-        "description": 3,
-        "type": 3,
-        "head_coach": 1,
+        "label": {
+            "uri": "http://www.w3.org/2000/01/rdf-schema#label",
+            "count": 3
+        },
+        "description": {
+            "uri": "http://fr.dbpedia.org/ontology/abstract",
+            "count": 3
+        },
+        "type": {
+            "uri": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+            "count": 3
+        },
+        "mascot": {
+            "uri": "http://dbpedia.org/property/mascot",
+            "count": 1
+        },
+        "nicknames": {
+            "uri": "http://dbpedia.org/property/nicknames",
+            "count": 1
+        }
+    },
+    "infoboxless": [],
+    "Unmapped_Properties": {
+        "headCoach": 1,
         "location": 1,
         "arena/stadium": 1,
-        "fight_song": 1,
+        "fightSong": 1,
         "division": 1,
-        "nfl_championships": 1,
-        "roster": 1,
-        "nicknames": 1,
-        "mascot": 1
-    },
-    "infoboxless": []
+        "nflChampionships": 1,
+        "roster": 1
+    }
 }

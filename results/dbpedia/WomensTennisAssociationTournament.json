@@ -17,12 +17,18 @@
         }
     },
     "summary": {
-        "label": 1,
-        "description": 1,
-        "type": 1,
-        "address": 1,
-        "hours": 1,
-        "upcoming_events": 1
+        "label": {
+            "uri": "http://www.w3.org/2000/01/rdf-schema#label",
+            "count": 1
+        },
+        "description": {
+            "uri": "http://fr.dbpedia.org/ontology/abstract",
+            "count": 1
+        },
+        "type": {
+            "uri": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+            "count": 1
+        }
     },
     "infoboxless": [
         "Brussels Open",
@@ -83,5 +89,10 @@
         "Shenzhen Open",
         "WTA Tournament of Champions",
         "Brasil Tennis Cup"
-    ]
+    ],
+    "Unmapped_Properties": {
+        "address": 1,
+        "hours": 1,
+        "upcomingEvents": 1
+    }
 }

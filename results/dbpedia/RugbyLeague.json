@@ -16,11 +16,22 @@
         }
     },
     "summary": {
-        "label": 2,
-        "description": 2,
-        "type": 2,
-        "location": 1,
-        "see_results_about": 1
+        "label": {
+            "uri": "http://www.w3.org/2000/01/rdf-schema#label",
+            "count": 2
+        },
+        "description": {
+            "uri": "http://fr.dbpedia.org/ontology/abstract",
+            "count": 2
+        },
+        "type": {
+            "uri": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+            "count": 2
+        },
+        "location": {
+            "uri": "http://dbpedia.org/property/location",
+            "count": 1
+        }
     },
     "infoboxless": [
         "Hong Kong Sevens",
@@ -121,5 +132,8 @@
         "IRB Nations Cup",
         "National Division 1",
         "Scottish National League Division Three"
-    ]
+    ],
+    "Unmapped_Properties": {
+        "seeResultsAbout": 1
+    }
 }

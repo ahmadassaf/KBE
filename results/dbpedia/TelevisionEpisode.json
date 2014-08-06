@@ -32,12 +32,6 @@
             ],
             "Related topics": []
         },
-        "The Naked Now": {
-            "label": "The Naked Now",
-            "description": "\"The Naked Now\" is the third episode of the first season of the American science fiction television series Star Trek The Next Generation, originally aired on October 5, 1987 in broadcast syndication in the United States. Wikipedia",
-            "type": "",
-            "See results about": []
-        },
         "Distant Voices": {
             "label": "Distant Voices, Still Lives",
             "description": "Distant Voices, Still Lives is a 1988 British film directed and written by Terence Davies. It evokes working-class family life in Liverpool during the 1940s and early 1950s, paying particular attention ... Wikipedia",
@@ -59,26 +53,63 @@
                 " London Film Critics Circle Award for Film of the YearMore"
             ],
             "Cast": []
+        },
+        "The Naked Now": {
+            "label": "The Naked Now",
+            "description": "\"The Naked Now\" is the third episode of the first season of the American science fiction television series Star Trek The Next Generation, originally aired on October 5, 1987 in broadcast syndication in the United States. Wikipedia",
+            "type": "",
+            "See results about": []
         }
     },
     "summary": {
-        "label": 3,
-        "description": 3,
-        "type": 3,
-        "air_date": 1,
-        "episode_number": 1,
-        "season_number": 1,
-        "director": 1,
-        "guest_stars": 1,
-        "writers": 1,
-        "related_topics": 1,
-        "see_results_about": 1,
-        "initial_release": 1,
-        "directors": 1,
-        "running_time": 1,
-        "screenplay": 1,
-        "awards": 1,
-        "cast": 1
+        "label": {
+            "uri": "http://dbpedia.org/property/label",
+            "count": 3
+        },
+        "description": {
+            "uri": "http://dbpedia.org/property/description",
+            "count": 3
+        },
+        "type": {
+            "uri": "http://dbpedia.org/property/type",
+            "count": 3
+        },
+        "airDate": {
+            "uri": "http://dbpedia.org/property/airDate",
+            "count": 1
+        },
+        "episodeNumber": {
+            "uri": "http://dbpedia.org/ontology/episodeNumber",
+            "count": 1
+        },
+        "seasonNumber": {
+            "uri": "http://dbpedia.org/ontology/seasonNumber",
+            "count": 1
+        },
+        "director": {
+            "uri": "http://dbpedia.org/property/director",
+            "count": 1
+        },
+        "guestStars": {
+            "uri": "http://dbpedia.org/property/guestStars",
+            "count": 1
+        },
+        "writers": {
+            "uri": "http://dbpedia.org/property/writers",
+            "count": 1
+        },
+        "runningTime": {
+            "uri": "http://dbpedia.org/property/runningTime",
+            "count": 1
+        },
+        "awards": {
+            "uri": "http://dbpedia.org/property/awards",
+            "count": 1
+        },
+        "cast": {
+            "uri": "http://dbpedia.org/property/cast",
+            "count": 1
+        }
     },
     "infoboxless": [
         "A Game of Pool (1961)",
@@ -178,5 +209,12 @@
         "The Omega Glory",
         "The Outrageous Okona",
         "The Passersby"
-    ]
+    ],
+    "Unmapped_Properties": {
+        "relatedTopics": 1,
+        "initialRelease": 1,
+        "directors": 1,
+        "screenplay": 1,
+        "seeResultsAbout": 1
+    }
 }

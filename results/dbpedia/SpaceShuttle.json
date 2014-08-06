@@ -23,6 +23,21 @@
             ],
             "People also search for": []
         },
+        "Space Shuttle Pathfinder": {
+            "label": "Space Shuttle Pathfinder",
+            "description": "The Space Shuttle Orbiter Pathfinder is a Space Shuttle test simulator made of steel and wood. Constructed by NASA in 1977 as an unnamed facilities test article, it was purchased in the early 1980s by ... Wikipedia",
+            "type": ""
+        },
+        "Space Shuttle Atlantis": {
+            "label": "Space Shuttle Atlantis",
+            "description": "",
+            "type": ""
+        },
+        "Space Shuttle Explorer": {
+            "label": "Space Shuttle Independence",
+            "description": "Space Shuttle Independence, formerly known as Explorer, is a full-scale, high-fidelity replica of the Space Shuttle. It was built in Apopka, Florida, by Guard-Lee and installed at Kennedy Space Center Visitor Complex in 1993. Wikipedia",
+            "type": ""
+        },
         "Boeing X-20 Dyna-Soar": {
             "label": "Boeing X-20 Dyna-Soar",
             "description": "The Boeing X-20 Dyna-Soar was a United States Air Force program to develop a spaceplane that could be used for a variety of military missions, including reconnaissance, bombing, space rescue, satellite maintenance, and sabotage of enemy satellites. Wikipedia",
@@ -55,16 +70,6 @@
                 "Boeing"
             ]
         },
-        "Space Shuttle Pathfinder": {
-            "label": "Space Shuttle Pathfinder",
-            "description": "The Space Shuttle Orbiter Pathfinder is a Space Shuttle test simulator made of steel and wood. Constructed by NASA in 1977 as an unnamed facilities test article, it was purchased in the early 1980s by ... Wikipedia",
-            "type": ""
-        },
-        "Space Shuttle Atlantis": {
-            "label": "Space Shuttle Atlantis",
-            "description": "",
-            "type": ""
-        },
         "Space Shuttle Enterprise": {
             "label": "Space Shuttle Enterprise",
             "description": "The Space Shuttle Enterprise was the first Space Shuttle. It was built for NASA as part of the Space Shuttle program to perform test flights in the atmosphere. Wikipedia",
@@ -76,28 +81,21 @@
                 "196 billion USD (2011)"
             ],
             "People also search for": []
-        },
-        "Space Shuttle Explorer": {
-            "label": "Space Shuttle Independence",
-            "description": "Space Shuttle Independence, formerly known as Explorer, is a full-scale, high-fidelity replica of the Space Shuttle. It was built in Apopka, Florida, by Guard-Lee and installed at Kennedy Space Center Visitor Complex in 1993. Wikipedia",
-            "type": ""
         }
     },
     "summary": {
-        "label": 7,
-        "description": 7,
-        "type": 7,
-        "see_results_about": 1,
-        "max_speed": 1,
-        "cost": 1,
-        "manufacturer": 1,
-        "people_also_search_for": 1,
-        "top_speed": 1,
-        "range": 1,
-        "length": 1,
-        "wingspan": 1,
-        "weight": 1,
-        "engine_type": 1
+        "label": {
+            "uri": "http://www.w3.org/2000/01/rdf-schema#label",
+            "count": 7
+        },
+        "description": {
+            "uri": "http://fr.dbpedia.org/ontology/abstract",
+            "count": 7
+        },
+        "type": {
+            "uri": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+            "count": 7
+        }
     },
     "infoboxless": [
         "Ptichka (spacecraft)",
@@ -111,5 +109,18 @@
         "Shuttle 2.03",
         "Hopper (spacecraft)",
         "Space Shuttle Inspiration"
-    ]
+    ],
+    "Unmapped_Properties": {
+        "seeResultsAbout": 1,
+        "maxSpeed": 1,
+        "cost": 1,
+        "manufacturer": 1,
+        "peopleAlsoSearchFor": 1,
+        "topSpeed": 1,
+        "range": 1,
+        "length": 1,
+        "wingspan": 1,
+        "weight": 1,
+        "engineType": 1
+    }
 }

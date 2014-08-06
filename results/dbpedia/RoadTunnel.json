@@ -82,11 +82,6 @@
             ],
             "People also search for": []
         },
-        "Jack Lynch Tunnel": {
-            "label": "Jack Lynch Tunnel",
-            "description": "The Jack Lynch Tunnel is an immersed tube tunnel and an integral part of the N40 southern ring road of Cork in Ireland. It is named after former Taoiseach, Jack Lynch, a native of Cork.\nIt takes the road under the River Lee. Wikipedia",
-            "type": ""
-        },
         "Sumner Tunnel": {
             "label": "Sumner Tunnel",
             "description": "The Sumner Tunnel is a road tunnel in Boston, Massachusetts, USA. It carries traffic under Boston Harbor in one direction, from Logan International Airport and Route 1A in East Boston. Wikipedia",
@@ -95,6 +90,11 @@
                 "1934"
             ],
             "People also search for": []
+        },
+        "Jack Lynch Tunnel": {
+            "label": "Jack Lynch Tunnel",
+            "description": "The Jack Lynch Tunnel is an immersed tube tunnel and an integral part of the N40 southern ring road of Cork in Ireland. It is named after former Taoiseach, Jack Lynch, a native of Cork.\nIt takes the road under the River Lee. Wikipedia",
+            "type": ""
         },
         "Honningsvåg Tunnel": {
             "label": "Honningsvåg Tunnel",
@@ -310,14 +310,14 @@
                 " India"
             ]
         },
-        "St Helena Tunnel": {
-            "label": "St Helena Tunnel",
-            "description": "The St Helena Tunnel is a twin-tube road tunnel under St Helena Hill located near the suburb of Ewingsdale, near Byron Bay, New South Wales, Australia. Wikipedia",
-            "type": ""
-        },
         "Skatestraum Tunnel": {
             "label": "Skatestraum Tunnel",
             "description": "The Skatestraum Tunnel is a subsea road tunnel between the islands of Rugsundøya and Bremangerlandet in Bremanger Municipality in Sogn og Fjordane county, Norway. Wikipedia",
+            "type": ""
+        },
+        "St Helena Tunnel": {
+            "label": "St Helena Tunnel",
+            "description": "The St Helena Tunnel is a twin-tube road tunnel under St Helena Hill located near the suburb of Ewingsdale, near Byron Bay, New South Wales, Australia. Wikipedia",
             "type": ""
         },
         "Sydney Harbour Tunnel": {
@@ -464,14 +464,14 @@
             ],
             "Construction started ": "December 27, 2006"
         },
-        "Bolungarvíkurgöng": {
-            "label": "Bolungarvíkurgöng",
-            "description": "Bolungarvíkurgöng is a tunnel in northwestern Iceland, located in Vestfirðir along Route 61. It has a length of 5,156 m and opened on September 25, 2010. Wikipedia",
-            "type": ""
-        },
         "Almannaskarðsgöng": {
             "label": "Almannaskarðsgöng",
             "description": "Almannaskarðsgöng is a tunnel along Route 1, located near Höfn in Austurland in eastern Iceland. The tunnel measures exactly 1312 metres in length and was opened on June 24, 2005. Wikipedia",
+            "type": ""
+        },
+        "Bolungarvíkurgöng": {
+            "label": "Bolungarvíkurgöng",
+            "description": "Bolungarvíkurgöng is a tunnel in northwestern Iceland, located in Vestfirðir along Route 61. It has a length of 5,156 m and opened on September 25, 2010. Wikipedia",
             "type": ""
         },
         "Clem Jones Tunnel": {
@@ -487,21 +487,26 @@
         }
     },
     "summary": {
-        "label": 70,
-        "description": 70,
-        "type": 70,
-        "opened": 1,
-        "people_also_search_for": 1,
-        "construction_started": 1,
-        "major_cities": 1,
-        "address": 1,
-        "engineers": 1,
-        "weather": 1,
-        "province": 1,
-        "owner": 1,
-        "area": 1,
-        "architectural_style": 1,
-        "architect": 1
+        "label": {
+            "uri": "http://www.w3.org/2000/01/rdf-schema#label",
+            "count": 70
+        },
+        "description": {
+            "uri": "http://fr.dbpedia.org/ontology/abstract",
+            "count": 70
+        },
+        "type": {
+            "uri": "http://dbpedia.org/property/type",
+            "count": 70
+        },
+        "owner": {
+            "uri": "http://dbpedia.org/property/owner",
+            "count": 1
+        },
+        "architect": {
+            "uri": "http://dbpedia.org/ontology/architect",
+            "count": 1
+        }
     },
     "infoboxless": [
         "Coen Tunnel",
@@ -534,5 +539,17 @@
         "Chin Swee Tunnel",
         "Penchala Tunnel",
         "Menora Tunnel"
-    ]
+    ],
+    "Unmapped_Properties": {
+        "opened": 1,
+        "peopleAlsoSearchFor": 1,
+        "constructionStarted": 1,
+        "majorCities": 1,
+        "address": 1,
+        "engineers": 1,
+        "weather": 1,
+        "province": 1,
+        "area": 1,
+        "architecturalStyle": 1
+    }
 }

@@ -1,5 +1,17 @@
 {
     "instances": {
+        "11 Aquarii": {
+            "label": "11 Aquarii",
+            "description": "11 Aquarii is a sunlike star in the constellation Aquarius with an apparent magnitude is 6.22. It is approximately 86 ly from Earth and is a main-sequence star of spectral type G1 and luminosity class ... Wikipedia",
+            "type": "Star",
+            "Magnitude ": [
+                "6.216"
+            ],
+            "Constellation ": [
+                "Aquarius"
+            ],
+            "People also search for": []
+        },
         "36 Ophiuchi": {
             "label": "36 Ophiuchi",
             "description": "36 Ophiuchi is a triple star system 19.5 light years away from Earth. It is in the constellation Ophiuchus. Wikipedia",
@@ -36,15 +48,44 @@
                 " Pi Scorpii"
             ]
         },
-        "11 Aquarii": {
-            "label": "11 Aquarii",
-            "description": "11 Aquarii is a sunlike star in the constellation Aquarius with an apparent magnitude is 6.22. It is approximately 86 ly from Earth and is a main-sequence star of spectral type G1 and luminosity class ... Wikipedia",
+        "GJ 3634": {
+            "label": "GJ 3634",
+            "description": "GJ 3634 is a red dwarf star in the Hydra constellation. One planet has been discovered in its orbit, GJ 3634 b. Wikipedia",
             "type": "Star",
             "Magnitude ": [
-                "6.216"
+                "11.95"
+            ],
+            "People also search for ": [
+                "OGLE-TR-132 b",
+                " Kepler-6 b",
+                " Kepler-5 b",
+                " Gliese 436 b",
+                " Gliese 1",
+                " DX Cancri",
+                " Gliese 433",
+                " LHS 292"
+            ]
+        },
+        "Gliese 436": {
+            "label": "Gliese 436",
+            "description": "Gliese 436 is a red dwarf approximately 33.1 light-years away in the zodiac constellation of Leo. It has an apparent visual magnitude of 10.67, which is much too faint to be seen with the naked eye. Wikipedia",
+            "type": "Star",
+            "Surface temperature ": [
+                "3",
+                "318 K"
+            ],
+            "Mass ": [
+                "815.5E27 kg (0.41 Solar mass)"
+            ],
+            "Radius ": [
+                "292",
+                "100 km (0.42 R☉)"
+            ],
+            "Magnitude ": [
+                "10.67"
             ],
             "Constellation ": [
-                "Aquarius"
+                "Leo"
             ],
             "People also search for": []
         },
@@ -57,6 +98,21 @@
             ],
             "Constellation ": [
                 "Crux"
+            ],
+            "People also search for": []
+        },
+        "BD +20°307": {
+            "label": "BD +20°307",
+            "description": "BD +20°307 is a close binary star system approximately 300 light-years away in the constellation Aries. The system is surrounded by a dusty ring. Wikipedia",
+            "type": "Star",
+            "Orbital period ": [
+                "82 hours"
+            ],
+            "Magnitude ": [
+                "9.01"
+            ],
+            "Constellation ": [
+                "Aries"
             ],
             "People also search for": []
         },
@@ -92,62 +148,6 @@
                 " OGLE-TR-111",
                 " Iota CarinaeMore"
             ]
-        },
-        "GJ 3634": {
-            "label": "GJ 3634",
-            "description": "GJ 3634 is a red dwarf star in the Hydra constellation. One planet has been discovered in its orbit, GJ 3634 b. Wikipedia",
-            "type": "Star",
-            "Magnitude ": [
-                "11.95"
-            ],
-            "People also search for ": [
-                "OGLE-TR-132 b",
-                " Kepler-6 b",
-                " Kepler-5 b",
-                " Gliese 436 b",
-                " Gliese 1",
-                " DX Cancri",
-                " Gliese 433",
-                " LHS 292"
-            ]
-        },
-        "BD +20°307": {
-            "label": "BD +20°307",
-            "description": "BD +20°307 is a close binary star system approximately 300 light-years away in the constellation Aries. The system is surrounded by a dusty ring. Wikipedia",
-            "type": "Star",
-            "Orbital period ": [
-                "82 hours"
-            ],
-            "Magnitude ": [
-                "9.01"
-            ],
-            "Constellation ": [
-                "Aries"
-            ],
-            "People also search for": []
-        },
-        "Gliese 436": {
-            "label": "Gliese 436",
-            "description": "Gliese 436 is a red dwarf approximately 33.1 light-years away in the zodiac constellation of Leo. It has an apparent visual magnitude of 10.67, which is much too faint to be seen with the naked eye. Wikipedia",
-            "type": "Star",
-            "Surface temperature ": [
-                "3",
-                "318 K"
-            ],
-            "Mass ": [
-                "815.5E27 kg (0.41 Solar mass)"
-            ],
-            "Radius ": [
-                "292",
-                "100 km (0.42 R☉)"
-            ],
-            "Magnitude ": [
-                "10.67"
-            ],
-            "Constellation ": [
-                "Leo"
-            ],
-            "People also search for": []
         },
         "R Scuti": {
             "label": "R Scuti",
@@ -199,6 +199,38 @@
             ],
             "See results about": []
         },
+        "Theta Lyrae": {
+            "label": "Theta Lyrae",
+            "description": "Theta Lyrae is a star in a trinary star system, in the constellation Lyra, approximately 770 light years away from Earth. Wikipedia",
+            "type": "Star",
+            "People also search for ": [
+                "Iota Lyrae",
+                " Kappa Lyrae",
+                " Mu Lyrae",
+                " Lambda Lyrae",
+                " HD 173780",
+                " HD 173936",
+                " Delta1 Lyrae",
+                " Eta Lyrae",
+                " GSC 02652-01324",
+                " HD 177808",
+                " HD 176871",
+                " Kepler-8",
+                " Delta2 Lyrae",
+                " HD 175740",
+                " HD 178911",
+                " Kepler-7",
+                " Zeta2 Scorpii",
+                " Gamma Lyrae",
+                " Kepler-9More"
+            ]
+        },
+        "Centaurus X-3": {
+            "label": "Centaurus X-3",
+            "description": "Centaurus X-3 is an X-ray pulsar with a period of 4.84 seconds. It was the first X-ray pulsar to be discovered, and the third X-ray source to be discovered in the constellation Centaurus. Wikipedia",
+            "type": "Star System",
+            "Related topics": []
+        },
         "HAT-P-5": {
             "label": "HAT-P-5",
             "description": "HAT-P-5 is a 12th magnitude star in the constellation Lyra, approximately 1,100 light years away from Earth. It is a spectral type G star, about 1.16 solar masses and radii greater than our Sun, and only 200 Kelvins hotter. Wikipedia",
@@ -231,12 +263,6 @@
                 " GSC 02652-01324",
                 " 17 LyraeMore"
             ]
-        },
-        "Centaurus X-3": {
-            "label": "Centaurus X-3",
-            "description": "Centaurus X-3 is an X-ray pulsar with a period of 4.84 seconds. It was the first X-ray pulsar to be discovered, and the third X-ray source to be discovered in the constellation Centaurus. Wikipedia",
-            "type": "Star System",
-            "Related topics": []
         },
         "OGLE-TR-182": {
             "label": "OGLE-TR-182",
@@ -271,32 +297,6 @@
                 " V533 CarinaeMore"
             ]
         },
-        "Theta Lyrae": {
-            "label": "Theta Lyrae",
-            "description": "Theta Lyrae is a star in a trinary star system, in the constellation Lyra, approximately 770 light years away from Earth. Wikipedia",
-            "type": "Star",
-            "People also search for ": [
-                "Iota Lyrae",
-                " Kappa Lyrae",
-                " Mu Lyrae",
-                " Lambda Lyrae",
-                " HD 173780",
-                " HD 173936",
-                " Delta1 Lyrae",
-                " Eta Lyrae",
-                " GSC 02652-01324",
-                " HD 177808",
-                " HD 176871",
-                " Kepler-8",
-                " Delta2 Lyrae",
-                " HD 175740",
-                " HD 178911",
-                " Kepler-7",
-                " Zeta2 Scorpii",
-                " Gamma Lyrae",
-                " Kepler-9More"
-            ]
-        },
         "OGLE-TR-56": {
             "label": "OGLE-TR-56",
             "description": "OGLE-TR-56 is a dim, distant, magnitude 17 Sun-like star located approximately 1500 parsecs away in the constellation of Sagittarius. Wikipedia",
@@ -306,6 +306,15 @@
             ],
             "Constellation ": [
                 "Sagittarius"
+            ],
+            "People also search for": []
+        },
+        "RX J0822-4300": {
+            "label": "RX J0822-4300",
+            "description": "RX J0822-4300, often referred to as a \"Cosmic Cannonball\", is a radio-quiet neutron star currently moving away from the center of the Puppis A supernova remnant at over 3 million miles per hour, making it one of the fastest moving stars ever found. Wikipedia",
+            "type": "Star",
+            "Constellation ": [
+                "Puppis"
             ],
             "People also search for": []
         },
@@ -327,12 +336,12 @@
                 " 4U 0142+61More"
             ]
         },
-        "RX J0822-4300": {
-            "label": "RX J0822-4300",
-            "description": "RX J0822-4300, often referred to as a \"Cosmic Cannonball\", is a radio-quiet neutron star currently moving away from the center of the Puppis A supernova remnant at over 3 million miles per hour, making it one of the fastest moving stars ever found. Wikipedia",
+        "XTE J1739-285": {
+            "label": "XTE J1739-285",
+            "description": "XTE J1739-285 is a neutron star, in the constellation Ophiuchus, situated approximately 39,000 light-years from Earth. It was first observed on 19 October 1999 by NASA's Rossi X-ray Timing Explorer satellite. Wikipedia",
             "type": "Star",
             "Constellation ": [
-                "Puppis"
+                "Ophiuchus"
             ],
             "People also search for": []
         },
@@ -369,21 +378,12 @@
                 " T Coronae BorealisMore"
             ]
         },
-        "XTE J1739-285": {
-            "label": "XTE J1739-285",
-            "description": "XTE J1739-285 is a neutron star, in the constellation Ophiuchus, situated approximately 39,000 light-years from Earth. It was first observed on 19 October 1999 by NASA's Rossi X-ray Timing Explorer satellite. Wikipedia",
+        "GK Persei": {
+            "label": "GK Persei",
+            "description": "GK Persei was a bright nova occurring in 1901. It reached a maximum magnitude of 0.2, the brightest nova of modern times until Nova Aquilae 1918. Wikipedia",
             "type": "Star",
             "Constellation ": [
-                "Ophiuchus"
-            ],
-            "People also search for": []
-        },
-        "V1280 Scorpii": {
-            "label": "V1280 Scorpii",
-            "description": "V1280 Scorpii is a nova observed in February 2007 in the constellation Scorpius, just south of M62. The nova was a 9th magnitude object when it was discovered independently by Yuji Nakamura and Yukio ... Wikipedia",
-            "type": "",
-            "Constellation ": [
-                "Scorpius"
+                "Perseus"
             ],
             "People also search for": []
         },
@@ -393,6 +393,15 @@
             "type": "Star",
             "Constellation ": [
                 "Canis Major"
+            ],
+            "People also search for": []
+        },
+        "V1280 Scorpii": {
+            "label": "V1280 Scorpii",
+            "description": "V1280 Scorpii is a nova observed in February 2007 in the constellation Scorpius, just south of M62. The nova was a 9th magnitude object when it was discovered independently by Yuji Nakamura and Yukio ... Wikipedia",
+            "type": "",
+            "Constellation ": [
+                "Scorpius"
             ],
             "People also search for": []
         },
@@ -479,33 +488,12 @@
                 " 21 Canum VenaticorumMore"
             ]
         },
-        "GK Persei": {
-            "label": "GK Persei",
-            "description": "GK Persei was a bright nova occurring in 1901. It reached a maximum magnitude of 0.2, the brightest nova of modern times until Nova Aquilae 1918. Wikipedia",
-            "type": "Star",
-            "Constellation ": [
-                "Perseus"
-            ],
-            "People also search for": []
-        },
         "2MASS J04414489+2301513": {
             "label": "2MASS J04414489+2301513",
             "description": "2MASS J04414489+2301513 is a young brown dwarf approximately 450 light years away with an orbiting companion about 5–10 times the mass of Jupiter. Wikipedia",
             "type": "Orbital Relationship",
             "Constellation ": [
                 "Taurus"
-            ],
-            "People also search for": []
-        },
-        "HAT-P-7": {
-            "label": "HAT-P-7",
-            "description": "HAT-P-7 is a yellow white dwarf star located about 1044 light-years away in the constellation Cygnus. Wikipedia",
-            "type": "Star",
-            "Magnitude ": [
-                "10.46"
-            ],
-            "Constellation ": [
-                "Cygnus"
             ],
             "People also search for": []
         },
@@ -542,15 +530,15 @@
                 " OGLE-TR-111More"
             ]
         },
-        "GSC 03089-00929": {
-            "label": "GSC 03089-00929",
-            "description": "GSC 03089-00929 is a magnitude 12 star located approximately 1300 light-years away in the constellation of Hercules. This star is a G type main sequence star that is similar to but slightly cooler than our sun. Wikipedia",
+        "Alpha Pictoris": {
+            "label": "Alpha Pictoris",
+            "description": "Alpha Pictoris is the brightest star in the southern constellation of Pictor. It has an apparent visual magnitude of 3.27, which is bright enough to be viewed from urban areas in the southern hemisphere. Wikipedia",
             "type": "Star",
             "Magnitude ": [
-                "12.4"
+                "3.3"
             ],
             "Constellation ": [
-                "Hercules"
+                "Pictor"
             ],
             "People also search for": []
         },
@@ -566,50 +554,38 @@
             ],
             "People also search for": []
         },
-        "Alpha Pictoris": {
-            "label": "Alpha Pictoris",
-            "description": "Alpha Pictoris is the brightest star in the southern constellation of Pictor. It has an apparent visual magnitude of 3.27, which is bright enough to be viewed from urban areas in the southern hemisphere. Wikipedia",
+        "GSC 03089-00929": {
+            "label": "GSC 03089-00929",
+            "description": "GSC 03089-00929 is a magnitude 12 star located approximately 1300 light-years away in the constellation of Hercules. This star is a G type main sequence star that is similar to but slightly cooler than our sun. Wikipedia",
             "type": "Star",
             "Magnitude ": [
-                "3.3"
+                "12.4"
             ],
             "Constellation ": [
-                "Pictor"
+                "Hercules"
             ],
             "People also search for": []
         },
-        "Kepler-8": {
-            "label": "Kepler-8",
-            "description": "Kepler-8 is a star located in the constellation Lyra in the field of view of the Kepler Mission, a NASA-led operation tasked with discovering terrestrial planets. Wikipedia",
+        "HAT-P-7": {
+            "label": "HAT-P-7",
+            "description": "HAT-P-7 is a yellow white dwarf star located about 1044 light-years away in the constellation Cygnus. Wikipedia",
             "type": "Star",
             "Magnitude ": [
-                "13.9"
+                "10.46"
             ],
             "Constellation ": [
-                "Lyra"
+                "Cygnus"
             ],
-            "People also search for ": [
-                "Kepler-6",
-                " Kepler-5",
-                " Kepler-4",
-                " Kepler-7",
-                " Mu Lyrae",
-                " Eta Lyrae",
-                " Iota Lyrae",
-                " Kappa Lyrae",
-                " Kepler-5 b",
-                " Kepler-6 b",
-                " Delta1 Lyrae",
-                " Kepler-9",
-                " HD 173780",
-                " HD 173936",
-                " HD 176871",
-                " Kepler-14",
-                " Kepler-18",
-                " GSC 02652-01324",
-                " Lambda Lyrae",
-                " HD 178911More"
-            ]
+            "People also search for": []
+        },
+        "HL Tau 76": {
+            "label": "HL Tau 76",
+            "description": "HL Tau 76 is a variable white dwarf star of the DAV type. It was observed by G. Haro and W. J. Luyten in 1961, and was the first variable white dwarf discovered when, in 1968, Arlo U. Landolt found that ... Wikipedia",
+            "type": "Star",
+            "Constellation ": [
+                "Taurus"
+            ],
+            "People also search for": []
         },
         "KY Cygni": {
             "label": "KY Cygni",
@@ -637,15 +613,6 @@
             ],
             "Constellation ": [
                 "Cygnus"
-            ],
-            "People also search for": []
-        },
-        "HL Tau 76": {
-            "label": "HL Tau 76",
-            "description": "HL Tau 76 is a variable white dwarf star of the DAV type. It was observed by G. Haro and W. J. Luyten in 1961, and was the first variable white dwarf discovered when, in 1968, Arlo U. Landolt found that ... Wikipedia",
-            "type": "Star",
-            "Constellation ": [
-                "Taurus"
             ],
             "People also search for": []
         },
@@ -682,6 +649,39 @@
                 " HAT-P-11More"
             ]
         },
+        "Kepler-8": {
+            "label": "Kepler-8",
+            "description": "Kepler-8 is a star located in the constellation Lyra in the field of view of the Kepler Mission, a NASA-led operation tasked with discovering terrestrial planets. Wikipedia",
+            "type": "Star",
+            "Magnitude ": [
+                "13.9"
+            ],
+            "Constellation ": [
+                "Lyra"
+            ],
+            "People also search for ": [
+                "Kepler-6",
+                " Kepler-5",
+                " Kepler-4",
+                " Kepler-7",
+                " Mu Lyrae",
+                " Eta Lyrae",
+                " Iota Lyrae",
+                " Kappa Lyrae",
+                " Kepler-5 b",
+                " Kepler-6 b",
+                " Delta1 Lyrae",
+                " Kepler-9",
+                " HD 173780",
+                " HD 173936",
+                " HD 176871",
+                " Kepler-14",
+                " Kepler-18",
+                " GSC 02652-01324",
+                " Lambda Lyrae",
+                " HD 178911More"
+            ]
+        },
         "OGLE-TR-122": {
             "label": "OGLE-TR-122",
             "description": "OGLE-TR-122 is a binary stellar system containing one of the smallest main-sequence stars whose radius has been measured. Wikipedia",
@@ -703,15 +703,6 @@
             ],
             "People also search for": []
         },
-        "PSR J0537-6910": {
-            "label": "PSR J0537-6910",
-            "description": "PSR J0537-6910 is a pulsar that is 4,000 years old, and about 170,000 light years away, in the southern sky. It rotates at 62 Hertz. Wikipedia",
-            "type": "",
-            "Constellation ": [
-                "Dorado"
-            ],
-            "People also search for": []
-        },
         "PSR B1919+21": {
             "label": "PSR B1919+21",
             "description": "PSR B1919+21 is a pulsar with a period of 1.3373 seconds, and a pulse width of 0.04 second. It was the first radio pulsar discovered. Wikipedia",
@@ -724,6 +715,27 @@
             ],
             "Constellation ": [
                 "Vulpecula"
+            ],
+            "People also search for": []
+        },
+        "PSR J0537-6910": {
+            "label": "PSR J0537-6910",
+            "description": "PSR J0537-6910 is a pulsar that is 4,000 years old, and about 170,000 light years away, in the southern sky. It rotates at 62 Hertz. Wikipedia",
+            "type": "",
+            "Constellation ": [
+                "Dorado"
+            ],
+            "People also search for": []
+        },
+        "R136b": {
+            "label": "R136b",
+            "description": "R136b is a Wolf-Rayet star in the Large Magellanic Cloud. Wikipedia",
+            "type": "Star",
+            "Magnitude ": [
+                "13.66"
+            ],
+            "Constellation ": [
+                "Dorado"
             ],
             "People also search for": []
         },
@@ -768,18 +780,6 @@
             ],
             "People also search for": []
         },
-        "R136b": {
-            "label": "R136b",
-            "description": "R136b is a Wolf-Rayet star in the Large Magellanic Cloud. Wikipedia",
-            "type": "Star",
-            "Magnitude ": [
-                "13.66"
-            ],
-            "Constellation ": [
-                "Dorado"
-            ],
-            "People also search for": []
-        },
         "VB 10": {
             "label": "VB 10",
             "description": "VB 10, also referred to as Van Biesbroeck's star, is a very small and very dim M-type red dwarf located in the constellation Aquila. Wikipedia",
@@ -810,6 +810,20 @@
                 " Upsilon AquilaeMore"
             ]
         },
+        "Var 83": {
+            "label": "Var",
+            "description": "The Var is a department in the Provence-Alpes-Côte d'Azur region in Provence in southeastern France. It takes its name from the river Var, which used to flow along its eastern boundary, but the boundary was moved in 1860. Wikipedia",
+            "type": "French Department",
+            "Area ": [
+                "2",
+                "306 sq miles (5",
+                "973 km²)"
+            ],
+            "University ": [
+                "University of the South",
+                " Toulon-Var"
+            ]
+        },
         "WR 104": {
             "label": "WR 104",
             "description": "WR 104 is a Wolf-Rayet star discovered in 1998, located 8,000 light years from Earth. It is a binary star with an OB companion. Wikipedia",
@@ -837,25 +851,23 @@
             ],
             "People also search for": []
         },
-        "Var 83": {
-            "label": "Var",
-            "description": "The Var is a department in the Provence-Alpes-Côte d'Azur region in Provence in southeastern France. It takes its name from the river Var, which used to flow along its eastern boundary, but the boundary was moved in 1860. Wikipedia",
-            "type": "French Department",
-            "Area ": [
-                "2",
-                "306 sq miles (5",
-                "973 km²)"
-            ],
-            "University ": [
-                "University of the South",
-                " Toulon-Var"
-            ]
-        },
         "AM Canum Venaticorum": {
             "label": "AM Canum Venaticorum",
             "description": "AM Canum Venaticorum is a cataclysmic variable binary star in the constellation of Canes Venatici. It is the type star of its class of variables, the AM CVn stars. Wikipedia",
             "type": "",
             "Related topics": []
+        },
+        "BD+60 2522": {
+            "label": "BD+60 2522",
+            "description": "SAO 20575 or BD+60°2522 is a bright O-class star that has produced the Bubble Nebula with its stellar wind. Wikipedia",
+            "type": "Star",
+            "Magnitude ": [
+                "8.71"
+            ],
+            "Constellation ": [
+                "Cassiopeia"
+            ],
+            "People also search for": []
         },
         "GJ 1061": {
             "label": "GJ 1061",
@@ -869,17 +881,29 @@
             ],
             "People also search for": []
         },
-        "BD+60 2522": {
-            "label": "BD+60 2522",
-            "description": "SAO 20575 or BD+60°2522 is a bright O-class star that has produced the Bubble Nebula with its stellar wind. Wikipedia",
+        "PSR B1829−10": {
+            "label": "PSR B1829−10",
+            "description": "PSR B1829-10 is a pulsar that is approximately 30,000 light-years away in the constellation of Scutum. This pulsar has been the target of interest, because of a mistaken identification of a planet around it. Wikipedia",
             "type": "Star",
             "Magnitude ": [
-                "8.71"
+                "5.28"
             ],
             "Constellation ": [
-                "Cassiopeia"
+                "Scutum"
             ],
-            "People also search for": []
+            "People also search for ": [
+                "PSR B1257+12",
+                " PSR B1620-26 b",
+                " PSR B1257+12C",
+                " Beta Scuti",
+                " Eta Scuti",
+                " Gamma Scuti",
+                " Delta Scuti",
+                " Zeta Scuti",
+                " Alpha Scuti",
+                " Epsilon Scuti",
+                " PSR B1620-26More"
+            ]
         },
         "HIP 13044": {
             "label": "HIP 13044",
@@ -909,39 +933,6 @@
                 " V391 Pegasi",
                 " Eta1 DoradusMore"
             ]
-        },
-        "PSR B1829−10": {
-            "label": "PSR B1829−10",
-            "description": "PSR B1829-10 is a pulsar that is approximately 30,000 light-years away in the constellation of Scutum. This pulsar has been the target of interest, because of a mistaken identification of a planet around it. Wikipedia",
-            "type": "Star",
-            "Magnitude ": [
-                "5.28"
-            ],
-            "Constellation ": [
-                "Scutum"
-            ],
-            "People also search for ": [
-                "PSR B1257+12",
-                " PSR B1620-26 b",
-                " PSR B1257+12C",
-                " Beta Scuti",
-                " Eta Scuti",
-                " Gamma Scuti",
-                " Delta Scuti",
-                " Zeta Scuti",
-                " Alpha Scuti",
-                " Epsilon Scuti",
-                " PSR B1620-26More"
-            ]
-        },
-        "TZ Arietis": {
-            "label": "TZ Arietis",
-            "description": "TZ Arietis is the variable star designation for a red dwarf star in the northern constellation of Aries. Wikipedia",
-            "type": "Star",
-            "Constellation ": [
-                "Aries"
-            ],
-            "People also search for": []
         },
         "T Cephei": {
             "label": "T Cephei",
@@ -976,18 +967,6 @@
             ],
             "People also search for": []
         },
-        "PSR B0950+08": {
-            "label": "PSR B0950+08",
-            "description": "The pulsar PSR B0950+08 seems to have come from a supernova that occurred in Leo 1.8 million years ago. The remnant of this supernova may be the nearest besides the Local Bubble, and the supernova would have been as bright as the moon. Wikipedia",
-            "type": "",
-            "Magnitude ": [
-                "5.28"
-            ],
-            "Constellation ": [
-                "Antlia"
-            ],
-            "People also search for": []
-        },
         "G29-38": {
             "label": "G 29-38",
             "description": "Giclas 29-38 is a variable white dwarf star of the DAV, or ZZ Ceti, whose variability is due to large-amplitude, non-radial pulsations, known as gravity waves. It was first reported to be variable by Shulov and Kopatskaya in 1974. Wikipedia",
@@ -1000,15 +979,12 @@
             ],
             "People also search for": []
         },
-        "108 Aquarii": {
-            "label": "108 Aquarii",
-            "description": "108 Aquarii is the Flamsteed designation for a star in the equatorial constellation of Aquarius. It has an apparent visual magnitude of 5.194 and can be seen with the naked eye under suitably dark skies. Wikipedia",
+        "TZ Arietis": {
+            "label": "TZ Arietis",
+            "description": "TZ Arietis is the variable star designation for a red dwarf star in the northern constellation of Aries. Wikipedia",
             "type": "Star",
-            "Magnitude ": [
-                "5.194"
-            ],
             "Constellation ": [
-                "Aquarius"
+                "Aries"
             ],
             "People also search for": []
         },
@@ -1024,15 +1000,15 @@
             ],
             "People also search for": []
         },
-        "Gamma Ophiuchi": {
-            "label": "Gamma Ophiuchi",
-            "description": "Gamma Ophiuchi is a fourth-magnitude star in the constellation Ophiuchus. It is located about 95 light-years from Earth. The system has an age of roughly 184 million years.\nThis is an A-type main sequence star with a stellar classification of A0 V. Wikipedia",
+        "108 Aquarii": {
+            "label": "108 Aquarii",
+            "description": "108 Aquarii is the Flamsteed designation for a star in the equatorial constellation of Aquarius. It has an apparent visual magnitude of 5.194 and can be seen with the naked eye under suitably dark skies. Wikipedia",
             "type": "Star",
             "Magnitude ": [
-                "3.75"
+                "5.194"
             ],
             "Constellation ": [
-                "Ophiuchus"
+                "Aquarius"
             ],
             "People also search for": []
         },
@@ -1060,25 +1036,65 @@
                 " Lambda Sagittarii",
                 " Phi SagittariiMore"
             ]
+        },
+        "Gamma Ophiuchi": {
+            "label": "Gamma Ophiuchi",
+            "description": "Gamma Ophiuchi is a fourth-magnitude star in the constellation Ophiuchus. It is located about 95 light-years from Earth. The system has an age of roughly 184 million years.\nThis is an A-type main sequence star with a stellar classification of A0 V. Wikipedia",
+            "type": "Star",
+            "Magnitude ": [
+                "3.75"
+            ],
+            "Constellation ": [
+                "Ophiuchus"
+            ],
+            "People also search for": []
+        },
+        "PSR B0950+08": {
+            "label": "PSR B0950+08",
+            "description": "The pulsar PSR B0950+08 seems to have come from a supernova that occurred in Leo 1.8 million years ago. The remnant of this supernova may be the nearest besides the Local Bubble, and the supernova would have been as bright as the moon. Wikipedia",
+            "type": "",
+            "Magnitude ": [
+                "5.28"
+            ],
+            "Constellation ": [
+                "Antlia"
+            ],
+            "People also search for": []
         }
     },
     "summary": {
-        "label": 64,
-        "description": 64,
-        "type": 64,
-        "constellation": 1,
-        "people_also_search_for": 1,
-        "magnitude": 1,
-        "orbital_period": 1,
-        "surface_temperature": 1,
-        "mass": 1,
-        "radius": 1,
-        "related_topics": 1,
-        "see_results_about": 1,
-        "luminosity": 1,
-        "distance_to_earth": 1,
-        "area": 1,
-        "university": 1
+        "label": {
+            "uri": "http://www.w3.org/2000/01/rdf-schema#label",
+            "count": 64
+        },
+        "description": {
+            "uri": "http://fr.dbpedia.org/ontology/abstract",
+            "count": 64
+        },
+        "type": {
+            "uri": "http://dbpedia.org/property/type",
+            "count": 64
+        },
+        "constellation": {
+            "uri": "http://dbpedia.org/property/constellation",
+            "count": 55
+        },
+        "mass": {
+            "uri": "http://dbpedia.org/property/mass",
+            "count": 5
+        },
+        "radius": {
+            "uri": "http://dbpedia.org/property/radius",
+            "count": 5
+        },
+        "orbitalPeriod": {
+            "uri": "http://dbpedia.org/property/orbitalPeriod",
+            "count": 2
+        },
+        "luminosity": {
+            "uri": "http://dbpedia.org/property/luminosity",
+            "count": 1
+        }
     },
     "infoboxless": [
         "DEN 0255-4700",
@@ -1117,5 +1133,15 @@
         "54 Leonis",
         "GJ 1214",
         "Gamma Muscae"
-    ]
+    ],
+    "Unmapped_Properties": {
+        "magnitude": 1,
+        "peopleAlsoSearchFor": 1,
+        "surfaceTemperature": 1,
+        "relatedTopics": 1,
+        "seeResultsAbout": 1,
+        "area": 1,
+        "university": 1,
+        "distanceToEarth": 1
+    }
 }

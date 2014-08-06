@@ -1,13 +1,5 @@
 {
     "instances": {
-        "Żubroń": {
-            "label": "Żubroń",
-            "description": "Żubroń is a hybrid of domestic cattle and wisent. The wisent is the European bison; hence, the żubroń is analogous to the American beefalo. Wikipedia",
-            "type": "",
-            "Rank ": [
-                "Hybrid"
-            ]
-        },
         "Aethalops": {
             "label": "Aethalops",
             "description": "Aethalops is a genus of megabat in the Pteropodidae family. It contains the following species\nBorneo Fruit Bat, Aethalops aequalis\nPygmy Fruit Bat, Aethalops alecto Wikipedia",
@@ -51,6 +43,14 @@
                 " Vincent's bush squirrelMore"
             ]
         },
+        "Żubroń": {
+            "label": "Żubroń",
+            "description": "Żubroń is a hybrid of domestic cattle and wisent. The wisent is the European bison; hence, the żubroń is analogous to the American beefalo. Wikipedia",
+            "type": "",
+            "Rank ": [
+                "Hybrid"
+            ]
+        },
         "Amazon black howler": {
             "label": "Amazon black howler",
             "description": "The Amazon black howler is a species of howler monkey, a type of New World monkey, endemic to the south-central Amazon in Brazil. Wikipedia",
@@ -80,22 +80,6 @@
             "Rank ": [
                 "Species"
             ]
-        },
-        "Angwantibo": {
-            "label": "Angwantibo",
-            "description": "Angwantibos are the two species of strepsirrhine primates that are classified in the genus Arctocebus of the family Lorisidae. They are also known as golden pottos because of their yellow or golden coloration. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Arctocebus"
-            ],
-            "Rank ": [
-                "Genus"
-            ],
-            "Lower classifications ": [
-                "Calabar angwantibo",
-                " Golden angwantibo"
-            ],
-            "See results about": []
         },
         "Anomalurus": {
             "label": "Anomalurus",
@@ -129,6 +113,11 @@
                 "Spermophilus"
             ]
         },
+        "Aulophyseter": {
+            "label": "Aulophyseter",
+            "description": "Aulophyseter is an extinct genus of sperm whale from the Miocene formations of the West and East coasts of North America as well as the Patagonian region of South America. It is a possible synonym of some fossils assigned to Orycterocetus. Wikipedia",
+            "type": ""
+        },
         "Atlantic titi": {
             "label": "Atlantic titi",
             "description": "The Atlantic Titi or Masked Titi, Callicebus personatus, is a species of titi, a type of New World monkey, endemic to Brazil. Wikipedia",
@@ -141,25 +130,6 @@
             ],
             "Higher classification ": [
                 "Titi"
-            ]
-        },
-        "Aulophyseter": {
-            "label": "Aulophyseter",
-            "description": "Aulophyseter is an extinct genus of sperm whale from the Miocene formations of the West and East coasts of North America as well as the Patagonian region of South America. It is a possible synonym of some fossils assigned to Orycterocetus. Wikipedia",
-            "type": ""
-        },
-        "Banded surili": {
-            "label": "Banded surili",
-            "description": "The banded surili is a species of primate in the Cercopithecidae family. It is endemic to the Thai-Malay Peninsula and the Indonesia island of Sumatra. It is threatened by habitat loss. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Presbytis femoralis"
-            ],
-            "Rank ": [
-                "Species"
-            ],
-            "Higher classification ": [
-                "Surili"
             ]
         },
         "Banded palm civet": {
@@ -196,6 +166,20 @@
             ],
             "See results about": []
         },
+        "Banded surili": {
+            "label": "Banded surili",
+            "description": "The banded surili is a species of primate in the Cercopithecidae family. It is endemic to the Thai-Malay Peninsula and the Indonesia island of Sumatra. It is threatened by habitat loss. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Presbytis femoralis"
+            ],
+            "Rank ": [
+                "Species"
+            ],
+            "Higher classification ": [
+                "Surili"
+            ]
+        },
         "Baptista Lake titi": {
             "label": "Baptista Lake titi",
             "description": "The Baptista Lake titi, Callicebus baptista, is a species of titi, a type of New World monkey, endemic to Brazil. Wikipedia",
@@ -210,11 +194,6 @@
                 "Titi"
             ]
         },
-        "Barylambda": {
-            "label": "Barylambda",
-            "description": "Barylambda is an extinct genus of pantodont mammal from the middle to late Paleocene, well known from several finds in North America. Three species of Barylambda are currently recognised. Wikipedia",
-            "type": ""
-        },
         "Barbara Brown's titi": {
             "label": "Barbara Brown's titi",
             "description": "Barbara Brown's titi is a species of titi, a type of New World monkey. This critically endangered species is endemic to the Caatinga in northeastern Brazil, and it is estimated that less than 250 mature individuals remain. Wikipedia",
@@ -228,6 +207,27 @@
             "Higher classification ": [
                 "Titi"
             ]
+        },
+        "Angwantibo": {
+            "label": "Angwantibo",
+            "description": "Angwantibos are the two species of strepsirrhine primates that are classified in the genus Arctocebus of the family Lorisidae. They are also known as golden pottos because of their yellow or golden coloration. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Arctocebus"
+            ],
+            "Rank ": [
+                "Genus"
+            ],
+            "Lower classifications ": [
+                "Calabar angwantibo",
+                " Golden angwantibo"
+            ],
+            "See results about": []
+        },
+        "Barylambda": {
+            "label": "Barylambda",
+            "description": "Barylambda is an extinct genus of pantodont mammal from the middle to late Paleocene, well known from several finds in North America. Three species of Barylambda are currently recognised. Wikipedia",
+            "type": ""
         },
         "Bathyergus": {
             "label": "Bathyergus",
@@ -248,6 +248,38 @@
             ],
             "See results about": []
         },
+        "Binturong": {
+            "label": "Binturong",
+            "description": "The binturong, also known as bearcat, is a viverrid native to South and Southeast Asia. It is uncommon in much of its range, and listed as Vulnerable by IUCN because of a declining population trend that ... Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Arctictis binturong"
+            ],
+            "Mass ": [
+                "11 – 32 kg (Adult",
+                " In captivity",
+                " Female)"
+            ],
+            "Gestation period ": [
+                "91 d"
+            ],
+            "Rank ": [
+                "Species"
+            ],
+            "Tail length ": [
+                "66 – 69 cm (Adult)"
+            ],
+            "Higher classification ": [
+                "Arctictis"
+            ],
+            "Body length ": [
+                "76 – 91 cm (In captivity",
+                " Adult",
+                " Without Tail)",
+                " 71 – 84 cm (Without Tail",
+                " Adult)"
+            ]
+        },
         "Bengal fox": {
             "label": "Bengal fox",
             "description": "The Bengal fox, also known as the Indian fox, is a fox endemic to the Indian subcontinent and is found from the Himalayan foothills and Terai of Nepal through southern India and from southern and eastern ... Wikipedia",
@@ -261,6 +293,21 @@
             "Higher classification ": [
                 "Vulpes"
             ]
+        },
+        "Black-headed spider monkey": {
+            "label": "Black-headed spider monkey",
+            "description": "The black-headed spider monkey, Ateles fusciceps, is a species of spider monkey, a type of New World monkey, from Central and South America. It is found in Colombia, Nicaragua and Panama. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Ateles fusciceps"
+            ],
+            "Higher classification ": [
+                "Spider monkey"
+            ],
+            "Rank ": [
+                "Species"
+            ],
+            "See results about": []
         },
         "Black-footed cat": {
             "label": "Black-footed cat",
@@ -296,53 +343,6 @@
                 " Adult)"
             ]
         },
-        "Binturong": {
-            "label": "Binturong",
-            "description": "The binturong, also known as bearcat, is a viverrid native to South and Southeast Asia. It is uncommon in much of its range, and listed as Vulnerable by IUCN because of a declining population trend that ... Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Arctictis binturong"
-            ],
-            "Mass ": [
-                "11 – 32 kg (Adult",
-                " In captivity",
-                " Female)"
-            ],
-            "Gestation period ": [
-                "91 d"
-            ],
-            "Rank ": [
-                "Species"
-            ],
-            "Tail length ": [
-                "66 – 69 cm (Adult)"
-            ],
-            "Higher classification ": [
-                "Arctictis"
-            ],
-            "Body length ": [
-                "76 – 91 cm (In captivity",
-                " Adult",
-                " Without Tail)",
-                " 71 – 84 cm (Without Tail",
-                " Adult)"
-            ]
-        },
-        "Black-headed spider monkey": {
-            "label": "Black-headed spider monkey",
-            "description": "The black-headed spider monkey, Ateles fusciceps, is a species of spider monkey, a type of New World monkey, from Central and South America. It is found in Colombia, Nicaragua and Panama. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Ateles fusciceps"
-            ],
-            "Higher classification ": [
-                "Spider monkey"
-            ],
-            "Rank ": [
-                "Species"
-            ],
-            "See results about": []
-        },
         "Black howler": {
             "label": "Black howler",
             "description": "The black howler is a species of howler monkey, a large New World monkey, from northeastern Argentina, eastern Bolivia, eastern and southern Brazil, and Paraguay. Together with the brown howler, it is the southernmost member of the Alouatta genus. Wikipedia",
@@ -357,20 +357,6 @@
                 "Species"
             ],
             "See results about": []
-        },
-        "Black titi": {
-            "label": "Black titi",
-            "description": "The black titi is a species of titi, a type of New World monkey, from South America. It is found in Brazil, Colombia, and Venezuela. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Callicebus lugens"
-            ],
-            "Rank ": [
-                "Species"
-            ],
-            "Higher classification ": [
-                "Titi"
-            ]
         },
         "Blarinomys": {
             "label": "Blarinomys",
@@ -398,6 +384,20 @@
             ],
             "Higher classification ": [
                 "True lemur"
+            ]
+        },
+        "Black titi": {
+            "label": "Black titi",
+            "description": "The black titi is a species of titi, a type of New World monkey, from South America. It is found in Brazil, Colombia, and Venezuela. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Callicebus lugens"
+            ],
+            "Rank ": [
+                "Species"
+            ],
+            "Higher classification ": [
+                "Titi"
             ]
         },
         "Bolivian red howler": {
@@ -442,12 +442,12 @@
                 "Ferret-badger"
             ]
         },
-        "Booted macaque": {
-            "label": "Booted macaque",
-            "description": "The booted macaque is a macaque of the Sulawesi Island, Indonesia. This Old World monkey is diurnal and spends most of the day in the trees. It is 50–59 cm long plus a tail of 35–40 cm. Wikipedia",
+        "Branisella": {
+            "label": "Branisella",
+            "description": "Branisella is an extinct genus of New World monkey from the Salla formation of what is now Bolivia during the late Oligocene, approximately 26 million years ago. It is the oldest fossil New World Monkey discovered. Wikipedia",
             "type": "",
             "Scientific name ": [
-                "Macaca ochreata"
+                "Branisella boliviana"
             ]
         },
         "Bornean slow loris": {
@@ -456,14 +456,6 @@
             "type": "",
             "Scientific name ": [
                 "Nycticebus menagensis"
-            ]
-        },
-        "Branisella": {
-            "label": "Branisella",
-            "description": "Branisella is an extinct genus of New World monkey from the Salla formation of what is now Bolivia during the late Oligocene, approximately 26 million years ago. It is the oldest fossil New World Monkey discovered. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Branisella boliviana"
             ]
         },
         "Brown greater galago": {
@@ -494,6 +486,14 @@
                 "Titi"
             ],
             "See results about": []
+        },
+        "Booted macaque": {
+            "label": "Booted macaque",
+            "description": "The booted macaque is a macaque of the Sulawesi Island, Indonesia. This Old World monkey is diurnal and spends most of the day in the trees. It is 50–59 cm long plus a tail of 35–40 cm. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Macaca ochreata"
+            ]
         },
         "Brumback's night monkey": {
             "label": "Brumback's night monkey",
@@ -560,18 +560,12 @@
                 "227 – 278 cm (Adult)"
             ]
         },
-        "Cacomistle": {
-            "label": "Cacomistle",
-            "description": "The cacomistle, Bassariscus sumichrasti, is a nocturnal, arboreal and omnivorous member of the carnivoran family Procyonidae. Wikipedia",
+        "Callithrix": {
+            "label": "Callithrix",
+            "description": "Callithrix is a genus of New World monkeys of the family Callitrichidae, the family containing marmosets and tamarins. The genus contains the Atlantic Forest marmosets. Wikipedia",
             "type": "",
-            "Scientific name ": [
-                "Bassariscus sumichrasti"
-            ],
             "Rank ": [
-                "Species"
-            ],
-            "Higher classification ": [
-                "Bassariscus"
+                "Genus"
             ],
             "See results about": []
         },
@@ -587,29 +581,6 @@
             ],
             "Higher classification ": [
                 "Zalophus"
-            ]
-        },
-        "Callithrix": {
-            "label": "Callithrix",
-            "description": "Callithrix is a genus of New World monkeys of the family Callitrichidae, the family containing marmosets and tamarins. The genus contains the Atlantic Forest marmosets. Wikipedia",
-            "type": "",
-            "Rank ": [
-                "Genus"
-            ],
-            "See results about": []
-        },
-        "Callosciurinae": {
-            "label": "Callosciurinae",
-            "description": "Callosciurinae is an Asiatic subfamily of squirrels. It contains over 60 species, mostly found in South East Asia. It is named after the genus Callosciurus, which means 'Beautiful Squirrels'. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Callosciurinae"
-            ],
-            "Rank ": [
-                "Subfamily"
-            ],
-            "Higher classification ": [
-                "Squirrel"
             ]
         },
         "Canariomys": {
@@ -644,6 +615,21 @@
                 "Genetta"
             ]
         },
+        "Cacomistle": {
+            "label": "Cacomistle",
+            "description": "The cacomistle, Bassariscus sumichrasti, is a nocturnal, arboreal and omnivorous member of the carnivoran family Procyonidae. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Bassariscus sumichrasti"
+            ],
+            "Rank ": [
+                "Species"
+            ],
+            "Higher classification ": [
+                "Bassariscus"
+            ],
+            "See results about": []
+        },
         "Caribbean monk seal": {
             "label": "Caribbean monk seal",
             "description": "The Caribbean monk seal, west Indian seal, or sea wolf, as early explorers referred to it, was a species of seal native to the Caribbean and now believed to be extinct. The Caribbean monk seals' main predators were sharks and humans. Wikipedia",
@@ -658,12 +644,18 @@
                 "Species"
             ]
         },
-        "Cetotherium": {
-            "label": "Cetotherium",
-            "description": "Cetotherium is a genus of extinct cetaceans from the family Cetotheriidae. Wikipedia",
+        "Callosciurinae": {
+            "label": "Callosciurinae",
+            "description": "Callosciurinae is an Asiatic subfamily of squirrels. It contains over 60 species, mostly found in South East Asia. It is named after the genus Callosciurus, which means 'Beautiful Squirrels'. Wikipedia",
             "type": "",
+            "Scientific name ": [
+                "Callosciurinae"
+            ],
             "Rank ": [
-                "Genus"
+                "Subfamily"
+            ],
+            "Higher classification ": [
+                "Squirrel"
             ]
         },
         "Celebes crested macaque": {
@@ -709,6 +701,17 @@
             ],
             "See results about": []
         },
+        "Claire's mouse lemur": {
+            "label": "Claire's mouse lemur",
+            "description": "Claire's mouse lemur, or Nosy Be mouse lemur, is a newly described species of lemur from the genus of the mouse lemurs. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Microcebus mamiratra"
+            ],
+            "Rank ": [
+                "Species"
+            ]
+        },
         "Chrotomys": {
             "label": "Chrotomys",
             "description": "The genus Chrotomys contain a unique group of rodents found only in the Philippines, specifically the islands of Luzon, Mindoro, and Sibuyan. Wikipedia",
@@ -729,15 +732,21 @@
                 " Blazed Luzon shrew rat"
             ]
         },
-        "Claire's mouse lemur": {
-            "label": "Claire's mouse lemur",
-            "description": "Claire's mouse lemur, or Nosy Be mouse lemur, is a newly described species of lemur from the genus of the mouse lemurs. Wikipedia",
+        "Clouded leopard": {
+            "label": "Clouded leopard",
+            "description": "The clouded leopard is a cat found from the Himalayan foothills through mainland Southeast Asia into China, and has been classified as Vulnerable in 2008 by IUCN. Wikipedia",
             "type": "",
             "Scientific name ": [
-                "Microcebus mamiratra"
+                "Neofelis nebulosa"
+            ],
+            "Lower classifications ": [
+                "Formosan clouded leopard"
             ],
             "Rank ": [
                 "Species"
+            ],
+            "Higher classification ": [
+                "Neofelis"
             ]
         },
         "Colobinae": {
@@ -763,28 +772,6 @@
                 " Surili"
             ]
         },
-        "Clouded leopard": {
-            "label": "Clouded leopard",
-            "description": "The clouded leopard is a cat found from the Himalayan foothills through mainland Southeast Asia into China, and has been classified as Vulnerable in 2008 by IUCN. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Neofelis nebulosa"
-            ],
-            "Lower classifications ": [
-                "Formosan clouded leopard"
-            ],
-            "Rank ": [
-                "Species"
-            ],
-            "Higher classification ": [
-                "Neofelis"
-            ]
-        },
-        "Coryphodon": {
-            "label": "Coryphodon",
-            "description": "Coryphodon is an extinct genus of mammal.\nCoryphodon was a pantodont, a member of the world's first group of large browsing mammals. It migrated across what is now northern North America, replacing Barylambda, an earlier pantodont. Wikipedia",
-            "type": ""
-        },
         "Coppery titi": {
             "label": "Coppery titi",
             "description": "The coppery titi is a species of titi, a type of New World monkey, from South America. It is found in the Amazon of Brazil and Peru, and perhaps Bolivia. Wikipedia",
@@ -798,6 +785,11 @@
             "Higher classification ": [
                 "Titi"
             ]
+        },
+        "Coryphodon": {
+            "label": "Coryphodon",
+            "description": "Coryphodon is an extinct genus of mammal.\nCoryphodon was a pantodont, a member of the world's first group of large browsing mammals. It migrated across what is now northern North America, replacing Barylambda, an earlier pantodont. Wikipedia",
+            "type": ""
         },
         "Corynorhinus": {
             "label": "Corynorhinus",
@@ -813,41 +805,6 @@
                 "Nasua nelsoni"
             ]
         },
-        "Crab-eating mongoose": {
-            "label": "Crab-eating mongoose",
-            "description": "The crab-eating mongoose is a mongoose species ranging from the northeastern Indian subcontinent to Southeast Asia, southern China and Taiwan. It is listed as Near Threatened by IUCN. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Herpestes urva"
-            ],
-            "Rank ": [
-                "Species"
-            ],
-            "Higher classification ": [
-                "Herpestes"
-            ]
-        },
-        "Crateromys": {
-            "label": "Crateromys",
-            "description": "Crateromys is a genus of rodent, native to the Philippines, in the family Muridae. It contains four species\nDinagat Bushy-Tailed Cloud Rat\nGiant Bushy-Tailed Cloud Rat\nPanay Cloudrunner\nIlin Island Cloudrunner Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Crateromys"
-            ],
-            "Rank ": [
-                "Genus"
-            ],
-            "Higher classification ": [
-                "Murinae"
-            ],
-            "Lower classifications ": [
-                "Panay cloudrunner",
-                " Dinagat bushy-tailed cloud rat",
-                " Giant bushy-tailed cloud rat",
-                " Ilin Island cloudrunner"
-            ],
-            "See results about": []
-        },
         "Crabeater seal": {
             "label": "Crabeater seal",
             "description": "The crabeater seal is a true seal with a circumpolar distribution around the coast of Antarctica. They are medium- to large-sized, relatively slender and pale-colored, found primarily on the free-floating ... Wikipedia",
@@ -862,18 +819,18 @@
                 "Lobodon"
             ]
         },
-        "Crescent nail-tail wallaby": {
-            "label": "Crescent nail-tail wallaby",
-            "description": "The crescent nail-tail wallaby was a nail-tail wallaby that lived in the woodlands and scrubs of the west and centre of Australia. It had silky fur and, like other nail-tail wallabies, had a horny spur at the tip of its tail. Wikipedia",
+        "Crab-eating mongoose": {
+            "label": "Crab-eating mongoose",
+            "description": "The crab-eating mongoose is a mongoose species ranging from the northeastern Indian subcontinent to Southeast Asia, southern China and Taiwan. It is listed as Near Threatened by IUCN. Wikipedia",
             "type": "",
             "Scientific name ": [
-                "Onychogalea lunata"
+                "Herpestes urva"
             ],
             "Rank ": [
                 "Species"
             ],
             "Higher classification ": [
-                "Nail-tail wallaby"
+                "Herpestes"
             ]
         },
         "Cricetulus": {
@@ -899,6 +856,28 @@
                 " Chinese striped hamsterMore"
             ],
             "See results about": []
+        },
+        "Cetotherium": {
+            "label": "Cetotherium",
+            "description": "Cetotherium is a genus of extinct cetaceans from the family Cetotheriidae. Wikipedia",
+            "type": "",
+            "Rank ": [
+                "Genus"
+            ]
+        },
+        "Crescent nail-tail wallaby": {
+            "label": "Crescent nail-tail wallaby",
+            "description": "The crescent nail-tail wallaby was a nail-tail wallaby that lived in the woodlands and scrubs of the west and centre of Australia. It had silky fur and, like other nail-tail wallabies, had a horny spur at the tip of its tail. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Onychogalea lunata"
+            ],
+            "Rank ": [
+                "Species"
+            ],
+            "Higher classification ": [
+                "Nail-tail wallaby"
+            ]
         },
         "Crossarchus": {
             "label": "Crossarchus",
@@ -926,12 +905,6 @@
             "description": "Cuvieronius is an extinct New World genus of gomphotheres. It is named after the French naturalist Georges Cuvier; it stood 2.7 m tall and looked like a modern elephant except for its spiral-shaped tusks. Wikipedia",
             "type": ""
         },
-        "Deinotheriidae": {
-            "label": "Deinotheriidae",
-            "description": "Deinotheriidae is a family of prehistoric elephant-like proboscideans that lived during the Cenozoic era, first appearing in Africa, then spreading across southern Asia and Europe. Wikipedia",
-            "type": "",
-            "See results about": []
-        },
         "Delacour's langur": {
             "label": "Delacour's langur",
             "description": "The Delacour's langur, or Delacour's lutung, is a critically endangered species of lutung endemic to Vietnam. It is considered to be one of the world's most endangered primate species. Wikipedia",
@@ -939,6 +912,12 @@
             "Scientific name ": [
                 "Trachypithecus delacouri"
             ]
+        },
+        "Deinotheriidae": {
+            "label": "Deinotheriidae",
+            "description": "Deinotheriidae is a family of prehistoric elephant-like proboscideans that lived during the Cenozoic era, first appearing in Africa, then spreading across southern Asia and Europe. Wikipedia",
+            "type": "",
+            "See results about": []
         },
         "Dendromus": {
             "label": "Dendromus",
@@ -969,6 +948,14 @@
             ],
             "See results about": []
         },
+        "Dian's tarsier": {
+            "label": "Dian's tarsier",
+            "description": "Dian's tarsier, also known as Diana tarsier, is a nocturnal primate found and endemic to central Sulawesi, Indonesia. Its head-body length is 11.5–12 centimetres and it has a tail of 22 centimetres. Dian's tarsier lives in rainforests. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Tarsius dentatus"
+            ]
+        },
         "Diademed sifaka": {
             "label": "Diademed sifaka",
             "description": "The diademed sifaka, or diademed simpona, is an endangered species of sifaka, one of the lemurs endemic to certain rainforests in eastern Madagascar. Wikipedia",
@@ -981,14 +968,6 @@
             ],
             "Rank ": [
                 "Species"
-            ]
-        },
-        "Dian's tarsier": {
-            "label": "Dian's tarsier",
-            "description": "Dian's tarsier, also known as Diana tarsier, is a nocturnal primate found and endemic to central Sulawesi, Indonesia. Its head-body length is 11.5–12 centimetres and it has a tail of 22 centimetres. Dian's tarsier lives in rainforests. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Tarsius dentatus"
             ]
         },
         "Dinohippus": {
@@ -1079,6 +1058,11 @@
                 "Eobasileus cornutus"
             ]
         },
+        "Eotitanops": {
+            "label": "Eotitanops",
+            "description": "Eotitanops is an extinct genus of brontothere native to North America and Asia.\nEotitanops is the earliest known genus of brontothere. While brontotheres generally known as very large animals, Eotitanops was only 45 centimetres tall at the shoulder. Wikipedia",
+            "type": ""
+        },
         "Eonycteris major": {
             "label": "Eonycteris major",
             "description": "The greater nectar bat or greater dawn bat is a species of megabat within the genus Eonycteris. It is found in Brunei, Indonesia, Malaysia, and the Philippines. Wikipedia",
@@ -1092,11 +1076,6 @@
             "Higher classification ": [
                 "Eonycteris"
             ]
-        },
-        "Eotitanops": {
-            "label": "Eotitanops",
-            "description": "Eotitanops is an extinct genus of brontothere native to North America and Asia.\nEotitanops is the earliest known genus of brontothere. While brontotheres generally known as very large animals, Eotitanops was only 45 centimetres tall at the shoulder. Wikipedia",
-            "type": ""
         },
         "Ethiopian dwarf mongoose": {
             "label": "Ethiopian dwarf mongoose",
@@ -1122,6 +1101,27 @@
             "description": "Euplerinae is a subfamily of carnivorans that includes four species restricted to Madagascar. Together with the subfamily Galidiinae, which also only occurs on Madagascar, it forms the family Eupleridae. Wikipedia",
             "type": ""
         },
+        "Crateromys": {
+            "label": "Crateromys",
+            "description": "Crateromys is a genus of rodent, native to the Philippines, in the family Muridae. It contains four species\nDinagat Bushy-Tailed Cloud Rat\nGiant Bushy-Tailed Cloud Rat\nPanay Cloudrunner\nIlin Island Cloudrunner Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Crateromys"
+            ],
+            "Rank ": [
+                "Genus"
+            ],
+            "Higher classification ": [
+                "Murinae"
+            ],
+            "Lower classifications ": [
+                "Panay cloudrunner",
+                " Dinagat bushy-tailed cloud rat",
+                " Giant bushy-tailed cloud rat",
+                " Ilin Island cloudrunner"
+            ],
+            "See results about": []
+        },
         "Ferret-badger": {
             "label": "Ferret-badger",
             "description": "Ferret-badgers are the five species of mustelids of the genus Melogale.\nBornean Ferret-badger\nChinese Ferret-badger\nJavan Ferret-badger\nBurmese Ferret-badger\nVietnam Ferret-badger Wikipedia",
@@ -1143,6 +1143,22 @@
             ],
             "See results about": []
         },
+        "Flying mouse": {
+            "label": "Flying mouse",
+            "description": "The flying mice, also known as the pygmy scaly-tails, pygmy scaly-tailed flying squirrels, or pygmy anomalures are not mice, not squirrels, and are not capable of true flight. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Idiurus"
+            ],
+            "Rank ": [
+                "Genus"
+            ],
+            "Lower classifications ": [
+                "Long-eared flying mouse",
+                " Pygmy scaly-tailed flying squirrel"
+            ],
+            "See results about": []
+        },
         "Fissipedia": {
             "label": "Fissipedia",
             "description": "Fissipedia is a former biological suborder comprising the largely land-based families of the order Carnivora. By and large, members of this suborder are meat-eaters, with the giant panda and red panda being the most notable exceptions. Wikipedia",
@@ -1161,22 +1177,6 @@
             ],
             "Higher classification ": [
                 "Cheirogaleidae"
-            ],
-            "See results about": []
-        },
-        "Flying mouse": {
-            "label": "Flying mouse",
-            "description": "The flying mice, also known as the pygmy scaly-tails, pygmy scaly-tailed flying squirrels, or pygmy anomalures are not mice, not squirrels, and are not capable of true flight. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Idiurus"
-            ],
-            "Rank ": [
-                "Genus"
-            ],
-            "Lower classifications ": [
-                "Long-eared flying mouse",
-                " Pygmy scaly-tailed flying squirrel"
             ],
             "See results about": []
         },
@@ -1229,18 +1229,6 @@
             ],
             "See results about": []
         },
-        "Galerella": {
-            "label": "Galerella",
-            "description": "Galerella is a genus of mongooses native to Africa commonly called the slender mongooses.\nThere are four species in this genus\nAngolan slender mongoose, Galerella flavescens\nSomalian slender mongoose, ... Wikipedia",
-            "type": "",
-            "Rank ": [
-                "Genus"
-            ],
-            "Higher classification ": [
-                "Mongoose"
-            ],
-            "See results about": []
-        },
         "Galidiinae": {
             "label": "Galidiinae",
             "description": "Galidiinae is a subfamily of carnivorans that is restricted to Madagascar and includes six species classified into four genera. Wikipedia",
@@ -1257,24 +1245,41 @@
             "Lower classifications ": [
                 "Galidictis"
             ]
+        },
+        "Galerella": {
+            "label": "Galerella",
+            "description": "Galerella is a genus of mongooses native to Africa commonly called the slender mongooses.\nThere are four species in this genus\nAngolan slender mongoose, Galerella flavescens\nSomalian slender mongoose, ... Wikipedia",
+            "type": "",
+            "Rank ": [
+                "Genus"
+            ],
+            "Higher classification ": [
+                "Mongoose"
+            ],
+            "See results about": []
         }
     },
     "summary": {
-        "label": 90,
-        "description": 90,
-        "type": 90,
-        "rank": 1,
-        "scientific_name": 1,
-        "lower_classifications": 1,
-        "see_results_about": 1,
-        "higher_classification": 1,
-        "lifespan": 1,
-        "gestation_period": 1,
-        "height": 1,
-        "mass": 1,
-        "tail_length": 1,
-        "body_length": 1,
-        "length": 1
+        "label": {
+            "uri": "http://dbpedia.org/property/label",
+            "count": 90
+        },
+        "description": {
+            "uri": "http://purl.org/dc/elements/1.1/description",
+            "count": 90
+        },
+        "type": {
+            "uri": "http://dbpedia.org/property/type",
+            "count": 90
+        },
+        "scientificName": {
+            "uri": "http://dbpedia.org/property/scientificName",
+            "count": 73
+        },
+        "height": {
+            "uri": "http://dbpedia.org/property/height",
+            "count": 1
+        }
     },
     "infoboxless": [
         "Adapisoriculidae",
@@ -1287,5 +1292,17 @@
         "Crested mangabey",
         "Cyrnaonyx",
         "Ectoconus"
-    ]
+    ],
+    "Unmapped_Properties": {
+        "rank": 1,
+        "lowerClassifications": 1,
+        "seeResultsAbout": 1,
+        "higherClassification": 1,
+        "mass": 1,
+        "gestationPeriod": 1,
+        "tailLength": 1,
+        "bodyLength": 1,
+        "lifespan": 1,
+        "length": 1
+    }
 }

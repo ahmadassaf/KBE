@@ -29,6 +29,12 @@
             "type": "",
             "People also search for": []
         },
+        "Cape Canaveral Air Force Station Launch Complex 14": {
+            "label": "Cape Canaveral Air Force Station Launch Complex 14",
+            "description": "Launch Complex 14 is a launch site at Cape Canaveral Air Force Station, Florida. LC-14 was used for various manned and unmanned Atlas launches, including the Friendship 7 flight aboard which John Glenn became the first American to orbit the Earth. Wikipedia",
+            "type": "",
+            "People also search for": []
+        },
         "Cape Canaveral Air Force Station Launch Complex 22": {
             "label": "Cape Canaveral Air Force Station Launch Complex 22",
             "description": "Launch Complex 22 at Cape Canaveral Air Force Station, Florida is a launch complex that was used for horizontal launches of cruise missiles between 1957 and 1960. Wikipedia",
@@ -38,12 +44,6 @@
                 " Cape Canaveral Air Force Station Launch Complex 20",
                 " Cape Canaveral Air Force Station Launch Complex 19More"
             ]
-        },
-        "Cape Canaveral Air Force Station Launch Complex 14": {
-            "label": "Cape Canaveral Air Force Station Launch Complex 14",
-            "description": "Launch Complex 14 is a launch site at Cape Canaveral Air Force Station, Florida. LC-14 was used for various manned and unmanned Atlas launches, including the Friendship 7 flight aboard which John Glenn became the first American to orbit the Earth. Wikipedia",
-            "type": "",
-            "People also search for": []
         },
         "Cape Canaveral Air Force Station Launch Complex 31": {
             "label": "Cape Canaveral Air Force Station Launch Complex 31",
@@ -56,11 +56,6 @@
             "description": "Launch Complex 4 was one of the first series of launch complexes to be built at Cape Canaveral Air Force Station on Cape Canaveral, Florida. Wikipedia",
             "type": "",
             "People also search for": []
-        },
-        "Vandenberg AFB Space Launch Complex 2": {
-            "label": "Vandenberg AFB Space Launch Complex 2",
-            "description": "Space Launch Complex 2 is an active rocket launch site at Vandenberg Air Force Base, in California, USA. It consists of two launch pads. Wikipedia",
-            "type": ""
         },
         "Cape Canaveral Air Force Station Launch Complex 43": {
             "label": "Cape Canaveral Air Force Station Launch Complex 43",
@@ -79,14 +74,19 @@
                 " Cape Canaveral Air Force Station Launch Complex 13More"
             ]
         },
-        "Vandenberg AFB Space Launch Complex 5": {
-            "label": "Vandenberg AFB Space Launch Complex 5",
-            "description": "Space Launch Complex 5 was a launch pad at Vandenberg Air Force Base in California, United States. It was previously part of the Point Arguello Naval Air Station, during which time it was designated ... Wikipedia",
+        "Vandenberg AFB Space Launch Complex 2": {
+            "label": "Vandenberg AFB Space Launch Complex 2",
+            "description": "Space Launch Complex 2 is an active rocket launch site at Vandenberg Air Force Base, in California, USA. It consists of two launch pads. Wikipedia",
             "type": ""
         },
         "Vandenberg AFB Space Launch Complex 3": {
             "label": "Vandenberg AFB Space Launch Complex 3",
             "description": "Space Launch Complex 3 is a launch site at Vandenberg Air Force Base that has been used by Atlas and Thor rockets. It was built in the early 1960s and consists of two pads, SLC-3E and SLC-3W. Wikipedia",
+            "type": ""
+        },
+        "Vandenberg AFB Space Launch Complex 5": {
+            "label": "Vandenberg AFB Space Launch Complex 5",
+            "description": "Space Launch Complex 5 was a launch pad at Vandenberg Air Force Base in California, United States. It was previously part of the Point Arguello Naval Air Station, during which time it was designated ... Wikipedia",
             "type": ""
         },
         "Vandenberg AFB Space Launch Complex 6": {
@@ -104,6 +104,24 @@
                 " United States"
             ]
         },
+        "Broglio Space Centre": {
+            "label": "Broglio Space Centre",
+            "description": "The Luigi Broglio Space Centre is an Italian-owned spaceport near Malindi, Kenya, named after its founder and Italian space pioneer Luigi Broglio. Wikipedia",
+            "type": "",
+            "People also search for": []
+        },
+        "Cape Canaveral Air Force Station Space Launch Complex 17": {
+            "label": "Cape Canaveral Air Force Station Space Launch Complex 17",
+            "description": "Cape Canaveral Air Force Station Space Launch Complex 17, previously designated Launch Complex 17, was a launch site at Cape Canaveral Air Force Station, Florida used for Thor and Delta rocket launches between 1958 and 2011. Wikipedia",
+            "type": "",
+            "People also search for": []
+        },
+        "Cape Canaveral Air Force Station Space Launch Complex 37": {
+            "label": "Cape Canaveral Air Force Station Space Launch Complex 37",
+            "description": "Cape Canaveral Air Force Station Space Launch Complex 37, previously Launch Complex 37, is a launch complex on Cape Canaveral, Florida. Construction began in 1959 and the site was accepted by NASA to support the Saturn I program in 1963. Wikipedia",
+            "type": "",
+            "People also search for": []
+        },
         "Cape Canaveral Air Force Station Space Launch Complex 41": {
             "label": "Cape Canaveral Air Force Station Space Launch Complex 41",
             "description": "Cape Canaveral Air Force Station Space Launch Complex 41, previously Launch Complex 41, is an active launch site at the north end of Cape Canaveral, Florida at Cape Canaveral Air Force Station. Wikipedia",
@@ -113,24 +131,6 @@
                 " FL 32925",
                 " United States"
             ],
-            "People also search for": []
-        },
-        "Cape Canaveral Air Force Station Space Launch Complex 17": {
-            "label": "Cape Canaveral Air Force Station Space Launch Complex 17",
-            "description": "Cape Canaveral Air Force Station Space Launch Complex 17, previously designated Launch Complex 17, was a launch site at Cape Canaveral Air Force Station, Florida used for Thor and Delta rocket launches between 1958 and 2011. Wikipedia",
-            "type": "",
-            "People also search for": []
-        },
-        "Broglio Space Centre": {
-            "label": "Broglio Space Centre",
-            "description": "The Luigi Broglio Space Centre is an Italian-owned spaceport near Malindi, Kenya, named after its founder and Italian space pioneer Luigi Broglio. Wikipedia",
-            "type": "",
-            "People also search for": []
-        },
-        "Cape Canaveral Air Force Station Space Launch Complex 37": {
-            "label": "Cape Canaveral Air Force Station Space Launch Complex 37",
-            "description": "Cape Canaveral Air Force Station Space Launch Complex 37, previously Launch Complex 37, is a launch complex on Cape Canaveral, Florida. Construction began in 1959 and the site was accepted by NASA to support the Saturn I program in 1963. Wikipedia",
-            "type": "",
             "People also search for": []
         },
         "Gagarin's Start": {
@@ -182,14 +182,14 @@
             "description": "Vandenberg Air Force Base Launch Facility 10 is a US Air Force Intercontinental ballistic missile launch facility on Vandenberg AFB, California, USA. It was a launch site for the land-based LGM-30 Minuteman ICBMs. Wikipedia",
             "type": ""
         },
-        "Yoshinobu Launch Complex": {
-            "label": "Yoshinobu Launch Complex",
-            "description": "The Yoshinobu Launch Complex, also known as Launch Area Y, Area Y or LA-Y, is a launch complex at the Tanegashima Space Centre, located on Tanegashima, the Japanese island located 115 km south of Kyūshū. Wikipedia",
-            "type": ""
-        },
         "Wallops Flight Facility Launch Area 3": {
             "label": "NASA Wallops Flight Facility",
             "description": "",
+            "type": ""
+        },
+        "Yoshinobu Launch Complex": {
+            "label": "Yoshinobu Launch Complex",
+            "description": "The Yoshinobu Launch Complex, also known as Launch Area Y, Area Y or LA-Y, is a launch complex at the Tanegashima Space Centre, located on Tanegashima, the Japanese island located 115 km south of Kyūshū. Wikipedia",
             "type": ""
         },
         "Cape Canaveral": {
@@ -217,7 +217,7 @@
                 "138 acres (56 ha)"
             ]
         },
-        "Launch complex 39": {
+        "Launch Complex 39": {
             "label": "Kennedy Space Center Launch Complex 39",
             "description": "Launch Complex 39 is a rocket launch site at the John F. Kennedy Space Center on Merritt Island in Florida, USA. Wikipedia",
             "type": "",
@@ -230,7 +230,7 @@
                 "10.94 sq miles (28.33 km²)"
             ]
         },
-        "Launch Complex 39": {
+        "Launch complex 39": {
             "label": "Kennedy Space Center Launch Complex 39",
             "description": "Launch Complex 39 is a rocket launch site at the John F. Kennedy Space Center on Merritt Island in Florida, USA. Wikipedia",
             "type": "",
@@ -258,13 +258,18 @@
         }
     },
     "summary": {
-        "label": 35,
-        "description": 35,
-        "type": 35,
-        "people_also_search_for": 1,
-        "address": 1,
-        "area": 1,
-        "see_results_about": 1
+        "label": {
+            "uri": "http://www.w3.org/2000/01/rdf-schema#label",
+            "count": 35
+        },
+        "description": {
+            "uri": "http://fr.dbpedia.org/ontology/abstract",
+            "count": 35
+        },
+        "type": {
+            "uri": "http://dbpedia.org/property/type",
+            "count": 35
+        }
     },
     "infoboxless": [
         "Cape Canaveral Air Force Station Launch Complex 18",
@@ -317,5 +322,11 @@
         "Stargazer (aircraft)",
         "USA",
         "Cape Canaveral Air Force Station Launch Complex 37"
-    ]
+    ],
+    "Unmapped_Properties": {
+        "peopleAlsoSearchFor": 1,
+        "address": 1,
+        "area": 1,
+        "seeResultsAbout": 1
+    }
 }

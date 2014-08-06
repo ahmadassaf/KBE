@@ -32,23 +32,6 @@
             ],
             "See results about": []
         },
-        "Oceania": {
-            "label": "Oceania",
-            "description": "Oceania, also known as Oceanica, is a region centred on the islands of the tropical Pacific Ocean. Opinions of what constitutes Oceania range from its three subregions of Melanesia, Micronesia, and ... Wikipedia",
-            "type": "",
-            "Area ": [
-                "3.292 million sq miles (8.526 million km²)"
-            ],
-            "Colleges and Universities": []
-        },
-        "Latin America": {
-            "label": "Latin America",
-            "description": "Latin America is a subregion of the Americas where Romance languages or a subset of the Romance language family – always including Spanish and Portuguese, and sometimes including French – are primarily spoken. Wikipedia",
-            "type": "",
-            "Area ": [
-                "8.135 million sq miles (21.07 million km²)"
-            ]
-        },
         "North America": {
             "label": "North America",
             "description": "North America is a continent wholly within the Northern Hemisphere and almost wholly within the Western Hemisphere. It is also considered a northern subcontinent of the Americas. Wikipedia",
@@ -81,6 +64,15 @@
                 " Saint Pierre and MiquelonMore"
             ]
         },
+        "Oceania": {
+            "label": "Oceania",
+            "description": "Oceania, also known as Oceanica, is a region centred on the islands of the tropical Pacific Ocean. Opinions of what constitutes Oceania range from its three subregions of Melanesia, Micronesia, and ... Wikipedia",
+            "type": "",
+            "Area ": [
+                "3.292 million sq miles (8.526 million km²)"
+            ],
+            "Colleges and Universities": []
+        },
         "South America": {
             "label": "South America",
             "description": "South America is a continent located in the Western Hemisphere, mostly in the Southern Hemisphere, with a relatively small portion in the Northern Hemisphere. It can also be considered as a subcontinent of the Americas. Wikipedia",
@@ -106,16 +98,6 @@
                 " Paraguay",
                 " Falkland IslandsMore"
             ]
-        },
-        "Afro-Eurasia": {
-            "label": "Afro-Eurasia",
-            "description": "Afro-Eurasia, also Afrasia, Eurafrasia or Eufrasia, is the largest landmass on Earth. It may be defined as a supercontinent, with the term being a portmanteau of its constituent parts Africa and Eurasia ... Wikipedia",
-            "type": ""
-        },
-        "Indian subcontinent": {
-            "label": "Indian subcontinent",
-            "description": "The Indian subcontinent is a southerly region of Asia, mostly situated on the Indian Plate and projecting southward into the Indian Ocean. Wikipedia",
-            "type": ""
         },
         "Africa": {
             "label": "Africa",
@@ -181,22 +163,60 @@
                 " …"
             ],
             "See results about": []
+        },
+        "Indian subcontinent": {
+            "label": "Indian subcontinent",
+            "description": "The Indian subcontinent is a southerly region of Asia, mostly situated on the Indian Plate and projecting southward into the Indian Ocean. Wikipedia",
+            "type": ""
+        },
+        "Afro-Eurasia": {
+            "label": "Afro-Eurasia",
+            "description": "Afro-Eurasia, also Afrasia, Eurafrasia or Eufrasia, is the largest landmass on Earth. It may be defined as a supercontinent, with the term being a portmanteau of its constituent parts Africa and Eurasia ... Wikipedia",
+            "type": ""
+        },
+        "Latin America": {
+            "label": "Latin America",
+            "description": "Latin America is a subregion of the Americas where Romance languages or a subset of the Romance language family – always including Spanish and Portuguese, and sometimes including French – are primarily spoken. Wikipedia",
+            "type": "",
+            "Area ": [
+                "8.135 million sq miles (21.07 million km²)"
+            ]
         }
     },
     "summary": {
-        "label": 10,
-        "description": 10,
-        "type": 10,
-        "area": 1,
-        "population": 1,
-        "see_results_about": 1,
-        "colleges_and_universities": 1,
-        "countries": 1
+        "label": {
+            "uri": "http://www.w3.org/2000/01/rdf-schema#label",
+            "count": 10
+        },
+        "description": {
+            "uri": "http://dbpedia.org/property/description",
+            "count": 10
+        },
+        "type": {
+            "uri": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+            "count": 10
+        },
+        "area": {
+            "uri": "http://dbpedia.org/property/area",
+            "count": 8
+        },
+        "population": {
+            "uri": "http://dbpedia.org/property/population",
+            "count": 5
+        },
+        "countries": {
+            "uri": "http://dbpedia.org/property/countries",
+            "count": 3
+        }
     },
     "infoboxless": [
         "Americas",
         "Anglo-America",
         "Communication for social change",
         "List of countries and capitals with currency and language"
-    ]
+    ],
+    "Unmapped_Properties": {
+        "seeResultsAbout": 1,
+        "collegesAndUniversities": 1
+    }
 }

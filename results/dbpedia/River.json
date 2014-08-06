@@ -47,25 +47,6 @@
                 "Gulf of Bothnia"
             ]
         },
-        "Üür River": {
-            "label": "Üür River",
-            "description": "The Üür River is a river in northeastern Khövsgöl, mainly in Tsagaan-Üür sum. The river is a tributary of the Eg River. Wikipedia",
-            "type": "",
-            "Length ": [
-                "206 miles (331 km)"
-            ],
-            "Basin area ": [
-                "4",
-                "749 sq miles (12",
-                "300 km²)"
-            ],
-            "Mouth ": [
-                "Eg River"
-            ],
-            "Country ": [
-                "Mongolia"
-            ]
-        },
         "Öre River": {
             "label": "Öre River",
             "description": "Öre River is a river in Sweden. Wikipedia",
@@ -90,6 +71,25 @@
             "label": "Ösper",
             "description": "Ösper is a river of North Rhine-Westphalia, Germany. Wikipedia",
             "type": ""
+        },
+        "Üür River": {
+            "label": "Üür River",
+            "description": "The Üür River is a river in northeastern Khövsgöl, mainly in Tsagaan-Üür sum. The river is a tributary of the Eg River. Wikipedia",
+            "type": "",
+            "Length ": [
+                "206 miles (331 km)"
+            ],
+            "Basin area ": [
+                "4",
+                "749 sq miles (12",
+                "300 km²)"
+            ],
+            "Mouth ": [
+                "Eg River"
+            ],
+            "Country ": [
+                "Mongolia"
+            ]
         },
         "Ažytė": {
             "label": "Ažytė",
@@ -119,14 +119,6 @@
                 "Germany"
             ]
         },
-        "Ach (Blau)": {
-            "label": "Ach",
-            "description": "The Ach is a river in Baden-Württemberg, Germany. Wikipedia",
-            "type": "",
-            "Length ": [
-                "6 miles (10 km)"
-            ]
-        },
         "Ablach (Danube)": {
             "label": "Ablach",
             "description": "The Ablach is a right tributary of the Danube. It rises on the European Watershed, which is only a hint in this area, from the Mindersdorfer Aach in the municipality of Hohenfels in the Landkreis of Konstanz. Wikipedia",
@@ -136,6 +128,14 @@
             ],
             "Mouth ": [
                 "Danube"
+            ]
+        },
+        "Ach (Blau)": {
+            "label": "Ach",
+            "description": "The Ach is a river in Baden-Württemberg, Germany. Wikipedia",
+            "type": "",
+            "Length ": [
+                "6 miles (10 km)"
             ]
         },
         "Agno River": {
@@ -217,11 +217,6 @@
                 " Xinjiang"
             ]
         },
-        "Alte Elbe": {
-            "label": "Alte Elbe",
-            "description": "Alte Elbe is a river of Saxony-Anhalt, Germany. Wikipedia",
-            "type": ""
-        },
         "Alma River (Ukraine)": {
             "label": "Alma River",
             "description": "The Alma is a small river in Crimea that flows into the Black Sea. Its mouth is located half-way between Yevpatoria and Sevastopol. Alma is the Crimean Tatar word for an \"apple\". Wikipedia",
@@ -238,6 +233,11 @@
             "Mouth ": [
                 "Black Sea"
             ]
+        },
+        "Alte Elbe": {
+            "label": "Alte Elbe",
+            "description": "Alte Elbe is a river of Saxony-Anhalt, Germany. Wikipedia",
+            "type": ""
         },
         "Alte Oder": {
             "label": "Alte Oder",
@@ -384,6 +384,11 @@
                 "Germany"
             ]
         },
+        "Aurach (Regnitz, Mittelfranken)": {
+            "label": "Aurach (Regnitz, Mittelfranken)",
+            "description": "Aurach (Regnitz, Mittelfranken) is a river of Bavaria, Germany. It is a tributary of the river Regnitz.\nThe river Aurach starts in Frankenhöhe to the west of Klaus Aurach in the municipality of Markt Erlbach. Wikipedia",
+            "type": ""
+        },
         "Ausa River": {
             "label": "Ausa River",
             "description": "The Ausa River is a minor river some 17 kilometres in length which traverses part of northern San Marino and Emilia–Romagna in Italy. The source of the river is Monte Titano in central San Marino. Wikipedia",
@@ -401,11 +406,6 @@
                 "San Marino",
                 " Italy"
             ]
-        },
-        "Aurach (Regnitz, Mittelfranken)": {
-            "label": "Aurach (Regnitz, Mittelfranken)",
-            "description": "Aurach (Regnitz, Mittelfranken) is a river of Bavaria, Germany. It is a tributary of the river Regnitz.\nThe river Aurach starts in Frankenhöhe to the west of Klaus Aurach in the municipality of Markt Erlbach. Wikipedia",
-            "type": ""
         },
         "Aveyron (river)": {
             "label": "Aveyron",
@@ -700,17 +700,6 @@
                 "Czech Republic"
             ]
         },
-        "Bolshoy Kundysh River": {
-            "label": "Bolshoy Kundysh River",
-            "description": "Bolshoy Kundysh is a river in Kirov Oblast and Mari El, Russia, a right tributary of the Bolshaya Kokshaga River. It is 173 km long, its drainage basin is 1720 km². Bolshoy Kundysh flows across the fen of the Mari depression. Wikipedia",
-            "type": "",
-            "Length ": [
-                "107 miles (173 km)"
-            ],
-            "Mouth ": [
-                "Bolshaya Kokshaga River"
-            ]
-        },
         "Bojana (river)": {
             "label": "Bojana",
             "description": "The Bojana or Buna, is a 41 km long river in Albania and Montenegro which flows into the Adriatic Sea. Wikipedia",
@@ -739,6 +728,17 @@
             "Countries ": [
                 "Montenegro",
                 " Albania"
+            ]
+        },
+        "Bolshoy Kundysh River": {
+            "label": "Bolshoy Kundysh River",
+            "description": "Bolshoy Kundysh is a river in Kirov Oblast and Mari El, Russia, a right tributary of the Bolshaya Kokshaga River. It is 173 km long, its drainage basin is 1720 km². Bolshoy Kundysh flows across the fen of the Mari depression. Wikipedia",
+            "type": "",
+            "Length ": [
+                "107 miles (173 km)"
+            ],
+            "Mouth ": [
+                "Bolshaya Kokshaga River"
             ]
         },
         "Bröl": {
@@ -1189,39 +1189,6 @@
             ],
             "People also search for": []
         },
-        "Dhünn (Wupper)": {
-            "label": "Dhünn (Wupper)",
-            "description": "Dhünn is a 40 km-long river of North Rhine-Westphalia, Germany. Its main source is near Wipperfürth in the Bergisches Land area. It runs in south-westerly direction, and its mouth into the river Wupper is near Leverkusen, appr. Wikipedia",
-            "type": ""
-        },
-        "Detroit River": {
-            "label": "Detroit River",
-            "description": "The Detroit River is a 24-nautical-mile-long river in the Great Lakes system. The name comes from the French Rivière du Détroit, which translates literally as River of the Strait. Wikipedia",
-            "type": "",
-            "Length ": [
-                "28 miles (45 km)"
-            ],
-            "Source ": [
-                "Lake St. Clair"
-            ],
-            "Mouth ": [
-                "Lake Erie"
-            ],
-            "Bridges ": [
-                "Ambassador Bridge",
-                " Michigan Central Railway Tunnel",
-                " Grosse Ile Toll Bridge",
-                " MacArthur Bridge",
-                " Wayne County Bridge"
-            ],
-            "Cities ": [
-                "Detroit"
-            ],
-            "Islands ": [
-                "Calf Island"
-            ],
-            "People also search for": []
-        },
         "Desaguadero River (Bolivia)": {
             "label": "Desaguadero River",
             "description": "The Desaguadero River in Peru and Bolivia is the river that drains Lake Titicaca. It exits the lake at the southern part of the river basin, it flows south and drains approximately five percent of the ... Wikipedia",
@@ -1251,6 +1218,39 @@
             ],
             "See results about": []
         },
+        "Detroit River": {
+            "label": "Detroit River",
+            "description": "The Detroit River is a 24-nautical-mile-long river in the Great Lakes system. The name comes from the French Rivière du Détroit, which translates literally as River of the Strait. Wikipedia",
+            "type": "",
+            "Length ": [
+                "28 miles (45 km)"
+            ],
+            "Source ": [
+                "Lake St. Clair"
+            ],
+            "Mouth ": [
+                "Lake Erie"
+            ],
+            "Bridges ": [
+                "Ambassador Bridge",
+                " Michigan Central Railway Tunnel",
+                " Grosse Ile Toll Bridge",
+                " MacArthur Bridge",
+                " Wayne County Bridge"
+            ],
+            "Cities ": [
+                "Detroit"
+            ],
+            "Islands ": [
+                "Calf Island"
+            ],
+            "People also search for": []
+        },
+        "Dhünn (Wupper)": {
+            "label": "Dhünn (Wupper)",
+            "description": "Dhünn is a 40 km-long river of North Rhine-Westphalia, Germany. Its main source is near Wipperfürth in the Bergisches Land area. It runs in south-westerly direction, and its mouth into the river Wupper is near Leverkusen, appr. Wikipedia",
+            "type": ""
+        },
         "Diamantina River": {
             "label": "Diamantina River",
             "description": "The Diamantina River is a river in Central West Queensland and the far north of South Australia.\nThe river was named by William Landsborough in 1866 for Lady Diamantina Bowen, wife of Sir George Ferguson Bowen, the first Governor of Queensland. Wikipedia",
@@ -1265,6 +1265,12 @@
                 "Georgina River"
             ],
             "People also search for": []
+        },
+        "Dieße": {
+            "label": "Dieße",
+            "description": "Dieße is a river of Lower Saxony, Germany. Wikipedia",
+            "type": "",
+            "See results about": []
         },
         "Dove Elbe": {
             "label": "Dove Elbe",
@@ -1285,12 +1291,6 @@
             "Source ": [
                 "Massif des Écrins"
             ]
-        },
-        "Dieße": {
-            "label": "Dieße",
-            "description": "Dieße is a river of Lower Saxony, Germany. Wikipedia",
-            "type": "",
-            "See results about": []
         },
         "Drut River": {
             "label": "Drut River",
@@ -1359,26 +1359,14 @@
             "description": "Emmerbach is a river of North Rhine-Westphalia, Germany. Wikipedia",
             "type": ""
         },
-        "Erlenbach (Nidda)": {
-            "label": "Erlenbach",
-            "description": "Erlenbach is a river of Hesse, Germany. Wikipedia",
-            "type": ""
-        },
-        "Falschauer": {
-            "label": "Falschauer",
-            "description": "The Falschauer is a river in South Tyrol, Italy. Wikipedia",
-            "type": "",
-            "Length ": [
-                "26 miles (41 km)"
-            ],
-            "Mouth ": [
-                "Adige"
-            ],
-            "See results about": []
-        },
         "Ettenbach": {
             "label": "Ettenbach",
             "description": "Ettenbach is a river of Baden-Württemberg, Germany. Wikipedia",
+            "type": ""
+        },
+        "Erlenbach (Nidda)": {
+            "label": "Erlenbach",
+            "description": "Erlenbach is a river of Hesse, Germany. Wikipedia",
             "type": ""
         },
         "Eure (river)": {
@@ -1451,35 +1439,73 @@
                 "Indonesia",
                 " Papua New Guinea"
             ]
+        },
+        "Falschauer": {
+            "label": "Falschauer",
+            "description": "The Falschauer is a river in South Tyrol, Italy. Wikipedia",
+            "type": "",
+            "Length ": [
+                "26 miles (41 km)"
+            ],
+            "Mouth ": [
+                "Adige"
+            ],
+            "See results about": []
         }
     },
     "summary": {
-        "label": 86,
-        "description": 86,
-        "type": 86,
-        "length": 1,
-        "discharge": 1,
-        "basin_area": 1,
-        "mouth": 1,
-        "country": 1,
-        "bridges": 1,
-        "source": 1,
-        "people_also_search_for": 1,
-        "cities": 1,
-        "source_elevation": 1,
-        "mouths": 1,
-        "countries": 1,
-        "scientific_name": 1,
-        "higher_classification": 1,
-        "mass": 1,
-        "gestation_period": 1,
-        "rank": 1,
-        "tail_length": 1,
-        "body_length": 1,
-        "see_results_about": 1,
-        "sources": 1,
-        "province": 1,
-        "islands": 1
+        "label": {
+            "uri": "http://dbpedia.org/property/label",
+            "count": 86
+        },
+        "description": {
+            "uri": "http://dbpedia.org/property/description",
+            "count": 86
+        },
+        "type": {
+            "uri": "http://dbpedia.org/property/type",
+            "count": 86
+        },
+        "length": {
+            "uri": "http://dbpedia.org/property/length",
+            "count": 67
+        },
+        "discharge": {
+            "uri": "http://dbpedia.org/property/discharge",
+            "count": 29
+        },
+        "mouth": {
+            "uri": "http://dbpedia.org/property/mouth",
+            "count": 52
+        },
+        "country": {
+            "uri": "http://dbpedia.org/property/country",
+            "count": 40
+        },
+        "source": {
+            "uri": "http://dbpedia.org/ontology/source",
+            "count": 34
+        },
+        "cities": {
+            "uri": "http://dbpedia.org/property/cities",
+            "count": 10
+        },
+        "sourceElevation": {
+            "uri": "http://dbpedia.org/property/sourceElevation",
+            "count": 5
+        },
+        "countries": {
+            "uri": "http://dbpedia.org/property/countries",
+            "count": 6
+        },
+        "province": {
+            "uri": "http://dbpedia.org/property/province",
+            "count": 1
+        },
+        "islands": {
+            "uri": "http://dbpedia.org/property/islands",
+            "count": 1
+        }
     },
     "infoboxless": [
         "Świna",
@@ -1496,5 +1522,20 @@
         "Elpenbach",
         "Eulegraben",
         "Exter (Weser)"
-    ]
+    ],
+    "Unmapped_Properties": {
+        "basinArea": 1,
+        "bridges": 1,
+        "peopleAlsoSearchFor": 1,
+        "mouths": 1,
+        "scientificName": 1,
+        "higherClassification": 1,
+        "mass": 1,
+        "gestationPeriod": 1,
+        "rank": 1,
+        "tailLength": 1,
+        "bodyLength": 1,
+        "seeResultsAbout": 1,
+        "sources": 1
+    }
 }

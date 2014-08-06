@@ -21,6 +21,19 @@
             ],
             "Movies and TV shows": []
         },
+        "Ben Turpin": {
+            "label": "Ben Turpin",
+            "description": "Ben Turpin was a cross-eyed American comedian and actor, best remembered for his work in silent films. Wikipedia",
+            "type": "Comedian",
+            "Born ": "September 19, 1869, New Orleans, Louisiana, United States",
+            "Died ": "July 1, 1940, Santa Monica, California, United States",
+            "Spouse ": [
+                "Babette Dietz (m. 1926–1940)",
+                " Carrie Le Mieux (m. 1907–1925)",
+                " Norma Turpin (m. 1897)"
+            ],
+            "Movies": []
+        },
         "Benny Hill": {
             "label": "Benny Hill",
             "description": "Alfred Hawthorne Hill, known by his stage name Benny Hill was an English comedian and actor, notable for his long-running television programme The Benny Hill Show. Wikipedia",
@@ -38,19 +51,6 @@
                 " British Academy Television Award for Best Entertainment Performance"
             ],
             "Movies and TV shows": []
-        },
-        "Ben Turpin": {
-            "label": "Ben Turpin",
-            "description": "Ben Turpin was a cross-eyed American comedian and actor, best remembered for his work in silent films. Wikipedia",
-            "type": "Comedian",
-            "Born ": "September 19, 1869, New Orleans, Louisiana, United States",
-            "Died ": "July 1, 1940, Santa Monica, California, United States",
-            "Spouse ": [
-                "Babette Dietz (m. 1926–1940)",
-                " Carrie Le Mieux (m. 1907–1925)",
-                " Norma Turpin (m. 1897)"
-            ],
-            "Movies": []
         },
         "Bernie Mac": {
             "label": "Bernie Mac",
@@ -90,33 +90,6 @@
             ],
             "Movies and TV shows": []
         },
-        "Chevy Chase": {
-            "label": "Chevy Chase",
-            "description": "Chevy Chase is a neighborhood in northwest Washington, D.C. It borders Chevy Chase, Maryland, a collection of similarly affluent neighborhoods. Wikipedia",
-            "type": "Neighborhood in Washington, D.C.",
-            "See results about": []
-        },
-        "Chris Morris (satirist)": {
-            "label": "Chris Morris",
-            "description": "Christopher Morris is an English satirist, writer, director, actor, voice actor, and producer, known for his black humour, surrealism, and controversial subject matter. Wikipedia",
-            "type": "Satirist",
-            "Born ": "June 15, 1962 (age 51), Bristol, United Kingdom",
-            "Height ": [
-                "6' 4\" (1.93 m)"
-            ],
-            "Spouse ": [
-                "Jo Unwin"
-            ],
-            "Children ": [
-                "Frederick Rudolf Morris",
-                " Charles Peter  Morris"
-            ],
-            "Siblings ": [
-                "Tom Morris",
-                " Ben Morris"
-            ],
-            "Movies and TV shows": []
-        },
         "Chelsea Handler": {
             "label": "Chelsea Handler",
             "description": "Chelsea Joy Handler is an American comedian, actress, author, television host, writer and producer. She hosts a late-night talk show called Chelsea Lately, on the E! network. Wikipedia",
@@ -144,6 +117,33 @@
                 " Chet Handler",
                 " Glen Handler",
                 " Sydney Handler"
+            ],
+            "Movies and TV shows": []
+        },
+        "Chevy Chase": {
+            "label": "Chevy Chase",
+            "description": "Chevy Chase is a neighborhood in northwest Washington, D.C. It borders Chevy Chase, Maryland, a collection of similarly affluent neighborhoods. Wikipedia",
+            "type": "Neighborhood in Washington, D.C.",
+            "See results about": []
+        },
+        "Chris Morris (satirist)": {
+            "label": "Chris Morris",
+            "description": "Christopher Morris is an English satirist, writer, director, actor, voice actor, and producer, known for his black humour, surrealism, and controversial subject matter. Wikipedia",
+            "type": "Satirist",
+            "Born ": "June 15, 1962 (age 51), Bristol, United Kingdom",
+            "Height ": [
+                "6' 4\" (1.93 m)"
+            ],
+            "Spouse ": [
+                "Jo Unwin"
+            ],
+            "Children ": [
+                "Frederick Rudolf Morris",
+                " Charles Peter  Morris"
+            ],
+            "Siblings ": [
+                "Tom Morris",
+                " Ben Morris"
             ],
             "Movies and TV shows": []
         },
@@ -246,26 +246,6 @@
             ],
             "Movies and TV shows": []
         },
-        "Gilbert Gottfried": {
-            "label": "Gilbert Gottfried",
-            "description": "Gilbert Gottfried is an American stand-up comedian, actor, and voice artist known for his trademark comedic persona of speaking in a loud, grating tone of voice and squinting. Wikipedia",
-            "type": "Comedian",
-            "Born ": "February 28, 1955 (age 59), Brooklyn, New York, United States",
-            "Height ": [
-                "5' 5\" (1.65 m)"
-            ],
-            "Nationality ": [
-                "American"
-            ],
-            "Spouse ": [
-                "Dara Kravitz (m. 2007)"
-            ],
-            "Children ": [
-                "Lily Aster Gottfried",
-                " Max Aaron Gottfried"
-            ],
-            "Movies and TV shows": []
-        },
         "Eric Sykes": {
             "label": "Eric Sykes",
             "description": "Eric Sykes CBE was an English radio, television and film writer, actor and director whose performing career spanned more than 50 years. Wikipedia",
@@ -287,6 +267,55 @@
             ],
             "Movies and TV shows": []
         },
+        "Gilbert Gottfried": {
+            "label": "Gilbert Gottfried",
+            "description": "Gilbert Gottfried is an American stand-up comedian, actor, and voice artist known for his trademark comedic persona of speaking in a loud, grating tone of voice and squinting. Wikipedia",
+            "type": "Comedian",
+            "Born ": "February 28, 1955 (age 59), Brooklyn, New York, United States",
+            "Height ": [
+                "5' 5\" (1.65 m)"
+            ],
+            "Nationality ": [
+                "American"
+            ],
+            "Spouse ": [
+                "Dara Kravitz (m. 2007)"
+            ],
+            "Children ": [
+                "Lily Aster Gottfried",
+                " Max Aaron Gottfried"
+            ],
+            "Movies and TV shows": []
+        },
+        "Harry Hill": {
+            "label": "Harry Hill",
+            "description": "Harry Hill is a British comedian, author and television presenter best known for narrating You've Been Framed! since 2004 and hosting Harry Hill's TV Burp for eleven years from 2001 to 2012 on ITV. Wikipedia",
+            "type": "Comedian",
+            "Born ": "October 1, 1964 (age 49), Woking, United Kingdom",
+            "Full name ": [
+                "Matthew Keith Hall"
+            ],
+            "Spouse ": [
+                "Magda Archer (m. 1996)"
+            ],
+            "Children ": [
+                "Frederica Aster Hall",
+                " Kitty Clover Hall",
+                " Winifred Millicent Hall"
+            ],
+            "Books ": [
+                "Tim the Tiny Horse",
+                " Livin' the Dreem A Year in My Life",
+                " Tim the Tiny Horse At Large",
+                " A Complete History of Tim",
+                " Flight from Deathrow",
+                " The Further Adventures of the Queen Mum",
+                " Harry Hill's Bumper Book of Bloopers",
+                " Harry Hill's TV Burp Book",
+                " Harry Hill's Whopping Great Joke BookMore"
+            ],
+            "TV shows": []
+        },
         "Joe Cornish (entertainer)": {
             "label": "Joe Cornish",
             "description": "Joseph Murray \"Joe\" Cornish is an English comedian, television and radio presenter, film director, writer and actor, who together with his long-time comedy partner, Adam Buxton, forms the comedy duo Adam and Joe. Wikipedia",
@@ -301,6 +330,25 @@
                 " Director or Producer",
                 " British Independent Film Award Douglas Hickox Award (Directorial Debut)",
                 " Satellite Award for Best Adapted ScreenplayMore"
+            ],
+            "Movies and TV shows": []
+        },
+        "Joe Rogan": {
+            "label": "Joe Rogan",
+            "description": "Joseph James \"Joe\" Rogan is an American stand-up comedian, actor, writer, color commentator, entrepreneur, and trained martial artist. Wikipedia",
+            "type": "Stand-up comedian",
+            "Born ": "August 11, 1967 (age 46), Newark, New Jersey, United States",
+            "Height ": [
+                "5' 9\" (1.74 m)"
+            ],
+            "Nationality ": [
+                "American"
+            ],
+            "Spouse ": [
+                "Jessica Rogan (m. 2009)"
+            ],
+            "Education ": [
+                "University of Massachusetts Boston"
             ],
             "Movies and TV shows": []
         },
@@ -327,25 +375,6 @@
             ],
             "TV shows": [],
             "People also search for": []
-        },
-        "Joe Rogan": {
-            "label": "Joe Rogan",
-            "description": "Joseph James \"Joe\" Rogan is an American stand-up comedian, actor, writer, color commentator, entrepreneur, and trained martial artist. Wikipedia",
-            "type": "Stand-up comedian",
-            "Born ": "August 11, 1967 (age 46), Newark, New Jersey, United States",
-            "Height ": [
-                "5' 9\" (1.74 m)"
-            ],
-            "Nationality ": [
-                "American"
-            ],
-            "Spouse ": [
-                "Jessica Rogan (m. 2009)"
-            ],
-            "Education ": [
-                "University of Massachusetts Boston"
-            ],
-            "Movies and TV shows": []
         },
         "Kuba Wojewódzki": {
             "label": "Kuba Wojewódzki",
@@ -458,29 +487,6 @@
             "Upcoming events": [],
             "Movies and TV shows": []
         },
-        "Ray Romano": {
-            "label": "Ray Romano",
-            "description": "Raymond Albert \"Ray\" Romano is an American actor, stand-up comedian, screenwriter and voice actor, best known for his roles on the sitcom Everybody Loves Raymond, for which he received an Emmy Award, and voicing Manny in the Ice Age film series. Wikipedia",
-            "type": "Actor",
-            "Born ": "December 21, 1957 (age 56), Queens, New York City, New York, United States",
-            "Height ": [
-                "6' 2\" (1.88 m)"
-            ],
-            "Spouse ": [
-                "Anna Romano (m. 1987)"
-            ],
-            "Siblings ": [
-                "Richard Romano",
-                " Robert Romano"
-            ],
-            "Children ": [
-                "Alexandra Romano",
-                " Matthew Romano",
-                " Gregory Romano",
-                " Joseph Romano"
-            ],
-            "Movies and TV shows": []
-        },
         "Peter Kay": {
             "label": "Peter Kay",
             "description": "Peter John Kay is a British comedian. His last stand-up comedy tour was officially inaugurated into the Guinness World Records as the most successful of all time, playing to over 1.2 million people. Wikipedia",
@@ -507,54 +513,55 @@
             ],
             "TV shows": []
         },
-        "Harry Hill": {
-            "label": "Harry Hill",
-            "description": "Harry Hill is a British comedian, author and television presenter best known for narrating You've Been Framed! since 2004 and hosting Harry Hill's TV Burp for eleven years from 2001 to 2012 on ITV. Wikipedia",
+        "Rodney Dangerfield": {
+            "label": "Rodney Dangerfield",
+            "description": "Rodney Dangerfield was an American comedian and actor, known for the catchphrase \"I don't get no respect!\" and his monologues on that theme. He is also remembered for his 1980s film roles, especially in Easy Money, Caddyshack, and Back to School. Wikipedia",
             "type": "Comedian",
-            "Born ": "October 1, 1964 (age 49), Woking, United Kingdom",
-            "Full name ": [
-                "Matthew Keith Hall"
-            ],
+            "Born ": "November 22, 1921, Deer Park, New York, United States",
+            "Died ": "October 5, 2004, Westwood, Los Angeles, California, United States",
             "Spouse ": [
-                "Magda Archer (m. 1996)"
+                "Joan Child (m. 1993–2004)",
+                " Joyce Indig (m. 1963–1970)",
+                " Joyce Indig (m. 1949–1962)"
             ],
             "Children ": [
-                "Frederica Aster Hall",
-                " Kitty Clover Hall",
-                " Winifred Millicent Hall"
+                "Brian Dangerfield",
+                " Melanie Dangerfield"
             ],
             "Books ": [
-                "Tim the Tiny Horse",
-                " Livin' the Dreem A Year in My Life",
-                " Tim the Tiny Horse At Large",
-                " A Complete History of Tim",
-                " Flight from Deathrow",
-                " The Further Adventures of the Queen Mum",
-                " Harry Hill's Bumper Book of Bloopers",
-                " Harry Hill's TV Burp Book",
-                " Harry Hill's Whopping Great Joke BookMore"
+                "No Respect",
+                " It's Not Easy Bein' Me A Lifetime of No Respect But Plenty of Sex and Drugs",
+                " No Respect/Cassette",
+                " Its Not Easy Bein MeMore"
             ],
-            "TV shows": []
+            "Movies": []
         },
-        "Redd Foxx": {
-            "label": "Redd Foxx",
-            "description": "John Elroy Sanford, known professionally as Redd Foxx, was an American comedian and actor, best remembered for his explicit comedy records and his starring role on the 1970s sitcom Sanford and Son. Wikipedia",
-            "type": "Comedian",
-            "Born ": "December 9, 1922, St. Louis, Missouri, United States",
-            "Died ": "October 11, 1991, Los Angeles, California, United States",
-            "Full name ": [
-                "John Elroy Sanford"
-            ],
-            "Children ": [
-                "Debraca Denise"
-            ],
-            "Spouse ": [
-                "Ka Ho Cho (m. 1991–1991)",
-                " Yun Chi Chung (m. 1976–1981)",
-                " Betty Jean Harris (m. 1956–1975)",
-                " Evelyn Killebrew (m. 1948–1951)More"
+        "Rip Taylor": {
+            "label": "Rip Taylor",
+            "description": "Charles Elmer \"Rip\" Taylor, Jr. is an American actor and comedian. Wikipedia",
+            "type": "Actor",
+            "Born ": "January 13, 1935 (age 79), Washington, D.C., United States",
+            "Parents ": [
+                "Elizabeth Taylor",
+                " Charles Elmer Taylor",
+                " Sr."
             ],
             "Movies and TV shows": []
+        },
+        "Russ Abbot": {
+            "label": "Russ Abbot",
+            "description": "Russ Abbot is an English musician, comedian and actor. Abbot first came to public notice during the 1970s as the singer and drummer with British comedy showband the Black Abbots, later forging a prominent ... Wikipedia",
+            "type": "Musician",
+            "Born ": "September 16, 1947 (age 66), Chester, United Kingdom",
+            "TV shows ": [
+                "The Russ Abbot Show",
+                " Last of the Summer Wine",
+                " The Comedians",
+                " Married for Life",
+                " Russ Abbot's Madhouse",
+                " Freddie Starr's Variety MadhouseMore"
+            ],
+            "People also search for": []
         },
         "Sarah Silverman": {
             "label": "Sarah Silverman",
@@ -578,21 +585,6 @@
             ],
             "Movies and TV shows": []
         },
-        "Russ Abbot": {
-            "label": "Russ Abbot",
-            "description": "Russ Abbot is an English musician, comedian and actor. Abbot first came to public notice during the 1970s as the singer and drummer with British comedy showband the Black Abbots, later forging a prominent ... Wikipedia",
-            "type": "Musician",
-            "Born ": "September 16, 1947 (age 66), Chester, United Kingdom",
-            "TV shows ": [
-                "The Russ Abbot Show",
-                " Last of the Summer Wine",
-                " The Comedians",
-                " Married for Life",
-                " Russ Abbot's Madhouse",
-                " Freddie Starr's Variety MadhouseMore"
-            ],
-            "People also search for": []
-        },
         "Seth Rogen": {
             "label": "Seth Rogen",
             "description": "Seth Rogen is a Canadian stand-up comedian, actor, producer, director, screenwriter, and voice actor. Rogen began his career performing stand-up comedy during his teenage years, winning the Vancouver Amateur Comedy Contest in 1998. Wikipedia",
@@ -613,6 +605,28 @@
                 " Sandy Rogen"
             ],
             "Movies": []
+        },
+        "Sid James": {
+            "label": "Sid James",
+            "description": "Sid James was a South African born English-based actor and comedian.\nAppearing in British films from 1947, he was cast in numerous small and supporting roles into the 1960s. Wikipedia",
+            "type": "Actor",
+            "Born ": "May 8, 1913, Hillbrow, South Africa",
+            "Died ": "April 26, 1976, Sunderland, United Kingdom",
+            "Buried ": [
+                "Golders Green Crematorium",
+                " United Kingdom"
+            ],
+            "Children ": [
+                "Reina James",
+                " Sue James",
+                " Steve James"
+            ],
+            "Spouse ": [
+                "Valerie Elizabeth Patsy (m. 1952–1976)",
+                " Meg Williams (m. 1943–1952)",
+                " Sadie Delmont (m. 1936–1940)"
+            ],
+            "Movies and TV shows": []
         },
         "Simon Helberg": {
             "label": "Simon Helberg",
@@ -656,39 +670,36 @@
             "Movies and TV shows": [],
             "People also search for": []
         },
-        "Rip Taylor": {
-            "label": "Rip Taylor",
-            "description": "Charles Elmer \"Rip\" Taylor, Jr. is an American actor and comedian. Wikipedia",
-            "type": "Actor",
-            "Born ": "January 13, 1935 (age 79), Washington, D.C., United States",
-            "Parents ": [
-                "Elizabeth Taylor",
-                " Charles Elmer Taylor",
-                " Sr."
-            ],
-            "Movies and TV shows": []
-        },
-        "Sid James": {
-            "label": "Sid James",
-            "description": "Sid James was a South African born English-based actor and comedian.\nAppearing in British films from 1947, he was cast in numerous small and supporting roles into the 1960s. Wikipedia",
-            "type": "Actor",
-            "Born ": "May 8, 1913, Hillbrow, South Africa",
-            "Died ": "April 26, 1976, Sunderland, United Kingdom",
-            "Buried ": [
-                "Golders Green Crematorium",
-                " United Kingdom"
-            ],
-            "Children ": [
-                "Reina James",
-                " Sue James",
-                " Steve James"
+        "Vic Reeves": {
+            "label": "Vic Reeves",
+            "description": "James Roderick Moir, better known by the stage name Vic Reeves and sometimes credited as Jim Moir, is an English comedian, best known for his double act with Bob Mortimer. He is known for his surreal and non sequitur sense of humour. Wikipedia",
+            "type": "Comedian",
+            "Born ": "January 24, 1959 (age 55), Leeds, United Kingdom",
+            "Full name ": [
+                "James Roderick Moir"
             ],
             "Spouse ": [
-                "Valerie Elizabeth Patsy (m. 1952–1976)",
-                " Meg Williams (m. 1943–1952)",
-                " Sadie Delmont (m. 1936–1940)"
+                "Nancy Sorrell (m. 2003)",
+                " Sarah Vincent (m. 1990–1999)"
             ],
-            "Movies and TV shows": []
+            "Music group ": [
+                "Vic and Bob"
+            ],
+            "Children ": [
+                "Louis Vincent Moir",
+                " Alice Vincent Moir",
+                " Elizabeth Moir",
+                " Nell Moir"
+            ],
+            "TV shows": [],
+            "People also search for": []
+        },
+        "Volker Pispers": {
+            "label": "Volker Pispers",
+            "description": "Volker Pispers is a German Kabarett artist, who is well known for his political satire. His comic style includes drastic and sometimes sarcastic commentary on current events, especially about the ... Wikipedia",
+            "type": "",
+            "Born ": "January 18, 1958 (age 56), Mönchengladbach, Germany",
+            "People also search for": []
         },
         "Tracy Morgan": {
             "label": "Tracy Morgan",
@@ -714,125 +725,6 @@
             ],
             "Recent posts": [],
             "Movies and TV shows": []
-        },
-        "Rodney Dangerfield": {
-            "label": "Rodney Dangerfield",
-            "description": "Rodney Dangerfield was an American comedian and actor, known for the catchphrase \"I don't get no respect!\" and his monologues on that theme. He is also remembered for his 1980s film roles, especially in Easy Money, Caddyshack, and Back to School. Wikipedia",
-            "type": "Comedian",
-            "Born ": "November 22, 1921, Deer Park, New York, United States",
-            "Died ": "October 5, 2004, Westwood, Los Angeles, California, United States",
-            "Spouse ": [
-                "Joan Child (m. 1993–2004)",
-                " Joyce Indig (m. 1963–1970)",
-                " Joyce Indig (m. 1949–1962)"
-            ],
-            "Children ": [
-                "Brian Dangerfield",
-                " Melanie Dangerfield"
-            ],
-            "Books ": [
-                "No Respect",
-                " It's Not Easy Bein' Me A Lifetime of No Respect But Plenty of Sex and Drugs",
-                " No Respect/Cassette",
-                " Its Not Easy Bein MeMore"
-            ],
-            "Movies": []
-        },
-        "Zach Galifianakis": {
-            "label": "Zach Galifianakis",
-            "description": "Zachary Knight \"Zach\" Galifianakis is an American stand-up comedian and actor known for his film and television appearances including his own Comedy Central Presents special. Wikipedia",
-            "type": "Stand-up comedian",
-            "Born ": "October 1, 1969 (age 44), Wilkesboro, North Carolina, United States",
-            "Height ": [
-                "5' 8\" (1.73 m)"
-            ],
-            "Nationality ": [
-                "American"
-            ],
-            "Spouse ": [
-                "Quinn Lundberg (m. 2012)"
-            ],
-            "Siblings ": [
-                "Merritt Galifianakis",
-                " Greg Galifianakis"
-            ],
-            "Movies and TV shows": []
-        },
-        "Vic Reeves": {
-            "label": "Vic Reeves",
-            "description": "James Roderick Moir, better known by the stage name Vic Reeves and sometimes credited as Jim Moir, is an English comedian, best known for his double act with Bob Mortimer. He is known for his surreal and non sequitur sense of humour. Wikipedia",
-            "type": "Comedian",
-            "Born ": "January 24, 1959 (age 55), Leeds, United Kingdom",
-            "Full name ": [
-                "James Roderick Moir"
-            ],
-            "Spouse ": [
-                "Nancy Sorrell (m. 2003)",
-                " Sarah Vincent (m. 1990–1999)"
-            ],
-            "Music group ": [
-                "Vic and Bob"
-            ],
-            "Children ": [
-                "Louis Vincent Moir",
-                " Alice Vincent Moir",
-                " Elizabeth Moir",
-                " Nell Moir"
-            ],
-            "TV shows": [],
-            "People also search for": []
-        },
-        "Yakov Smirnoff": {
-            "label": "Yakov Smirnoff",
-            "description": "Yakov Naumovich Pokhis, better known as Yakov Smirnoff, is a Soviet-born American comedian, actor and writer. After emigrating to the United States in 1977, Smirnoff began performing as a stand-up comic. Wikipedia",
-            "type": "Comedian",
-            "Born ": "January 24, 1951 (age 63), Odessa, Ukraine",
-            "Spouse ": [
-                "Linda Dreeszen (m. 1989–2001)"
-            ],
-            "Education ": [
-                "University of Pennsylvania"
-            ],
-            "Nationality ": [
-                "American",
-                " Ukrainian"
-            ],
-            "Movies and TV shows": []
-        },
-        "Volker Pispers": {
-            "label": "Volker Pispers",
-            "description": "Volker Pispers is a German Kabarett artist, who is well known for his political satire. His comic style includes drastic and sometimes sarcastic commentary on current events, especially about the ... Wikipedia",
-            "type": "",
-            "Born ": "January 18, 1958 (age 56), Mönchengladbach, Germany",
-            "People also search for": []
-        },
-        "Bill Hicks": {
-            "label": "Bill Hicks",
-            "description": "William Melvin \"Bill\" Hicks was an American stand-up comedian, social critic, satirist and musician. Wikipedia",
-            "type": "Comedian",
-            "Born ": "December 16, 1961, Valdosta, Georgia, United States",
-            "Died ": "February 26, 1994, Little Rock, Arkansas, United States",
-            "Movies ": [
-                "American The Bill Hicks Story",
-                " No Cure for Cancer",
-                " Ninja Bachelor Party",
-                " Comedy's Dirtiest Dozen",
-                " Bill Hicks Sane Man"
-            ],
-            "Books ": [
-                "Love All the People Letters",
-                " Lyrics",
-                " Routines"
-            ],
-            "Siblings ": [
-                "Steve Hicks",
-                " Lynn Hicks"
-            ],
-            "Parents ": [
-                "Jim Hicks",
-                " Mary Hicks"
-            ],
-            "People also search for": []
         },
         "Wim Sonneveld": {
             "label": "Wim Sonneveld",
@@ -873,6 +765,66 @@
             ],
             "People also search for": []
         },
+        "Ray Romano": {
+            "label": "Ray Romano",
+            "description": "Raymond Albert \"Ray\" Romano is an American actor, stand-up comedian, screenwriter and voice actor, best known for his roles on the sitcom Everybody Loves Raymond, for which he received an Emmy Award, and voicing Manny in the Ice Age film series. Wikipedia",
+            "type": "Actor",
+            "Born ": "December 21, 1957 (age 56), Queens, New York City, New York, United States",
+            "Height ": [
+                "6' 2\" (1.88 m)"
+            ],
+            "Spouse ": [
+                "Anna Romano (m. 1987)"
+            ],
+            "Siblings ": [
+                "Richard Romano",
+                " Robert Romano"
+            ],
+            "Children ": [
+                "Alexandra Romano",
+                " Matthew Romano",
+                " Gregory Romano",
+                " Joseph Romano"
+            ],
+            "Movies and TV shows": []
+        },
+        "Yakov Smirnoff": {
+            "label": "Yakov Smirnoff",
+            "description": "Yakov Naumovich Pokhis, better known as Yakov Smirnoff, is a Soviet-born American comedian, actor and writer. After emigrating to the United States in 1977, Smirnoff began performing as a stand-up comic. Wikipedia",
+            "type": "Comedian",
+            "Born ": "January 24, 1951 (age 63), Odessa, Ukraine",
+            "Spouse ": [
+                "Linda Dreeszen (m. 1989–2001)"
+            ],
+            "Education ": [
+                "University of Pennsylvania"
+            ],
+            "Nationality ": [
+                "American",
+                " Ukrainian"
+            ],
+            "Movies and TV shows": []
+        },
+        "Zach Galifianakis": {
+            "label": "Zach Galifianakis",
+            "description": "Zachary Knight \"Zach\" Galifianakis is an American stand-up comedian and actor known for his film and television appearances including his own Comedy Central Presents special. Wikipedia",
+            "type": "Stand-up comedian",
+            "Born ": "October 1, 1969 (age 44), Wilkesboro, North Carolina, United States",
+            "Height ": [
+                "5' 8\" (1.73 m)"
+            ],
+            "Nationality ": [
+                "American"
+            ],
+            "Spouse ": [
+                "Quinn Lundberg (m. 2012)"
+            ],
+            "Siblings ": [
+                "Merritt Galifianakis",
+                " Greg Galifianakis"
+            ],
+            "Movies and TV shows": []
+        },
         "Andreu Buenafuente": {
             "label": "Andreu Buenafuente",
             "description": "Andreu Buenafuente is a Spanish late night show host and founder of the group El Terrat. He has worked in TV3, Antena 3 and laSexta. He has also worked on the radio and published several books with his monologues. Wikipedia",
@@ -890,6 +842,104 @@
             "Children ": [
                 "Joana Buenafuente"
             ],
+            "People also search for": []
+        },
+        "Mel Brooks": {
+            "label": "Mel Brooks",
+            "description": "Mel Brooks is an American film director, screenwriter, composer, lyricist, comedian, actor and producer. He is best known as a creator of broad film farces and comic parodies. Wikipedia",
+            "type": "Film director",
+            "Born ": "June 28, 1926 (age 87), Brooklyn, New York, United States",
+            "Spouse ": [
+                "Anne Bancroft (m. 1964–2005)",
+                " Florence Baum (m. 1953–1962)"
+            ],
+            "Plays ": [
+                "The Producers",
+                " Young Frankenstein",
+                " New Faces of 1952",
+                " Shinbone Alley",
+                " All American"
+            ],
+            "Children ": [
+                "Max Brooks",
+                " Stephanie Brooks",
+                " Nicky Brooks",
+                " Eddie Brooks"
+            ],
+            "Awards ": [
+                "Kennedy Center Honors",
+                " Tony Award for Best Musical",
+                " Academy Award for Best Original Screenplay",
+                " Primetime Emmy Award for Outstanding Guest Actor - Comedy Series",
+                " Tony Award for Best Book of a Musical",
+                " Grammy Hall of Fame Award",
+                " Drama Desk Award for Outstanding Lyrics",
+                " Tony Award for Best Original Score",
+                " Grammy Award for Best Music Film",
+                " Grammy Award for Best Musical Theater Album",
+                " Nebula Award for Best Script",
+                " Hugo Award for Best Dramatic Presentation",
+                " Drama Desk Award for Outstanding Musical",
+                " Writers Guild of America Award for Best Original Screenplay",
+                " Saturn Award for Best Director",
+                " Primetime Emmy Award for Outstanding Writing - Variety Series",
+                " TV Land Legend Award",
+                " Drama Desk Award for Outstanding Book of a Musical",
+                " Grammy Award for Best Spoken Comedy Album",
+                " The Laurel Award for Screenwriting Achievement",
+                " Writers Guild of America Award for Best Original ComedyMore"
+            ],
+            "Movies": []
+        },
+        "Bill Hicks": {
+            "label": "Bill Hicks",
+            "description": "William Melvin \"Bill\" Hicks was an American stand-up comedian, social critic, satirist and musician. Wikipedia",
+            "type": "Comedian",
+            "Born ": "December 16, 1961, Valdosta, Georgia, United States",
+            "Died ": "February 26, 1994, Little Rock, Arkansas, United States",
+            "Movies ": [
+                "American The Bill Hicks Story",
+                " No Cure for Cancer",
+                " Ninja Bachelor Party",
+                " Comedy's Dirtiest Dozen",
+                " Bill Hicks Sane Man"
+            ],
+            "Books ": [
+                "Love All the People Letters",
+                " Lyrics",
+                " Routines"
+            ],
+            "Siblings ": [
+                "Steve Hicks",
+                " Lynn Hicks"
+            ],
+            "Parents ": [
+                "Jim Hicks",
+                " Mary Hicks"
+            ],
+            "People also search for": []
+        },
+        "Mike Myers": {
+            "label": "Mike Myers",
+            "description": "Michael John \"Mike\" Myers is a Canadian actor, comedian, singer, screenwriter, and film producer. He has played the title characters of the films Wayne's World, Austin Powers, and Shrek. Wikipedia",
+            "type": "Actor",
+            "Born ": "May 25, 1963 (age 50), Scarborough, Toronto, Canada",
+            "Height ": [
+                "5' 8\" (1.73 m)"
+            ],
+            "Spouse ": [
+                "Kelly Tisdale (m. 2010)",
+                " Robin Ruzan (m. 1993–2006)"
+            ],
+            "Children ": [
+                "Spike Myers"
+            ],
+            "Nationality ": [
+                "American",
+                " British",
+                " Canadian"
+            ],
+            "Movies and TV shows": [],
             "People also search for": []
         },
         "Rik Mayall": {
@@ -988,53 +1038,6 @@
             ],
             "Movies": []
         },
-        "Mel Brooks": {
-            "label": "Mel Brooks",
-            "description": "Mel Brooks is an American film director, screenwriter, composer, lyricist, comedian, actor and producer. He is best known as a creator of broad film farces and comic parodies. Wikipedia",
-            "type": "Film director",
-            "Born ": "June 28, 1926 (age 87), Brooklyn, New York, United States",
-            "Spouse ": [
-                "Anne Bancroft (m. 1964–2005)",
-                " Florence Baum (m. 1953–1962)"
-            ],
-            "Plays ": [
-                "The Producers",
-                " Young Frankenstein",
-                " New Faces of 1952",
-                " Shinbone Alley",
-                " All American"
-            ],
-            "Children ": [
-                "Max Brooks",
-                " Stephanie Brooks",
-                " Nicky Brooks",
-                " Eddie Brooks"
-            ],
-            "Awards ": [
-                "Kennedy Center Honors",
-                " Tony Award for Best Musical",
-                " Academy Award for Best Original Screenplay",
-                " Primetime Emmy Award for Outstanding Guest Actor - Comedy Series",
-                " Tony Award for Best Book of a Musical",
-                " Grammy Hall of Fame Award",
-                " Drama Desk Award for Outstanding Lyrics",
-                " Tony Award for Best Original Score",
-                " Grammy Award for Best Music Film",
-                " Grammy Award for Best Musical Theater Album",
-                " Nebula Award for Best Script",
-                " Hugo Award for Best Dramatic Presentation",
-                " Drama Desk Award for Outstanding Musical",
-                " Writers Guild of America Award for Best Original Screenplay",
-                " Saturn Award for Best Director",
-                " Primetime Emmy Award for Outstanding Writing - Variety Series",
-                " TV Land Legend Award",
-                " Drama Desk Award for Outstanding Book of a Musical",
-                " Grammy Award for Best Spoken Comedy Album",
-                " The Laurel Award for Screenwriting Achievement",
-                " Writers Guild of America Award for Best Original ComedyMore"
-            ],
-            "Movies": []
-        },
         "Aaron Karo": {
             "label": "Aaron Karo",
             "description": "Aaron Karo is an American stand-up comedian and author best known for his Ruminations email column and series of books, his young adult novel Lexapros and Cons, and his Comedy Central special Aaron Karo The Rest Is History. Wikipedia",
@@ -1054,28 +1057,25 @@
                 " Albert F. Sabo"
             ]
         },
-        "Mike Myers": {
-            "label": "Mike Myers",
-            "description": "Michael John \"Mike\" Myers is a Canadian actor, comedian, singer, screenwriter, and film producer. He has played the title characters of the films Wayne's World, Austin Powers, and Shrek. Wikipedia",
-            "type": "Actor",
-            "Born ": "May 25, 1963 (age 50), Scarborough, Toronto, Canada",
+        "Alan Davies": {
+            "label": "Alan Davies",
+            "description": "Alan Roger Davies is an English comedian, writer and actor, best known for his stand up routine and his appearances on British television. Wikipedia",
+            "type": "Comedian",
+            "Born ": "March 6, 1966 (age 48), Loughton, United Kingdom",
             "Height ": [
-                "5' 8\" (1.73 m)"
+                "5' 11\" (1.80 m)"
             ],
             "Spouse ": [
-                "Kelly Tisdale (m. 2010)",
-                " Robin Ruzan (m. 1993–2006)"
+                "Katie Maskell (m. 2007)"
+            ],
+            "Education ": [
+                "University of Kent"
             ],
             "Children ": [
-                "Spike Myers"
+                "Robert Davies",
+                " Susie Davies"
             ],
-            "Nationality ": [
-                "American",
-                " British",
-                " Canadian"
-            ],
-            "Movies and TV shows": [],
-            "People also search for": []
+            "Movies and TV shows": []
         },
         "Angus Deayton": {
             "label": "Angus Deayton",
@@ -1138,6 +1138,22 @@
             ],
             "Movies and TV shows": []
         },
+        "Beatrice Lillie": {
+            "label": "Beatrice Lillie",
+            "description": "Beatrice Gladys \"Bea\" Lillie was an actress and comedic performer. Following her 1920 marriage to Sir Robert Peel in England, she was known in private life as Lady Peel. Wikipedia",
+            "type": "Actress",
+            "Born ": "May 29, 1894, Toronto, Canada",
+            "Died ": "January 20, 1989, Henley-on-Thames, United Kingdom",
+            "Awards ": [
+                "Special Tony Award",
+                " Outer Critics Circle Award for Other Awards"
+            ],
+            "Nominations ": [
+                "Tony Award for Best Performance by a Leading Actress in a Musical"
+            ],
+            "Songs": [],
+            "Movies": []
+        },
         "Bill Maynard": {
             "label": "Bill Maynard",
             "description": "Walter Frederick George Williams, better known by the stage name Bill Maynard, is an English comedian and actor. Wikipedia",
@@ -1157,26 +1173,6 @@
             "Children ": [
                 "Maynard Williams",
                 " Jane Maynard"
-            ],
-            "Movies and TV shows": []
-        },
-        "Alan Davies": {
-            "label": "Alan Davies",
-            "description": "Alan Roger Davies is an English comedian, writer and actor, best known for his stand up routine and his appearances on British television. Wikipedia",
-            "type": "Comedian",
-            "Born ": "March 6, 1966 (age 48), Loughton, United Kingdom",
-            "Height ": [
-                "5' 11\" (1.80 m)"
-            ],
-            "Spouse ": [
-                "Katie Maskell (m. 2007)"
-            ],
-            "Education ": [
-                "University of Kent"
-            ],
-            "Children ": [
-                "Robert Davies",
-                " Susie Davies"
             ],
             "Movies and TV shows": []
         },
@@ -1201,22 +1197,6 @@
             ],
             "Movies": []
         },
-        "Beatrice Lillie": {
-            "label": "Beatrice Lillie",
-            "description": "Beatrice Gladys \"Bea\" Lillie was an actress and comedic performer. Following her 1920 marriage to Sir Robert Peel in England, she was known in private life as Lady Peel. Wikipedia",
-            "type": "Actress",
-            "Born ": "May 29, 1894, Toronto, Canada",
-            "Died ": "January 20, 1989, Henley-on-Thames, United Kingdom",
-            "Awards ": [
-                "Special Tony Award",
-                " Outer Critics Circle Award for Other Awards"
-            ],
-            "Nominations ": [
-                "Tony Award for Best Performance by a Leading Actress in a Musical"
-            ],
-            "Songs": [],
-            "Movies": []
-        },
         "David Armand": {
             "label": "David Armand",
             "description": "David Armand is an English comedian, actor and writer who has performed on stage, film, radio and most notably, television, where the shows he has appeared in include Fast and Loose, Episodes, How Not ... Wikipedia",
@@ -1234,6 +1214,29 @@
                 "I Want Candy"
             ],
             "TV shows": []
+        },
+        "David Baddiel": {
+            "label": "David Baddiel",
+            "description": "David Lionel Baddiel is a British comedian, novelist and television presenter. He is known for his work alongside Rob Newman in The Mary Whitehouse Experience and partnership with Frank Skinner. Wikipedia",
+            "type": "Comedian",
+            "Born ": "May 28, 1964 (age 49), New York City, New York, United States",
+            "Partner ": [
+                "Morwenna Banks"
+            ],
+            "Education ": [
+                "University of Cambridge",
+                " King's College",
+                " Cambridge"
+            ],
+            "Children ": [
+                "Dolly Loveday Baddiel",
+                " Ezra Beckett Baddiel"
+            ],
+            "Parents ": [
+                "Colin Brian Baddiel",
+                " Sarah Baddiel"
+            ],
+            "Books": []
         },
         "Dawn French": {
             "label": "Dawn French",
@@ -1323,28 +1326,35 @@
                 "Otterbein University"
             ]
         },
-        "David Baddiel": {
-            "label": "David Baddiel",
-            "description": "David Lionel Baddiel is a British comedian, novelist and television presenter. He is known for his work alongside Rob Newman in The Mary Whitehouse Experience and partnership with Frank Skinner. Wikipedia",
+        "Griff Rhys Jones": {
+            "label": "Griff Rhys Jones",
+            "description": "Griffith \"Griff\" Rhys Jones is an Anglo-Welsh comedian, writer, actor and television presenter, best known for his work with his comedy partner Mel Smith. Wikipedia",
             "type": "Comedian",
-            "Born ": "May 28, 1964 (age 49), New York City, New York, United States",
-            "Partner ": [
-                "Morwenna Banks"
+            "Born ": "November 16, 1953 (age 60), Cardiff, United Kingdom",
+            "Height ": [
+                "5' 8\" (1.73 m)"
             ],
-            "Education ": [
-                "University of Cambridge",
-                " King's College",
-                " Cambridge"
+            "Nationality ": [
+                "British"
             ],
-            "Children ": [
-                "Dolly Loveday Baddiel",
-                " Ezra Beckett Baddiel"
+            "Spouse ": [
+                "Jo Jones"
             ],
             "Parents ": [
-                "Colin Brian Baddiel",
-                " Sarah Baddiel"
+                "Gwyneth Margaret Jones",
+                " Elwyn Jones"
             ],
-            "Books": []
+            "Movies and TV shows": []
+        },
+        "Isy Suttie": {
+            "label": "Isy Suttie",
+            "description": "Isobel \"Isy\" Jane Suttie is an English stand-up comedian, actress, writer, composer and musician.\nShe is best known for playing the role of Dobby in the British sitcom Peep Show, and in 2013 won the ... Wikipedia",
+            "type": "Actress",
+            "Born ": "August 11, 1978 (age 35), Kingston upon Hull, United Kingdom",
+            "Education ": [
+                "Guildford School of Acting"
+            ],
+            "People also search for": []
         },
         "Jack Whitehall": {
             "label": "Jack Whitehall",
@@ -1373,53 +1383,6 @@
                 " Comic Relief 2011"
             ],
             "People also search for": []
-        },
-        "Griff Rhys Jones": {
-            "label": "Griff Rhys Jones",
-            "description": "Griffith \"Griff\" Rhys Jones is an Anglo-Welsh comedian, writer, actor and television presenter, best known for his work with his comedy partner Mel Smith. Wikipedia",
-            "type": "Comedian",
-            "Born ": "November 16, 1953 (age 60), Cardiff, United Kingdom",
-            "Height ": [
-                "5' 8\" (1.73 m)"
-            ],
-            "Nationality ": [
-                "British"
-            ],
-            "Spouse ": [
-                "Jo Jones"
-            ],
-            "Parents ": [
-                "Gwyneth Margaret Jones",
-                " Elwyn Jones"
-            ],
-            "Movies and TV shows": []
-        },
-        "Jim Davidson (comedian)": {
-            "label": "Jim Davidson",
-            "description": "James Cameron \"Jim\" Davidson, OBE is an English comedian and television host. His highest profile roles came on the television when he hosted Big Break and The Generation Game. Wikipedia",
-            "type": "Comedian",
-            "Born ": "December 13, 1953 (age 60), Kidbrooke, London, United Kingdom",
-            "Nationality ": [
-                "British"
-            ],
-            "Spouse ": [
-                "Michelle Cotton (m. 2010)",
-                " Tracy Hilton (m. 1990–2000)",
-                " Alison Holloway (m. 1987–1988)",
-                " Julie Gullick (m. 1981–1986)",
-                " Sue Walpole (m. 1971–1972)More"
-            ],
-            "Children ": [
-                "Sarah Walpole-Davidson",
-                " Charlie Davidson",
-                " Cameron Gullick-Davidson",
-                " Fred Davidson",
-                " Elsie Davidson"
-            ],
-            "Nominations ": [
-                "National Television Award for Most Popular Entertainment Presenter"
-            ],
-            "Movies and TV shows": []
         },
         "Janeane Garofalo": {
             "label": "Janeane Garofalo",
@@ -1451,6 +1414,33 @@
                 " Pilot SeasonMore"
             ],
             "Movies": []
+        },
+        "Jim Davidson (comedian)": {
+            "label": "Jim Davidson",
+            "description": "James Cameron \"Jim\" Davidson, OBE is an English comedian and television host. His highest profile roles came on the television when he hosted Big Break and The Generation Game. Wikipedia",
+            "type": "Comedian",
+            "Born ": "December 13, 1953 (age 60), Kidbrooke, London, United Kingdom",
+            "Nationality ": [
+                "British"
+            ],
+            "Spouse ": [
+                "Michelle Cotton (m. 2010)",
+                " Tracy Hilton (m. 1990–2000)",
+                " Alison Holloway (m. 1987–1988)",
+                " Julie Gullick (m. 1981–1986)",
+                " Sue Walpole (m. 1971–1972)More"
+            ],
+            "Children ": [
+                "Sarah Walpole-Davidson",
+                " Charlie Davidson",
+                " Cameron Gullick-Davidson",
+                " Fred Davidson",
+                " Elsie Davidson"
+            ],
+            "Nominations ": [
+                "National Television Award for Most Popular Entertainment Presenter"
+            ],
+            "Movies and TV shows": []
         },
         "Jim Tavaré": {
             "label": "Jim Tavaré",
@@ -1517,6 +1507,26 @@
             ],
             "Movies and TV shows": []
         },
+        "Julian Clary": {
+            "label": "Julian Clary",
+            "description": "Julian Peter McDonald Clary is an English comedian and novelist. Openly gay, Clary began appearing on television in the mid 1980s and became known for his deliberately stereotypical camp style. Wikipedia",
+            "type": "Comedian",
+            "Born ": "May 25, 1959 (age 54), Surbiton, United Kingdom",
+            "Height ": [
+                "6' 2\" (1.89 m)"
+            ],
+            "Nationality ": [
+                "British"
+            ],
+            "Education ": [
+                "Goldsmiths College"
+            ],
+            "Parents ": [
+                "Brenda McDonald",
+                " Peter J. Clary"
+            ],
+            "Movies and TV shows": []
+        },
         "Kenny Everett": {
             "label": "Kenny Everett",
             "description": "Kenny Everett was a British comedian, radio DJ and television entertainer. Everett is best known for his career as a radio DJ and for The Kenny Everett Video Show. Wikipedia",
@@ -1544,36 +1554,6 @@
             ],
             "People also search for": []
         },
-        "Isy Suttie": {
-            "label": "Isy Suttie",
-            "description": "Isobel \"Isy\" Jane Suttie is an English stand-up comedian, actress, writer, composer and musician.\nShe is best known for playing the role of Dobby in the British sitcom Peep Show, and in 2013 won the ... Wikipedia",
-            "type": "Actress",
-            "Born ": "August 11, 1978 (age 35), Kingston upon Hull, United Kingdom",
-            "Education ": [
-                "Guildford School of Acting"
-            ],
-            "People also search for": []
-        },
-        "Julian Clary": {
-            "label": "Julian Clary",
-            "description": "Julian Peter McDonald Clary is an English comedian and novelist. Openly gay, Clary began appearing on television in the mid 1980s and became known for his deliberately stereotypical camp style. Wikipedia",
-            "type": "Comedian",
-            "Born ": "May 25, 1959 (age 54), Surbiton, United Kingdom",
-            "Height ": [
-                "6' 2\" (1.89 m)"
-            ],
-            "Nationality ": [
-                "British"
-            ],
-            "Education ": [
-                "Goldsmiths College"
-            ],
-            "Parents ": [
-                "Brenda McDonald",
-                " Peter J. Clary"
-            ],
-            "Movies and TV shows": []
-        },
         "Kevin Bishop": {
             "label": "Kevin Bishop",
             "description": "Kevin Bishop is an English actor and comedian, best-known for The Kevin Bishop Show, which he co-wrote with Lee Hupfield. Wikipedia",
@@ -1592,6 +1572,20 @@
                 "British Academy Television Award for Best Comedy Programme"
             ],
             "Movies and TV shows": []
+        },
+        "Larry Grayson": {
+            "label": "Larry Grayson",
+            "description": "Larry Grayson, born William Sulley White, was an English comedian and television presenter who reached the peak of his fame in the 1970s and early '80s. Wikipedia",
+            "type": "Comedian",
+            "Born ": "August 31, 1923, Banbury, United Kingdom",
+            "Died ": "January 7, 1995, Nuneaton, United Kingdom",
+            "TV shows ": [
+                "The Generation Game",
+                " Shut That Door!!",
+                " A Question Of Entertainment",
+                " Larry Grayson"
+            ],
+            "People also search for": []
         },
         "Lee Evans (comedian)": {
             "label": "Lee Evans",
@@ -1698,6 +1692,26 @@
             ],
             "Movies": []
         },
+        "Omid Djalili": {
+            "label": "Omid Djalili",
+            "description": "Omid Djalili is a British stand-up comedian, actor, television producer and writer. Wikipedia",
+            "type": "Stand-up comedian",
+            "Born ": "September 30, 1965 (age 48), Chelsea, London, United Kingdom",
+            "Nationality ": [
+                "British"
+            ],
+            "Height ": [
+                "5' 5\" (1.65 m)"
+            ],
+            "Spouse ": [
+                "Annabel Knight (m. 1992)"
+            ],
+            "Children ": [
+                "Isabella Djalili",
+                " Daniel Djalili"
+            ],
+            "Movies and TV shows": []
+        },
         "Paul O'Grady": {
             "label": "Paul O'Grady",
             "description": "Paul James Michael O'Grady MBE is an English comedian, television presenter, actor, writer and radio DJ. Wikipedia",
@@ -1733,26 +1747,6 @@
             ],
             "Songs": []
         },
-        "Omid Djalili": {
-            "label": "Omid Djalili",
-            "description": "Omid Djalili is a British stand-up comedian, actor, television producer and writer. Wikipedia",
-            "type": "Stand-up comedian",
-            "Born ": "September 30, 1965 (age 48), Chelsea, London, United Kingdom",
-            "Nationality ": [
-                "British"
-            ],
-            "Height ": [
-                "5' 5\" (1.65 m)"
-            ],
-            "Spouse ": [
-                "Annabel Knight (m. 1992)"
-            ],
-            "Children ": [
-                "Isabella Djalili",
-                " Daniel Djalili"
-            ],
-            "Movies and TV shows": []
-        },
         "Reginald D. Hunter": {
             "label": "Reginald D. Hunter",
             "description": "Reginald Darnell Hunter is an American stand-up comedian based in the United Kingdom. He is an African-American from the state of Georgia. Wikipedia",
@@ -1773,33 +1767,6 @@
             "type": "Writer",
             "Born ": "March 4, 1927 (age 87), United States of America",
             "Books": []
-        },
-        "Larry Grayson": {
-            "label": "Larry Grayson",
-            "description": "Larry Grayson, born William Sulley White, was an English comedian and television presenter who reached the peak of his fame in the 1970s and early '80s. Wikipedia",
-            "type": "Comedian",
-            "Born ": "August 31, 1923, Banbury, United Kingdom",
-            "Died ": "January 7, 1995, Nuneaton, United Kingdom",
-            "TV shows ": [
-                "The Generation Game",
-                " Shut That Door!!",
-                " A Question Of Entertainment",
-                " Larry Grayson"
-            ],
-            "People also search for": []
-        },
-        "Rusty Warren": {
-            "label": "Rusty Warren",
-            "description": "Rusty Warren is an American comedian and musician, specializing in sex-related themes. Wikipedia",
-            "type": "Comedian",
-            "Born ": "March 20, 1931 (age 83), New York City, New York, United States",
-            "Last album ": [
-                "Knockers Up-Songs For Sinners"
-            ],
-            "Record label ": [
-                "Jubilee Records"
-            ],
-            "People also search for": []
         },
         "Robin Ince": {
             "label": "Robin Ince",
@@ -1838,6 +1805,19 @@
             ],
             "People also search for": []
         },
+        "Rusty Warren": {
+            "label": "Rusty Warren",
+            "description": "Rusty Warren is an American comedian and musician, specializing in sex-related themes. Wikipedia",
+            "type": "Comedian",
+            "Born ": "March 20, 1931 (age 83), New York City, New York, United States",
+            "Last album ": [
+                "Knockers Up-Songs For Sinners"
+            ],
+            "Record label ": [
+                "Jubilee Records"
+            ],
+            "People also search for": []
+        },
         "Sanjeev Bhaskar": {
             "label": "Sanjeev Bhaskar",
             "description": "Sanjeev Bhaskar, OBE is a British comedian, actor and broadcaster, best known for his work in the BBC Two comedy series Goodness Gracious Me and as host of The Kumars at No. 42. Wikipedia",
@@ -1858,79 +1838,6 @@
             "Movies and TV shows": [],
             "People also search for": []
         },
-        "Tim Brooke-Taylor": {
-            "label": "Tim Brooke-Taylor",
-            "description": "Timothy Julian Brooke-Taylor OBE is an English comic actor. He became active in performing in comedy sketches while at Cambridge University, and became President of the Footlights club, touring internationally with the Footlights revue in 1964. Wikipedia",
-            "type": "Actor",
-            "Born ": "July 17, 1940 (age 73), Buxton, United Kingdom",
-            "Spouse ": [
-                "Christine Weadon (m. 1968)"
-            ],
-            "Music group ": [
-                "The Goodies"
-            ],
-            "Books ": [
-                "I'm Sorry I Haven't a Clue The Best of Forty Years",
-                " The Little Book of Mornington Crescent"
-            ],
-            "Children ": [
-                "Ben Taylor",
-                " Edward Taylor"
-            ],
-            "Movies and TV shows": []
-        },
-        "Al Murray": {
-            "label": "Al Murray",
-            "description": "Alastair James Hay \"Al\" Murray, is an English comedian and TV personality best known by his stand-up persona and quick repartee. He is best known for his character of The Pub Landlord, a mock-xenophobic but stereotypical public house licensee. Wikipedia",
-            "type": "Stand-up comedian",
-            "Born ": "May 10, 1968 (age 45), Stewkley, United Kingdom",
-            "Full name ": [
-                "Alastair James Hay Murray"
-            ],
-            "Height ": [
-                "6' 3\" (1.91 m)"
-            ],
-            "Spouse ": [
-                "Amber Hargreaves (m. 2002–2008)",
-                " Katherine Perry (m. 1995–2000)"
-            ],
-            "Education ": [
-                "St Edmund Hall",
-                " Oxford",
-                " Bedford School",
-                " University of Oxford"
-            ],
-            "TV shows": []
-        },
-        "Alex Agnew": {
-            "label": "Alex Agnew",
-            "description": "Alex Agnew is a Belgian stand-up comedian and hard rock vocalist. According to the Nigel Williams autobiography \"Had ik maar een vak geleerd\", Alex was already an established comedian in Belgium since at least the 1999-2000 season. Wikipedia",
-            "type": "",
-            "Born ": "December 22, 1972 (age 41), Antwerp, Belgium",
-            "Movies ": [
-                "Alex Agnew - Morimos Solamente"
-            ],
-            "People also search for": []
-        },
-        "Alan Carr": {
-            "label": "Alan Carr",
-            "description": "Alan Graham Carr is an English comedian and television personality. He was born in Weymouth, Dorset and spent most of his childhood in Northampton before moving to Chorlton-cum-Hardy, Manchester in his early 20s where he began his comedy career. Wikipedia",
-            "type": "Comedian",
-            "Born ": "June 14, 1976 (age 37), Weymouth, Dorset, United Kingdom",
-            "Height ": [
-                "5' 10\" (1.78 m)"
-            ],
-            "Parents ": [
-                "Graham Carr"
-            ],
-            "Partner ": [
-                "Paul Drayton"
-            ],
-            "Siblings ": [
-                "Gary Carr"
-            ],
-            "TV shows": []
-        },
         "Smug Roberts": {
             "label": "Smug Roberts",
             "description": "Andy Robert Wilkinson, better known by his stage name of Smug Roberts, is an English stand up comedian and actor. Wikipedia",
@@ -1946,49 +1853,6 @@
                 " 24 Hour Party People",
                 " Buried"
             ],
-            "People also search for": []
-        },
-        "Vernon Chatman": {
-            "label": "Vernon Chatman",
-            "description": "Vernon Chatman is a television producer, writer, voice actor, stand-up comedian, musician and a member of PFFR, an art collective based in Brooklyn, NYC. Wikipedia",
-            "type": "Television Producer",
-            "Born ": "October 31, 1972 (age 41), Brooklyn, New York, United States",
-            "Education ": [
-                "University of San Francisco"
-            ],
-            "Awards ": [
-                "Primetime Emmy Award for Outstanding Animated Program  (for Programming Less Than One Hour)",
-                " Primetime Emmy Award for Outstanding Writing - Variety Series",
-                " Primetime Emmy Award for Outstanding Animated Program (for Programming One Hour or More)",
-                " Primetime Emmy Award for Outstanding Animated Program",
-                " WGA Award for Best Comedy/Variety - (Including Talk) Series - Television",
-                " Emmy Award for Outstanding Writing in a Variety or Music Program",
-                " WGA Award for Best Comedy Series - TelevisionMore"
-            ],
-            "Nominations ": [
-                "Primetime Emmy Award for Outstanding Comedy Series"
-            ],
-            "Movies and TV shows": []
-        },
-        "Alistair McGowan": {
-            "label": "Alistair McGowan",
-            "description": "Alistair McGowan is an English impressionist, stand-up comic, actor, singer and writer best known to British audiences for The Big Impression, which was, for four years, one of BBC1's top-rating comedy ... Wikipedia",
-            "type": "Impressionist",
-            "Born ": "November 24, 1964 (age 49), Evesham, United Kingdom",
-            "Nationality ": [
-                "English"
-            ],
-            "Parents ": [
-                "Marion McGowan",
-                " George McGowan"
-            ],
-            "Siblings ": [
-                "Kay McGowan"
-            ],
-            "Awards ": [
-                "British Academy Television Award for Best Comedy Programme"
-            ],
-            "Movies and TV shows": [],
             "People also search for": []
         },
         "Spike Milligan": {
@@ -2055,43 +1919,214 @@
                 " June Marlow (m. 1952–1960)"
             ],
             "Books": []
+        },
+        "Tim Brooke-Taylor": {
+            "label": "Tim Brooke-Taylor",
+            "description": "Timothy Julian Brooke-Taylor OBE is an English comic actor. He became active in performing in comedy sketches while at Cambridge University, and became President of the Footlights club, touring internationally with the Footlights revue in 1964. Wikipedia",
+            "type": "Actor",
+            "Born ": "July 17, 1940 (age 73), Buxton, United Kingdom",
+            "Spouse ": [
+                "Christine Weadon (m. 1968)"
+            ],
+            "Music group ": [
+                "The Goodies"
+            ],
+            "Books ": [
+                "I'm Sorry I Haven't a Clue The Best of Forty Years",
+                " The Little Book of Mornington Crescent"
+            ],
+            "Children ": [
+                "Ben Taylor",
+                " Edward Taylor"
+            ],
+            "Movies and TV shows": []
+        },
+        "Vernon Chatman": {
+            "label": "Vernon Chatman",
+            "description": "Vernon Chatman is a television producer, writer, voice actor, stand-up comedian, musician and a member of PFFR, an art collective based in Brooklyn, NYC. Wikipedia",
+            "type": "Television Producer",
+            "Born ": "October 31, 1972 (age 41), Brooklyn, New York, United States",
+            "Education ": [
+                "University of San Francisco"
+            ],
+            "Awards ": [
+                "Primetime Emmy Award for Outstanding Animated Program  (for Programming Less Than One Hour)",
+                " Primetime Emmy Award for Outstanding Writing - Variety Series",
+                " Primetime Emmy Award for Outstanding Animated Program (for Programming One Hour or More)",
+                " Primetime Emmy Award for Outstanding Animated Program",
+                " WGA Award for Best Comedy/Variety - (Including Talk) Series - Television",
+                " Emmy Award for Outstanding Writing in a Variety or Music Program",
+                " WGA Award for Best Comedy Series - TelevisionMore"
+            ],
+            "Nominations ": [
+                "Primetime Emmy Award for Outstanding Comedy Series"
+            ],
+            "Movies and TV shows": []
+        },
+        "Al Murray": {
+            "label": "Al Murray",
+            "description": "Alastair James Hay \"Al\" Murray, is an English comedian and TV personality best known by his stand-up persona and quick repartee. He is best known for his character of The Pub Landlord, a mock-xenophobic but stereotypical public house licensee. Wikipedia",
+            "type": "Stand-up comedian",
+            "Born ": "May 10, 1968 (age 45), Stewkley, United Kingdom",
+            "Full name ": [
+                "Alastair James Hay Murray"
+            ],
+            "Height ": [
+                "6' 3\" (1.91 m)"
+            ],
+            "Spouse ": [
+                "Amber Hargreaves (m. 2002–2008)",
+                " Katherine Perry (m. 1995–2000)"
+            ],
+            "Education ": [
+                "St Edmund Hall",
+                " Oxford",
+                " Bedford School",
+                " University of Oxford"
+            ],
+            "TV shows": []
+        },
+        "Alan Carr": {
+            "label": "Alan Carr",
+            "description": "Alan Graham Carr is an English comedian and television personality. He was born in Weymouth, Dorset and spent most of his childhood in Northampton before moving to Chorlton-cum-Hardy, Manchester in his early 20s where he began his comedy career. Wikipedia",
+            "type": "Comedian",
+            "Born ": "June 14, 1976 (age 37), Weymouth, Dorset, United Kingdom",
+            "Height ": [
+                "5' 10\" (1.78 m)"
+            ],
+            "Parents ": [
+                "Graham Carr"
+            ],
+            "Partner ": [
+                "Paul Drayton"
+            ],
+            "Siblings ": [
+                "Gary Carr"
+            ],
+            "TV shows": []
+        },
+        "Alex Agnew": {
+            "label": "Alex Agnew",
+            "description": "Alex Agnew is a Belgian stand-up comedian and hard rock vocalist. According to the Nigel Williams autobiography \"Had ik maar een vak geleerd\", Alex was already an established comedian in Belgium since at least the 1999-2000 season. Wikipedia",
+            "type": "",
+            "Born ": "December 22, 1972 (age 41), Antwerp, Belgium",
+            "Movies ": [
+                "Alex Agnew - Morimos Solamente"
+            ],
+            "People also search for": []
+        },
+        "Alistair McGowan": {
+            "label": "Alistair McGowan",
+            "description": "Alistair McGowan is an English impressionist, stand-up comic, actor, singer and writer best known to British audiences for The Big Impression, which was, for four years, one of BBC1's top-rating comedy ... Wikipedia",
+            "type": "Impressionist",
+            "Born ": "November 24, 1964 (age 49), Evesham, United Kingdom",
+            "Nationality ": [
+                "English"
+            ],
+            "Parents ": [
+                "Marion McGowan",
+                " George McGowan"
+            ],
+            "Siblings ": [
+                "Kay McGowan"
+            ],
+            "Awards ": [
+                "British Academy Television Award for Best Comedy Programme"
+            ],
+            "Movies and TV shows": [],
+            "People also search for": []
+        },
+        "Redd Foxx": {
+            "label": "Redd Foxx",
+            "description": "John Elroy Sanford, known professionally as Redd Foxx, was an American comedian and actor, best remembered for his explicit comedy records and his starring role on the 1970s sitcom Sanford and Son. Wikipedia",
+            "type": "Comedian",
+            "Born ": "December 9, 1922, St. Louis, Missouri, United States",
+            "Died ": "October 11, 1991, Los Angeles, California, United States",
+            "Full name ": [
+                "John Elroy Sanford"
+            ],
+            "Children ": [
+                "Debraca Denise"
+            ],
+            "Spouse ": [
+                "Ka Ho Cho (m. 1991–1991)",
+                " Yun Chi Chung (m. 1976–1981)",
+                " Betty Jean Harris (m. 1956–1975)",
+                " Evelyn Killebrew (m. 1948–1951)More"
+            ],
+            "Movies and TV shows": []
         }
     },
     "summary": {
-        "label": 99,
-        "description": 99,
-        "type": 99,
-        "born": 1,
-        "height": 1,
-        "partner": 1,
-        "spouse": 1,
-        "children": 1,
-        "movies_and_tv_shows": 1,
-        "died": 1,
-        "nationality": 1,
-        "awards": 1,
-        "movies": 1,
-        "siblings": 1,
-        "see_results_about": 1,
-        "books": 1,
-        "parents": 1,
-        "people_also_search_for": 1,
-        "tv_shows": 1,
-        "last_album": 1,
-        "education": 1,
-        "nominations": 1,
-        "full_name": 1,
-        "upcoming_events": 1,
-        "upcoming_movies": 1,
-        "buried": 1,
-        "recent_posts": 1,
-        "music_group": 1,
-        "albums": 1,
-        "plays": 1,
-        "songs": 1,
-        "record_label": 1
+        "label": {
+            "uri": "http://dbpedia.org/property/label",
+            "count": 99
+        },
+        "description": {
+            "uri": "http://dbpedia.org/property/description",
+            "count": 99
+        },
+        "type": {
+            "uri": "http://dbpedia.org/property/type",
+            "count": 99
+        },
+        "height": {
+            "uri": "http://dbpedia.org/property/height",
+            "count": 37
+        },
+        "partner": {
+            "uri": "http://dbpedia.org/property/partner",
+            "count": 8
+        },
+        "spouse": {
+            "uri": "http://dbpedia.org/ontology/spouse",
+            "count": 59
+        },
+        "children": {
+            "uri": "http://dbpedia.org/property/children",
+            "count": 47
+        },
+        "nationality": {
+            "uri": "http://dbpedia.org/property/nationality",
+            "count": 18
+        },
+        "awards": {
+            "uri": "http://dbpedia.org/property/awards",
+            "count": 8
+        },
+        "parents": {
+            "uri": "http://dbpedia.org/property/parents",
+            "count": 24
+        },
+        "education": {
+            "uri": "http://dbpedia.org/property/education",
+            "count": 25
+        }
     },
     "infoboxless": [
         "Justin Edwards"
-    ]
+    ],
+    "Unmapped_Properties": {
+        "born": 1,
+        "moviesAndTvShows": 1,
+        "died": 1,
+        "movies": 1,
+        "siblings": 1,
+        "books": 1,
+        "seeResultsAbout": 1,
+        "peopleAlsoSearchFor": 1,
+        "tvShows": 1,
+        "lastAlbum": 1,
+        "fullName": 1,
+        "nominations": 1,
+        "upcomingEvents": 1,
+        "upcomingMovies": 1,
+        "buried": 1,
+        "musicGroup": 1,
+        "recentPosts": 1,
+        "albums": 1,
+        "plays": 1,
+        "songs": 1,
+        "recordLabel": 1
+    }
 }

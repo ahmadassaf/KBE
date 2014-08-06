@@ -26,12 +26,6 @@
                 " United Kingdom"
             ]
         },
-        "National Library of New Zealand": {
-            "label": "National Library",
-            "description": "",
-            "type": "",
-            "People also search for": []
-        },
         "National Library of Wales": {
             "label": "National Library of Wales",
             "description": "The National Library of Wales, Aberystwyth, is the national legal deposit library of Wales; one of the Welsh Government sponsored bodies.\nWelsh is its main medium of communication. Wikipedia",
@@ -127,12 +121,6 @@
             "type": "Public Library System",
             "See results about": []
         },
-        "Portland Public Library": {
-            "label": "Portland Public Library",
-            "description": "",
-            "type": "",
-            "People also search for": []
-        },
         "Moffat Library": {
             "label": "Moffat Library",
             "description": "The Moffat Library, officially Moffat Library of Washingtonville, serves a population of 25,000 people in the village of that name in Orange County, New York, as well as the surrounding towns of Blooming Grove, Hamptonburgh and New Windsor. Wikipedia",
@@ -149,6 +137,12 @@
             "Hours ": [
                 "Queen Anne Style architecture (Great Britain & Australia)"
             ]
+        },
+        "Portland Public Library": {
+            "label": "Portland Public Library",
+            "description": "",
+            "type": "",
+            "People also search for": []
         },
         "Auraria Library": {
             "label": "Auraria Library",
@@ -179,11 +173,6 @@
             ],
             "People also search for": []
         },
-        "Hong Kong Central Library": {
-            "label": "Hong Kong Central Library",
-            "description": "Hong Kong Central Library is the largest and the main library of Hong Kong, it functions similar as a National Library. It is located at the intersection of Moreton Terrace and Causeway Road in Causeway Bay. Wikipedia",
-            "type": ""
-        },
         "Glasgow University Library": {
             "label": "Glasgow University Library",
             "description": "The University of Glasgow Library is one of the oldest and largest University libraries in Europe. It holds more than 2.5 million books and journals, as well as providing access to an extensive range ... Wikipedia",
@@ -202,6 +191,17 @@
             "label": "Harvard University LibraryHarvard University",
             "description": "The Harvard Library system comprises about 73 libraries, with more than 18 million volumes. It is the oldest library system in the United States, the largest academic and the largest private library system in the world. Wikipedia",
             "type": "Public Library System",
+            "People also search for": []
+        },
+        "Hong Kong Central Library": {
+            "label": "Hong Kong Central Library",
+            "description": "Hong Kong Central Library is the largest and the main library of Hong Kong, it functions similar as a National Library. It is located at the intersection of Moreton Terrace and Causeway Road in Causeway Bay. Wikipedia",
+            "type": ""
+        },
+        "J. Willard Marriott Library": {
+            "label": "J. Willard Marriott Library",
+            "description": "",
+            "type": "",
             "People also search for": []
         },
         "Jagiellonian Library": {
@@ -225,16 +225,16 @@
             ],
             "People also search for": []
         },
-        "J. Willard Marriott Library": {
-            "label": "J. Willard Marriott Library",
-            "description": "",
-            "type": "",
-            "People also search for": []
-        },
         "King Township Public Library": {
             "label": "King Township Public Library",
             "description": "The King Township Public Library is a public library system that serves King Township, Ontario in Canada. It consists of four branches located in King City, Nobleton, Schomberg, and Ansnorveldt. Wikipedia",
             "type": "Public Library System"
+        },
+        "Library of Virginia": {
+            "label": "Library of Virginia",
+            "description": "",
+            "type": "",
+            "People also search for": []
         },
         "Lawson McGhee Public Library": {
             "label": "Lawson McGhee Library",
@@ -256,11 +256,15 @@
             "type": "",
             "People also search for": []
         },
-        "Library of Virginia": {
-            "label": "Library of Virginia",
-            "description": "",
-            "type": "",
-            "People also search for": []
+        "Milwaukee Public Library": {
+            "label": "Milwaukee Public Library",
+            "description": "Milwaukee Public Library is the public library system in Milwaukee, Wisconsin, United States, consisting of a central library and 12 branches, all part of the Milwaukee County Federated Library System. Wikipedia",
+            "type": "Public Library System"
+        },
+        "National Library of China": {
+            "label": "National Library of China",
+            "description": "The National Library of China or NLC in Beijing is the largest library in Asia, and one of the largest in the world with a collection of over 26.3 million volumes of books by 2007. Wikipedia",
+            "type": "Public Library System"
         },
         "Luis Ángel Arango Library": {
             "label": "Luis Ángel Arango Library",
@@ -278,16 +282,6 @@
             ],
             "People also search for": []
         },
-        "Milwaukee Public Library": {
-            "label": "Milwaukee Public Library",
-            "description": "Milwaukee Public Library is the public library system in Milwaukee, Wisconsin, United States, consisting of a central library and 12 branches, all part of the Milwaukee County Federated Library System. Wikipedia",
-            "type": "Public Library System"
-        },
-        "National Library of China": {
-            "label": "National Library of China",
-            "description": "The National Library of China or NLC in Beijing is the largest library in Asia, and one of the largest in the world with a collection of over 26.3 million volumes of books by 2007. Wikipedia",
-            "type": "Public Library System"
-        },
         "National and University Library of Slovenia": {
             "label": "National and University Library of Slovenia",
             "description": "The National and University Library, established in 1774, is one of the most important national educational and cultural institutions of Slovenia. Wikipedia",
@@ -298,17 +292,6 @@
             ],
             "Recent posts": []
         },
-        "Newcastle University Library": {
-            "label": "Newcastle University Library",
-            "description": "Newcastle University Library is the main library service for students and staff at Newcastle University, UK. Wikipedia",
-            "type": "",
-            "Address ": [
-                "Jesmond Rd W",
-                " Newcastle upon Tyne",
-                " Tyne and Wear NE2 4HQ",
-                " United Kingdom"
-            ]
-        },
         "Northwestern University Library": {
             "label": "Northwestern University Library",
             "description": "Northwestern University Library is the principal library for the Evanston campus of Northwestern University. The library holds 4.6 million volumes, making it the 11th largest library at a private university. Wikipedia",
@@ -318,6 +301,17 @@
                 " Evanston",
                 " IL 60208",
                 " United States"
+            ]
+        },
+        "Newcastle University Library": {
+            "label": "Newcastle University Library",
+            "description": "Newcastle University Library is the main library service for students and staff at Newcastle University, UK. Wikipedia",
+            "type": "",
+            "Address ": [
+                "Jesmond Rd W",
+                " Newcastle upon Tyne",
+                " Tyne and Wear NE2 4HQ",
+                " United Kingdom"
             ]
         },
         "Ocean County Library": {
@@ -426,6 +420,18 @@
             ],
             "People also search for": []
         },
+        "Yale University Library": {
+            "label": "Yale University Library",
+            "description": "Yale University Library is the library system of Yale University in New Haven, Connecticut, United States. It is the second-largest academic library in North America, with approximately 12.5 million volumes housed in 20 buildings on campus. Wikipedia",
+            "type": "",
+            "Address ": [
+                "4 Bristol St",
+                " New Haven",
+                " CT 06511",
+                " United States"
+            ],
+            "People also search for": []
+        },
         "National Library of Estonia": {
             "label": "National Library of Estonia",
             "description": "The National Library of Estonia is a national public institution in Estonia, which operates pursuant to the National Library of Estonia Act. It was established as the parliamentary library of Estonia on December 21, 1918. Wikipedia",
@@ -438,18 +444,6 @@
                 " 10119 Harjumaa",
                 " Estonia"
             ]
-        },
-        "Yale University Library": {
-            "label": "Yale University Library",
-            "description": "Yale University Library is the library system of Yale University in New Haven, Connecticut, United States. It is the second-largest academic library in North America, with approximately 12.5 million volumes housed in 20 buildings on campus. Wikipedia",
-            "type": "",
-            "Address ": [
-                "4 Bristol St",
-                " New Haven",
-                " CT 06511",
-                " United States"
-            ],
-            "People also search for": []
         },
         "Avril Robarts LRC": {
             "label": "Avril Robarts LRC",
@@ -474,28 +468,10 @@
             ],
             "People also search for": []
         },
-        "Mário de Andrade Library": {
-            "label": "Mário de Andrade Library",
-            "description": "The Mário de Andrade Library is the largest public library in the city of São Paulo, Brazil. Founded in 1925, with a donation of holdings by the library of the city's Câmara Municipal, it became one ... Wikipedia",
+        "National Library of New Zealand": {
+            "label": "National Library",
+            "description": "",
             "type": "",
-            "Address ": [
-                "Rua da Consolação",
-                " São Paulo - SP",
-                " 01302-000",
-                " Brazil"
-            ]
-        },
-        "Library of the Russian Academy of Sciences": {
-            "label": "Library of the Russian Academy of Sciences",
-            "description": "The Library of the Russian Academy of Sciences is a large state-owned Russian library based in Saint Petersburg on Vasilievsky Island and open to employees of institutions of the Russian Academy of Sciences and scholars with higher education. Wikipedia",
-            "type": "Building in Russia",
-            "Address ": [
-                "Birzhevaya liniya",
-                " 1",
-                " St Petersburg",
-                " Russia",
-                " 199034"
-            ],
             "People also search for": []
         },
         "New York Public Library": {
@@ -512,6 +488,19 @@
                 "James Lenox"
             ],
             "Upcoming events": []
+        },
+        "Library of the Russian Academy of Sciences": {
+            "label": "Library of the Russian Academy of Sciences",
+            "description": "The Library of the Russian Academy of Sciences is a large state-owned Russian library based in Saint Petersburg on Vasilievsky Island and open to employees of institutions of the Russian Academy of Sciences and scholars with higher education. Wikipedia",
+            "type": "Building in Russia",
+            "Address ": [
+                "Birzhevaya liniya",
+                " 1",
+                " St Petersburg",
+                " Russia",
+                " 199034"
+            ],
+            "People also search for": []
         },
         "Project Gutenberg": {
             "label": "Project Gutenberg",
@@ -563,17 +552,6 @@
             "Founders ": [
                 "Pavlo Skoropadskyi",
                 " Vladimir Vernadsky"
-            ]
-        },
-        "Alpena County Library": {
-            "label": "Alpena County Library",
-            "description": "Alpena County Library is a public library in Alpena, Michigan, United States. Wikipedia",
-            "type": "",
-            "Address ": [
-                "211 N First Ave",
-                " Alpena",
-                " MI 49707",
-                " United States"
             ]
         },
         "Doheny Library": {
@@ -701,6 +679,17 @@
                 " United States"
             ]
         },
+        "Alpena County Library": {
+            "label": "Alpena County Library",
+            "description": "Alpena County Library is a public library in Alpena, Michigan, United States. Wikipedia",
+            "type": "",
+            "Address ": [
+                "211 N First Ave",
+                " Alpena",
+                " MI 49707",
+                " United States"
+            ]
+        },
         "National Library of Kuwait": {
             "label": "National Library of Kuwait",
             "description": "The National Library of Kuwait is the national library and legal deposit and copyright library for Kuwait. The library was established in 1923. Wikipedia",
@@ -726,6 +715,17 @@
                 "Porfirio Pardal Monteiro"
             ],
             "People also search for": []
+        },
+        "Mário de Andrade Library": {
+            "label": "Mário de Andrade Library",
+            "description": "The Mário de Andrade Library is the largest public library in the city of São Paulo, Brazil. Founded in 1925, with a donation of holdings by the library of the city's Câmara Municipal, it became one ... Wikipedia",
+            "type": "",
+            "Address ": [
+                "Rua da Consolação",
+                " São Paulo - SP",
+                " 01302-000",
+                " Brazil"
+            ]
         },
         "Austrian National Library": {
             "label": "Austrian National Library",
@@ -755,6 +755,12 @@
             "Hours ": [
                 "(860) 695-6300"
             ]
+        },
+        "Hubbard Free Library": {
+            "label": "Hubbard Free Library",
+            "description": "",
+            "type": "",
+            "People also search for": []
         },
         "IUPUI University Library": {
             "label": "IUPUI University Library",
@@ -806,12 +812,6 @@
             "description": "The National Library of Korea is located in Seoul, South Korea and was established in 1945. It houses over 9.18 million volumes, including over 1,134,000 foreign books and some of the National Treasures of South Korea. Wikipedia",
             "type": "Public Library System"
         },
-        "Hubbard Free Library": {
-            "label": "Hubbard Free Library",
-            "description": "",
-            "type": "",
-            "People also search for": []
-        },
         "National and University Library in Zagreb": {
             "label": "National and University Library in Zagreb",
             "description": "National and University Library in Zagreb is the national library of Croatia and central library of the University of Zagreb.\nThe Library was established in 1607. Wikipedia",
@@ -821,11 +821,6 @@
                 "1607"
             ],
             "People also search for": []
-        },
-        "University of Michigan Library": {
-            "label": "University of Michigan Library",
-            "description": "The University of Michigan Library is the university library system of the University of Michigan, based in Ann Arbor, Michigan, in the United States.\nThe University of Michigan Library ranks in the top ten largest libraries in the United States. Wikipedia",
-            "type": ""
         },
         "State Library of New South Wales": {
             "label": "State Library of New South Wales",
@@ -848,6 +843,11 @@
             ],
             "People also search for": []
         },
+        "University of Michigan Library": {
+            "label": "University of Michigan Library",
+            "description": "The University of Michigan Library is the university library system of the University of Michigan, based in Ann Arbor, Michigan, in the United States.\nThe University of Michigan Library ranks in the top ten largest libraries in the United States. Wikipedia",
+            "type": ""
+        },
         "Zentralbibliothek der TU und UdK Berlin": {
             "label": "Zentralbibliothek der TU und UdK Berlin",
             "description": "The University Library of the TU Berlin and UdK is the central library of the Berlin Institute of Technology and the Berlin University of the Arts. It is located in the Fasanenstraße, Berlin. Wikipedia",
@@ -866,29 +866,38 @@
         }
     },
     "summary": {
-        "label": 77,
-        "description": 77,
-        "type": 77,
-        "address": 1,
-        "people_also_search_for": 1,
-        "hours": 1,
-        "phone": 1,
-        "founder": 1,
-        "founded": 1,
-        "upcoming_events": 1,
-        "see_results_about": 1,
-        "opened": 1,
-        "recent_posts": 1,
-        "architectural_style": 1,
-        "function": 1,
-        "tax_id": 1,
-        "assets": 1,
-        "income": 1,
-        "tax_deductibility_code": 1,
-        "construction_started": 1,
-        "founders": 1,
-        "area": 1,
-        "architect": 1
+        "label": {
+            "uri": "http://dbpedia.org/property/label",
+            "count": 77
+        },
+        "description": {
+            "uri": "http://dbpedia.org/property/description",
+            "count": 77
+        },
+        "type": {
+            "uri": "http://dbpedia.org/property/type",
+            "count": 77
+        },
+        "address": {
+            "uri": "http://dbpedia.org/property/address",
+            "count": 48
+        },
+        "phone": {
+            "uri": "http://dbpedia.org/property/phone",
+            "count": 11
+        },
+        "architecturalStyle": {
+            "uri": "http://dbpedia.org/property/architecturalStyle",
+            "count": 1
+        },
+        "area": {
+            "uri": "http://dbpedia.org/property/area",
+            "count": 1
+        },
+        "architect": {
+            "uri": "http://dbpedia.org/property/architect",
+            "count": 1
+        }
     },
     "infoboxless": [
         "Allegheny County Library Association",
@@ -914,5 +923,22 @@
         "Innisfil Public Library",
         "LeRoy Public Library",
         "Oakland Public Library (Oakland, Maine)"
-    ]
+    ],
+    "Unmapped_Properties": {
+        "peopleAlsoSearchFor": 1,
+        "hours": 1,
+        "founder": 1,
+        "founded": 1,
+        "upcomingEvents": 1,
+        "seeResultsAbout": 1,
+        "opened": 1,
+        "recentPosts": 1,
+        "function": 1,
+        "taxId": 1,
+        "assets": 1,
+        "income": 1,
+        "taxDeductibilityCode": 1,
+        "constructionStarted": 1,
+        "founders": 1
+    }
 }

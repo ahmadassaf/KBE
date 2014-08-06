@@ -12,26 +12,32 @@
             "type": "",
             "See results about": []
         },
-        "Cilk": {
-            "label": "Cilk",
-            "description": "Cilk is a general-purpose programming language designed for multithreaded parallel computing. The C++ incarnation is called Cilk Plus. Wikipedia",
-            "type": "",
-            "Related topics": []
-        },
         "Croma": {
             "label": "Cromā",
             "description": "Cromā is an Indian retail chain for consumer electronics and durables. Tata Group company Infiniti Retail runs Cromā stores in India. Infiniti Retail Ltd is a 100% subsidiary of TATA Sons. Presently, there are a total of 71 Cromā stores in India. Wikipedia",
             "type": "",
             "People also search for": []
+        },
+        "Cilk": {
+            "label": "Cilk",
+            "description": "Cilk is a general-purpose programming language designed for multithreaded parallel computing. The C++ incarnation is called Cilk Plus. Wikipedia",
+            "type": "",
+            "Related topics": []
         }
     },
     "summary": {
-        "label": 4,
-        "description": 4,
-        "type": 4,
-        "see_results_about": 1,
-        "related_topics": 1,
-        "people_also_search_for": 1
+        "label": {
+            "uri": "http://www.w3.org/2000/01/rdf-schema#label",
+            "count": 4
+        },
+        "description": {
+            "uri": "http://dbpedia.org/property/description",
+            "count": 4
+        },
+        "type": {
+            "uri": "http://dbpedia.org/property/type",
+            "count": 4
+        }
     },
     "infoboxless": [
         "ABC (programming language)",
@@ -130,5 +136,10 @@
         "CPL (programming language)",
         "Claire (programming language)",
         "E (programming language)"
-    ]
+    ],
+    "Unmapped_Properties": {
+        "seeResultsAbout": 1,
+        "peopleAlsoSearchFor": 1,
+        "relatedTopics": 1
+    }
 }

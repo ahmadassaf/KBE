@@ -1,16 +1,5 @@
 {
     "instances": {
-        "Ænima": {
-            "label": "Ænima",
-            "description": "Ænima is the second full-length studio album by American rock band Tool. It was released in vinyl format on September 17, 1996 and in compact disc format on October 1, 1996 through Zoo Entertainment. Wikipedia",
-            "type": "",
-            "Release date ": "September 17, 1996",
-            "Artist ": [
-                "Tool"
-            ],
-            "Songs": [],
-            "People also search for": []
-        },
         "Ágætis byrjun": {
             "label": "Ágætis byrjun",
             "description": "Ágætis byrjun is the second album by the Icelandic post-rock band Sigur Rós, which was released in 1999. Wikipedia",
@@ -21,6 +10,17 @@
             ],
             "Label ": [
                 "[PIAS] America"
+            ],
+            "Songs": [],
+            "People also search for": []
+        },
+        "Ænima": {
+            "label": "Ænima",
+            "description": "Ænima is the second full-length studio album by American rock band Tool. It was released in vinyl format on September 17, 1996 and in compact disc format on October 1, 1996 through Zoo Entertainment. Wikipedia",
+            "type": "",
+            "Release date ": "September 17, 1996",
+            "Artist ": [
+                "Tool"
             ],
             "Songs": [],
             "People also search for": []
@@ -615,15 +615,16 @@
             ],
             "Songs": []
         },
-        "Analogue (album)": {
-            "label": "Analogue",
-            "description": "Analogue is the eighth studio album by the Norwegian band A-ha, released in 2005. Four singles were also released from this record. Wikipedia",
+        "An American Prayer": {
+            "label": "An American Prayer",
+            "description": "An American Prayer is the ninth and final studio album by the Doors. In 1978, seven years after lead singer Jim Morrison died and five years after the remaining members of the band broke up, Ray Manzarek, ... Wikipedia",
             "type": "",
-            "Release date ": "November 4, 2005",
+            "Release date ": "November 17, 1978",
             "Artist ": [
-                "A-ha"
+                "The Doors"
             ],
-            "Songs": []
+            "Songs": [],
+            "The Doors albums": []
         },
         "An Introduction to Syd Barrett": {
             "label": "An Introduction to Syd Barrett",
@@ -639,16 +640,15 @@
             ],
             "Songs": []
         },
-        "An American Prayer": {
-            "label": "An American Prayer",
-            "description": "An American Prayer is the ninth and final studio album by the Doors. In 1978, seven years after lead singer Jim Morrison died and five years after the remaining members of the band broke up, Ray Manzarek, ... Wikipedia",
+        "Analogue (album)": {
+            "label": "Analogue",
+            "description": "Analogue is the eighth studio album by the Norwegian band A-ha, released in 2005. Four singles were also released from this record. Wikipedia",
             "type": "",
-            "Release date ": "November 17, 1978",
+            "Release date ": "November 4, 2005",
             "Artist ": [
-                "The Doors"
+                "A-ha"
             ],
-            "Songs": [],
-            "The Doors albums": []
+            "Songs": []
         },
         "Another Green World": {
             "label": "Another Green World",
@@ -760,16 +760,6 @@
             ],
             "Songs": []
         },
-        "Awesome as Fuck": {
-            "label": "Awesome as F**k",
-            "description": "Awesome as Fuck is a live album by the American punk rock band Green Day. The album was released on March 22, 2011 through Reprise Records. Wikipedia",
-            "type": "",
-            "Release date ": "March 22, 2011",
-            "Artist ": [
-                "Green Day"
-            ],
-            "Songs": []
-        },
         "Auswärtsspiel": {
             "label": "Auswärtsspiel",
             "description": "Auswärtsspiel is the ninth studio album by the German punk band Die Toten Hosen. This is one of the favourite albums for the band. The album is much more personal than previous albums. Wikipedia",
@@ -788,6 +778,26 @@
             "Songs": [],
             "People also search for": []
         },
+        "Awesome as Fuck": {
+            "label": "Awesome as F**k",
+            "description": "Awesome as Fuck is a live album by the American punk rock band Green Day. The album was released on March 22, 2011 through Reprise Records. Wikipedia",
+            "type": "",
+            "Release date ": "March 22, 2011",
+            "Artist ": [
+                "Green Day"
+            ],
+            "Songs": []
+        },
+        "B'Boom: Live in Argentina": {
+            "label": "B'Boom Live in Argentina",
+            "description": "B'Boom Live in Argentina is a live album by the band King Crimson, released in 1995. All songs were recorded between October 6 and October 16, 1994 at the Broadway in Buenos Aires, Argentina, except for \"Heartbeat\" which was recorded in Córdoba. Wikipedia",
+            "type": "",
+            "Release date ": "August 22, 1995",
+            "Artist ": [
+                "King Crimson"
+            ],
+            "Songs": []
+        },
         "Baby I'm-a Want You": {
             "label": "Baby I'm-A Want You",
             "description": "Baby I'm-a Want You was the fourth album by Bread, released in 1972. Its singles included the title cut, \"Everything I Own\", \"Mother Freedom\",and \"Diary\". This was the first Bread album to feature keyboards player Larry Knechtel. Wikipedia",
@@ -800,16 +810,6 @@
             ],
             "Songs": [],
             "Bread albums": []
-        },
-        "B'Boom: Live in Argentina": {
-            "label": "B'Boom Live in Argentina",
-            "description": "B'Boom Live in Argentina is a live album by the band King Crimson, released in 1995. All songs were recorded between October 6 and October 16, 1994 at the Broadway in Buenos Aires, Argentina, except for \"Heartbeat\" which was recorded in Córdoba. Wikipedia",
-            "type": "",
-            "Release date ": "August 22, 1995",
-            "Artist ": [
-                "King Crimson"
-            ],
-            "Songs": []
         },
         "Back to the Heavyweight Jam": {
             "label": "Back to the Heavyweight Jam",
@@ -835,32 +835,62 @@
         }
     },
     "summary": {
-        "label": 5,
-        "description": 65,
-        "type": 65,
-        "release_date": 1,
-        "artist": 1,
-        "songs": 1,
-        "people_also_search_for": 1,
-        "labels": 1,
-        "sublime_albums": 1,
-        "initial_release": 1,
-        "directors": 1,
-        "running_time": 1,
-        "sequel": 1,
-        "genres": 1,
-        "cast": 1,
-        "related_albums_by_lou_reed": 1,
-        "artists": 1,
-        "awards": 1,
-        "see_results_about": 1,
-        "the_doors_albums": 1,
-        "active_from": 1,
-        "origin": 1,
-        "members": 1,
-        "record_labels": 1,
-        "children_of_bodom_albums": 1,
-        "bread_albums": 1
+        "label": {
+            "uri": "http://dbpedia.org/property/label",
+            "count": 86
+        },
+        "description": {
+            "uri": "http://purl.org/dc/elements/1.1/description",
+            "count": 65
+        },
+        "type": {
+            "uri": "http://dbpedia.org/property/type",
+            "count": 65
+        },
+        "releaseDate": {
+            "uri": "http://dbpedia.org/property/releaseDate",
+            "count": 63
+        },
+        "artist": {
+            "uri": "http://dbpedia.org/property/artist",
+            "count": 59
+        },
+        "labels": {
+            "uri": "http://dbpedia.org/property/labels",
+            "count": 8
+        },
+        "directors": {
+            "uri": "http://dbpedia.org/property/directors",
+            "count": 1
+        },
+        "runningTime": {
+            "uri": "http://dbpedia.org/property/runningTime",
+            "count": 1
+        },
+        "genres": {
+            "uri": "http://dbpedia.org/property/genres",
+            "count": 1
+        },
+        "cast": {
+            "uri": "http://dbpedia.org/property/cast",
+            "count": 1
+        },
+        "artists": {
+            "uri": "http://dbpedia.org/property/artists",
+            "count": 4
+        },
+        "awards": {
+            "uri": "http://dbpedia.org/property/awards",
+            "count": 3
+        },
+        "origin": {
+            "uri": "http://dbpedia.org/property/origin",
+            "count": 1
+        },
+        "members": {
+            "uri": "http://dbpedia.org/property/members",
+            "count": 1
+        }
     },
     "infoboxless": [
         "\"The Take Over, the Breaks Over\"",
@@ -898,5 +928,19 @@
         "Bad as Me (song)",
         "Ballad of the Green Berets",
         "Balls to the Wall"
-    ]
+    ],
+    "Unmapped_Properties": {
+        "songs": 1,
+        "peopleAlsoSearchFor": 1,
+        "sublimeAlbums": 1,
+        "initialRelease": 1,
+        "sequel": 1,
+        "relatedAlbumsByLouReed": 1,
+        "seeResultsAbout": 1,
+        "theDoorsAlbums": 1,
+        "activeFrom": 1,
+        "recordLabels": 1,
+        "childrenOfBodomAlbums": 1,
+        "breadAlbums": 1
+    }
 }

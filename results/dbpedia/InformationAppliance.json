@@ -19,11 +19,11 @@
             ],
             "Recent posts": []
         },
-        "Colossus computer": {
-            "label": "Colossus computer",
-            "description": "Colossus was the world's first electronic digital computer that was at all programmable. The Colossus computers were developed for British codebreakers during World War II to help in the cryptanalysis of the Lorenz cipher. Wikipedia",
+        "Power Glove": {
+            "label": "Power Glove",
+            "description": "The Power Glove is a controller accessory for the Nintendo Entertainment System. The Power Glove was not popular and was criticized for its imprecise and difficult-to-use controls. Wikipedia",
             "type": "",
-            "Related topics": []
+            "See results about": []
         },
         "General Electric": {
             "label": "General Electric",
@@ -50,11 +50,11 @@
             ],
             "Recent posts": []
         },
-        "Power Glove": {
-            "label": "Power Glove",
-            "description": "The Power Glove is a controller accessory for the Nintendo Entertainment System. The Power Glove was not popular and was criticized for its imprecise and difficult-to-use controls. Wikipedia",
+        "Colossus computer": {
+            "label": "Colossus computer",
+            "description": "Colossus was the world's first electronic digital computer that was at all programmable. The Colossus computers were developed for British codebreakers during World War II to help in the cryptanalysis of the Lorenz cipher. Wikipedia",
             "type": "",
-            "See results about": []
+            "Related topics": []
         },
         "RedHat": {
             "label": "Red Hat Software",
@@ -79,18 +79,22 @@
         }
     },
     "summary": {
-        "label": 5,
-        "description": 5,
-        "type": 5,
-        "stock_price": 1,
-        "headquarters": 1,
-        "founder": 1,
-        "founded": 1,
-        "recent_posts": 1,
-        "related_topics": 1,
-        "ceo": 1,
-        "founders": 1,
-        "see_results_about": 1
+        "label": {
+            "uri": "http://dbpedia.org/property/label",
+            "count": 5
+        },
+        "description": {
+            "uri": "http://dbpedia.org/property/description",
+            "count": 5
+        },
+        "type": {
+            "uri": "http://dbpedia.org/property/type",
+            "count": 5
+        },
+        "founder": {
+            "uri": "http://dbpedia.org/property/founder",
+            "count": 1
+        }
     },
     "infoboxless": [
         "JBoss application server",
@@ -188,5 +192,15 @@
         "Microtan 65",
         "Sony Ericsson Xperia Play",
         "GP32"
-    ]
+    ],
+    "Unmapped_Properties": {
+        "stockPrice": 1,
+        "headquarters": 1,
+        "founded": 1,
+        "recentPosts": 1,
+        "seeResultsAbout": 1,
+        "ceo": 1,
+        "founders": 1,
+        "relatedTopics": 1
+    }
 }

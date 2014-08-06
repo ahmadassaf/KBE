@@ -1,8 +1,8 @@
 {
     "instances": {
-        "1950 Indianapolis 500": {
-            "label": "1950 Indianapolis 500",
-            "description": "The 34th International 500-Mile Sweepstakes was held at the Indianapolis Motor Speedway on Tuesday, May 30, 1950. The event was part of the 1950 AAA National Championship Trail. Wikipedia",
+        "1983 Monaco Grand Prix": {
+            "label": "1983 Monaco Grand Prix",
+            "description": "The 1983 Monaco Grand Prix was a Formula One motor race held at Monaco on 15 May 1983.\nThe race was won by Keke Rosberg, driving a Williams. His son Nico Rosberg, won the 2013 race, becoming the first father and son to win in the principality. Wikipedia",
             "type": "",
             "See results about": []
         },
@@ -18,18 +18,26 @@
             "type": "",
             "See results about": []
         },
-        "1983 Monaco Grand Prix": {
-            "label": "1983 Monaco Grand Prix",
-            "description": "The 1983 Monaco Grand Prix was a Formula One motor race held at Monaco on 15 May 1983.\nThe race was won by Keke Rosberg, driving a Williams. His son Nico Rosberg, won the 2013 race, becoming the first father and son to win in the principality. Wikipedia",
+        "1950 Indianapolis 500": {
+            "label": "1950 Indianapolis 500",
+            "description": "The 34th International 500-Mile Sweepstakes was held at the Indianapolis Motor Speedway on Tuesday, May 30, 1950. The event was part of the 1950 AAA National Championship Trail. Wikipedia",
             "type": "",
             "See results about": []
         }
     },
     "summary": {
-        "label": 4,
-        "description": 4,
-        "type": 4,
-        "see_results_about": 1
+        "label": {
+            "uri": "http://www.w3.org/2000/01/rdf-schema#label",
+            "count": 4
+        },
+        "description": {
+            "uri": "http://dbpedia.org/property/description",
+            "count": 4
+        },
+        "type": {
+            "uri": "http://dbpedia.org/ontology/type",
+            "count": 4
+        }
     },
     "infoboxless": [
         "1906 French Grand Prix",
@@ -128,5 +136,8 @@
         "1984 Detroit Grand Prix",
         "1985 Belgian Grand Prix",
         "1985 Brazilian Grand Prix"
-    ]
+    ],
+    "Unmapped_Properties": {
+        "seeResultsAbout": 1
+    }
 }

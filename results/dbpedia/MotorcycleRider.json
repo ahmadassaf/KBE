@@ -1,5 +1,13 @@
 {
     "instances": {
+        "Bob Anderson (racing driver)": {
+            "label": "Bob Anderson",
+            "description": "Robert Hugh Fearon \"Bob\" Anderson was a Grand Prix motorcycle road racer and racing driver from England. He competed in Grand Prix motorcycle racing from 1958 to 1960 and in Formula One from 1963 to the 1967 seasons. Wikipedia",
+            "type": "Race car driver",
+            "Born ": "May 19, 1931, Hendon, London, United Kingdom",
+            "Died ": "August 14, 1967, Northampton, United Kingdom",
+            "People also search for": []
+        },
         "Mike Hailwood": {
             "label": "Mike Hailwood",
             "description": "Stanley Michael Bailey Hailwood, MBE, GM was a British Grand Prix motorcycle road racer regarded by many as one of the greatest racers of all time. Wikipedia",
@@ -9,14 +17,6 @@
             "Education ": [
                 "Pangbourne College"
             ],
-            "People also search for": []
-        },
-        "Bob Anderson (racing driver)": {
-            "label": "Bob Anderson",
-            "description": "Robert Hugh Fearon \"Bob\" Anderson was a Grand Prix motorcycle road racer and racing driver from England. He competed in Grand Prix motorcycle racing from 1958 to 1960 and in Formula One from 1963 to the 1967 seasons. Wikipedia",
-            "type": "Race car driver",
-            "Born ": "May 19, 1931, Hendon, London, United Kingdom",
-            "Died ": "August 14, 1967, Northampton, United Kingdom",
             "People also search for": []
         },
         "Ben Drinkwater": {
@@ -36,6 +36,12 @@
                 "Brighton College (1977–1980)"
             ],
             "People also search for": []
+        },
+        "Michael Gibson (TV presenter)": {
+            "label": "Michael Gibson",
+            "description": "Michael Gibson is a TV presenter and documentary director. He presented the MTV Select television program which aired weekday afternoons on MTV across Europe. Wikipedia",
+            "type": "TV presenter",
+            "Born ": "October 29, 1980 (age 33), Blackburn, United Kingdom"
         },
         "Jorge Lorenzo": {
             "label": "Jorge Lorenzo",
@@ -68,12 +74,6 @@
             "Died ": "October 7, 2007, Kawasaki, Kanagawa Prefecture, Japan",
             "People also search for": []
         },
-        "Michael Gibson (TV presenter)": {
-            "label": "Michael Gibson",
-            "description": "Michael Gibson is a TV presenter and documentary director. He presented the MTV Select television program which aired weekday afternoons on MTV across Europe. Wikipedia",
-            "type": "TV presenter",
-            "Born ": "October 29, 1980 (age 33), Blackburn, United Kingdom"
-        },
         "Shunji Yatsushiro": {
             "label": "Shunji Yatsushiro",
             "description": "Shunji Yatsushiro is a former Grand Prix motorcycle road racer from Japan. He began his Grand Prix career in 1986. He enjoyed his best season in 1987 when he finished the season in ninth place in the 500cc world championship. Wikipedia",
@@ -81,18 +81,18 @@
             "Born ": "August 26, 1960 (age 53), Japan",
             "People also search for": []
         },
-        "Eddie Lawson": {
-            "label": "Eddie Lawson",
-            "description": "Eddie Lawson is a former four-time Grand Prix motorcycle racing World Champion. His penchant for not crashing and consistently finishing in the points earned him the nickname \"Steady Eddie\". Wikipedia",
-            "type": "Race car driver",
-            "Born ": "March 11, 1958 (age 56), Upland, California, United States",
-            "People also search for": []
-        },
         "Carlo Ubbiali": {
             "label": "Carlo Ubbiali",
             "description": "Carlo Ubbiali is an Italian nine-time World Champion motorcycle road racer. In the 1950s, he was a dominant force in the smaller classes of Grand Prix motorcycle racing. Wikipedia",
             "type": "",
             "Born ": "September 22, 1929 (age 84), Bergamo, Italy",
+            "People also search for": []
+        },
+        "Eddie Lawson": {
+            "label": "Eddie Lawson",
+            "description": "Eddie Lawson is a former four-time Grand Prix motorcycle racing World Champion. His penchant for not crashing and consistently finishing in the points earned him the nickname \"Steady Eddie\". Wikipedia",
+            "type": "Race car driver",
+            "Born ": "March 11, 1958 (age 56), Upland, California, United States",
             "People also search for": []
         },
         "Freddie Frith": {
@@ -173,6 +173,13 @@
             "Born ": "June 17, 1964 (age 49), Biberach an der Riss, Germany",
             "People also search for": []
         },
+        "John Kocinski": {
+            "label": "John Kocinski",
+            "description": "John Kocinski is a retired Grand Prix motorcycle road racer whose successes include winning the 1990 250cc World Championship, and the 1997 Superbike World Championship title. Wikipedia",
+            "type": "",
+            "Born ": "March 20, 1968 (age 46), Little Rock, Arkansas, United States",
+            "People also search for": []
+        },
         "Marc Márquez": {
             "label": "Marc Márquez",
             "description": "Marc Márquez i Alentà is a Spanish Grand Prix motorcycle road racer and current MotoGP world champion. Wikipedia",
@@ -196,13 +203,6 @@
             ],
             "Recent posts": []
         },
-        "Esteve Rabat": {
-            "label": "Esteve Rabat",
-            "description": "Esteve \"Tito\" Rabat Bergada is a Spanish motorcycle racer who currently competes in the Moto2 class in the Motorcycle World championship. He started racing professionally in 2005, and made his Grand Prix début at that season's Valencian Grand Prix. Wikipedia",
-            "type": "",
-            "Born ": "May 25, 1989 (age 24), Barcelona, Spain",
-            "People also search for": []
-        },
         "Niklas Ajo": {
             "label": "Niklas Ajo",
             "description": "Niklas Ajo is a Finnish Grand Prix motorcycle racer, and the 2009 champion of the Finnish 125GP Championship. Ajo has also competed in the Red Bull MotoGP Rookies Cup and the Spanish 125GP Championship. Wikipedia",
@@ -217,11 +217,11 @@
             "Born ": "October 30, 1986 (age 27), Värnamo, Sweden",
             "People also search for": []
         },
-        "John Kocinski": {
-            "label": "John Kocinski",
-            "description": "John Kocinski is a retired Grand Prix motorcycle road racer whose successes include winning the 1990 250cc World Championship, and the 1997 Superbike World Championship title. Wikipedia",
+        "Esteve Rabat": {
+            "label": "Esteve Rabat",
+            "description": "Esteve \"Tito\" Rabat Bergada is a Spanish motorcycle racer who currently competes in the Moto2 class in the Motorcycle World championship. He started racing professionally in 2005, and made his Grand Prix début at that season's Valencian Grand Prix. Wikipedia",
             "type": "",
-            "Born ": "March 20, 1968 (age 46), Little Rock, Arkansas, United States",
+            "Born ": "May 25, 1989 (age 24), Barcelona, Spain",
             "People also search for": []
         },
         "Joan Lascorz": {
@@ -244,18 +244,18 @@
                 " John McPhee"
             ]
         },
-        "Paul Thorp": {
-            "label": "Paul Thorp",
-            "description": "Paul Thorp is a motorcycle speedway rider won the World Team Cup with England in 1989. Wikipedia",
-            "type": "",
-            "Born ": "September 9, 1964 (age 49), Macclesfield, United Kingdom",
-            "People also search for": []
-        },
         "Les Collins": {
             "label": "Les Collins",
             "description": "Leslie 'Les' Collins is a former speedway rider. He finished runner-up in the 1982 Speedway World Championship as well as winning the Intercontinental Final in 1982, the British Under-21 Championship ... Wikipedia",
             "type": "",
             "Born ": "May 24, 1958 (age 55), Manchester, United Kingdom",
+            "People also search for": []
+        },
+        "Paul Thorp": {
+            "label": "Paul Thorp",
+            "description": "Paul Thorp is a motorcycle speedway rider won the World Team Cup with England in 1989. Wikipedia",
+            "type": "",
+            "Born ": "September 9, 1964 (age 49), Macclesfield, United Kingdom",
             "People also search for": []
         },
         "Simon Nielsen (speedway rider)": {
@@ -275,13 +275,6 @@
                 " United Kingdom"
             ]
         },
-        "Kalle Katajisto": {
-            "label": "Kalle Katajisto",
-            "description": "Kalle Katajisto is a Finnish motorcycle speedway rider who is a member of the Finnish national team. He rode in the UK for the Edinburgh Monarchs. Wikipedia",
-            "type": "",
-            "Born ": "April 24, 1991 (age 22)",
-            "People also search for": []
-        },
         "Frédéric Protat": {
             "label": "Frédéric Protat",
             "description": "Frédéric Protat is a retired French motorcycle racing driver.\nIn 1991, he was the French superbike Champion in the 250 cc category.\nHis friend with the same first name, Frédéric Provost was helping him during his motorcycle lessons at the beginning. Wikipedia",
@@ -291,11 +284,25 @@
             ],
             "People also search for": []
         },
+        "Kalle Katajisto": {
+            "label": "Kalle Katajisto",
+            "description": "Kalle Katajisto is a Finnish motorcycle speedway rider who is a member of the Finnish national team. He rode in the UK for the Edinburgh Monarchs. Wikipedia",
+            "type": "",
+            "Born ": "April 24, 1991 (age 22)",
+            "People also search for": []
+        },
         "Kim Nilsson": {
             "label": "Kim Nilsson",
             "description": "Kim Nilsson is a Swedish motorcycle speedway rider who won bronze medal in the 2008 Team U-21 World Championship. Wikipedia",
             "type": "",
             "Born ": "February 4, 1990 (age 24)",
+            "People also search for": []
+        },
+        "Glyn Taylor": {
+            "label": "Glyn Taylor",
+            "description": "Glyn Clifford Taylor is an Australian former motorcycle speedway rider, who went on to a career building and curating speedway tracks, tuning engines, and in speedway promotion and team management. Wikipedia",
+            "type": "Motorcycle Racer",
+            "Born ": "August 24, 1953 (age 60), Cardiff, United Kingdom",
             "People also search for": []
         },
         "Arthur Wheeler (motorcyclist)": {
@@ -306,18 +313,11 @@
             "Died ": "June 16, 2001",
             "People also search for": []
         },
-        "Glyn Taylor": {
-            "label": "Glyn Taylor",
-            "description": "Glyn Clifford Taylor is an Australian former motorcycle speedway rider, who went on to a career building and curating speedway tracks, tuning engines, and in speedway promotion and team management. Wikipedia",
-            "type": "Motorcycle Racer",
-            "Born ": "August 24, 1953 (age 60), Cardiff, United Kingdom",
-            "People also search for": []
-        },
-        "Brian Crutcher": {
-            "label": "Brian Crutcher",
-            "description": "Brian Crutcher is a former international speedway rider who finished second at the 1954 Speedway World Championship finals. Wikipedia",
+        "Jordan Frampton": {
+            "label": "Jordan Frampton",
+            "description": "Jordan Frampton was a motorcycle speedway rider from Great Britain. Wikipedia",
             "type": "",
-            "Born ": "August 23, 1934 (age 79), Parkstone, United Kingdom",
+            "Born ": "March 8, 1985 (age 29), Poole, United Kingdom",
             "People also search for": []
         },
         "Emil Sayfutdinov": {
@@ -325,13 +325,6 @@
             "description": "Emil Damirovich Sayfutdinov is a Russian motorcycle speedway rider and member of the Russian national teams. He won the 2007 and 2008 Under-21 World Championship. He is a permanent rider of the 2010 Speedway Grand Prix. Wikipedia",
             "type": "",
             "Born ": "October 26, 1989 (age 24), Salavat, Russia",
-            "People also search for": []
-        },
-        "Jordan Frampton": {
-            "label": "Jordan Frampton",
-            "description": "Jordan Frampton was a motorcycle speedway rider from Great Britain. Wikipedia",
-            "type": "",
-            "Born ": "March 8, 1985 (age 29), Poole, United Kingdom",
             "People also search for": []
         },
         "Max Neukirchner": {
@@ -346,6 +339,13 @@
             "description": "Sébastien Charpentier is a French motorcycle road racer. He is the only man to have won the Supersport World Championship in successive years, 2005 and 2006.\nHe made his debut in 1996, when he won the France Honda CB500 Cup. Wikipedia",
             "type": "Motorcycle racer",
             "Born ": "March 26, 1973 (age 41), La Rochefoucauld, Charente, France",
+            "People also search for": []
+        },
+        "Brian Crutcher": {
+            "label": "Brian Crutcher",
+            "description": "Brian Crutcher is a former international speedway rider who finished second at the 1954 Speedway World Championship finals. Wikipedia",
+            "type": "",
+            "Born ": "August 23, 1934 (age 79), Parkstone, United Kingdom",
             "People also search for": []
         },
         "Yukio Kagayama": {
@@ -433,13 +433,6 @@
             "Born ": "May 28, 1948 (age 65), Netherlands",
             "People also search for": []
         },
-        "Randy de Puniet": {
-            "label": "Randy de Puniet",
-            "description": "Randy de Puniet is a French Grand Prix motorcycle road racer. He is currently racing for the Power Electronics Aspar team in MotoGP, having raced in this class regularly since 2006. Wikipedia",
-            "type": "",
-            "Born ": "February 14, 1981 (age 33), Maisons-Laffitte, France",
-            "People also search for": []
-        },
         "Michael Rutter (motorcycle racer)": {
             "label": "Michael Rutter",
             "description": "Michael Karl Rutter nicknamed \"The Blade\", is a British motorcycle racer. He has a reputation for being at his best in wet conditions and his favourite circuit is Oulton Park. Wikipedia",
@@ -448,6 +441,13 @@
             "Parents ": [
                 "Tony Rutter"
             ],
+            "People also search for": []
+        },
+        "Randy de Puniet": {
+            "label": "Randy de Puniet",
+            "description": "Randy de Puniet is a French Grand Prix motorcycle road racer. He is currently racing for the Power Electronics Aspar team in MotoGP, having raced in this class regularly since 2006. Wikipedia",
+            "type": "",
+            "Born ": "February 14, 1981 (age 33), Maisons-Laffitte, France",
             "People also search for": []
         },
         "Inge Stoll": {
@@ -474,20 +474,6 @@
             ],
             "People also search for": []
         },
-        "Salvador Cañellas": {
-            "label": "Salvador Cañellas",
-            "description": "Salvador Cañellas is a former Grand Prix motorcycle road racer and rally car racer from Spain. He had his best year in 1970 when he finished fourth in the 50cc world championship. Wikipedia",
-            "type": "",
-            "Born ": "December 1, 1944 (age 69), Spain",
-            "People also search for": []
-        },
-        "Stefan Dörflinger": {
-            "label": "Stefan Dörflinger",
-            "description": "Stefan Dörflinger is a Swiss former Grand Prix motorcycle road racer.\nDörflinger won four consecutive FIM road racing world championships. In 1982 and 1983, he was the 50 cc world champion. Wikipedia",
-            "type": "",
-            "Born ": "December 23, 1948 (age 65), Nagold, Germany",
-            "People also search for": []
-        },
         "Ron Haslam": {
             "label": "Ron Haslam",
             "description": "Ronald Haslam is a British former Grand Prix motorcycle road racer who has been racing for over thirty years, winning three World titles, four British championships and having ridden in almost 110 GPs. Wikipedia",
@@ -498,6 +484,13 @@
             ],
             "People also search for": []
         },
+        "Stefan Dörflinger": {
+            "label": "Stefan Dörflinger",
+            "description": "Stefan Dörflinger is a Swiss former Grand Prix motorcycle road racer.\nDörflinger won four consecutive FIM road racing world championships. In 1982 and 1983, he was the 50 cc world champion. Wikipedia",
+            "type": "",
+            "Born ": "December 23, 1948 (age 65), Nagold, Germany",
+            "People also search for": []
+        },
         "Alex Hofmann": {
             "label": "Alex Hofmann",
             "description": "Alexander Hofmann is a retired Grand Prix motorcycle racer, who now works on German television coverage of the sport. He is nicknamed 'The Hoff' in English-speaking countries, a nod to David Hasselhoff. Wikipedia",
@@ -505,14 +498,11 @@
             "Born ": "May 24, 1980 (age 33), Mindelheim, Germany",
             "People also search for": []
         },
-        "Ernesto Brambilla": {
-            "label": "Ernesto Brambilla",
-            "description": "Ernesto 'Tino' Brambilla is a former Grand Prix motorcycle road racer and a professional race car driver from Italy. Born in Monza, he was the brother of driver Vittorio Brambilla. Wikipedia",
-            "type": "Race car driver",
-            "Born ": "January 31, 1934 (age 80), Monza, Italy",
-            "Siblings ": [
-                "Vittorio Brambilla"
-            ],
+        "Salvador Cañellas": {
+            "label": "Salvador Cañellas",
+            "description": "Salvador Cañellas is a former Grand Prix motorcycle road racer and rally car racer from Spain. He had his best year in 1970 when he finished fourth in the 50cc world championship. Wikipedia",
+            "type": "",
+            "Born ": "December 1, 1944 (age 69), Spain",
             "People also search for": []
         },
         "Jack Findlay": {
@@ -530,13 +520,13 @@
             "Born ": "March 13, 1934 (age 80), Johannesburg, South Africa",
             "People also search for": []
         },
-        "Kenny Roberts, Jr.": {
-            "label": "Kenny Roberts, Jr.",
-            "description": "Kenneth Leroy Roberts Junior is a former American motorcycle road racer who won the 500cc Road Racing World Championship in 2000. He joins his father Kenny Roberts, as the only father - son duo to have won 500cc World Championships. Wikipedia",
-            "type": "",
-            "Born ": "July 25, 1973 (age 40), Mountain View, California, United States",
-            "Parents ": [
-                "Kenny Roberts"
+        "Ernesto Brambilla": {
+            "label": "Ernesto Brambilla",
+            "description": "Ernesto 'Tino' Brambilla is a former Grand Prix motorcycle road racer and a professional race car driver from Italy. Born in Monza, he was the brother of driver Vittorio Brambilla. Wikipedia",
+            "type": "Race car driver",
+            "Born ": "January 31, 1934 (age 80), Monza, Italy",
+            "Siblings ": [
+                "Vittorio Brambilla"
             ],
             "People also search for": []
         },
@@ -557,11 +547,14 @@
             ],
             "People also search for": []
         },
-        "Alfredo Milani": {
-            "label": "Alfredo Milani",
-            "description": "Alfredo Milani was an Italian Grand Prix motorcycle road racer. His best year was in 1951 when he won two Grand Prix races and finished second to Geoff Duke in the 500cc world championship. Milani rode for the Gilera factory for his entire career. Wikipedia",
+        "Kenny Roberts, Jr.": {
+            "label": "Kenny Roberts, Jr.",
+            "description": "Kenneth Leroy Roberts Junior is a former American motorcycle road racer who won the 500cc Road Racing World Championship in 2000. He joins his father Kenny Roberts, as the only father - son duo to have won 500cc World Championships. Wikipedia",
             "type": "",
-            "Born ": "January 6, 1924 (age 90), Garbagnate Milanese, Italy",
+            "Born ": "July 25, 1973 (age 40), Mountain View, California, United States",
+            "Parents ": [
+                "Kenny Roberts"
+            ],
             "People also search for": []
         },
         "Conor Cummins": {
@@ -579,32 +572,18 @@
             "Died ": "March 1, 1980",
             "People also search for": []
         },
+        "Alfredo Milani": {
+            "label": "Alfredo Milani",
+            "description": "Alfredo Milani was an Italian Grand Prix motorcycle road racer. His best year was in 1951 when he won two Grand Prix races and finished second to Geoff Duke in the 500cc world championship. Milani rode for the Gilera factory for his entire career. Wikipedia",
+            "type": "",
+            "Born ": "January 6, 1924 (age 90), Garbagnate Milanese, Italy",
+            "People also search for": []
+        },
         "Phil Vance": {
             "label": "Phil Vance",
             "description": "Philip Howard \"Phil\" Vance is a British former motorcycle speedway rider.\nBorn in Cardiff, Vance was signed by King's Lynn Stars in the late 1970s, riding in their successful Anglia Junior League team ... Wikipedia",
             "type": "",
             "Born ": "November 23, 1962 (age 51), Cardiff, United Kingdom",
-            "People also search for": []
-        },
-        "Joe Owen": {
-            "label": "Joe Owen",
-            "description": "Joseph William \"Joe\" Owen is a British former motorcycle speedway rider.\nBorn in Ormskirk, Owen took up speedway at the age of fourteen at the training school at Belle Vue and made his competitive debut ... Wikipedia",
-            "type": "",
-            "Born ": "September 13, 1956 (age 57), Ormskirk, United Kingdom",
-            "People also search for": []
-        },
-        "Zoltán Adorján": {
-            "label": "Zoltán Adorján",
-            "description": "Zoltán Adorján is former international motorcycle speedway rider who appeared in two Speedway World Championship finals and finished third in the World Pairs Championship in 1990. Wikipedia",
-            "type": "",
-            "Born ": "November 15, 1961 (age 52), Debrecen, Hungary",
-            "People also search for": []
-        },
-        "Cameron Donald": {
-            "label": "Cameron Donald",
-            "description": "Cameron Donald is a professional motorcycle racer who has raced at the Macau Grand Prix, the North West 200 and the Isle of Man TT Races. He lives in Warrandyte, Victoria in Australia. During the racing season Cameron lives in Northern Ireland. Wikipedia",
-            "type": "Motorcycle Racer",
-            "Born ": "September 28, 1977 (age 36), Melbourne, Australia",
             "People also search for": []
         },
         "Andrew Lawson (motorcycle racer)": {
@@ -616,11 +595,32 @@
                 " Australia"
             ]
         },
+        "Zoltán Adorján": {
+            "label": "Zoltán Adorján",
+            "description": "Zoltán Adorján is former international motorcycle speedway rider who appeared in two Speedway World Championship finals and finished third in the World Pairs Championship in 1990. Wikipedia",
+            "type": "",
+            "Born ": "November 15, 1961 (age 52), Debrecen, Hungary",
+            "People also search for": []
+        },
         "Kevin Magee (motorcycle racer)": {
             "label": "Kevin Magee",
             "description": "Kevin Magee is an Australian former Grand Prix motorcycle road racer who raced in 36 grands prix during his career, winning the 1988 Spanish Grand Prix. He is currently a television commentator for Fox Sports Australia. Wikipedia",
             "type": "Motorcycle racer",
             "Born ": "July 16, 1962 (age 51), Australia",
+            "People also search for": []
+        },
+        "Joe Owen": {
+            "label": "Joe Owen",
+            "description": "Joseph William \"Joe\" Owen is a British former motorcycle speedway rider.\nBorn in Ormskirk, Owen took up speedway at the age of fourteen at the training school at Belle Vue and made his competitive debut ... Wikipedia",
+            "type": "",
+            "Born ": "September 13, 1956 (age 57), Ormskirk, United Kingdom",
+            "People also search for": []
+        },
+        "Cameron Donald": {
+            "label": "Cameron Donald",
+            "description": "Cameron Donald is a professional motorcycle racer who has raced at the Macau Grand Prix, the North West 200 and the Isle of Man TT Races. He lives in Warrandyte, Victoria in Australia. During the racing season Cameron lives in Northern Ireland. Wikipedia",
+            "type": "Motorcycle Racer",
+            "Born ": "September 28, 1977 (age 36), Melbourne, Australia",
             "People also search for": []
         },
         "Kouki Takahashi": {
@@ -641,6 +641,13 @@
             "Born ": "April 17, 1994 (age 19), Lanciano, Italy",
             "People also search for": []
         },
+        "Pierfrancesco Chili": {
+            "label": "Pierfrancesco Chili",
+            "description": "Pierfrancesco 'Frankie' Chili, is a motorcycle racer who has raced in the Superbike World Championship and the 250cc and 500cc classes in Grand Prix. In World Superbike he had a record number of starts, as well as 10 poles and 17 wins. Wikipedia",
+            "type": "",
+            "Born ": "June 20, 1964 (age 49), Bologna, Italy",
+            "People also search for": []
+        },
         "Martin Glossop": {
             "label": "Martin Glossop",
             "description": "Martin Glossop is a Grand Prix motorcycle racer from the United Kingdom. Wikipedia",
@@ -655,13 +662,6 @@
                 " Grégory Di Carlo"
             ]
         },
-        "Pierfrancesco Chili": {
-            "label": "Pierfrancesco Chili",
-            "description": "Pierfrancesco 'Frankie' Chili, is a motorcycle racer who has raced in the Superbike World Championship and the 250cc and 500cc classes in Grand Prix. In World Superbike he had a record number of starts, as well as 10 poles and 17 wins. Wikipedia",
-            "type": "",
-            "Born ": "June 20, 1964 (age 49), Bologna, Italy",
-            "People also search for": []
-        },
         "Rafał Dobrucki": {
             "label": "Rafał Dobrucki",
             "description": "Rafał Dobrucki is a Polish speedway rider who was a permanent rider in 2000 Speedway Grand Prix. Wikipedia",
@@ -675,13 +675,6 @@
             "type": "",
             "Born ": "December 29, 1952 (age 61), Norrköping, Sweden"
         },
-        "Bruno Spaggiari": {
-            "label": "Bruno Spaggiari",
-            "description": "Bruno Spaggiari is a former Italian Grand Prix motorcycle road racer. His best year was in 1960 when he finished fourth in the 125cc world championship. Wikipedia",
-            "type": "",
-            "Born ": "January 11, 1933 (age 81), Italy",
-            "People also search for": []
-        },
         "John Newbold": {
             "label": "John Newbold",
             "description": "John Newbold was a former Grand Prix motorcycle road racer. His best season was in 1976 when he finished in fifth place in the 500cc world championship riding a Suzuki motorcycle. Wikipedia",
@@ -690,11 +683,11 @@
             "Died ": "May 15, 1982",
             "People also search for": []
         },
-        "Thomas H. Jonasson": {
-            "label": "Thomas H. Jonasson",
-            "description": "Thomas Hjelm Jonasson is an international motorcycle speedway rider, who won the Premier League and the Premier Trophy with the Edinburgh Monarchs in 2008. Wikipedia",
+        "Bruno Spaggiari": {
+            "label": "Bruno Spaggiari",
+            "description": "Bruno Spaggiari is a former Italian Grand Prix motorcycle road racer. His best year was in 1960 when he finished fourth in the 125cc world championship. Wikipedia",
             "type": "",
-            "Born ": "November 27, 1988 (age 25), Vetlanda, Sweden",
+            "Born ": "January 11, 1933 (age 81), Italy",
             "People also search for": []
         },
         "Ila Teromaa": {
@@ -704,11 +697,25 @@
             "Born ": "September 3, 1953 (age 60), Tampere, Finland",
             "People also search for": []
         },
+        "Thomas H. Jonasson": {
+            "label": "Thomas H. Jonasson",
+            "description": "Thomas Hjelm Jonasson is an international motorcycle speedway rider, who won the Premier League and the Premier Trophy with the Edinburgh Monarchs in 2008. Wikipedia",
+            "type": "",
+            "Born ": "November 27, 1988 (age 25), Vetlanda, Sweden",
+            "People also search for": []
+        },
         "Jamie Hacking": {
             "label": "Jamie Hacking",
             "description": "Jamie Alexander Hacking, nicknamed The Hacker, is a professional motorcycle racer who has spent his entire career in the United States. He has chosen to sit out the 2010 due to limited options. Wikipedia",
             "type": "",
             "Born ": "April 20, 1980 (age 33), Oswaldtwistle, United Kingdom",
+            "People also search for": []
+        },
+        "Herri Torrontegui": {
+            "label": "Herri Torrontegui",
+            "description": "Herri Torrontegui, born April 19, 1967 in Gorliz, is a former Grand Prix motorcycle road racer from Spain. His best year was 1989, when he won two Grand Prix races and finished in fourth place in the 80cc world championship. Wikipedia",
+            "type": "",
+            "Born ": "April 19, 1967 (age 46), Gorliz, Spain",
             "People also search for": []
         },
         "Graziano Rossi": {
@@ -724,25 +731,11 @@
             ],
             "People also search for": []
         },
-        "Herri Torrontegui": {
-            "label": "Herri Torrontegui",
-            "description": "Herri Torrontegui, born April 19, 1967 in Gorliz, is a former Grand Prix motorcycle road racer from Spain. His best year was 1989, when he won two Grand Prix races and finished in fourth place in the 80cc world championship. Wikipedia",
-            "type": "",
-            "Born ": "April 19, 1967 (age 46), Gorliz, Spain",
-            "People also search for": []
-        },
         "Franz Zorn": {
             "label": "Franz Zorn",
             "description": "Franz Zorn is an Austrian ice speedway rider who was won Individual Ice Racing European Championship in 2008. Wikipedia",
             "type": "",
             "Born ": "August 30, 1970 (age 43), Saalfelden, Austria",
-            "People also search for": []
-        },
-        "William Lawson (speedway rider)": {
-            "label": "William Lawson",
-            "description": "William Lawson is former a Scottish speedway rider who rode with the Belle Vue Aces in the British Elite League. He ended his speedway career before the 2011 season. Wikipedia",
-            "type": "Speedway rider",
-            "Born ": "February 27, 1987 (age 27), Perth, United Kingdom",
             "People also search for": []
         },
         "Cal Crutchlow": {
@@ -772,11 +765,11 @@
             ],
             "People also search for": []
         },
-        "Franco Uncini": {
-            "label": "Franco Uncini",
-            "description": "Franco Uncini is an Italian former Grand Prix motorcycle road racing World Champion. Wikipedia",
-            "type": "",
-            "Born ": "March 9, 1955 (age 59), Recanati, Italy",
+        "William Lawson (speedway rider)": {
+            "label": "William Lawson",
+            "description": "William Lawson is former a Scottish speedway rider who rode with the Belle Vue Aces in the British Elite League. He ended his speedway career before the 2011 season. Wikipedia",
+            "type": "Speedway rider",
+            "Born ": "February 27, 1987 (age 27), Perth, United Kingdom",
             "People also search for": []
         },
         "Glen Richards": {
@@ -793,20 +786,19 @@
             "Born ": "January 5, 1944 (age 70), het Bildt, Netherlands",
             "People also search for": []
         },
+        "Franco Uncini": {
+            "label": "Franco Uncini",
+            "description": "Franco Uncini is an Italian former Grand Prix motorcycle road racing World Champion. Wikipedia",
+            "type": "",
+            "Born ": "March 9, 1955 (age 59), Recanati, Italy",
+            "People also search for": []
+        },
         "Libero Liberati": {
             "label": "Libero Liberati",
             "description": "Libero Liberati was an Italian motorcycle racer and the 1957 500cc Grand Prix World Champion.\nLiberati was born in Terni. He became famous in his country, winning the Italian championship in 1948. Wikipedia",
             "type": "",
             "Born ": "September 20, 1926, Terni, Italy",
             "Died ": "March 25, 1962, Terni, Italy",
-            "People also search for": []
-        },
-        "Jarno Saarinen": {
-            "label": "Jarno Saarinen",
-            "description": "Jarno Karl Keimo Saarinen was a Finnish Grand Prix motorcycle road racer. He is the only Finn to win a road racing world championship. Wikipedia",
-            "type": "",
-            "Born ": "December 11, 1945, Turku, Finland",
-            "Died ": "May 20, 1973, Monza, Italy",
             "People also search for": []
         },
         "Maria Costello": {
@@ -822,27 +814,33 @@
             "type": "",
             "Born ": "September 14, 1976 (age 37), Italy",
             "People also search for": []
+        },
+        "Jarno Saarinen": {
+            "label": "Jarno Saarinen",
+            "description": "Jarno Karl Keimo Saarinen was a Finnish Grand Prix motorcycle road racer. He is the only Finn to win a road racing world championship. Wikipedia",
+            "type": "",
+            "Born ": "December 11, 1945, Turku, Finland",
+            "Died ": "May 20, 1973, Monza, Italy",
+            "People also search for": []
         }
     },
     "summary": {
-        "label": 95,
-        "description": 95,
-        "type": 95,
-        "born": 1,
-        "died": 1,
-        "education": 1,
-        "people_also_search_for": 1,
-        "height": 1,
-        "weight": 1,
-        "career_start": 1,
-        "parents": 1,
-        "movies": 1,
-        "recent_posts": 1,
-        "siblings": 1,
-        "nationality": 1,
-        "spouse": 1,
-        "children": 1,
-        "nominations": 1
+        "label": {
+            "uri": "http://www.w3.org/2000/01/rdf-schema#label",
+            "count": 95
+        },
+        "description": {
+            "uri": "http://purl.org/dc/elements/1.1/description",
+            "count": 95
+        },
+        "type": {
+            "uri": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+            "count": 95
+        },
+        "nationality": {
+            "uri": "http://dbpedia.org/property/nationality",
+            "count": 2
+        }
     },
     "infoboxless": [
         "Julián Simón",
@@ -850,5 +848,21 @@
         "Georg Meier",
         "Bill Doran (motorcyclist)",
         "Michal Makovský"
-    ]
+    ],
+    "Unmapped_Properties": {
+        "born": 1,
+        "died": 1,
+        "peopleAlsoSearchFor": 1,
+        "education": 1,
+        "height": 1,
+        "weight": 1,
+        "careerStart": 1,
+        "parents": 1,
+        "movies": 1,
+        "recentPosts": 1,
+        "siblings": 1,
+        "spouse": 1,
+        "children": 1,
+        "nominations": 1
+    }
 }

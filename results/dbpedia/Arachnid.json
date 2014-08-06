@@ -70,13 +70,14 @@
             "description": "Bolas Spiders are unusual orb-weaver spiders that do not spin the typical web. Instead, they hunt by using a sticky 'capture blob' of silk on the end of a line, known as a 'bolas'. Wikipedia",
             "type": ""
         },
-        "Chilean rose tarantula": {
-            "label": "Chilean rose tarantula",
-            "description": "The Rose Hair Tarantula, also known in the United States as the Chilean rose tarantula, Chilean flame tarantula, Chilean fire tarantula or the Chilean red-haired tarantula, is probably the most common ... Wikipedia",
+        "Euscorpius": {
+            "label": "Euscorpius",
+            "description": "Euscorpius is a genus of scorpions, commonly called small wood-scorpions. It presently contains 17 species and is the type genus of the family Euscorpiidae - long included in the Chactidae - and the subfamily Euscorpiinae. Wikipedia",
             "type": "",
-            "Scientific name ": [
-                "Grammostola rosea"
-            ]
+            "Rank ": [
+                "Genus"
+            ],
+            "See results about": []
         },
         "Drassodes": {
             "label": "Drassodes",
@@ -92,14 +93,13 @@
                 "Ground spider"
             ]
         },
-        "Euscorpius": {
-            "label": "Euscorpius",
-            "description": "Euscorpius is a genus of scorpions, commonly called small wood-scorpions. It presently contains 17 species and is the type genus of the family Euscorpiidae - long included in the Chactidae - and the subfamily Euscorpiinae. Wikipedia",
+        "Chilean rose tarantula": {
+            "label": "Chilean rose tarantula",
+            "description": "The Rose Hair Tarantula, also known in the United States as the Chilean rose tarantula, Chilean flame tarantula, Chilean fire tarantula or the Chilean red-haired tarantula, is probably the most common ... Wikipedia",
             "type": "",
-            "Rank ": [
-                "Genus"
-            ],
-            "See results about": []
+            "Scientific name ": [
+                "Grammostola rosea"
+            ]
         },
         "Grammostola": {
             "label": "Grammostola",
@@ -109,6 +109,14 @@
                 "Genus"
             ],
             "See results about": []
+        },
+        "Ixodes ricinus": {
+            "label": "Ixodes ricinus",
+            "description": "Ixodes ricinus, the castor bean tick, is a chiefly European species of hard-bodied tick. It may reach a length of 11 mm when engorged with a blood meal, and can transmit both bacterial and viral pathogens ... Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Ixodes ricinus"
+            ]
         },
         "Hadrurus arizonensis": {
             "label": "Hadrurus arizonensis",
@@ -123,14 +131,16 @@
             "description": "Hydrachnidiae are a group of mites containing over 5,000 species found in freshwater habitat. Wikipedia",
             "type": ""
         },
-        "Metellina": {
-            "label": "Metellina",
-            "description": "Metellina is a genus of tetragnathid spiders that occurs mostly in Eurasia, with two species found in North America. M. segmentata was introduced to Canada.\nSome researchers consider this genus to belong to a distinct family, the Metidae. Wikipedia",
+        "Mesostigmata": {
+            "label": "Mesostigmata",
+            "description": "Mesostigmata is an order of mites belonging to the Parasitiformes. Unlike most members of that group, many of these mites are not parasitic but free-living and predatory. Wikipedia",
             "type": "",
-            "Rank ": [
-                "Genus"
+            "Scientific name ": [
+                "Mesostigmata"
             ],
-            "See results about": []
+            "Rank ": [
+                "Order"
+            ]
         },
         "Meta menardi": {
             "label": "Meta menardi",
@@ -139,6 +149,15 @@
             "Scientific name ": [
                 "Meta menardi"
             ]
+        },
+        "Metellina": {
+            "label": "Metellina",
+            "description": "Metellina is a genus of tetragnathid spiders that occurs mostly in Eurasia, with two species found in North America. M. segmentata was introduced to Canada.\nSome researchers consider this genus to belong to a distinct family, the Metidae. Wikipedia",
+            "type": "",
+            "Rank ": [
+                "Genus"
+            ],
+            "See results about": []
         },
         "Metellina segmentata": {
             "label": "Metellina segmentata",
@@ -332,6 +351,11 @@
             "description": "The crevice weaver spiders contain primitive cribellate spiders. They are haplogyne weavers of funnel or tube webs. The family contains 17 genera and more than hundred described species worldwide. Wikipedia",
             "type": ""
         },
+        "Cyatholipidae": {
+            "label": "Cyatholipidae",
+            "description": "The Cyatholipidae are a spider family with 58 described species in 23 genera.\nThey were discovered in the late 19th century in Africa. Cyatholipidae live mostly in moist, montane forests. Wikipedia",
+            "type": ""
+        },
         "Cybaeidae": {
             "label": "Cybaeidae",
             "description": "Cybaeidae is a family of spiders comprising twelve genera. Wikipedia",
@@ -348,11 +372,6 @@
             "Lower classifications ": [
                 "Argyroneta"
             ]
-        },
-        "Cyatholipidae": {
-            "label": "Cyatholipidae",
-            "description": "The Cyatholipidae are a spider family with 58 described species in 23 genera.\nThey were discovered in the late 19th century in Africa. Cyatholipidae live mostly in moist, montane forests. Wikipedia",
-            "type": ""
         },
         "Deinopidae": {
             "label": "Deinopidae",
@@ -529,37 +548,14 @@
             "description": "Malkaridae is a small spider family with ten species in four genera. Wikipedia",
             "type": ""
         },
-        "Mygalomorphae": {
-            "label": "Mygalomorphae",
-            "description": "The Mygalomorphae are an infraorder of spiders. The scientific name comes from the orientation of the fangs which point straight down and do not cross each other. Wikipedia",
-            "type": "Spider",
-            "Scientific name ": [
-                "Mygalomorphae"
-            ],
-            "Rank ": [
-                "Infraorder"
-            ],
-            "Higher classification ": [
-                "Opisthothelae"
-            ],
-            "Lower classifications ": [
-                "Fornicephalae",
-                " Tuberculotae"
-            ]
-        },
-        "Mysmenidae": {
-            "label": "Mysmenidae",
-            "description": "Mysmenidae is a spider family with almost 100 described species in more than twenty genera. Wikipedia",
+        "Nephilidae": {
+            "label": "Nephilidae",
+            "description": "The Nephilidae are a spider family with 75 described species in four genera. They were formerly grouped in the families Araneidae and Tetragnathidae. The genus Singafrotypa was moved to Araneidae in 2002. Wikipedia",
             "type": ""
         },
         "Nemesiidae": {
             "label": "Nemesiidae",
             "description": "The Nemesiidae are a spider family of the infraorder Mygalomorphae, and the only member of the superfamily Nemesioidea. They were formerly considered part of the Dipluridae family. Wikipedia",
-            "type": ""
-        },
-        "Nephilidae": {
-            "label": "Nephilidae",
-            "description": "The Nephilidae are a spider family with 75 described species in four genera. They were formerly grouped in the families Araneidae and Tetragnathidae. The genus Singafrotypa was moved to Araneidae in 2002. Wikipedia",
             "type": ""
         },
         "Oecobiidae": {
@@ -628,14 +624,14 @@
                 "Arachnid"
             ]
         },
-        "Philodromidae": {
-            "label": "Philodromidae",
-            "description": "Philodromidae is a family of spiders commonly known as philodromid crab spiders or running crab spiders. This family is superficially similar to the \"true\" crab spiders in the family Thomisidae. Wikipedia",
-            "type": ""
-        },
         "Paratropididae": {
             "label": "Paratropididae",
             "description": "The baldlegged spiders are a small spider family with eight species. They are mygalomomorphs more closely related to tarantulas and allies, than to most other 'web-building' spiders. Wikipedia",
+            "type": ""
+        },
+        "Philodromidae": {
+            "label": "Philodromidae",
+            "description": "Philodromidae is a family of spiders commonly known as philodromid crab spiders or running crab spiders. This family is superficially similar to the \"true\" crab spiders in the family Thomisidae. Wikipedia",
             "type": ""
         },
         "Pholcidae": {
@@ -657,14 +653,14 @@
             "description": "Plectreuridae, often called Plectreurid spiders, are a small spider family confined to the North American deserts and the island of Cuba. Only two living genera are known - the nominate genus Plectreurys and Kibramoa. Wikipedia",
             "type": ""
         },
-        "Psechridae": {
-            "label": "Psechridae",
-            "description": "The Psechridae are a family of spiders with about 50 species in two extant genera, recently revised by Bayer.\nThey belong to the \"RTA\" clade of spiders, spiders that all have a Retrolateral Tibial Apophysis on the male pedipalp. Wikipedia",
-            "type": ""
-        },
         "Prodidomidae": {
             "label": "Prodidomidae",
             "description": "The Prodidomidae are a spider family with about 300 species in 31 genera. They are sometimes called Long-Spinneret Ground Spiders.\nThis family is part of the superfamily Gnaphosoidea. Wikipedia",
+            "type": ""
+        },
+        "Psechridae": {
+            "label": "Psechridae",
+            "description": "The Psechridae are a family of spiders with about 50 species in two extant genera, recently revised by Bayer.\nThey belong to the \"RTA\" clade of spiders, spiders that all have a Retrolateral Tibial Apophysis on the male pedipalp. Wikipedia",
             "type": ""
         },
         "Ray spider": {
@@ -766,45 +762,53 @@
                 "Paratrechalea"
             ]
         },
-        "Tree trunk spider": {
-            "label": "Tree trunk spider",
-            "description": "The tree trunk spiders are members of the tropical and semi-tropical Family Hersiliidae. There are about 150 species in this family. These spiders have two very prominent spinnerets that are almost as long as their abdomen. Wikipedia",
-            "type": ""
-        },
         "Uloboridae": {
             "label": "Uloboridae",
             "description": "Uloboridae, the cribellate orb weavers or hackled orb weavers, is a family of non-venomous spiders. Their lack of venom glands is a secondarily evolved trait. Instead, they kill their prey by crushing with over 140 metres of thread. Wikipedia",
             "type": ""
         },
-        "Mesostigmata": {
-            "label": "Mesostigmata",
-            "description": "Mesostigmata is an order of mites belonging to the Parasitiformes. Unlike most members of that group, many of these mites are not parasitic but free-living and predatory. Wikipedia",
-            "type": "",
+        "Tree trunk spider": {
+            "label": "Tree trunk spider",
+            "description": "The tree trunk spiders are members of the tropical and semi-tropical Family Hersiliidae. There are about 150 species in this family. These spiders have two very prominent spinnerets that are almost as long as their abdomen. Wikipedia",
+            "type": ""
+        },
+        "Mysmenidae": {
+            "label": "Mysmenidae",
+            "description": "Mysmenidae is a spider family with almost 100 described species in more than twenty genera. Wikipedia",
+            "type": ""
+        },
+        "Mygalomorphae": {
+            "label": "Mygalomorphae",
+            "description": "The Mygalomorphae are an infraorder of spiders. The scientific name comes from the orientation of the fangs which point straight down and do not cross each other. Wikipedia",
+            "type": "Spider",
             "Scientific name ": [
-                "Mesostigmata"
+                "Mygalomorphae"
             ],
             "Rank ": [
-                "Order"
-            ]
-        },
-        "Ixodes ricinus": {
-            "label": "Ixodes ricinus",
-            "description": "Ixodes ricinus, the castor bean tick, is a chiefly European species of hard-bodied tick. It may reach a length of 11 mm when engorged with a blood meal, and can transmit both bacterial and viral pathogens ... Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Ixodes ricinus"
+                "Infraorder"
+            ],
+            "Higher classification ": [
+                "Opisthothelae"
+            ],
+            "Lower classifications ": [
+                "Fornicephalae",
+                " Tuberculotae"
             ]
         }
     },
     "summary": {
-        "label": 82,
-        "description": 82,
-        "type": 82,
-        "scientific_name": 1,
-        "rank": 1,
-        "lower_classifications": 1,
-        "see_results_about": 1,
-        "higher_classification": 1
+        "label": {
+            "uri": "http://www.w3.org/2000/01/rdf-schema#label",
+            "count": 82
+        },
+        "description": {
+            "uri": "http://fr.dbpedia.org/ontology/abstract",
+            "count": 82
+        },
+        "type": {
+            "uri": "http://dbpedia.org/property/type",
+            "count": 82
+        }
     },
     "infoboxless": [
         "Spintharus",
@@ -825,5 +829,12 @@
         "Spartaeinae",
         "Synaphridae",
         "Titanoecoidea"
-    ]
+    ],
+    "Unmapped_Properties": {
+        "scientificName": 1,
+        "rank": 1,
+        "lowerClassifications": 1,
+        "seeResultsAbout": 1,
+        "higherClassification": 1
+    }
 }

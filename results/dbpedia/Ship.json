@@ -48,23 +48,6 @@
                 " United Kingdom"
             ]
         },
-        "CSS Grampus": {
-            "label": "CSS Grampus",
-            "description": "CSS Grampus was a stern-wheel river steamer built in 1856 at McKeesport, Pennsylvania, for civilian employment. Taken by the Confederate Army in early 1862, she served as a scout boat and transport on the Mississippi River. Wikipedia",
-            "type": "Boat",
-            "Launched ": [
-                "1856"
-            ]
-        },
-        "CSS Virginia": {
-            "label": "CSS Virginia",
-            "description": "CSS Virginia was the first steam-powered ironclad warship built by the Confederate States Navy during the first year of the American Civil War; she was constructed as a casemate ironclad using the raised ... Wikipedia",
-            "type": "Ship",
-            "Length ": [
-                "275' (84 m)"
-            ],
-            "Launched ": "March 8, 1862"
-        },
         "Costa Voyager": {
             "label": "Costa Voyager",
             "description": "MS Costa Voyager îs a cruise ship that was sailing for Costa Crociere and was formerly owned by Royal Olympic Cruises and Ibero Cruises as Grand Voyager. Wikipedia",
@@ -74,6 +57,14 @@
             ],
             "Launched ": "July 14, 1999"
         },
+        "CSS Grampus": {
+            "label": "CSS Grampus",
+            "description": "CSS Grampus was a stern-wheel river steamer built in 1856 at McKeesport, Pennsylvania, for civilian employment. Taken by the Confederate Army in early 1862, she served as a scout boat and transport on the Mississippi River. Wikipedia",
+            "type": "Boat",
+            "Launched ": [
+                "1856"
+            ]
+        },
         "Esmeralda (BE-43)": {
             "label": "Esmeralda (BE-43)",
             "description": "The Esmeralda is a steel-hulled four-masted barquentine tall ship of the Chilean Navy. Wikipedia",
@@ -82,6 +73,15 @@
                 "1947"
             ],
             "Launched ": "May 12, 1953"
+        },
+        "CSS Virginia": {
+            "label": "CSS Virginia",
+            "description": "CSS Virginia was the first steam-powered ironclad warship built by the Confederate States Navy during the first year of the American Civil War; she was constructed as a casemate ironclad using the raised ... Wikipedia",
+            "type": "Ship",
+            "Length ": [
+                "275' (84 m)"
+            ],
+            "Launched ": "March 8, 1862"
         },
         "France II": {
             "label": "France II",
@@ -169,12 +169,6 @@
             ],
             "Launched ": "August 9, 1787"
         },
-        "French submarine Surcouf (N N 3)": {
-            "label": "French submarine Surcouf",
-            "description": "Surcouf was a French submarine ordered to be built in December 1927, launched on 18 October 1929, and commissioned in May 1934. Wikipedia",
-            "type": "",
-            "Launched ": "October 18, 1929"
-        },
         "French ironclad Gloire": {
             "label": "French ironclad Gloire",
             "description": "The French ironclad Gloire was the first ocean-going ironclad, launched in 1859. She was developed following the Crimean War, in response to new developments in naval gun technology, especially the ... Wikipedia",
@@ -190,6 +184,12 @@
             "Hull material ": [
                 "Steel"
             ]
+        },
+        "French submarine Surcouf (N N 3)": {
+            "label": "French submarine Surcouf",
+            "description": "Surcouf was a French submarine ordered to be built in December 1927, launched on 18 October 1929, and commissioned in May 1934. Wikipedia",
+            "type": "",
+            "Launched ": "October 18, 1929"
         },
         "GTS Finnjet": {
             "label": "GTS Finnjet",
@@ -218,19 +218,19 @@
             "type": "Königsberg class cruiser",
             "Launched ": "May 23, 1928"
         },
-        "German cruiser Königsberg": {
-            "label": "German cruiser Königsberg",
-            "description": "Königsberg was a German light cruiser that was operated between 1929 and April 1940, including service in World War II. She was the lead vessel of her class and was operated by two German navies, the Reichsmarine and the Kriegsmarine. Wikipedia",
-            "type": "Königsberg class cruiser",
-            "Construction started ": "April 12, 1926",
-            "Launched ": "March 26, 1927"
-        },
         "German destroyer Mölders (D186)": {
             "label": "German destroyer Mölders",
             "description": "D186 Mölders was a guided missile destroyer of the Bundesmarine and later the Deutsche Marine. It was the second ship of the Lütjens class, a modification of the Charles F. Adams class. Wikipedia",
             "type": "Ship",
             "Construction started ": "April 12, 1966",
             "Launched ": "April 13, 1967"
+        },
+        "German cruiser Königsberg": {
+            "label": "German cruiser Königsberg",
+            "description": "Königsberg was a German light cruiser that was operated between 1929 and April 1940, including service in World War II. She was the lead vessel of her class and was operated by two German navies, the Reichsmarine and the Kriegsmarine. Wikipedia",
+            "type": "Königsberg class cruiser",
+            "Construction started ": "April 12, 1926",
+            "Launched ": "March 26, 1927"
         },
         "German night fighter direction vessel Togo": {
             "label": "German night fighter direction vessel Togo",
@@ -377,6 +377,26 @@
                 "HMNB Portsmouth"
             ]
         },
+        "HMS Cumberland (57)": {
+            "label": "HMS Cumberland",
+            "description": "HMS Cumberland was a County class heavy cruiser of the Royal Navy that saw action during the Second World War. Wikipedia",
+            "type": "County-class cruiser",
+            "Construction started ": "October 18, 1924",
+            "Launched ": "March 16, 1926",
+            "Builder ": [
+                "Vickers-Armstrongs"
+            ]
+        },
+        "HMS Devonshire (39)": {
+            "label": "HMS Devonshire",
+            "description": "HMS Devonshire was a County-class heavy cruiser of the Royal Navy. Constructed at Devonport Dockyard, she was launched in 1927, and commissioned two years later. Wikipedia",
+            "type": "County-class cruiser",
+            "Construction started ": "March 16, 1926",
+            "Launched ": "October 22, 1927",
+            "Builder ": [
+                "HMNB Portsmouth"
+            ]
+        },
         "HMS Furious (47)": {
             "label": "HMS Furious",
             "description": "HMS Furious was a modified Courageous-class battlecruiser built for the Royal Navy during the First World War. Wikipedia",
@@ -394,15 +414,12 @@
                 "William Denny and Brothers"
             ]
         },
-        "HMS Devonshire (39)": {
-            "label": "HMS Devonshire",
-            "description": "HMS Devonshire was a County-class heavy cruiser of the Royal Navy. Constructed at Devonport Dockyard, she was launched in 1927, and commissioned two years later. Wikipedia",
-            "type": "County-class cruiser",
-            "Construction started ": "March 16, 1926",
-            "Launched ": "October 22, 1927",
-            "Builder ": [
-                "HMNB Portsmouth"
-            ]
+        "HMS Hermes (95)": {
+            "label": "HMS Hermes",
+            "description": "HMS Hermes was an aircraft carrier built for the Royal Navy. The ship was begun during World War I and finished after the war ended. Wikipedia",
+            "type": "Ship",
+            "Construction started ": "January 15, 1918",
+            "Launched ": "September 11, 1919"
         },
         "HMS Hood (1891)": {
             "label": "HMS Hood",
@@ -421,13 +438,6 @@
                 "Scotts Shipbuilding and Engineering Company"
             ]
         },
-        "HMS Hermes (95)": {
-            "label": "HMS Hermes",
-            "description": "HMS Hermes was an aircraft carrier built for the Royal Navy. The ship was begun during World War I and finished after the war ended. Wikipedia",
-            "type": "Ship",
-            "Construction started ": "January 15, 1918",
-            "Launched ": "September 11, 1919"
-        },
         "HMS Invincible (R05)": {
             "label": "HMS Invincible",
             "description": "HMS Invincible was the Royal Navy's lead ship of the three light aircraft carriers in her class. She was launched on 3 May 1977 as the seventh ship to carry the name. Wikipedia",
@@ -440,6 +450,13 @@
                 "Vickers Shipbuilding and Engineering"
             ]
         },
+        "HMS Lion (1910)": {
+            "label": "HMS Lion",
+            "description": "HMS Lion was a battlecruiser of the Royal Navy, the lead ship of her class, which were nicknamed the \"Splendid Cats\". They were significant improvements over their predecessors of the Indefatigable class in terms of speed, armament and armour. Wikipedia",
+            "type": "Lion-class battlecruiser",
+            "Construction started ": "November 29, 1909",
+            "Launched ": "August 6, 1910"
+        },
         "HMS London (69)": {
             "label": "HMS London",
             "description": "HMS London was a member of the second group of the County class heavy cruiser of the Royal Navy. She and her sisters; HMS Sussex, Shropshire, and Devonshire differed from the earlier group of Counties, ... Wikipedia",
@@ -449,13 +466,6 @@
             "Builder ": [
                 "HMNB Portsmouth"
             ]
-        },
-        "HMS Lion (1910)": {
-            "label": "HMS Lion",
-            "description": "HMS Lion was a battlecruiser of the Royal Navy, the lead ship of her class, which were nicknamed the \"Splendid Cats\". They were significant improvements over their predecessors of the Indefatigable class in terms of speed, armament and armour. Wikipedia",
-            "type": "Lion-class battlecruiser",
-            "Construction started ": "November 29, 1909",
-            "Launched ": "August 6, 1910"
         },
         "HMS Malaya": {
             "label": "HMS Malaya",
@@ -522,6 +532,13 @@
             "type": "Ship",
             "Launched ": "May 29, 1915"
         },
+        "HMS Royal Sovereign (05)": {
+            "label": "HMS Royal Sovereign",
+            "description": "HMS Royal Sovereign was a Revenge-class battleship of the Royal Navy displacing 28,000 metric tons and armed with eight 15-inch guns in four twin turrets. Wikipedia",
+            "type": "Ship",
+            "Construction started ": "January 15, 1914",
+            "Launched ": "April 29, 1915"
+        },
         "HMS Sheffield (D80)": {
             "label": "HMS Sheffield",
             "description": "HMS Sheffield was the second Royal Navy ship to be named after the city of Sheffield in Yorkshire. She was a Type 42 Guided Missile Destroyer laid down by Vickers Shipbuilding and Engineering at Barrow-in-Furness on 15 January 1970. Wikipedia",
@@ -531,13 +548,6 @@
             "Builder ": [
                 "Vickers Shipbuilding and Engineering"
             ]
-        },
-        "HMS Royal Sovereign (05)": {
-            "label": "HMS Royal Sovereign",
-            "description": "HMS Royal Sovereign was a Revenge-class battleship of the Royal Navy displacing 28,000 metric tons and armed with eight 15-inch guns in four twin turrets. Wikipedia",
-            "type": "Ship",
-            "Construction started ": "January 15, 1914",
-            "Launched ": "April 29, 1915"
         },
         "HMS Shropshire (73)": {
             "label": "HMS Shropshire",
@@ -633,13 +643,6 @@
                 "Fincantieri"
             ]
         },
-        "Italian cruiser Eugenio di Savoia": {
-            "label": "Italian cruiser Eugenio di Savoia",
-            "description": "Eugenio di Savoia was a Condottieri class light cruiser, which served in the Regia Marina during World War II. She survived the war but was given as a war reparation to the Hellenic Navy in 1947. She was renamed Elli and served until 1964. Wikipedia",
-            "type": "Ship",
-            "Construction started ": "July 6, 1933",
-            "Launched ": "March 16, 1935"
-        },
         "Italian aircraft carrier Sparviero": {
             "label": "Italian aircraft carrier Sparviero",
             "description": "Sparviero was an Italian aircraft carrier designed and built during World War II. She was originally the ocean liner MS Augustus. The conversion was started in 1942 and was almost completed, but the ship was never delivered to the Regia Marina. Wikipedia",
@@ -652,6 +655,13 @@
             "type": "Ship",
             "Construction started ": "June 6, 1909",
             "Launched ": "August 20, 1910"
+        },
+        "Italian cruiser Eugenio di Savoia": {
+            "label": "Italian cruiser Eugenio di Savoia",
+            "description": "Eugenio di Savoia was a Condottieri class light cruiser, which served in the Regia Marina during World War II. She survived the war but was given as a war reparation to the Hellenic Navy in 1947. She was renamed Elli and served until 1964. Wikipedia",
+            "type": "Ship",
+            "Construction started ": "July 6, 1933",
+            "Launched ": "March 16, 1935"
         },
         "Italian cruiser Gorizia": {
             "label": "Italian cruiser Gorizia",
@@ -672,15 +682,6 @@
             "Launched ": "February 5, 1931",
             "See results about": []
         },
-        "Italian training ship Amerigo Vespucci": {
-            "label": "Italian training ship Amerigo Vespucci",
-            "description": "The Amerigo Vespucci is a tall ship of the Marina Militare, named after the explorer Amerigo Vespucci. Its home port is La Spezia, Italy, and it is in use as a school ship. Wikipedia",
-            "type": "",
-            "Construction started ": [
-                "1930"
-            ],
-            "Launched ": "February 22, 1931"
-        },
         "Italian cruiser Raimondo Montecuccoli": {
             "label": "Italian cruiser Raimondo Montecuccoli",
             "description": "Raimondo Montecuccoli was a Condottieri-class light cruiser serving with the Italian Regia Marina during World War II. She survived the war and served in the post-war Marina Militare until 1964. Wikipedia",
@@ -695,19 +696,21 @@
             "Construction started ": "July 4, 1929",
             "Launched ": "April 27, 1930"
         },
+        "Italian training ship Amerigo Vespucci": {
+            "label": "Italian training ship Amerigo Vespucci",
+            "description": "The Amerigo Vespucci is a tall ship of the Marina Militare, named after the explorer Amerigo Vespucci. Its home port is La Spezia, Italy, and it is in use as a school ship. Wikipedia",
+            "type": "",
+            "Construction started ": [
+                "1930"
+            ],
+            "Launched ": "February 22, 1931"
+        },
         "Japanese aircraft carrier Kaiyo": {
             "label": "Japanese aircraft carrier Kaiyo",
             "description": "Kaiyo was an escort carrier operated by the Imperial Japanese Navy during World War II. The ship was originally built as the ocean liner Argentina Maru. Wikipedia",
             "type": "Ship",
             "Launched ": "December 9, 1938",
             "See results about": []
-        },
-        "Japanese cruiser Kinugasa": {
-            "label": "Japanese cruiser Kinugasa",
-            "description": "IJN Kinugasa was the second vessel in the two-vessel Aoba-class of heavy cruisers in the Imperial Japanese Navy. It was named after Mount Kinugasa, located in Yokosuka, Kanagawa, Japan. Wikipedia",
-            "type": "Aoba-class cruiser",
-            "Construction started ": "October 24, 1924",
-            "Launched ": "October 24, 1926"
         },
         "Japanese cruiser Furutaka": {
             "label": "Japanese cruiser Furutaka",
@@ -719,6 +722,13 @@
                 "Mitsubishi Heavy Industries",
                 " Ltd."
             ]
+        },
+        "Japanese cruiser Kinugasa": {
+            "label": "Japanese cruiser Kinugasa",
+            "description": "IJN Kinugasa was the second vessel in the two-vessel Aoba-class of heavy cruisers in the Imperial Japanese Navy. It was named after Mount Kinugasa, located in Yokosuka, Kanagawa, Japan. Wikipedia",
+            "type": "Aoba-class cruiser",
+            "Construction started ": "October 24, 1924",
+            "Launched ": "October 24, 1926"
         },
         "Japanese cruiser Nachi": {
             "label": "Japanese cruiser Nachi",
@@ -767,12 +777,6 @@
             "Construction started ": "December 1, 1924",
             "Launched ": "March 25, 1925"
         },
-        "Japanese seaplane carrier Wakamiya": {
-            "label": "Japanese seaplane carrier Wakamiya",
-            "description": "Wakamiya was a seaplane carrier of the Imperial Japanese Navy and the first Japanese aircraft carrier. She was converted from a transport ship into a seaplane carrier and commissioned in August 1914. Wikipedia",
-            "type": "Ship",
-            "Launched ": "September 21, 1900"
-        },
         "Japanese destroyer Shimakaze (1942)": {
             "label": "Japanese destroyer Shimakaze",
             "description": "Shimakaze was a one-off super-destroyer built for the Imperial Japanese Navy during World War II. She was armed with six 127 mm dual purpose guns and conventional anti-aircraft and anti-submarine weaponry. Wikipedia",
@@ -780,37 +784,42 @@
             "Construction started ": "August 8, 1941",
             "Launched ": "July 18, 1942"
         },
-        "HMS Cumberland (57)": {
-            "label": "HMS Cumberland",
-            "description": "HMS Cumberland was a County class heavy cruiser of the Royal Navy that saw action during the Second World War. Wikipedia",
-            "type": "County-class cruiser",
-            "Construction started ": "October 18, 1924",
-            "Launched ": "March 16, 1926",
-            "Builder ": [
-                "Vickers-Armstrongs"
-            ]
+        "Japanese seaplane carrier Wakamiya": {
+            "label": "Japanese seaplane carrier Wakamiya",
+            "description": "Wakamiya was a seaplane carrier of the Imperial Japanese Navy and the first Japanese aircraft carrier. She was converted from a transport ship into a seaplane carrier and commissioned in August 1914. Wikipedia",
+            "type": "Ship",
+            "Launched ": "September 21, 1900"
         }
     },
     "summary": {
-        "label": 86,
-        "description": 86,
-        "type": 86,
-        "launched": 1,
-        "construction_started": 1,
-        "builder": 1,
-        "place_built": 1,
-        "length": 1,
-        "hull_material": 1,
-        "see_results_about": 1,
-        "designer": 1,
-        "address": 1,
-        "hours": 1,
-        "owner": 1,
-        "people_also_search_for": 1,
-        "weight": 1,
-        "beam": 1,
-        "propulsion": 1,
-        "phone": 1
+        "label": {
+            "uri": "http://dbpedia.org/property/label",
+            "count": 86
+        },
+        "description": {
+            "uri": "http://dbpedia.org/property/description",
+            "count": 86
+        },
+        "type": {
+            "uri": "http://dbpedia.org/property/type",
+            "count": 86
+        },
+        "builder": {
+            "uri": "http://dbpedia.org/property/builder",
+            "count": 25
+        },
+        "length": {
+            "uri": "http://dbpedia.org/ontology/length",
+            "count": 4
+        },
+        "designer": {
+            "uri": "http://dbpedia.org/property/designer",
+            "count": 1
+        },
+        "owner": {
+            "uri": "http://dbpedia.org/property/owner",
+            "count": 2
+        }
     },
     "infoboxless": [
         "Batavia (ship)",
@@ -827,5 +836,19 @@
         "Japanese cruiser Yahagi (1942)",
         "Japanese destroyer Amagiri",
         "Japanese destroyer Asashio"
-    ]
+    ],
+    "Unmapped_Properties": {
+        "launched": 1,
+        "constructionStarted": 1,
+        "placeBuilt": 1,
+        "hullMaterial": 1,
+        "seeResultsAbout": 1,
+        "address": 1,
+        "hours": 1,
+        "peopleAlsoSearchFor": 1,
+        "weight": 1,
+        "beam": 1,
+        "propulsion": 1,
+        "phone": 1
+    }
 }

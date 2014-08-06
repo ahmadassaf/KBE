@@ -23,15 +23,18 @@
         }
     },
     "summary": {
-        "label": 1,
-        "description": 1,
-        "type": 1,
-        "nickname": 1,
-        "captain": 1,
-        "coach": 1,
-        "location": 1,
-        "league": 1,
-        "roster": 1
+        "label": {
+            "uri": "http://www.w3.org/2000/01/rdf-schema#label",
+            "count": 1
+        },
+        "description": {
+            "uri": "http://fr.dbpedia.org/ontology/abstract",
+            "count": 1
+        },
+        "type": {
+            "uri": "http://dbpedia.org/property/type",
+            "count": 1
+        }
     },
     "infoboxless": [
         "American Premier League",
@@ -42,5 +45,13 @@
         "Belize National Cricket Association",
         "State League",
         "Pro Cricket"
-    ]
+    ],
+    "Unmapped_Properties": {
+        "nickname": 1,
+        "captain": 1,
+        "coach": 1,
+        "location": 1,
+        "league": 1,
+        "roster": 1
+    }
 }

@@ -20,14 +20,30 @@
         }
     },
     "summary": {
-        "label": 1,
-        "description": 1,
-        "type": 1,
-        "founded": 1,
-        "arena/stadium": 1,
-        "manager": 1,
-        "league": 1,
-        "location": 1
+        "label": {
+            "uri": "http://dbpedia.org/property/label",
+            "count": 1
+        },
+        "description": {
+            "uri": "http://fr.dbpedia.org/ontology/abstract",
+            "count": 1
+        },
+        "type": {
+            "uri": "http://dbpedia.org/property/type",
+            "count": 1
+        },
+        "founded": {
+            "uri": "http://dbpedia.org/property/founded",
+            "count": 1
+        },
+        "manager": {
+            "uri": "http://dbpedia.org/property/manager",
+            "count": 1
+        },
+        "location": {
+            "uri": "http://dbpedia.org/property/location",
+            "count": 1
+        }
     },
     "infoboxless": [
         "Anglo-Scottish Cup",
@@ -38,16 +54,16 @@
         "Campeonato Carioca",
         "Campeonato Paulista",
         "Finland Volleyball League",
-        "Israeli Premier League",
         "Futsal-Liiga",
+        "Israeli Premier League",
         "Segunda División B",
         "West Bank Premier League",
         "Burkinabé Premier League",
         "Fußball-Bundesliga (women)",
         "Scottish Football League Third Division",
         "Toppserien",
-        "FA National Futsal League",
         "Danish Futsal Championship",
+        "FA National Futsal League",
         "Ipswich & Suffolk Youth Football League",
         "KSAFA Major League",
         "National Super League",
@@ -129,5 +145,9 @@
         "Amateur Football Combination",
         "American Indoor Football",
         "American Indoor Soccer League"
-    ]
+    ],
+    "Unmapped_Properties": {
+        "arena/stadium": 1,
+        "league": 1
+    }
 }

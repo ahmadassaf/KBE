@@ -1,13 +1,5 @@
 {
     "instances": {
-        "Église d'Auteuil (Paris Métro)": {
-            "label": "Église d'Auteuil",
-            "description": "Église d'Auteuil is a station of the Paris Métro in the 16th arrondissement, serving Line 10. With around 150,000 passengers per year, it is the least-used station on the Paris Métro network. Wikipedia",
-            "type": "",
-            "Address ": [
-                "France"
-            ]
-        },
         "\"Solidarity\" Szczecin-Goleniów Airport": {
             "label": "\"Solidarity\" Szczecin–Goleniów Airport",
             "description": "\"Solidarity\" Szczecin–Goleniów Airport is the main domestic and international airport serving the city of Szczecin in Poland and is located 45 km northeast of the city, near the town of Goleniów, in the village of Glewice. Wikipedia",
@@ -80,6 +72,22 @@
             ],
             "People also search for": []
         },
+        "A1 (Bosnia and Herzegovina)": {
+            "label": "A1",
+            "description": "The A1 motorway is a motorway in Bosnia and Herzegovina that is part of the Corridor Vc and, together with two Croatian motorways and the Hungarian M6, will provide a modern and fast road connection ... Wikipedia",
+            "type": "",
+            "Length ": [
+                "29.2 miles (47 km)"
+            ]
+        },
+        "Église d'Auteuil (Paris Métro)": {
+            "label": "Église d'Auteuil",
+            "description": "Église d'Auteuil is a station of the Paris Métro in the 16th arrondissement, serving Line 10. With around 150,000 passengers per year, it is the least-used station on the Paris Métro network. Wikipedia",
+            "type": "",
+            "Address ": [
+                "France"
+            ]
+        },
         "A1 (Croatia)": {
             "label": "A1",
             "description": "The A1 motorway is the longest motorway in Croatia, spanning 465.5 kilometers. As it connects Zagreb, the nation's capital, to Split, the second largest city in the country and the largest city in ... Wikipedia",
@@ -98,38 +106,6 @@
                 " Karlovac"
             ]
         },
-        "A1 (Bosnia and Herzegovina)": {
-            "label": "A1",
-            "description": "The A1 motorway is a motorway in Bosnia and Herzegovina that is part of the Corridor Vc and, together with two Croatian motorways and the Hungarian M6, will provide a modern and fast road connection ... Wikipedia",
-            "type": "",
-            "Length ": [
-                "29.2 miles (47 km)"
-            ]
-        },
-        "A1 autostrada (Poland)": {
-            "label": "A1 autostrada",
-            "description": "The autostrada A1 in Poland is a north-south motorway under construction that will run through central Poland, from Gdańsk on the Baltic Sea through Łódź and the Upper Silesian Industry Area to the ... Wikipedia",
-            "type": "",
-            "Address ": [
-                "147 B",
-                " Zakładowa",
-                " 91-867 Łódź",
-                " Poland"
-            ],
-            "Length ": [
-                "203.4 miles (327.3 km)"
-            ],
-            "Hours ": [
-                "International E-road network"
-            ],
-            "Highway system ": [
-                "Gdańsk",
-                " Łódź",
-                " Toruń",
-                " Gliwice",
-                " Częstochowa"
-            ]
-        },
         "A1 motorway (Netherlands)": {
             "label": "A1 motorway",
             "description": "The A1 is a motorway in the Netherlands. The road connects the city of Amsterdam, near the interchange Watergraafsmeer, with the German border, near Oldenzaal and Bad Bentheim, and the German Autobahn BAB 30. Wikipedia",
@@ -137,11 +113,6 @@
             "Length ": [
                 "97.56 miles (157 km)"
             ]
-        },
-        "A2 motorway (Switzerland)": {
-            "label": "A2 motorway",
-            "description": "The A2 is a motorway in Switzerland. It forms Switzerland's main north-south axis from Basel to Chiasso, meandering with a slight drift toward the east. Wikipedia",
-            "type": ""
         },
         "A5 (Croatia)": {
             "label": "A5",
@@ -155,6 +126,11 @@
                 " Đakovo",
                 " Beli Manastir"
             ]
+        },
+        "A2 motorway (Switzerland)": {
+            "label": "A2 motorway",
+            "description": "The A2 is a motorway in Switzerland. It forms Switzerland's main north-south axis from Basel to Chiasso, meandering with a slight drift toward the east. Wikipedia",
+            "type": ""
         },
         "A6 motorway (Switzerland)": {
             "label": "A6 motorway",
@@ -192,6 +168,30 @@
             ],
             "Elevation ": [
                 "102' (31 m)"
+            ]
+        },
+        "A1 autostrada (Poland)": {
+            "label": "A1 autostrada",
+            "description": "The autostrada A1 in Poland is a north-south motorway under construction that will run through central Poland, from Gdańsk on the Baltic Sea through Łódź and the Upper Silesian Industry Area to the ... Wikipedia",
+            "type": "",
+            "Address ": [
+                "147 B",
+                " Zakładowa",
+                " 91-867 Łódź",
+                " Poland"
+            ],
+            "Length ": [
+                "203.4 miles (327.3 km)"
+            ],
+            "Hours ": [
+                "International E-road network"
+            ],
+            "Highway system ": [
+                "Gdańsk",
+                " Łódź",
+                " Toruń",
+                " Gliwice",
+                " Częstochowa"
             ]
         },
         "Adnan Menderes Airport": {
@@ -245,26 +245,6 @@
             "type": "",
             "See results about": []
         },
-        "Alice Springs Airport": {
-            "label": "Alice Springs Airport",
-            "description": "Alice Springs Airport is a regional airport 7 nautical miles south of Alice Springs, Northern Territory. Wikipedia",
-            "type": "",
-            "Address ": [
-                "Santa Teresa Rd",
-                " Alice Springs NT 0870",
-                " Australia"
-            ],
-            "Code ": [
-                "ASP"
-            ],
-            "Elevation ": [
-                "1",
-                "788' (545 m)"
-            ],
-            "Phone ": [
-                "+61 8 8951 1211"
-            ]
-        },
         "Araxos Airport": {
             "label": "Araxos Airport",
             "description": "Araxos Airport is an international military / civilian airport located near Araxos cape, Achaea, Greece. It serves the city of Patras as well as the western Peloponnese.\nIt is also known as Araxos National Airport. or Agamemnon Airport. Wikipedia",
@@ -286,15 +266,6 @@
             "type": "",
             "See results about": []
         },
-        "Arsenal tube station": {
-            "label": "Arsenal tube station",
-            "description": "Arsenal tube station is a London Underground station located in Highbury, London. It is on the Piccadilly Line, in Travelcard Zone 2, between Holloway Road and Finsbury Park. Wikipedia",
-            "type": "",
-            "Address ": [
-                "United Kingdom"
-            ],
-            "People also search for": []
-        },
         "Artigas Airport": {
             "label": "Artigas Airport",
             "description": "Artigas International Airport is the airport serving Artigas, Uruguay. Wikipedia",
@@ -308,6 +279,25 @@
             ],
             "Code ": [
                 "ATI"
+            ]
+        },
+        "Arvidsjaur Airport": {
+            "label": "Arvidsjaur Airport",
+            "description": "Arvidsjaur Airport is situated 13 km from Arvidsjaur town in Sweden and had 42,664 passengers in 2009.\nThe runway is longer than most in the northern interior of Sweden, and this allows international charter jet planes. Wikipedia",
+            "type": "",
+            "Address ": [
+                "933 91 Arvidsjaur",
+                " Sweden"
+            ],
+            "Elevation ": [
+                "1",
+                "243' (379 m)"
+            ],
+            "Code ": [
+                "AJR"
+            ],
+            "Phone ": [
+                "+46 960 173 80"
             ]
         },
         "Astana International Airport": {
@@ -330,23 +320,24 @@
                 "+7 717 270 2999"
             ]
         },
-        "Arvidsjaur Airport": {
-            "label": "Arvidsjaur Airport",
-            "description": "Arvidsjaur Airport is situated 13 km from Arvidsjaur town in Sweden and had 42,664 passengers in 2009.\nThe runway is longer than most in the northern interior of Sweden, and this allows international charter jet planes. Wikipedia",
+        "Alice Springs Airport": {
+            "label": "Alice Springs Airport",
+            "description": "Alice Springs Airport is a regional airport 7 nautical miles south of Alice Springs, Northern Territory. Wikipedia",
             "type": "",
             "Address ": [
-                "933 91 Arvidsjaur",
-                " Sweden"
+                "Santa Teresa Rd",
+                " Alice Springs NT 0870",
+                " Australia"
+            ],
+            "Code ": [
+                "ASP"
             ],
             "Elevation ": [
                 "1",
-                "243' (379 m)"
-            ],
-            "Code ": [
-                "AJR"
+                "788' (545 m)"
             ],
             "Phone ": [
-                "+46 960 173 80"
+                "+61 8 8951 1211"
             ]
         },
         "Astoria (Budapest Metro)": {
@@ -354,6 +345,31 @@
             "description": "Astoria is a station of the M2 line of the Budapest Metro, under the eponymous square, Astoria. Wikipedia",
             "type": "",
             "Recent posts": []
+        },
+        "Atarot Airport": {
+            "label": "Atarot Airport",
+            "description": "Atarot Airport, was a small airport located between Jerusalem and Ramallah. When it was opened in 1920 it was the first airport in the British Mandate for Palestine. It was closed during the Second Intifada in 2001. Wikipedia",
+            "type": "",
+            "Address ": [
+                "Jerusalem",
+                " Israel"
+            ],
+            "Code ": [
+                "JRS"
+            ],
+            "Elevation ": [
+                "2",
+                "484' (757 m)"
+            ]
+        },
+        "Arsenal tube station": {
+            "label": "Arsenal tube station",
+            "description": "Arsenal tube station is a London Underground station located in Highbury, London. It is on the Piccadilly Line, in Travelcard Zone 2, between Holloway Road and Finsbury Park. Wikipedia",
+            "type": "",
+            "Address ": [
+                "United Kingdom"
+            ],
+            "People also search for": []
         },
         "Autostrada A18 (Italy)": {
             "label": "Autostrada A18",
@@ -375,33 +391,6 @@
                 " Autostrade of Italy"
             ]
         },
-        "Atarot Airport": {
-            "label": "Atarot Airport",
-            "description": "Atarot Airport, was a small airport located between Jerusalem and Ramallah. When it was opened in 1920 it was the first airport in the British Mandate for Palestine. It was closed during the Second Intifada in 2001. Wikipedia",
-            "type": "",
-            "Address ": [
-                "Jerusalem",
-                " Israel"
-            ],
-            "Code ": [
-                "JRS"
-            ],
-            "Elevation ": [
-                "2",
-                "484' (757 m)"
-            ]
-        },
-        "Autostrada A26 (Italy)": {
-            "label": "Autostrada A26",
-            "description": "The Autostrada A26 is a motorway in the northwestern Italian regions of Liguria and Piedmont. It is named the Autostrada dei Trafori after the numerous tunnels through which it passes, both Apennine and Subalpine. Wikipedia",
-            "type": "",
-            "Length ": [
-                "122.4 miles (197 km)"
-            ],
-            "Highway system ": [
-                "Autostrade of Italy"
-            ]
-        },
         "Avtozavodskaya (Moscow Metro)": {
             "label": "Avtozavodskaya",
             "description": "Avtozavodskaya is a station on the Zamoskvoretskaya Line of the Moscow Metro. It is named for the nearby Zavod Imeni Likhacheva, where ZIS and ZIL limousines were built. Wikipedia",
@@ -415,10 +404,51 @@
             ],
             "People also search for": []
         },
+        "Autostrada A26 (Italy)": {
+            "label": "Autostrada A26",
+            "description": "The Autostrada A26 is a motorway in the northwestern Italian regions of Liguria and Piedmont. It is named the Autostrada dei Trafori after the numerous tunnels through which it passes, both Apennine and Subalpine. Wikipedia",
+            "type": "",
+            "Length ": [
+                "122.4 miles (197 km)"
+            ],
+            "Highway system ": [
+                "Autostrade of Italy"
+            ]
+        },
         "Bajcsy-Zsilinszky út (Budapest Metro)": {
             "label": "Bajcsy-Zsilinszky Way",
             "description": "",
             "type": ""
+        },
+        "Baku Metro": {
+            "label": "Baku Metro",
+            "description": "Baku Metro is a rapid transit system serving Baku, the capital of Azerbaijan. First opened on November 6, 1967, during the time of the Soviet Union, it has the features found in most other ex-Soviet ... Wikipedia",
+            "type": ""
+        },
+        "Ballston–MU (WMATA station)": {
+            "label": "Ballston – MU",
+            "description": "Ballston–MU is a side platformed Washington Metro station in Arlington, Virginia, United States. The station opened on December 1, 1979, and is operated by the Washington Metropolitan Area Transit Authority. Wikipedia",
+            "type": "",
+            "Address ": [
+                "4230 Fairfax Dr",
+                " Arlington",
+                " VA 22203"
+            ]
+        },
+        "Banjul International Airport": {
+            "label": "Banjul International Airport",
+            "description": "Banjul International Airport also known as Yundum International is the international airport of Banjul, capital of the Gambia.\nIn 2004, the airport served 967,719 passengers. Wikipedia",
+            "type": "",
+            "Address ": [
+                "Yundum",
+                " Gambia"
+            ],
+            "Code ": [
+                "BJL"
+            ],
+            "Elevation ": [
+                "95' (29 m)"
+            ]
         },
         "Baghdad International Airport": {
             "label": "Baghdad International Airport",
@@ -436,27 +466,20 @@
                 " SDA"
             ]
         },
-        "Baku Metro": {
-            "label": "Baku Metro",
-            "description": "Baku Metro is a rapid transit system serving Baku, the capital of Azerbaijan. First opened on November 6, 1967, during the time of the Soviet Union, it has the features found in most other ex-Soviet ... Wikipedia",
-            "type": ""
-        },
-        "Ballston–MU (WMATA station)": {
-            "label": "Ballston – MU",
-            "description": "Ballston–MU is a side platformed Washington Metro station in Arlington, Virginia, United States. The station opened on December 1, 1979, and is operated by the Washington Metropolitan Area Transit Authority. Wikipedia",
-            "type": "",
-            "Address ": [
-                "4230 Fairfax Dr",
-                " Arlington",
-                " VA 22203"
-            ]
-        },
         "Barons Court tube station": {
             "label": "Barons Court tube station",
             "description": "Barons Court is a London Underground station in West Kensington, Greater London. This station services the District Line and the Piccadilly Line. Wikipedia",
             "type": "",
             "Address ": [
                 "United Kingdom"
+            ]
+        },
+        "Beit Shemesh Railway Station": {
+            "label": "Beit Shemesh Railway Station",
+            "description": "Beit Shemesh Railway Station is an Israel Railways station in Beit Shemesh, Israel on the Tel Aviv – Jerusalem line. The station is located near the northern industrial zone of Beit Shemesh. Wikipedia",
+            "type": "",
+            "Address ": [
+                "Israel"
             ]
         },
         "Bellingham (Amtrak station)": {
@@ -467,14 +490,6 @@
                 "United States"
             ],
             "See results about": []
-        },
-        "Beit Shemesh Railway Station": {
-            "label": "Beit Shemesh Railway Station",
-            "description": "Beit Shemesh Railway Station is an Israel Railways station in Beit Shemesh, Israel on the Tel Aviv – Jerusalem line. The station is located near the northern industrial zone of Beit Shemesh. Wikipedia",
-            "type": "",
-            "Address ": [
-                "Israel"
-            ]
         },
         "Belyayevo (Moscow Metro)": {
             "label": "Belyayevo",
@@ -498,21 +513,6 @@
             "type": "",
             "Address ": [
                 "Germany"
-            ]
-        },
-        "Banjul International Airport": {
-            "label": "Banjul International Airport",
-            "description": "Banjul International Airport also known as Yundum International is the international airport of Banjul, capital of the Gambia.\nIn 2004, the airport served 967,719 passengers. Wikipedia",
-            "type": "",
-            "Address ": [
-                "Yundum",
-                " Gambia"
-            ],
-            "Code ": [
-                "BJL"
-            ],
-            "Elevation ": [
-                "95' (29 m)"
             ]
         },
         "Berlin-Wannsee station": {
@@ -540,6 +540,14 @@
                 "Germany"
             ]
         },
+        "Berlin Brandenburg Airport": {
+            "label": "Berlin Brandenburg Airport",
+            "description": "Berlin Brandenburg Airport is an international airport under construction, located adjacent to the current Berlin Schönefeld Airport in Schönefeld 18 kilometres south of the city centre of Berlin, the capital of Germany. Wikipedia",
+            "type": "",
+            "Code ": [
+                "BER"
+            ]
+        },
         "Berlin Old Ostbahnhof": {
             "label": "Berlin Old Ostbahnhof",
             "description": "The old Berlin Ostbahnhof, sometimes also named Küstriner Bahnhof, was a short-lived passenger railway terminus in Berlin, Germany. It was situated in Friedrichshain, close to the current Ostbahnhof and to the former Wriezener Bahnhof. Wikipedia",
@@ -554,13 +562,10 @@
             ],
             "People also search for": []
         },
-        "Berlin Brandenburg Airport": {
-            "label": "Berlin Brandenburg Airport",
-            "description": "Berlin Brandenburg Airport is an international airport under construction, located adjacent to the current Berlin Schönefeld Airport in Schönefeld 18 kilometres south of the city centre of Berlin, the capital of Germany. Wikipedia",
-            "type": "",
-            "Code ": [
-                "BER"
-            ]
+        "Berlin S-Bahn": {
+            "label": "Berlin S-Bahn",
+            "description": "The Berlin S-Bahn is a rapid transit railway system in and around Berlin, the capital city of Germany. Wikipedia",
+            "type": ""
         },
         "Berlin Tempelhof Airport": {
             "label": "Berlin Tempelhof Airport",
@@ -573,11 +578,6 @@
                 "THF"
             ]
         },
-        "Berlin S-Bahn": {
-            "label": "Berlin S-Bahn",
-            "description": "The Berlin S-Bahn is a rapid transit railway system in and around Berlin, the capital city of Germany. Wikipedia",
-            "type": ""
-        },
         "Biblioteka Imeni Lenina": {
             "label": "Biblioteka Imeni Lenina",
             "description": "Biblioteka Imeni Lenina is a station on the Sokolnicheskaya Line of the Moscow Metro. The station was opened on May 15, 1935 as a part of the first stage of the Metro. Wikipedia",
@@ -587,6 +587,11 @@
             ],
             "Opened ": "May 15, 1935",
             "People also search for": []
+        },
+        "Birdsville Track": {
+            "label": "Birdsville Track",
+            "description": "The Birdsville Track is a notable outback road in Australia. The 517 km track runs from Marree, a small town in northern South Australia, north across the Tirari Desert and Sturt Stony Desert, ending in Birdsville in south western Queensland. Wikipedia",
+            "type": ""
         },
         "Birmingham Airport": {
             "label": "Birmingham-Shuttlesworth International Airport",
@@ -614,10 +619,13 @@
             "type": "",
             "People also search for": []
         },
-        "Birdsville Track": {
-            "label": "Birdsville Track",
-            "description": "The Birdsville Track is a notable outback road in Australia. The 517 km track runs from Marree, a small town in northern South Australia, north across the Tirari Desert and Sturt Stony Desert, ending in Birdsville in south western Queensland. Wikipedia",
-            "type": ""
+        "Bochum-Dahlhausen station": {
+            "label": "Bochum-Dahlhausen station",
+            "description": "Bochum-Dahlhausen station is located in the Dahlhausen district of Bochum in the German state of North Rhine-Westphalia. The station building dates from the time of the First World War. Wikipedia",
+            "type": "",
+            "Address ": [
+                "Germany"
+            ]
         },
         "Borkum Airfield": {
             "label": "Borkum Airport",
@@ -634,12 +642,6 @@
                 "9' 10\" (3.00 m)"
             ]
         },
-        "Bow Road tube station": {
-            "label": "Bow Road tube stationBow Road",
-            "description": "Bow Road tube station is on the District and Hammersmith & City lines of the London Underground. It is on Bow Road in Bow, east London, about 300 metres from Bow Church DLR station and is in fare zone 2. Wikipedia",
-            "type": "",
-            "People also search for": []
-        },
         "Borough tube station": {
             "label": "Borough tube station",
             "description": "Borough tube station is a London Underground station in the Borough area of the London Borough of Southwark. It is on the Bank branch of the Northern Line between Elephant & Castle and London Bridge stations. It is in Travelcard Zone 1. Wikipedia",
@@ -648,13 +650,11 @@
                 "United Kingdom"
             ]
         },
-        "Bochum-Dahlhausen station": {
-            "label": "Bochum-Dahlhausen station",
-            "description": "Bochum-Dahlhausen station is located in the Dahlhausen district of Bochum in the German state of North Rhine-Westphalia. The station building dates from the time of the First World War. Wikipedia",
+        "Bow Road tube station": {
+            "label": "Bow Road tube stationBow Road",
+            "description": "Bow Road tube station is on the District and Hammersmith & City lines of the London Underground. It is on Bow Road in Bow, east London, about 300 metres from Bow Church DLR station and is in fare zone 2. Wikipedia",
             "type": "",
-            "Address ": [
-                "Germany"
-            ]
+            "People also search for": []
         },
         "Bremen Central Station": {
             "label": "Bremen Central Station",
@@ -662,14 +662,22 @@
             "type": "",
             "People also search for": []
         },
-        "Brixton tube station": {
-            "label": "Brixton tube station",
-            "description": "Brixton tube station is a London Underground station on Brixton Road in the Brixton district of the London Borough of Lambeth in south London. The station is the southern terminus of the Victoria line. Wikipedia",
-            "type": ""
-        },
         "Breteuil-Embranchement station": {
             "label": "Breteuil-Embranchement station",
             "description": "The Gare de Breteuil-Embranchement is a railway station on the Paris-Nord - Lille line located in the commune of Bacouël in the Oise department, France. It is surrounded by a hamlet also named Breteuil-Embranchement. Wikipedia",
+            "type": ""
+        },
+        "Bristol Parkway railway station": {
+            "label": "Bristol Parkway railway station",
+            "description": "Bristol Parkway railway station, on the South Wales Main Line, is in the Stoke Gifford area of the Bristol conurbation. It is 112 miles from London Paddington. Its three-letter station code is BPW. Wikipedia",
+            "type": "",
+            "Address ": [
+                "United Kingdom"
+            ]
+        },
+        "Brixton tube station": {
+            "label": "Brixton tube station",
+            "description": "Brixton tube station is a London Underground station on Brixton Road in the Brixton district of the London Borough of Lambeth in south London. The station is the southern terminus of the Victoria line. Wikipedia",
             "type": ""
         },
         "Bromley-by-Bow tube station": {
@@ -701,14 +709,6 @@
             ],
             "People also search for": []
         },
-        "Bristol Parkway railway station": {
-            "label": "Bristol Parkway railway station",
-            "description": "Bristol Parkway railway station, on the South Wales Main Line, is in the Stoke Gifford area of the Bristol conurbation. It is 112 miles from London Paddington. Its three-letter station code is BPW. Wikipedia",
-            "type": "",
-            "Address ": [
-                "United Kingdom"
-            ]
-        },
         "Bydgoszcz Ignacy Jan Paderewski Airport": {
             "label": "Bydgoszcz Ignacy Jan Paderewski Airport",
             "description": "Bydgoszcz Ignacy Jan Paderewski Airport is a Polish regional airport in the city of Bydgoszcz, Poland. It lies only 3.5 km from the city centre. It is the ninth largest airport in Poland in terms of passenger traffic. Wikipedia",
@@ -727,6 +727,18 @@
             "Phone ": [
                 "+48 52 365 46 20"
             ]
+        },
+        "Canary Wharf tube station": {
+            "label": "Canary Wharf tube station",
+            "description": "Canary Wharf tube station is a London Underground station on the Jubilee Line, between Canada Water and North Greenwich. Wikipedia",
+            "type": "",
+            "Engineering firm ": [
+                "Arup"
+            ],
+            "Architect ": [
+                "Norman Foster"
+            ],
+            "People also search for": []
         },
         "Canberra International Airport": {
             "label": "Canberra International Airport",
@@ -771,16 +783,10 @@
             ],
             "People also search for": []
         },
-        "Canary Wharf tube station": {
-            "label": "Canary Wharf tube station",
-            "description": "Canary Wharf tube station is a London Underground station on the Jubilee Line, between Canada Water and North Greenwich. Wikipedia",
+        "Cape Canaveral Air Force Station Launch Complex 19": {
+            "label": "Cape Canaveral Air Force Station Launch Complex 19",
+            "description": "Launch Complex 19 is a deactivated launch site on Cape Canaveral Air Force Station, Florida used by NASA to launch all of the Gemini manned spaceflights. It was also used by unmanned Titan I and Titan II launch vehicles. Wikipedia",
             "type": "",
-            "Engineering firm ": [
-                "Arup"
-            ],
-            "Architect ": [
-                "Norman Foster"
-            ],
             "People also search for": []
         },
         "Cape Canaveral Air Force Station Launch Complex 34": {
@@ -788,9 +794,9 @@
             "description": "Cape Canaveral Air Force Station Launch Complex 34 is a launch site on Cape Canaveral, Florida. LC-34 and its twin to the north, LC-37, were used by NASA as part of the Apollo Program to launch Saturn I and IB rockets from 1961 through 1968. Wikipedia",
             "type": ""
         },
-        "Cape Canaveral Air Force Station Launch Complex 19": {
-            "label": "Cape Canaveral Air Force Station Launch Complex 19",
-            "description": "Launch Complex 19 is a deactivated launch site on Cape Canaveral Air Force Station, Florida used by NASA to launch all of the Gemini manned spaceflights. It was also used by unmanned Titan I and Titan II launch vehicles. Wikipedia",
+        "Cape Canaveral Air Force Station Launch Complex 5": {
+            "label": "Cape Canaveral Air Force Station Launch Complex 5",
+            "description": "Launch Complex 5 was a launch site at Cape Canaveral Air Force Station, Florida used for various Redstone and Jupiter launches. Wikipedia",
             "type": "",
             "People also search for": []
         },
@@ -800,34 +806,6 @@
             "type": "",
             "Address ": [
                 "United States"
-            ]
-        },
-        "Cape Canaveral Air Force Station Launch Complex 5": {
-            "label": "Cape Canaveral Air Force Station Launch Complex 5",
-            "description": "Launch Complex 5 was a launch site at Cape Canaveral Air Force Station, Florida used for various Redstone and Jupiter launches. Wikipedia",
-            "type": "",
-            "People also search for": []
-        },
-        "Carnaby Street": {
-            "label": "Carnaby Street",
-            "description": "Carnaby Street is a pedestrianised shopping street in the City of Westminster, London, located in the Soho district, near Oxford Street and Regent Street. Wikipedia",
-            "type": "",
-            "Major cities ": [
-                "London"
-            ]
-        },
-        "Casement Aerodrome": {
-            "label": "Casement Aerodrome",
-            "description": "Casement Aerodrome or Baldonnel Aerodrome is a military airfield to the south west of Dublin, Ireland situated off the N7 main road route to the south and south west. Wikipedia",
-            "type": "",
-            "Address ": [
-                "Ireland"
-            ],
-            "Elevation ": [
-                "318' (97 m)"
-            ],
-            "Code ": [
-                "IME"
             ]
         },
         "Cardiff Airport": {
@@ -847,6 +825,48 @@
             ],
             "Phone ": [
                 "+44 1446 711111"
+            ]
+        },
+        "Carnaby Street": {
+            "label": "Carnaby Street",
+            "description": "Carnaby Street is a pedestrianised shopping street in the City of Westminster, London, located in the Soho district, near Oxford Street and Regent Street. Wikipedia",
+            "type": "",
+            "Major cities ": [
+                "London"
+            ]
+        },
+        "Carrasco International Airport": {
+            "label": "Carrasco International Airport",
+            "description": "Carrasco/General Cesáreo L. Berisso International Airport, commonly known simply by Aeropuerto Internacional de Carrasco in reference to the neighborhood where it is located, is the main airport serving ... Wikipedia",
+            "type": "",
+            "Address ": [
+                "Ruta 101 km 19",
+                "950",
+                " Ciudad de la Costa 14000",
+                " Uruguay"
+            ],
+            "Code ": [
+                "MVD"
+            ],
+            "Elevation ": [
+                "105' (32 m)"
+            ],
+            "Phone ": [
+                "+598 2604 0329"
+            ]
+        },
+        "Casement Aerodrome": {
+            "label": "Casement Aerodrome",
+            "description": "Casement Aerodrome or Baldonnel Aerodrome is a military airfield to the south west of Dublin, Ireland situated off the N7 main road route to the south and south west. Wikipedia",
+            "type": "",
+            "Address ": [
+                "Ireland"
+            ],
+            "Elevation ": [
+                "318' (97 m)"
+            ],
+            "Code ": [
+                "IME"
             ]
         },
         "Centennial Airport": {
@@ -869,26 +889,6 @@
             ],
             "Phone ": [
                 "(303) 790-0598"
-            ]
-        },
-        "Carrasco International Airport": {
-            "label": "Carrasco International Airport",
-            "description": "Carrasco/General Cesáreo L. Berisso International Airport, commonly known simply by Aeropuerto Internacional de Carrasco in reference to the neighborhood where it is located, is the main airport serving ... Wikipedia",
-            "type": "",
-            "Address ": [
-                "Ruta 101 km 19",
-                "950",
-                " Ciudad de la Costa 14000",
-                " Uruguay"
-            ],
-            "Code ": [
-                "MVD"
-            ],
-            "Elevation ": [
-                "105' (32 m)"
-            ],
-            "Phone ": [
-                "+598 2604 0329"
             ]
         },
         "Centennial Bridge, Panama": {
@@ -915,6 +915,12 @@
             ],
             "People also search for": []
         },
+        "Centennial Station": {
+            "label": "Centennial Station",
+            "description": "",
+            "type": "",
+            "People also search for": []
+        },
         "Cerro Moreno International Airport": {
             "label": "Cerro Moreno International Airport",
             "description": "Cerro Moreno International Airport is an airport in Antofagasta, Chile. It is located 10 km north of Antofagasta. In 2011, the airport handled 1,000,000 passengers for the first time in its history. Wikipedia",
@@ -931,6 +937,12 @@
                 "+56 55269077"
             ]
         },
+        "Chūō Main Line": {
+            "label": "Chūō Main Line",
+            "description": "The Chūō Main Line, commonly called the Chūō Line, is one of the major trunk railway lines in Japan. Wikipedia",
+            "type": "",
+            "See results about": []
+        },
         "Chancery Lane tube station": {
             "label": "Chancery Lane tube station",
             "description": "Chancery Lane is a London Underground station in central London. It is on the Central Line between St. Paul's and Holborn stations. Wikipedia",
@@ -941,12 +953,6 @@
             "Architect ": [
                 "Harry Bell Measures"
             ],
-            "People also search for": []
-        },
-        "Centennial Station": {
-            "label": "Centennial Station",
-            "description": "",
-            "type": "",
             "People also search for": []
         },
         "Chelsea Bridge": {
@@ -972,11 +978,10 @@
             ],
             "People also search for": []
         },
-        "Chūō Main Line": {
-            "label": "Chūō Main Line",
-            "description": "The Chūō Main Line, commonly called the Chūō Line, is one of the major trunk railway lines in Japan. Wikipedia",
-            "type": "",
-            "See results about": []
+        "Chemins de fer du Jura": {
+            "label": "Chemins de fer du Jura",
+            "description": "The Chemins de fer du Jura, the railways of the Jura canton in northern Switzerland, came about as the result of an amalgamation, in 1944, of four independent companies connecting Porrentruy to Bonfol, ... Wikipedia",
+            "type": ""
         },
         "Cheverly (WMATA station)": {
             "label": "Metrorail Station",
@@ -1002,11 +1007,6 @@
             "Phone ": [
                 "+66 53 922 100"
             ]
-        },
-        "Chemins de fer du Jura": {
-            "label": "Chemins de fer du Jura",
-            "description": "The Chemins de fer du Jura, the railways of the Jura canton in northern Switzerland, came about as the result of an amalgamation, in 1944, of four independent companies connecting Porrentruy to Bonfol, ... Wikipedia",
-            "type": ""
         },
         "Chicago Midway International Airport": {
             "label": "Chicago Midway International Airport",
@@ -1039,30 +1039,70 @@
         }
     },
     "summary": {
-        "label": 89,
-        "description": 89,
-        "type": 89,
-        "address": 1,
-        "code": 1,
-        "elevation": 1,
-        "phone": 1,
-        "people_also_search_for": 1,
-        "total_length": 1,
-        "longest_span": 1,
-        "construction_started": 1,
-        "body_of_water": 1,
-        "location": 1,
-        "length": 1,
-        "major_cities": 1,
-        "hours": 1,
-        "highway_system": 1,
-        "opened": 1,
-        "bridge_type": 1,
-        "see_results_about": 1,
-        "recent_posts": 1,
-        "architect": 1,
-        "engineering_firm": 1,
-        "height": 1
+        "label": {
+            "uri": "http://dbpedia.org/property/label",
+            "count": 89
+        },
+        "description": {
+            "uri": "http://dbpedia.org/property/description",
+            "count": 89
+        },
+        "type": {
+            "uri": "http://dbpedia.org/property/type",
+            "count": 89
+        },
+        "address": {
+            "uri": "http://dbpedia.org/property/address",
+            "count": 49
+        },
+        "code": {
+            "uri": "http://dbpedia.org/ontology/code",
+            "count": 25
+        },
+        "elevation": {
+            "uri": "http://dbpedia.org/property/elevation",
+            "count": 23
+        },
+        "phone": {
+            "uri": "http://dbpedia.org/property/phone",
+            "count": 15
+        },
+        "totalLength": {
+            "uri": "http://dbpedia.org/property/totalLength",
+            "count": 5
+        },
+        "longestSpan": {
+            "uri": "http://dbpedia.org/property/longestSpan",
+            "count": 2
+        },
+        "location": {
+            "uri": "http://dbpedia.org/property/location",
+            "count": 5
+        },
+        "length": {
+            "uri": "http://dbpedia.org/property/length",
+            "count": 9
+        },
+        "majorCities": {
+            "uri": "http://dbpedia.org/property/majorCities",
+            "count": 4
+        },
+        "highwaySystem": {
+            "uri": "http://dbpedia.org/ontology/highwaySystem",
+            "count": 4
+        },
+        "opened": {
+            "uri": "http://dbpedia.org/property/opened",
+            "count": 7
+        },
+        "architect": {
+            "uri": "http://dbpedia.org/property/architect",
+            "count": 3
+        },
+        "height": {
+            "uri": "http://dbpedia.org/property/height",
+            "count": 2
+        }
     },
     "infoboxless": [
         "BTS Skytrain",
@@ -1076,5 +1116,15 @@
         "Cape Canaveral Air Force Station Launch Complex 18",
         "Cape Canaveral Air Force Station Launch Complex 6",
         "Chicago 'L'"
-    ]
+    ],
+    "Unmapped_Properties": {
+        "peopleAlsoSearchFor": 1,
+        "constructionStarted": 1,
+        "bodyOfWater": 1,
+        "hours": 1,
+        "bridgeType": 1,
+        "seeResultsAbout": 1,
+        "recentPosts": 1,
+        "engineeringFirm": 1
+    }
 }

@@ -6,22 +6,27 @@
             "type": "",
             "People also search for": []
         },
+        "Marbella International Film Festival": {
+            "label": "Marbella International Film Festival",
+            "description": "The Marbella International Film Festival has been held in Marbella on the Costa del Sol in Spain since 2006. It provides a venue for encouraging artists from all parts of the world. Wikipedia",
+            "type": ""
+        },
         "Cannes Film Festival": {
             "label": "Cannes Film Festival",
             "description": "The Cannes International Film Festival, is an annual film festival held in Cannes, France, which previews new films of all genres, including documentaries, from around the world. Wikipedia",
             "type": "",
             "People also search for": []
         },
-        "Marbella International Film Festival": {
-            "label": "Marbella International Film Festival",
-            "description": "The Marbella International Film Festival has been held in Marbella on the Costa del Sol in Spain since 2006. It provides a venue for encouraging artists from all parts of the world. Wikipedia",
-            "type": ""
-        },
         "Edmonton International Film Festival": {
             "label": "Edmonton International Film Festival",
             "description": "The Edmonton International Film Festival is a nine-day film festival in Edmonton, Alberta, Canada, hosted at Landmark Cinemas at Edmonton City Centre.\nIt began in 1986 as ‘Local Heroes’ a smaller 3-day film festival in March. Wikipedia",
             "type": "",
             "See results about": []
+        },
+        "St. John's International Women's Film Festival": {
+            "label": "St. John's International Women's Film Festival",
+            "description": "",
+            "type": ""
         },
         "Santa Barbara International Film Festival": {
             "label": "Santa Barbara International Film Festival",
@@ -49,33 +54,30 @@
             "description": "",
             "type": ""
         },
-        "Courmayeur Noir Film Festival": {
-            "label": "Courmayeur Noir in Festival",
-            "description": "",
-            "type": ""
-        },
         "Berlin International Film Festival": {
             "label": "Berlinale Internationale Filmfestspiele Berlin",
             "description": "",
             "type": ""
         },
-        "St. John's International Women's Film Festival": {
-            "label": "St. John's International Women's Film Festival",
+        "Courmayeur Noir Film Festival": {
+            "label": "Courmayeur Noir in Festival",
             "description": "",
             "type": ""
         }
     },
     "summary": {
-        "label": 9,
-        "description": 9,
-        "type": 9,
-        "people_also_search_for": 1,
-        "see_results_about": 1,
-        "tax_id": 1,
-        "assets": 1,
-        "income": 1,
-        "nonprofit_category": 1,
-        "tax_deductibility_code": 1
+        "label": {
+            "uri": "http://www.w3.org/2000/01/rdf-schema#label",
+            "count": 9
+        },
+        "description": {
+            "uri": "http://fr.dbpedia.org/ontology/abstract",
+            "count": 9
+        },
+        "type": {
+            "uri": "http://dbpedia.org/property/type",
+            "count": 9
+        }
     },
     "infoboxless": [
         "47th Berlin International Film Festival",
@@ -169,5 +171,14 @@
         "Cyprus International Short Film Festival",
         "DC Independent Film Festival",
         "DC Palestinian Film and Arts Festival"
-    ]
+    ],
+    "Unmapped_Properties": {
+        "peopleAlsoSearchFor": 1,
+        "seeResultsAbout": 1,
+        "taxId": 1,
+        "assets": 1,
+        "income": 1,
+        "nonprofitCategory": 1,
+        "taxDeductibilityCode": 1
+    }
 }

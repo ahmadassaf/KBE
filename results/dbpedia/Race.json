@@ -19,11 +19,18 @@
         }
     },
     "summary": {
-        "label": 3,
-        "description": 3,
-        "type": 3,
-        "see_results_about": 1,
-        "people_also_search_for": 1
+        "label": {
+            "uri": "http://dbpedia.org/property/label",
+            "count": 3
+        },
+        "description": {
+            "uri": "http://fr.dbpedia.org/ontology/abstract",
+            "count": 3
+        },
+        "type": {
+            "uri": "http://dbpedia.org/property/type",
+            "count": 3
+        }
     },
     "infoboxless": [
         "Bol d'Or cycle race",
@@ -123,5 +130,9 @@
         "Classica Sarda",
         "Rund um Düren",
         "Stadsprijs Geraardsbergen"
-    ]
+    ],
+    "Unmapped_Properties": {
+        "seeResultsAbout": 1,
+        "peopleAlsoSearchFor": 1
+    }
 }

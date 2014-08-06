@@ -1,13 +1,13 @@
 {
     "instances": {
-        "Colwell Bay": {
-            "label": "Colwell Bay",
-            "description": "Colwell Bay is a bay in the west of the Isle of Wight. It is located between the towns of Totland and Yarmouth. Wikipedia",
-            "type": ""
-        },
         "Askham Bog": {
             "label": "Askham Bog",
             "description": "Askham Bog is an area of peat bog in the Vale of York in North Yorkshire, England, south of the city of York, north of Copmanthorpe and close to Askham Bryan and Askham Richard. Wikipedia",
+            "type": ""
+        },
+        "Colwell Bay": {
+            "label": "Colwell Bay",
+            "description": "Colwell Bay is a bay in the west of the Isle of Wight. It is located between the towns of Totland and Yarmouth. Wikipedia",
             "type": ""
         },
         "Eastern Isles": {
@@ -163,11 +163,6 @@
             "description": "Wainlode Cliff is a 1.3 hectare geological Site of Special Scientific Interest in Gloucestershire, notified in 1954. It overlooks Hasfield Ham. Wikipedia",
             "type": ""
         },
-        "Boscastle to Widemouth": {
-            "label": "Boscastle to Widemouth",
-            "description": "Boscastle to Widemouth is a coastal Site of Special Scientific Interest in Cornwall, England, noted for its biological and geological characteristics. Wikipedia",
-            "type": ""
-        },
         "Godrevy Head to St Agnes": {
             "label": "Godrevy Head to St Agnes",
             "description": "Godrevy Head to St Agnes is a coastal Site of Special Scientific Interest in north Cornwall, England, UK, noted for both its biological and geological characteristics. Wikipedia",
@@ -179,9 +174,9 @@
                 " United Kingdom"
             ]
         },
-        "Rosenannon Downs": {
-            "label": "Rosenannon Downs",
-            "description": "Rosenannon Downs is a nature reserve in central Cornwall, England, UK, being designated Rosenannon Bog and Downs Site of Special Scientific Interest, noted for its biological characteristics. Wikipedia",
+        "Boscastle to Widemouth": {
+            "label": "Boscastle to Widemouth",
+            "description": "Boscastle to Widemouth is a coastal Site of Special Scientific Interest in Cornwall, England, noted for its biological and geological characteristics. Wikipedia",
             "type": ""
         },
         "Red Moor": {
@@ -224,14 +219,14 @@
             "description": "Ben Knowle is a 1.5 hectare geological Site of Special Scientific Interest in Somerset, notified in 1984. Wikipedia",
             "type": ""
         },
-        "Berkswell Marsh": {
-            "label": "Berkswell Marsh",
-            "description": "Berkswell Marsh is a 7.5 hectare biological site of Special Scientific Interest in the West Midlands. The site was notified in 1991 under the Wildlife and Countryside Act 1981. Wikipedia",
-            "type": ""
-        },
         "Black Down and Sampford Commons": {
             "label": "Black Down and Sampford Commons",
             "description": "Black Down and Sampford Commons is a 155.2-hectare biological Site of Special Scientific Interest in Devon and Somerset, notified in 1952. Wikipedia",
+            "type": ""
+        },
+        "Berkswell Marsh": {
+            "label": "Berkswell Marsh",
+            "description": "Berkswell Marsh is a 7.5 hectare biological site of Special Scientific Interest in the West Midlands. The site was notified in 1991 under the Wildlife and Countryside Act 1981. Wikipedia",
             "type": ""
         },
         "Briddlesford Copses": {
@@ -255,24 +250,24 @@
             "description": "Clayhanger Marsh is a 23.8 hectare biological site of Special Scientific Interest in the West Midlands. The site was notified in 1986 under the Wildlife and Countryside Act 1981. It is located to the north of Walsall. Wikipedia",
             "type": ""
         },
+        "Cogley Wood": {
+            "label": "Cogley Wood",
+            "description": "Cogley Wood is a 60.7 hectare biological Site of Special Scientific Interest east of Bruton in Somerset, notified in 1987.\nThe name is believed to be from Cock ley meaning a clearing with birds. Wikipedia",
+            "type": ""
+        },
         "Cloford Quarry": {
             "label": "Cloford Quarry",
             "description": "Cloford Quarry is a 39.92-hectare geological Site of Special Scientific Interest to the south of the A361 approximately 350 metres north of the hamlet of Cloford and 1 kilometre west of Nunney on the Mendip Hills in Somerset. Wikipedia",
             "type": ""
         },
+        "Rosenannon Downs": {
+            "label": "Rosenannon Downs",
+            "description": "Rosenannon Downs is a nature reserve in central Cornwall, England, UK, being designated Rosenannon Bog and Downs Site of Special Scientific Interest, noted for its biological characteristics. Wikipedia",
+            "type": ""
+        },
         "Compton Down": {
             "label": "Compton Down",
             "description": "Compton Down is a hill on the Isle of Wight just to the east of Freshwater Bay. It is part of the chalk ridge which forms the \"backbone\" of the Isle of Wight. It runs east to west, is approximately 3 miles long and is predominantly grass downland. Wikipedia",
-            "type": ""
-        },
-        "Compton Martin Ochre Mine": {
-            "label": "Compton Martin Ochre Mine",
-            "description": "Compton Martin Ochre Mine is a 0.85 hectare geological and biological Site of Special Scientific Interest located on the north side of the Mendip Hills, immediately south west of Compton Martin village, Somerset, notified in 1988. Wikipedia",
-            "type": ""
-        },
-        "Cook's Wood Quarry": {
-            "label": "Cook's Wood Quarry",
-            "description": "Cook's Wood Quarry is a 0.8 hectare geological Site of Special Scientific Interest near Stoke St Michael on the Mendip Hills in Somerset, notified in 1988.\nThis is a Geological Conservation Review Site. Wikipedia",
             "type": ""
         },
         "Court Hill": {
@@ -281,14 +276,14 @@
             "type": "",
             "People also search for": []
         },
+        "Compton Martin Ochre Mine": {
+            "label": "Compton Martin Ochre Mine",
+            "description": "Compton Martin Ochre Mine is a 0.85 hectare geological and biological Site of Special Scientific Interest located on the north side of the Mendip Hills, immediately south west of Compton Martin village, Somerset, notified in 1988. Wikipedia",
+            "type": ""
+        },
         "Curry and Hay Moors": {
             "label": "Curry and Hay Moors",
             "description": "Curry and Hay Moors is a 472.8 hectare biological Site of Special Scientific Interest in Somerset, notified in 1992.\nCurry and Hay Moors form part of the complex of grazing marshes known as the Somerset Levels and Moors. Wikipedia",
-            "type": ""
-        },
-        "Doulton's Claypit": {
-            "label": "Doulton's Claypit",
-            "description": "Doulton's Claypit is a 3.3 hectare geological site of Special Scientific Interest in the West Midlands. The site was notified in 1986 under the Wildlife and Countryside Act 1981 and is currently managed by the Country Trust. Wikipedia",
             "type": ""
         },
         "Dunster Park and Heathlands": {
@@ -305,9 +300,24 @@
             "description": "Emborough Quarries is a 1 hectare geological Site of Special Scientific Interest at Emborough in the Mendip Hills, Somerset, notified in 1971. Wikipedia",
             "type": ""
         },
+        "Cook's Wood Quarry": {
+            "label": "Cook's Wood Quarry",
+            "description": "Cook's Wood Quarry is a 0.8 hectare geological Site of Special Scientific Interest near Stoke St Michael on the Mendip Hills in Somerset, notified in 1988.\nThis is a Geological Conservation Review Site. Wikipedia",
+            "type": ""
+        },
         "Fens Pools": {
             "label": "Fens Pools",
             "description": "Fens Pools is a 37.6 hectare biological site of Special Scientific Interest in the West Midlands. The site was notified in 1989 under the Wildlife and Countryside Act 1981 and is currently managed by the Country Trust. Wikipedia",
+            "type": ""
+        },
+        "Doulton's Claypit": {
+            "label": "Doulton's Claypit",
+            "description": "Doulton's Claypit is a 3.3 hectare geological site of Special Scientific Interest in the West Midlands. The site was notified in 1986 under the Wildlife and Countryside Act 1981 and is currently managed by the Country Trust. Wikipedia",
+            "type": ""
+        },
+        "Ge-mare Farm Fields": {
+            "label": "Ge-mare Farm Fields",
+            "description": "Ge-mare Farm Fields is a 4.1 hectare biological Site of Special Scientific Interest near Holford on the Quantock Hills in Somerset, notified in 1988. Wikipedia",
             "type": ""
         },
         "Glenthorne": {
@@ -324,14 +334,14 @@
             ],
             "See results about": []
         },
-        "Cogley Wood": {
-            "label": "Cogley Wood",
-            "description": "Cogley Wood is a 60.7 hectare biological Site of Special Scientific Interest east of Bruton in Somerset, notified in 1987.\nThe name is believed to be from Cock ley meaning a clearing with birds. Wikipedia",
-            "type": ""
-        },
         "Greatwood And Cliff Copses SSSI": {
             "label": "Greatwood And Cliff Copses SSSI",
             "description": "Greatwood And Cliff Copses are two wooded areas totalling 16.3 hectares which are a Site of special scientific interest to the southwest of Shanklin. The site was notified in 1986 for its biological features. Wikipedia",
+            "type": ""
+        },
+        "Lamb Leer": {
+            "label": "Lamb Leer",
+            "description": "Lamb Leer is a 14.59 hectare geological Site of Special Scientific Interest between East Harptree and Priddy in the Mendip Hills, Somerset, notified in 1983. Wikipedia",
             "type": ""
         },
         "Kingley Vale National Nature Reserve": {
@@ -351,6 +361,11 @@
             ],
             "People also search for": []
         },
+        "Maes Down": {
+            "label": "Maes Down",
+            "description": "Maes Down is a 0.2 hectare geological Site of Special Scientific Interest between Shepton Mallet and Stoney Stratton in Somerset, notified in 1985. It is a Geological Conservation Review site. Wikipedia",
+            "type": ""
+        },
         "Lindrick Golf Club": {
             "label": "Lindrick Golf Club",
             "description": "Lindrick Golf Club is a golf course in South Yorkshire and is also a site of special scientific interest. The SSSI covers 22.0 hectares and was designated for its biological interest. The site was notified in 1987. Wikipedia",
@@ -361,21 +376,6 @@
                 " Nottinghamshire S81 8BH",
                 " United Kingdom"
             ]
-        },
-        "Maes Down": {
-            "label": "Maes Down",
-            "description": "Maes Down is a 0.2 hectare geological Site of Special Scientific Interest between Shepton Mallet and Stoney Stratton in Somerset, notified in 1985. It is a Geological Conservation Review site. Wikipedia",
-            "type": ""
-        },
-        "Maesbury Railway Cutting": {
-            "label": "Maesbury Railway Cutting",
-            "description": "Maesbury Railway Cutting is a 2 hectare geological Site of Special Scientific Interest between East Horrington and Gurney Slade in Somerset, notified in 1995.\nIt was part of the Somerset and Dorset Joint Railway. Wikipedia",
-            "type": ""
-        },
-        "Lamb Leer": {
-            "label": "Lamb Leer",
-            "description": "Lamb Leer is a 14.59 hectare geological Site of Special Scientific Interest between East Harptree and Priddy in the Mendip Hills, Somerset, notified in 1983. Wikipedia",
-            "type": ""
         },
         "Millwater": {
             "label": "Millwater Developments",
@@ -388,6 +388,11 @@
             "description": "Northpark Copse is a 9.9 hectare Site of special scientific interest which is east of Shalfleet. The site was notified in 1986 for its biological features. Wikipedia",
             "type": ""
         },
+        "Purn Hill": {
+            "label": "Purn Hill",
+            "description": "Purn Hill is a 6.1 hectare biological Site of Special Scientific Interest near the village of Bleadon, Somerset, notified in 1990. The site is a small promontory of Carboniferous Limestone projecting southward from the main Mendip ridge. Wikipedia",
+            "type": ""
+        },
         "Old Ironstone Works, Mells": {
             "label": "Old Ironstone Works, Mells",
             "description": "Old Iron Works, Mells is a 0.25 hectare biological Site of Special Scientific Interest, in the Wadbury Valley, south of the village of Mells in Somerset, notified in 1987. Wikipedia",
@@ -398,14 +403,14 @@
             "description": "Shapwick Heath is a 394.0-hectare biological Site of Special Scientific Interest and National Nature Reserve between Shapwick and Westhay in Somerset, notified in 1967. It is part of the Brue Valley Living Landscape conservation project. Wikipedia",
             "type": ""
         },
-        "Purn Hill": {
-            "label": "Purn Hill",
-            "description": "Purn Hill is a 6.1 hectare biological Site of Special Scientific Interest near the village of Bleadon, Somerset, notified in 1990. The site is a small promontory of Carboniferous Limestone projecting southward from the main Mendip ridge. Wikipedia",
-            "type": ""
-        },
         "Sharpham Moor Plot": {
             "label": "Sharpham Moor Plot",
             "description": "Sharpham Moor Plot is a 0.5-hectare biological Site of Special Scientific Interest at Sharpham in Somerset, UK, notified in 1967. Wikipedia",
+            "type": ""
+        },
+        "Maesbury Railway Cutting": {
+            "label": "Maesbury Railway Cutting",
+            "description": "Maesbury Railway Cutting is a 2 hectare geological Site of Special Scientific Interest between East Horrington and Gurney Slade in Somerset, notified in 1995.\nIt was part of the Somerset and Dorset Joint Railway. Wikipedia",
             "type": ""
         },
         "Shiplate Slait": {
@@ -413,9 +418,9 @@
             "description": "Shiplate Slait is a 33.9 hectare biological Site of Special Scientific Interest near the village of Loxton, within the Mendip Hills Area of Outstanding Natural Beauty, North Somerset, notified in 1987. Wikipedia",
             "type": ""
         },
-        "Ge-mare Farm Fields": {
-            "label": "Ge-mare Farm Fields",
-            "description": "Ge-mare Farm Fields is a 4.1 hectare biological Site of Special Scientific Interest near Holford on the Quantock Hills in Somerset, notified in 1988. Wikipedia",
+        "Snowdon Hill Quarry": {
+            "label": "Snowdon Hill Quarry",
+            "description": "Snowdon Hill Quarry is a 0.6 hectare geological Site of Special Scientific Interest on the western outskirts of Chard in Somerset, notified in 1963. Wikipedia",
             "type": ""
         },
         "St. Dunstan's Well Catchment": {
@@ -427,22 +432,25 @@
             "label": "Southey and Gotleigh Moors",
             "description": "Southey and Gotleigh Moors is an 81.3 hectare biological Site of Special Scientific Interest on the Blackdown Hills in Somerset, notified in 1988.\nSouthey and Gotleigh Moors is a mosaic of valley mire, acid-marsh grassland and alder-birch carr. Wikipedia",
             "type": ""
-        },
-        "Snowdon Hill Quarry": {
-            "label": "Snowdon Hill Quarry",
-            "description": "Snowdon Hill Quarry is a 0.6 hectare geological Site of Special Scientific Interest on the western outskirts of Chard in Somerset, notified in 1963. Wikipedia",
-            "type": ""
         }
     },
     "summary": {
-        "label": 75,
-        "description": 75,
-        "type": 75,
-        "people_also_search_for": 1,
-        "address": 1,
-        "see_results_about": 1,
-        "hours": 1,
-        "phone": 1
+        "label": {
+            "uri": "http://dbpedia.org/property/label",
+            "count": 75
+        },
+        "description": {
+            "uri": "http://fr.dbpedia.org/ontology/abstract",
+            "count": 75
+        },
+        "type": {
+            "uri": "http://dbpedia.org/property/type",
+            "count": 75
+        },
+        "address": {
+            "uri": "http://dbpedia.org/property/address",
+            "count": 6
+        }
     },
     "infoboxless": [
         "Beckhead Plantation",
@@ -470,5 +478,11 @@
         "Portishead Pier to Black Nore SSSI",
         "Rowridge Valley",
         "Shepton Montague Railway Cutting"
-    ]
+    ],
+    "Unmapped_Properties": {
+        "peopleAlsoSearchFor": 1,
+        "seeResultsAbout": 1,
+        "hours": 1,
+        "phone": 1
+    }
 }

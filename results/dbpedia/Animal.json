@@ -8,6 +8,14 @@
                 "Hybrid"
             ]
         },
+        "Abraxas grossulariata": {
+            "label": "Abraxas grossulariata",
+            "description": "Abraxas grossulariata is a moth of the family Geometridae, native to the Palaearctic ecozone and North America. Its distinctive speckled colouration has given it a common name of Magpie Moth. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Abraxas grossulariata"
+            ]
+        },
         "Abbott's Booby": {
             "label": "Abbott's Booby",
             "description": "Abbott’s Booby is an endangered seabird of the sulid family, which includes gannets and boobies. It is the largest bird of the family, and is placed within its own monotypic genus. Wikipedia",
@@ -20,25 +28,6 @@
             ],
             "Higher classification ": [
                 "Papasula"
-            ]
-        },
-        "Abraxas grossulariata": {
-            "label": "Abraxas grossulariata",
-            "description": "Abraxas grossulariata is a moth of the family Geometridae, native to the Palaearctic ecozone and North America. Its distinctive speckled colouration has given it a common name of Magpie Moth. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Abraxas grossulariata"
-            ]
-        },
-        "Abyssinian Roller": {
-            "label": "Abyssinian Roller",
-            "description": "The Abyssinian Roller is a member of the roller family of birds which breeds across tropical Africa in a belt south of the Sahara, known as the Sahel. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Coracias abyssinica"
-            ],
-            "Higher classification ": [
-                "Coracias"
             ]
         },
         "Acanthicus": {
@@ -59,6 +48,17 @@
                 " Acanthicus hystrix"
             ],
             "See results about": []
+        },
+        "Abyssinian Roller": {
+            "label": "Abyssinian Roller",
+            "description": "The Abyssinian Roller is a member of the roller family of birds which breeds across tropical Africa in a belt south of the Sahara, known as the Sahel. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Coracias abyssinica"
+            ],
+            "Higher classification ": [
+                "Coracias"
+            ]
         },
         "Acanthobrahmaea europaea": {
             "label": "Acanthobrahmaea europaea",
@@ -235,20 +235,6 @@
                 "Acanthurus monroviae"
             ]
         },
-        "Acanthurus nigroris": {
-            "label": "Acanthurus nigroris",
-            "description": "Acanthurus nigroris is a Tang from the Indo-Pacific. It occasionally makes its way into the aquarium trade. It grows to a size of 25 cm in length. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Acanthurus nigroris"
-            ],
-            "Rank ": [
-                "Species"
-            ],
-            "Higher classification ": [
-                "Acanthurus"
-            ]
-        },
         "Acanthurus nigricans": {
             "label": "Whitecheek surgeonfish",
             "description": "The whitecheek surgeonfish, also known as the goldenrim surgeonfish or yellow-spotted surgeonfish, Acanthurus nigricans, is a reef-associated tang found from the central Indo-Pacific area to the eastern Pacific coast, Hawaii included. Wikipedia",
@@ -269,6 +255,20 @@
             "type": "",
             "Scientific name ": [
                 "Acanthurus nigricauda"
+            ]
+        },
+        "Acanthurus nigroris": {
+            "label": "Acanthurus nigroris",
+            "description": "Acanthurus nigroris is a Tang from the Indo-Pacific. It occasionally makes its way into the aquarium trade. It grows to a size of 25 cm in length. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Acanthurus nigroris"
+            ],
+            "Rank ": [
+                "Species"
+            ],
+            "Higher classification ": [
+                "Acanthurus"
             ]
         },
         "Acanthurus olivaceus": {
@@ -353,10 +353,13 @@
                 "Acanthurus"
             ]
         },
-        "Acristavus": {
-            "label": "Acristavus",
-            "description": "Acristavus is a genus of saurolophine dinosaur. Fossils have been found from the Campanian Two Medicine Formation in Montana and Wahweap Formation in Utah. The type species A. gagslarsoni was named in 2011. Wikipedia",
-            "type": ""
+        "Acaste (genus)": {
+            "label": "Acaste",
+            "description": "Acaste is a genus of extinct trilobite of the order Phacopida which lived throughout the Silurian period. Wikipedia",
+            "type": "",
+            "Rank ": [
+                "Genus"
+            ]
         },
         "Acherontia atropos": {
             "label": "Acherontia atropos",
@@ -366,13 +369,10 @@
                 "Acherontia atropos"
             ]
         },
-        "Acaste (genus)": {
-            "label": "Acaste",
-            "description": "Acaste is a genus of extinct trilobite of the order Phacopida which lived throughout the Silurian period. Wikipedia",
-            "type": "",
-            "Rank ": [
-                "Genus"
-            ]
+        "Acristavus": {
+            "label": "Acristavus",
+            "description": "Acristavus is a genus of saurolophine dinosaur. Fossils have been found from the Campanian Two Medicine Formation in Montana and Wahweap Formation in Utah. The type species A. gagslarsoni was named in 2011. Wikipedia",
+            "type": ""
         },
         "Adélie Penguin": {
             "label": "Adélie Penguin",
@@ -388,22 +388,19 @@
                 "Species"
             ]
         },
-        "Aeronautes": {
-            "label": "Aeronautes",
-            "description": "Aeronautes is a genus of swifts in the Apodidae family.\nIt contains the following species\nWhite-throated Swift\nWhite-tipped Swift\nAndean Swift Wikipedia",
+        "Adamawa Turtle Dove": {
+            "label": "Adamawa Turtle Dove",
+            "description": "The Adamawa Turtle Dove is a species of bird in the Columbidae family. It is found in Cameroon, Chad, Gambia, Nigeria, Senegal, and Togo. Wikipedia",
             "type": "",
             "Scientific name ": [
-                "Aeronautes"
+                "Streptopelia hypopyrrha"
             ],
             "Rank ": [
-                "Genus"
+                "Species"
             ],
-            "Lower classifications ": [
-                "White-throated Swift",
-                " White-tipped Swift",
-                " Andean Swift"
-            ],
-            "See results about": []
+            "Higher classification ": [
+                "Streptopelia"
+            ]
         },
         "Aerodramus": {
             "label": "Aerodramus",
@@ -429,19 +426,22 @@
             ],
             "See results about": []
         },
-        "Adamawa Turtle Dove": {
-            "label": "Adamawa Turtle Dove",
-            "description": "The Adamawa Turtle Dove is a species of bird in the Columbidae family. It is found in Cameroon, Chad, Gambia, Nigeria, Senegal, and Togo. Wikipedia",
+        "Aeronautes": {
+            "label": "Aeronautes",
+            "description": "Aeronautes is a genus of swifts in the Apodidae family.\nIt contains the following species\nWhite-throated Swift\nWhite-tipped Swift\nAndean Swift Wikipedia",
             "type": "",
             "Scientific name ": [
-                "Streptopelia hypopyrrha"
+                "Aeronautes"
             ],
             "Rank ": [
-                "Species"
+                "Genus"
             ],
-            "Higher classification ": [
-                "Streptopelia"
-            ]
+            "Lower classifications ": [
+                "White-throated Swift",
+                " White-tipped Swift",
+                " Andean Swift"
+            ],
+            "See results about": []
         },
         "Aeshna isoceles": {
             "label": "Aeshna isoceles",
@@ -456,6 +456,22 @@
             "Higher classification ": [
                 "Aeshna"
             ]
+        },
+        "Aethalops": {
+            "label": "Aethalops",
+            "description": "Aethalops is a genus of megabat in the Pteropodidae family. It contains the following species\nBorneo Fruit Bat, Aethalops aequalis\nPygmy Fruit Bat, Aethalops alecto Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Aethalops"
+            ],
+            "Rank ": [
+                "Genus"
+            ],
+            "Lower classifications ": [
+                "Borneo fruit bat",
+                " Pygmy fruit bat"
+            ],
+            "See results about": []
         },
         "Aetodactylus": {
             "label": "Aetodactylus",
@@ -486,22 +502,6 @@
             "Higher classification ": [
                 "Streptopelia"
             ]
-        },
-        "Aethalops": {
-            "label": "Aethalops",
-            "description": "Aethalops is a genus of megabat in the Pteropodidae family. It contains the following species\nBorneo Fruit Bat, Aethalops aequalis\nPygmy Fruit Bat, Aethalops alecto Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Aethalops"
-            ],
-            "Rank ": [
-                "Genus"
-            ],
-            "Lower classifications ": [
-                "Borneo fruit bat",
-                " Pygmy fruit bat"
-            ],
-            "See results about": []
         },
         "African Crake": {
             "label": "African Crake",
@@ -601,6 +601,20 @@
                 "Gallinago"
             ]
         },
+        "African Wattled Lapwing": {
+            "label": "African Wattled Lapwing",
+            "description": "The African Wattled Lapwing or Senegal Wattled Plover is a large lapwing, a group of largish waders in the family Charadriidae. It is a resident breeder in most of sub-Saharan Africa outside the rainforests, although it has seasonal movements. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Vanellus senegallus"
+            ],
+            "Rank ": [
+                "Species"
+            ],
+            "Higher classification ": [
+                "Vanellus"
+            ]
+        },
         "African bush squirrel": {
             "label": "African bush squirrel",
             "description": "The African bush squirrels are a genus, Paraxerus, squirrels of the subfamily Xerinae. They are only found in Africa. Wikipedia",
@@ -628,18 +642,12 @@
                 " Vincent's bush squirrelMore"
             ]
         },
-        "African Wattled Lapwing": {
-            "label": "African Wattled Lapwing",
-            "description": "The African Wattled Lapwing or Senegal Wattled Plover is a large lapwing, a group of largish waders in the family Charadriidae. It is a resident breeder in most of sub-Saharan Africa outside the rainforests, although it has seasonal movements. Wikipedia",
+        "African softshell turtle": {
+            "label": "African softshell turtle",
+            "description": "The African softshell turtle or Nile softshell turtle is a large species of turtle from fresh-water and brackish habitats in Africa and the Near East. Wikipedia",
             "type": "",
             "Scientific name ": [
-                "Vanellus senegallus"
-            ],
-            "Rank ": [
-                "Species"
-            ],
-            "Higher classification ": [
-                "Vanellus"
+                "Trionyx triunguis"
             ]
         },
         "Agama (genus)": {
@@ -665,21 +673,39 @@
                 " Agama caudospinosaMore"
             ]
         },
-        "African softshell turtle": {
-            "label": "African softshell turtle",
-            "description": "The African softshell turtle or Nile softshell turtle is a large species of turtle from fresh-water and brackish habitats in Africa and the Near East. Wikipedia",
+        "Agelastes": {
+            "label": "Agelastes",
+            "description": "Agelastes is a small genus of birds in the guineafowl family. It comprises two species\nWhite-breasted Guineafowl, Agelastes meleagrides\nBlack Guineafowl, Agelastes niger Wikipedia",
             "type": "",
             "Scientific name ": [
-                "Trionyx triunguis"
-            ]
+                "Agelastes"
+            ],
+            "Rank ": [
+                "Genus"
+            ],
+            "Higher classification ": [
+                "Guineafowl"
+            ],
+            "Lower classifications ": [
+                "Black Guineafowl",
+                " White-breasted Guineafowl"
+            ],
+            "See results about": []
         },
-        "Aglia tau": {
-            "label": "Aglia tau",
-            "description": "The Tau Emperor is a moth of the family Saturniidae. It is found in Europe.\nThe wingspan is 60–84 mm. The moth flies in one generation from March to July depending on the location. Wikipedia",
+        "Agile Frog": {
+            "label": "Agile frog",
+            "description": "The agile frog is a frog in the genus Rana in the family of the true frogs. Wikipedia",
             "type": "",
             "Scientific name ": [
-                "Aglia tau"
-            ]
+                "Rana dalmatina"
+            ],
+            "Rank ": [
+                "Species"
+            ],
+            "Higher classification ": [
+                "Rana"
+            ],
+            "See results about": []
         },
         "Agkistrodon contortrix": {
             "label": "Agkistrodon contortrix",
@@ -701,6 +727,14 @@
                 " Agkistrodon contortrix laticinctusMore"
             ],
             "See results about": []
+        },
+        "Aglia tau": {
+            "label": "Aglia tau",
+            "description": "The Tau Emperor is a moth of the family Saturniidae. It is found in Europe.\nThe wingspan is 60–84 mm. The moth flies in one generation from March to July depending on the location. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Aglia tau"
+            ]
         },
         "Agnesiidae": {
             "label": "Agnesiidae",
@@ -787,17 +821,6 @@
             ],
             "See results about": []
         },
-        "Amami Woodcock": {
-            "label": "Amami Woodcock",
-            "description": "The Amami Woodcock is a medium sized wader. It is slightly larger and longer-legged than Eurasian Woodcock, and may be conspecific. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Scolopax mira"
-            ],
-            "Higher classification ": [
-                "Woodcock"
-            ]
-        },
         "Alpheidae": {
             "label": "Alpheidae",
             "description": "Alpheidae is a family of caridean snapping shrimp characterized by having asymmetrical claws, the larger of which is typically capable of producing a loud snapping sound. Other common names of these species include pistol shrimp or alpheid shrimp. Wikipedia",
@@ -818,6 +841,17 @@
                 " Athanas",
                 " Metabetaeus",
                 " SynalpheusMore"
+            ]
+        },
+        "Amami Woodcock": {
+            "label": "Amami Woodcock",
+            "description": "The Amami Woodcock is a medium sized wader. It is slightly larger and longer-legged than Eurasian Woodcock, and may be conspecific. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Scolopax mira"
+            ],
+            "Higher classification ": [
+                "Woodcock"
             ]
         },
         "Amastra cylindrica": {
@@ -868,20 +902,6 @@
             ],
             "See results about": []
         },
-        "Amazon black howler": {
-            "label": "Amazon black howler",
-            "description": "The Amazon black howler is a species of howler monkey, a type of New World monkey, endemic to the south-central Amazon in Brazil. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Alouatta nigerrima"
-            ],
-            "Rank ": [
-                "Species"
-            ],
-            "Higher classification ": [
-                "Howler monkey"
-            ]
-        },
         "Amazon Kingfisher": {
             "label": "Amazon Kingfisher",
             "description": "The Amazon Kingfisher is a resident breeding bird in the lowlands of the American tropics from southern Mexico south through Central America to northern Argentina, with at least one bird having strayed north to Texas. Wikipedia",
@@ -894,6 +914,20 @@
             ],
             "Rank ": [
                 "Species"
+            ]
+        },
+        "Amazon black howler": {
+            "label": "Amazon black howler",
+            "description": "The Amazon black howler is a species of howler monkey, a type of New World monkey, endemic to the south-central Amazon in Brazil. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Alouatta nigerrima"
+            ],
+            "Rank ": [
+                "Species"
+            ],
+            "Higher classification ": [
+                "Howler monkey"
             ]
         },
         "Amazonsaurus": {
@@ -939,40 +973,6 @@
                 " Menoponidae"
             ]
         },
-        "Agelastes": {
-            "label": "Agelastes",
-            "description": "Agelastes is a small genus of birds in the guineafowl family. It comprises two species\nWhite-breasted Guineafowl, Agelastes meleagrides\nBlack Guineafowl, Agelastes niger Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Agelastes"
-            ],
-            "Rank ": [
-                "Genus"
-            ],
-            "Higher classification ": [
-                "Guineafowl"
-            ],
-            "Lower classifications ": [
-                "Black Guineafowl",
-                " White-breasted Guineafowl"
-            ],
-            "See results about": []
-        },
-        "Agile Frog": {
-            "label": "Agile frog",
-            "description": "The agile frog is a frog in the genus Rana in the family of the true frogs. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Rana dalmatina"
-            ],
-            "Rank ": [
-                "Species"
-            ],
-            "Higher classification ": [
-                "Rana"
-            ],
-            "See results about": []
-        },
         "Amblyopsidae": {
             "label": "Amblyopsidae",
             "description": "The Amblyopsidae are a fish family commonly referred to as cavefish, blindfish, or swampfish. They are small freshwater fish found in the dark environments of swamps, caves, and deep lakes in the eastern half of the United States. Wikipedia",
@@ -988,14 +988,14 @@
                 " Typhlichthys"
             ]
         },
-        "Amebelodon": {
-            "label": "Amebelodon",
-            "description": "Amebelodon is a member of a diverse group of primitive proboscideans called gomphotheres, a group that also gave rise to the modern elephants and their close relative the mammoth. Wikipedia",
-            "type": ""
-        },
         "Ambulacraria": {
             "label": "Ambulacraria",
             "description": "Ambulacraria is a clade of invertebrate phyla which includes echinoderms, hemichordates, and Xenoturbellida; a member of this group is called an ambulacrarian. Wikipedia",
+            "type": ""
+        },
+        "Amebelodon": {
+            "label": "Amebelodon",
+            "description": "Amebelodon is a member of a diverse group of primitive proboscideans called gomphotheres, a group that also gave rise to the modern elephants and their close relative the mammoth. Wikipedia",
             "type": ""
         },
         "American Black Duck": {
@@ -1242,18 +1242,26 @@
         }
     },
     "summary": {
-        "label": 88,
-        "description": 88,
-        "type": 88,
-        "rank": 1,
-        "scientific_name": 1,
-        "higher_classification": 1,
-        "lower_classifications": 1,
-        "see_results_about": 1,
-        "length": 1,
-        "wingspan": 1,
-        "mass": 1,
-        "symbol_of": 1
+        "label": {
+            "uri": "http://dbpedia.org/property/label",
+            "count": 88
+        },
+        "description": {
+            "uri": "http://purl.org/dc/elements/1.1/description",
+            "count": 88
+        },
+        "type": {
+            "uri": "http://dbpedia.org/property/type",
+            "count": 88
+        },
+        "scientificName": {
+            "uri": "http://dbpedia.org/property/scientificName",
+            "count": 79
+        },
+        "length": {
+            "uri": "http://dbpedia.org/property/length",
+            "count": 2
+        }
     },
     "infoboxless": [
         "Acanthocnemidae",
@@ -1268,5 +1276,14 @@
         "Allactaga",
         "Amblyornis",
         "Ammersee Ruffe"
-    ]
+    ],
+    "Unmapped_Properties": {
+        "rank": 1,
+        "higherClassification": 1,
+        "lowerClassifications": 1,
+        "seeResultsAbout": 1,
+        "wingspan": 1,
+        "mass": 1,
+        "symbolOf": 1
+    }
 }

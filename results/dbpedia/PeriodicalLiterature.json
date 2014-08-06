@@ -6,15 +6,15 @@
             "type": "",
             "See results about": []
         },
-        "Skeptical Inquirer": {
-            "label": "Skeptical Inquirer",
-            "description": "The Skeptical Inquirer is a bimonthly American magazine published by the Committee for Skeptical Inquiry with the subtitle The magazine for science and reason. Wikipedia",
-            "type": "",
-            "See results about": []
-        },
         "News of the World": {
             "label": "News of the World",
             "description": "The News of the World was a national red top newspaper published in the United Kingdom from 1843 to 2011. Wikipedia",
+            "type": "",
+            "See results about": []
+        },
+        "Skeptical Inquirer": {
+            "label": "Skeptical Inquirer",
+            "description": "The Skeptical Inquirer is a bimonthly American magazine published by the Committee for Skeptical Inquiry with the subtitle The magazine for science and reason. Wikipedia",
             "type": "",
             "See results about": []
         },
@@ -46,15 +46,34 @@
         }
     },
     "summary": {
-        "label": 5,
-        "description": 5,
-        "type": 5,
-        "see_results_about": 1,
-        "recent_posts": 1,
-        "founded": 1,
-        "headquarters": 1,
-        "ceo": 1,
-        "founders": 1
+        "label": {
+            "uri": "http://dbpedia.org/property/label",
+            "count": 5
+        },
+        "description": {
+            "uri": "http://dbpedia.org/ontology/description",
+            "count": 5
+        },
+        "type": {
+            "uri": "http://dbpedia.org/property/type",
+            "count": 5
+        },
+        "founded": {
+            "uri": "http://dbpedia.org/property/founded",
+            "count": 1
+        },
+        "headquarters": {
+            "uri": "http://dbpedia.org/property/headquarters",
+            "count": 1
+        },
+        "ceo": {
+            "uri": "http://dbpedia.org/property/ceo",
+            "count": 1
+        },
+        "founders": {
+            "uri": "http://dbpedia.org/property/founders",
+            "count": 1
+        }
     },
     "infoboxless": [
         "AVN (magazine)",
@@ -152,5 +171,9 @@
         "Don Balón",
         "El Ideal Gallego",
         "El Jueves"
-    ]
+    ],
+    "Unmapped_Properties": {
+        "seeResultsAbout": 1,
+        "recentPosts": 1
+    }
 }

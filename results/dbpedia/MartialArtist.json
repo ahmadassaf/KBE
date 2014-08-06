@@ -1,42 +1,5 @@
 {
     "instances": {
-        "Eric Esch": {
-            "label": "Eric Esch",
-            "description": "Eric Scott Esch, commonly referred to as Butterbean, is an American boxer, kickboxer, mixed martial artist and professional wrestler who competes in the heavyweight division. Wikipedia",
-            "type": "Professional Boxer",
-            "Born ": "August 3, 1966 (age 47), Bay City, Michigan, United States",
-            "Weight ": [
-                "417 lbs (189 kg)"
-            ],
-            "Height ": [
-                "5' 11\" (1.81 m)"
-            ],
-            "Nationality ": [
-                "American"
-            ],
-            "Children ": [
-                "Brandon Esch",
-                " Grace Esch",
-                " Caleb Esch"
-            ],
-            "Movies ": [
-                "Chairman of the Board",
-                " Pride FC Pride 32 The Real Deal",
-                " Pride FC Pride 34 Kamikaze",
-                " Pride FC Bushido Vol. 12"
-            ],
-            "People also search for": []
-        },
-        "Emin Boztepe": {
-            "label": "Emin Boztepe",
-            "description": "Emin Boztepe is an American martial artist of Turkish origin who held German nationality prior to naturalization. Wikipedia",
-            "type": "",
-            "Born ": "June 17, 1962 (age 51), Eskişehir, Turkey",
-            "Movies ": [
-                "The Last Ottoman"
-            ],
-            "People also search for": []
-        },
         "Chatan Yara": {
             "label": "Chatan Yara",
             "description": "Chatan Yara, aka Yara Guwa, Ueekata, Yomitan Yara, is credited with being one of the first to disseminate the art of Te throughout Okinawa. Wikipedia",
@@ -65,6 +28,53 @@
             ],
             "People also search for": []
         },
+        "Emin Boztepe": {
+            "label": "Emin Boztepe",
+            "description": "Emin Boztepe is an American martial artist of Turkish origin who held German nationality prior to naturalization. Wikipedia",
+            "type": "",
+            "Born ": "June 17, 1962 (age 51), Eskişehir, Turkey",
+            "Movies ": [
+                "The Last Ottoman"
+            ],
+            "People also search for": []
+        },
+        "Eric Esch": {
+            "label": "Eric Esch",
+            "description": "Eric Scott Esch, commonly referred to as Butterbean, is an American boxer, kickboxer, mixed martial artist and professional wrestler who competes in the heavyweight division. Wikipedia",
+            "type": "Professional Boxer",
+            "Born ": "August 3, 1966 (age 47), Bay City, Michigan, United States",
+            "Weight ": [
+                "417 lbs (189 kg)"
+            ],
+            "Height ": [
+                "5' 11\" (1.81 m)"
+            ],
+            "Nationality ": [
+                "American"
+            ],
+            "Children ": [
+                "Brandon Esch",
+                " Grace Esch",
+                " Caleb Esch"
+            ],
+            "Movies ": [
+                "Chairman of the Board",
+                " Pride FC Pride 32 The Real Deal",
+                " Pride FC Pride 34 Kamikaze",
+                " Pride FC Bushido Vol. 12"
+            ],
+            "People also search for": []
+        },
+        "Ernesto Hoost": {
+            "label": "Ernesto Hoost",
+            "description": "Ernesto Fritz \"Mr. Perfect\" Hoost is a Dutch former kickboxing legend and four-time K-1 World Champion. He made his debut in 1993 at the K-1 World Grand Prix 1993, where he came just one win short of the world title. Wikipedia",
+            "type": "",
+            "Born ": "July 11, 1965 (age 48), Heemskerk, Netherlands",
+            "Height ": [
+                "6' 2\" (1.88 m)"
+            ],
+            "People also search for": []
+        },
         "Eyal Yanilov": {
             "label": "Eyal Yanilov",
             "description": "Eyal Yanilov is an Israeli Krav Maga instructor and currently Chief Instructor of Krav Maga Global. He was a co-founder and Chief Instructor of the International Krav Maga Federation from 1996 to 2010. Wikipedia",
@@ -77,16 +87,6 @@
                 "Krav Maga The Best Defense",
                 " Krav Maga Basic Combatives",
                 " Krav Maga Line of Fire"
-            ],
-            "People also search for": []
-        },
-        "Ernesto Hoost": {
-            "label": "Ernesto Hoost",
-            "description": "Ernesto Fritz \"Mr. Perfect\" Hoost is a Dutch former kickboxing legend and four-time K-1 World Champion. He made his debut in 1993 at the K-1 World Grand Prix 1993, where he came just one win short of the world title. Wikipedia",
-            "type": "",
-            "Born ": "July 11, 1965 (age 48), Heemskerk, Netherlands",
-            "Height ": [
-                "6' 2\" (1.88 m)"
             ],
             "People also search for": []
         },
@@ -106,6 +106,13 @@
             "Education ": [
                 "Waseda University"
             ],
+            "People also search for": []
+        },
+        "Ichiro Abe": {
+            "label": "Ichiro Abe",
+            "description": "Ichiro Abe is a Japanese judoka. He is head of the Promotions Panel at the Kodokan and former international chairperson of the All Nippon Judo Federation. Wikipedia",
+            "type": "",
+            "Born ": "November 12, 1922 (age 91)",
             "People also search for": []
         },
         "Kanei Uechi": {
@@ -131,13 +138,6 @@
             "description": "Keith Ronald Graf von Rothenburg Kernspecht, better known as Keith R. Kernspecht, is a German martial artist and entrepreneur. Wikipedia",
             "type": "Martial Artist",
             "Born ": "June 28, 1945 (age 68), Grömitz, Germany",
-            "People also search for": []
-        },
-        "Ichiro Abe": {
-            "label": "Ichiro Abe",
-            "description": "Ichiro Abe is a Japanese judoka. He is head of the Promotions Panel at the Kodokan and former international chairperson of the All Nippon Judo Federation. Wikipedia",
-            "type": "",
-            "Born ": "November 12, 1922 (age 91)",
             "People also search for": []
         },
         "Leung Ting": {
@@ -169,11 +169,6 @@
             ],
             "People also search for": []
         },
-        "Masatoshi Nakayama": {
-            "label": "Masatoshi Nakayama",
-            "description": "Masatoshi Nakayama was an internationally renowned Japanese master of Shotokan karate. He helped establish the Japan Karate Association in 1949, and wrote many textbooks on karate, which served to popularize his martial art. Wikipedia",
-            "type": "Martial Artist"
-        },
         "Masaaki Hatsumi": {
             "label": "Masaaki Hatsumi",
             "description": "Masaaki Hatsumi, formerly Yoshiaki Hatsumi, is the founder of the Bujinkan Organization and claims to be the current Togakure-ryū Soke. He currently resides and teaches in Noda, Chiba, Japan. Wikipedia",
@@ -187,16 +182,10 @@
             ],
             "Books": []
         },
-        "Motobu Chōki": {
-            "label": "Motobu Chōki",
-            "description": "Motobu Chōki was a Japanese karateka from Akahira Village in Shuri, Okinawa, capital of the Ryūkyū Kingdom when he was born. His elder brother Motobu Chōyū was also a noted karateka. Wikipedia",
-            "type": "",
-            "Born ": "April 5, 1870, Shuri, Okinawa, Japan",
-            "Died ": "April 15, 1944, Shuri, Okinawa, Japan",
-            "Siblings ": [
-                "Motobu Chōyū"
-            ],
-            "People also search for": []
+        "Masatoshi Nakayama": {
+            "label": "Masatoshi Nakayama",
+            "description": "Masatoshi Nakayama was an internationally renowned Japanese master of Shotokan karate. He helped establish the Japan Karate Association in 1949, and wrote many textbooks on karate, which served to popularize his martial art. Wikipedia",
+            "type": "Martial Artist"
         },
         "Matsumura Sōkon": {
             "label": "Sōkon Matsumura",
@@ -213,6 +202,17 @@
                 " Shuri",
                 " Okinawa",
                 " Japan"
+            ],
+            "People also search for": []
+        },
+        "Motobu Chōki": {
+            "label": "Motobu Chōki",
+            "description": "Motobu Chōki was a Japanese karateka from Akahira Village in Shuri, Okinawa, capital of the Ryūkyū Kingdom when he was born. His elder brother Motobu Chōyū was also a noted karateka. Wikipedia",
+            "type": "",
+            "Born ": "April 5, 1870, Shuri, Okinawa, Japan",
+            "Died ": "April 15, 1944, Shuri, Okinawa, Japan",
+            "Siblings ": [
+                "Motobu Chōyū"
             ],
             "People also search for": []
         },
@@ -258,20 +258,6 @@
             "Died ": "November 2, 1997, Naha, Okinawa Prefecture, Japan",
             "People also search for": []
         },
-        "Tetsuhiko Asai": {
-            "label": "Tetsuhiko Asai",
-            "description": "Tetsuhiko Asai was a prominent Japanese master of Shotokan karate who was a former Technical Director of the Japan Karate Association, founder and Chief Instructor of the International Japan Martial ... Wikipedia",
-            "type": "",
-            "Born ": "June 7, 1935, Ehime Prefecture, Japan",
-            "Died ": "August 15, 2006, Japan",
-            "Education ": [
-                "Takushoku University"
-            ],
-            "Spouse ": [
-                "Keiko Asai"
-            ],
-            "People also search for": []
-        },
         "Sven Ottke": {
             "label": "Sven Ottke",
             "description": "Sven Ottke, known as \"The Phantom\", is a German former professional boxer who was the IBF/WBA super middleweight champion. Ottke was the third European boxer to retire as an undefeated world champion, after Terry Marsh and Romanian Michael Loewe. Wikipedia",
@@ -302,16 +288,19 @@
             ],
             "People also search for": []
         },
-        "Gichin Funakoshi": {
-            "label": "Gichin Funakoshi",
-            "description": "Gichin Funakoshi is the founder of Shotokan Karate-Do, perhaps the most widely known style of karate, and is attributed as being the \"father of modern karate\". Wikipedia",
+        "Tetsuhiko Asai": {
+            "label": "Tetsuhiko Asai",
+            "description": "Tetsuhiko Asai was a prominent Japanese master of Shotokan karate who was a former Technical Director of the Japan Karate Association, founder and Chief Instructor of the International Japan Martial ... Wikipedia",
             "type": "",
-            "Born ": "November 10, 1868, Shuri, Okinawa, Japan",
-            "Died ": "April 26, 1957, Tokyo, Japan",
-            "Children ": [
-                "Gigō Funakoshi"
+            "Born ": "June 7, 1935, Ehime Prefecture, Japan",
+            "Died ": "August 15, 2006, Japan",
+            "Education ": [
+                "Takushoku University"
             ],
-            "Books": []
+            "Spouse ": [
+                "Keiko Asai"
+            ],
+            "People also search for": []
         },
         "Tito Ortiz": {
             "label": "Tito Ortiz",
@@ -344,6 +333,32 @@
             ],
             "People also search for": []
         },
+        "Gichin Funakoshi": {
+            "label": "Gichin Funakoshi",
+            "description": "Gichin Funakoshi is the founder of Shotokan Karate-Do, perhaps the most widely known style of karate, and is attributed as being the \"father of modern karate\". Wikipedia",
+            "type": "",
+            "Born ": "November 10, 1868, Shuri, Okinawa, Japan",
+            "Died ": "April 26, 1957, Tokyo, Japan",
+            "Children ": [
+                "Gigō Funakoshi"
+            ],
+            "Books": []
+        },
+        "Gozo Shioda": {
+            "label": "Gōzō Shioda",
+            "description": "Gozo Shioda was a Japanese master of aikido who founded the Yoshinkan style of aikido. He was one of aikido founder Morihei Ueshiba's most senior students. Shioda held the rank of 10th dan in aikido. Wikipedia",
+            "type": "Sensei",
+            "Born ": "September 9, 1915, Shinjuku, Tokyo, Japan",
+            "Died ": "July 17, 1994, Japan",
+            "Education ": [
+                "Takushoku University"
+            ],
+            "Martial arts ": [
+                "Judo",
+                " Aikido"
+            ],
+            "Books": []
+        },
         "Jean-Claude Van Damme": {
             "label": "Jean-Claude Van Damme",
             "description": "Jean-Claude Camille François Van Varenberg, professionally known as Jean-Claude Van Damme and abbreviated as JCVD, is a Belgian martial artist, actor, and director best known for his martial arts action films. Wikipedia",
@@ -368,21 +383,6 @@
                 "Veronique Van Varenberg"
             ],
             "Movies": []
-        },
-        "Gozo Shioda": {
-            "label": "Gōzō Shioda",
-            "description": "Gozo Shioda was a Japanese master of aikido who founded the Yoshinkan style of aikido. He was one of aikido founder Morihei Ueshiba's most senior students. Shioda held the rank of 10th dan in aikido. Wikipedia",
-            "type": "Sensei",
-            "Born ": "September 9, 1915, Shinjuku, Tokyo, Japan",
-            "Died ": "July 17, 1994, Japan",
-            "Education ": [
-                "Takushoku University"
-            ],
-            "Martial arts ": [
-                "Judo",
-                " Aikido"
-            ],
-            "Books": []
         },
         "Kanō Jigorō": {
             "label": "Jigoro Kano",
@@ -472,17 +472,11 @@
             ],
             "People also search for": []
         },
-        "Erhan Deniz": {
-            "label": "Erhan Deniz",
-            "description": "Erhan \"Pitbull Attack\" Deniz is a Turkish heavyweight kickboxer, who fights out of Mejiro Gym and Global Gym. His nickname comes from his passion on pit bull dogs. Wikipedia",
-            "type": "",
-            "Born ": "July 28, 1985 (age 28), Istanbul, Turkey",
-            "Height ": [
-                "6' 0\" (1.84 m)"
-            ],
-            "Weight ": [
-                "214 lbs (97 kg)"
-            ],
+        "Bristol Marunde": {
+            "label": "Bristol Marunde",
+            "description": "Bristol Marunde is an American mixed martial artist currently competing in the Welterweight division. Wikipedia",
+            "type": "Martial Artist",
+            "Born ": "April 20, 1982 (age 31), Fairbanks, Alaska, United States",
             "People also search for": []
         },
         "David Avellan": {
@@ -499,18 +493,17 @@
             ],
             "People also search for": []
         },
-        "Bristol Marunde": {
-            "label": "Bristol Marunde",
-            "description": "Bristol Marunde is an American mixed martial artist currently competing in the Welterweight division. Wikipedia",
-            "type": "Martial Artist",
-            "Born ": "April 20, 1982 (age 31), Fairbanks, Alaska, United States",
-            "People also search for": []
-        },
-        "Gülderen Çelik": {
-            "label": "Gülderen Çelik",
-            "description": "Gülderen Çelik is a Turkish female karateka competing in the kumite –53 kg division. The 1.80 m tall athlete is member of the Sarıyer Belediyespor in Istanbul. Her trainer is Turan Yılmaz. Wikipedia",
+        "Erhan Deniz": {
+            "label": "Erhan Deniz",
+            "description": "Erhan \"Pitbull Attack\" Deniz is a Turkish heavyweight kickboxer, who fights out of Mejiro Gym and Global Gym. His nickname comes from his passion on pit bull dogs. Wikipedia",
             "type": "",
-            "Born ": "April 13, 1980 (age 33), Istanbul, Turkey",
+            "Born ": "July 28, 1985 (age 28), Istanbul, Turkey",
+            "Height ": [
+                "6' 0\" (1.84 m)"
+            ],
+            "Weight ": [
+                "214 lbs (97 kg)"
+            ],
             "People also search for": []
         },
         "Felicia Oh": {
@@ -523,14 +516,11 @@
             ],
             "People also search for": []
         },
-        "Gerard Gordeau": {
-            "label": "Gerard Gordeau",
-            "description": "Gerard Gordeau is a retired Dutch savateur, karateka, and mixed martial artist. He is the 1991 World Champion Savate and holder of the Dutch Champion Kyokushin Karate title for 8 consecutive years, but ... Wikipedia",
-            "type": "Martial Artist",
-            "Born ": "March 30, 1959 (age 54), The Hague, Netherlands",
-            "Movies ": [
-                "UFC Classics Ultimate Fighting Championship Vol. 1"
-            ],
+        "Gülderen Çelik": {
+            "label": "Gülderen Çelik",
+            "description": "Gülderen Çelik is a Turkish female karateka competing in the kumite –53 kg division. The 1.80 m tall athlete is member of the Sarıyer Belediyespor in Istanbul. Her trainer is Turan Yılmaz. Wikipedia",
+            "type": "",
+            "Born ": "April 13, 1980 (age 33), Istanbul, Turkey",
             "People also search for": []
         },
         "Gary Daniels": {
@@ -553,25 +543,21 @@
             ],
             "Movies": []
         },
-        "Josh Barnett": {
-            "label": "Josh Barnett",
-            "description": "Joshua Lawrence Barnett is an American mixed martial artist and professional wrestler who competes in the Heavyweight division of the UFC where he is a former UFC Heavyweight Champion. Wikipedia",
+        "Gerard Gordeau": {
+            "label": "Gerard Gordeau",
+            "description": "Gerard Gordeau is a retired Dutch savateur, karateka, and mixed martial artist. He is the 1991 World Champion Savate and holder of the Dutch Champion Kyokushin Karate title for 8 consecutive years, but ... Wikipedia",
             "type": "Martial Artist",
-            "Born ": "November 10, 1977 (age 36), Seattle, Washington, United States",
-            "Height ": [
-                "6' 3\" (1.91 m)"
-            ],
-            "Nationality ": [
-                "American"
-            ],
-            "Martial art ": [
-                "Catch wrestling"
-            ],
+            "Born ": "March 30, 1959 (age 54), The Hague, Netherlands",
             "Movies ": [
-                "Pride FC Total Elimination Absolute 2006",
-                " Pride FC Shockwave 2006",
-                " Pride FC Pride 32 The Real Deal"
+                "UFC Classics Ultimate Fighting Championship Vol. 1"
             ],
+            "People also search for": []
+        },
+        "Hesdy Gerges": {
+            "label": "Hesdy Gerges",
+            "description": "Hesdy Gerges is an Egyptian-Dutch kickboxer, fighting out of the Vos Gym in Amsterdam, Netherlands. He held the It's Showtime World Heavyweight title until January 28, 2012. Wikipedia",
+            "type": "",
+            "Born ": "February 20, 1984 (age 30), Netherlands",
             "People also search for": []
         },
         "James Thompson (fighter)": {
@@ -592,11 +578,25 @@
             ],
             "People also search for": []
         },
-        "Hesdy Gerges": {
-            "label": "Hesdy Gerges",
-            "description": "Hesdy Gerges is an Egyptian-Dutch kickboxer, fighting out of the Vos Gym in Amsterdam, Netherlands. He held the It's Showtime World Heavyweight title until January 28, 2012. Wikipedia",
-            "type": "",
-            "Born ": "February 20, 1984 (age 30), Netherlands",
+        "Josh Barnett": {
+            "label": "Josh Barnett",
+            "description": "Joshua Lawrence Barnett is an American mixed martial artist and professional wrestler who competes in the Heavyweight division of the UFC where he is a former UFC Heavyweight Champion. Wikipedia",
+            "type": "Martial Artist",
+            "Born ": "November 10, 1977 (age 36), Seattle, Washington, United States",
+            "Height ": [
+                "6' 3\" (1.91 m)"
+            ],
+            "Nationality ": [
+                "American"
+            ],
+            "Martial art ": [
+                "Catch wrestling"
+            ],
+            "Movies ": [
+                "Pride FC Total Elimination Absolute 2006",
+                " Pride FC Shockwave 2006",
+                " Pride FC Pride 32 The Real Deal"
+            ],
             "People also search for": []
         },
         "Luke Cummo": {
@@ -635,6 +635,24 @@
             ],
             "People also search for": []
         },
+        "Yuri Maier": {
+            "label": "Yuri Maier",
+            "description": "Yuri Maier is an Argentine Olympic wrestler, who has won multiple international titles representing his country and individually. Wikipedia",
+            "type": "Olympic athlete",
+            "Born ": "April 5, 1989 (age 24), Corrientes, Argentina",
+            "Height ": [
+                "5' 11\" (1.80 m)"
+            ],
+            "Weight ": [
+                "212 lbs (96 kg)"
+            ],
+            "People also search for ": [
+                "Patricia Alejandra Bermudez",
+                " Luis Vivenes",
+                " Javier Cortina",
+                " Khetag Pliev"
+            ]
+        },
         "Adam Watt": {
             "label": "Adam Watt",
             "description": "Adam Keith Watt is an Australian former boxer and kickboxer. He has studied kickboxing, Seido-kaikan karate, and boxing. Wikipedia",
@@ -653,24 +671,6 @@
                 "Cruiserweight"
             ],
             "People also search for": []
-        },
-        "Yuri Maier": {
-            "label": "Yuri Maier",
-            "description": "Yuri Maier is an Argentine Olympic wrestler, who has won multiple international titles representing his country and individually. Wikipedia",
-            "type": "Olympic athlete",
-            "Born ": "April 5, 1989 (age 24), Corrientes, Argentina",
-            "Height ": [
-                "5' 11\" (1.80 m)"
-            ],
-            "Weight ": [
-                "212 lbs (96 kg)"
-            ],
-            "People also search for ": [
-                "Patricia Alejandra Bermudez",
-                " Luis Vivenes",
-                " Javier Cortina",
-                " Khetag Pliev"
-            ]
         },
         "Alex Gong": {
             "label": "Alex Gong",
@@ -728,42 +728,6 @@
             ],
             "People also search for": []
         },
-        "Alexey Ignashov": {
-            "label": "Alexey Ignashov",
-            "description": "Alexey Victoravich Ignashov is a Belarusian Super Heavyweight kickboxer. He is a four-time Muay Thai World champion, K-1 World GP 2003 in Paris and K-1 World GP 2001 in Nagoya tournament champion. Wikipedia",
-            "type": "",
-            "Born ": "January 18, 1978 (age 36), Minsk, Belarus",
-            "People also search for": []
-        },
-        "Antônio Rodrigo Nogueira": {
-            "label": "Antônio Rodrigo Nogueira",
-            "description": "Antônio Rodrigo Nogueira, better known as Minotauro or Minotauro Nogueira, is a Brazilian mixed martial artist known for his technical mastery of Brazilian Jiu-Jitsu. Wikipedia",
-            "type": "Mixed Martial Artist",
-            "Born ": "June 2, 1976 (age 37), Vitória da Conquista, Bahia, Brazil",
-            "Parents ": [
-                "Antonio Amielto Nogueira"
-            ],
-            "Siblings ": [
-                "Antônio Rogério Nogueira"
-            ],
-            "Movies": []
-        },
-        "Boris Georgiev": {
-            "label": "Boris Georgiev",
-            "description": "Boris Georgiev is an amateur boxer from Bulgaria who won a bronze medal at the 2004 Summer Olympics in the Light Welterweight class. Wikipedia",
-            "type": "Boxer",
-            "Born ": "December 5, 1982 (age 31), Sofia, Bulgaria",
-            "Height ": [
-                "5' 9\" (1.75 m)"
-            ],
-            "Martial art ": [
-                "Boxing"
-            ],
-            "Division ": [
-                "Light welterweight"
-            ],
-            "People also search for": []
-        },
         "Assuerio Silva": {
             "label": "Assuerio Silva",
             "description": "Assuerio Silva is a Brazilian mixed martial artist and professional boxer, having most recently competed in the Ultimate Fighting Championship and Pancrase. He became the Heavyweight King of Pancrase on May 30, 2007, defeating Tatsuya Mizuno. Wikipedia",
@@ -814,6 +778,36 @@
             ],
             "People also search for": []
         },
+        "Boris Georgiev": {
+            "label": "Boris Georgiev",
+            "description": "Boris Georgiev is an amateur boxer from Bulgaria who won a bronze medal at the 2004 Summer Olympics in the Light Welterweight class. Wikipedia",
+            "type": "Boxer",
+            "Born ": "December 5, 1982 (age 31), Sofia, Bulgaria",
+            "Height ": [
+                "5' 9\" (1.75 m)"
+            ],
+            "Martial art ": [
+                "Boxing"
+            ],
+            "Division ": [
+                "Light welterweight"
+            ],
+            "People also search for": []
+        },
+        "Chen Fake": {
+            "label": "Chen Fake",
+            "description": "Chen Fake or Ch'en Fa-k'e was a Chinese taijiquan teacher. Born and raised in Chen Family Village in Henan province, he was the 17th generation lineage holder of Chen-style taijiquan. Wikipedia",
+            "type": "",
+            "Born ": [
+                "1887",
+                " Henan",
+                " China"
+            ],
+            "Died ": [
+                "1957"
+            ],
+            "People also search for": []
+        },
         "Chris Leben": {
             "label": "Chris Leben",
             "description": "Christian Cyrus Leben is a retired American mixed martial artist who fought for the UFC as a Middleweight, compiling a record of 12-10 in 22 appearances for the organization. Wikipedia",
@@ -848,20 +842,6 @@
             ],
             "Education ": [
                 "University of Minnesota"
-            ],
-            "People also search for": []
-        },
-        "Chen Fake": {
-            "label": "Chen Fake",
-            "description": "Chen Fake or Ch'en Fa-k'e was a Chinese taijiquan teacher. Born and raised in Chen Family Village in Henan province, he was the 17th generation lineage holder of Chen-style taijiquan. Wikipedia",
-            "type": "",
-            "Born ": [
-                "1887",
-                " Henan",
-                " China"
-            ],
-            "Died ": [
-                "1957"
             ],
             "People also search for": []
         },
@@ -943,6 +923,26 @@
             ],
             "People also search for": []
         },
+        "Daniel Cormier": {
+            "label": "Daniel Cormier",
+            "description": "Daniel Cormier is an American mixed martial artist and former Olympic wrestler. He is signed to the Ultimate Fighting Championship, currently competing in the light heavyweight division. Cormier was the Strikeforce Heavyweight Grand Prix Champion. Wikipedia",
+            "type": "Wrestler",
+            "Born ": "March 20, 1979 (age 35), Lafayette, Louisiana, United States",
+            "Weight ": [
+                "247 lbs (112 kg)"
+            ],
+            "Height ": [
+                "6' 0\" (1.84 m)"
+            ],
+            "Nationality ": [
+                "American"
+            ],
+            "Education ": [
+                "Oklahoma State University–Stillwater",
+                " Colby Community College"
+            ],
+            "People also search for": []
+        },
         "David Tua": {
             "label": "David Tua",
             "description": "David Tua is a former professional heavyweight boxer, who fought out of South Auckland, New Zealand. Tua is a former world heavyweight title challenger and is known for his punching power. Wikipedia",
@@ -998,23 +998,22 @@
             ],
             "People also search for": []
         },
-        "Daniel Cormier": {
-            "label": "Daniel Cormier",
-            "description": "Daniel Cormier is an American mixed martial artist and former Olympic wrestler. He is signed to the Ultimate Fighting Championship, currently competing in the light heavyweight division. Cormier was the Strikeforce Heavyweight Grand Prix Champion. Wikipedia",
-            "type": "Wrestler",
-            "Born ": "March 20, 1979 (age 35), Lafayette, Louisiana, United States",
-            "Weight ": [
-                "247 lbs (112 kg)"
-            ],
+        "Emmanuel Yarborough": {
+            "label": "Emmanuel Yarborough",
+            "description": "Emmanuel 'Manny' Yarbrough is an American amateur sumo wrestler and mixed martial arts competitor, also having competed in judo, wrestling, and American football. He is 6 ft 8 in tall and has weighed up to 800+ lb. Wikipedia",
+            "type": "Sumo Wrestler",
+            "Born ": "September 5, 1964 (age 49), Rahway, New Jersey, United States",
             "Height ": [
-                "6' 0\" (1.84 m)"
+                "6' 8\" (2.03 m)"
             ],
-            "Nationality ": [
-                "American"
+            "Weight ": [
+                "595 lbs (270 kg)"
             ],
             "Education ": [
-                "Oklahoma State University–Stillwater",
-                " Colby Community College"
+                "Morgan State University"
+            ],
+            "Movies ": [
+                "Dirty Movie"
             ],
             "People also search for": []
         },
@@ -1026,6 +1025,26 @@
             "Movies ": [
                 "King of the Cage Showtime"
             ],
+            "People also search for": []
+        },
+        "Antônio Rodrigo Nogueira": {
+            "label": "Antônio Rodrigo Nogueira",
+            "description": "Antônio Rodrigo Nogueira, better known as Minotauro or Minotauro Nogueira, is a Brazilian mixed martial artist known for his technical mastery of Brazilian Jiu-Jitsu. Wikipedia",
+            "type": "Mixed Martial Artist",
+            "Born ": "June 2, 1976 (age 37), Vitória da Conquista, Bahia, Brazil",
+            "Parents ": [
+                "Antonio Amielto Nogueira"
+            ],
+            "Siblings ": [
+                "Antônio Rogério Nogueira"
+            ],
+            "Movies": []
+        },
+        "Alexey Ignashov": {
+            "label": "Alexey Ignashov",
+            "description": "Alexey Victoravich Ignashov is a Belarusian Super Heavyweight kickboxer. He is a four-time Muay Thai World champion, K-1 World GP 2003 in Paris and K-1 World GP 2001 in Nagoya tournament champion. Wikipedia",
+            "type": "",
+            "Born ": "January 18, 1978 (age 36), Minsk, Belarus",
             "People also search for": []
         },
         "Frank Dux": {
@@ -1069,22 +1088,16 @@
             ],
             "People also search for": []
         },
-        "Emmanuel Yarborough": {
-            "label": "Emmanuel Yarborough",
-            "description": "Emmanuel 'Manny' Yarbrough is an American amateur sumo wrestler and mixed martial arts competitor, also having competed in judo, wrestling, and American football. He is 6 ft 8 in tall and has weighed up to 800+ lb. Wikipedia",
-            "type": "Sumo Wrestler",
-            "Born ": "September 5, 1964 (age 49), Rahway, New Jersey, United States",
+        "Gago Drago": {
+            "label": "Gago Drago",
+            "description": "Gagik Harutyunyan, better known as Gago Drago, is an Armenian-Dutch welterweight kickboxer, fighting out of Alkmaar, Netherlands. He is known for his punch combinations and unpredictable kicking techniques and highly aggressive fighting style. Wikipedia",
+            "type": "",
+            "Born ": "March 8, 1985 (age 29), Verishen, Armenia",
             "Height ": [
-                "6' 8\" (2.03 m)"
+                "5' 9\" (1.75 m)"
             ],
             "Weight ": [
-                "595 lbs (270 kg)"
-            ],
-            "Education ": [
-                "Morgan State University"
-            ],
-            "Movies ": [
-                "Dirty Movie"
+                "154 lbs (70 kg)"
             ],
             "People also search for": []
         },
@@ -1118,19 +1131,6 @@
             ],
             "Movies and TV shows": []
         },
-        "Gago Drago": {
-            "label": "Gago Drago",
-            "description": "Gagik Harutyunyan, better known as Gago Drago, is an Armenian-Dutch welterweight kickboxer, fighting out of Alkmaar, Netherlands. He is known for his punch combinations and unpredictable kicking techniques and highly aggressive fighting style. Wikipedia",
-            "type": "",
-            "Born ": "March 8, 1985 (age 29), Verishen, Armenia",
-            "Height ": [
-                "5' 9\" (1.75 m)"
-            ],
-            "Weight ": [
-                "154 lbs (70 kg)"
-            ],
-            "People also search for": []
-        },
         "Hector Lombard": {
             "label": "Hector Lombard",
             "description": "Hector Lombard is a Cuban-Australian professional mixed martial artist and former Olympic judoka who competes as a welterweight in the Ultimate Fighting Championship. As of March 17, 2014, he is #6 in official UFC welterweight rankings. Wikipedia",
@@ -1144,6 +1144,16 @@
             ],
             "Movies ": [
                 "Pride FC Bushido Vol. 13"
+            ],
+            "People also search for": []
+        },
+        "Hiromitsu Miura": {
+            "label": "Hiromitsu Miura",
+            "description": "Hiromitsu Miura is a Japanese Boxer and former mixed martial artist who competed in the welterweight division in MMA and now competes in the light heavyweight division in boxing. Wikipedia",
+            "type": "",
+            "Born ": "September 22, 1981 (age 32), Ukiha, Fukuoka Prefecture, Japan",
+            "Weight ": [
+                "196 lbs (89 kg)"
             ],
             "People also search for": []
         },
@@ -1166,6 +1176,13 @@
             ],
             "Movies": []
         },
+        "Ian Loveland": {
+            "label": "Ian Loveland",
+            "description": "Ian Loveland is an American professional mixed martial arts fighter. Loveland has fought for promotions such as King of the Cage, International Fight League, and the Ultimate Fighting Championship. Wikipedia",
+            "type": "",
+            "Born ": "September 7, 1983 (age 30), Gresham, Oregon, United States",
+            "People also search for": []
+        },
         "Hwang Kee": {
             "label": "Hwang Kee",
             "description": "Hwang Kee was one of the most important figures in the Korean martial art of Tang Soo Do. He was the founder of Soo Bahk Do and the school of Tang Soo Do Moo Duk Kwan. Wikipedia",
@@ -1177,40 +1194,6 @@
                 " Tang Soo Do",
                 " Soo Bahk Do"
             ],
-            "People also search for": []
-        },
-        "Hiromitsu Miura": {
-            "label": "Hiromitsu Miura",
-            "description": "Hiromitsu Miura is a Japanese Boxer and former mixed martial artist who competed in the welterweight division in MMA and now competes in the light heavyweight division in boxing. Wikipedia",
-            "type": "",
-            "Born ": "September 22, 1981 (age 32), Ukiha, Fukuoka Prefecture, Japan",
-            "Weight ": [
-                "196 lbs (89 kg)"
-            ],
-            "People also search for": []
-        },
-        "Jay Silva": {
-            "label": "Jay Silva",
-            "description": "Jay Silva is a Brazilian-Angolan mixed martial artist, who has competed for the UFC, Bellator, Tachi Palace Fights and more recently KSW. He currently competes in the Middleweight division. Wikipedia",
-            "type": "",
-            "Born ": "May 25, 1981 (age 32), Luanda, Angola",
-            "People also search for": []
-        },
-        "Jacob McClintock": {
-            "label": "Jacob McClintock",
-            "description": "Jacob Patrick McClintock is an American mixed martial artist. McClintock is a welterweight fighter and has a record of 8-2, all seven win have been stopped in round one. He is most known for his stint with Bellator Fighting Championships. Wikipedia",
-            "type": "Martial Artist",
-            "Born ": "February 25, 1988 (age 26), Phoenix, Arizona, United States",
-            "Weight ": [
-                "170 lbs (77 kg)"
-            ],
-            "People also search for": []
-        },
-        "Ian Loveland": {
-            "label": "Ian Loveland",
-            "description": "Ian Loveland is an American professional mixed martial arts fighter. Loveland has fought for promotions such as King of the Cage, International Fight League, and the Ultimate Fighting Championship. Wikipedia",
-            "type": "",
-            "Born ": "September 7, 1983 (age 30), Gresham, Oregon, United States",
             "People also search for": []
         },
         "Igor Vovchanchyn": {
@@ -1231,11 +1214,62 @@
             ],
             "People also search for": []
         },
+        "Jacob McClintock": {
+            "label": "Jacob McClintock",
+            "description": "Jacob Patrick McClintock is an American mixed martial artist. McClintock is a welterweight fighter and has a record of 8-2, all seven win have been stopped in round one. He is most known for his stint with Bellator Fighting Championships. Wikipedia",
+            "type": "Martial Artist",
+            "Born ": "February 25, 1988 (age 26), Phoenix, Arizona, United States",
+            "Weight ": [
+                "170 lbs (77 kg)"
+            ],
+            "People also search for": []
+        },
+        "Jared Rosholt": {
+            "label": "Jared Rosholt",
+            "description": "Jared Rosholt is an American mixed martial artist and former collegiate amateur wrestler who competes as a heavyweight in the Ultimate Fighting Championship. He is the younger brother of former UFC fighter Jake Rosholt. Wikipedia",
+            "type": "",
+            "Born ": "August 4, 1986 (age 27), Sandpoint, Idaho, United States",
+            "Weight ": [
+                "259 lbs (118 kg)"
+            ],
+            "Education ": [
+                "Oklahoma State University–Stillwater"
+            ],
+            "Siblings ": [
+                "Jake Rosholt"
+            ],
+            "People also search for": []
+        },
+        "Jay Silva": {
+            "label": "Jay Silva",
+            "description": "Jay Silva is a Brazilian-Angolan mixed martial artist, who has competed for the UFC, Bellator, Tachi Palace Fights and more recently KSW. He currently competes in the Middleweight division. Wikipedia",
+            "type": "",
+            "Born ": "May 25, 1981 (age 32), Luanda, Angola",
+            "People also search for": []
+        },
         "Joe Slick": {
             "label": "Joe Slick",
             "description": "Joe Slick is a retired American mixed martial arts fighter. He competed in the Light Heavyweight division. He lost his last fight at Rings Australia - Free Fight Battle against Chris Haseman on November 12, 2000. Wikipedia",
             "type": "Martial Artist",
             "Born ": "October 17, 1977 (age 36), Iowa City, Iowa, United States",
+            "People also search for": []
+        },
+        "John Hathaway": {
+            "label": "John Hathaway",
+            "description": "John Lawrence Hathaway is an English mixed martial artist who competes in the welterweight division. He holds notable victories over Rick Story, Paul Taylor and Diego Sanchez. Wikipedia",
+            "type": "Martial Artist",
+            "Born ": "July 1, 1987 (age 26), Brighton, United Kingdom",
+            "Height ": [
+                "6' 1\" (1.86 m)"
+            ],
+            "Weight ": [
+                "170 lbs (77 kg)"
+            ],
+            "Movies ": [
+                "UFC 120 Bisping vs. Akiyama",
+                " UFC 93 Franklin vs. Henderson",
+                " UFC 114 Rampage vs. Evans"
+            ],
             "People also search for": []
         },
         "John Lewis (fighter)": {
@@ -1261,24 +1295,6 @@
                 " Pride FC Championship Chaos",
                 " Pride FC Raging Rumble",
                 " Pride FC The Return of the WarriorsMore"
-            ],
-            "People also search for": []
-        },
-        "John Hathaway": {
-            "label": "John Hathaway",
-            "description": "John Lawrence Hathaway is an English mixed martial artist who competes in the welterweight division. He holds notable victories over Rick Story, Paul Taylor and Diego Sanchez. Wikipedia",
-            "type": "Martial Artist",
-            "Born ": "July 1, 1987 (age 26), Brighton, United Kingdom",
-            "Height ": [
-                "6' 1\" (1.86 m)"
-            ],
-            "Weight ": [
-                "170 lbs (77 kg)"
-            ],
-            "Movies ": [
-                "UFC 120 Bisping vs. Akiyama",
-                " UFC 93 Franklin vs. Henderson",
-                " UFC 114 Rampage vs. Evans"
             ],
             "People also search for": []
         },
@@ -1337,22 +1353,6 @@
             ],
             "Movies": []
         },
-        "Jared Rosholt": {
-            "label": "Jared Rosholt",
-            "description": "Jared Rosholt is an American mixed martial artist and former collegiate amateur wrestler who competes as a heavyweight in the Ultimate Fighting Championship. He is the younger brother of former UFC fighter Jake Rosholt. Wikipedia",
-            "type": "",
-            "Born ": "August 4, 1986 (age 27), Sandpoint, Idaho, United States",
-            "Weight ": [
-                "259 lbs (118 kg)"
-            ],
-            "Education ": [
-                "Oklahoma State University–Stillwater"
-            ],
-            "Siblings ": [
-                "Jake Rosholt"
-            ],
-            "People also search for": []
-        },
         "Kimo Leopoldo": {
             "label": "Kimo Leopoldo",
             "description": "Kimo Leopoldo, or simply Kimo, is a retired American mixed martial artist. He made his MMA debut at UFC 3 in 1994 losing to Royce Gracie by submission. Wikipedia",
@@ -1368,13 +1368,6 @@
             ],
             "People also search for": []
         },
-        "Kozo Takeda": {
-            "label": "Kozo Takeda",
-            "description": "Kozo Takeda is a Japanese former welterweight kickboxer who was competing in K-1 MAX. He won Rajadamnern Stadium champion at welterweight in Muay Thai on January 21, 2001. Wikipedia",
-            "type": "",
-            "Born ": "December 27, 1972 (age 41), Adachi, Tokyo, Japan",
-            "People also search for": []
-        },
         "Kiyoshi Tamura": {
             "label": "Kiyoshi Tamura",
             "description": "Kiyoshi Tamura is a Japanese middleweight professional wrestler and mixed martial artist.\nOnce a student of legendary pro wrestlers Billy Robinson, Nobuhiko Takada and Akira Maeda, Tamura is known for ... Wikipedia",
@@ -1387,31 +1380,64 @@
                 "198 lbs (90 kg)"
             ],
             "People also search for": []
+        },
+        "Kozo Takeda": {
+            "label": "Kozo Takeda",
+            "description": "Kozo Takeda is a Japanese former welterweight kickboxer who was competing in K-1 MAX. He won Rajadamnern Stadium champion at welterweight in Muay Thai on January 21, 2001. Wikipedia",
+            "type": "",
+            "Born ": "December 27, 1972 (age 41), Adachi, Tokyo, Japan",
+            "People also search for": []
         }
     },
     "summary": {
-        "label": 95,
-        "description": 95,
-        "type": 95,
-        "born": 1,
-        "weight": 1,
-        "height": 1,
-        "nationality": 1,
-        "children": 1,
-        "movies": 1,
-        "people_also_search_for": 1,
-        "died": 1,
-        "martial_art": 1,
-        "education": 1,
-        "martial_arts": 1,
-        "spouse": 1,
-        "books": 1,
-        "siblings": 1,
-        "parents": 1,
-        "movies_and_tv_shows": 1,
-        "division": 1,
-        "tv_shows": 1,
-        "partner": 1
+        "label": {
+            "uri": "http://dbpedia.org/property/label",
+            "count": 95
+        },
+        "description": {
+            "uri": "http://purl.org/dc/elements/1.1/description",
+            "count": 95
+        },
+        "type": {
+            "uri": "http://dbpedia.org/property/type",
+            "count": 95
+        },
+        "weight": {
+            "uri": "http://dbpedia.org/property/weight",
+            "count": 24
+        },
+        "martialArt": {
+            "uri": "http://dbpedia.org/property/martialArt",
+            "count": 16
+        },
+        "height": {
+            "uri": "http://dbpedia.org/property/height",
+            "count": 35
+        },
+        "nationality": {
+            "uri": "http://dbpedia.org/property/nationality",
+            "count": 12
+        },
+        "children": {
+            "uri": "http://dbpedia.org/property/children",
+            "count": 10
+        },
+        "spouse": {
+            "uri": "http://dbpedia.org/property/spouse",
+            "count": 14
+        },
+        "siblings": {
+            "uri": "http://dbpedia.org/property/siblings",
+            "count": 6
+        },
+        "parents": {
+            "uri": "http://dbpedia.org/property/parents",
+            "count": 4
+        },
+        "division": {
+            "uri": "http://dbpedia.org/property/division",
+            "count": 4
+        }
     },
     "infoboxless": [
         "Chen Zhong",
@@ -1419,5 +1445,17 @@
         "Wanderlei Silva",
         "Graham Spencer",
         "Shad Lierley"
-    ]
+    ],
+    "Unmapped_Properties": {
+        "born": 1,
+        "died": 1,
+        "peopleAlsoSearchFor": 1,
+        "movies": 1,
+        "education": 1,
+        "martialArts": 1,
+        "books": 1,
+        "moviesAndTvShows": 1,
+        "tvShows": 1,
+        "partner": 1
+    }
 }

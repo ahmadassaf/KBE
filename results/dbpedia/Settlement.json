@@ -39,6 +39,18 @@
             "type": "",
             "See results about": []
         },
+        "Åmål": {
+            "label": "Åmål",
+            "description": "Åmål is a locality and the seat of Åmål Municipality in Västra Götaland County, Sweden with 9,065 inhabitants in 2010. It is situated on the western shore of Vänern. Wikipedia",
+            "type": "",
+            "Area ": [
+                "2.927 sq miles (7.58 km²)"
+            ],
+            "Local time ": [
+                "Tuesday 1213 PM"
+            ],
+            "See results about": []
+        },
         "Åhus": {
             "label": "Åhus",
             "description": "Åhus is the second largest locality in Kristianstad Municipality, Skåne County, Sweden with 9,423 inhabitants in 2010, but it triples during the summer due to tourists who come seeking the beaches and nature of the Helgeå and Hanöbukten area. Wikipedia",
@@ -54,18 +66,6 @@
             "Local time ": [
                 "Tuesday 1213 PM"
             ]
-        },
-        "Åmål": {
-            "label": "Åmål",
-            "description": "Åmål is a locality and the seat of Åmål Municipality in Västra Götaland County, Sweden with 9,065 inhabitants in 2010. It is situated on the western shore of Vänern. Wikipedia",
-            "type": "",
-            "Area ": [
-                "2.927 sq miles (7.58 km²)"
-            ],
-            "Local time ": [
-                "Tuesday 1213 PM"
-            ],
-            "See results about": []
         },
         "Åndalsnes": {
             "label": "Åndalsnes",
@@ -157,14 +157,14 @@
             "description": "Ébaty is a commune in the Côte-d'Or department in eastern France. Wikipedia",
             "type": ""
         },
-        "Écaquelon": {
-            "label": "Écaquelon",
-            "description": "Écaquelon is a commune in the Eure department in northern France. Wikipedia",
-            "type": ""
-        },
         "Écauville": {
             "label": "Écauville",
             "description": "Écauville is a commune in the Eure department in northern France. Wikipedia",
+            "type": ""
+        },
+        "Écaquelon": {
+            "label": "Écaquelon",
+            "description": "Écaquelon is a commune in the Eure department in northern France. Wikipedia",
             "type": ""
         },
         "Échavanne": {
@@ -765,19 +765,6 @@
             "description": "Étouy is a commune in the Oise department in northern France. Wikipedia",
             "type": ""
         },
-        "Étréham": {
-            "label": "Étréham",
-            "description": "Étréham is a commune in the Calvados department in the Basse-Normandie region in northwestern France. Wikipedia",
-            "type": "",
-            "Weather ": [
-                "52°F (11°C)",
-                " Wind NW at 7 mph (11 km/h)",
-                " 67% Humidity"
-            ],
-            "Local time ": [
-                "Tuesday 1214 PM"
-            ]
-        },
         "Étréchy, Essonne": {
             "label": "Étréchy",
             "description": "Étréchy is a commune in the Essonne department in Île-de-France in northern France.\nInhabitants of Étréchy are known as Strépiniacois. Wikipedia",
@@ -786,6 +773,19 @@
                 "44°F (7°C)",
                 " Wind E at 3 mph (5 km/h)",
                 " 90% Humidity"
+            ],
+            "Local time ": [
+                "Tuesday 1214 PM"
+            ]
+        },
+        "Étréham": {
+            "label": "Étréham",
+            "description": "Étréham is a commune in the Calvados department in the Basse-Normandie region in northwestern France. Wikipedia",
+            "type": "",
+            "Weather ": [
+                "52°F (11°C)",
+                " Wind NW at 7 mph (11 km/h)",
+                " 67% Humidity"
             ],
             "Local time ": [
                 "Tuesday 1214 PM"
@@ -925,6 +925,16 @@
             "description": "Île d'Yeu is an island and commune just off the Vendée coast of western France.\nThe island's two harbours, Port-Joinville in the north and Port de la Meule, located in a rocky inlet of the southern ... Wikipedia",
             "type": ""
         },
+        "Ñeembucú Department": {
+            "label": "Ñeembucú Department",
+            "description": "Ñeembucú is a department located in the south of the Eastern Region of Paraguay. The capital is Pilar. Wikipedia",
+            "type": "",
+            "Area ": [
+                "4",
+                "690 sq miles (12",
+                "147 km²)"
+            ]
+        },
         "Öckerö Municipality": {
             "label": "Öckerö Municipality",
             "description": "Öckerö Municipality is a municipality in Västra Götaland County in western Sweden. Its seat is located in the town of Öckerö on the main island, which is also called Öckerö. Wikipedia",
@@ -945,35 +955,42 @@
             "Local time ": [
                 "Tuesday 1115 AM"
             ]
-        },
-        "Ñeembucú Department": {
-            "label": "Ñeembucú Department",
-            "description": "Ñeembucú is a department located in the south of the Eastern Region of Paraguay. The capital is Pilar. Wikipedia",
-            "type": "",
-            "Area ": [
-                "4",
-                "690 sq miles (12",
-                "147 km²)"
-            ]
         }
     },
     "summary": {
-        "label": 96,
-        "description": 96,
-        "type": 96,
-        "local_time": 1,
-        "area": 1,
-        "weather": 1,
-        "see_results_about": 1,
-        "points_of_interest": 1,
-        "people_also_search_for": 1,
-        "founded": 1,
-        "recent_posts": 1
+        "label": {
+            "uri": "http://dbpedia.org/property/label",
+            "count": 96
+        },
+        "description": {
+            "uri": "http://purl.org/dc/elements/1.1/description",
+            "count": 96
+        },
+        "type": {
+            "uri": "http://dbpedia.org/property/type",
+            "count": 96
+        },
+        "area": {
+            "uri": "http://dbpedia.org/property/area",
+            "count": 19
+        },
+        "founded": {
+            "uri": "http://dbpedia.org/property/founded",
+            "count": 1
+        }
     },
     "infoboxless": [
         "Édon",
         "Épehy",
         "Étais",
         "Île-d'Aix"
-    ]
+    ],
+    "Unmapped_Properties": {
+        "localTime": 1,
+        "weather": 1,
+        "seeResultsAbout": 1,
+        "pointsOfInterest": 1,
+        "peopleAlsoSearchFor": 1,
+        "recentPosts": 1
+    }
 }

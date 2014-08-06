@@ -1,19 +1,5 @@
 {
     "instances": {
-        "Tamara Lazakovich": {
-            "label": "Tamara Lazakovich",
-            "description": "Tamara Vasilyevna Lazakovich was an Soviet gymnast whose competed at the European, World, and Olympic level during the early 1970s. Wikipedia",
-            "type": "Gymnast",
-            "Born ": "March 11, 1954, Soviet Union",
-            "Died ": "November 1, 1992, Vitebsk, Belarus",
-            "Height ": [
-                "5' 4\" (1.62 m)"
-            ],
-            "Weight ": [
-                "112 lbs (51 kg)"
-            ],
-            "People also search for": []
-        },
         "Carly Patterson": {
             "label": "Carly Patterson",
             "description": "Carly Rae Patterson-Caldwell is an American singer and former gymnast. She is the 2004 Olympic All-Around Champion and a member of the USA Gymnastics Hall of Fame. She currently lives in Allen, Texas. Wikipedia",
@@ -33,11 +19,32 @@
             ],
             "People also search for": []
         },
+        "Tamara Lazakovich": {
+            "label": "Tamara Lazakovich",
+            "description": "Tamara Vasilyevna Lazakovich was an Soviet gymnast whose competed at the European, World, and Olympic level during the early 1970s. Wikipedia",
+            "type": "Gymnast",
+            "Born ": "March 11, 1954, Soviet Union",
+            "Died ": "November 1, 1992, Vitebsk, Belarus",
+            "Height ": [
+                "5' 4\" (1.62 m)"
+            ],
+            "Weight ": [
+                "112 lbs (51 kg)"
+            ],
+            "People also search for": []
+        },
         "Ágnes Keleti": {
             "label": "Ágnes Keleti",
             "description": "Ágnes Keleti is a Hungarian-born Israeli retired artistic gymnast and coach. While representing Hungary in the Summer Olympics, she won 10 Olympic medals including five gold medals, and is considered ... Wikipedia",
             "type": "Olympic athlete",
             "Born ": "January 9, 1921 (age 93), Budapest, Hungary",
+            "People also search for": []
+        },
+        "Alina Goreac": {
+            "label": "Alina Goreac",
+            "description": "Alina Goreac is a retired Romanian artistic gymnast who represented Romania at the 1972 Olympic Games. During her career she medaled on all four events at European championships and was the 1977 University Games all around and uneven bars champion. Wikipedia",
+            "type": "Olympic athlete",
+            "Born ": "September 28, 1952 (age 61)",
             "People also search for": []
         },
         "Suzanne Dando": {
@@ -54,13 +61,6 @@
                 "Octopussy",
                 " Celebrity Fear Factor UK"
             ],
-            "People also search for": []
-        },
-        "Alina Goreac": {
-            "label": "Alina Goreac",
-            "description": "Alina Goreac is a retired Romanian artistic gymnast who represented Romania at the 1972 Olympic Games. During her career she medaled on all four events at European championships and was the 1977 University Games all around and uneven bars champion. Wikipedia",
-            "type": "Olympic athlete",
-            "Born ": "September 28, 1952 (age 61)",
             "People also search for": []
         },
         "Hong Su-Jong": {
@@ -100,6 +100,13 @@
             ],
             "People also search for": []
         },
+        "Yulia Belokobylskaya": {
+            "label": "Yulia Belokobylskaya",
+            "description": "Yulia Belokobylskaya is a Russian former artistic gymnast and was the Russian national champion in the floor exercise in 2011. She also won a bronze medal in the floor exercise at the 2011 European Championships. Wikipedia",
+            "type": "",
+            "Born ": "December 14, 1995 (age 18), Rostov-on-Don, Russia",
+            "People also search for": []
+        },
         "Steven Gluckstein": {
             "label": "Steven Gluckstein",
             "description": "Steven Gluckstein is an American trampoline athlete. Wikipedia",
@@ -121,11 +128,14 @@
             ],
             "People also search for": []
         },
-        "Yulia Belokobylskaya": {
-            "label": "Yulia Belokobylskaya",
-            "description": "Yulia Belokobylskaya is a Russian former artistic gymnast and was the Russian national champion in the floor exercise in 2011. She also won a bronze medal in the floor exercise at the 2011 European Championships. Wikipedia",
+        "Tharatip Sridee": {
+            "label": "Tharatip Sridee",
+            "description": "Tharatip Sridee nickname \"The Gymnast Queen\" born February 21, 1987 is a female gymnast from Thailand. Wikipedia",
             "type": "",
-            "Born ": "December 14, 1995 (age 18), Rostov-on-Don, Russia",
+            "Born ": "February 21, 1987 (age 27), Bangkok, Thailand",
+            "Height ": [
+                "5' 4\" (1.62 m)"
+            ],
             "People also search for": []
         },
         "Christian Svendsen": {
@@ -164,16 +174,6 @@
             "Born ": "October 24, 1987 (age 26), Porto Alegre, Rio Grande do Sul, Brazil",
             "People also search for": []
         },
-        "Tharatip Sridee": {
-            "label": "Tharatip Sridee",
-            "description": "Tharatip Sridee nickname \"The Gymnast Queen\" born February 21, 1987 is a female gymnast from Thailand. Wikipedia",
-            "type": "",
-            "Born ": "February 21, 1987 (age 27), Bangkok, Thailand",
-            "Height ": [
-                "5' 4\" (1.62 m)"
-            ],
-            "People also search for": []
-        },
         "Georgia Bonora": {
             "label": "Georgia Bonora",
             "description": "Georgia Bonora is a former Australian gymnast, born in Melbourne on 19 May 1990.\nShe has represented Australia during the 2008 Summer Olympics, that took place in Beijing, China, and the 2012 Summer Olympics in London. Wikipedia",
@@ -181,6 +181,16 @@
             "Born ": "May 19, 1990 (age 23), Fitzroy, Australia",
             "Height ": [
                 "5' 3\" (1.61 m)"
+            ],
+            "People also search for": []
+        },
+        "Andreea Răducan": {
+            "label": "Andreea Răducan",
+            "description": "Andreea Mădălina Răducan is a retired gymnast from Bârlad, Romania.\nRăducan began competing in gymnastics at a young age and was training at the Romanian junior national facility by the age of 12½. Wikipedia",
+            "type": "Gymnast",
+            "Born ": "September 30, 1983 (age 30), Bârlad, Romania",
+            "Weight ": [
+                "82 lbs (37 kg)"
             ],
             "People also search for": []
         },
@@ -192,16 +202,6 @@
                 "January 1972",
                 " Wuhan",
                 " China"
-            ],
-            "People also search for": []
-        },
-        "Andreea Răducan": {
-            "label": "Andreea Răducan",
-            "description": "Andreea Mădălina Răducan is a retired gymnast from Bârlad, Romania.\nRăducan began competing in gymnastics at a young age and was training at the Romanian junior national facility by the age of 12½. Wikipedia",
-            "type": "Gymnast",
-            "Born ": "September 30, 1983 (age 30), Bârlad, Romania",
-            "Weight ": [
-                "82 lbs (37 kg)"
             ],
             "People also search for": []
         },
@@ -415,19 +415,19 @@
             ],
             "People also search for": []
         },
+        "Albert Azaryan": {
+            "label": "Albert Azaryan",
+            "description": "Albert Azaryan is a former Soviet Armenian artistic gymnast who competed internationally representing the Soviet Union. He is the 1956 and 1960 Olympic Champion on the still rings. Wikipedia",
+            "type": "Olympic athlete",
+            "Born ": "February 11, 1929 (age 85), Ganja, Azerbaijan",
+            "People also search for": []
+        },
         "Albert Séguin": {
             "label": "Albert Séguin",
             "description": "Albert Séguin was a French gymnast and Olympic Champion. He competed at the 1924 Summer Olympics, where he received a gold medal in sidehorse vault, and silver medals in rope climbing and in team combined exercises. Wikipedia",
             "type": "Olympic athlete",
             "Born ": "March 8, 1891, Vienne, Isère, France",
             "Died ": "May 29, 1948",
-            "People also search for": []
-        },
-        "Albert Azaryan": {
-            "label": "Albert Azaryan",
-            "description": "Albert Azaryan is a former Soviet Armenian artistic gymnast who competed internationally representing the Soviet Union. He is the 1956 and 1960 Olympic Champion on the still rings. Wikipedia",
-            "type": "Olympic athlete",
-            "Born ": "February 11, 1929 (age 85), Ganja, Azerbaijan",
             "People also search for": []
         },
         "Alberto Braglia": {
@@ -469,6 +469,13 @@
             "Died ": "October 7, 1989, Toronto, Canada",
             "People also search for": []
         },
+        "Alexander Dityatin": {
+            "label": "Alexander Dityatin",
+            "description": "Aleksandr Nikolaevich Dityatin is a Russian gymnast, three-time Olympic Champion, and Honoured Master of Sports of the USSR. Wikipedia",
+            "type": "Gymnast",
+            "Born ": "August 7, 1957 (age 56), Saint Petersburg, Russia",
+            "People also search for": []
+        },
         "Alexander Moskalenko": {
             "label": "Alexander Moskalenko",
             "description": "Alexander Moskalenko is a Russian gymnast and Olympic champion. He competed at the 2000 Summer Olympics in Sydney, where he received a gold medal in trampoline. He received a silver medal in trampoline at the 2004 Summer Olympics in Athens. Wikipedia",
@@ -489,13 +496,6 @@
             ],
             "People also search for": []
         },
-        "Alexander Dityatin": {
-            "label": "Alexander Dityatin",
-            "description": "Aleksandr Nikolaevich Dityatin is a Russian gymnast, three-time Olympic Champion, and Honoured Master of Sports of the USSR. Wikipedia",
-            "type": "Gymnast",
-            "Born ": "August 7, 1957 (age 56), Saint Petersburg, Russia",
-            "People also search for": []
-        },
         "Alexander Shatilov": {
             "label": "Alexander Shatilov",
             "description": "Alexander 'Alex' Shatilov is an Israeli artistic gymnast. He specializes in the floor exercise, in which he won several medals at world and European championships, and reached the final at the 2008 and 2012 Summer Olympics. Wikipedia",
@@ -509,6 +509,13 @@
             ],
             "People also search for": []
         },
+        "Alexander Vasilyevich Tkachyov": {
+            "label": "Alexander Tkachev",
+            "description": "Alexander Vasilyevich Tkachyov was a Soviet/Russian gymnast and two times Olympic Champion. He trained in Dynamo, Voronezh. His trainer was USSR national Pyotr Fyodorovich Korchagin. Wikipedia",
+            "type": "Olympic athlete",
+            "Born ": "November 4, 1957 (age 56), Semiluki, Russia",
+            "People also search for": []
+        },
         "Alexandra Eremia": {
             "label": "Alexandra Eremia",
             "description": "Alexandra Georgiana Eremia is a Romanian former artistic gymnast. Her best apparatus was the balance beam on which she had an interesting routine starting with her trademark split mount. She is an Olympic and a European gold medalist with the team. Wikipedia",
@@ -517,13 +524,6 @@
             "Height ": [
                 "4' 11\" (1.49 m)"
             ],
-            "People also search for": []
-        },
-        "Alexander Vasilyevich Tkachyov": {
-            "label": "Alexander Tkachev",
-            "description": "Alexander Vasilyevich Tkachyov was a Soviet/Russian gymnast and two times Olympic Champion. He trained in Dynamo, Voronezh. His trainer was USSR national Pyotr Fyodorovich Korchagin. Wikipedia",
-            "type": "Olympic athlete",
-            "Born ": "November 4, 1957 (age 56), Semiluki, Russia",
             "People also search for": []
         },
         "Alexandra Ermakova": {
@@ -563,14 +563,6 @@
             "Born ": "August 23, 1978 (age 35), Kostanay, Kazakhstan",
             "People also search for": []
         },
-        "Alfred Flatow": {
-            "label": "Alfred Flatow",
-            "description": "Alfred Flatow was a German gymnast. He competed at the 1896 Summer Olympics in Athens. He was Jewish.\nFlatow was a successful competitor in 1896. Wikipedia",
-            "type": "Olympic athlete",
-            "Born ": "October 3, 1869, Gdańsk, Poland",
-            "Died ": "December 28, 1942, Theresienstadt concentration camp, Czech Republic",
-            "People also search for": []
-        },
         "Alf Aanning": {
             "label": "Alf Aanning",
             "description": "Alf Lied Aanning was a Norwegian gymnast who competed in the 1920 Summer Olympics.\nHe was a member of the Norwegian team that won the silver medal in the men's gymnastics Free Systems and Apparatus event. Wikipedia",
@@ -599,6 +591,14 @@
                 " Alfred Buyenne",
                 " Fernand FauconnierMore"
             ]
+        },
+        "Alfred Flatow": {
+            "label": "Alfred Flatow",
+            "description": "Alfred Flatow was a German gymnast. He competed at the 1896 Summer Olympics in Athens. He was Jewish.\nFlatow was a successful competitor in 1896. Wikipedia",
+            "type": "Olympic athlete",
+            "Born ": "October 3, 1869, Gdańsk, Poland",
+            "Died ": "December 28, 1942, Theresienstadt concentration camp, Czech Republic",
+            "People also search for": []
         },
         "Alicia Albe": {
             "label": "Alicia Albe",
@@ -647,6 +647,16 @@
             ],
             "People also search for": []
         },
+        "Aliya Garayeva": {
+            "label": "Aliya Garayeva",
+            "description": "Aliya Garayeva is a retired Azerbaijani gymnast. She is the 2011 World All-around bronze medalist, a two-time European All-around bronze medalist, two time Grand Prix Final All-around bronze medalist and five-time Azerbaijanii National champion. Wikipedia",
+            "type": "Gymnast",
+            "Born ": "January 1, 1988 (age 26), Yekaterinburg, Russia",
+            "Parents ": [
+                "Vasilina Garayeva"
+            ],
+            "People also search for": []
+        },
         "Aliya Yussupova": {
             "label": "Aliya Yussupova",
             "description": "Aliya Yussupova is an individual rhythmic gymnast who competed for Kazakhstan, coached by Irina Viner. Wikipedia",
@@ -657,14 +667,11 @@
             ],
             "People also search for": []
         },
-        "Aliya Garayeva": {
-            "label": "Aliya Garayeva",
-            "description": "Aliya Garayeva is a retired Azerbaijani gymnast. She is the 2011 World All-around bronze medalist, a two-time European All-around bronze medalist, two time Grand Prix Final All-around bronze medalist and five-time Azerbaijanii National champion. Wikipedia",
-            "type": "Gymnast",
-            "Born ": "January 1, 1988 (age 26), Yekaterinburg, Russia",
-            "Parents ": [
-                "Vasilina Garayeva"
-            ],
+        "Aljaž Pegan": {
+            "label": "Aljaž Pegan",
+            "description": "Aljaž Pegan, born June 2, 1974, is a Slovenian gymnast.\nPegan is one of the best Slovenian gymnasts, he competes on Horizontal Bar, where he is world and European champion. Wikipedia",
+            "type": "",
+            "Born ": "June 2, 1974 (age 39)",
             "People also search for": []
         },
         "Allana Slater": {
@@ -678,13 +685,6 @@
             "Movies ": [
                 "Stick It"
             ],
-            "People also search for": []
-        },
-        "Aljaž Pegan": {
-            "label": "Aljaž Pegan",
-            "description": "Aljaž Pegan, born June 2, 1974, is a Slovenian gymnast.\nPegan is one of the best Slovenian gymnasts, he competes on Horizontal Bar, where he is world and European champion. Wikipedia",
-            "type": "",
-            "Born ": "June 2, 1974 (age 39)",
             "People also search for": []
         },
         "Alyssa Beckerman": {
@@ -869,6 +869,13 @@
             ],
             "People also search for": []
         },
+        "Anna Melnikova": {
+            "label": "Anna Melnikova",
+            "description": "Anna Melnikova is a Russian female acrobatic gymnast. Along with Yanna Cholaeva, she has come second in the Women's Pair event at the world championships in both 2005 and 2006. Wikipedia",
+            "type": "",
+            "Born ": "July 20, 1985 (age 28)",
+            "People also search for": []
+        },
         "Anna Myzdrikova": {
             "label": "Anna Myzdrikova",
             "description": "Anna Andreevna Myzdrikova is a Russian artistic gymnast . Wikipedia",
@@ -880,13 +887,6 @@
             "Weight ": [
                 "108 lbs (49 kg)"
             ],
-            "People also search for": []
-        },
-        "Anna Melnikova": {
-            "label": "Anna Melnikova",
-            "description": "Anna Melnikova is a Russian female acrobatic gymnast. Along with Yanna Cholaeva, she has come second in the Women's Pair event at the world championships in both 2005 and 2006. Wikipedia",
-            "type": "",
-            "Born ": "July 20, 1985 (age 28)",
             "People also search for": []
         },
         "Anna Pavlova (gymnast)": {
@@ -927,26 +927,16 @@
             ],
             "People also search for": []
         },
-        "Ariella Kaeslin": {
-            "label": "Ariella Kaeslin",
-            "description": "Ariella Kaeslin is a former Swiss artistic gymnast. Kaeslin swept all five gold medals at the 2007 Swiss National Championships. Wikipedia",
-            "type": "Olympic athlete",
-            "Born ": "October 11, 1987 (age 26), Lucerne, Switzerland",
-            "People also search for": []
-        },
         "Arthur Southern": {
             "label": "Arthur Southern Baptist Church",
             "description": "",
             "type": ""
         },
-        "Ashleigh Brennan": {
-            "label": "Ashleigh Brennan",
-            "description": "Ashleigh Jade Brennan is an Australian former gymnast who was on the Australia Gymnastics Artistic Women's National Team. She participated in the 2008 Summer Olympics, finishing sixth in the team event. Wikipedia",
-            "type": "Gymnast",
-            "Born ": "January 18, 1991 (age 23), Melbourne, Australia",
-            "Height ": [
-                "5' 3\" (1.59 m)"
-            ],
+        "Ariella Kaeslin": {
+            "label": "Ariella Kaeslin",
+            "description": "Ariella Kaeslin is a former Swiss artistic gymnast. Kaeslin swept all five gold medals at the 2007 Swiss National Championships. Wikipedia",
+            "type": "Olympic athlete",
+            "Born ": "October 11, 1987 (age 26), Lucerne, Switzerland",
             "People also search for": []
         },
         "Ashley Postell": {
@@ -1004,13 +994,6 @@
             "Born ": "September 20, 1988 (age 25), Constanța, Romania",
             "People also search for": []
         },
-        "Aurelia Ciurea": {
-            "label": "Aurelia Ciurea",
-            "description": "Aurelia Ciurea is a Romanian aerobic gymnast. She won three world championship medals and one gold European championships medal. Wikipedia",
-            "type": "",
-            "Born ": "March 17, 1982 (age 32), Constanța, Romania",
-            "People also search for": []
-        },
         "Aurelia Dobre": {
             "label": "Aurelia Dobre",
             "description": "Aurelia Dobre is a former artistic gymnast from Romania, who was the 1987 World Champion. She was also 1st on balance beam, 3rd on vault and floor exercise in event finals and scored a total of 5 \"perfect 10's\" at these championships. Wikipedia",
@@ -1023,31 +1006,58 @@
                 "93 lbs (42 kg)"
             ],
             "People also search for": []
+        },
+        "Aurelia Ciurea": {
+            "label": "Aurelia Ciurea",
+            "description": "Aurelia Ciurea is a Romanian aerobic gymnast. She won three world championship medals and one gold European championships medal. Wikipedia",
+            "type": "",
+            "Born ": "March 17, 1982 (age 32), Constanța, Romania",
+            "People also search for": []
+        },
+        "Ashleigh Brennan": {
+            "label": "Ashleigh Brennan",
+            "description": "Ashleigh Jade Brennan is an Australian former gymnast who was on the Australia Gymnastics Artistic Women's National Team. She participated in the 2008 Summer Olympics, finishing sixth in the team event. Wikipedia",
+            "type": "Gymnast",
+            "Born ": "January 18, 1991 (age 23), Melbourne, Australia",
+            "Height ": [
+                "5' 3\" (1.59 m)"
+            ],
+            "People also search for": []
         }
     },
     "summary": {
-        "label": 92,
-        "description": 92,
-        "type": 92,
-        "born": 1,
-        "died": 1,
-        "height": 1,
-        "weight": 1,
-        "people_also_search_for": 1,
-        "nationality": 1,
-        "tv_shows": 1,
-        "spouse": 1,
-        "movies_and_tv_shows": 1,
-        "siblings": 1,
-        "parents": 1,
-        "children": 1,
-        "education": 1,
-        "address": 1,
-        "capacity": 1,
-        "opened": 1,
-        "phone": 1,
-        "team": 1,
-        "movies": 1
+        "label": {
+            "uri": "http://dbpedia.org/property/label",
+            "count": 92
+        },
+        "description": {
+            "uri": "http://purl.org/dc/elements/1.1/description",
+            "count": 92
+        },
+        "type": {
+            "uri": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+            "count": 92
+        },
+        "height": {
+            "uri": "http://dbpedia.org/property/height",
+            "count": 37
+        },
+        "weight": {
+            "uri": "http://dbpedia.org/property/weight",
+            "count": 23
+        },
+        "nationality": {
+            "uri": "http://dbpedia.org/property/nationality",
+            "count": 2
+        },
+        "spouse": {
+            "uri": "http://dbpedia.org/property/spouse",
+            "count": 5
+        },
+        "children": {
+            "uri": "http://dbpedia.org/property/children",
+            "count": 3
+        }
     },
     "infoboxless": [
         "Gerardus Wesling",
@@ -1058,5 +1068,21 @@
         "Anastasiya Kolesnikova",
         "Anna Hřebřinová",
         "Auguste Pompogne"
-    ]
+    ],
+    "Unmapped_Properties": {
+        "born": 1,
+        "tvShows": 1,
+        "peopleAlsoSearchFor": 1,
+        "died": 1,
+        "moviesAndTvShows": 1,
+        "siblings": 1,
+        "parents": 1,
+        "education": 1,
+        "address": 1,
+        "capacity": 1,
+        "opened": 1,
+        "phone": 1,
+        "team": 1,
+        "movies": 1
+    }
 }

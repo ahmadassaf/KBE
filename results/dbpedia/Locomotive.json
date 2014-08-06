@@ -46,17 +46,30 @@
         }
     },
     "summary": {
-        "label": 3,
-        "description": 3,
-        "type": 3,
-        "top_speed": 1,
-        "range": 1,
-        "length": 1,
-        "wingspan": 1,
-        "unit_cost": 1,
-        "engine_type": 1,
-        "manufacturers": 1,
-        "people_also_search_for": 1
+        "label": {
+            "uri": "http://www.w3.org/2000/01/rdf-schema#label",
+            "count": 3
+        },
+        "description": {
+            "uri": "http://dbpedia.org/property/description",
+            "count": 3
+        },
+        "type": {
+            "uri": "http://dbpedia.org/property/type",
+            "count": 3
+        },
+        "topSpeed": {
+            "uri": "http://dbpedia.org/ontology/topSpeed",
+            "count": 1
+        },
+        "length": {
+            "uri": "http://dbpedia.org/property/length",
+            "count": 1
+        },
+        "engineType": {
+            "uri": "http://dbpedia.org/ontology/engineType",
+            "count": 1
+        }
     },
     "infoboxless": [
         "2-10-10-2",
@@ -156,5 +169,12 @@
         "FM H-16-66",
         "FM H-24-66",
         "FM P-12-42"
-    ]
+    ],
+    "Unmapped_Properties": {
+        "range": 1,
+        "wingspan": 1,
+        "unitCost": 1,
+        "manufacturers": 1,
+        "peopleAlsoSearchFor": 1
+    }
 }

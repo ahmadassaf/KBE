@@ -1,31 +1,5 @@
 {
     "instances": {
-        "Adolphe Bridge": {
-            "label": "Adolphe Bridge",
-            "description": "Adolphe Bridge is an arch bridge in Luxembourg City, in southern Luxembourg. The bridge takes road traffic across the Pétrusse, connecting Boulevard Royal, in Ville Haute, to Avenue de la Liberté, in Gare. Wikipedia",
-            "type": "",
-            "Address ": [
-                "Uewerstad",
-                " Luxemburg City",
-                " Luxembourg"
-            ],
-            "Construction started ": "July 14, 1900",
-            "Total length ": [
-                "502' (153 m)"
-            ],
-            "Opened ": "July 24, 1903",
-            "Location ": [
-                "Luxembourg"
-            ],
-            "Body of water ": [
-                "Pétrusse"
-            ],
-            "Bridge type ": [
-                "Arch bridge",
-                " Deck arch bridge"
-            ],
-            "People also search for": []
-        },
         "Øresund Bridge": {
             "label": "Øresund Bridge",
             "description": "The Öresund or Øresund Bridge is a double-track railway and dual carriageway bridge-tunnel across the Øresund strait between Scania and Denmark. Wikipedia",
@@ -54,27 +28,29 @@
             ],
             "People also search for": []
         },
-        "Centennial Bridge, Panama": {
-            "label": "Centennial Bridge, Panama",
-            "description": "Panama's Centennial Bridge is a major bridge crossing the Panama Canal. It was built to supplement the overcrowded Bridge of the Americas and to replace it as the carrier of the Pan-American Highway. Wikipedia",
+        "Adolphe Bridge": {
+            "label": "Adolphe Bridge",
+            "description": "Adolphe Bridge is an arch bridge in Luxembourg City, in southern Luxembourg. The bridge takes road traffic across the Pétrusse, connecting Boulevard Royal, in Ville Haute, to Avenue de la Liberté, in Gare. Wikipedia",
             "type": "",
-            "Total length ": [
-                "3",
-                "451' (1",
-                "052 m)"
+            "Address ": [
+                "Uewerstad",
+                " Luxemburg City",
+                " Luxembourg"
             ],
-            "Opened ": "August 15, 2004",
-            "Height ": [
-                "604' (184 m)"
+            "Construction started ": "July 14, 1900",
+            "Total length ": [
+                "502' (153 m)"
+            ],
+            "Opened ": "July 24, 1903",
+            "Location ": [
+                "Luxembourg"
             ],
             "Body of water ": [
-                "Panama Canal"
-            ],
-            "Location ": [
-                "Panama"
+                "Pétrusse"
             ],
             "Bridge type ": [
-                "Cable-stayed bridge"
+                "Arch bridge",
+                " Deck arch bridge"
             ],
             "People also search for": []
         },
@@ -99,6 +75,30 @@
             ],
             "Body of water ": [
                 "River Thames"
+            ],
+            "People also search for": []
+        },
+        "Centennial Bridge, Panama": {
+            "label": "Centennial Bridge, Panama",
+            "description": "Panama's Centennial Bridge is a major bridge crossing the Panama Canal. It was built to supplement the overcrowded Bridge of the Americas and to replace it as the carrier of the Pan-American Highway. Wikipedia",
+            "type": "",
+            "Total length ": [
+                "3",
+                "451' (1",
+                "052 m)"
+            ],
+            "Opened ": "August 15, 2004",
+            "Height ": [
+                "604' (184 m)"
+            ],
+            "Body of water ": [
+                "Panama Canal"
+            ],
+            "Location ": [
+                "Panama"
+            ],
+            "Bridge type ": [
+                "Cable-stayed bridge"
             ],
             "People also search for": []
         },
@@ -182,6 +182,19 @@
             ],
             "People also search for": []
         },
+        "Hörn Bridge": {
+            "label": "Hörn Bridge",
+            "description": "The Hörn Bridge is a folding bridge in the city of Kiel in the German state of Schleswig-Holstein. The bridge spans over the end of the Kiel Fjord and was designed by Gerkan, Marg and Partners. Wikipedia",
+            "type": "",
+            "Location ": [
+                "Kiel"
+            ],
+            "Bridge type ": [
+                "Folding bridge",
+                " Bascule bridge"
+            ],
+            "People also search for": []
+        },
         "Hangzhou Bay Bridge": {
             "label": "Hangzhou Bay Bridge",
             "description": "Hangzhou Bay Bridge is a highway bridge with a cable-stayed portion across Hangzhou Bay in the eastern coastal region of China. It connects the municipalities of Jiaxing and Ningbo in Zhejiang province. Wikipedia",
@@ -206,16 +219,19 @@
             ],
             "People also search for": []
         },
-        "Hörn Bridge": {
-            "label": "Hörn Bridge",
-            "description": "The Hörn Bridge is a folding bridge in the city of Kiel in the German state of Schleswig-Holstein. The bridge spans over the end of the Kiel Fjord and was designed by Gerkan, Marg and Partners. Wikipedia",
+        "Herr's Mill Covered Bridge": {
+            "label": "Herr's Mill Covered Bridge",
+            "description": "The Herr's Mill Covered Bridge is a covered bridge that spans Pequea Creek in Lancaster County, Pennsylvania, United States. It is also sometimes known as Soudersburg Bridge.\nThe bridge has a double span, wooden, double Burr arch trusses design. Wikipedia",
             "type": "",
-            "Location ": [
-                "Kiel"
+            "Total length ": [
+                "178' (54 m)"
+            ],
+            "Area ": [
+                "4",
+                "356 ft² (404.7 m²)"
             ],
             "Bridge type ": [
-                "Folding bridge",
-                " Bascule bridge"
+                "Burr Truss"
             ],
             "People also search for": []
         },
@@ -242,22 +258,6 @@
             ],
             "Body of water ": [
                 "Rhine"
-            ],
-            "People also search for": []
-        },
-        "Herr's Mill Covered Bridge": {
-            "label": "Herr's Mill Covered Bridge",
-            "description": "The Herr's Mill Covered Bridge is a covered bridge that spans Pequea Creek in Lancaster County, Pennsylvania, United States. It is also sometimes known as Soudersburg Bridge.\nThe bridge has a double span, wooden, double Burr arch trusses design. Wikipedia",
-            "type": "",
-            "Total length ": [
-                "178' (54 m)"
-            ],
-            "Area ": [
-                "4",
-                "356 ft² (404.7 m²)"
-            ],
-            "Bridge type ": [
-                "Burr Truss"
             ],
             "People also search for": []
         },
@@ -513,6 +513,12 @@
             ],
             "People also search for": []
         },
+        "Netafim Border Crossing": {
+            "label": "Netafim Border Crossing",
+            "description": "The Netafim Crossing is a border crossing between Israel and Egypt. It is located adjacent to Highway 12, about 12 km north of Eilat, 1 km north west of Ein Netafim. Wikipedia",
+            "type": "",
+            "People also search for": []
+        },
         "Pinetown Bushong's Mill Covered Bridge": {
             "label": "Pinetown Covered Bridge",
             "description": "The Pinetown Bushong's Mill Covered Bridge is a covered bridge that spans the Conestoga River in Lancaster County, Pennsylvania, United States. A county-owned and maintained bridge, its official designation is the Big Conestoga #6 Bridge. Wikipedia",
@@ -529,21 +535,25 @@
             ],
             "People also search for": []
         },
-        "Netafim Border Crossing": {
-            "label": "Netafim Border Crossing",
-            "description": "The Netafim Crossing is a border crossing between Israel and Egypt. It is located adjacent to Highway 12, about 12 km north of Eilat, 1 km north west of Ein Netafim. Wikipedia",
+        "Pons Aemilius": {
+            "label": "Pons Aemilius",
+            "description": "The Pons Aemilius, today called Ponte Rotto, is the oldest Roman stone bridge in Rome, Italy. Preceded by a wooden version, it was rebuilt in stone in the 2nd century BC. Wikipedia",
             "type": "",
-            "People also search for": []
-        },
-        "Pons Sublicius": {
-            "label": "Pons Sublicius",
-            "description": "The earliest known bridge of ancient Rome, Italy, the Pons Sublicius, spanned the Tiber River near the Forum Boarium downstream from the Tiber Island, near the foot of the Aventine Hill. Wikipedia",
-            "type": "",
+            "Address ": [
+                "Rome",
+                " Italy"
+            ],
+            "Opened ": [
+                "178 BC"
+            ],
+            "Number of spans ": [
+                "3"
+            ],
             "Location ": [
                 "Rome"
             ],
             "Bridge type ": [
-                "Girder bridge"
+                "Arch bridge"
             ],
             "Body of water ": [
                 "Tiber"
@@ -575,6 +585,21 @@
             ],
             "Bridge type ": [
                 "Arch bridge"
+            ],
+            "People also search for": []
+        },
+        "Pons Sublicius": {
+            "label": "Pons Sublicius",
+            "description": "The earliest known bridge of ancient Rome, Italy, the Pons Sublicius, spanned the Tiber River near the Forum Boarium downstream from the Tiber Island, near the foot of the Aventine Hill. Wikipedia",
+            "type": "",
+            "Location ": [
+                "Rome"
+            ],
+            "Bridge type ": [
+                "Girder bridge"
+            ],
+            "Body of water ": [
+                "Tiber"
             ],
             "People also search for": []
         },
@@ -610,61 +635,6 @@
             ],
             "People also search for": []
         },
-        "Pont Neuf": {
-            "label": "Pont Neuf",
-            "description": "The Pont Neuf is the oldest standing bridge across the river Seine in Paris, France. Its name, which was given to distinguish it from older bridges that were lined on both sides with houses, has remained. Wikipedia",
-            "type": "",
-            "Address ": [
-                "1er Arrondissement",
-                " 75001 Paris",
-                " France"
-            ],
-            "Construction started ": [
-                "1578"
-            ],
-            "Total length ": [
-                "781' (238 m)"
-            ],
-            "Opened ": [
-                "1607"
-            ],
-            "Longest span ": [
-                "62' (19 m)"
-            ],
-            "Location ": [
-                "Paris"
-            ],
-            "Body of water ": [
-                "Seine"
-            ],
-            "People also search for": []
-        },
-        "Pont de Normandie": {
-            "label": "Pont de Normandie",
-            "description": "The Pont de Normandie is a cable-stayed road bridge that spans the river Seine linking Le Havre to Honfleur in Normandy, northern France. Its total length is 2,143.21 metres – 856 metres between the two piers. Wikipedia",
-            "type": "",
-            "Construction started ": [
-                "1988"
-            ],
-            "Total length ": [
-                "7",
-                "032' (2",
-                "143 m)"
-            ],
-            "Opened ": [
-                "1995"
-            ],
-            "Bridge type ": [
-                "Cable-stayed bridge"
-            ],
-            "Location ": [
-                "Le Havre"
-            ],
-            "Architect ": [
-                "Michel Virlogeux"
-            ],
-            "People also search for": []
-        },
         "Pont National": {
             "label": "Pont National",
             "description": "The pont National is a road and rail bridge across the Seine in Paris, to the east of the XIIe and XIIIe arrondissements. With a total length of 188.5m, it is made up of 5 masonry arches. Wikipedia",
@@ -688,6 +658,35 @@
             ],
             "Bridge type ": [
                 "Arch bridge"
+            ],
+            "Body of water ": [
+                "Seine"
+            ],
+            "People also search for": []
+        },
+        "Pont Neuf": {
+            "label": "Pont Neuf",
+            "description": "The Pont Neuf is the oldest standing bridge across the river Seine in Paris, France. Its name, which was given to distinguish it from older bridges that were lined on both sides with houses, has remained. Wikipedia",
+            "type": "",
+            "Address ": [
+                "1er Arrondissement",
+                " 75001 Paris",
+                " France"
+            ],
+            "Construction started ": [
+                "1578"
+            ],
+            "Total length ": [
+                "781' (238 m)"
+            ],
+            "Opened ": [
+                "1607"
+            ],
+            "Longest span ": [
+                "62' (19 m)"
+            ],
+            "Location ": [
+                "Paris"
             ],
             "Body of water ": [
                 "Seine"
@@ -719,28 +718,29 @@
             ],
             "People also search for": []
         },
-        "Pons Aemilius": {
-            "label": "Pons Aemilius",
-            "description": "The Pons Aemilius, today called Ponte Rotto, is the oldest Roman stone bridge in Rome, Italy. Preceded by a wooden version, it was rebuilt in stone in the 2nd century BC. Wikipedia",
+        "Pont de Normandie": {
+            "label": "Pont de Normandie",
+            "description": "The Pont de Normandie is a cable-stayed road bridge that spans the river Seine linking Le Havre to Honfleur in Normandy, northern France. Its total length is 2,143.21 metres – 856 metres between the two piers. Wikipedia",
             "type": "",
-            "Address ": [
-                "Rome",
-                " Italy"
+            "Construction started ": [
+                "1988"
+            ],
+            "Total length ": [
+                "7",
+                "032' (2",
+                "143 m)"
             ],
             "Opened ": [
-                "178 BC"
-            ],
-            "Number of spans ": [
-                "3"
-            ],
-            "Location ": [
-                "Rome"
+                "1995"
             ],
             "Bridge type ": [
-                "Arch bridge"
+                "Cable-stayed bridge"
             ],
-            "Body of water ": [
-                "Tiber"
+            "Location ": [
+                "Le Havre"
+            ],
+            "Architect ": [
+                "Michel Virlogeux"
             ],
             "People also search for": []
         },
@@ -788,6 +788,34 @@
             ],
             "Body of water ": [
                 "Seine"
+            ],
+            "People also search for": []
+        },
+        "Royal Gorge Bridge": {
+            "label": "Royal Gorge Bridge",
+            "description": "The Royal Gorge Bridge is a tourist attraction near Cañon City, Colorado, within Royal Gorge Bridge & Park, a 360-acre theme park. Wikipedia",
+            "type": "",
+            "Address ": [
+                "4218 County Road 3a",
+                " Cañon City",
+                " CO 81215"
+            ],
+            "Height ": [
+                "1",
+                "053' (321 m)"
+            ],
+            "Opened ": [
+                "1929"
+            ],
+            "Construction started ": "June 5, 1929",
+            "Location ": [
+                "Cañon City"
+            ],
+            "Body of water ": [
+                "Arkansas River"
+            ],
+            "Architect ": [
+                "George F. Cole"
             ],
             "People also search for": []
         },
@@ -865,40 +893,6 @@
             ],
             "People also search for": []
         },
-        "Royal Gorge Bridge": {
-            "label": "Royal Gorge Bridge",
-            "description": "The Royal Gorge Bridge is a tourist attraction near Cañon City, Colorado, within Royal Gorge Bridge & Park, a 360-acre theme park. Wikipedia",
-            "type": "",
-            "Address ": [
-                "4218 County Road 3a",
-                " Cañon City",
-                " CO 81215"
-            ],
-            "Height ": [
-                "1",
-                "053' (321 m)"
-            ],
-            "Opened ": [
-                "1929"
-            ],
-            "Construction started ": "June 5, 1929",
-            "Location ": [
-                "Cañon City"
-            ],
-            "Body of water ": [
-                "Arkansas River"
-            ],
-            "Architect ": [
-                "George F. Cole"
-            ],
-            "People also search for": []
-        },
-        "Tay Road Bridge": {
-            "label": "Tay Road Bridge Joint Board",
-            "description": "",
-            "type": "",
-            "People also search for": []
-        },
         "Tay Rail Bridge": {
             "label": "Tay Rail Bridge",
             "description": "The Tay Rail Bridge carries the main-line railway across the Firth of Tay in Scotland, between the city of Dundee and the suburb of Wormit in Fife. Its span is 2.75 miles.\nThe present-day structure is the second one on its site. Wikipedia",
@@ -923,6 +917,12 @@
                 "William Henry Barlow",
                 " Thomas Bouch"
             ],
+            "People also search for": []
+        },
+        "Tay Road Bridge": {
+            "label": "Tay Road Bridge Joint Board",
+            "description": "",
+            "type": "",
             "People also search for": []
         },
         "Vasco da Gama Bridge": {
@@ -955,6 +955,25 @@
             ],
             "People also search for": []
         },
+        "Victoria Bridge, Brisbane": {
+            "label": "Victoria Bridge, Brisbane",
+            "description": "The Victoria Bridge is a vehicular and pedestrian bridge over the Brisbane River. The current bridge, opened in 1969, is the third permanent crossing erected at this location. It is shared by vehicular traffic, pedestrians and cyclists. Wikipedia",
+            "type": "",
+            "Total length ": [
+                "1",
+                "027' (313 m)"
+            ],
+            "Opened ": [
+                "1969"
+            ],
+            "Location ": [
+                "Brisbane"
+            ],
+            "Body of water ": [
+                "Brisbane River"
+            ],
+            "People also search for": []
+        },
         "Waterloo Bridge": {
             "label": "Waterloo Bridge",
             "description": "At the onset of World War I, British officer Roy Cronin (Robert Taylor) and ballerina Myra (Vivien Leigh) meet and fall in love. As fate would have it, Cronin is called to active duty shortly thereafter. When Cronin's departure coincides with a performance, Myra chooses to skip the ballet to see her… More love leave. As a result, she is dismissed from the ballet and struggles to make ends meet -- and when she reads of Cronin's misreported death, Myra hits rock bottom, resorting to prostitution.",
@@ -972,6 +991,45 @@
                 " Waterloo Bridge"
             ],
             "Cast": [],
+            "People also search for": []
+        },
+        "Wiesen Viaduct": {
+            "label": "Wiesen Viaduct",
+            "description": "The Wiesen Viaduct is a single track limestone railway viaduct. It spans the Landwasser River southwest of the hamlet of Wiesen, in the Canton of Graubünden, Switzerland. Wikipedia",
+            "type": "",
+            "Location ": [
+                "Wiesen"
+            ],
+            "Bridge type ": [
+                "Arch bridge",
+                " Viaduct"
+            ]
+        },
+        "Bridge of the Americas": {
+            "label": "Bridge of the Americas",
+            "description": "The Bridge of the Americas is a road bridge in Panama, which spans the Pacific entrance to the Panama Canal. Wikipedia",
+            "type": "",
+            "Construction started ": [
+                "1959"
+            ],
+            "Total length ": [
+                "5",
+                "427' (1",
+                "654 m)"
+            ],
+            "Opened ": [
+                "1962"
+            ],
+            "Height ": [
+                "384' (117 m)"
+            ],
+            "Body of water ": [
+                "Panama Canal"
+            ],
+            "Location ": [
+                "Balboa",
+                " Panama"
+            ],
             "People also search for": []
         },
         "London Bridge": {
@@ -996,37 +1054,6 @@
             ],
             "Architect ": [
                 "Michael Leeming"
-            ],
-            "People also search for": []
-        },
-        "Wiesen Viaduct": {
-            "label": "Wiesen Viaduct",
-            "description": "The Wiesen Viaduct is a single track limestone railway viaduct. It spans the Landwasser River southwest of the hamlet of Wiesen, in the Canton of Graubünden, Switzerland. Wikipedia",
-            "type": "",
-            "Location ": [
-                "Wiesen"
-            ],
-            "Bridge type ": [
-                "Arch bridge",
-                " Viaduct"
-            ]
-        },
-        "Victoria Bridge, Brisbane": {
-            "label": "Victoria Bridge, Brisbane",
-            "description": "The Victoria Bridge is a vehicular and pedestrian bridge over the Brisbane River. The current bridge, opened in 1969, is the third permanent crossing erected at this location. It is shared by vehicular traffic, pedestrians and cyclists. Wikipedia",
-            "type": "",
-            "Total length ": [
-                "1",
-                "027' (313 m)"
-            ],
-            "Opened ": [
-                "1969"
-            ],
-            "Location ": [
-                "Brisbane"
-            ],
-            "Body of water ": [
-                "Brisbane River"
             ],
             "People also search for": []
         },
@@ -1081,33 +1108,6 @@
             ],
             "Bridge type ": [
                 "Arch bridge"
-            ],
-            "People also search for": []
-        },
-        "Bridge of the Americas": {
-            "label": "Bridge of the Americas",
-            "description": "The Bridge of the Americas is a road bridge in Panama, which spans the Pacific entrance to the Panama Canal. Wikipedia",
-            "type": "",
-            "Construction started ": [
-                "1959"
-            ],
-            "Total length ": [
-                "5",
-                "427' (1",
-                "654 m)"
-            ],
-            "Opened ": [
-                "1962"
-            ],
-            "Height ": [
-                "384' (117 m)"
-            ],
-            "Body of water ": [
-                "Panama Canal"
-            ],
-            "Location ": [
-                "Balboa",
-                " Panama"
             ],
             "People also search for": []
         },
@@ -1187,6 +1187,35 @@
             ],
             "People also search for": []
         },
+        "Pont de l'Archevêché": {
+            "label": "Pont de l'Archevêché",
+            "description": "The Pont de l'Archevêché is a bridge crossing the Seine river in Paris, France. Wikipedia",
+            "type": "",
+            "Address ": [
+                "Pont de l'Archevêché",
+                " 75005 Paris",
+                " France"
+            ],
+            "Total length ": [
+                "223' (68 m)"
+            ],
+            "Longest span ": [
+                "56' (17 m)"
+            ],
+            "Width ": [
+                "56' (17 m)"
+            ],
+            "Location ": [
+                "Paris"
+            ],
+            "Bridge type ": [
+                "Arch bridge"
+            ],
+            "Body of water ": [
+                "Seine"
+            ],
+            "People also search for": []
+        },
         "Pont des Arts": {
             "label": "Pont des Arts",
             "description": "The Pont des Arts or Passerelle des Arts is a pedestrian bridge in Paris which crosses the Seine River. It links the Institut de France and the central square of the palais du Louvre,. Wikipedia",
@@ -1216,35 +1245,6 @@
             ],
             "Phone ": [
                 "+33 1 40 46 75 06"
-            ],
-            "People also search for": []
-        },
-        "Pont de l'Archevêché": {
-            "label": "Pont de l'Archevêché",
-            "description": "The Pont de l'Archevêché is a bridge crossing the Seine river in Paris, France. Wikipedia",
-            "type": "",
-            "Address ": [
-                "Pont de l'Archevêché",
-                " 75005 Paris",
-                " France"
-            ],
-            "Total length ": [
-                "223' (68 m)"
-            ],
-            "Longest span ": [
-                "56' (17 m)"
-            ],
-            "Width ": [
-                "56' (17 m)"
-            ],
-            "Location ": [
-                "Paris"
-            ],
-            "Bridge type ": [
-                "Arch bridge"
-            ],
-            "Body of water ": [
-                "Seine"
             ],
             "People also search for": []
         },
@@ -1328,6 +1328,28 @@
             ],
             "People also search for": []
         },
+        "Stari Most": {
+            "label": "Stari Most",
+            "description": "Stari Most is a reconstruction of a 16th-century Ottoman bridge in the city of Mostar in Bosnia and Herzegovina that crosses the river Neretva and connects two parts of the city. Wikipedia",
+            "type": "",
+            "Height ": [
+                "79' (24 m)"
+            ],
+            "Construction started ": "June 7, 2001",
+            "Total length ": [
+                "98' (30 m)"
+            ],
+            "Opened ": "July 23, 2004",
+            "Location ": [
+                "Mostar",
+                " Herzegovina"
+            ],
+            "Bridge type ": [
+                "Arch bridge",
+                " Deck arch bridge"
+            ],
+            "People also search for": []
+        },
         "Kessock Bridge": {
             "label": "Kessock Bridge",
             "description": "The Kessock Bridge carries the A9 trunk road across the Beauly Firth at Inverness. Wikipedia",
@@ -1355,46 +1377,6 @@
             ],
             "People also search for": []
         },
-        "Triple Bridge": {
-            "label": "Triple Bridge",
-            "description": "The Triple Bridge is a group of three bridges across the Ljubljanica River. It connects the Ljubljana's historical, medieval, town on one bank, and the modern city of Ljubljana, capital of Slovenia, on the other. Wikipedia",
-            "type": "",
-            "Location ": [
-                "Ljubljana"
-            ],
-            "Bridge type ": [
-                "Arch bridge"
-            ],
-            "Body of water ": [
-                "Ljubljanica"
-            ],
-            "Architect ": [
-                "Jože Plečnik"
-            ],
-            "People also search for": []
-        },
-        "Stari Most": {
-            "label": "Stari Most",
-            "description": "Stari Most is a reconstruction of a 16th-century Ottoman bridge in the city of Mostar in Bosnia and Herzegovina that crosses the river Neretva and connects two parts of the city. Wikipedia",
-            "type": "",
-            "Height ": [
-                "79' (24 m)"
-            ],
-            "Construction started ": "June 7, 2001",
-            "Total length ": [
-                "98' (30 m)"
-            ],
-            "Opened ": "July 23, 2004",
-            "Location ": [
-                "Mostar",
-                " Herzegovina"
-            ],
-            "Bridge type ": [
-                "Arch bridge",
-                " Deck arch bridge"
-            ],
-            "People also search for": []
-        },
         "Tamar Bridge": {
             "label": "Tamar Bridge",
             "description": "The Tamar Bridge is a major road bridge at Saltash in southwest England carrying traffic between Cornwall and Devon over the River Tamar. When it opened in 1961 it was the longest suspension bridge in the United Kingdom. Wikipedia",
@@ -1417,6 +1399,24 @@
                 "Devon",
                 " Saltash",
                 " Cornwall"
+            ],
+            "People also search for": []
+        },
+        "Triple Bridge": {
+            "label": "Triple Bridge",
+            "description": "The Triple Bridge is a group of three bridges across the Ljubljanica River. It connects the Ljubljana's historical, medieval, town on one bank, and the modern city of Ljubljana, capital of Slovenia, on the other. Wikipedia",
+            "type": "",
+            "Location ": [
+                "Ljubljana"
+            ],
+            "Bridge type ": [
+                "Arch bridge"
+            ],
+            "Body of water ": [
+                "Ljubljanica"
+            ],
+            "Architect ": [
+                "Jože Plečnik"
             ],
             "People also search for": []
         },
@@ -1604,10 +1604,31 @@
             ],
             "People also search for": []
         },
-        "14th Street Bridge (Potomac River)": {
-            "label": "14th Street Bridge",
-            "description": "The 14th Street Bridge is a complex of five bridges across the Potomac River, connecting Arlington, Virginia, with Washington, D.C. Wikipedia",
-            "type": ""
+        "Antioch Bridge": {
+            "label": "Antioch Bridge",
+            "description": "The Antioch Bridge crosses the San Joaquin River linking Antioch, California with Sacramento County, California, United States. The bridge is signed as part of State Route 160. Wikipedia",
+            "type": "",
+            "Construction started ": [
+                "1976"
+            ],
+            "Total length ": [
+                "9",
+                "505' (2",
+                "897 m)"
+            ],
+            "Opened ": [
+                "1978"
+            ],
+            "Location ": [
+                "Antioch"
+            ],
+            "Bridge type ": [
+                "Plate girder bridge"
+            ],
+            "Body of water ": [
+                "San Joaquin River"
+            ],
+            "People also search for": []
         },
         "10th Avenue Bridge": {
             "label": "10th Avenue Bridge",
@@ -1634,47 +1655,28 @@
             ],
             "People also search for": []
         },
-        "Ada Bridge": {
-            "label": "Ada Bridge",
-            "description": "The Ada bridge or alternatively Sava bridge is a cable-stayed bridge over the Sava river in Belgrade, Serbia. The bridge crosses the tip of Ada Ciganlija island, connecting the municipalities of Čukarica and New Belgrade. Wikipedia",
+        "Arkadiko Bridge": {
+            "label": "Arkadiko Bridge",
+            "description": "The Arkadiko Bridge or Kazarma Bridge is a Mycenaean bridge near the modern road from Tiryns to Epidauros on the Peloponnese, Greece. Dating to the Greek Bronze Age, it is one of the oldest arch bridges still in existence and use. Wikipedia",
             "type": "",
-            "Address ": [
-                "Ada Ciganlija Belgrade Serbia",
-                " Most na Adi",
-                " Beograd",
-                " Serbia"
+            "Total length ": [
+                "72' (22 m)"
             ],
-            "Opened ": "January 1, 2012",
             "Width ": [
-                "148' (45 m)"
+                "8' 2\" (2.50 m)"
+            ],
+            "Location ": [
+                "Argolis"
+            ],
+            "Bridge type ": [
+                "Arch bridge"
             ],
             "People also search for": []
         },
-        "Antioch Bridge": {
-            "label": "Antioch Bridge",
-            "description": "The Antioch Bridge crosses the San Joaquin River linking Antioch, California with Sacramento County, California, United States. The bridge is signed as part of State Route 160. Wikipedia",
-            "type": "",
-            "Construction started ": [
-                "1976"
-            ],
-            "Total length ": [
-                "9",
-                "505' (2",
-                "897 m)"
-            ],
-            "Opened ": [
-                "1978"
-            ],
-            "Location ": [
-                "Antioch"
-            ],
-            "Bridge type ": [
-                "Plate girder bridge"
-            ],
-            "Body of water ": [
-                "San Joaquin River"
-            ],
-            "People also search for": []
+        "14th Street Bridge (Potomac River)": {
+            "label": "14th Street Bridge",
+            "description": "The 14th Street Bridge is a complex of five bridges across the Potomac River, connecting Arlington, Virginia, with Washington, D.C. Wikipedia",
+            "type": ""
         },
         "Arthur Ravenel Jr. Bridge": {
             "label": "Arthur Ravenel Jr. Bridge",
@@ -1710,39 +1712,6 @@
             ],
             "People also search for": []
         },
-        "Arkadiko Bridge": {
-            "label": "Arkadiko Bridge",
-            "description": "The Arkadiko Bridge or Kazarma Bridge is a Mycenaean bridge near the modern road from Tiryns to Epidauros on the Peloponnese, Greece. Dating to the Greek Bronze Age, it is one of the oldest arch bridges still in existence and use. Wikipedia",
-            "type": "",
-            "Total length ": [
-                "72' (22 m)"
-            ],
-            "Width ": [
-                "8' 2\" (2.50 m)"
-            ],
-            "Location ": [
-                "Argolis"
-            ],
-            "Bridge type ": [
-                "Arch bridge"
-            ],
-            "People also search for": []
-        },
-        "Balclutha Road Bridge": {
-            "label": "Balclutha Road Bridge",
-            "description": "The Balclutha Road Bridge, which spans the Clutha River in Balclutha, South Otago, New Zealand, is one of the best-known road bridges in New Zealand's South Island. Wikipedia",
-            "type": "",
-            "Total length ": [
-                "801' (244 m)"
-            ],
-            "Body of water ": [
-                "Clutha River"
-            ],
-            "Location ": [
-                "Balclutha"
-            ],
-            "People also search for": []
-        },
         "Auckland Harbour Bridge": {
             "label": "Auckland Harbour Bridge",
             "description": "The Auckland Harbour Bridge is an eight-lane box truss motorway bridge over the Waitemata Harbour, joining St Marys Bay in Auckland with Northcote in the former North Shore City, New Zealand. Wikipedia",
@@ -1774,6 +1743,26 @@
             ],
             "People also search for": []
         },
+        "Balclutha Road Bridge": {
+            "label": "Balclutha Road Bridge",
+            "description": "The Balclutha Road Bridge, which spans the Clutha River in Balclutha, South Otago, New Zealand, is one of the best-known road bridges in New Zealand's South Island. Wikipedia",
+            "type": "",
+            "Total length ": [
+                "801' (244 m)"
+            ],
+            "Body of water ": [
+                "Clutha River"
+            ],
+            "Location ": [
+                "Balclutha"
+            ],
+            "People also search for": []
+        },
+        "Band-e Kaisar": {
+            "label": "Band-e Kaisar",
+            "description": "The Band-e Kaisar, Pol-e Kaisar, Bridge of Valerian or Shadirwan was an ancient arch bridge in Shushtar, Iran, and the first in the country to combine it with a dam. Wikipedia",
+            "type": ""
+        },
         "Battersea Railway Bridge": {
             "label": "Battersea Railway Bridge",
             "description": "The Battersea Railway Bridge - properly called the Cremorne Bridge, after the pleasure grounds in Chelsea and originally commonly referred to as the Battersea New Bridge - is a bridge across the River ... Wikipedia",
@@ -1789,11 +1778,6 @@
                 "River Thames"
             ],
             "People also search for": []
-        },
-        "Band-e Kaisar": {
-            "label": "Band-e Kaisar",
-            "description": "The Band-e Kaisar, Pol-e Kaisar, Bridge of Valerian or Shadirwan was an ancient arch bridge in Shushtar, Iran, and the first in the country to combine it with a dam. Wikipedia",
-            "type": ""
         },
         "Berwick Bridge": {
             "label": "Berwick Bridge",
@@ -1814,26 +1798,46 @@
             ],
             "People also search for": []
         },
-        "Big Four Bridge": {
-            "label": "Big Four Bridge",
-            "description": "The Big Four Bridge is a six-span former railroad truss bridge that crosses the Ohio River, connecting Louisville, Kentucky, and Jeffersonville, Indiana, United States. It was completed in 1895, and updated in 1929. Wikipedia",
+        "Broadway Bridge (Portland)": {
+            "label": "Broadway Bridge",
+            "description": "The Broadway Bridge is a Rall-type bascule bridge spanning the Willamette River in Portland, Oregon, United States; Portland's first bascule bridge; intended and continues to hold the distinction of ... Wikipedia",
             "type": "",
-            "Opened ": [
-                "1895"
+            "Address ": [
+                "N Broadway",
+                " Portland",
+                " OR 97227"
+            ],
+            "Construction started ": [
+                "1911"
             ],
             "Total length ": [
-                "2",
-                "525' (770 m)"
+                "1",
+                "742' (531 m)"
             ],
-            "Construction started ": "October 10, 1888",
+            "Opened ": [
+                "1913"
+            ],
             "Location ": [
-                "Louisville"
+                "Portland"
             ],
-            "Bridge type ": [
-                "Truss bridge"
+            "Architect ": [
+                "Ralph Modjeski"
             ],
-            "Body of water ": [
-                "Ohio River"
+            "People also search for": []
+        },
+        "Ada Bridge": {
+            "label": "Ada Bridge",
+            "description": "The Ada bridge or alternatively Sava bridge is a cable-stayed bridge over the Sava river in Belgrade, Serbia. The bridge crosses the tip of Ada Ciganlija island, connecting the municipalities of Čukarica and New Belgrade. Wikipedia",
+            "type": "",
+            "Address ": [
+                "Ada Ciganlija Belgrade Serbia",
+                " Most na Adi",
+                " Beograd",
+                " Serbia"
+            ],
+            "Opened ": "January 1, 2012",
+            "Width ": [
+                "148' (45 m)"
             ],
             "People also search for": []
         },
@@ -1867,50 +1871,26 @@
             ],
             "People also search for": []
         },
-        "Broadway Bridge (Portland)": {
-            "label": "Broadway Bridge",
-            "description": "The Broadway Bridge is a Rall-type bascule bridge spanning the Willamette River in Portland, Oregon, United States; Portland's first bascule bridge; intended and continues to hold the distinction of ... Wikipedia",
+        "Big Four Bridge": {
+            "label": "Big Four Bridge",
+            "description": "The Big Four Bridge is a six-span former railroad truss bridge that crosses the Ohio River, connecting Louisville, Kentucky, and Jeffersonville, Indiana, United States. It was completed in 1895, and updated in 1929. Wikipedia",
             "type": "",
-            "Address ": [
-                "N Broadway",
-                " Portland",
-                " OR 97227"
-            ],
-            "Construction started ": [
-                "1911"
-            ],
-            "Total length ": [
-                "1",
-                "742' (531 m)"
-            ],
             "Opened ": [
-                "1913"
+                "1895"
             ],
-            "Location ": [
-                "Portland"
-            ],
-            "Architect ": [
-                "Ralph Modjeski"
-            ],
-            "People also search for": []
-        },
-        "Burlington Northern Railroad Bridge 5.1": {
-            "label": "Burlington Northern Railroad Bridge 5.1",
-            "description": "The Burlington Northern Railroad Bridge 5.1 or BNSF Railway Bridge 5.1, also known as the St. Johns Railroad Bridge or the Willamette River Railroad Bridge, is a through truss railway bridge with a ... Wikipedia",
-            "type": "",
             "Total length ": [
-                "1",
-                "763' (537 m)"
+                "2",
+                "525' (770 m)"
             ],
+            "Construction started ": "October 10, 1888",
             "Location ": [
-                "Portland"
-            ],
-            "Body of water ": [
-                "Willamette River"
+                "Louisville"
             ],
             "Bridge type ": [
-                "Swing bridge",
-                " Vertical-lift bridge"
+                "Truss bridge"
+            ],
+            "Body of water ": [
+                "Ohio River"
             ],
             "People also search for": []
         },
@@ -1942,21 +1922,23 @@
             ],
             "People also search for": []
         },
-        "Canal Street railroad bridge": {
-            "label": "Canal Street railroad bridge",
-            "description": "The Canal Street railroad bridge is a vertical-lift bridge across the south branch of the Chicago River in Chicago, Illinois. When it was constructed in 1914, its 1500-ton main span was the heaviest of any vertical lift bridge in the United States. Wikipedia",
+        "Burlington Northern Railroad Bridge 5.1": {
+            "label": "Burlington Northern Railroad Bridge 5.1",
+            "description": "The Burlington Northern Railroad Bridge 5.1 or BNSF Railway Bridge 5.1, also known as the St. Johns Railroad Bridge or the Willamette River Railroad Bridge, is a through truss railway bridge with a ... Wikipedia",
             "type": "",
-            "Opened ": [
-                "1914"
+            "Total length ": [
+                "1",
+                "763' (537 m)"
             ],
             "Location ": [
-                "Chicago"
-            ],
-            "Bridge type ": [
-                "Vertical-lift bridge"
+                "Portland"
             ],
             "Body of water ": [
-                "Chicago River"
+                "Willamette River"
+            ],
+            "Bridge type ": [
+                "Swing bridge",
+                " Vertical-lift bridge"
             ],
             "People also search for": []
         },
@@ -1977,6 +1959,48 @@
             ],
             "Body of water ": [
                 "Ohio River"
+            ],
+            "People also search for": []
+        },
+        "Canal Street railroad bridge": {
+            "label": "Canal Street railroad bridge",
+            "description": "The Canal Street railroad bridge is a vertical-lift bridge across the south branch of the Chicago River in Chicago, Illinois. When it was constructed in 1914, its 1500-ton main span was the heaviest of any vertical lift bridge in the United States. Wikipedia",
+            "type": "",
+            "Opened ": [
+                "1914"
+            ],
+            "Location ": [
+                "Chicago"
+            ],
+            "Bridge type ": [
+                "Vertical-lift bridge"
+            ],
+            "Body of water ": [
+                "Chicago River"
+            ],
+            "People also search for": []
+        },
+        "Chengyang Bridge": {
+            "label": "Chengyang Bridge",
+            "description": "Chengyang Bridge or Chengyang Wind and Rain Bridge, is a bridge in Sanjiang County, Liuzhou, Guangxi Zhuang Autonomous Region, People's Republic of China. The bridge is in a Dong minority region. Wikipedia",
+            "type": "",
+            "Total length ": [
+                "211' (64 m)"
+            ],
+            "Opened ": [
+                "1912"
+            ],
+            "Height ": [
+                "33' (10 m)"
+            ],
+            "Bridge type ": [
+                "Covered bridge"
+            ],
+            "Location ": [
+                "Sanjiang"
+            ],
+            "Body of water ": [
+                "Linxi River"
             ],
             "People also search for": []
         },
@@ -2010,27 +2034,58 @@
             ],
             "People also search for": []
         },
-        "Chengyang Bridge": {
-            "label": "Chengyang Bridge",
-            "description": "Chengyang Bridge or Chengyang Wind and Rain Bridge, is a bridge in Sanjiang County, Liuzhou, Guangxi Zhuang Autonomous Region, People's Republic of China. The bridge is in a Dong minority region. Wikipedia",
+        "City Island Bridge": {
+            "label": "City Island Bridge",
+            "description": "The City Island Bridge is a bridge in the New York City borough of the Bronx, connecting City Island and Rodman's Neck on the mainland. It opened for traffic in 1901. Wikipedia",
             "type": "",
+            "Construction started ": [
+                "1899"
+            ],
             "Total length ": [
-                "211' (64 m)"
+                "951' (290 m)"
             ],
-            "Opened ": [
-                "1912"
-            ],
-            "Height ": [
-                "33' (10 m)"
-            ],
-            "Bridge type ": [
-                "Covered bridge"
+            "Clearance below ": [
+                "7' 10\" (2.40 m)"
             ],
             "Location ": [
-                "Sanjiang"
+                "The Bronx"
             ],
-            "Body of water ": [
-                "Linxi River"
+            "Bridge type ": [
+                "Swing bridge"
+            ],
+            "Bodies of water ": [
+                "Eastchester Bay",
+                " Pelham Bay"
+            ],
+            "People also search for": []
+        },
+        "Conde McCullough Memorial Bridge": {
+            "label": "Conde McCullough Memorial Bridge",
+            "description": "The Conde B. McCullough Memorial Bridge, formerly the North Bend Bridge, is a cantilever bridge that spans Coos Bay on U.S. Route 101 near North Bend, Oregon. Wikipedia",
+            "type": "",
+            "Address ": [
+                "Coos County",
+                " OR"
+            ],
+            "Area ": [
+                "7 acres (3 ha)"
+            ],
+            "Opened ": [
+                "1936"
+            ],
+            "Total length ": [
+                "5",
+                "305' (1",
+                "617 m)"
+            ],
+            "Location ": [
+                "North Bend"
+            ],
+            "Bridge type ": [
+                "Cantilever bridge"
+            ],
+            "Architect ": [
+                "Conde McCullough"
             ],
             "People also search for": []
         },
@@ -2067,28 +2122,16 @@
             ],
             "People also search for": []
         },
-        "City Island Bridge": {
-            "label": "City Island Bridge",
-            "description": "The City Island Bridge is a bridge in the New York City borough of the Bronx, connecting City Island and Rodman's Neck on the mainland. It opened for traffic in 1901. Wikipedia",
+        "Crescent City Connection": {
+            "label": "Crescent City Connection",
+            "description": "The Crescent City Connection, formerly the Greater New Orleans Bridge, refers to twin cantilever bridges that carry U.S. Route 90 Business over the Mississippi River in New Orleans, Louisiana, United States. Wikipedia",
             "type": "",
-            "Construction started ": [
-                "1899"
+            "Address ": [
+                "New Orleans",
+                " LA 70114"
             ],
-            "Total length ": [
-                "951' (290 m)"
-            ],
-            "Clearance below ": [
-                "7' 10\" (2.40 m)"
-            ],
-            "Location ": [
-                "The Bronx"
-            ],
-            "Bridge type ": [
-                "Swing bridge"
-            ],
-            "Bodies of water ": [
-                "Eastchester Bay",
-                " Pelham Bay"
+            "Opened ": [
+                "1958"
             ],
             "People also search for": []
         },
@@ -2117,86 +2160,81 @@
                 " Sir Alexander Gibb & Partners"
             ],
             "People also search for": []
-        },
-        "Conde McCullough Memorial Bridge": {
-            "label": "Conde McCullough Memorial Bridge",
-            "description": "The Conde B. McCullough Memorial Bridge, formerly the North Bend Bridge, is a cantilever bridge that spans Coos Bay on U.S. Route 101 near North Bend, Oregon. Wikipedia",
-            "type": "",
-            "Address ": [
-                "Coos County",
-                " OR"
-            ],
-            "Area ": [
-                "7 acres (3 ha)"
-            ],
-            "Opened ": [
-                "1936"
-            ],
-            "Total length ": [
-                "5",
-                "305' (1",
-                "617 m)"
-            ],
-            "Location ": [
-                "North Bend"
-            ],
-            "Bridge type ": [
-                "Cantilever bridge"
-            ],
-            "Architect ": [
-                "Conde McCullough"
-            ],
-            "People also search for": []
-        },
-        "Crescent City Connection": {
-            "label": "Crescent City Connection",
-            "description": "The Crescent City Connection, formerly the Greater New Orleans Bridge, refers to twin cantilever bridges that carry U.S. Route 90 Business over the Mississippi River in New Orleans, Louisiana, United States. Wikipedia",
-            "type": "",
-            "Address ": [
-                "New Orleans",
-                " LA 70114"
-            ],
-            "Opened ": [
-                "1958"
-            ],
-            "People also search for": []
         }
     },
     "summary": {
-        "label": 98,
-        "description": 98,
-        "type": 98,
-        "address": 1,
-        "construction_started": 1,
-        "total_length": 1,
-        "opened": 1,
-        "location": 1,
-        "body_of_water": 1,
-        "bridge_type": 1,
-        "people_also_search_for": 1,
-        "longest_span": 1,
-        "height": 1,
-        "area": 1,
-        "width": 1,
-        "clearance_below": 1,
-        "architect": 1,
-        "architects": 1,
-        "architecture_firms": 1,
-        "phone": 1,
-        "number_of_spans": 1,
-        "initial_release": 1,
-        "director": 1,
-        "running_time": 1,
-        "initial_dvd_release": 1,
-        "adapted_from": 1,
-        "cast": 1,
-        "see_results_about": 1,
-        "recent_posts": 1,
-        "architecture_firm": 1,
-        "bodies_of_water": 1
+        "label": {
+            "uri": "http://dbpedia.org/property/label",
+            "count": 98
+        },
+        "description": {
+            "uri": "http://dbpedia.org/property/description",
+            "count": 98
+        },
+        "type": {
+            "uri": "http://dbpedia.org/property/type",
+            "count": 98
+        },
+        "totalLength": {
+            "uri": "http://dbpedia.org/property/totalLength",
+            "count": 65
+        },
+        "longestSpan": {
+            "uri": "http://dbpedia.org/property/longestSpan",
+            "count": 15
+        },
+        "location": {
+            "uri": "http://dbpedia.org/ontology/location",
+            "count": 78
+        },
+        "opened": {
+            "uri": "http://dbpedia.org/property/opened",
+            "count": 62
+        },
+        "height": {
+            "uri": "http://dbpedia.org/property/height",
+            "count": 15
+        },
+        "area": {
+            "uri": "http://dbpedia.org/property/area",
+            "count": 10
+        },
+        "width": {
+            "uri": "http://dbpedia.org/property/width",
+            "count": 17
+        },
+        "architect": {
+            "uri": "http://dbpedia.org/property/architect",
+            "count": 12
+        },
+        "numberOfSpans": {
+            "uri": "http://dbpedia.org/ontology/numberOfSpans",
+            "count": 1
+        }
     },
     "infoboxless": [
         "Battersea Bridge",
         "George V Bridge, Orléans"
-    ]
+    ],
+    "Unmapped_Properties": {
+        "address": 1,
+        "constructionStarted": 1,
+        "bodyOfWater": 1,
+        "peopleAlsoSearchFor": 1,
+        "bridgeType": 1,
+        "clearanceBelow": 1,
+        "architects": 1,
+        "architectureFirms": 1,
+        "phone": 1,
+        "initialRelease": 1,
+        "director": 1,
+        "runningTime": 1,
+        "initialDvdRelease": 1,
+        "adaptedFrom": 1,
+        "cast": 1,
+        "seeResultsAbout": 1,
+        "recentPosts": 1,
+        "architectureFirm": 1,
+        "bodiesOfWater": 1
+    }
 }

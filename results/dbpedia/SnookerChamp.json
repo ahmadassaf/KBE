@@ -139,13 +139,6 @@
             "Born ": "October 8, 1932 (age 81), Tredegar, United Kingdom",
             "People also search for": []
         },
-        "Cliff Thorburn": {
-            "label": "Cliff Thorburn",
-            "description": "Clifford Charles Devlin Thorburn CM, known as Cliff Thorburn is a retired professional Canadian snooker player. Wikipedia",
-            "type": "",
-            "Born ": "January 16, 1948 (age 66), Victoria, Canada",
-            "People also search for": []
-        },
         "Ronnie O'Sullivan": {
             "label": "Ronnie O'Sullivan",
             "description": "Ronald Antonio \"Ronnie\" O'Sullivan is an English professional snooker player from Chigwell, Essex, known for his rapid playing style. He is the reigning World Snooker Champion, having won the title for the fifth time in 2013. Wikipedia",
@@ -166,6 +159,13 @@
                 " The Magician",
                 " The Rocket"
             ],
+            "People also search for": []
+        },
+        "Cliff Thorburn": {
+            "label": "Cliff Thorburn",
+            "description": "Clifford Charles Devlin Thorburn CM, known as Cliff Thorburn is a retired professional Canadian snooker player. Wikipedia",
+            "type": "",
+            "Born ": "January 16, 1948 (age 66), Victoria, Canada",
             "People also search for": []
         },
         "Dennis Taylor": {
@@ -192,6 +192,13 @@
             "type": "Snooker player",
             "Born ": "September 18, 1935, Radcliffe, United Kingdom",
             "Died ": "July 11, 2006, Bolton, United Kingdom",
+            "People also search for": []
+        },
+        "John Higgins (snooker player)": {
+            "label": "John Higgins",
+            "description": "John Higgins, MBE is a Scottish professional snooker player from Wishaw. He turned professional in 1992, and is one of the most successful players in the modern history of the sport. Wikipedia",
+            "type": "Snooker player",
+            "Born ": "May 18, 1975 (age 38), Wishaw, United Kingdom",
             "People also search for": []
         },
         "Peter Ebdon": {
@@ -222,21 +229,28 @@
             "type": "Coach",
             "Born ": "October 16, 1947 (age 66), Llanelli, United Kingdom",
             "People also search for": []
-        },
-        "John Higgins (snooker player)": {
-            "label": "John Higgins",
-            "description": "John Higgins, MBE is a Scottish professional snooker player from Wishaw. He turned professional in 1992, and is one of the most successful players in the modern history of the sport. Wikipedia",
-            "type": "Snooker player",
-            "Born ": "May 18, 1975 (age 38), Wishaw, United Kingdom",
-            "People also search for": []
         }
     },
     "summary": {
-        "label": 22,
-        "description": 22,
-        "type": 22,
+        "label": {
+            "uri": "http://www.w3.org/2000/01/rdf-schema#label",
+            "count": 22
+        },
+        "description": {
+            "uri": "http://purl.org/dc/elements/1.1/description",
+            "count": 22
+        },
+        "type": {
+            "uri": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+            "count": 22
+        }
+    },
+    "infoboxless": [
+        "Joe Davis"
+    ],
+    "Unmapped_Properties": {
         "born": 1,
-        "people_also_search_for": 1,
+        "peopleAlsoSearchFor": 1,
         "nationality": 1,
         "height": 1,
         "spouse": 1,
@@ -247,10 +261,7 @@
         "died": 1,
         "nominations": 1,
         "siblings": 1,
-        "tv_shows": 1,
+        "tvShows": 1,
         "nicknames": 1
-    },
-    "infoboxless": [
-        "Joe Davis"
-    ]
+    }
 }

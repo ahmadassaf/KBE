@@ -6,12 +6,6 @@
             "type": "",
             "See results about": []
         },
-        "Guaraná Antarctica": {
-            "label": "Guaraná Antarctica",
-            "description": "Guaraná is a guaraná-flavoured soft drink, originating in Brazil and manufactured and distributed by Anheuser-Busch InBev. It was created in 1921 by Pedro Baptista de Andrade for Companhia Antarctica Paulista, now part of Anheuser-Busch InBev. Wikipedia",
-            "type": "Food",
-            "People also search for": []
-        },
         "Dr Pepper": {
             "label": "Dr Pepper Snapple Group",
             "description": "Dr Pepper Snapple Group Inc. is an American soft drink company, based in Plano, Texas.\nIt was spun off from Britain's Cadbury Schweppes, on May 5, 2008, with trading in its shares starting on May 7, 2008. Wikipedia",
@@ -32,9 +26,15 @@
             ],
             "People also search for": []
         },
-        "Diet Coke": {
-            "label": "Diet Coke",
-            "description": "Diet Coke, called Coca-Cola Light in some countries, is a sugar-free soft drink produced and distributed by The Coca-Cola Company. Wikipedia",
+        "Guaraná Antarctica": {
+            "label": "Guaraná Antarctica",
+            "description": "Guaraná is a guaraná-flavoured soft drink, originating in Brazil and manufactured and distributed by Anheuser-Busch InBev. It was created in 1921 by Pedro Baptista de Andrade for Companhia Antarctica Paulista, now part of Anheuser-Busch InBev. Wikipedia",
+            "type": "Food",
+            "People also search for": []
+        },
+        "Kahlúa": {
+            "label": "Kahlúa",
+            "description": "Kahlúa is a coffee-flavored rum-based liqueur from Mexico. The drink also contains sugar, corn syrup and vanilla bean. Wikipedia",
             "type": "",
             "People also search for": []
         },
@@ -44,27 +44,10 @@
             "type": "",
             "People also search for": []
         },
-        "Mecca-Cola": {
-            "label": "Mecca-Cola",
-            "description": "Mecca-Cola is a cola-flavoured carbonated beverage. The flagship product of the Mecca Cola World Company, it is marketed as an alternative to U.S. brands such as Coca-Cola and Pepsi-Cola to \"pro-Muslim\" consumers. Wikipedia",
-            "type": "Company"
-        },
-        "Ginger ale": {
-            "label": "Ginger ale",
-            "description": "Ginger ale is a carbonated soft drink flavored with ginger in one of two ways. The golden style is closer to the ginger beer original, and is credited to the American doctor Thomas Cantrell. Wikipedia",
+        "Diet Coke": {
+            "label": "Diet Coke",
+            "description": "Diet Coke, called Coca-Cola Light in some countries, is a sugar-free soft drink produced and distributed by The Coca-Cola Company. Wikipedia",
             "type": "",
-            "Nutrition Facts": []
-        },
-        "Cointreau": {
-            "label": "Cointreau",
-            "description": "Cointreau is a brand of triple sec produced in Saint-Barthélemy-d'Anjou, France. It is drunk as an apéritif and digestif, and is a component of several well-known cocktails. It was originally called \"Curaçao Blanco Triple Sec\". Wikipedia",
-            "type": "",
-            "See results about": []
-        },
-        "Scotch whisky": {
-            "label": "Scotch whisky",
-            "description": "Scotch whisky, often simply called Scotch, is malt whisky or grain whisky made in Scotland. Scotch whisky must be made in a manner specified by law.\nAll Scotch whisky was originally made from malted barley. Wikipedia",
-            "type": "Blended spirit style",
             "People also search for": []
         },
         "Chartreuse (liqueur)": {
@@ -73,22 +56,34 @@
             "type": "Liqueur",
             "People also search for": []
         },
-        "Hardenberg-Wilthen": {
-            "label": "Hardenberg-Wilthen AG",
+        "Starobrno Brewery": {
+            "label": "Starobrno Brewery",
             "description": "",
             "type": "",
             "People also search for": []
         },
-        "Hpnotiq": {
-            "label": "Hpnotiq",
-            "description": "Hpnotiq liqueur is an alcoholic beverage, native to New York but bottled in France by Heaven Hill Distilleries, made from fruit juices, vodka and a cognac. It is 34 proof and is available in over 70 countries worldwide. Wikipedia",
-            "type": "Beverage",
+        "Cointreau": {
+            "label": "Cointreau",
+            "description": "Cointreau is a brand of triple sec produced in Saint-Barthélemy-d'Anjou, France. It is drunk as an apéritif and digestif, and is a component of several well-known cocktails. It was originally called \"Curaçao Blanco Triple Sec\". Wikipedia",
+            "type": "",
+            "See results about": []
+        },
+        "Ginger ale": {
+            "label": "Ginger ale",
+            "description": "Ginger ale is a carbonated soft drink flavored with ginger in one of two ways. The golden style is closer to the ginger beer original, and is credited to the American doctor Thomas Cantrell. Wikipedia",
+            "type": "",
+            "Nutrition Facts": []
+        },
+        "Scotch whisky": {
+            "label": "Scotch whisky",
+            "description": "Scotch whisky, often simply called Scotch, is malt whisky or grain whisky made in Scotland. Scotch whisky must be made in a manner specified by law.\nAll Scotch whisky was originally made from malted barley. Wikipedia",
+            "type": "Blended spirit style",
             "People also search for": []
         },
-        "Jim Beam": {
-            "label": "Jim Beam",
-            "description": "Jim Beam is an American brand of bourbon whiskey produced in Clermont, Kentucky. It was one of the best selling brands of bourbon in the world in 2008. Wikipedia",
-            "type": "Food"
+        "Mecca-Cola": {
+            "label": "Mecca-Cola",
+            "description": "Mecca-Cola is a cola-flavoured carbonated beverage. The flagship product of the Mecca Cola World Company, it is marketed as an alternative to U.S. brands such as Coca-Cola and Pepsi-Cola to \"pro-Muslim\" consumers. Wikipedia",
+            "type": "Company"
         },
         "Triple sec": {
             "label": "Triple sec",
@@ -96,16 +91,21 @@
             "type": "",
             "People also search for": []
         },
-        "Dewar's": {
-            "label": "Dewar's",
-            "description": "Dewar's is a brand of blended Scotch whisky owned by Bacardi, which claims the brand's \"White Label\" to be the top-selling blended Scotch in the US. Wikipedia",
-            "type": "Company",
+        "Hardenberg-Wilthen": {
+            "label": "Hardenberg-Wilthen AG",
+            "description": "",
+            "type": "",
             "People also search for": []
         },
-        "Seagram's Seven Crown": {
-            "label": "Seagram's Seven Crown",
-            "description": "Seagram's Seven Crown, otherwise known as Seagram's Seven, is a blended American whiskey produced by Diageo under the Seagram name. Seagram's beverage division was acquired by Diageo, Pernod, and The Coca-Cola Company in 2000. Wikipedia",
-            "type": "",
+        "Jim Beam": {
+            "label": "Jim Beam",
+            "description": "Jim Beam is an American brand of bourbon whiskey produced in Clermont, Kentucky. It was one of the best selling brands of bourbon in the world in 2008. Wikipedia",
+            "type": "Food"
+        },
+        "Hpnotiq": {
+            "label": "Hpnotiq",
+            "description": "Hpnotiq liqueur is an alcoholic beverage, native to New York but bottled in France by Heaven Hill Distilleries, made from fruit juices, vodka and a cognac. It is 34 proof and is available in over 70 countries worldwide. Wikipedia",
+            "type": "Beverage",
             "People also search for": []
         },
         "Le Tourment Vert": {
@@ -114,10 +114,28 @@
             "type": "",
             "People also search for": []
         },
-        "Kahlúa": {
-            "label": "Kahlúa",
-            "description": "Kahlúa is a coffee-flavored rum-based liqueur from Mexico. The drink also contains sugar, corn syrup and vanilla bean. Wikipedia",
+        "Tascalate": {
+            "label": "Tascalate",
+            "description": "Tascalate is a chocolate drink made from a mixture of chocolate, ground pine nuts, achiote, vanilla and sugar, very common in the Mexican state of Chiapas. Wikipedia",
             "type": "",
+            "People also search for": []
+        },
+        "Seagram's Seven Crown": {
+            "label": "Seagram's Seven Crown",
+            "description": "Seagram's Seven Crown, otherwise known as Seagram's Seven, is a blended American whiskey produced by Diageo under the Seagram name. Seagram's beverage division was acquired by Diageo, Pernod, and The Coca-Cola Company in 2000. Wikipedia",
+            "type": "",
+            "People also search for": []
+        },
+        "Boost (health food)": {
+            "label": "Boost",
+            "description": "Boost is a chocolate-flavored health food drink manufactured by GlaxoSmithKline. It was launched in 1977 in India. Brand ambassador for Boost in 1986 was the cricketer Kapil Dev. Sachin Tendulkar became the brand ambassador with his debut in 1989. Wikipedia",
+            "type": "Health food",
+            "People also search for": []
+        },
+        "Dewar's": {
+            "label": "Dewar's",
+            "description": "Dewar's is a brand of blended Scotch whisky owned by Bacardi, which claims the brand's \"White Label\" to be the top-selling blended Scotch in the US. Wikipedia",
+            "type": "Company",
             "People also search for": []
         },
         "Diet Pepsi": {
@@ -132,11 +150,39 @@
             "type": "",
             "People also search for": []
         },
-        "Boost (health food)": {
-            "label": "Boost",
-            "description": "Boost is a chocolate-flavored health food drink manufactured by GlaxoSmithKline. It was launched in 1977 in India. Brand ambassador for Boost in 1986 was the cricketer Kapil Dev. Sachin Tendulkar became the brand ambassador with his debut in 1989. Wikipedia",
-            "type": "Health food",
+        "Crown Royal": {
+            "label": "Crown Royal",
+            "description": "Crown Royal is a blended Canadian whisky, 40% alcohol by volume, 80 proof. The brand is owned by Diageo, which purchased it when the Seagram portfolio was dissolved in the year 2000. It is the top-selling Canadian whisky in the United States. Wikipedia",
+            "type": "",
             "People also search for": []
+        },
+        "SKYY vodka": {
+            "label": "SKYY vodka",
+            "description": "SKYY vodka is produced by the Campari America division of Campari Group of Milan, Italy, formerly SKYY Spirits LLC. Wikipedia",
+            "type": "",
+            "People also search for": []
+        },
+        "Qibla Cola": {
+            "label": "Qibla Cola",
+            "description": "Qibla Cola a cola-flavored carbonated beverage is the flagship product of the Qibla Cola Company, based in Derby, England. Wikipedia",
+            "type": "Company"
+        },
+        "Woodford Reserve": {
+            "label": "Woodford Reserve",
+            "description": "Woodford Reserve is a brand of premium small batch Kentucky Straight Bourbon Whiskey produced by the Brown-Forman Corporation. It is distilled at the company's Woodford Reserve Distillery. The distillery is in Woodford County, in central Kentucky. Wikipedia",
+            "type": "Corporation",
+            "People also search for": []
+        },
+        "Like Cola": {
+            "label": "Like Cola",
+            "description": "Like Cola was an unsuccessful cola soft drink, introduced by the 7 Up company, that appeared on the American market in 1982. Its slogan was \"Made From The Cola Nut.\" Like Cola was one of the first attempts at a cola without caffeine. Wikipedia",
+            "type": "",
+            "See results about": []
+        },
+        "Solo (Australian soft drink)": {
+            "label": "Solo",
+            "description": "In Australia, Solo is a carbonated lemon-flavoured soft drink manufactured by Schweppes Australia.\nSolo was launched in Australia in 1973 as the ready to drink version of traditional 'pub squash'. Wikipedia",
+            "type": "Australian soft drink"
         },
         "Pepsi Max": {
             "label": "PepsiCo",
@@ -161,67 +207,25 @@
                 " Herman Lay"
             ],
             "Recent posts": []
-        },
-        "SKYY vodka": {
-            "label": "SKYY vodka",
-            "description": "SKYY vodka is produced by the Campari America division of Campari Group of Milan, Italy, formerly SKYY Spirits LLC. Wikipedia",
-            "type": "",
-            "People also search for": []
-        },
-        "Like Cola": {
-            "label": "Like Cola",
-            "description": "Like Cola was an unsuccessful cola soft drink, introduced by the 7 Up company, that appeared on the American market in 1982. Its slogan was \"Made From The Cola Nut.\" Like Cola was one of the first attempts at a cola without caffeine. Wikipedia",
-            "type": "",
-            "See results about": []
-        },
-        "Qibla Cola": {
-            "label": "Qibla Cola",
-            "description": "Qibla Cola a cola-flavored carbonated beverage is the flagship product of the Qibla Cola Company, based in Derby, England. Wikipedia",
-            "type": "Company"
-        },
-        "Crown Royal": {
-            "label": "Crown Royal",
-            "description": "Crown Royal is a blended Canadian whisky, 40% alcohol by volume, 80 proof. The brand is owned by Diageo, which purchased it when the Seagram portfolio was dissolved in the year 2000. It is the top-selling Canadian whisky in the United States. Wikipedia",
-            "type": "",
-            "People also search for": []
-        },
-        "Tascalate": {
-            "label": "Tascalate",
-            "description": "Tascalate is a chocolate drink made from a mixture of chocolate, ground pine nuts, achiote, vanilla and sugar, very common in the Mexican state of Chiapas. Wikipedia",
-            "type": "",
-            "People also search for": []
-        },
-        "Solo (Australian soft drink)": {
-            "label": "Solo",
-            "description": "In Australia, Solo is a carbonated lemon-flavoured soft drink manufactured by Schweppes Australia.\nSolo was launched in Australia in 1973 as the ready to drink version of traditional 'pub squash'. Wikipedia",
-            "type": "Australian soft drink"
-        },
-        "Woodford Reserve": {
-            "label": "Woodford Reserve",
-            "description": "Woodford Reserve is a brand of premium small batch Kentucky Straight Bourbon Whiskey produced by the Brown-Forman Corporation. It is distilled at the company's Woodford Reserve Distillery. The distillery is in Woodford County, in central Kentucky. Wikipedia",
-            "type": "Corporation",
-            "People also search for": []
-        },
-        "Starobrno Brewery": {
-            "label": "Starobrno Brewery",
-            "description": "",
-            "type": "",
-            "People also search for": []
         }
     },
     "summary": {
-        "label": 30,
-        "description": 30,
-        "type": 30,
-        "see_results_about": 1,
-        "people_also_search_for": 1,
-        "stock_price": 1,
-        "headquarters": 1,
-        "ceo": 1,
-        "founded": 1,
-        "nutrition_facts": 1,
-        "founders": 1,
-        "recent_posts": 1
+        "label": {
+            "uri": "http://dbpedia.org/property/label",
+            "count": 30
+        },
+        "description": {
+            "uri": "http://purl.org/dc/elements/1.1/description",
+            "count": 30
+        },
+        "type": {
+            "uri": "http://dbpedia.org/property/type",
+            "count": 30
+        },
+        "headquarters": {
+            "uri": "http://dbpedia.org/property/headquarters",
+            "count": 2
+        }
     },
     "infoboxless": [
         "Afri-Cola",
@@ -294,5 +298,15 @@
         "V (drink)",
         "Wiser's whisky",
         "Chopin vodka"
-    ]
+    ],
+    "Unmapped_Properties": {
+        "seeResultsAbout": 1,
+        "stockPrice": 1,
+        "ceo": 1,
+        "founded": 1,
+        "peopleAlsoSearchFor": 1,
+        "nutritionFacts": 1,
+        "founders": 1,
+        "recentPosts": 1
+    }
 }

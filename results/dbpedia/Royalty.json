@@ -658,20 +658,6 @@
             ],
             "People also search for": []
         },
-        "Anne Sophie Reventlow": {
-            "label": "Anne Sophie Reventlow",
-            "description": "Anne Sophie Reventlow was Queen of Denmark and Norway from 1721 to 1730 as the second wife of Frederick IV of Denmark and Norway. Wikipedia",
-            "type": "",
-            "Born ": "April 16, 1693",
-            "Died ": "January 7, 1743",
-            "Spouse ": [
-                "Frederick IV of Denmark"
-            ],
-            "Parents ": [
-                "Conrad von Reventlow"
-            ],
-            "People also search for": []
-        },
         "Anne Hyde": {
             "label": "Anne Hyde",
             "description": "Anne Hyde was Duchess of York and Albany as the first wife of James, Duke of York, later King James II and VII. Originally Anglican, her father was a lawyer. Wikipedia",
@@ -707,6 +693,20 @@
                 " 1st Earl of Clarendon",
                 " Frances Hyde",
                 " Countess of Clarendon"
+            ],
+            "People also search for": []
+        },
+        "Anne Sophie Reventlow": {
+            "label": "Anne Sophie Reventlow",
+            "description": "Anne Sophie Reventlow was Queen of Denmark and Norway from 1721 to 1730 as the second wife of Frederick IV of Denmark and Norway. Wikipedia",
+            "type": "",
+            "Born ": "April 16, 1693",
+            "Died ": "January 7, 1743",
+            "Spouse ": [
+                "Frederick IV of Denmark"
+            ],
+            "Parents ": [
+                "Conrad von Reventlow"
             ],
             "People also search for": []
         },
@@ -786,12 +786,12 @@
             ],
             "People also search for": []
         },
-        "Archduchess Maria Josepha of Austria": {
-            "label": "Archduchess Maria Josepha of Austria",
-            "description": "Archduchess Maria Josepha Gabriela Johanna Antonia Anna of Austria. She was the daughter of Francis I, Holy Roman Emperor and Maria Theresa of Austria, Holy Roman Empress. Wikipedia",
+        "Archduchess Maria Johanna Gabriela of Austria": {
+            "label": "Archduchess Maria Johanna Gabriela of Austria",
+            "description": "Maria Johanna Gabriela of Austria was an Archduchess of Austria and Princess of Tuscany, Hungary and Bohemia as the eleventh child and ninth daughter of Francis Stephen of Lorraine, Holy Roman Emperor and Maria Theresa. Wikipedia",
             "type": "",
-            "Born ": "March 19, 1751, Hofburg Palace, Vienna, Austria",
-            "Died ": "October 15, 1767, Vienna, Austria",
+            "Born ": "February 4, 1750, Hofburg Palace, Vienna, Austria",
+            "Died ": "December 23, 1762, Vienna, Austria",
             "Siblings ": [
                 "Marie Antoinette"
             ],
@@ -802,12 +802,12 @@
             ],
             "People also search for": []
         },
-        "Archduchess Maria Johanna Gabriela of Austria": {
-            "label": "Archduchess Maria Johanna Gabriela of Austria",
-            "description": "Maria Johanna Gabriela of Austria was an Archduchess of Austria and Princess of Tuscany, Hungary and Bohemia as the eleventh child and ninth daughter of Francis Stephen of Lorraine, Holy Roman Emperor and Maria Theresa. Wikipedia",
+        "Archduchess Maria Josepha of Austria": {
+            "label": "Archduchess Maria Josepha of Austria",
+            "description": "Archduchess Maria Josepha Gabriela Johanna Antonia Anna of Austria. She was the daughter of Francis I, Holy Roman Emperor and Maria Theresa of Austria, Holy Roman Empress. Wikipedia",
             "type": "",
-            "Born ": "February 4, 1750, Hofburg Palace, Vienna, Austria",
-            "Died ": "December 23, 1762, Vienna, Austria",
+            "Born ": "March 19, 1751, Hofburg Palace, Vienna, Austria",
+            "Died ": "October 15, 1767, Vienna, Austria",
             "Siblings ": [
                 "Marie Antoinette"
             ],
@@ -1044,6 +1044,27 @@
             ],
             "People also search for": []
         },
+        "Benedicta Henrietta of the Palatinate": {
+            "label": "Benedicta Henrietta of the Palatinate",
+            "description": "Princess Palatine Benedicta Henrietta was a German princess, the third and youngest daughter of Prince Palatine Edward and his French wife, the political hostess Anna Gonzaga. Wikipedia",
+            "type": "",
+            "Born ": "March 14, 1652, Paris, France",
+            "Died ": "August 12, 1730, Hanover, Germany",
+            "Spouse ": [
+                "John Frederick",
+                " Duke of Brunswick-Lüneburg (m. 1668)"
+            ],
+            "Children ": [
+                "Wilhelmine Amalia of Brunswick-Lüneburg",
+                " Duchess Charlotte of Brunswick-Lüneburg"
+            ],
+            "Parents ": [
+                "Anne Gonzaga",
+                " Edward",
+                " Count Palatine of Simmern"
+            ],
+            "People also search for": []
+        },
         "Berengar II of Italy": {
             "label": "Berengar II of Italy",
             "description": "Berengar II was the King of Italy from 950 until his deposition in 961. He was a scion of the Anscarid and Unruoching dynasties, and was named after his maternal grandfather, Berengar I. Wikipedia",
@@ -1086,27 +1107,6 @@
                 "John II",
                 " Duke of Saxe-Weimar",
                 " Dorothea Maria of Anhalt"
-            ],
-            "People also search for": []
-        },
-        "Benedicta Henrietta of the Palatinate": {
-            "label": "Benedicta Henrietta of the Palatinate",
-            "description": "Princess Palatine Benedicta Henrietta was a German princess, the third and youngest daughter of Prince Palatine Edward and his French wife, the political hostess Anna Gonzaga. Wikipedia",
-            "type": "",
-            "Born ": "March 14, 1652, Paris, France",
-            "Died ": "August 12, 1730, Hanover, Germany",
-            "Spouse ": [
-                "John Frederick",
-                " Duke of Brunswick-Lüneburg (m. 1668)"
-            ],
-            "Children ": [
-                "Wilhelmine Amalia of Brunswick-Lüneburg",
-                " Duchess Charlotte of Brunswick-Lüneburg"
-            ],
-            "Parents ": [
-                "Anne Gonzaga",
-                " Edward",
-                " Count Palatine of Simmern"
             ],
             "People also search for": []
         },
@@ -2090,22 +2090,54 @@
         }
     },
     "summary": {
-        "label": 92,
-        "description": 92,
-        "type": 92,
-        "born": 1,
-        "died": 1,
-        "spouse": 1,
-        "parents": 1,
-        "siblings": 1,
-        "people_also_search_for": 1,
-        "children": 1,
-        "education": 1,
-        "movies": 1,
-        "height": 1,
-        "party": 1,
-        "buried": 1,
-        "full_name": 1
+        "label": {
+            "uri": "http://dbpedia.org/property/label",
+            "count": 92
+        },
+        "description": {
+            "uri": "http://dbpedia.org/property/description",
+            "count": 92
+        },
+        "type": {
+            "uri": "http://dbpedia.org/property/type",
+            "count": 92
+        },
+        "spouse": {
+            "uri": "http://dbpedia.org/property/spouse",
+            "count": 67
+        },
+        "parents": {
+            "uri": "http://dbpedia.org/property/parents",
+            "count": 80
+        },
+        "siblings": {
+            "uri": "http://dbpedia.org/property/siblings",
+            "count": 25
+        },
+        "children": {
+            "uri": "http://dbpedia.org/property/children",
+            "count": 58
+        },
+        "education": {
+            "uri": "http://dbpedia.org/property/education",
+            "count": 2
+        },
+        "height": {
+            "uri": "http://dbpedia.org/property/height",
+            "count": 1
+        },
+        "party": {
+            "uri": "http://dbpedia.org/property/party",
+            "count": 1
+        },
+        "buried": {
+            "uri": "http://dbpedia.org/property/buried",
+            "count": 1
+        },
+        "fullName": {
+            "uri": "http://dbpedia.org/property/fullName",
+            "count": 1
+        }
     },
     "infoboxless": [
         "Świętosława of Poland",
@@ -2116,5 +2148,11 @@
         "Archduchess Maria Theresa of Austria (1862–1933)",
         "Catherine of Cleves",
         "Countess Franziska Kinsky of Wchinitz and Tettau"
-    ]
+    ],
+    "Unmapped_Properties": {
+        "born": 1,
+        "died": 1,
+        "peopleAlsoSearchFor": 1,
+        "movies": 1
+    }
 }

@@ -1,15 +1,5 @@
 {
     "instances": {
-        "United States Basketball League": {
-            "label": "United States Basketball League",
-            "description": "The United States Basketball League, often abbreviated to the USBL, was a professional men's spring basketball league. The league was formed in 1985. The final champions are the Kansas Cagerz, who won the title game on July 1, 2007. Wikipedia",
-            "type": "",
-            "Headquarters ": [
-                "Milford",
-                " CT"
-            ],
-            "People also search for": []
-        },
         "NBA Development League": {
             "label": "NBA Development League",
             "description": "The NBA Development League, or NBA D-League, is the National Basketball Association's official minor league basketball organization. Wikipedia",
@@ -17,6 +7,16 @@
             "Headquarters ": [
                 "New York",
                 " NY"
+            ],
+            "People also search for": []
+        },
+        "United States Basketball League": {
+            "label": "United States Basketball League",
+            "description": "The United States Basketball League, often abbreviated to the USBL, was a professional men's spring basketball league. The league was formed in 1985. The final champions are the Kansas Cagerz, who won the title game on July 1, 2007. Wikipedia",
+            "type": "",
+            "Headquarters ": [
+                "Milford",
+                " CT"
             ],
             "People also search for": []
         },
@@ -44,13 +44,26 @@
         }
     },
     "summary": {
-        "label": 4,
-        "description": 4,
-        "type": 4,
-        "headquarters": 1,
-        "people_also_search_for": 1,
-        "founded": 1,
-        "recent_posts": 1
+        "label": {
+            "uri": "http://www.w3.org/2000/01/rdf-schema#label",
+            "count": 4
+        },
+        "description": {
+            "uri": "http://fr.dbpedia.org/ontology/abstract",
+            "count": 4
+        },
+        "type": {
+            "uri": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+            "count": 4
+        },
+        "headquarters": {
+            "uri": "http://dbpedia.org/property/headquarters",
+            "count": 4
+        },
+        "founded": {
+            "uri": "http://dbpedia.org/property/founded",
+            "count": 1
+        }
     },
     "infoboxless": [
         "Turkish Basketball Federation",
@@ -58,8 +71,8 @@
         "Euroleague Basketball",
         "Greek Basket League",
         "LEB Plata",
-        "Turkish Basketball League",
         "Liga Portuguesa de Basquetebol",
+        "Turkish Basketball League",
         "Basketball Championship of Bosnia and Herzegovina",
         "Italian Basketball Supercup",
         "Burger King Classic",
@@ -149,5 +162,9 @@
         "National Basketball League (China)",
         "National Professional Basketball League (2007–2008)",
         "Premier Basketball League"
-    ]
+    ],
+    "Unmapped_Properties": {
+        "peopleAlsoSearchFor": 1,
+        "recentPosts": 1
+    }
 }

@@ -17,6 +17,12 @@ var sparql_federator = function(options) {
 	};
 };
 
+sparql_federator.prototype.camelCase = function(string) {
+    return string.toLowerCase().replace(/(\-[a-zA-Z])/g, function($1) {
+        return $1.toUpperCase().replace('-','');
+    })
+}
+
 sparql_federator.prototype.parseDBpediaConcepts = function(json) {
 
 	console.log("Parsing DBpedia Concepts ... ");
@@ -26,21 +32,31 @@ sparql_federator.prototype.parseDBpediaConcepts = function(json) {
 	var result           = {};
 
 	// For Each DBpedia concept fetch all its instances
-	async.eachLimit(json.results.bindings,10,function(item, asyncCallback){
+	async.eachLimit(json.results.bindings,1,function(item, asyncCallback){
 		var concept        = item.c.value;
 		var type_label     = decodeURIComponent(concept).replace(/_/g,' ');
 		var label          = type_label.substr(type_label.lastIndexOf('/') + 1);
 
-		// get the instances of a certain DBpedia concept
-		sparql_federator.getInstances(concept, label, function(error, data){
+		// get the distinct properties for all the instances of each concept
+		sparql_federator.getConceptProperties(concept, label, function(error,conceptProperties) {
 			if (!error) {
-				// if the instances has been fetched properly, parse them
-				sparql_federator.parseDBpediaInstance(label,data,function(error,results){
+				// get the instances of a certain DBpedia concept
+				sparql_federator.getInstances(concept, label, function(error, data) {
 					if (!error) {
-						// here we remove the instances array, since we already cache it to reduce file size
-						delete results.instances;
-						result[label] = results;
-						asyncCallback();
+						// if the instances has been fetched properly, parse them
+						sparql_federator.parseDBpediaInstance(label, data, conceptProperties,  function(error, results) {
+							if (!error) {
+								// here we remove the instances array, since we already cache it to reduce file size
+								delete results.instances;
+								// Check if there are instances found for this concept
+								if (!_.isUndefined(results.summary.label)) {
+									var total_number_of_properties = results.summary.label.count;
+								  _.each(results.summary, function(item,key){ item.count = ( item.count/ total_number_of_properties ) * 100 } );
+								}
+								result[label] = results;
+								asyncCallback();
+							}
+						});
 					}
 				});
 			}
@@ -57,20 +73,49 @@ sparql_federator.prototype.parseDBpediaConcepts = function(json) {
 	);
 }
 
-sparql_federator.prototype.parseDBpediaInstance = function(type,json,conceptsCallback) {
+sparql_federator.prototype.getConceptProperties = function (concept, label, callback) {
+
+	console.log("Getting DBpedia properties for all instances of type: " + label);
+
+	var sparql_federator = this;
+	var cache_filename   = __dirname + '/cache/instance_properties/' + label + '.json';
+
+	sparql_federator.cache.getCache(cache_filename, function(error, data) {
+		if (!error && !data) {
+			var SPARQL_query     = "select distinct ?property where { ?instance a <" + concept + "> . ?instance ?property ?obj}";
+			var encoded_query    = sparql_federator.dbpedia_endpoint + querystring.stringify({query: SPARQL_query});
+			var options          = { url: encoded_query, method:sparql_federator.method, encoding:sparql_federator.encoding, headers: sparql_federator.headers };
+
+			request(options, function(error, response, body) {
+				if (!error && response.statusCode == 200) {
+					sparql_federator.cache.setCache(cache_filename, body, function(error, data){
+						if (!error) {
+							callback(null, body);
+						}
+					});
+				} else console.log("An Error Occurred while executing a query to " + sparql_federator.dbpedia_endpoint + " using query: " + SPARQL_query);
+			});
+		} else callback(null, data);
+	});
+
+}
+
+sparql_federator.prototype.parseDBpediaInstance = function(type,json, conceptProperties, conceptsCallback) {
 
 	console.log("Parsing DBpedia Instances for type: "+ type +"... ");
 
-	var sparql_federator = this;
-	var cache_filename   = __dirname + '/cache/GKB/' + type + '.json';
-	var result           = {"instances" : {}, "summary" : {}, "infoboxless":[]};
-	var json             = _.isObject(json) ? json : JSON.parse(json);
+	var sparql_federator   = this;
+	var cache_filename     = __dirname + '/cache/GKB/' + type + '.json';
+	var result             = {"instances" : {}, "summary" : {}, "infoboxless":[], "Unmapped_Properties": {}};
+	var json               = _.isObject(json) ? json : JSON.parse(json);
+	var properties_mapping = {"type" : "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" , "label": "http://www.w3.org/2000/01/rdf-schema#label", "description": "http://fr.dbpedia.org/ontology/abstract"}
+	_.each(conceptProperties.results.bindings, function(property, key) {  properties_mapping[property.property.value.split('/').pop()] =  property.property.value });
 
 	sparql_federator.cache.getCache(cache_filename, function(error, data) {
 		// There is no cached instance GKB file
 		if (!error && !data) {
 			async.each(json.results.bindings,function(item, asyncCallback){
-			  	var instance 	    = item.Concept.value;
+			  var instance 	      = item.Concept.value;
 				var instance_label  = decodeURIComponent(instance).replace(/_/g,' ');
 				var label           = instance_label.substr(instance_label.lastIndexOf('/') + 1);
 
@@ -80,9 +125,18 @@ sparql_federator.prototype.parseDBpediaInstance = function(type,json,conceptsCal
 							result.instances[label] = data;
 							instance_proprties      = _.keys(data);
 							for(var i = 0, l = instance_proprties.length; i < l ; i++ ) {
-								if (_.indexOf(_.keys(result.summary),instance_proprties[i]) == -1 ) {
-									result.summary[instance_proprties[i].trim().toLowerCase().replace(/ /g, '_')] = 1;
-								} else result.summary[instance_proprties[i]]++;
+								var property_name = sparql_federator.camelCase(instance_proprties[i].trim().replace(/ /g, '-'));
+								// Check if the property name examined is in DBpedia ontology
+								if (_.indexOf(_.keys(properties_mapping), property_name) !== -1) {
+									// Check if the porperty has been added before to increase the counter or it is new
+									if (_.indexOf(_.keys(result.summary),property_name) == -1 )
+										result.summary[property_name] = { "uri" : properties_mapping[property_name], "count" : 1 };
+									else
+										result.summary[property_name].count++;
+									// The property examined is not in the DBpedia ontology but we still need to keep track of it
+								} else if (_.indexOf(_.keys(result.Unmapped_Properties),property_name == -1))
+										result.Unmapped_Properties[property_name] = 1;
+									else result.Unmapped_Properties[property_name]++;
 							}
 						} else result.infoboxless.push(label);
 					}
@@ -113,8 +167,8 @@ sparql_federator.prototype.getInstances = function(concept, label, callback) {
 
 	console.log("Getting DBpedia instances for: " + concept + " ... ");
 
-	var sparql_federator = this;
-	var cache_filename   = __dirname + '/cache/instances/' + label + '.json';
+	var sparql_federator   = this;
+	var cache_filename     = __dirname + '/cache/instances/' + label + '.json';
 
 	sparql_federator.cache.getCache(cache_filename, function(error, data) {
 		if (!error && !data) {

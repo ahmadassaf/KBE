@@ -1,14 +1,14 @@
 {
     "instances": {
-        "Optic radiation": {
-            "label": "Optic radiation",
-            "description": "The optic radiation is a collection of axons from relay neurons in the lateral geniculate nucleus of the thalamus carrying visual information through two divisions to the visual cortex along the calcarine fissure. Wikipedia",
-            "type": "",
-            "Related topics": []
-        },
         "Precentral sulcus": {
             "label": "Precentral sulcus",
             "description": "The precentral sulcus lies parallel to, and in front of, the central sulcus.\nThe precentral sulcus divides the inferior, middle, and superior frontal gyri from the precentral gyrus. Wikipedia",
+            "type": "",
+            "Related topics": []
+        },
+        "Optic radiation": {
+            "label": "Optic radiation",
+            "description": "The optic radiation is a collection of axons from relay neurons in the lateral geniculate nucleus of the thalamus carrying visual information through two divisions to the visual cortex along the calcarine fissure. Wikipedia",
             "type": "",
             "Related topics": []
         },
@@ -18,24 +18,32 @@
             "type": "",
             "Related topics": []
         },
-        "Rostral migratory stream": {
-            "label": "Rostral migratory stream",
-            "description": "The rostral migratory stream is a specialized migratory route found in the brain of some animals along which neuronal precursors that originated in the subventricular zone of the brain migrate to reach the main olfactory bulb. Wikipedia",
-            "type": "",
-            "Related topics": []
-        },
         "Fimbria of hippocampus": {
             "label": "Fimbria of hippocampus",
             "description": "With regard to the brain, the fimbria is a prominent band of white matter along the medial edge of the hippocampus. Wikipedia",
             "type": "",
             "Related topics": []
+        },
+        "Rostral migratory stream": {
+            "label": "Rostral migratory stream",
+            "description": "The rostral migratory stream is a specialized migratory route found in the brain of some animals along which neuronal precursors that originated in the subventricular zone of the brain migrate to reach the main olfactory bulb. Wikipedia",
+            "type": "",
+            "Related topics": []
         }
     },
     "summary": {
-        "label": 5,
-        "description": 5,
-        "type": 5,
-        "related_topics": 1
+        "label": {
+            "uri": "http://www.w3.org/2000/01/rdf-schema#label",
+            "count": 5
+        },
+        "description": {
+            "uri": "http://fr.dbpedia.org/ontology/abstract",
+            "count": 5
+        },
+        "type": {
+            "uri": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+            "count": 5
+        }
     },
     "infoboxless": [
         "Anterior commissure",
@@ -133,5 +141,8 @@
         "Folium vermis",
         "Inferior temporal gyrus",
         "Interpeduncular fossa"
-    ]
+    ],
+    "Unmapped_Properties": {
+        "relatedTopics": 1
+    }
 }

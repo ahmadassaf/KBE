@@ -92,6 +92,17 @@
                 " Hayes Volcano"
             ]
         },
+        "United States Range": {
+            "label": "United States Range",
+            "description": "The United States Range is one of the most northern mountain ranges in the world and of the Arctic Cordillera and is surpassed only by the Challenger Mountains to the northwest. Wikipedia",
+            "type": "Mountain range in Canada",
+            "Highest point ": [
+                "Mount Eugene"
+            ],
+            "Mountains ": [
+                "Mount Eugene"
+            ]
+        },
         "Vanoise massif": {
             "label": "Vanoise massif",
             "description": "The Vanoise massif is a mountain range in the Graian Alps in the western part of the Alps. Wikipedia",
@@ -119,17 +130,6 @@
             ],
             "Mountains": []
         },
-        "United States Range": {
-            "label": "United States Range",
-            "description": "The United States Range is one of the most northern mountain ranges in the world and of the Arctic Cordillera and is surpassed only by the Challenger Mountains to the northwest. Wikipedia",
-            "type": "Mountain range in Canada",
-            "Highest point ": [
-                "Mount Eugene"
-            ],
-            "Mountains ": [
-                "Mount Eugene"
-            ]
-        },
         "Wrangell Mountains": {
             "label": "Wrangell Mountains",
             "description": "The Wrangell Mountains are a high mountain range of eastern Alaska in the United States. Much of the range is included in Wrangell-Saint Elias National Park and Preserve. Wikipedia",
@@ -138,6 +138,14 @@
                 "Mount Blackburn"
             ],
             "Mountains": []
+        },
+        "Sierra Carapé": {
+            "label": "Sierra Carapé",
+            "description": "Sierra Carapé or Sierra de Carapé is a hill range located in Maldonado Department, in southern Uruguay. The range crosses the Maldonado Department from west to east and enters the Rocha Department. Wikipedia",
+            "type": "Mountain range in Uruguay",
+            "Country ": [
+                "Uruguay"
+            ]
         },
         "Sierra Madre Oriental": {
             "label": "Sierra Madre Oriental",
@@ -150,14 +158,6 @@
                 "Cerro Potosí"
             ],
             "See results about": []
-        },
-        "Sierra Carapé": {
-            "label": "Sierra Carapé",
-            "description": "Sierra Carapé or Sierra de Carapé is a hill range located in Maldonado Department, in southern Uruguay. The range crosses the Maldonado Department from west to east and enters the Rocha Department. Wikipedia",
-            "type": "Mountain range in Uruguay",
-            "Country ": [
-                "Uruguay"
-            ]
         },
         "Tian Shan": {
             "label": "Tian Shan",
@@ -184,14 +184,6 @@
             ],
             "Mountains": []
         },
-        "Vindhya Range": {
-            "label": "Vindhya Range",
-            "description": "The Vindhya Range is a range of older rounded mountains and hills in the west-central Indian subcontinent, which geographically separates the Indian subcontinent into northern India and Southern India. Wikipedia",
-            "type": "Mountain range in India",
-            "Country ": [
-                "India"
-            ]
-        },
         "Ural Mountains": {
             "label": "Ural Mountains",
             "description": "The Ural Mountains, or simply the Urals, are a mountain range that runs approximately from north to south through western Russia, from the coast of the Arctic Ocean to the Ural River and northwestern Kazakhstan. Wikipedia",
@@ -213,6 +205,14 @@
                 " Russia"
             ],
             "Mountains": []
+        },
+        "Vindhya Range": {
+            "label": "Vindhya Range",
+            "description": "The Vindhya Range is a range of older rounded mountains and hills in the west-central Indian subcontinent, which geographically separates the Indian subcontinent into northern India and Southern India. Wikipedia",
+            "type": "Mountain range in India",
+            "Country ": [
+                "India"
+            ]
         },
         "Sierra Salvada": {
             "label": "Sierra Salvada",
@@ -237,11 +237,6 @@
             "description": "The Şimleu Mountains is a mountain range in Transylvania, Romania, which belongs to the Apuseni Mountains. Wikipedia",
             "type": ""
         },
-        "Sir Sandford Range": {
-            "label": "Sir Sandford Range",
-            "description": "The Sir Sandford Range is a subrange of the Big Bend Ranges of the Selkirk Mountains of the Columbia Mountains in southeastern British Columbia, Canada, located between Gold and Palmer Creek just southwest of the Gold Arm of Kinbasket Lake. Wikipedia",
-            "type": ""
-        },
         "Shokanbetsudake Mountains": {
             "label": "Shokanbetsudake Mountains",
             "description": "Shokanbetsudake Mountains are a group of volcanic mountains on the western coast of Hokkaidō. It is part of the Mashike Mountains, separated from the other part of the Mashike Mountains to the south, the Kabato Mountains by the Hamamasu River. Wikipedia",
@@ -253,6 +248,11 @@
                 "Mount Shokanbetsu",
                 " Mount Okutoppu"
             ]
+        },
+        "Sir Sandford Range": {
+            "label": "Sir Sandford Range",
+            "description": "The Sir Sandford Range is a subrange of the Big Bend Ranges of the Selkirk Mountains of the Columbia Mountains in southeastern British Columbia, Canada, located between Gold and Palmer Creek just southwest of the Gold Arm of Kinbasket Lake. Wikipedia",
+            "type": ""
         },
         "Slovenian Prealps": {
             "label": "Slovenian Prealps",
@@ -446,11 +446,6 @@
             "description": "The Palisades are a mountain range in Napa County, California. The Palisades are located in Robert Louis Stevenson State Park on the other side of California 29 as Mt. St. Helena. Wikipedia",
             "type": "Mountain range in California"
         },
-        "Sierra Vicuña Mackenna": {
-            "label": "Sierra Vicuña Mackenna",
-            "description": "The Cordillera Vicuña Mackenna is the highest section of the Chilean Coast Range located in northern Chile, west of Pampa del Tamarugal. Its peak reaches over 3000 meters. It runs north-south for approximately 170 km parallel to the Andes. Wikipedia",
-            "type": "Mountain range"
-        },
         "Świętokrzyskie Mountains": {
             "label": "Świętokrzyskie Mountains",
             "description": "The Świętokrzyskie Mountains, or Holy Cross Mountains, are a mountain range in central Poland, in the vicinity of the city of Kielce.\nThe mountain range comprises several lesser ranges, the highest of which is Łysogóry. Wikipedia",
@@ -466,6 +461,11 @@
                 " Łysica"
             ],
             "People also search for": []
+        },
+        "Sierra Vicuña Mackenna": {
+            "label": "Sierra Vicuña Mackenna",
+            "description": "The Cordillera Vicuña Mackenna is the highest section of the Chilean Coast Range located in northern Chile, west of Pampa del Tamarugal. Its peak reaches over 3000 meters. It runs north-south for approximately 170 km parallel to the Andes. Wikipedia",
+            "type": "Mountain range"
         },
         "Sierra de Chinajá": {
             "label": "Sierra de Chinajá",
@@ -710,15 +710,30 @@
             ],
             "Mountains": []
         },
-        "White Carpathians": {
-            "label": "White Carpathians",
-            "description": "The White Carpathians is the westernmost mountain range of the Carpathian Mountains.\nThey are part of the Slovak-Moravian Carpathians, stretching from the Váh river and the Little Carpathians in the ... Wikipedia",
-            "type": "Mountain range in Slovakia",
-            "Address ": [
-                "Slovakia"
+        "Tibesti Mountains": {
+            "label": "Tibesti Mountains",
+            "description": "The Tibesti Mountains are a mountain range in the central Sahara, primarily located in the extreme north of Chad, with a small extension into southern Libya. Wikipedia",
+            "type": "Mountain range in Africa",
+            "Area ": [
+                "38",
+                "610 sq miles (100",
+                "000 km²)"
             ],
+            "Highest point ": [
+                "Emi Koussi"
+            ],
+            "Countries ": [
+                "Chad",
+                " Libya"
+            ],
+            "Mountains": []
+        },
+        "Zhiguli Mountains": {
+            "label": "Zhiguli Mountains",
+            "description": "The Zhiguli Mountains or simply Zhiguli, sometimes called The Zhiguli Heights - Жигулëвская возвышенность [Zhigulyovskaya vozvyshennost], are a range of wooded mountains located in Russia on the right bank of the Volga River, in the Samara bend. Wikipedia",
+            "type": "Mountain range in Russia",
             "Country ": [
-                "Slovakia"
+                "Russia"
             ]
         },
         "Tatra Mountains": {
@@ -742,12 +757,21 @@
             ],
             "People also search for": []
         },
-        "Zhiguli Mountains": {
-            "label": "Zhiguli Mountains",
-            "description": "The Zhiguli Mountains or simply Zhiguli, sometimes called The Zhiguli Heights - Жигулëвская возвышенность [Zhigulyovskaya vozvyshennost], are a range of wooded mountains located in Russia on the right bank of the Volga River, in the Samara bend. Wikipedia",
-            "type": "Mountain range in Russia",
+        "Shadow Mountains": {
+            "label": "Shadow Mountains",
+            "description": "The Shadow Mountains are located in the Mojave Desert of eastern California in the United States. The mountains lie in a generally north-south direction south of the Kingston Range and east of the Avawatz Mountains and the Silurian Hills. Wikipedia",
+            "type": "Mountain range in California",
+            "See results about": []
+        },
+        "White Carpathians": {
+            "label": "White Carpathians",
+            "description": "The White Carpathians is the westernmost mountain range of the Carpathian Mountains.\nThey are part of the Slovak-Moravian Carpathians, stretching from the Váh river and the Little Carpathians in the ... Wikipedia",
+            "type": "Mountain range in Slovakia",
+            "Address ": [
+                "Slovakia"
+            ],
             "Country ": [
-                "Russia"
+                "Slovakia"
             ]
         },
         "Zillertal Alps": {
@@ -762,48 +786,33 @@
                 " Italy"
             ],
             "Mountains": []
-        },
-        "Shadow Mountains": {
-            "label": "Shadow Mountains",
-            "description": "The Shadow Mountains are located in the Mojave Desert of eastern California in the United States. The mountains lie in a generally north-south direction south of the Kingston Range and east of the Avawatz Mountains and the Silurian Hills. Wikipedia",
-            "type": "Mountain range in California",
-            "See results about": []
-        },
-        "Tibesti Mountains": {
-            "label": "Tibesti Mountains",
-            "description": "The Tibesti Mountains are a mountain range in the central Sahara, primarily located in the extreme north of Chad, with a small extension into southern Libya. Wikipedia",
-            "type": "Mountain range in Africa",
-            "Area ": [
-                "38",
-                "610 sq miles (100",
-                "000 km²)"
-            ],
-            "Highest point ": [
-                "Emi Koussi"
-            ],
-            "Countries ": [
-                "Chad",
-                " Libya"
-            ],
-            "Mountains": []
         }
     },
     "summary": {
-        "label": 78,
-        "description": 78,
-        "type": 78,
-        "address": 1,
-        "highest_point": 1,
-        "passes": 1,
-        "mountains": 1,
-        "people_also_search_for": 1,
-        "country": 1,
-        "see_results_about": 1,
-        "elevation": 1,
-        "countries": 1,
-        "area": 1,
-        "local_time": 1,
-        "province": 1
+        "label": {
+            "uri": "http://dbpedia.org/property/label",
+            "count": 78
+        },
+        "description": {
+            "uri": "http://fr.dbpedia.org/ontology/abstract",
+            "count": 78
+        },
+        "type": {
+            "uri": "http://dbpedia.org/ontology/type",
+            "count": 78
+        },
+        "country": {
+            "uri": "http://dbpedia.org/property/country",
+            "count": 14
+        },
+        "elevation": {
+            "uri": "http://dbpedia.org/property/elevation",
+            "count": 7
+        },
+        "area": {
+            "uri": "http://dbpedia.org/property/area",
+            "count": 13
+        }
     },
     "infoboxless": [
         "Skagit Range",
@@ -828,5 +837,16 @@
         "Sylvania Mountains",
         "Spiller Range",
         "Tyrol Schistose Alps"
-    ]
+    ],
+    "Unmapped_Properties": {
+        "address": 1,
+        "highestPoint": 1,
+        "passes": 1,
+        "mountains": 1,
+        "peopleAlsoSearchFor": 1,
+        "seeResultsAbout": 1,
+        "countries": 1,
+        "localTime": 1,
+        "province": 1
+    }
 }

@@ -164,23 +164,6 @@
             ],
             "People also search for": []
         },
-        "Gia Carangi": {
-            "label": "Gia Carangi",
-            "description": "Gia Marie Carangi was an American fashion model during the late 1970s and early 1980s. She was featured on the cover of fashion magazines, including four international editions of Vogue and multiple issues of Cosmopolitan between 1979 and 1982. Wikipedia",
-            "type": "Fashion Model",
-            "Born ": "January 29, 1960, Philadelphia, Pennsylvania, United States",
-            "Died ": "November 18, 1986, Philadelphia, Pennsylvania, United States",
-            "Full name ": [
-                "Gia Marie Carangi"
-            ],
-            "Height ": [
-                "5' 8\" (1.73 m)"
-            ],
-            "Education ": [
-                "Abraham Lincoln High School"
-            ],
-            "People also search for": []
-        },
         "Gemma Ward": {
             "label": "Gemma Ward",
             "description": "Gemma Louise Ward is an Australian fashion model turned actress. Born in Perth, Western Australia, Ward was first scouted at the age of 14, and made her Australian Fashion Week debut aged 15. Wikipedia",
@@ -204,6 +187,23 @@
                 " Perth"
             ],
             "Movies": []
+        },
+        "Gia Carangi": {
+            "label": "Gia Carangi",
+            "description": "Gia Marie Carangi was an American fashion model during the late 1970s and early 1980s. She was featured on the cover of fashion magazines, including four international editions of Vogue and multiple issues of Cosmopolitan between 1979 and 1982. Wikipedia",
+            "type": "Fashion Model",
+            "Born ": "January 29, 1960, Philadelphia, Pennsylvania, United States",
+            "Died ": "November 18, 1986, Philadelphia, Pennsylvania, United States",
+            "Full name ": [
+                "Gia Marie Carangi"
+            ],
+            "Height ": [
+                "5' 8\" (1.73 m)"
+            ],
+            "Education ": [
+                "Abraham Lincoln High School"
+            ],
+            "People also search for": []
         },
         "Heidi Klum": {
             "label": "Heidi Klum",
@@ -413,6 +413,29 @@
             ],
             "People also search for": []
         },
+        "Alena Šeredová": {
+            "label": "Alena Šeredová",
+            "description": "Alena Buffon is a Czech model and actress currently living and working in Italy. She is the wife of Italian football goalkeeper Gianluigi Buffon. Wikipedia",
+            "type": "Model",
+            "Born ": "March 21, 1978 (age 36), Prague, Czech Republic",
+            "Height ": [
+                "5' 11\" (1.81 m)"
+            ],
+            "Spouse ": [
+                "Gianluigi Buffon (m. 2011)"
+            ],
+            "Parents ": [
+                "Jitka Šeredová"
+            ],
+            "Children ": [
+                "David Lee Buffon",
+                " Louis Thomas Buffon"
+            ],
+            "Siblings ": [
+                "Eliška Šeredová"
+            ],
+            "Recent posts": []
+        },
         "Devon Aoki": {
             "label": "Devon Aoki",
             "description": "Devon Edwenna Aoki is an American model and actress. Wikipedia",
@@ -582,29 +605,6 @@
             ],
             "People also search for": []
         },
-        "Alena Šeredová": {
-            "label": "Alena Šeredová",
-            "description": "Alena Buffon is a Czech model and actress currently living and working in Italy. She is the wife of Italian football goalkeeper Gianluigi Buffon. Wikipedia",
-            "type": "Model",
-            "Born ": "March 21, 1978 (age 36), Prague, Czech Republic",
-            "Height ": [
-                "5' 11\" (1.81 m)"
-            ],
-            "Spouse ": [
-                "Gianluigi Buffon (m. 2011)"
-            ],
-            "Parents ": [
-                "Jitka Šeredová"
-            ],
-            "Children ": [
-                "David Lee Buffon",
-                " Louis Thomas Buffon"
-            ],
-            "Siblings ": [
-                "Eliška Šeredová"
-            ],
-            "Recent posts": []
-        },
         "Jean Shrimpton": {
             "label": "Jean Shrimpton",
             "description": "Jean Rosemary Shrimpton is an English model and actress. She was an icon of Swinging London and is considered to be one of the world's first supermodels. Wikipedia",
@@ -765,6 +765,19 @@
             ],
             "People also search for": []
         },
+        "Rosie Jones (model)": {
+            "label": "Rosie Jones",
+            "description": "Rosie Jones is an English glamour model from Sunbury-on-Thames, Middlesex. She has appeared as a Page 3 girl and in numerous lad mags. Wikipedia",
+            "type": "Model",
+            "Born ": "July 19, 1990 (age 23), Sunbury-on-Thames, United Kingdom",
+            "Height ": [
+                "5' 7\" (1.70 m)"
+            ],
+            "Nationality ": [
+                "English"
+            ],
+            "People also search for": []
+        },
         "Alice Dellal": {
             "label": "Alice Dellal",
             "description": "Alice Dellal is a Brazilian model. She is associated with NEXT Model Management. Daughter of Brazilian model mother, Andrea, and father, Guy Dellal, Alice is an heiress to a property tycoon, grandfather 'Black' Jack Dellal. Wikipedia",
@@ -778,19 +791,6 @@
             ],
             "Siblings ": [
                 "Alexander Dellal"
-            ],
-            "People also search for": []
-        },
-        "Rosie Jones (model)": {
-            "label": "Rosie Jones",
-            "description": "Rosie Jones is an English glamour model from Sunbury-on-Thames, Middlesex. She has appeared as a Page 3 girl and in numerous lad mags. Wikipedia",
-            "type": "Model",
-            "Born ": "July 19, 1990 (age 23), Sunbury-on-Thames, United Kingdom",
-            "Height ": [
-                "5' 7\" (1.70 m)"
-            ],
-            "Nationality ": [
-                "English"
             ],
             "People also search for": []
         },
@@ -1304,32 +1304,58 @@
         }
     },
     "summary": {
-        "label": 83,
-        "description": 83,
-        "type": 83,
-        "born": 1,
-        "height": 1,
-        "spouse": 1,
-        "people_also_search_for": 1,
-        "tv_shows": 1,
-        "education": 1,
-        "movies_and_tv_shows": 1,
-        "nationality": 1,
-        "songs": 1,
-        "movies": 1,
-        "parents": 1,
-        "siblings": 1,
-        "children": 1,
-        "died": 1,
-        "full_name": 1,
-        "awards": 1,
-        "recent_posts": 1,
-        "partner": 1,
-        "upcoming_movie": 1,
-        "music_group": 1,
-        "nominations": 1,
-        "albums": 1,
-        "record_labels": 1
+        "label": {
+            "uri": "http://dbpedia.org/property/label",
+            "count": 83
+        },
+        "description": {
+            "uri": "http://purl.org/dc/elements/1.1/description",
+            "count": 83
+        },
+        "type": {
+            "uri": "http://dbpedia.org/property/type",
+            "count": 83
+        },
+        "born": {
+            "uri": "http://dbpedia.org/property/born",
+            "count": 83
+        },
+        "height": {
+            "uri": "http://dbpedia.org/property/height",
+            "count": 44
+        },
+        "spouse": {
+            "uri": "http://dbpedia.org/property/spouse",
+            "count": 23
+        },
+        "education": {
+            "uri": "http://dbpedia.org/property/education",
+            "count": 18
+        },
+        "nationality": {
+            "uri": "http://dbpedia.org/property/nationality",
+            "count": 12
+        },
+        "parents": {
+            "uri": "http://dbpedia.org/property/parents",
+            "count": 19
+        },
+        "siblings": {
+            "uri": "http://dbpedia.org/property/siblings",
+            "count": 16
+        },
+        "children": {
+            "uri": "http://dbpedia.org/property/children",
+            "count": 18
+        },
+        "awards": {
+            "uri": "http://dbpedia.org/property/awards",
+            "count": 3
+        },
+        "partner": {
+            "uri": "http://dbpedia.org/property/partner",
+            "count": 1
+        }
     },
     "infoboxless": [
         "Alyssa Nicole Pallett",
@@ -1349,5 +1375,20 @@
         "Keeley Hazell",
         "Mao Kobayashi",
         "Marlon Teixeira"
-    ]
+    ],
+    "Unmapped_Properties": {
+        "peopleAlsoSearchFor": 1,
+        "tvShows": 1,
+        "moviesAndTvShows": 1,
+        "songs": 1,
+        "movies": 1,
+        "died": 1,
+        "fullName": 1,
+        "recentPosts": 1,
+        "upcomingMovie": 1,
+        "musicGroup": 1,
+        "nominations": 1,
+        "albums": 1,
+        "recordLabels": 1
+    }
 }

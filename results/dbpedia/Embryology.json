@@ -24,15 +24,15 @@
             "type": "",
             "Related topics": []
         },
-        "Placenta": {
-            "label": "Placenta",
-            "description": "The placenta is an organ that connects the developing fetus to the uterine wall to allow nutrient uptake, waste elimination, and gas exchange via the mother's blood supply. Wikipedia",
-            "type": "",
-            "Related topics": []
-        },
         "Zygote": {
             "label": "Zygote",
             "description": "A zygote, is the initial cell formed when two gamete cells are joined by means of sexual reproduction. In multicellular organisms, it is the earliest developmental stage of the embryo. Wikipedia",
+            "type": "",
+            "Related topics": []
+        },
+        "Placenta": {
+            "label": "Placenta",
+            "description": "The placenta is an organ that connects the developing fetus to the uterine wall to allow nutrient uptake, waste elimination, and gas exchange via the mother's blood supply. Wikipedia",
             "type": "",
             "Related topics": []
         },
@@ -80,10 +80,18 @@
         }
     },
     "summary": {
-        "label": 13,
-        "description": 13,
-        "type": 13,
-        "related_topics": 1
+        "label": {
+            "uri": "http://www.w3.org/2000/01/rdf-schema#label",
+            "count": 13
+        },
+        "description": {
+            "uri": "http://fr.dbpedia.org/ontology/abstract",
+            "count": 13
+        },
+        "type": {
+            "uri": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+            "count": 13
+        }
     },
     "infoboxless": [
         "Blastocyst",
@@ -173,5 +181,8 @@
         "Foregut",
         "Genital tubercle",
         "Gestational sac"
-    ]
+    ],
+    "Unmapped_Properties": {
+        "relatedTopics": 1
+    }
 }

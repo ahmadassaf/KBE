@@ -1,15 +1,15 @@
 {
     "instances": {
-        "Ulmus glabra 'Camperdownii'": {
-            "label": "Ulmus glabra 'Camperdownii'",
-            "description": "The Camperdown Elm Ulmus glabra 'Camperdownii' is a cultivar which cannot reproduce from seed. Although still classed as a cultivar of U. glabra, the tree was considered a nothomorph of U. × hollandica var. vegeta by Green, not U. glabra. Wikipedia",
-            "type": ""
-        },
         "Honeydew (melon)": {
             "label": "Honeydew",
             "description": "Honeydew is a cultivar group of the muskmelon, Cucumis melo Inodorus group, which includes crenshaw, casaba, Persian, winter, and other mixed melons. Wikipedia",
             "type": "Muskmelon",
             "Nutrition Facts": []
+        },
+        "Ulmus glabra 'Camperdownii'": {
+            "label": "Ulmus glabra 'Camperdownii'",
+            "description": "The Camperdown Elm Ulmus glabra 'Camperdownii' is a cultivar which cannot reproduce from seed. Although still classed as a cultivar of U. glabra, the tree was considered a nothomorph of U. × hollandica var. vegeta by Green, not U. glabra. Wikipedia",
+            "type": ""
         },
         "Topaz (apple)": {
             "label": "Topaz",
@@ -17,6 +17,14 @@
             "type": "Plant",
             "Higher classification ": [
                 "Apple tree"
+            ]
+        },
+        "Tongue of Fire": {
+            "label": "Tongue of Fire",
+            "description": "'Tongue of Fire' is a cultivar of Phaseolus vulgaris. The pods are ivory white with red streaks that look like flames. The bean stalks grow close together, require plenty of sun and form large roundish pods. Wikipedia",
+            "type": "",
+            "Rank ": [
+                "Cultivar"
             ]
         },
         "Ulmus 'Columella'": {
@@ -36,14 +44,6 @@
             "label": "Ulmus 'New Horizon'",
             "description": "An American cultivar raised by the Wisconsin Alumni Research Foundation, 'New Horizon' was derived from a crossing of Siberian Elm Ulmus pumila with Japanese Elm Ulmus davidiana var. japonica and patented in 1994. Wikipedia",
             "type": ""
-        },
-        "Tongue of Fire": {
-            "label": "Tongue of Fire",
-            "description": "'Tongue of Fire' is a cultivar of Phaseolus vulgaris. The pods are ivory white with red streaks that look like flames. The bean stalks grow close together, require plenty of sun and form large roundish pods. Wikipedia",
-            "type": "",
-            "Rank ": [
-                "Cultivar"
-            ]
         },
         "Scarlet Eggplant": {
             "label": "Scarlet Eggplant",
@@ -102,14 +102,14 @@
             "description": "Astilbe Arendsii Group is a cultivar group of complex hybrids with A. astilboides, chinensis, japonica, thunbergii and others. They are all perennial, herbaceous plants with flowers in various shades from white to purplish red. Wikipedia",
             "type": ""
         },
-        "Ulmus minor 'Pendula'": {
-            "label": "Ulmus minor 'Pendula'",
-            "description": "The Field Elm Ulmus minor sensu latissimo cultivar 'Pendula' was listed by C. de Vos in Handboek 20, 1887, as Ulmus sativa pendula, and much later by Boom in Ned. Dendr. 1 158, 1959, as a cultivar. Wikipedia",
-            "type": ""
-        },
         "Ulmus alata 'Lace Parasol'": {
             "label": "Ulmus alata 'Lace Parasol'",
             "description": "The Winged Elm Ulmus alata cultivar 'Lace Parasol' was found by a North Carolina nurseryman growing in local woods. Wikipedia",
+            "type": ""
+        },
+        "Ulmus minor 'Pendula'": {
+            "label": "Ulmus minor 'Pendula'",
+            "description": "The Field Elm Ulmus minor sensu latissimo cultivar 'Pendula' was listed by C. de Vos in Handboek 20, 1887, as Ulmus sativa pendula, and much later by Boom in Ned. Dendr. 1 158, 1959, as a cultivar. Wikipedia",
             "type": ""
         },
         "Ulmus minor 'Umbraculifera'": {
@@ -119,13 +119,18 @@
         }
     },
     "summary": {
-        "label": 19,
-        "description": 19,
-        "type": 19,
-        "nutrition_facts": 1,
-        "higher_classification": 1,
-        "rank": 1,
-        "scientific_name": 1
+        "label": {
+            "uri": "http://www.w3.org/2000/01/rdf-schema#label",
+            "count": 19
+        },
+        "description": {
+            "uri": "http://fr.dbpedia.org/ontology/abstract",
+            "count": 19
+        },
+        "type": {
+            "uri": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+            "count": 19
+        }
     },
     "infoboxless": [
         "Buddleja 'Ingeborg'",
@@ -209,5 +214,11 @@
         "×Quesmea 'Flame'",
         "Aechmea 'Ametista'",
         "Aechmea 'Angulation'"
-    ]
+    ],
+    "Unmapped_Properties": {
+        "nutritionFacts": 1,
+        "higherClassification": 1,
+        "rank": 1,
+        "scientificName": 1
+    }
 }

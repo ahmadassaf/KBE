@@ -50,6 +50,17 @@
             ],
             "See results about": []
         },
+        "Eastern newt": {
+            "label": "Eastern newt",
+            "description": "The eastern newt is a common newt of eastern North America. They frequent small lakes, ponds, and streams or near-by wet forests. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Notophthalmus viridescens"
+            ],
+            "Rank ": [
+                "Species"
+            ]
+        },
         "Euproctus": {
             "label": "Euproctus",
             "description": "Euproctus is a genus of salamander in the Salamandridae family. It contains the following species\nEuproctus montanus – Corsican Brook Salamander\nEuproctus platycephalus – Sardinian Brook Salamander Wikipedia",
@@ -68,17 +79,6 @@
                 " Corsican brook salamander"
             ],
             "See results about": []
-        },
-        "Eastern newt": {
-            "label": "Eastern newt",
-            "description": "The eastern newt is a common newt of eastern North America. They frequent small lakes, ponds, and streams or near-by wet forests. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Notophthalmus viridescens"
-            ],
-            "Rank ": [
-                "Species"
-            ]
         },
         "Gastric-brooding frog": {
             "label": "Gastric-brooding frog",
@@ -236,12 +236,12 @@
             ],
             "See results about": []
         },
-        "Adenomera andreae": {
-            "label": "Adenomera andreae",
-            "description": "Adenomera andreae is a species of frog in the Leptodactylidae family. It is found in Bolivia, Brazil, Colombia, Ecuador, French Guiana, Guyana, Peru, Suriname, and Venezuela. Wikipedia",
+        "Adenomera hylaedactyla": {
+            "label": "Adenomera hylaedactyla",
+            "description": "Adenomera hylaedactyla is a species of frog in the Leptodactylidae family. It is found in Argentina, Bolivia, Brazil, Colombia, Ecuador, French Guiana, Guyana, Paraguay, Peru, Suriname, Trinidad and Tobago, and Venezuela. Wikipedia",
             "type": "Amphibian",
             "Scientific name ": [
-                "Adenomera andreae"
+                "Adenomera hylaedactyla"
             ],
             "Rank ": [
                 "Species"
@@ -250,12 +250,12 @@
                 "Adenomera"
             ]
         },
-        "Adenomera hylaedactyla": {
-            "label": "Adenomera hylaedactyla",
-            "description": "Adenomera hylaedactyla is a species of frog in the Leptodactylidae family. It is found in Argentina, Bolivia, Brazil, Colombia, Ecuador, French Guiana, Guyana, Paraguay, Peru, Suriname, Trinidad and Tobago, and Venezuela. Wikipedia",
+        "Adenomera andreae": {
+            "label": "Adenomera andreae",
+            "description": "Adenomera andreae is a species of frog in the Leptodactylidae family. It is found in Bolivia, Brazil, Colombia, Ecuador, French Guiana, Guyana, Peru, Suriname, and Venezuela. Wikipedia",
             "type": "Amphibian",
             "Scientific name ": [
-                "Adenomera hylaedactyla"
+                "Adenomera andreae"
             ],
             "Rank ": [
                 "Species"
@@ -438,12 +438,12 @@
                 "Afrixalus"
             ]
         },
-        "Afrixalus weidholzi": {
-            "label": "Afrixalus weidholzi",
-            "description": "Afrixalus weidholzi is a species of frog in the Hyperoliidae family. Its common name is Weidholz's banana frog. Wikipedia",
+        "Afrixalus vibekensis": {
+            "label": "Afrixalus vibekensis",
+            "description": "Afrixalus vibekensis is a species of frog in the Hyperoliidae family. It is confirmed to exist in two locations in Côte d'Ivoire and one in Ghana, and it possibly occurs in Guinea and Liberia. Wikipedia",
             "type": "",
             "Scientific name ": [
-                "Afrixalus weidholzi"
+                "Afrixalus vibekensis"
             ],
             "Rank ": [
                 "Species"
@@ -452,12 +452,12 @@
                 "Afrixalus"
             ]
         },
-        "Afrixalus vibekensis": {
-            "label": "Afrixalus vibekensis",
-            "description": "Afrixalus vibekensis is a species of frog in the Hyperoliidae family. It is confirmed to exist in two locations in Côte d'Ivoire and one in Ghana, and it possibly occurs in Guinea and Liberia. Wikipedia",
+        "Afrixalus weidholzi": {
+            "label": "Afrixalus weidholzi",
+            "description": "Afrixalus weidholzi is a species of frog in the Hyperoliidae family. Its common name is Weidholz's banana frog. Wikipedia",
             "type": "",
             "Scientific name ": [
-                "Afrixalus vibekensis"
+                "Afrixalus weidholzi"
             ],
             "Rank ": [
                 "Species"
@@ -587,20 +587,6 @@
                 "Alsodes"
             ]
         },
-        "Amietia amieti": {
-            "label": "Amietia amieti",
-            "description": "Amietia amieti is a species of frog in the Pyxicephalidae family. It was formerly placed in the Ranidae family. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Amietia amieti"
-            ],
-            "Rank ": [
-                "Species"
-            ],
-            "Higher classification ": [
-                "Amietia"
-            ]
-        },
         "Ansonia (genus)": {
             "label": "Ansonia",
             "description": "Ansonia is a small genus of true toads found in South India, northern Thailand, Malay Peninsula, Tioman Island, Borneo,and Mindanao. These small forest species spawn in streams and have torrent-adapted tadpoles. Wikipedia",
@@ -641,6 +627,20 @@
                 " Ansonia muelleri",
                 " Ansonia penangensis",
                 " Ansonia albomaculataMore"
+            ]
+        },
+        "Amietia amieti": {
+            "label": "Amietia amieti",
+            "description": "Amietia amieti is a species of frog in the Pyxicephalidae family. It was formerly placed in the Ranidae family. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Amietia amieti"
+            ],
+            "Rank ": [
+                "Species"
+            ],
+            "Higher classification ": [
+                "Amietia"
             ]
         },
         "Ansonia hanitschi": {
@@ -727,20 +727,6 @@
                 "Ansonia"
             ]
         },
-        "Aparasphenodon venezolanus": {
-            "label": "Aparasphenodon venezolanus",
-            "description": "Aparasphenodon venezolanus is a species of frog in the Hylidae family. It is found in Brazil, Colombia, and Venezuela. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Aparasphenodon venezolanus"
-            ],
-            "Rank ": [
-                "Species"
-            ],
-            "Higher classification ": [
-                "Aparasphenodon"
-            ]
-        },
         "Aparasphenodon": {
             "label": "Aparasphenodon",
             "description": "Aparasphenodon is a genus of frogs in the Hylidae family, and are found southeastern Brazil, the Orinoco Basin, Venezuela and Colombia. These are tree-dwelling species usually hiding in the cisterns of epiphytic bromeliads. Wikipedia",
@@ -758,37 +744,18 @@
             ],
             "See results about": []
         },
-        "Aphantophryne": {
-            "label": "Aphantophryne",
-            "description": "Aphantophryne is a genus of microhylid frogs endemic to New Guinea. Originally described by Fry in 1917, Richard G. Zweifel considered in 1956 Aphantophryne synonymous to Cophixalus. Wikipedia",
+        "Aparasphenodon venezolanus": {
+            "label": "Aparasphenodon venezolanus",
+            "description": "Aparasphenodon venezolanus is a species of frog in the Hylidae family. It is found in Brazil, Colombia, and Venezuela. Wikipedia",
             "type": "",
             "Scientific name ": [
-                "Aphantophryne"
-            ],
-            "Rank ": [
-                "Genus"
-            ],
-            "Higher classification ": [
-                "Genyophryninae"
-            ],
-            "Lower classifications ": [
-                "Aphantophryne pansa",
-                " Aphantophryne sabini",
-                " Aphantophryne minuta"
-            ]
-        },
-        "Aplastodiscus cavicola": {
-            "label": "Aplastodiscus cavicola",
-            "description": "Aplastodiscus cavicola is a species of frog in the Hylidae family. It is endemic to Brazil. Its natural habitats are subtropical or tropical moist lowland forests and rivers. It is threatened by habitat loss. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Aplastodiscus cavicola"
+                "Aparasphenodon venezolanus"
             ],
             "Rank ": [
                 "Species"
             ],
             "Higher classification ": [
-                "Canebrake tree frogs"
+                "Aparasphenodon"
             ]
         },
         "Aplastodiscus perviridis": {
@@ -797,20 +764,6 @@
             "type": "",
             "Scientific name ": [
                 "Aplastodiscus perviridis"
-            ],
-            "Rank ": [
-                "Species"
-            ],
-            "Higher classification ": [
-                "Canebrake tree frogs"
-            ]
-        },
-        "Aplastodiscus ehrhardti": {
-            "label": "Aplastodiscus ehrhardti",
-            "description": "Aplastodiscus ehrhardti is a species of frog in the Hylidae family. It is endemic to Brazil. Its natural habitats are subtropical or tropical moist lowland forests and intermittent freshwater marshes. It is threatened by habitat loss. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Aplastodiscus ehrhardti"
             ],
             "Rank ": [
                 "Species"
@@ -831,6 +784,20 @@
             ],
             "Higher classification ": [
                 "Canebrake tree frogs"
+            ]
+        },
+        "Atelognathus patagonicus": {
+            "label": "Atelognathus patagonicus",
+            "description": "Atelognathus patagonicus is a species of frog in the Batrachylidae family. It is endemic to Argentina. Wikipedia",
+            "type": "Amphibian",
+            "Scientific name ": [
+                "Atelognathus patagonicus"
+            ],
+            "Rank ": [
+                "Species"
+            ],
+            "Higher classification ": [
+                "Atelognathus"
             ]
         },
         "Atelopus chiriquiensis": {
@@ -885,20 +852,6 @@
                 " Austrochaperina parkeri",
                 " Slender frog",
                 " Austrochaperina polystictaMore"
-            ]
-        },
-        "Atelognathus patagonicus": {
-            "label": "Atelognathus patagonicus",
-            "description": "Atelognathus patagonicus is a species of frog in the Batrachylidae family. It is endemic to Argentina. Wikipedia",
-            "type": "Amphibian",
-            "Scientific name ": [
-                "Atelognathus patagonicus"
-            ],
-            "Rank ": [
-                "Species"
-            ],
-            "Higher classification ": [
-                "Atelognathus"
             ]
         },
         "Austrochaperina pluvialis": {
@@ -1022,6 +975,20 @@
                 " Barygenys maculataMore"
             ]
         },
+        "Batrachophrynus brachydactylus": {
+            "label": "Batrachophrynus brachydactylus",
+            "description": "Batrachophrynus brachydactylus is an endangered species of frog in the Leptodactylidae family. This semi-aquatic frog is endemic to tributaries of Lake Junín in central Peru, where found at altitudes of 4,000–4,600 metres. Wikipedia",
+            "type": "Amphibian",
+            "Scientific name ": [
+                "Batrachophrynus brachydactylus"
+            ],
+            "Rank ": [
+                "Species"
+            ],
+            "Higher classification ": [
+                "Batrachophrynus"
+            ]
+        },
         "Batrachyla": {
             "label": "Batrachyla",
             "description": "Batrachyla is a genus of frogs in the Batrachylidae family. Sometimes known as the South American wood frogs, these frogs are distributed in southern South America. Wikipedia",
@@ -1044,31 +1011,67 @@
             ],
             "See results about": []
         },
-        "Batrachophrynus brachydactylus": {
-            "label": "Batrachophrynus brachydactylus",
-            "description": "Batrachophrynus brachydactylus is an endangered species of frog in the Leptodactylidae family. This semi-aquatic frog is endemic to tributaries of Lake Junín in central Peru, where found at altitudes of 4,000–4,600 metres. Wikipedia",
-            "type": "Amphibian",
+        "Aplastodiscus ehrhardti": {
+            "label": "Aplastodiscus ehrhardti",
+            "description": "Aplastodiscus ehrhardti is a species of frog in the Hylidae family. It is endemic to Brazil. Its natural habitats are subtropical or tropical moist lowland forests and intermittent freshwater marshes. It is threatened by habitat loss. Wikipedia",
+            "type": "",
             "Scientific name ": [
-                "Batrachophrynus brachydactylus"
+                "Aplastodiscus ehrhardti"
             ],
             "Rank ": [
                 "Species"
             ],
             "Higher classification ": [
-                "Batrachophrynus"
+                "Canebrake tree frogs"
+            ]
+        },
+        "Aplastodiscus cavicola": {
+            "label": "Aplastodiscus cavicola",
+            "description": "Aplastodiscus cavicola is a species of frog in the Hylidae family. It is endemic to Brazil. Its natural habitats are subtropical or tropical moist lowland forests and rivers. It is threatened by habitat loss. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Aplastodiscus cavicola"
+            ],
+            "Rank ": [
+                "Species"
+            ],
+            "Higher classification ": [
+                "Canebrake tree frogs"
+            ]
+        },
+        "Aphantophryne": {
+            "label": "Aphantophryne",
+            "description": "Aphantophryne is a genus of microhylid frogs endemic to New Guinea. Originally described by Fry in 1917, Richard G. Zweifel considered in 1956 Aphantophryne synonymous to Cophixalus. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Aphantophryne"
+            ],
+            "Rank ": [
+                "Genus"
+            ],
+            "Higher classification ": [
+                "Genyophryninae"
+            ],
+            "Lower classifications ": [
+                "Aphantophryne pansa",
+                " Aphantophryne sabini",
+                " Aphantophryne minuta"
             ]
         }
     },
     "summary": {
-        "label": 66,
-        "description": 66,
-        "type": 66,
-        "scientific_name": 1,
-        "rank": 1,
-        "higher_classification": 1,
-        "see_results_about": 1,
-        "lower_classifications": 1,
-        "length": 1
+        "label": {
+            "uri": "http://www.w3.org/2000/01/rdf-schema#label",
+            "count": 66
+        },
+        "description": {
+            "uri": "http://dbpedia.org/property/description",
+            "count": 66
+        },
+        "type": {
+            "uri": "http://dbpedia.org/property/type",
+            "count": 66
+        }
     },
     "infoboxless": [
         "Eryopidae",
@@ -1105,5 +1108,13 @@
         "Austrochaperina polysticta",
         "Austrochaperina rivularis",
         "Austrochaperina yelaensis"
-    ]
+    ],
+    "Unmapped_Properties": {
+        "scientificName": 1,
+        "rank": 1,
+        "higherClassification": 1,
+        "seeResultsAbout": 1,
+        "lowerClassifications": 1,
+        "length": 1
+    }
 }

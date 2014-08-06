@@ -5,27 +5,15 @@
             "description": "The Gotthard Base Tunnel is a railway tunnel in the heart of the Swiss Alps expected to open in 2016. Wikipedia",
             "type": ""
         },
-        "Sierre Tunnel": {
-            "label": "Sierre Tunnel",
-            "description": "The Sierre Tunnel is a tunnel near Sierre in the Swiss canton of Valais. It is part of the A9 Autobahn and is located between Sierre and Sierre-Est-Ouest.\nThe tunnel was opened in 1999 and consists of two tubes of 2,460 metres in length. Wikipedia",
-            "type": ""
-        },
         "Munt la Schera Tunnel": {
             "label": "Munt la Schera Tunnel",
             "description": "The Munt la Schera Tunnel is a single lane road tunnel located in the Swiss canton of Grisons. It connects the Engadin valley with Lago di Livigno, through Munt la Schera.\nThe tunnel is now open 24 hours a day. Wikipedia",
             "type": ""
         },
-        "Ted Williams Tunnel": {
-            "label": "Ted Williams Tunnel",
-            "description": "The Ted Williams Tunnel, also known as the Williams Tunnel, is the name of the third highway tunnel under Boston Harbor in Boston, Massachusetts, the Sumner and Callahan Tunnels being the other two. Wikipedia",
-            "type": "",
-            "Construction started ": [
-                "1991"
-            ],
-            "Opened ": [
-                "1995"
-            ],
-            "People also search for": []
+        "Sierre Tunnel": {
+            "label": "Sierre Tunnel",
+            "description": "The Sierre Tunnel is a tunnel near Sierre in the Swiss canton of Valais. It is part of the A9 Autobahn and is located between Sierre and Sierre-Est-Ouest.\nThe tunnel was opened in 1999 and consists of two tubes of 2,460 metres in length. Wikipedia",
+            "type": ""
         },
         "Seikan Tunnel": {
             "label": "Seikan Tunnel",
@@ -46,6 +34,18 @@
             "type": "",
             "Opened ": [
                 "1961"
+            ],
+            "People also search for": []
+        },
+        "Ted Williams Tunnel": {
+            "label": "Ted Williams Tunnel",
+            "description": "The Ted Williams Tunnel, also known as the Williams Tunnel, is the name of the third highway tunnel under Boston Harbor in Boston, Massachusetts, the Sumner and Callahan Tunnels being the other two. Wikipedia",
+            "type": "",
+            "Construction started ": [
+                "1991"
+            ],
+            "Opened ": [
+                "1995"
             ],
             "People also search for": []
         },
@@ -321,39 +321,14 @@
             "description": "Heroes Tunnel is a 1,200-foot-long, twin-tube tunnel carrying Route 15 through West Rock Ridge in New Haven, Connecticut. Wikipedia",
             "type": ""
         },
-        "Knappe Tunnel": {
-            "label": "Knappe Tunnel",
-            "description": "The Knappe Tunnel is a four-lane, twin-tube motorway tunnel partially finished, partially under construction in Bergen, Norway. Wikipedia",
-            "type": ""
-        },
         "Kingsway Tunnel": {
             "label": "Kingsway Tunnel",
             "description": "The Kingsway Tunnel is a road tunnel under the River Mersey in Merseyside, northwest England, and runs between Liverpool and Wallasey. Wikipedia",
             "type": ""
         },
-        "Hsuehshan Tunnel": {
-            "label": "Hsuehshan Tunnel",
-            "description": "The Hsuehshan Tunnel or \"Snow Mountain\" tunnel, is the longest tunnel in Taiwan, located on the Taipei-Yilan Freeway. It opened on June 16, 2006. Wikipedia",
-            "type": "Mountain range"
-        },
-        "Hitra Tunnel": {
-            "label": "Hitra Tunnel",
-            "description": "The Hitra Tunnel is an undersea tunnel connecting the island municipality of Hitra to the mainland municipality of Snillfjord in Sør-Trøndelag county, Norway. Wikipedia",
-            "type": "",
-            "Weather ": [
-                "50°F (10°C)",
-                " Wind SW at 5 mph (8 km/h)",
-                " 62% Humidity"
-            ]
-        },
-        "Mount Bolu Tunnel": {
-            "label": "Mount Bolu Tunnel",
-            "description": "Mount Bolu Tunnel is a 2.9 km long highway tunnel constructed through the Bolu Mountain in Turkey between Kaynaşlı and Yumrukaya. Wikipedia",
-            "type": ""
-        },
-        "Lyttelton road tunnel": {
-            "label": "Lyttelton road tunnel",
-            "description": "The Lyttelton road tunnel links the New Zealand city of Christchurch and its seaport, Lyttelton. It opened in 1964 and carries just over 10,000 vehicles/day. Wikipedia",
+        "Lærdal Tunnel": {
+            "label": "Lærdal Tunnel",
+            "description": "Lærdal Tunnel is a 24.51-kilometre long road tunnel connecting Lærdal and Aurland in Sogn og Fjordane, Norway and located approximately 175–200 kilometres north-east of Bergen. Wikipedia",
             "type": ""
         },
         "Limerick Tunnel": {
@@ -361,10 +336,29 @@
             "description": "The Limerick Tunnel is a 675-metre-long, twin-bore road tunnel underneath the River Shannon on the outskirts of Limerick city. The tunnel forms part of the N18 Limerick Southern Ring Road. The tunnel is tolled. Wikipedia",
             "type": ""
         },
-        "Lærdal Tunnel": {
-            "label": "Lærdal Tunnel",
-            "description": "Lærdal Tunnel is a 24.51-kilometre long road tunnel connecting Lærdal and Aurland in Sogn og Fjordane, Norway and located approximately 175–200 kilometres north-east of Bergen. Wikipedia",
+        "Lyttelton road tunnel": {
+            "label": "Lyttelton road tunnel",
+            "description": "The Lyttelton road tunnel links the New Zealand city of Christchurch and its seaport, Lyttelton. It opened in 1964 and carries just over 10,000 vehicles/day. Wikipedia",
             "type": ""
+        },
+        "Mount Bolu Tunnel": {
+            "label": "Mount Bolu Tunnel",
+            "description": "Mount Bolu Tunnel is a 2.9 km long highway tunnel constructed through the Bolu Mountain in Turkey between Kaynaşlı and Yumrukaya. Wikipedia",
+            "type": ""
+        },
+        "Northbrae Tunnel": {
+            "label": "Northbrae Tunnel",
+            "description": "The Northbrae Tunnel, also referred to as the Solano Avenue Tunnel, was built as a commuter electric railroad tunnel in the northern part of Berkeley, California and was later converted to street use.\nIn 1910. Wikipedia",
+            "type": ""
+        },
+        "Queensway Tunnel": {
+            "label": "Queensway Tunnel",
+            "description": "The Queensway Tunnel is a road tunnel under the River Mersey, in the north west of England, between Liverpool and Birkenhead. It is often called the Birkenhead Tunnel, to distinguish it from the Kingsway Tunnel, which serves Wallasey. Wikipedia",
+            "type": "",
+            "Opened ": [
+                "1934"
+            ],
+            "People also search for": []
         },
         "Rohtang Tunnel": {
             "label": "Rohtang Tunnel",
@@ -377,23 +371,9 @@
                 " India"
             ]
         },
-        "Queensway Tunnel": {
-            "label": "Queensway Tunnel",
-            "description": "The Queensway Tunnel is a road tunnel under the River Mersey, in the north west of England, between Liverpool and Birkenhead. It is often called the Birkenhead Tunnel, to distinguish it from the Kingsway Tunnel, which serves Wallasey. Wikipedia",
-            "type": "",
-            "Opened ": [
-                "1934"
-            ],
-            "People also search for": []
-        },
         "Skatestraum Tunnel": {
             "label": "Skatestraum Tunnel",
             "description": "The Skatestraum Tunnel is a subsea road tunnel between the islands of Rugsundøya and Bremangerlandet in Bremanger Municipality in Sogn og Fjordane county, Norway. Wikipedia",
-            "type": ""
-        },
-        "Northbrae Tunnel": {
-            "label": "Northbrae Tunnel",
-            "description": "The Northbrae Tunnel, also referred to as the Solano Avenue Tunnel, was built as a commuter electric railroad tunnel in the northern part of Berkeley, California and was later converted to street use.\nIn 1910. Wikipedia",
             "type": ""
         },
         "St Helena Tunnel": {
@@ -406,19 +386,37 @@
             "description": "The Sydney Harbour Tunnel is a twin-tube road tunnel in Sydney, Australia. The tunnel was completed and opened to traffic in August 1992 to provide a second vehicular crossing of Sydney Harbour to alleviate congestion on the Sydney Harbour Bridge. Wikipedia",
             "type": ""
         },
-        "Tussen Tunnel": {
-            "label": "Tussen Tunnel",
-            "description": "The Tussen Tunnel is a 2,840-meter long road tunnel located on County Road 64 in Møre og Romsdal county, Norway. Wikipedia",
-            "type": ""
-        },
         "Terrace Motorway Tunnel": {
             "label": "Terrace Motorway Tunnel",
             "description": "The Terrace Tunnel takes the Wellington Urban Motorway under The Terrace in central Wellington, New Zealand. Opened in 1978, it is 460 metres in length. Wikipedia",
             "type": "Motorway in New Zealand"
         },
+        "Tussen Tunnel": {
+            "label": "Tussen Tunnel",
+            "description": "The Tussen Tunnel is a 2,840-meter long road tunnel located on County Road 64 in Møre og Romsdal county, Norway. Wikipedia",
+            "type": ""
+        },
         "Vista Ridge Tunnels": {
             "label": "Vista Ridge Tunnels",
             "description": "",
+            "type": ""
+        },
+        "Washburn Tunnel": {
+            "label": "Washburn Tunnel",
+            "description": "The Washburn Tunnel is a two-lane underwater motor-vehicle tunnel connecting Galena Park and Pasadena, two suburbs of Houston, Texas. Completed in 1950, it travels north-south underneath the Houston Ship Channel. Wikipedia",
+            "type": "",
+            "Area ": [
+                "7 acres (3 ha)"
+            ]
+        },
+        "Waterview Connection": {
+            "label": "Waterview Connection",
+            "description": "The Waterview Connection is a motorway section under construction through west/central Auckland, New Zealand. Wikipedia",
+            "type": ""
+        },
+        "Wawona Tunnel": {
+            "label": "Wawona Tunnel",
+            "description": "The Wawona Tunnel is a highway tunnel in Yosemite National Park. It, and Tunnel View just beyond its east portal, were completed in 1933. Wikipedia",
             "type": ""
         },
         "Blue Ridge Tunnel": {
@@ -447,24 +445,24 @@
             "description": "The Twin Peaks Tunnel is a 2.27-mile-long light rail/streetcar tunnel in San Francisco, California. The tunnel runs under the Twin Peaks and is used by the K Ingleside, L Taraval, M Ocean View, and T Third Street Muni Metro lines. Wikipedia",
             "type": ""
         },
+        "Genting Sempah Tunnel": {
+            "label": "Genting Sempah tunnel",
+            "description": "The Genting Sempah Tunnel is the first highway tunnel in Malaysia. Located on the Kuala Lumpur-Karak Expressway, the 900-metre tunnel connects Hulu Gombak in Selangor to Genting Sempah, Pahang. This tunnel was constructed between 1977 and 1979. Wikipedia",
+            "type": ""
+        },
         "Albula Tunnel": {
             "label": "Albula Tunnel",
             "description": "The Albula Tunnel is the centrepiece of the Albula Railway, which forms part of the Rhaetian Railway network, in the Canton of Graubünden, Switzerland. Wikipedia",
             "type": ""
         },
-        "Wawona Tunnel": {
-            "label": "Wawona Tunnel",
-            "description": "The Wawona Tunnel is a highway tunnel in Yosemite National Park. It, and Tunnel View just beyond its east portal, were completed in 1933. Wikipedia",
+        "Cadí Tunnel": {
+            "label": "Cadí Tunnel",
+            "description": "Cadí Tunnel is a toll road tunnel in Catalonia, Spain, connecting the comarques of Cerdanya and Berguedà. Wikipedia",
             "type": ""
         },
         "Perthus Tunnel": {
             "label": "Perthus Tunnel",
             "description": "The Perthus Tunnel is a twin-bore railway tunnel between Perpignan, France and Figueres, Spain built as part of the high-speed railway line between Barcelona and Montpellier under the Eastern Pyrenees. Wikipedia",
-            "type": ""
-        },
-        "Waterview Connection": {
-            "label": "Waterview Connection",
-            "description": "The Waterview Connection is a motorway section under construction through west/central Auckland, New Zealand. Wikipedia",
             "type": ""
         },
         "Kilsby Tunnel": {
@@ -487,55 +485,67 @@
             ],
             "People also search for": []
         },
-        "Marmaray": {
-            "label": "Marmaray",
-            "description": "Marmaray is a rail transport project in the Turkish city of Istanbul. It comprises an undersea rail tunnel under the Bosphorus strait, and the modernization of existing suburban railway lines along the ... Wikipedia",
-            "type": "Railway"
-        },
-        "Washburn Tunnel": {
-            "label": "Washburn Tunnel",
-            "description": "The Washburn Tunnel is a two-lane underwater motor-vehicle tunnel connecting Galena Park and Pasadena, two suburbs of Houston, Texas. Completed in 1950, it travels north-south underneath the Houston Ship Channel. Wikipedia",
-            "type": "",
-            "Area ": [
-                "7 acres (3 ha)"
-            ]
-        },
-        "Genting Sempah Tunnel": {
-            "label": "Genting Sempah tunnel",
-            "description": "The Genting Sempah Tunnel is the first highway tunnel in Malaysia. Located on the Kuala Lumpur-Karak Expressway, the 900-metre tunnel connects Hulu Gombak in Selangor to Genting Sempah, Pahang. This tunnel was constructed between 1977 and 1979. Wikipedia",
-            "type": ""
-        },
         "Brynglas Tunnels": {
             "label": "Brynglas Tunnels",
             "description": "The Brynglas Tunnels carry the M4 motorway under Brynglas Hill in Newport, South Wales. The 1,200-foot-long twin-bored tunnels were the first tunnels in the British motorway network and are still the only bored tunnels. Wikipedia",
             "type": "",
             "People also search for": []
         },
-        "Cadí Tunnel": {
-            "label": "Cadí Tunnel",
-            "description": "Cadí Tunnel is a toll road tunnel in Catalonia, Spain, connecting the comarques of Cerdanya and Berguedà. Wikipedia",
+        "Marmaray": {
+            "label": "Marmaray",
+            "description": "Marmaray is a rail transport project in the Turkish city of Istanbul. It comprises an undersea rail tunnel under the Bosphorus strait, and the modernization of existing suburban railway lines along the ... Wikipedia",
+            "type": "Railway"
+        },
+        "Knappe Tunnel": {
+            "label": "Knappe Tunnel",
+            "description": "The Knappe Tunnel is a four-lane, twin-tube motorway tunnel partially finished, partially under construction in Bergen, Norway. Wikipedia",
             "type": ""
+        },
+        "Hsuehshan Tunnel": {
+            "label": "Hsuehshan Tunnel",
+            "description": "The Hsuehshan Tunnel or \"Snow Mountain\" tunnel, is the longest tunnel in Taiwan, located on the Taipei-Yilan Freeway. It opened on June 16, 2006. Wikipedia",
+            "type": "Mountain range"
+        },
+        "Hitra Tunnel": {
+            "label": "Hitra Tunnel",
+            "description": "The Hitra Tunnel is an undersea tunnel connecting the island municipality of Hitra to the mainland municipality of Snillfjord in Sør-Trøndelag county, Norway. Wikipedia",
+            "type": "",
+            "Weather ": [
+                "50°F (10°C)",
+                " Wind SW at 5 mph (8 km/h)",
+                " 62% Humidity"
+            ]
         }
     },
     "summary": {
-        "label": 74,
-        "description": 74,
-        "type": 74,
-        "construction_started": 1,
-        "opened": 1,
-        "people_also_search_for": 1,
-        "address": 1,
-        "major_cities": 1,
-        "location": 1,
-        "body_of_water": 1,
-        "engineer": 1,
-        "architect": 1,
-        "engineers": 1,
-        "weather": 1,
-        "province": 1,
-        "owner": 1,
-        "contractor": 1,
-        "area": 1
+        "label": {
+            "uri": "http://dbpedia.org/property/label",
+            "count": 74
+        },
+        "description": {
+            "uri": "http://fr.dbpedia.org/ontology/abstract",
+            "count": 74
+        },
+        "type": {
+            "uri": "http://dbpedia.org/property/type",
+            "count": 74
+        },
+        "location": {
+            "uri": "http://dbpedia.org/property/location",
+            "count": 1
+        },
+        "engineer": {
+            "uri": "http://dbpedia.org/property/engineer",
+            "count": 1
+        },
+        "architect": {
+            "uri": "http://dbpedia.org/ontology/architect",
+            "count": 2
+        },
+        "owner": {
+            "uri": "http://dbpedia.org/property/owner",
+            "count": 1
+        }
     },
     "infoboxless": [
         "Coen Tunnel",
@@ -564,5 +574,18 @@
         "Korgfjell Tunnel",
         "Sapperton Tunnel",
         "Kampong Java Tunnel"
-    ]
+    ],
+    "Unmapped_Properties": {
+        "address": 1,
+        "opened": 1,
+        "peopleAlsoSearchFor": 1,
+        "constructionStarted": 1,
+        "majorCities": 1,
+        "bodyOfWater": 1,
+        "engineers": 1,
+        "weather": 1,
+        "province": 1,
+        "area": 1,
+        "contractor": 1
+    }
 }

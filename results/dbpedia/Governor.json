@@ -53,6 +53,37 @@
             "Books": [],
             "People also search for": []
         },
+        "Aníbal Acevedo Vilá": {
+            "label": "Aníbal Acevedo Vilá",
+            "description": "Aníbal Salvador Acevedo Vilá is a Puerto Rican politician and lawyer. He served as the ninth Governor of the Commonwealth of Puerto Rico, a Commonwealth of the United States, from 2005 to 2009. Wikipedia",
+            "type": "",
+            "Born ": "February 13, 1962 (age 52), Hato Rey, Puerto Rico",
+            "Spouse ": [
+                "Piti Gándara"
+            ],
+            "Education ": [
+                "Colegio San José",
+                " Harvard Law School",
+                " University of Puerto Rico",
+                " Harvard University",
+                " University of Puerto Rico Law SchoolMore"
+            ],
+            "People also search for": []
+        },
+        "Andrew Jackson Hamilton": {
+            "label": "Andrew Jackson Hamilton",
+            "description": "Andrew Jackson Hamilton was a United States politician during the third quarter of the 19th century. He was a lawyer, state representative, military governor of Texas, as well as the 11th Governor of Texas during Reconstruction. Wikipedia",
+            "type": "",
+            "Born ": "January 28, 1815, Huntsville, Alabama, United States",
+            "Died ": "April 11, 1875, Austin, Texas, United States",
+            "Previous office ": [
+                "Governor of Texas (1865–1866)"
+            ],
+            "Siblings ": [
+                "Morgan C. Hamilton"
+            ],
+            "People also search for": []
+        },
         "Alf Landon": {
             "label": "Alf Landon",
             "description": "Alfred Mossman Landon, known as Alf Landon, was an American Republican politician, who served as the 26th Governor of Kansas from 1933 to 1937. Wikipedia",
@@ -94,48 +125,6 @@
             ],
             "People also search for": []
         },
-        "Aníbal Acevedo Vilá": {
-            "label": "Aníbal Acevedo Vilá",
-            "description": "Aníbal Salvador Acevedo Vilá is a Puerto Rican politician and lawyer. He served as the ninth Governor of the Commonwealth of Puerto Rico, a Commonwealth of the United States, from 2005 to 2009. Wikipedia",
-            "type": "",
-            "Born ": "February 13, 1962 (age 52), Hato Rey, Puerto Rico",
-            "Spouse ": [
-                "Piti Gándara"
-            ],
-            "Education ": [
-                "Colegio San José",
-                " Harvard Law School",
-                " University of Puerto Rico",
-                " Harvard University",
-                " University of Puerto Rico Law SchoolMore"
-            ],
-            "People also search for": []
-        },
-        "Andrew Jackson Hamilton": {
-            "label": "Andrew Jackson Hamilton",
-            "description": "Andrew Jackson Hamilton was a United States politician during the third quarter of the 19th century. He was a lawyer, state representative, military governor of Texas, as well as the 11th Governor of Texas during Reconstruction. Wikipedia",
-            "type": "",
-            "Born ": "January 28, 1815, Huntsville, Alabama, United States",
-            "Died ": "April 11, 1875, Austin, Texas, United States",
-            "Previous office ": [
-                "Governor of Texas (1865–1866)"
-            ],
-            "Siblings ": [
-                "Morgan C. Hamilton"
-            ],
-            "People also search for": []
-        },
-        "Elihu Yale": {
-            "label": "Elihu Yale",
-            "description": "Elihu Yale was a British merchant and philanthropist, Governor of the East India Company settlement in Bengal, at Calcutta and Chennai and a benefactor of the Collegiate School of Connecticut, which in 1718 was renamed Yale College in his honor. Wikipedia",
-            "type": "",
-            "Born ": "April 5, 1649, Boston, Massachusetts, United States",
-            "Died ": "July 8, 1721, Wrexham, United Kingdom",
-            "Nationality ": [
-                "American"
-            ],
-            "People also search for": []
-        },
         "Edward Rutledge": {
             "label": "Edward Rutledge",
             "description": "Edward Rutledge was an American politician and youngest signer of the United States Declaration of Independence. He later served as the 39th Governor of South Carolina. Wikipedia",
@@ -153,23 +142,6 @@
             ],
             "Siblings ": [
                 "John Rutledge"
-            ],
-            "People also search for": []
-        },
-        "Frederick Ballantyne": {
-            "label": "Frederick Ballantyne",
-            "description": "Sir Frederick Nathaniel Ballantyne, GCMG is the Governor-General of St. Vincent and the Grenadines. He has been in this office since 2 September 2002, and was knighted in November. Wikipedia",
-            "type": "",
-            "Born ": "July 5, 1936 (age 77), Layou, Saint Vincent and the Grenadines",
-            "Spouse ": [
-                "Sally-Ann Ballantyne"
-            ],
-            "Office ": [
-                "Governor General of Saint Vincent and the Grenadines since 2002"
-            ],
-            "Children ": [
-                "Emma Ballantyne",
-                " Adam Ballantyne"
             ],
             "People also search for": []
         },
@@ -194,6 +166,34 @@
             ],
             "People also search for": []
         },
+        "Elihu Yale": {
+            "label": "Elihu Yale",
+            "description": "Elihu Yale was a British merchant and philanthropist, Governor of the East India Company settlement in Bengal, at Calcutta and Chennai and a benefactor of the Collegiate School of Connecticut, which in 1718 was renamed Yale College in his honor. Wikipedia",
+            "type": "",
+            "Born ": "April 5, 1649, Boston, Massachusetts, United States",
+            "Died ": "July 8, 1721, Wrexham, United Kingdom",
+            "Nationality ": [
+                "American"
+            ],
+            "People also search for": []
+        },
+        "Frederick Ballantyne": {
+            "label": "Frederick Ballantyne",
+            "description": "Sir Frederick Nathaniel Ballantyne, GCMG is the Governor-General of St. Vincent and the Grenadines. He has been in this office since 2 September 2002, and was knighted in November. Wikipedia",
+            "type": "",
+            "Born ": "July 5, 1936 (age 77), Layou, Saint Vincent and the Grenadines",
+            "Spouse ": [
+                "Sally-Ann Ballantyne"
+            ],
+            "Office ": [
+                "Governor General of Saint Vincent and the Grenadines since 2002"
+            ],
+            "Children ": [
+                "Emma Ballantyne",
+                " Adam Ballantyne"
+            ],
+            "People also search for": []
+        },
         "Frederick Haldimand": {
             "label": "Frederick Haldimand",
             "description": "Sir Frederick Haldimand, KB was a military officer best known for his service in the British Army in North America during the Seven Years' War and the American Revolutionary War. Wikipedia",
@@ -202,6 +202,16 @@
             "Died ": "June 5, 1791, Yverdon-les-Bains, Switzerland",
             "Previous office ": [
                 "Governor General of the Province of Quebec (1778–1786)"
+            ],
+            "People also search for": []
+        },
+        "Günther Platter": {
+            "label": "Günther Platter",
+            "description": "Günther Platter is an Austrian politician and is the current Governor of Tyrol after his predecessor Herwig van Staa lost more almost 10% of the votes in the regional elections. Wikipedia",
+            "type": "",
+            "Born ": "June 7, 1954 (age 59), Zams, Austria",
+            "Party ": [
+                "Austrian People's Party"
             ],
             "People also search for": []
         },
@@ -222,16 +232,6 @@
                 "Amos Pinchot"
             ],
             "Books": [],
-            "People also search for": []
-        },
-        "Günther Platter": {
-            "label": "Günther Platter",
-            "description": "Günther Platter is an Austrian politician and is the current Governor of Tyrol after his predecessor Herwig van Staa lost more almost 10% of the votes in the regional elections. Wikipedia",
-            "type": "",
-            "Born ": "June 7, 1954 (age 59), Zams, Austria",
-            "Party ": [
-                "Austrian People's Party"
-            ],
             "People also search for": []
         },
         "Hardin Richard Runnels": {
@@ -544,23 +544,6 @@
             ],
             "People also search for": []
         },
-        "Nellie Tayloe Ross": {
-            "label": "Nellie Tayloe Ross",
-            "description": "Nellie Tayloe Ross was an American politician, the 14th Governor of Wyoming from 1925 to 1927, and director of the United States Mint from 1933 to 1953. Wikipedia",
-            "type": "",
-            "Born ": "November 29, 1876, Andrew County, Missouri, United States",
-            "Died ": "December 19, 1977, Washington, D.C., United States",
-            "Spouse ": [
-                "William B. Ross (m. 1902)"
-            ],
-            "Party ": [
-                "Democratic Party"
-            ],
-            "Previous office ": [
-                "Governor of Wyoming (1925–1927)"
-            ],
-            "People also search for": []
-        },
         "Nelson Dingley, Jr.": {
             "label": "Nelson Dingley, Jr.",
             "description": "Nelson Dingley, Jr. was a journalist and politician from the U.S. state of Maine.\nDingley was born in Durham, Maine and attended the common schools at Unity, Maine and Waterville College. Wikipedia",
@@ -577,31 +560,6 @@
                 "Bates College",
                 " Colby College",
                 " Dartmouth College"
-            ],
-            "People also search for": []
-        },
-        "Pat Brown": {
-            "label": "Pat Brown",
-            "description": "Edmund Gerald “Pat” Brown, Sr. was the 32nd Governor of California from 1959 to 1967 and the father of the 34th and 39th Governor of California, Jerry Brown. Wikipedia",
-            "type": "",
-            "Born ": "April 21, 1905, San Francisco, California, United States",
-            "Died ": "February 16, 1996, Beverly Hills, California, United States",
-            "Spouse ": [
-                "Bernice Layne Brown (m. 1930–1996)"
-            ],
-            "Children ": [
-                "Jerry Brown",
-                " Kathleen Brown",
-                " Cynthia Arden Brown",
-                " Barbara Layne Brown"
-            ],
-            "Previous offices ": [
-                "Governor of California (1959–1967)",
-                " California Attorney General (1951–1959)"
-            ],
-            "Education ": [
-                "Lowell High School (1923)",
-                " San Francisco Law School"
             ],
             "People also search for": []
         },
@@ -642,21 +600,45 @@
             ],
             "People also search for": []
         },
-        "Peter Dumont Vroom": {
-            "label": "Peter Dumont Vroom",
-            "description": "Peter Dumont Vroom, an American Democratic Party politician, served as the ninth Governor of New Jersey and as a member of the United States House of Representatives for a single term, from 1839–1841. Wikipedia",
+        "Nellie Tayloe Ross": {
+            "label": "Nellie Tayloe Ross",
+            "description": "Nellie Tayloe Ross was an American politician, the 14th Governor of Wyoming from 1925 to 1927, and director of the United States Mint from 1933 to 1953. Wikipedia",
             "type": "",
-            "Born ": "December 12, 1791, Hillsborough Township, New Jersey, United States",
-            "Died ": "November 18, 1873, Trenton, New Jersey, United States",
+            "Born ": "November 29, 1876, Andrew County, Missouri, United States",
+            "Died ": "December 19, 1977, Washington, D.C., United States",
+            "Spouse ": [
+                "William B. Ross (m. 1902)"
+            ],
             "Party ": [
                 "Democratic Party"
             ],
             "Previous office ": [
-                "Governor of New Jersey (1829–1832)"
+                "Governor of Wyoming (1925–1927)"
+            ],
+            "People also search for": []
+        },
+        "Pat Brown": {
+            "label": "Pat Brown",
+            "description": "Edmund Gerald “Pat” Brown, Sr. was the 32nd Governor of California from 1959 to 1967 and the father of the 34th and 39th Governor of California, Jerry Brown. Wikipedia",
+            "type": "",
+            "Born ": "April 21, 1905, San Francisco, California, United States",
+            "Died ": "February 16, 1996, Beverly Hills, California, United States",
+            "Spouse ": [
+                "Bernice Layne Brown (m. 1930–1996)"
+            ],
+            "Children ": [
+                "Jerry Brown",
+                " Kathleen Brown",
+                " Cynthia Arden Brown",
+                " Barbara Layne Brown"
+            ],
+            "Previous offices ": [
+                "Governor of California (1959–1967)",
+                " California Attorney General (1951–1959)"
             ],
             "Education ": [
-                "Columbia University",
-                " Columbia College of Columbia University in the City of New York"
+                "Lowell High School (1923)",
+                " San Francisco Law School"
             ],
             "People also search for": []
         },
@@ -671,45 +653,6 @@
             ],
             "People also search for": []
         },
-        "Peter Hardeman Burnett": {
-            "label": "Peter Hardeman Burnett",
-            "description": "Peter Hardeman Burnett was an American politician and the first state governor of California, serving from December 20, 1849, to January 9, 1851. He was also the first California governor to resign from office. Wikipedia",
-            "type": "",
-            "Born ": "November 15, 1807, Nashville, Tennessee, United States",
-            "Died ": "May 17, 1895, San Francisco, California, United States",
-            "Spouse ": [
-                "Harriet Rogers"
-            ],
-            "Party ": [
-                "Democratic Party"
-            ],
-            "Previous office ": [
-                "Governor of California (1849–1851)"
-            ],
-            "Books ": [
-                "Recollections and Opinions of an Old Pioneer",
-                " The True Church The Path which Led a Protestant Lawyer to the Catholic ChurchMore"
-            ],
-            "People also search for": []
-        },
-        "Richard B. Hubbard": {
-            "label": "Richard B. Hubbard",
-            "description": "Richard Bennett Hubbard, Jr. was the 16th Governor of Texas from 1876 to 1879 and United States Envoy to Japan from 1885 to 1889. He was a Confederate veteran of the American Civil War and was a member of the Democratic Party. Wikipedia",
-            "type": "",
-            "Born ": "November 1, 1832, Walton County, Georgia, United States",
-            "Died ": "July 12, 1901, Tyler, Texas, United States",
-            "Party ": [
-                "Democratic Party"
-            ],
-            "Previous office ": [
-                "Governor of Texas (1876–1879)"
-            ],
-            "Education ": [
-                "Harvard University",
-                " Mercer University"
-            ],
-            "People also search for": []
-        },
         "Philip Gidley King": {
             "label": "Philip Gidley King",
             "description": "Captain Philip Gidley King RN was the third Governor of New South Wales, and did much to civilise the young colony in the face of great obstacles. Wikipedia",
@@ -721,35 +664,6 @@
             ],
             "Children ": [
                 "Philip Parker King"
-            ],
-            "People also search for": []
-        },
-        "Roberto Sánchez Vilella": {
-            "label": "Roberto Sánchez Vilella",
-            "description": "Roberto Sánchez Vilella was the second Governor of the Commonwealth of Puerto Rico, holding the position from 1965 to 1969. Wikipedia",
-            "type": "",
-            "Born ": "February 19, 1913, Mayagüez, Puerto Rico",
-            "Died ": "March 24, 1997, San Juan, Puerto Rico",
-            "Education ": [
-                "Ohio State University"
-            ],
-            "Spouse ": [
-                "Jeannette Ramos (m. 1967–1997)",
-                " Conchita Dapena (m. 1936–1967)"
-            ],
-            "People also search for": []
-        },
-        "Samuel B. Moore": {
-            "label": "Samuel B. Moore",
-            "description": "Samuel B. Moore was the sixth Governor of the U.S. state of Alabama from March 3 to November 26, 1831. Wikipedia",
-            "type": "",
-            "Born ": "January 1, 1789, Franklin County, Tullahoma, TN Micropolitan Statistical Area, Tennessee, United States",
-            "Died ": "November 7, 1846, Carrollton, Alabama, United States",
-            "Party ": [
-                "Democratic Party"
-            ],
-            "Previous office ": [
-                "Governor of Alabama (1831–1831)"
             ],
             "People also search for": []
         },
@@ -877,23 +791,50 @@
             ],
             "People also search for": []
         },
-        "Pedro de Valdivia": {
-            "label": "Pedro de Valdivia",
-            "description": "Pedro Gutiérrez de Valdivia or Valdiva was a Spanish conquistador and the first royal governor of Chile. Wikipedia",
+        "Richard B. Hubbard": {
+            "label": "Richard B. Hubbard",
+            "description": "Richard Bennett Hubbard, Jr. was the 16th Governor of Texas from 1876 to 1879 and United States Envoy to Japan from 1885 to 1889. He was a Confederate veteran of the American Civil War and was a member of the Democratic Party. Wikipedia",
             "type": "",
-            "Born ": "April 17, 1497, Castuera, Spain",
-            "Died ": "December 25, 1553, Tucapel, Chile",
-            "Spouse ": [
-                "Marina Ortíz de Gaete"
+            "Born ": "November 1, 1832, Walton County, Georgia, United States",
+            "Died ": "July 12, 1901, Tyler, Texas, United States",
+            "Party ": [
+                "Democratic Party"
+            ],
+            "Previous office ": [
+                "Governor of Texas (1876–1879)"
+            ],
+            "Education ": [
+                "Harvard University",
+                " Mercer University"
             ],
             "People also search for": []
         },
-        "Philippe Massoni": {
-            "label": "Philippe Massoni",
-            "description": "Philippe Massoni is a French prefect. He was the French co-prince's representative to Andorra from July 2002 to June 2007, replacing Frédéric de Saint-Sernin.\nHe had previously been chief of police for Paris. Wikipedia",
+        "Samuel B. Moore": {
+            "label": "Samuel B. Moore",
+            "description": "Samuel B. Moore was the sixth Governor of the U.S. state of Alabama from March 3 to November 26, 1831. Wikipedia",
             "type": "",
-            "Born ": [
-                "1936"
+            "Born ": "January 1, 1789, Franklin County, Tullahoma, TN Micropolitan Statistical Area, Tennessee, United States",
+            "Died ": "November 7, 1846, Carrollton, Alabama, United States",
+            "Party ": [
+                "Democratic Party"
+            ],
+            "Previous office ": [
+                "Governor of Alabama (1831–1831)"
+            ],
+            "People also search for": []
+        },
+        "Roberto Sánchez Vilella": {
+            "label": "Roberto Sánchez Vilella",
+            "description": "Roberto Sánchez Vilella was the second Governor of the Commonwealth of Puerto Rico, holding the position from 1965 to 1969. Wikipedia",
+            "type": "",
+            "Born ": "February 19, 1913, Mayagüez, Puerto Rico",
+            "Died ": "March 24, 1997, San Juan, Puerto Rico",
+            "Education ": [
+                "Ohio State University"
+            ],
+            "Spouse ": [
+                "Jeannette Ramos (m. 1967–1997)",
+                " Conchita Dapena (m. 1936–1967)"
             ],
             "People also search for": []
         },
@@ -917,26 +858,6 @@
                 "Gut Check Confronting Love",
                 " Work",
                 " and Manhood"
-            ],
-            "People also search for": []
-        },
-        "Cadwallader C. Washburn": {
-            "label": "Cadwallader C. Washburn",
-            "description": "Cadwallader Colden Washburn was an American businessman, politician, and soldier noted for founding what would later become General Mills and working in government for Wisconsin. Wikipedia",
-            "type": "",
-            "Born ": "April 22, 1818, Livermore, Maine, United States",
-            "Died ": "May 15, 1882, Eureka Springs, Arkansas, United States",
-            "Spouse ": [
-                "Jeanette Garr"
-            ],
-            "Parents ": [
-                "Israel Washburn"
-            ],
-            "Party ": [
-                "Republican Party"
-            ],
-            "Siblings ": [
-                "Charles Ames Washburn"
             ],
             "People also search for": []
         },
@@ -965,6 +886,26 @@
             ],
             "Previous office ": [
                 "Governor of Massachusetts (1925–1929)"
+            ],
+            "People also search for": []
+        },
+        "Cadwallader C. Washburn": {
+            "label": "Cadwallader C. Washburn",
+            "description": "Cadwallader Colden Washburn was an American businessman, politician, and soldier noted for founding what would later become General Mills and working in government for Wisconsin. Wikipedia",
+            "type": "",
+            "Born ": "April 22, 1818, Livermore, Maine, United States",
+            "Died ": "May 15, 1882, Eureka Springs, Arkansas, United States",
+            "Spouse ": [
+                "Jeanette Garr"
+            ],
+            "Parents ": [
+                "Israel Washburn"
+            ],
+            "Party ": [
+                "Republican Party"
+            ],
+            "Siblings ": [
+                "Charles Ames Washburn"
             ],
             "People also search for": []
         },
@@ -1062,6 +1003,26 @@
             ],
             "People also search for": []
         },
+        "Edward I. Edwards": {
+            "label": "Edward I. Edwards",
+            "description": "Edward Irving Edwards was an American Democratic Party politician who served as the 37th Governor of New Jersey from 1920 to 1923 and in the United States Senate from 1923 to 1929. Wikipedia",
+            "type": "",
+            "Born ": "December 1, 1863, Jersey City, New Jersey, United States",
+            "Died ": "January 26, 1931, Jersey City, New Jersey, United States",
+            "Spouse ": [
+                "Blanche Smith"
+            ],
+            "Education ": [
+                "New York University"
+            ],
+            "Party ": [
+                "Democratic Party"
+            ],
+            "Previous office ": [
+                "Governor of New Jersey (1920–1923)"
+            ],
+            "People also search for": []
+        },
         "Emory Washburn": {
             "label": "Emory Washburn",
             "description": "Emory Washburn was a United States lawyer, politician, and historian. He was Governor of Massachusetts for one term, and served for many years on the faculty of Harvard Law School. Wikipedia",
@@ -1081,26 +1042,6 @@
                 "A Treatise on the American Law of Easements and Servitudes",
                 " Sketches of the Judicial History of Massachusetts from 1630 to the Revolution in 1775",
                 " A Treatise on the American Law of Real PropertyMore"
-            ],
-            "People also search for": []
-        },
-        "Edward I. Edwards": {
-            "label": "Edward I. Edwards",
-            "description": "Edward Irving Edwards was an American Democratic Party politician who served as the 37th Governor of New Jersey from 1920 to 1923 and in the United States Senate from 1923 to 1929. Wikipedia",
-            "type": "",
-            "Born ": "December 1, 1863, Jersey City, New Jersey, United States",
-            "Died ": "January 26, 1931, Jersey City, New Jersey, United States",
-            "Spouse ": [
-                "Blanche Smith"
-            ],
-            "Education ": [
-                "New York University"
-            ],
-            "Party ": [
-                "Democratic Party"
-            ],
-            "Previous office ": [
-                "Governor of New Jersey (1920–1923)"
             ],
             "People also search for": []
         },
@@ -1142,14 +1083,16 @@
             ],
             "People also search for": []
         },
-        "Frank G. Allen": {
-            "label": "Frank G. Allen",
-            "description": "Frank G. Allen was the 51st Governor of Massachusetts.\nAllen was born in Lynn, Massachusetts, on October 6, 1874. Wikipedia",
+        "Ford Quint Elvidge": {
+            "label": "Ford Quint Elvidge",
+            "description": "Ford Quint Elvidge was Governor of Guam from April 23, 1953 to May 19, 1956, the second civilian governor of the island. After President Dwight D. Eisenhower took office in January 1953, he appointed Elvidge Governor. Wikipedia",
             "type": "",
-            "Born ": "October 6, 1874, Lynn, Massachusetts, United States",
-            "Died ": "October 5, 1950, Norwood, Massachusetts, United States",
-            "Previous office ": [
-                "Governor of Massachusetts (1929–1931)"
+            "Born ": "November 20, 1892, Oakland, California, United States",
+            "Died ": [
+                "1980",
+                " Seattle",
+                " Washington",
+                " United States"
             ],
             "Party ": [
                 "Republican Party"
@@ -1173,16 +1116,14 @@
             ],
             "People also search for": []
         },
-        "Ford Quint Elvidge": {
-            "label": "Ford Quint Elvidge",
-            "description": "Ford Quint Elvidge was Governor of Guam from April 23, 1953 to May 19, 1956, the second civilian governor of the island. After President Dwight D. Eisenhower took office in January 1953, he appointed Elvidge Governor. Wikipedia",
+        "Frank G. Allen": {
+            "label": "Frank G. Allen",
+            "description": "Frank G. Allen was the 51st Governor of Massachusetts.\nAllen was born in Lynn, Massachusetts, on October 6, 1874. Wikipedia",
             "type": "",
-            "Born ": "November 20, 1892, Oakland, California, United States",
-            "Died ": [
-                "1980",
-                " Seattle",
-                " Washington",
-                " United States"
+            "Born ": "October 6, 1874, Lynn, Massachusetts, United States",
+            "Died ": "October 5, 1950, Norwood, Massachusetts, United States",
+            "Previous office ": [
+                "Governor of Massachusetts (1929–1931)"
             ],
             "Party ": [
                 "Republican Party"
@@ -1406,6 +1347,35 @@
             ],
             "People also search for": []
         },
+        "James Sullivan (governor)": {
+            "label": "James Sullivan",
+            "description": "James Sullivan was a lawyer and politician in Massachusetts. He was an early associate justice of the Massachusetts Supreme Judicial Court, served as the state's attorney general for many years, and as ... Wikipedia",
+            "type": "",
+            "Born ": "April 22, 1744, Berwick, Maine, United States",
+            "Died ": "December 10, 1808, Boston, Massachusetts, United States",
+            "Spouse ": [
+                "Martha Langdon"
+            ],
+            "Party ": [
+                "Democratic-Republican Party"
+            ],
+            "Previous office ": [
+                "Governor of Massachusetts (1807–1808)"
+            ],
+            "Books ": [
+                "The History of Land Titles in Massachusetts"
+            ],
+            "People also search for": []
+        },
+        "Philippe Massoni": {
+            "label": "Philippe Massoni",
+            "description": "Philippe Massoni is a French prefect. He was the French co-prince's representative to Andorra from July 2002 to June 2007, replacing Frédéric de Saint-Sernin.\nHe had previously been chief of police for Paris. Wikipedia",
+            "type": "",
+            "Born ": [
+                "1936"
+            ],
+            "People also search for": []
+        },
         "John Albion Andrew": {
             "label": "John Albion Andrew",
             "description": "John Albion Andrew was an American lawyer and politician from Massachusetts. He served as the 25th Governor of Massachusetts between 1861 and 1866, leading the state's contributions to the Union cause during the American Civil War. Wikipedia",
@@ -1426,23 +1396,14 @@
             ],
             "People also search for": []
         },
-        "James Sullivan (governor)": {
-            "label": "James Sullivan",
-            "description": "James Sullivan was a lawyer and politician in Massachusetts. He was an early associate justice of the Massachusetts Supreme Judicial Court, served as the state's attorney general for many years, and as ... Wikipedia",
+        "Pedro de Valdivia": {
+            "label": "Pedro de Valdivia",
+            "description": "Pedro Gutiérrez de Valdivia or Valdiva was a Spanish conquistador and the first royal governor of Chile. Wikipedia",
             "type": "",
-            "Born ": "April 22, 1744, Berwick, Maine, United States",
-            "Died ": "December 10, 1808, Boston, Massachusetts, United States",
+            "Born ": "April 17, 1497, Castuera, Spain",
+            "Died ": "December 25, 1553, Tucapel, Chile",
             "Spouse ": [
-                "Martha Langdon"
-            ],
-            "Party ": [
-                "Democratic-Republican Party"
-            ],
-            "Previous office ": [
-                "Governor of Massachusetts (1807–1808)"
-            ],
-            "Books ": [
-                "The History of Land Titles in Massachusetts"
+                "Marina Ortíz de Gaete"
             ],
             "People also search for": []
         },
@@ -1618,29 +1579,96 @@
                 "Republican Party"
             ],
             "People also search for": []
+        },
+        "Peter Hardeman Burnett": {
+            "label": "Peter Hardeman Burnett",
+            "description": "Peter Hardeman Burnett was an American politician and the first state governor of California, serving from December 20, 1849, to January 9, 1851. He was also the first California governor to resign from office. Wikipedia",
+            "type": "",
+            "Born ": "November 15, 1807, Nashville, Tennessee, United States",
+            "Died ": "May 17, 1895, San Francisco, California, United States",
+            "Spouse ": [
+                "Harriet Rogers"
+            ],
+            "Party ": [
+                "Democratic Party"
+            ],
+            "Previous office ": [
+                "Governor of California (1849–1851)"
+            ],
+            "Books ": [
+                "Recollections and Opinions of an Old Pioneer",
+                " The True Church The Path which Led a Protestant Lawyer to the Catholic ChurchMore"
+            ],
+            "People also search for": []
+        },
+        "Peter Dumont Vroom": {
+            "label": "Peter Dumont Vroom",
+            "description": "Peter Dumont Vroom, an American Democratic Party politician, served as the ninth Governor of New Jersey and as a member of the United States House of Representatives for a single term, from 1839–1841. Wikipedia",
+            "type": "",
+            "Born ": "December 12, 1791, Hillsborough Township, New Jersey, United States",
+            "Died ": "November 18, 1873, Trenton, New Jersey, United States",
+            "Party ": [
+                "Democratic Party"
+            ],
+            "Previous office ": [
+                "Governor of New Jersey (1829–1832)"
+            ],
+            "Education ": [
+                "Columbia University",
+                " Columbia College of Columbia University in the City of New York"
+            ],
+            "People also search for": []
         }
     },
     "summary": {
-        "label": 94,
-        "description": 94,
-        "type": 94,
-        "born": 1,
-        "died": 1,
-        "spouse": 1,
-        "people_also_search_for": 1,
-        "previous_office": 1,
-        "siblings": 1,
-        "children": 1,
-        "books": 1,
-        "education": 1,
-        "party": 1,
-        "parents": 1,
-        "nationality": 1,
-        "office": 1,
-        "awards": 1,
-        "previous_offices": 1,
-        "movies": 1,
-        "tv_shows": 1
+        "label": {
+            "uri": "http://www.w3.org/2000/01/rdf-schema#label",
+            "count": 94
+        },
+        "description": {
+            "uri": "http://dbpedia.org/property/description",
+            "count": 94
+        },
+        "type": {
+            "uri": "http://dbpedia.org/property/type",
+            "count": 94
+        },
+        "spouse": {
+            "uri": "http://dbpedia.org/property/spouse",
+            "count": 44
+        },
+        "siblings": {
+            "uri": "http://dbpedia.org/property/siblings",
+            "count": 9
+        },
+        "children": {
+            "uri": "http://dbpedia.org/property/children",
+            "count": 17
+        },
+        "education": {
+            "uri": "http://dbpedia.org/property/education",
+            "count": 49
+        },
+        "party": {
+            "uri": "http://dbpedia.org/property/party",
+            "count": 50
+        },
+        "parents": {
+            "uri": "http://dbpedia.org/property/parents",
+            "count": 5
+        },
+        "nationality": {
+            "uri": "http://dbpedia.org/property/nationality",
+            "count": 1
+        },
+        "office": {
+            "uri": "http://dbpedia.org/property/office",
+            "count": 1
+        },
+        "awards": {
+            "uri": "http://dbpedia.org/property/awards",
+            "count": 2
+        }
     },
     "infoboxless": [
         "Jim Rhodes",
@@ -1649,5 +1677,15 @@
         "Francisco de Toledo, Count of Oropesa",
         "José Antonio de Mendoza, 3rd Marquis of Villagarcía",
         "John Hancock"
-    ]
+    ],
+    "Unmapped_Properties": {
+        "born": 1,
+        "died": 1,
+        "peopleAlsoSearchFor": 1,
+        "previousOffice": 1,
+        "books": 1,
+        "previousOffices": 1,
+        "movies": 1,
+        "tvShows": 1
+    }
 }

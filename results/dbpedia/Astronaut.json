@@ -1,19 +1,5 @@
 {
     "instances": {
-        "Aleksandr Ivanchenkov": {
-            "label": "Aleksandr Ivanchenkov",
-            "description": "Aleksandr Sergeyevich Ivanchenkov is a retired Soviet cosmonaut who flew as Flight Engineer on Soyuz 29 and Soyuz T-6, he spent 147 days, 12 hours and 37 minutes in space. Wikipedia",
-            "type": "Cosmonaut",
-            "Born ": "September 28, 1940 (age 73), Ivanteyevka, Moscow Oblast, Russia",
-            "Space missions ": [
-                "Soyuz T-6",
-                " Soyuz 29"
-            ],
-            "First space flight ": [
-                "Soyuz 29"
-            ],
-            "People also search for": []
-        },
         "Alan Bean": {
             "label": "Alan Bean",
             "description": "Alan LaVern Bean is a former NASA astronaut and currently a painter. Bean was selected to become an astronaut by NASA in 1963 as part of Astronaut Group 3. Wikipedia",
@@ -47,6 +33,20 @@
             ],
             "People also search for": []
         },
+        "Aleksandr Ivanchenkov": {
+            "label": "Aleksandr Ivanchenkov",
+            "description": "Aleksandr Sergeyevich Ivanchenkov is a retired Soviet cosmonaut who flew as Flight Engineer on Soyuz 29 and Soyuz T-6, he spent 147 days, 12 hours and 37 minutes in space. Wikipedia",
+            "type": "Cosmonaut",
+            "Born ": "September 28, 1940 (age 73), Ivanteyevka, Moscow Oblast, Russia",
+            "Space missions ": [
+                "Soyuz T-6",
+                " Soyuz 29"
+            ],
+            "First space flight ": [
+                "Soyuz 29"
+            ],
+            "People also search for": []
+        },
         "Aleksandr Samokutyayev": {
             "label": "Aleksandr Samokutyayev",
             "description": "Aleksandr Mikhailovich Samokutyayev is a Russian cosmonaut. Samokutyayev served as a Flight Engineer for the International Space Station long duration Expedition 27/28 missions. He also served as the Soyuz TMA-21 commander. Wikipedia",
@@ -72,6 +72,23 @@
             ],
             "First space flight ": [
                 "STS-51-F"
+            ],
+            "People also search for": []
+        },
+        "Bjarni Tryggvason": {
+            "label": "Bjarni Tryggvason",
+            "description": "Bjarni V. Tryggvason is an Icelandic-born Canadian engineer and a former NRC/CSA astronaut. He served as a Payload Specialist on Space Shuttle mission STS-85 in 1997, a 12-day mission to study changes in the Earth’s atmosphere. Wikipedia",
+            "type": "Engineer",
+            "Born ": "September 21, 1945 (age 68), Reykjavik, Iceland",
+            "Space missions ": [
+                "STS-85"
+            ],
+            "First space flight ": [
+                "STS-85"
+            ],
+            "Education ": [
+                "University of Western Ontario",
+                " University of British Columbia"
             ],
             "People also search for": []
         },
@@ -101,6 +118,18 @@
             ],
             "People also search for": []
         },
+        "Charles Edward Jones": {
+            "label": "Charles Edward Jones",
+            "description": "Colonel Charles Edward Jones was a United States Air Force officer, a computer programmer, and an astronaut in the USAF Manned Spaceflight Engineer Program. Wikipedia",
+            "type": "Astronaut",
+            "Born ": "November 4, 1952, Clinton, Indiana, United States",
+            "Died ": "September 11, 2001, New York City, New York, United States",
+            "Education ": [
+                "United States Air Force Academy",
+                " Wichita East High School"
+            ],
+            "People also search for": []
+        },
         "Christer Fuglesang": {
             "label": "Christer Fuglesang",
             "description": "Arne Christer Fuglesang is a Swedish physicist and an ESA astronaut. He was first launched aboard the STS-116 Space Shuttle mission on December 10, 2006, at 0147 GMT, making him the first Swedish citizen in space. Wikipedia",
@@ -122,23 +151,6 @@
             "Education ": [
                 "Stockholm University (1987)",
                 " Royal Institute of Technology (1981)"
-            ],
-            "People also search for": []
-        },
-        "Bjarni Tryggvason": {
-            "label": "Bjarni Tryggvason",
-            "description": "Bjarni V. Tryggvason is an Icelandic-born Canadian engineer and a former NRC/CSA astronaut. He served as a Payload Specialist on Space Shuttle mission STS-85 in 1997, a 12-day mission to study changes in the Earth’s atmosphere. Wikipedia",
-            "type": "Engineer",
-            "Born ": "September 21, 1945 (age 68), Reykjavik, Iceland",
-            "Space missions ": [
-                "STS-85"
-            ],
-            "First space flight ": [
-                "STS-85"
-            ],
-            "Education ": [
-                "University of Western Ontario",
-                " University of British Columbia"
             ],
             "People also search for": []
         },
@@ -213,18 +225,6 @@
             "Education ": [
                 "University of Arizona",
                 " Oregon State University"
-            ],
-            "People also search for": []
-        },
-        "Charles Edward Jones": {
-            "label": "Charles Edward Jones",
-            "description": "Colonel Charles Edward Jones was a United States Air Force officer, a computer programmer, and an astronaut in the USAF Manned Spaceflight Engineer Program. Wikipedia",
-            "type": "Astronaut",
-            "Born ": "November 4, 1952, Clinton, Indiana, United States",
-            "Died ": "September 11, 2001, New York City, New York, United States",
-            "Education ": [
-                "United States Air Force Academy",
-                " Wichita East High School"
             ],
             "People also search for": []
         },
@@ -334,48 +334,16 @@
             ],
             "People also search for": []
         },
-        "Georgy Dobrovolsky": {
-            "label": "Georgy Dobrovolsky",
-            "description": "Georgiy Timofeyevich Dobrovolsky was a Soviet cosmonaut. He is notable for being one of the only three people in history to die in outer space. Wikipedia",
+        "Igor Volk": {
+            "label": "Igor Volk",
+            "description": "Igor Petrovich Volk is a retired cosmonaut and test pilot in the Soviet Union. He is married and has two children.\nIgor Volk was selected as a cosmonaut on July 30, 1980, flew as Research Cosmonaut on Soyuz T-12, the 7th expedition to Salyut 7. Wikipedia",
             "type": "Cosmonaut",
-            "Born ": "June 1, 1928, Odessa, Ukraine",
-            "Died ": "June 30, 1971, Karaganda, Kazakhstan",
+            "Born ": "April 12, 1937 (age 76), Zmiiv, Ukraine",
             "Space missions ": [
-                "Soyuz 11"
+                "Soyuz T-12"
             ],
             "First space flight ": [
-                "Soyuz 11"
-            ],
-            "People also search for": []
-        },
-        "Guion Bluford": {
-            "label": "Guion Bluford",
-            "description": "Dr. Guion Stewart “Guy” Bluford, Jr., is an engineer, NASA astronaut, and the first African American in space. Before becoming an astronaut, Bluford was a Colonel in the U.S. Air Force. Wikipedia",
-            "type": "Astronaut",
-            "Born ": "November 22, 1942 (age 71), Philadelphia, Pennsylvania, United States",
-            "Space missions ": [
-                "STS-8",
-                " STS-61-A",
-                " STS-53",
-                " STS-39"
-            ],
-            "Spouse ": [
-                "Linda Tull (m. 1964)"
-            ],
-            "Education ": [
-                "University of Houston–Clear Lake (1987)",
-                " Air Force Institute of Technology (1974)",
-                " Pennsylvania State University (1964)",
-                " Overbrook High School (1960)",
-                " Wharton School of the University of PennsylvaniaMore"
-            ],
-            "Parents ": [
-                "Lolita Bluford",
-                " Guion Bluford Sr."
-            ],
-            "Children ": [
-                "Guion III Bluford",
-                " James Bluford"
+                "Soyuz T-12"
             ],
             "People also search for": []
         },
@@ -395,38 +363,6 @@
                 "University of Sheffield (1984)",
                 " Birkbeck",
                 " University of London"
-            ],
-            "People also search for": []
-        },
-        "Igor Volk": {
-            "label": "Igor Volk",
-            "description": "Igor Petrovich Volk is a retired cosmonaut and test pilot in the Soviet Union. He is married and has two children.\nIgor Volk was selected as a cosmonaut on July 30, 1980, flew as Research Cosmonaut on Soyuz T-12, the 7th expedition to Salyut 7. Wikipedia",
-            "type": "Cosmonaut",
-            "Born ": "April 12, 1937 (age 76), Zmiiv, Ukraine",
-            "Space missions ": [
-                "Soyuz T-12"
-            ],
-            "First space flight ": [
-                "Soyuz T-12"
-            ],
-            "People also search for": []
-        },
-        "Jean-Loup Chrétien": {
-            "label": "Jean-Loup Chrétien",
-            "description": "Jean-Loup Jacques Marie Chrétien is a French retired Général de Brigade in the Armée de l'Air, and a former CNES spationaut. He flew on two Franco-Soviet space missions and a NASA Space Shuttle mission. Wikipedia",
-            "type": "",
-            "Born ": "August 20, 1938 (age 75), La Rochelle, France",
-            "Space missions ": [
-                "Soyuz T-6",
-                " STS-86",
-                " Soyuz TM-6",
-                " Soyuz TM-7"
-            ],
-            "First space flight ": [
-                "Soyuz TM-6"
-            ],
-            "Space agency ": [
-                "CNES"
             ],
             "People also search for": []
         },
@@ -597,17 +533,22 @@
             ],
             "People also search for": []
         },
-        "Lev Dyomin": {
-            "label": "Lev Dyomin",
-            "description": "Lev Stepanovich Dyomin was a Soviet cosmonaut who flew on the Soyuz 15 spaceflight in 1974. This spaceflight was intended to dock with the space station Salyut 3, but the docking failed. Wikipedia",
-            "type": "Cosmonaut",
-            "Born ": "January 11, 1926, Moscow, Russia",
-            "Died ": "December 18, 1998, Star City, Russia",
+        "Jean-Loup Chrétien": {
+            "label": "Jean-Loup Chrétien",
+            "description": "Jean-Loup Jacques Marie Chrétien is a French retired Général de Brigade in the Armée de l'Air, and a former CNES spationaut. He flew on two Franco-Soviet space missions and a NASA Space Shuttle mission. Wikipedia",
+            "type": "",
+            "Born ": "August 20, 1938 (age 75), La Rochelle, France",
             "Space missions ": [
-                "Soyuz 15"
+                "Soyuz T-6",
+                " STS-86",
+                " Soyuz TM-6",
+                " Soyuz TM-7"
             ],
             "First space flight ": [
-                "Soyuz 15"
+                "Soyuz TM-6"
+            ],
+            "Space agency ": [
+                "CNES"
             ],
             "People also search for": []
         },
@@ -624,6 +565,20 @@
             ],
             "First space flight ": [
                 "STS-87"
+            ],
+            "People also search for": []
+        },
+        "Lev Dyomin": {
+            "label": "Lev Dyomin",
+            "description": "Lev Stepanovich Dyomin was a Soviet cosmonaut who flew on the Soyuz 15 spaceflight in 1974. This spaceflight was intended to dock with the space station Salyut 3, but the docking failed. Wikipedia",
+            "type": "Cosmonaut",
+            "Born ": "January 11, 1926, Moscow, Russia",
+            "Died ": "December 18, 1998, Star City, Russia",
+            "Space missions ": [
+                "Soyuz 15"
+            ],
+            "First space flight ": [
+                "Soyuz 15"
             ],
             "People also search for": []
         },
@@ -2022,6 +1977,19 @@
             ],
             "People also search for": []
         },
+        "Zhai Zhigang": {
+            "label": "Zhai Zhigang",
+            "description": "Zhai Zhigang is an officer in the People's Liberation Army Air Force and a CNSA astronaut. During the Shenzhou 7 mission in 2008, he became the first Chinese citizen to carry out a spacewalk. Wikipedia",
+            "type": "Astronaut",
+            "Born ": "October 10, 1966 (age 47), Longjiang County, China",
+            "Space missions ": [
+                "Shenzhou 7"
+            ],
+            "First space flight ": [
+                "Shenzhou 7"
+            ],
+            "People also search for": []
+        },
         "Abdul Ahad Mohmand": {
             "label": "Abdul Ahad Mohmand",
             "description": "Abdul Ahad Momand is a former Afghan Air Force aviator who became the first Afghan and 4th Muslim to journey to outer space. Wikipedia",
@@ -2037,19 +2005,6 @@
             ],
             "First space flight ": [
                 "Soyuz TM-5"
-            ],
-            "People also search for": []
-        },
-        "Zhai Zhigang": {
-            "label": "Zhai Zhigang",
-            "description": "Zhai Zhigang is an officer in the People's Liberation Army Air Force and a CNSA astronaut. During the Shenzhou 7 mission in 2008, he became the first Chinese citizen to carry out a spacewalk. Wikipedia",
-            "type": "Astronaut",
-            "Born ": "October 10, 1966 (age 47), Longjiang County, China",
-            "Space missions ": [
-                "Shenzhou 7"
-            ],
-            "First space flight ": [
-                "Shenzhou 7"
             ],
             "People also search for": []
         },
@@ -2079,34 +2034,99 @@
                 " Proviso East High School"
             ],
             "People also search for": []
+        },
+        "Guion Bluford": {
+            "label": "Guion Bluford",
+            "description": "Dr. Guion Stewart “Guy” Bluford, Jr., is an engineer, NASA astronaut, and the first African American in space. Before becoming an astronaut, Bluford was a Colonel in the U.S. Air Force. Wikipedia",
+            "type": "Astronaut",
+            "Born ": "November 22, 1942 (age 71), Philadelphia, Pennsylvania, United States",
+            "Space missions ": [
+                "STS-8",
+                " STS-61-A",
+                " STS-53",
+                " STS-39"
+            ],
+            "Spouse ": [
+                "Linda Tull (m. 1964)"
+            ],
+            "Education ": [
+                "University of Houston–Clear Lake (1987)",
+                " Air Force Institute of Technology (1974)",
+                " Pennsylvania State University (1964)",
+                " Overbrook High School (1960)",
+                " Wharton School of the University of PennsylvaniaMore"
+            ],
+            "Parents ": [
+                "Lolita Bluford",
+                " Guion Bluford Sr."
+            ],
+            "Children ": [
+                "Guion III Bluford",
+                " James Bluford"
+            ],
+            "People also search for": []
+        },
+        "Georgy Dobrovolsky": {
+            "label": "Georgy Dobrovolsky",
+            "description": "Georgiy Timofeyevich Dobrovolsky was a Soviet cosmonaut. He is notable for being one of the only three people in history to die in outer space. Wikipedia",
+            "type": "Cosmonaut",
+            "Born ": "June 1, 1928, Odessa, Ukraine",
+            "Died ": "June 30, 1971, Karaganda, Kazakhstan",
+            "Space missions ": [
+                "Soyuz 11"
+            ],
+            "First space flight ": [
+                "Soyuz 11"
+            ],
+            "People also search for": []
         }
     },
     "summary": {
-        "label": 98,
-        "description": 98,
-        "type": 98,
-        "born": 1,
-        "space_missions": 1,
-        "first_space_flight": 1,
-        "people_also_search_for": 1,
-        "artwork": 1,
-        "spouse": 1,
-        "children": 1,
-        "education": 1,
-        "space_time": 1,
-        "parents": 1,
-        "space_agency": 1,
-        "awards": 1,
-        "died": 1,
-        "movies": 1,
-        "books": 1,
-        "office": 1,
-        "movies_and_tv_shows": 1,
-        "recent_posts": 1,
-        "siblings": 1
+        "label": {
+            "uri": "http://www.w3.org/2000/01/rdf-schema#label",
+            "count": 98
+        },
+        "description": {
+            "uri": "http://purl.org/dc/elements/1.1/description",
+            "count": 98
+        },
+        "type": {
+            "uri": "http://dbpedia.org/property/type",
+            "count": 98
+        },
+        "spouse": {
+            "uri": "http://dbpedia.org/property/spouse",
+            "count": 20
+        },
+        "children": {
+            "uri": "http://dbpedia.org/property/children",
+            "count": 10
+        },
+        "awards": {
+            "uri": "http://dbpedia.org/property/awards",
+            "count": 3
+        }
     },
     "infoboxless": [
         "Ivan Bella",
         "Kenneth Ham"
-    ]
+    ],
+    "Unmapped_Properties": {
+        "born": 1,
+        "spaceMissions": 1,
+        "artwork": 1,
+        "education": 1,
+        "peopleAlsoSearchFor": 1,
+        "firstSpaceFlight": 1,
+        "spaceTime": 1,
+        "parents": 1,
+        "died": 1,
+        "spaceAgency": 1,
+        "movies": 1,
+        "books": 1,
+        "office": 1,
+        "moviesAndTvShows": 1,
+        "recentPosts": 1,
+        "siblings": 1
+    }
 }

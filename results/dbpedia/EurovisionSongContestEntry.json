@@ -9,6 +9,38 @@
                 "Las Ketchup"
             ]
         },
+        "Mikado (song)": {
+            "label": "The Mikado",
+            "description": "The Mikado; or, The Town of Titipu is a comic opera in two acts, with music by Arthur Sullivan and libretto by W. S. Gilbert, their ninth of fourteen operatic collaborations. Wikipedia",
+            "type": "Opera by Sir Arthur Sullivan",
+            "Composer ": [
+                "Sir Arthur Sullivan"
+            ],
+            "Librettist ": [
+                "William Schwenck Gilbert"
+            ],
+            "Characters ": [
+                "Nanki Poo",
+                " Pooh-Bah",
+                " Peep-Bo",
+                " Pitti-Sing",
+                " Katisha",
+                " Pish-Tush",
+                " Go-To",
+                " Ko-Ko",
+                " Yum-Yum",
+                " Mikado"
+            ],
+            "Adaptations ": [
+                "Dick Deadeye",
+                " or Duty Done (1975)",
+                " The Gentlemen of Titipu (1973)",
+                " The Mikado",
+                " The Mikado",
+                " Hot Mikado"
+            ],
+            "People also search for": []
+        },
         "Fantasiaa": {
             "label": "Fantasia",
             "description": "Fantasia is a 1940 American animated film produced by Walt Disney and released by Walt Disney Productions. Wikipedia",
@@ -73,60 +105,33 @@
                 " Geffen Records"
             ],
             "People also search for": []
-        },
-        "Mikado (song)": {
-            "label": "The Mikado",
-            "description": "The Mikado; or, The Town of Titipu is a comic opera in two acts, with music by Arthur Sullivan and libretto by W. S. Gilbert, their ninth of fourteen operatic collaborations. Wikipedia",
-            "type": "Opera by Sir Arthur Sullivan",
-            "Composer ": [
-                "Sir Arthur Sullivan"
-            ],
-            "Librettist ": [
-                "William Schwenck Gilbert"
-            ],
-            "Characters ": [
-                "Nanki Poo",
-                " Pooh-Bah",
-                " Peep-Bo",
-                " Pitti-Sing",
-                " Katisha",
-                " Pish-Tush",
-                " Go-To",
-                " Ko-Ko",
-                " Yum-Yum",
-                " Mikado"
-            ],
-            "Adaptations ": [
-                "Dick Deadeye",
-                " or Duty Done (1975)",
-                " The Gentlemen of Titipu (1973)",
-                " The Mikado",
-                " The Mikado",
-                " Hot Mikado"
-            ],
-            "People also search for": []
         }
     },
     "summary": {
-        "label": 4,
-        "description": 4,
-        "type": 4,
-        "release_date": 1,
-        "artist": 1,
-        "directors": 1,
-        "running_time": 1,
-        "producers": 1,
-        "music_composed_by": 1,
-        "characters": 1,
-        "people_also_search_for": 1,
-        "active_from": 1,
-        "origin": 1,
-        "albums": 1,
-        "members": 1,
-        "record_labels": 1,
-        "composer": 1,
-        "librettist": 1,
-        "adaptations": 1
+        "label": {
+            "uri": "http://dbpedia.org/property/label",
+            "count": 4
+        },
+        "description": {
+            "uri": "http://dbpedia.org/property/description",
+            "count": 4
+        },
+        "type": {
+            "uri": "http://dbpedia.org/property/type",
+            "count": 4
+        },
+        "releaseDate": {
+            "uri": "http://dbpedia.org/ontology/releaseDate",
+            "count": 2
+        },
+        "artist": {
+            "uri": "http://dbpedia.org/ontology/artist",
+            "count": 1
+        },
+        "composer": {
+            "uri": "http://dbpedia.org/ontology/composer",
+            "count": 1
+        }
     },
     "infoboxless": [
         "E Depois do Adeus",
@@ -225,5 +230,20 @@
         "Bana Bana",
         "Bandido (song)",
         "Bara hon älskar mig"
-    ]
+    ],
+    "Unmapped_Properties": {
+        "librettist": 1,
+        "characters": 1,
+        "adaptations": 1,
+        "peopleAlsoSearchFor": 1,
+        "directors": 1,
+        "runningTime": 1,
+        "producers": 1,
+        "musicComposedBy": 1,
+        "activeFrom": 1,
+        "origin": 1,
+        "albums": 1,
+        "members": 1,
+        "recordLabels": 1
+    }
 }

@@ -69,20 +69,18 @@
         }
     },
     "summary": {
-        "label": 3,
-        "description": 3,
-        "type": 3,
-        "engine_size": 1,
-        "body_style": 1,
-        "mpg": 1,
-        "horsepower": 1,
-        "make": 1,
-        "people_also_search_for": 1,
-        "msrp": 1,
-        "available_trims": 1,
-        "body_styles": 1,
-        "other_model_years": 1,
-        "configurations": 1
+        "label": {
+            "uri": "http://www.w3.org/2000/01/rdf-schema#label",
+            "count": 3
+        },
+        "description": {
+            "uri": "http://dbpedia.org/property/description",
+            "count": 3
+        },
+        "type": {
+            "uri": "http://dbpedia.org/property/type",
+            "count": 3
+        }
     },
     "infoboxless": [
         "Ford Zetec engine",
@@ -182,5 +180,18 @@
         "Mercedes-Benz OM615",
         "Mercedes-Benz OM617",
         "Mercedes-Benz OM642"
-    ]
+    ],
+    "Unmapped_Properties": {
+        "engineSize": 1,
+        "bodyStyle": 1,
+        "mpg": 1,
+        "horsepower": 1,
+        "make": 1,
+        "peopleAlsoSearchFor": 1,
+        "msrp": 1,
+        "availableTrims": 1,
+        "bodyStyles": 1,
+        "otherModelYears": 1,
+        "configurations": 1
+    }
 }

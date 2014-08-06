@@ -9,14 +9,6 @@
             ],
             "See results about": []
         },
-        "Allied-occupied Austria": {
-            "label": "Allied-occupied Austria",
-            "description": "The Allied occupation of Austria lasted from 1945 to 1955. Austria had been regarded by Nazi Germany as a constituent part of the German state, but in 1943 the Allied powers agreed in the Declaration ... Wikipedia",
-            "type": "",
-            "Founded ": [
-                "1945"
-            ]
-        },
         "Allied-occupied Germany": {
             "label": "Allied-occupied Germany",
             "description": "The Allied powers who defeated Nazi Germany in World War II asserted governmental authority over all territory of the German Reich which lay west of the Oder–Neisse line, having formally abolished the German government of Adolf Hitler. Wikipedia",
@@ -30,15 +22,23 @@
             "description": "The Austrian Littoral was established as a crown land of the Austrian Empire in 1849.\nKingdom of Italy, rewarded for changing sides in the First World War, annexed it according to the secret Treaty of London and later Treaty of Rapallo. Wikipedia",
             "type": ""
         },
+        "Banat (1941–1944)": {
+            "label": "Banat",
+            "description": "The Banat was a political entity established in 1941 after the occupation and partition of Yugoslavia by the Axis Powers in the historical Banat region. Wikipedia",
+            "type": ""
+        },
         "Archbishopric of Riga": {
             "label": "Archbishopric of Riga",
             "description": "The Archbishopric of Riga was an archbishopric in Medieval Livonia, a subject to the Holy See. It was established in 1186 as the bishopric of Livonia at Üxküll, then after moving to Riga it became the ... Wikipedia",
             "type": ""
         },
-        "Banat (1941–1944)": {
-            "label": "Banat",
-            "description": "The Banat was a political entity established in 1941 after the occupation and partition of Yugoslavia by the Axis Powers in the historical Banat region. Wikipedia",
-            "type": ""
+        "Allied-occupied Austria": {
+            "label": "Allied-occupied Austria",
+            "description": "The Allied occupation of Austria lasted from 1945 to 1955. Austria had been regarded by Nazi Germany as a constituent part of the German state, but in 1943 the Allied powers agreed in the Declaration ... Wikipedia",
+            "type": "",
+            "Founded ": [
+                "1945"
+            ]
         },
         "Basutoland": {
             "label": "Basutoland",
@@ -57,24 +57,24 @@
                 "1234"
             ]
         },
-        "Bishopric of Dorpat": {
-            "label": "Bishopric of Dorpat",
-            "description": "The Bishopric of Dorpat was a medieval principality and a catholic diocese which existed from 1224 to 1558, generally encompassing what are now Tartu, Põlva, Võru and Jõgeva counties in Estonia. The Bishopric was part of Livonian Confederation. Wikipedia",
-            "type": ""
-        },
         "Bishopric of Halberstadt": {
             "label": "Bishopric of Halberstadt",
             "description": "The Bishopric of Halberstadt was a Roman Catholic diocese and a state within the Holy Roman Empire, the Prince-bishopric of Halberstadt. Its capital was Halberstadt in present-day Saxony-Anhalt, north of the Harz mountain range, Germany. Wikipedia",
             "type": ""
         },
-        "Bishopric of Lübeck": {
-            "label": "Bishopric of Lübeck",
-            "description": "The Bishopric of Lübeck was a Roman-Catholic and, later, Protestant diocese, as well as a state of the Holy Roman Empire. Wikipedia",
+        "Bishopric of Dorpat": {
+            "label": "Bishopric of Dorpat",
+            "description": "The Bishopric of Dorpat was a medieval principality and a catholic diocese which existed from 1224 to 1558, generally encompassing what are now Tartu, Põlva, Võru and Jõgeva counties in Estonia. The Bishopric was part of Livonian Confederation. Wikipedia",
             "type": ""
         },
         "Bishopric of Lebus": {
             "label": "Bishopric of Lebus",
             "description": "The Bishopric of Lebus was a Roman Catholic diocese of Poland and later an ecclesiastical territory of the Holy Roman Empire. It existed from 1125 until 1598. Wikipedia",
+            "type": ""
+        },
+        "Bishopric of Lübeck": {
+            "label": "Bishopric of Lübeck",
+            "description": "The Bishopric of Lübeck was a Roman-Catholic and, later, Protestant diocese, as well as a state of the Holy Roman Empire. Wikipedia",
             "type": ""
         },
         "Bishopric of Minden": {
@@ -119,14 +119,14 @@
                 "1050"
             ]
         },
-        "County of Kladsko": {
-            "label": "County of Kladsko",
-            "description": "The County of Kladsko was a historical administrative unit in the Kingdom of Bohemia and later in the Kingdom of Prussia with its capital at Kłodzko on the Nysa river. Wikipedia",
-            "type": ""
-        },
         "County of Sargans": {
             "label": "County of Sargans",
             "description": "The County of Sargans was a state of the Holy Roman Empire. From 1458 until the French Revolutionary War in 1798, Sargans became a condominium of the Old Swiss Confederacy, administered jointly by the ... Wikipedia",
+            "type": ""
+        },
+        "County of Kladsko": {
+            "label": "County of Kladsko",
+            "description": "The County of Kladsko was a historical administrative unit in the Kingdom of Bohemia and later in the Kingdom of Prussia with its capital at Kłodzko on the Nysa river. Wikipedia",
             "type": ""
         },
         "County of Sicily": {
@@ -506,20 +506,6 @@
             "description": "The Kingdom of Nejd and Hejaz was a political union established after the Kingdom of Hejaz had been conquered by the Sultanate of Nejd under Abdul Aziz Ibn Saud in 1925. Wikipedia",
             "type": ""
         },
-        "Kingdom of Saxony": {
-            "label": "Kingdom of Saxony",
-            "description": "The Kingdom of Saxony, lasting between 1806 and 1918, was an independent member of a number of historical confederacies in Napoleonic through post-Napoleonic Germany. From 1871 it was part of the German Empire. Wikipedia",
-            "type": "",
-            "Capital ": [
-                "Dresden"
-            ],
-            "Founded ": [
-                "1806"
-            ],
-            "Government ": [
-                "Monarchy"
-            ]
-        },
         "Kingdom of Prussia": {
             "label": "Kingdom of Prussia",
             "description": "The Kingdom of Prussia was a German kingdom that existed between 1701 and 1918 and included parts of present-day Germany, Poland, Russia, Lithuania, Denmark, Belgium and the Czech Republic. Wikipedia",
@@ -544,6 +530,20 @@
                 " Constitutional monarchy"
             ],
             "See results about": []
+        },
+        "Kingdom of Saxony": {
+            "label": "Kingdom of Saxony",
+            "description": "The Kingdom of Saxony, lasting between 1806 and 1918, was an independent member of a number of historical confederacies in Napoleonic through post-Napoleonic Germany. From 1871 it was part of the German Empire. Wikipedia",
+            "type": "",
+            "Capital ": [
+                "Dresden"
+            ],
+            "Founded ": [
+                "1806"
+            ],
+            "Government ": [
+                "Monarchy"
+            ]
         },
         "Kingdom of Serbia": {
             "label": "Kingdom of Serbia",
@@ -621,29 +621,58 @@
         }
     },
     "summary": {
-        "label": 72,
-        "description": 72,
-        "type": 72,
-        "government": 1,
-        "see_results_about": 1,
-        "founded": 1,
-        "capital": 1,
-        "address": 1,
-        "phone": 1,
-        "people_also_search_for": 1,
-        "continent": 1,
-        "capitals": 1,
-        "area": 1,
-        "width": 1,
-        "mean_depth": 1,
-        "shore_length": 1,
-        "province": 1,
-        "outflow_location": 1,
-        "born": 1,
-        "died": 1,
-        "national_anthem": 1,
-        "currencies": 1,
-        "population": 1
+        "label": {
+            "uri": "http://dbpedia.org/property/label",
+            "count": 72
+        },
+        "description": {
+            "uri": "http://purl.org/dc/elements/1.1/description",
+            "count": 72
+        },
+        "type": {
+            "uri": "http://dbpedia.org/property/type",
+            "count": 72
+        },
+        "government": {
+            "uri": "http://dbpedia.org/property/government",
+            "count": 15
+        },
+        "founded": {
+            "uri": "http://dbpedia.org/property/founded",
+            "count": 33
+        },
+        "capital": {
+            "uri": "http://dbpedia.org/property/capital",
+            "count": 12
+        },
+        "address": {
+            "uri": "http://dbpedia.org/property/address",
+            "count": 1
+        },
+        "continent": {
+            "uri": "http://dbpedia.org/property/continent",
+            "count": 2
+        },
+        "area": {
+            "uri": "http://dbpedia.org/property/area",
+            "count": 1
+        },
+        "width": {
+            "uri": "http://dbpedia.org/property/width",
+            "count": 1
+        },
+        "province": {
+            "uri": "http://dbpedia.org/property/province",
+            "count": 1
+        },
+        "nationalAnthem": {
+            "uri": "http://dbpedia.org/property/nationalAnthem",
+            "count": 1
+        },
+        "population": {
+            "uri": "http://dbpedia.org/property/population",
+            "count": 1
+        }
     },
     "infoboxless": [
         "Anhalt-Köthen",
@@ -674,5 +703,17 @@
         "League of Lezhë",
         "Lordship of Berat",
         "Mahajanapada"
-    ]
+    ],
+    "Unmapped_Properties": {
+        "seeResultsAbout": 1,
+        "phone": 1,
+        "peopleAlsoSearchFor": 1,
+        "capitals": 1,
+        "meanDepth": 1,
+        "shoreLength": 1,
+        "outflowLocation": 1,
+        "born": 1,
+        "died": 1,
+        "currencies": 1
+    }
 }

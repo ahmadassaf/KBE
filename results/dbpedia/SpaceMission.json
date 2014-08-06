@@ -6,9 +6,9 @@
             "type": "",
             "Related topics": []
         },
-        "Expedition 32": {
-            "label": "Expedition 32",
-            "description": "Expedition 32 was the 32nd long-duration expedition to the International Space Station. It began on 1 July 2012 with the departure from the ISS of the Soyuz TMA-03M spacecraft, which returned the ... Wikipedia",
+        "Expedition 33": {
+            "label": "Expedition 33",
+            "description": "Expedition 33 was the 33rd long-duration expedition to the International Space Station. It began on 16 September 2012 with the departure from the ISS of the Soyuz TMA-04M spacecraft, which returned the Expedition 32 crew to Earth. Wikipedia",
             "type": "",
             "Related topics": []
         },
@@ -18,9 +18,9 @@
             "type": "",
             "Related topics": []
         },
-        "Expedition 33": {
-            "label": "Expedition 33",
-            "description": "Expedition 33 was the 33rd long-duration expedition to the International Space Station. It began on 16 September 2012 with the departure from the ISS of the Soyuz TMA-04M spacecraft, which returned the Expedition 32 crew to Earth. Wikipedia",
+        "Expedition 32": {
+            "label": "Expedition 32",
+            "description": "Expedition 32 was the 32nd long-duration expedition to the International Space Station. It began on 1 July 2012 with the departure from the ISS of the Soyuz TMA-03M spacecraft, which returned the ... Wikipedia",
             "type": "",
             "Related topics": []
         },
@@ -36,9 +36,9 @@
             "type": "",
             "Related topics": []
         },
-        "Gemini 11": {
-            "label": "Gemini 11",
-            "description": "Gemini 11 was the ninth manned spaceflight mission of NASA's Project Gemini, which flew from September 12 to 15, 1966. It was the 17th manned American flight and the 25th spaceflight to that time. Wikipedia",
+        "Expedition 40": {
+            "label": "Expedition 40",
+            "description": "Expedition 40 is scheduled to be the 40th expedition to the International Space Station. The Expedition 39/40 crew launched on March 25th, 2014 from Baikonour Cosmodrome. Wikipedia",
             "type": "",
             "Related topics": []
         },
@@ -48,15 +48,9 @@
             "type": "",
             "Related topics": []
         },
-        "Expedition 40": {
-            "label": "Expedition 40",
-            "description": "Expedition 40 is scheduled to be the 40th expedition to the International Space Station. The Expedition 39/40 crew launched on March 25th, 2014 from Baikonour Cosmodrome. Wikipedia",
-            "type": "",
-            "Related topics": []
-        },
-        "Little Joe 1B": {
-            "label": "Little Joe 1B",
-            "description": "The Little Joe 1B was a Launch Escape System test of the Mercury spacecraft, conducted as part of the U.S. Mercury program. The mission also carried a female Rhesus monkey named Miss Sam in the Mercury spacecraft. Wikipedia",
+        "Gemini 11": {
+            "label": "Gemini 11",
+            "description": "Gemini 11 was the ninth manned spaceflight mission of NASA's Project Gemini, which flew from September 12 to 15, 1966. It was the 17th manned American flight and the 25th spaceflight to that time. Wikipedia",
             "type": "",
             "Related topics": []
         },
@@ -69,6 +63,12 @@
         "Gemini 9A": {
             "label": "Gemini 9A",
             "description": "Gemini 9A was a 1966 manned spaceflight in NASA's Gemini program. It was the 7th manned Gemini flight, the 13th manned American flight and the 23rd spaceflight of all time. Wikipedia",
+            "type": "",
+            "Related topics": []
+        },
+        "Little Joe 1B": {
+            "label": "Little Joe 1B",
+            "description": "The Little Joe 1B was a Launch Escape System test of the Mercury spacecraft, conducted as part of the U.S. Mercury program. The mission also carried a female Rhesus monkey named Miss Sam in the Mercury spacecraft. Wikipedia",
             "type": "",
             "Related topics": []
         },
@@ -86,10 +86,18 @@
         }
     },
     "summary": {
-        "label": 14,
-        "description": 14,
-        "type": 14,
-        "related_topics": 1
+        "label": {
+            "uri": "http://www.w3.org/2000/01/rdf-schema#label",
+            "count": 14
+        },
+        "description": {
+            "uri": "http://dbpedia.org/property/description",
+            "count": 14
+        },
+        "type": {
+            "uri": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+            "count": 14
+        }
     },
     "infoboxless": [
         "A-103 (spacecraft)",
@@ -178,5 +186,8 @@
         "Soyuz TM-31",
         "Soyuz TM-32",
         "Soyuz TM-33"
-    ]
+    ],
+    "Unmapped_Properties": {
+        "relatedTopics": 1
+    }
 }

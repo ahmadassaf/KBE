@@ -17,12 +17,18 @@
         }
     },
     "summary": {
-        "label": 1,
-        "description": 1,
-        "type": 1,
-        "author": 1,
-        "copyright_date": 1,
-        "people_also_search_for": 1
+        "label": {
+            "uri": "http://dbpedia.org/property/label",
+            "count": 1
+        },
+        "description": {
+            "uri": "http://purl.org/dc/elements/1.1/description",
+            "count": 1
+        },
+        "type": {
+            "uri": "http://dbpedia.org/property/type",
+            "count": 1
+        }
     },
     "infoboxless": [
         "African Party for the Independence of Guinea and Cape Verde",
@@ -124,5 +130,10 @@
         "All-India Muslim League",
         "The Greens",
         "Alternative Democratic Reform Party"
-    ]
+    ],
+    "Unmapped_Properties": {
+        "author": 1,
+        "copyrightDate": 1,
+        "peopleAlsoSearchFor": 1
+    }
 }

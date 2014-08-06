@@ -66,14 +66,6 @@
                 "994.00 kg/m³"
             ]
         },
-        "1-Heptanol": {
-            "label": "1-Heptanol",
-            "description": "1-Heptanol is an alcohol with a seven carbon chain and the structural formula of CH3(CH2)6OH. It is a clear colorless liquid that is very slightly soluble in water, but miscible with ether and ethanol. Wikipedia",
-            "type": "",
-            "Density ": [
-                "818.70 kg/m³"
-            ]
-        },
         "1-Decanol": {
             "label": "1-Decanol",
             "description": "1-Decanol is a straight chain fatty alcohol with ten carbon atoms and the molecular formula C10H21OH. It is a colorless viscous liquid that is insoluble in water and has a strong odor. The interfacial tension against water at 20 °C is 8.97 mN/m. Wikipedia",
@@ -86,6 +78,14 @@
             ],
             "Molar mass ": [
                 "158.28 g/mol"
+            ]
+        },
+        "1-Heptanol": {
+            "label": "1-Heptanol",
+            "description": "1-Heptanol is an alcohol with a seven carbon chain and the structural formula of CH3(CH2)6OH. It is a clear colorless liquid that is very slightly soluble in water, but miscible with ether and ethanol. Wikipedia",
+            "type": "",
+            "Density ": [
+                "818.70 kg/m³"
             ]
         },
         "1-Hexanol": {
@@ -124,6 +124,14 @@
                 "1.10 g/cm³"
             ]
         },
+        "1-Pentanol": {
+            "label": "1-Pentanol",
+            "description": "1-Pentanol, is an alcohol with five carbon atoms and the molecular formula C5H12O. 1-Pentanol is a colorless liquid with an unpleasant aroma. There are 8 alcohols with this molecular formula. Wikipedia",
+            "type": "",
+            "Density ": [
+                "814.40 kg/m³"
+            ]
+        },
         "1-Propanol": {
             "label": "Propyl alcohol",
             "description": "1-Propanol is a primary alcohol with the formula CH3CH2CH2OH. This colorless liquid is also known as propan-1-ol, 1-propyl alcohol, n-propyl alcohol, n-propanol, or simply propanol. It is an isomer of isopropanol. Wikipedia",
@@ -148,14 +156,6 @@
             ],
             "Classification ": [
                 "Alcohol"
-            ]
-        },
-        "1-Pentanol": {
-            "label": "1-Pentanol",
-            "description": "1-Pentanol, is an alcohol with five carbon atoms and the molecular formula C5H12O. 1-Pentanol is a colorless liquid with an unpleasant aroma. There are 8 alcohols with this molecular formula. Wikipedia",
-            "type": "",
-            "Density ": [
-                "814.40 kg/m³"
             ]
         },
         "2,5-Dimethoxy-4-methylamphetamine": {
@@ -222,14 +222,6 @@
                 "276.135 g/mol"
             ]
         },
-        "7-Dehydrocholesterol": {
-            "label": "7-Dehydrocholesterol",
-            "description": "7-Dehydrocholesterol is a zoosterol that functions in the serum as a cholesterol precursor, and is converted to vitamin D3 in the skin, therefore functioning as provitamin-D3. Wikipedia",
-            "type": "",
-            "Formula ": [
-                "C27H44O"
-            ]
-        },
         "6-Phosphogluconolactone": {
             "label": "6-Phosphogluconolactone",
             "description": "6-Phosphogluconolactone is an intermediate in the pentose phosphate pathway.\nIt is produced from glucose-6-phosphate by glucose-6-phosphate dehydrogenase. Wikipedia",
@@ -239,6 +231,22 @@
             ],
             "Molar mass ": [
                 "258.12 g/mol"
+            ]
+        },
+        "7-Dehydrocholesterol": {
+            "label": "7-Dehydrocholesterol",
+            "description": "7-Dehydrocholesterol is a zoosterol that functions in the serum as a cholesterol precursor, and is converted to vitamin D3 in the skin, therefore functioning as provitamin-D3. Wikipedia",
+            "type": "",
+            "Formula ": [
+                "C27H44O"
+            ]
+        },
+        "Absinthin": {
+            "label": "Absinthin",
+            "description": "Absinthin is a naturally produced sesquiterpene lactone from the plant Artemisia absinthium. It constitutes one of the most bitter chemical agents responsible for Absinthe's distinct taste. Wikipedia",
+            "type": "",
+            "Formula ": [
+                "C30H40O6"
             ]
         },
         "Acesulfame potassium": {
@@ -265,14 +273,6 @@
             ],
             "Soluble in ": [
                 "Water"
-            ]
-        },
-        "Absinthin": {
-            "label": "Absinthin",
-            "description": "Absinthin is a naturally produced sesquiterpene lactone from the plant Artemisia absinthium. It constitutes one of the most bitter chemical agents responsible for Absinthe's distinct taste. Wikipedia",
-            "type": "",
-            "Formula ": [
-                "C30H40O6"
             ]
         },
         "Acetochlor": {
@@ -359,6 +359,17 @@
                 "Water"
             ]
         },
+        "Allyl alcohol": {
+            "label": "Allyl alcohol",
+            "description": "Allyl alcohol is an organic compound with the structural formula CH2=CHCH2OH. Like many alcohols, it is a water-soluble, colourless liquid, but it is more toxic than typical small alcohols. Wikipedia",
+            "type": "",
+            "Density ": [
+                "854.00 kg/m³"
+            ],
+            "Boiling point ": [
+                "206.6°F (97°C)"
+            ]
+        },
         "Aluminium fluoride": {
             "label": "Aluminium fluoride",
             "description": "Aluminium fluoride is an inorganic compound used primarily in the production of aluminium. This colorless solid can be prepared synthetically but also occurs in nature. It is used in the production of aluminium metal. Wikipedia",
@@ -374,17 +385,6 @@
             ],
             "Classification ": [
                 "Alum compounds"
-            ]
-        },
-        "Allyl alcohol": {
-            "label": "Allyl alcohol",
-            "description": "Allyl alcohol is an organic compound with the structural formula CH2=CHCH2OH. Like many alcohols, it is a water-soluble, colourless liquid, but it is more toxic than typical small alcohols. Wikipedia",
-            "type": "",
-            "Density ": [
-                "854.00 kg/m³"
-            ],
-            "Boiling point ": [
-                "206.6°F (97°C)"
             ]
         },
         "Aluminium iodide": {
@@ -513,6 +513,23 @@
                 "1.58 g/cm³"
             ]
         },
+        "Arsenic pentoxide": {
+            "label": "Arsenic pentoxide",
+            "description": "Arsenic pentoxide is the inorganic compound with the formula As2O5. This glassy, white, deliquescent solid is relatively unstable, consistent with the rarity of the As oxidation state. Wikipedia",
+            "type": "",
+            "Formula ": [
+                "As2O5"
+            ],
+            "Density ": [
+                "4.32 g/cm³"
+            ],
+            "Molar mass ": [
+                "229.8402 g/mol"
+            ],
+            "Melting point ": [
+                "599°F (315°C)"
+            ]
+        },
         "Ascaridole": {
             "label": "Ascaridole",
             "description": "Ascaridole is a natural organic compound classified as a bicyclic monoterpene that has an unusual bridging peroxide functional group. It is a colorless liquid with a pungent smell and taste that is soluble in most organic solvents. Wikipedia",
@@ -531,23 +548,6 @@
             ],
             "Boiling point ": [
                 "104°F (40°C)"
-            ]
-        },
-        "Arsenic pentoxide": {
-            "label": "Arsenic pentoxide",
-            "description": "Arsenic pentoxide is the inorganic compound with the formula As2O5. This glassy, white, deliquescent solid is relatively unstable, consistent with the rarity of the As oxidation state. Wikipedia",
-            "type": "",
-            "Formula ": [
-                "As2O5"
-            ],
-            "Density ": [
-                "4.32 g/cm³"
-            ],
-            "Molar mass ": [
-                "229.8402 g/mol"
-            ],
-            "Melting point ": [
-                "599°F (315°C)"
             ]
         },
         "Aurantinidin": {
@@ -589,6 +589,11 @@
                 "559.4°F (293°C)"
             ]
         },
+        "Azorubine": {
+            "label": "Azorubine",
+            "description": "Azorubine, carmoisine, Food Red 3, Azorubin S, Brillantcarmoisin O, Acid Red 14, or C.I. 14720 is a synthetic red food dye from the azo dye group. It usually comes as a disodium salt. It is a red to maroon powder. Wikipedia",
+            "type": ""
+        },
         "Barium borate": {
             "label": "Barium borate",
             "description": "Barium borate is an inorganic compound, a borate of barium with a chemical formula BaB2O4 or Ba(BO2)2. It is available as a hydrate or dehydrated form, as white powder or colorless crystals. Wikipedia",
@@ -601,11 +606,6 @@
                 "940°F (1",
                 "060°C)"
             ]
-        },
-        "Azorubine": {
-            "label": "Azorubine",
-            "description": "Azorubine, carmoisine, Food Red 3, Azorubin S, Brillantcarmoisin O, Acid Red 14, or C.I. 14720 is a synthetic red food dye from the azo dye group. It usually comes as a disodium salt. It is a red to maroon powder. Wikipedia",
-            "type": ""
         },
         "Barium chromate": {
             "label": "Barium chromate",
@@ -722,6 +722,21 @@
             "type": "",
             "See results about": []
         },
+        "Benzothiazole": {
+            "label": "Benzothiazole",
+            "description": "Benzothiazole is an aromatic heterocyclic compound with the chemical formula C\n7H\n5NS. It is colorless, slightly viscous liquid. Wikipedia",
+            "type": "",
+            "Density ": [
+                "1.24 g/cm³"
+            ],
+            "Molar mass ": [
+                "135.1863 g/mol"
+            ],
+            "Drugs in class ": [
+                "Riluzole"
+            ],
+            "People also search for": []
+        },
         "Beryllium chloride": {
             "label": "Beryllium chloride",
             "description": "Beryllium chloride is an inorganic compound with the formula BeCl2. It is a colourless, hygroscopic solid that dissolves well in many polar solvents. Wikipedia",
@@ -738,26 +753,6 @@
             "Boiling point ": [
                 "968°F (520°C)"
             ]
-        },
-        "Benzothiazole": {
-            "label": "Benzothiazole",
-            "description": "Benzothiazole is an aromatic heterocyclic compound with the chemical formula C\n7H\n5NS. It is colorless, slightly viscous liquid. Wikipedia",
-            "type": "",
-            "Density ": [
-                "1.24 g/cm³"
-            ],
-            "Molar mass ": [
-                "135.1863 g/mol"
-            ],
-            "Drugs in class ": [
-                "Riluzole"
-            ],
-            "People also search for": []
-        },
-        "Beta-Methylamino-L-alanine": {
-            "label": "beta-Methylamino-L-alanine",
-            "description": "β-Methylamino-L-alanine, or BMAA, is a non-proteinogenic amino acid produced by cyanobacteria. Wikipedia",
-            "type": ""
         },
         "Beta-Hydroxy beta-methylbutyric acid": {
             "label": "beta-Hydroxy beta-methylbutyric acid",
@@ -781,6 +776,11 @@
             "Boiling point ": [
                 "190.4°F (88°C)"
             ]
+        },
+        "Beta-Methylamino-L-alanine": {
+            "label": "beta-Methylamino-L-alanine",
+            "description": "β-Methylamino-L-alanine, or BMAA, is a non-proteinogenic amino acid produced by cyanobacteria. Wikipedia",
+            "type": ""
         },
         "Betulinic acid": {
             "label": "Betulinic acid",
@@ -844,20 +844,6 @@
                 "920.00 kg/m³"
             ]
         },
-        "Bismuth(III) sulfide": {
-            "label": "Bismuth(III) sulfide",
-            "description": "Bismuth(III) sulfide is a chemical compound of bismuth and sulfur. It occurs in nature as the mineral bismuthinite. Wikipedia",
-            "type": "",
-            "Formula ": [
-                "Bi2S3"
-            ],
-            "Density ": [
-                "6.78 g/cm³"
-            ],
-            "Molar mass ": [
-                "514.16 g/mol"
-            ]
-        },
         "Bismuth(III) oxide": {
             "label": "Bismuth(III) oxide",
             "description": "Bismuth(III) oxide is perhaps the most industrially important compound of bismuth. It is also a common starting point for bismuth chemistry. Wikipedia",
@@ -879,6 +865,20 @@
                 "3",
                 "434°F (1",
                 "890°C)"
+            ]
+        },
+        "Bismuth(III) sulfide": {
+            "label": "Bismuth(III) sulfide",
+            "description": "Bismuth(III) sulfide is a chemical compound of bismuth and sulfur. It occurs in nature as the mineral bismuthinite. Wikipedia",
+            "type": "",
+            "Formula ": [
+                "Bi2S3"
+            ],
+            "Density ": [
+                "6.78 g/cm³"
+            ],
+            "Molar mass ": [
+                "514.16 g/mol"
             ]
         },
         "Bismuthine": {
@@ -986,23 +986,6 @@
                 "251°C)"
             ]
         },
-        "Calcium bicarbonate": {
-            "label": "Calcium bicarbonate",
-            "description": "Calcium bicarbonate, also called calcium hydrogen carbonate, has a chemical formula Ca(HCO3)2. The term does not refer to a known solid compound; it exists only in aqueous solution containing the calcium, ... Wikipedia",
-            "type": "",
-            "Formula ": [
-                "Ca(HCO3)2"
-            ],
-            "Molar mass ": [
-                "162.1146 g/mol"
-            ],
-            "IUPAC ID ": [
-                "Calcium hydrogen carbonate"
-            ],
-            "Soluble in ": [
-                "Water"
-            ]
-        },
         "Caesium oxide": {
             "label": "Caesium oxide",
             "description": "Caesium oxide or cesium oxide describes inorganic compounds composed of caesium and oxygen. The following binary oxides of caesium are known Cs11O3, Cs4O, Cs7O, and Cs2O. Both the oxide and suboxides are brightly coloured. Wikipedia",
@@ -1018,6 +1001,23 @@
             ],
             "Melting point ": [
                 "914°F (490°C)"
+            ]
+        },
+        "Calcium bicarbonate": {
+            "label": "Calcium bicarbonate",
+            "description": "Calcium bicarbonate, also called calcium hydrogen carbonate, has a chemical formula Ca(HCO3)2. The term does not refer to a known solid compound; it exists only in aqueous solution containing the calcium, ... Wikipedia",
+            "type": "",
+            "Formula ": [
+                "Ca(HCO3)2"
+            ],
+            "Molar mass ": [
+                "162.1146 g/mol"
+            ],
+            "IUPAC ID ": [
+                "Calcium hydrogen carbonate"
+            ],
+            "Soluble in ": [
+                "Water"
             ]
         },
         "Calcium hypochlorite": {
@@ -1087,6 +1087,20 @@
                 "5-dione"
             ]
         },
+        "Caprolactam": {
+            "label": "Caprolactam",
+            "description": "Caprolactam is an organic compound with the formula (CH2)5CNH. This colourless solid is a lactam or a cyclic amide of caproic acid. Approximately 4.5 billion kilograms are produced annually. Wikipedia",
+            "type": "",
+            "Formula ": [
+                "C6H11NO"
+            ],
+            "Melting point ": [
+                "154.4°F (68°C)"
+            ],
+            "Molar mass ": [
+                "113.16 g/mol"
+            ]
+        },
         "Carbazole": {
             "label": "Carbazole",
             "description": "Carbazole is an aromatic heterocyclic organic compound. It has a tricyclic structure, consisting of two six-membered benzene rings fused on either side of a five-membered nitrogen-containing ring. Wikipedia",
@@ -1105,20 +1119,6 @@
             ],
             "Boiling point ": [
                 "670.4°F (354.7°C)"
-            ]
-        },
-        "Caprolactam": {
-            "label": "Caprolactam",
-            "description": "Caprolactam is an organic compound with the formula (CH2)5CNH. This colourless solid is a lactam or a cyclic amide of caproic acid. Approximately 4.5 billion kilograms are produced annually. Wikipedia",
-            "type": "",
-            "Formula ": [
-                "C6H11NO"
-            ],
-            "Melting point ": [
-                "154.4°F (68°C)"
-            ],
-            "Molar mass ": [
-                "113.16 g/mol"
             ]
         },
         "Carbethopendecinium bromide": {
@@ -1140,11 +1140,6 @@
                 "1.18 g/cm³"
             ]
         },
-        "Carbosulfan": {
-            "label": "Carbosulfan",
-            "description": "Carbosulfan is an organic compound adherent to the carbamate class. At normal conditions, it is brown viscose liquid. It is not very stable; it decomposes slowly at room temperature. Wikipedia",
-            "type": ""
-        },
         "Carbon tetraiodide": {
             "label": "Carbon tetraiodide",
             "description": "Carbon tetraiodide is CI4, a tetrahalomethane. Being bright red, it is a relatively rare example of a highly colored methane derivative. It is only 2% by weight carbon, although other methane derivatives are known with still less carbon. Wikipedia",
@@ -1161,6 +1156,11 @@
             "Melting point ": [
                 "339.8°F (171°C)"
             ]
+        },
+        "Carbosulfan": {
+            "label": "Carbosulfan",
+            "description": "Carbosulfan is an organic compound adherent to the carbamate class. At normal conditions, it is brown viscose liquid. It is not very stable; it decomposes slowly at room temperature. Wikipedia",
+            "type": ""
         },
         "Carmustine": {
             "label": "Carmustine",
@@ -1244,6 +1244,11 @@
                 "437°F (225°C)"
             ]
         },
+        "Cetylpyridinium chloride": {
+            "label": "Cetylpyridinium chloride",
+            "description": "Cetylpyridinium chloride is a cationic quaternary ammonium compound used in some types of mouthwashes, toothpastes, lozenges, throat sprays, breath sprays, and nasal sprays. It is an antiseptic that kills bacteria and other microorganisms. Wikipedia",
+            "type": ""
+        },
         "Chlordane": {
             "label": "Chlordane",
             "description": "Chlordane, or chlordan, is an organochlorine compound used as a pesticide. This white solid was sold in the U.S. until 1983 as an insecticide for crops like corn and citrus, and on lawns and domestic gardens. Wikipedia",
@@ -1263,11 +1268,6 @@
             "Boiling point ": [
                 "347°F (175°C)"
             ]
-        },
-        "Cetylpyridinium chloride": {
-            "label": "Cetylpyridinium chloride",
-            "description": "Cetylpyridinium chloride is a cationic quaternary ammonium compound used in some types of mouthwashes, toothpastes, lozenges, throat sprays, breath sprays, and nasal sprays. It is an antiseptic that kills bacteria and other microorganisms. Wikipedia",
-            "type": ""
         },
         "Chloroprene": {
             "label": "Chloroprene",
@@ -1379,31 +1379,45 @@
         }
     },
     "summary": {
-        "label": 96,
-        "description": 96,
-        "type": 96,
-        "density": 1,
-        "molar_mass": 1,
-        "see_results_about": 1,
-        "formula": 1,
-        "melting_point": 1,
-        "boiling_point": 1,
-        "iupac_id": 1,
-        "classification": 1,
-        "soluble_in": 1,
-        "drugs_in_class": 1,
-        "people_also_search_for": 1,
-        "brand_names": 1,
-        "cas_id": 1,
-        "pregnancy_risk": 1,
-        "drug_class": 1,
-        "other_drugs_in_same_class": 1,
-        "may_treat": 1
+        "label": {
+            "uri": "http://www.w3.org/2000/01/rdf-schema#label",
+            "count": 96
+        },
+        "description": {
+            "uri": "http://dbpedia.org/property/description",
+            "count": 96
+        },
+        "type": {
+            "uri": "http://dbpedia.org/property/type",
+            "count": 96
+        },
+        "formula": {
+            "uri": "http://dbpedia.org/property/formula",
+            "count": 65
+        }
     },
     "infoboxless": [
         "Aluminium chloride",
         "Aluminium monochloride",
         "Amyl nitrate",
         "Carboxymethyl cellulose"
-    ]
+    ],
+    "Unmapped_Properties": {
+        "density": 1,
+        "molarMass": 1,
+        "seeResultsAbout": 1,
+        "meltingPoint": 1,
+        "boilingPoint": 1,
+        "iupacId": 1,
+        "classification": 1,
+        "solubleIn": 1,
+        "drugsInClass": 1,
+        "peopleAlsoSearchFor": 1,
+        "brandNames": 1,
+        "casId": 1,
+        "pregnancyRisk": 1,
+        "drugClass": 1,
+        "otherDrugsInSameClass": 1,
+        "mayTreat": 1
+    }
 }

@@ -1,5 +1,12 @@
 {
     "instances": {
+        "Julio Velasco": {
+            "label": "Julio Velasco",
+            "description": "Julio Velasco is a professional volleyball coach from Argentina, who guided the Italian national men's team to several successes in the 1990s. After the 1996 Summer Olympics, where the Italians won silver, he switched to the Italian women's team. Wikipedia",
+            "type": "",
+            "Born ": "February 9, 1952 (age 62), La Plata, Argentina",
+            "People also search for": []
+        },
         "Mike Hebert": {
             "label": "Mike Hebert",
             "description": "Mike Hebert is a retired American volleyball coach.\nHe coached since 1976 and in his career, he coached Pittsburgh men and women's team, New Mexico women's team, Illinois women's team, and Minnesota women's team. Wikipedia",
@@ -12,13 +19,6 @@
                 " University of California",
                 " Santa Barbara"
             ],
-            "People also search for": []
-        },
-        "Julio Velasco": {
-            "label": "Julio Velasco",
-            "description": "Julio Velasco is a professional volleyball coach from Argentina, who guided the Italian national men's team to several successes in the 1990s. After the 1996 Summer Olympics, where the Italians won silver, he switched to the Italian women's team. Wikipedia",
-            "type": "",
-            "Born ": "February 9, 1952 (age 62), La Plata, Argentina",
             "People also search for": []
         },
         "Bernardo Rezende": {
@@ -46,12 +46,6 @@
             ],
             "People also search for": []
         },
-        "John Speraw": {
-            "label": "John Speraw",
-            "description": "John Speraw, is an American volleyball coach. He is the head coach of the men's volleyball team at UCLA and United states national olympic volleyball team assistant coach. Wikipedia",
-            "type": "",
-            "People also search for": []
-        },
         "Harlan Cohen": {
             "label": "Harlan Cohen",
             "description": "Harlan Cohen is an American volleyball coach who led both the United States men's and women's national teams during the mid-1960s. Cohen coached the men in 1966. Wikipedia",
@@ -62,6 +56,12 @@
             "Books ": [
                 "The Naked Roommate"
             ]
+        },
+        "John Speraw": {
+            "label": "John Speraw",
+            "description": "John Speraw, is an American volleyball coach. He is the head coach of the men's volleyball team at UCLA and United states national olympic volleyball team assistant coach. Wikipedia",
+            "type": "",
+            "People also search for": []
         },
         "Doug Beal": {
             "label": "Doug Beal",
@@ -104,6 +104,14 @@
             ],
             "People also search for": []
         },
+        "Violet Duca": {
+            "label": "Violet Duca",
+            "description": "Violet Kostanda Duca is a Turkish former volleyball player and current Fenerbahçe Acıbadem manager. She is Greek descent. Her father Hristo Kostanda is a former footballer and played for Beşiktaş JK. She played 120 times for national team. . Wikipedia",
+            "type": "",
+            "Born ": [
+                "Turkey"
+            ]
+        },
         "Jan De Brandt": {
             "label": "Jan De Brandt",
             "description": "Jan De Brandt is a Belgian former volleyball player and current free agent coach. He last coached for Igtisadchi Baku for 2010-11 season. Wikipedia",
@@ -112,14 +120,6 @@
                 "Belgium"
             ],
             "People also search for": []
-        },
-        "Violet Duca": {
-            "label": "Violet Duca",
-            "description": "Violet Kostanda Duca is a Turkish former volleyball player and current Fenerbahçe Acıbadem manager. She is Greek descent. Her father Hristo Kostanda is a former footballer and played for Beşiktaş JK. She played 120 times for national team. . Wikipedia",
-            "type": "",
-            "Born ": [
-                "Turkey"
-            ]
         },
         "Pete Waite": {
             "label": "Pete Waite",
@@ -131,16 +131,6 @@
             "Education ": [
                 "Ball State University",
                 " Monona Grove High School"
-            ],
-            "People also search for": []
-        },
-        "Arnie Ball": {
-            "label": "Arnie Ball",
-            "description": "Armond J. \"Arnie\" Ball began his 30th season in 2010 as the head coach of the IPFW Men's Mastodon volleyball program. Coach Ball has established a legacy on the courts of both the Mastodons and the national scenes. Wikipedia",
-            "type": "Coach",
-            "Born ": "November 12, 1944 (age 69), United States of America",
-            "Education ": [
-                "Ball State University"
             ],
             "People also search for": []
         },
@@ -171,6 +161,16 @@
             ],
             "People also search for": []
         },
+        "Arnie Ball": {
+            "label": "Arnie Ball",
+            "description": "Armond J. \"Arnie\" Ball began his 30th season in 2010 as the head coach of the IPFW Men's Mastodon volleyball program. Coach Ball has established a legacy on the courts of both the Mastodons and the national scenes. Wikipedia",
+            "type": "Coach",
+            "Born ": "November 12, 1944 (age 69), United States of America",
+            "Education ": [
+                "Ball State University"
+            ],
+            "People also search for": []
+        },
         "Daniele Bagnoli": {
             "label": "Daniele Bagnoli",
             "description": "Daniele Bagnoli is an Italian volleyball coach of Iran powerhouse Matin Varamin VC.He was assistant coach for Italy men's national volleyball team and coached Russia men's national volleyball team. Wikipedia",
@@ -187,16 +187,27 @@
         }
     },
     "summary": {
-        "label": 18,
-        "description": 18,
-        "type": 18,
+        "label": {
+            "uri": "http://www.w3.org/2000/01/rdf-schema#label",
+            "count": 18
+        },
+        "description": {
+            "uri": "http://purl.org/dc/elements/1.1/description",
+            "count": 18
+        },
+        "type": {
+            "uri": "http://dbpedia.org/property/type",
+            "count": 18
+        }
+    },
+    "infoboxless": [],
+    "Unmapped_Properties": {
         "born": 1,
+        "peopleAlsoSearchFor": 1,
         "education": 1,
-        "people_also_search_for": 1,
         "spouse": 1,
         "children": 1,
         "books": 1,
         "died": 1
-    },
-    "infoboxless": []
+    }
 }

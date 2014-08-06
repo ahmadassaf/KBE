@@ -84,6 +84,17 @@
                 "Genus"
             ]
         },
+        "Andesaurus": {
+            "label": "Andesaurus",
+            "description": "Andesaurus is a genus of basal titanosaurian sauropod dinosaur which existed during the middle of the Cretaceous Period in South America. Like most sauropods, it would have had a small head on the end of a long neck and an equally long tail. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Andesaurus delgadoi"
+            ],
+            "Rank ": [
+                "Genus"
+            ]
+        },
         "Amphisbaenia": {
             "label": "Amphisbaenia",
             "description": "Amphisbaenia is a group of usually legless squamates, comprising over 180 extant species. Amphisbaenians are characterized by long bodies, reduction or loss of the limbs, and rudimentary eyes. Wikipedia",
@@ -100,17 +111,6 @@
             "Lower classifications ": [
                 "Trogonophidae",
                 " Amphisbaenidae"
-            ]
-        },
-        "Andesaurus": {
-            "label": "Andesaurus",
-            "description": "Andesaurus is a genus of basal titanosaurian sauropod dinosaur which existed during the middle of the Cretaceous Period in South America. Like most sauropods, it would have had a small head on the end of a long neck and an equally long tail. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Andesaurus delgadoi"
-            ],
-            "Rank ": [
-                "Genus"
             ]
         },
         "Angonoka tortoise": {
@@ -236,23 +236,6 @@
                 "Baurutitan britoi"
             ]
         },
-        "Bitis arietans": {
-            "label": "Bitis arietans",
-            "description": "Bitis arietans is a venomous viper species found in savannah and grasslands from Morocco and western Arabia throughout Africa except for the Sahara and rain forest regions. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Bitis arietans"
-            ],
-            "Higher classification ": [
-                "Bitis"
-            ],
-            "Rank ": [
-                "Species"
-            ],
-            "Lower classifications ": [
-                "Bitis arietans somalica"
-            ]
-        },
         "Beauty rat snake": {
             "label": "Beauty rat snake",
             "description": "The beauty rat snake, also known as the cave racer, is a species of long, slender, semi-arboreal snake that is native to East and Southeast Asia. Several subspecies are recognized. Wikipedia",
@@ -270,6 +253,23 @@
             "type": "Dinosaur taxon",
             "Rank ": [
                 "Genus"
+            ]
+        },
+        "Bitis arietans": {
+            "label": "Bitis arietans",
+            "description": "Bitis arietans is a venomous viper species found in savannah and grasslands from Morocco and western Arabia throughout Africa except for the Sahara and rain forest regions. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Bitis arietans"
+            ],
+            "Higher classification ": [
+                "Bitis"
+            ],
+            "Rank ": [
+                "Species"
+            ],
+            "Lower classifications ": [
+                "Bitis arietans somalica"
             ]
         },
         "Bitis gabonica": {
@@ -304,20 +304,6 @@
                 "Bitis"
             ]
         },
-        "Bog turtle": {
-            "label": "Bog turtle",
-            "description": "The bog turtle is a semiaquatic turtle endemic to the eastern United States. It was first scientifically described in 1801 after an 18th-century survey of Pennsylvania. Wikipedia",
-            "type": "Reptile",
-            "Scientific name ": [
-                "Glyptemys muhlenbergii"
-            ],
-            "Rank ": [
-                "Species"
-            ],
-            "Higher classification ": [
-                "Glyptemys"
-            ]
-        },
         "Bitis schneideri": {
             "label": "Bitis schneideri",
             "description": "Bitis schneideri is a venomous viper species found in a small coastal region that straddles the border between Namibia and South Africa. This is the smallest species in the genus Bitis and possibly the world's smallest viperid. Wikipedia",
@@ -330,6 +316,20 @@
             ],
             "Higher classification ": [
                 "Bitis"
+            ]
+        },
+        "Bog turtle": {
+            "label": "Bog turtle",
+            "description": "The bog turtle is a semiaquatic turtle endemic to the eastern United States. It was first scientifically described in 1801 after an 18th-century survey of Pennsylvania. Wikipedia",
+            "type": "Reptile",
+            "Scientific name ": [
+                "Glyptemys muhlenbergii"
+            ],
+            "Rank ": [
+                "Species"
+            ],
+            "Higher classification ": [
+                "Glyptemys"
             ]
         },
         "Boiga dendrophila": {
@@ -360,12 +360,6 @@
                 "Gopherus"
             ]
         },
-        "Box turtle": {
-            "label": "Box turtle",
-            "description": "The box turtle is a genus of turtle native to North America. It is also known as the box tortoise, although box turtles are terrestrial members of the American pond turtle family, and not members of the tortoise family. Wikipedia",
-            "type": "",
-            "See results about": []
-        },
         "Boomslang": {
             "label": "Boomslang",
             "description": "The boomslang is a large, venomous snake in the family Colubridae. Wikipedia",
@@ -373,6 +367,12 @@
             "Scientific name ": [
                 "Dispholidus typus"
             ],
+            "See results about": []
+        },
+        "Box turtle": {
+            "label": "Box turtle",
+            "description": "The box turtle is a genus of turtle native to North America. It is also known as the box tortoise, although box turtles are terrestrial members of the American pond turtle family, and not members of the tortoise family. Wikipedia",
+            "type": "",
             "See results about": []
         },
         "Brachauchenius": {
@@ -585,20 +585,6 @@
                 "Platysaurus"
             ]
         },
-        "Crocodylus novaeguinae": {
-            "label": "Crocodylus novaeguineae",
-            "description": "The New Guinea crocodile is a small species of crocodile found on the island of New Guinea where there are two geographically isolated populations. Wikipedia",
-            "type": "Reptile",
-            "Scientific name ": [
-                "Crocodylus novaeguineae"
-            ],
-            "Rank ": [
-                "Species"
-            ],
-            "Higher classification ": [
-                "Crocodylus"
-            ]
-        },
         "Corn snake": {
             "label": "Corn snake",
             "description": "The Red Cornsnake, corn snake, or red rat snake, is a North American species of rat snake that subdues its small prey by constriction. Wikipedia",
@@ -658,20 +644,6 @@
                 " Crotalus ruber lorenzoensis"
             ]
         },
-        "Ctenosaura bakeri": {
-            "label": "Ctenosaura bakeri",
-            "description": "Ctenosaura bakeri, also known as the Utila iguana, Baker's spinytail iguana, swamper or wishiwilly del suampo, is a critically endangered species of spinytail iguana endemic to the island of Utila, one ... Wikipedia",
-            "type": "Reptile",
-            "Scientific name ": [
-                "Ctenosaura bakeri"
-            ],
-            "Rank ": [
-                "Species"
-            ],
-            "Higher classification ": [
-                "Ctenosaura"
-            ]
-        },
         "Ctenosaura": {
             "label": "Ctenosaura",
             "description": "Ctenosaura is a lizard genus commonly known as spinytail iguanas or Ctenosaurs. The genus is part of the large lizard family, Iguanidae and is native to Mexico and Central America. Wikipedia",
@@ -702,6 +674,20 @@
                 " Ctenosaura similisMore"
             ],
             "See results about": []
+        },
+        "Ctenosaura bakeri": {
+            "label": "Ctenosaura bakeri",
+            "description": "Ctenosaura bakeri, also known as the Utila iguana, Baker's spinytail iguana, swamper or wishiwilly del suampo, is a critically endangered species of spinytail iguana endemic to the island of Utila, one ... Wikipedia",
+            "type": "Reptile",
+            "Scientific name ": [
+                "Ctenosaura bakeri"
+            ],
+            "Rank ": [
+                "Species"
+            ],
+            "Higher classification ": [
+                "Ctenosaura"
+            ]
         },
         "Cyclanorbis": {
             "label": "Cyclanorbis",
@@ -784,23 +770,6 @@
             "description": "Diabloceratops [dee-ab-lo-ser-a-tops] is an extinct genus of centrosaurine ceratopsian dinosaur that lived approximately 79 million years ago during the latter part of the Cretaceous Period in what is now Utah, in the United States. Wikipedia",
             "type": ""
         },
-        "Diamondback terrapin": {
-            "label": "Diamondback terrapin",
-            "description": "The diamondback terrapin or simply terrapin, is a species of turtle native to the brackish coastal swamps of the eastern and southern United States. It belongs to the monotypic genus, Malaclemys. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Malaclemys terrapin"
-            ],
-            "Rank ": [
-                "Species"
-            ],
-            "Higher classification ": [
-                "Malaclemys"
-            ],
-            "Symbol of ": [
-                "Maryland"
-            ]
-        },
         "Dibamidae": {
             "label": "Dibamidae",
             "description": "Dibamidae is a family of legless lizards found in tropical forests. Relatively little is known about the dibamid lizards, which are native to Mexico, Southeast Asia, Indonesia, the Philippine Islands, and western New Guinea. Wikipedia",
@@ -818,6 +787,37 @@
                 "Dibamus"
             ]
         },
+        "Crocodylus novaeguinae": {
+            "label": "Crocodylus novaeguineae",
+            "description": "The New Guinea crocodile is a small species of crocodile found on the island of New Guinea where there are two geographically isolated populations. Wikipedia",
+            "type": "Reptile",
+            "Scientific name ": [
+                "Crocodylus novaeguineae"
+            ],
+            "Rank ": [
+                "Species"
+            ],
+            "Higher classification ": [
+                "Crocodylus"
+            ]
+        },
+        "Diamondback terrapin": {
+            "label": "Diamondback terrapin",
+            "description": "The diamondback terrapin or simply terrapin, is a species of turtle native to the brackish coastal swamps of the eastern and southern United States. It belongs to the monotypic genus, Malaclemys. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Malaclemys terrapin"
+            ],
+            "Rank ": [
+                "Species"
+            ],
+            "Higher classification ": [
+                "Malaclemys"
+            ],
+            "Symbol of ": [
+                "Maryland"
+            ]
+        },
         "Dice snake": {
             "label": "Dice snake",
             "description": "The dice snake is a European nonvenomous snake belonging to the family Colubridae, subfamily Natricinae. Wikipedia",
@@ -832,6 +832,11 @@
                 "Natrix"
             ]
         },
+        "Dinilysia": {
+            "label": "Dinilysia",
+            "description": "Dinilysia is an extinct genus of snake from the Late Cretaceous of South America. The snake reached a length of 6-10 feet and preyed on smaller animals. Wikipedia",
+            "type": ""
+        },
         "Draco volans": {
             "label": "Draco volans",
             "description": "Draco volans, commonly known as the flying dragon, is a species of lizard endemic to Southeast Asia.\nIt is a member of the genus of gliding lizards Draco. Wikipedia",
@@ -840,10 +845,34 @@
                 "Draco volans"
             ]
         },
-        "Dinilysia": {
-            "label": "Dinilysia",
-            "description": "Dinilysia is an extinct genus of snake from the Late Cretaceous of South America. The snake reached a length of 6-10 feet and preyed on smaller animals. Wikipedia",
+        "Dracopelta": {
+            "label": "Dracopelta",
+            "description": "Dracopelta was an ankylosaurian dinosaur from Portugal, described by Peter Galton in 1980. When Galton described the only known specimen, he referred it to the Kimmeridgian age of the locality of Ribamar. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Dracopelta zbyszewskii"
+            ]
+        },
+        "Drusilasaura": {
+            "label": "Drusilasaura",
+            "description": "Drusilasaura is an extinct genus of possible lognkosaurian titanosaur sauropod dinosaur which lived during the late Cretaceous of Santa Cruz Province of southern Patagonia, Argentina. Wikipedia",
             "type": ""
+        },
+        "Eileanchelys": {
+            "label": "Eileanchelys",
+            "description": "Eileanchelys is an extinct genus of primitive turtle from the Middle Jurassic period some 164 million years ago of Britain. Only one species is recorded, Eileanchelys waldmani. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Eileanchelys waldmani"
+            ]
+        },
+        "Euskelosaurus": {
+            "label": "Euskelosaurus",
+            "description": "Euskelosaurus was a semi-bipedal dinosaur from the Late Triassic. It was a prosauropod that lived in the Late Triassic Period, in present-day South Africa, Lesotho, and Zimbabwe. Wikipedia",
+            "type": "Dinosaur taxon",
+            "Scientific name ": [
+                "Euskelosaurus browni"
+            ]
         },
         "False map turtle": {
             "label": "False map turtle",
@@ -855,19 +884,6 @@
             "Rank ": [
                 "Species"
             ]
-        },
-        "Euskelosaurus": {
-            "label": "Euskelosaurus",
-            "description": "Euskelosaurus was a semi-bipedal dinosaur from the Late Triassic. It was a prosauropod that lived in the Late Triassic Period, in present-day South Africa, Lesotho, and Zimbabwe. Wikipedia",
-            "type": "Dinosaur taxon",
-            "Scientific name ": [
-                "Euskelosaurus browni"
-            ]
-        },
-        "Drusilasaura": {
-            "label": "Drusilasaura",
-            "description": "Drusilasaura is an extinct genus of possible lognkosaurian titanosaur sauropod dinosaur which lived during the late Cretaceous of Santa Cruz Province of southern Patagonia, Argentina. Wikipedia",
-            "type": ""
         },
         "Ferganasaurus": {
             "label": "Ferganasaurus",
@@ -883,20 +899,6 @@
             "type": "",
             "Scientific name ": [
                 "Natator depressus"
-            ]
-        },
-        "Florida box turtle": {
-            "label": "Florida box turtle",
-            "description": "The Florida box turtle is a subspecies of turtle belonging to the family Emydidae. Wikipedia",
-            "type": "Reptile",
-            "Scientific name ": [
-                "Terrapene carolina bauri"
-            ],
-            "Rank ": [
-                "Subspecies"
-            ],
-            "Higher classification ": [
-                "Common box turtle"
             ]
         },
         "Forest hinge-back tortoise": {
@@ -927,27 +929,11 @@
                 "Indotestudo"
             ]
         },
-        "Gallardosaurus": {
-            "label": "Gallardosaurus",
-            "description": "Gallardosaurus is a genus of pliosaurid plesiosaur from the Caribbean seaway. It contains the single species Gallardosaurus iturraldei. Gallardosaurus was found in middle-late Oxfordian-age rocks of the Jagua Formation of western Cuba. Wikipedia",
-            "type": "",
-            "Rank ": [
-                "Genus"
-            ]
-        },
         "Gekkoninae": {
             "label": "Gekkoninae",
             "description": "Gekkoninae is a diverse subfamily of Gekkonidae, geckos. It has the most species and genera— over 850 species in 75 genera. Hemidactylus, Cyrtodactylus and Sphaerodactylus alone account for 280 species. Wikipedia",
             "type": "",
             "See results about": []
-        },
-        "Genyodectes": {
-            "label": "Genyodectes",
-            "description": "Genyodectes is a genus of ceratosaurian theropod dinosaur from the Lower Cretaceous of South America. Wikipedia",
-            "type": "",
-            "Rank ": [
-                "Genus"
-            ]
         },
         "Geochelone": {
             "label": "Geochelone",
@@ -977,6 +963,14 @@
             ],
             "See results about": []
         },
+        "Genyodectes": {
+            "label": "Genyodectes",
+            "description": "Genyodectes is a genus of ceratosaurian theropod dinosaur from the Lower Cretaceous of South America. Wikipedia",
+            "type": "",
+            "Rank ": [
+                "Genus"
+            ]
+        },
         "Geoemydidae": {
             "label": "Geoemydidae",
             "description": "The Geoemydidae are the largest and most diverse family in the order Testudines, with about 70 species. The family includes the Eurasian pond and river turtles and Neotropical wood turtles. Wikipedia",
@@ -996,6 +990,11 @@
                 "Psammobates"
             ]
         },
+        "Geosaurus": {
+            "label": "Geosaurus",
+            "description": "Geosaurus is an extinct genus of marine crocodyliform within the family Metriorhynchidae that lived during the Late Jurassic to the Early Cretaceous. Geosaurus was a carnivore that spent much, if not all, its life out at sea. Wikipedia",
+            "type": ""
+        },
         "Gigantophis": {
             "label": "Gigantophis",
             "description": "Gigantophis garstini was a giant prehistoric snake which may have measured more than 10 metres, larger than any living species of snake. Before Titanoboa was discovered in Colombia in 2002, it was regarded as the largest snake in history. Wikipedia",
@@ -1003,11 +1002,6 @@
             "Scientific name ": [
                 "Gigantophis garstini"
             ]
-        },
-        "Geosaurus": {
-            "label": "Geosaurus",
-            "description": "Geosaurus is an extinct genus of marine crocodyliform within the family Metriorhynchidae that lived during the Late Jurassic to the Early Cretaceous. Geosaurus was a carnivore that spent much, if not all, its life out at sea. Wikipedia",
-            "type": ""
         },
         "Glyptemys": {
             "label": "Glyptemys",
@@ -1050,6 +1044,14 @@
                 "Species"
             ]
         },
+        "Gongxianosaurus": {
+            "label": "Gongxianosaurus",
+            "description": "Gongxianosaurus is a genus of basal sauropod dinosaur from the early Jurassic Period. The only species is Gongxianosaurus shibeiensis. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Gongxianosaurus shibeiensis"
+            ]
+        },
         "Gopher tortoise": {
             "label": "Gopher tortoise",
             "description": "The gopher tortoise is a species of the Gopherus genus native to the southeastern United States. The gopher tortoise is seen as a keystone species because it digs burrows that provide shelter for 360 other animal species. Wikipedia",
@@ -1064,19 +1066,28 @@
                 "Species"
             ]
         },
-        "Gongxianosaurus": {
-            "label": "Gongxianosaurus",
-            "description": "Gongxianosaurus is a genus of basal sauropod dinosaur from the early Jurassic Period. The only species is Gongxianosaurus shibeiensis. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Gongxianosaurus shibeiensis"
-            ]
-        },
         "Gorgonops": {
             "label": "Gorgonops",
             "description": "Gorgonops is an extinct genus of therapsid which lived about 260-254 million years ago, during the Late Permian. Wikipedia",
             "type": "",
             "See results about": []
+        },
+        "Graptemys": {
+            "label": "Graptemys",
+            "description": "Graptemys is a genus of aquatic, freshwater turtles known commonly as map turtles or sometimes sawback turtles, endemic to North America. Wikipedia",
+            "type": "",
+            "Rank ": [
+                "Genus"
+            ],
+            "See results about": []
+        },
+        "Gallardosaurus": {
+            "label": "Gallardosaurus",
+            "description": "Gallardosaurus is a genus of pliosaurid plesiosaur from the Caribbean seaway. It contains the single species Gallardosaurus iturraldei. Gallardosaurus was found in middle-late Oxfordian-age rocks of the Jagua Formation of western Cuba. Wikipedia",
+            "type": "",
+            "Rank ": [
+                "Genus"
+            ]
         },
         "Greater short-horned lizard": {
             "label": "Greater short-horned lizard",
@@ -1094,15 +1105,6 @@
             "Symbol of ": [
                 "Wyoming"
             ]
-        },
-        "Graptemys": {
-            "label": "Graptemys",
-            "description": "Graptemys is a genus of aquatic, freshwater turtles known commonly as map turtles or sometimes sawback turtles, endemic to North America. Wikipedia",
-            "type": "",
-            "Rank ": [
-                "Genus"
-            ],
-            "See results about": []
         },
         "Gryposaurus": {
             "label": "Gryposaurus",
@@ -1129,6 +1131,20 @@
                 "Species"
             ]
         },
+        "Florida box turtle": {
+            "label": "Florida box turtle",
+            "description": "The Florida box turtle is a subspecies of turtle belonging to the family Emydidae. Wikipedia",
+            "type": "Reptile",
+            "Scientific name ": [
+                "Terrapene carolina bauri"
+            ],
+            "Rank ": [
+                "Subspecies"
+            ],
+            "Higher classification ": [
+                "Common box turtle"
+            ]
+        },
         "Homopholis fasciata": {
             "label": "Homopholis fasciata",
             "description": "Homopholis fasciata is a small gecko that lives in East Africa. Wikipedia",
@@ -1136,41 +1152,42 @@
             "Scientific name ": [
                 "Homopholis fasciata"
             ]
-        },
-        "Eileanchelys": {
-            "label": "Eileanchelys",
-            "description": "Eileanchelys is an extinct genus of primitive turtle from the Middle Jurassic period some 164 million years ago of Britain. Only one species is recorded, Eileanchelys waldmani. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Eileanchelys waldmani"
-            ]
-        },
-        "Dracopelta": {
-            "label": "Dracopelta",
-            "description": "Dracopelta was an ankylosaurian dinosaur from Portugal, described by Peter Galton in 1980. When Galton described the only known specimen, he referred it to the Kimmeridgian age of the locality of Ribamar. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Dracopelta zbyszewskii"
-            ]
         }
     },
     "summary": {
-        "label": 97,
-        "description": 97,
-        "type": 97,
-        "scientific_name": 1,
-        "rank": 1,
-        "higher_classification": 1,
-        "lower_classifications": 1,
-        "see_results_about": 1,
-        "lifespan": 1,
-        "breeds": 1,
-        "length": 1,
-        "symbol_of": 1
+        "label": {
+            "uri": "http://www.w3.org/2000/01/rdf-schema#label",
+            "count": 97
+        },
+        "description": {
+            "uri": "http://dbpedia.org/property/description",
+            "count": 97
+        },
+        "type": {
+            "uri": "http://dbpedia.org/property/type",
+            "count": 97
+        },
+        "scientificName": {
+            "uri": "http://dbpedia.org/property/scientificName",
+            "count": 71
+        },
+        "length": {
+            "uri": "http://dbpedia.org/property/length",
+            "count": 1
+        }
     },
     "infoboxless": [
         "Craspedodon",
         "Gamerabaena",
         "Glishades"
-    ]
+    ],
+    "Unmapped_Properties": {
+        "rank": 1,
+        "higherClassification": 1,
+        "lowerClassifications": 1,
+        "seeResultsAbout": 1,
+        "lifespan": 1,
+        "breeds": 1,
+        "symbolOf": 1
+    }
 }

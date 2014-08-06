@@ -14,12 +14,6 @@
             "description": "Harecastle Tunnel is a canal tunnel on the Trent and Mersey Canal at Kidsgrove in Staffordshire. It is made up of two separate, parallel, tunnels described as Brindley and the later Telford after the engineers that constructed them. Wikipedia",
             "type": ""
         },
-        "Standedge Tunnels": {
-            "label": "Standedge Tunnels",
-            "description": "The Standedge Tunnels are four parallel tunnels beneath the Pennines in northern England. Three are railway tunnels and the other a canal tunnel, located at the Standedge crossing point between Marsden ... Wikipedia",
-            "type": "",
-            "People also search for": []
-        },
         "Greywell Tunnel": {
             "label": "Greywell Tunnel",
             "description": "The Greywell Tunnel is a 0.6 hectare biological Site of Special Scientific Interest in Hampshire, England, notified in 1985. When opened in 1794 it was the longest tunnel on the Basingstoke Canal. It was closed due to a roof fall in 1932. Wikipedia",
@@ -29,6 +23,12 @@
             "label": "Chirk Tunnel",
             "description": "Chirk Tunnel is a canal tunnel near Chirk, Wales.\nIt lies on the Llangollen Canal, immediately northwards of the Chirk Aqueduct. It is 421 metres long and has a complete towpath inside. Wikipedia",
             "type": ""
+        },
+        "Standedge Tunnels": {
+            "label": "Standedge Tunnels",
+            "description": "The Standedge Tunnels are four parallel tunnels beneath the Pennines in northern England. Three are railway tunnels and the other a canal tunnel, located at the Standedge crossing point between Marsden ... Wikipedia",
+            "type": "",
+            "People also search for": []
         },
         "Blisworth Tunnel": {
             "label": "Blisworth Tunnel",
@@ -70,6 +70,11 @@
             "description": "Shrewley Tunnel is a canal tunnel near Shrewley, Warwickshire, England, which opened in 1799. It became part of the Grand Union Canal in 1929. Wikipedia",
             "type": ""
         },
+        "Braunston Tunnel": {
+            "label": "Braunston Tunnel",
+            "description": "Braunston Tunnel is situated on the Grand Union Canal about 830 yds east of Braunston, Northamptonshire, England top lock.\nBraunston Tunnel is 2,042 yards in length. Wikipedia",
+            "type": ""
+        },
         "Sapperton Canal Tunnel": {
             "label": "Sapperton Canal Tunnel",
             "description": "The Sapperton Canal Tunnel is a tunnel on the Thames and Severn Canal near Cirencester in Gloucestershire, England. With a length of 3,817 yards it was the longest canal tunnel, and the longest tunnel of any kind, in England from 1789 to 1811. Wikipedia",
@@ -78,11 +83,6 @@
         "Berwick Tunnel": {
             "label": "Berwick Tunnel",
             "description": "Berwick Tunnel is a canal tunnel located on the Shrewsbury Canal, Shropshire, England, UK. Wikipedia",
-            "type": ""
-        },
-        "Braunston Tunnel": {
-            "label": "Braunston Tunnel",
-            "description": "Braunston Tunnel is situated on the Grand Union Canal about 830 yds east of Braunston, Northamptonshire, England top lock.\nBraunston Tunnel is 2,042 yards in length. Wikipedia",
             "type": ""
         },
         "Butterley Tunnel": {
@@ -102,15 +102,26 @@
         }
     },
     "summary": {
-        "label": 17,
-        "description": 17,
-        "type": 17,
-        "opened": 1,
-        "people_also_search_for": 1,
-        "see_results_about": 1
+        "label": {
+            "uri": "http://www.w3.org/2000/01/rdf-schema#label",
+            "count": 17
+        },
+        "description": {
+            "uri": "http://fr.dbpedia.org/ontology/abstract",
+            "count": 17
+        },
+        "type": {
+            "uri": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+            "count": 17
+        }
     },
     "infoboxless": [
         "Dudley Tunnel",
         "Pennsylvania Canal Tunnel"
-    ]
+    ],
+    "Unmapped_Properties": {
+        "opened": 1,
+        "peopleAlsoSearchFor": 1,
+        "seeResultsAbout": 1
+    }
 }

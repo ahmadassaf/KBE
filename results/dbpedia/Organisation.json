@@ -8,12 +8,6 @@
                 "1968"
             ]
         },
-        "École nationale de l'aviation civile": {
-            "label": "École nationale de l'aviation civile",
-            "description": "The École Nationale de l'Aviation Civile is a French grande école created on 28 August 1949 to provide initial and continuing education in the field of civil aviation. Wikipedia",
-            "type": "",
-            "People also search for": []
-        },
         "École centrale Paris": {
             "label": "École Centrale Paris",
             "description": "École centrale Paris is a French university-level institution in the field of engineering. It is also known by its original name École centrale des arts et manufactures, or ECP. Wikipedia",
@@ -54,9 +48,9 @@
                 "1919"
             ]
         },
-        "Üstra": {
-            "label": "Üstra Hannoversche Verkehrsbetriebe AG",
-            "description": "",
+        "École nationale de l'aviation civile": {
+            "label": "École nationale de l'aviation civile",
+            "description": "The École Nationale de l'Aviation Civile is a French grande école created on 28 August 1949 to provide initial and continuing education in the field of civil aviation. Wikipedia",
             "type": "",
             "People also search for": []
         },
@@ -93,6 +87,12 @@
                 "1977"
             ]
         },
+        "Üstra": {
+            "label": "Üstra Hannoversche Verkehrsbetriebe AG",
+            "description": "",
+            "type": "",
+            "People also search for": []
+        },
         "ČEZ Basketball Nymburk": {
             "label": "ČEZ Basketball Nymburk",
             "description": "ČEZ Basketball Nymburk is a professional basketball team that plays in the top professional Czech basketball league, the NBL. The team is based in the town of Nymburk. The club's main sponsor is ČEZ, a Czech energy company. Wikipedia",
@@ -121,17 +121,17 @@
             "type": "",
             "People also search for": []
         },
-        "1. FC Pforzheim": {
-            "label": "1. FC Pforzheim",
-            "description": "1. FC Pforzheim was a German association football club playing in Pforzheim, Baden-Württemberg. The club was established on 5 May 1896 and was a founding member of the German Football Association in Leipzig in 1900. Wikipedia",
-            "type": "",
-            "Founded ": "May 5, 1896"
-        },
         "1. FC Heidenheim": {
             "label": "1. FC Heidenheim",
             "description": "1. FC Heidenheim 1846 is a German association football club from the city of Heidenheim, Baden-Württemberg. Wikipedia",
             "type": "",
             "Founded ": "August 14, 1846"
+        },
+        "1. FC Pforzheim": {
+            "label": "1. FC Pforzheim",
+            "description": "1. FC Pforzheim was a German association football club playing in Pforzheim, Baden-Württemberg. The club was established on 5 May 1896 and was a founding member of the German Football Association in Leipzig in 1900. Wikipedia",
+            "type": "",
+            "Founded ": "May 5, 1896"
         },
         "1. FC Schwalmstadt": {
             "label": "1. FC Schwalmstadt",
@@ -144,6 +144,11 @@
             "description": "1. FFC 08 Niederkirchen is a German women's football club based in Niederkirchen, Rhineland-Palatinate. The team was founded in 2008 as the descendant of TuS Niederkirchen, a former national champion. The team currently plays in the German 2. Wikipedia",
             "type": "",
             "Founded ": "April 25, 2008"
+        },
+        "1. HFC Humenné": {
+            "label": "1. Hfc Humenné",
+            "description": "",
+            "type": ""
         },
         "12 Stones": {
             "label": "12 Stones",
@@ -171,11 +176,6 @@
             ],
             "Songs": [],
             "Upcoming events": []
-        },
-        "1. HFC Humenné": {
-            "label": "1. Hfc Humenné",
-            "description": "",
-            "type": ""
         },
         "20 Fingers": {
             "label": "20 Fingers",
@@ -224,6 +224,28 @@
             ],
             "Albums": []
         },
+        "2nd Chapter of Acts": {
+            "label": "2nd Chapter of Acts",
+            "description": "The 2nd Chapter of Acts was a Jesus Music and early Contemporary Christian Music group composed of sisters Annie Herring and Nelly Greisen and brother Matthew Ward. Wikipedia",
+            "type": "",
+            "Active from ": [
+                "1972"
+            ],
+            "Origin ": [
+                "California",
+                " United States"
+            ],
+            "Members ": [
+                "Annie Herring",
+                " Matthew Ward"
+            ],
+            "Record labels ": [
+                "Sparrow Records",
+                " Myrrh Records"
+            ],
+            "Songs": [],
+            "Albums": []
+        },
         "311 (band)": {
             "label": "311",
             "description": "311 is an American rock band from Omaha, Nebraska. The band was formed in 1988 by vocalist/guitarist Nick Hexum, lead guitarist Jim Watson, bassist Aaron \"P-Nut\" Wills and drummer Chad Sexton. Wikipedia",
@@ -250,93 +272,6 @@
                 " ATO Records",
                 " Capricorn Records",
                 " MapleMusic RecordingsMore"
-            ],
-            "Songs": [],
-            "Upcoming events": []
-        },
-        "2nd Chapter of Acts": {
-            "label": "2nd Chapter of Acts",
-            "description": "The 2nd Chapter of Acts was a Jesus Music and early Contemporary Christian Music group composed of sisters Annie Herring and Nelly Greisen and brother Matthew Ward. Wikipedia",
-            "type": "",
-            "Active from ": [
-                "1972"
-            ],
-            "Origin ": [
-                "California",
-                " United States"
-            ],
-            "Members ": [
-                "Annie Herring",
-                " Matthew Ward"
-            ],
-            "Record labels ": [
-                "Sparrow Records",
-                " Myrrh Records"
-            ],
-            "Songs": [],
-            "Albums": []
-        },
-        "702 (band)": {
-            "label": "702",
-            "description": "702, named after the area code of their hometown of Las Vegas, Nevada, was an American platinum-selling R&B trio. Wikipedia",
-            "type": "Musical Group",
-            "Origin ": [
-                "Las Vegas",
-                " Nevada",
-                " United States"
-            ],
-            "Members ": [
-                "Irish Grinstead",
-                " Kameelah Williams",
-                " LeMisha Grinstead",
-                " Cree Lamore",
-                " Orish Grinstead",
-                " Amelia Childs"
-            ],
-            "Albums ": [
-                "No Doubt",
-                " 702"
-            ],
-            "Record labels ": [
-                "Motown Records",
-                " Biv 10 Records"
-            ],
-            "Nominations ": [
-                "BET Award for Best Female Group",
-                " American Music Award for Favorite Soul/R&B New Artist"
-            ],
-            "Songs": []
-        },
-        "3 Doors Down": {
-            "label": "3 Doors Down",
-            "description": "3 Doors Down is an American rock band from Escatawpa, Mississippi who formed in 1996. The band originally consisted of Brad Arnold, Todd Harrell and Matt Roberts. Wikipedia",
-            "type": "",
-            "Lead singer ": [
-                "Brad Arnold (1996–)"
-            ],
-            "Origin ": [
-                "Escatawpa",
-                " Mississippi",
-                " United States"
-            ],
-            "Members ": [
-                "Brad Arnold",
-                " Greg Upchurch",
-                " Chet Roberts",
-                " Chris Henderson",
-                " Justin Biltonen",
-                " Todd Harrell",
-                " Daniel Adair",
-                " Richard Liles",
-                " Matt RobertsMore"
-            ],
-            "Awards ": [
-                "Billboard Music Award for Top Rock Song",
-                " Billboard Music Award for Top Duo/Group",
-                " American Music Award for Favorite Pop/Rock New Artist",
-                " Billboard Music Award for Hot 100 Artist Duo/Group of the Year",
-                " Billboard Music Award for New Group Artist of the Year",
-                " Billboard Music Award for Modern Rock Track of the YearMore"
             ],
             "Songs": [],
             "Upcoming events": []
@@ -382,19 +317,39 @@
             "Songs": [],
             "Upcoming events": []
         },
-        "7 Walkers": {
-            "label": "7 Walkers",
-            "description": "7 Walkers are an American rock band featuring former Grateful Dead drummer Bill Kreutzmann, guitarist Papa Mali, multi-instrumentalist Matt Hubbard and bassist George Porter, Jr. Wikipedia",
+        "3 Doors Down": {
+            "label": "3 Doors Down",
+            "description": "3 Doors Down is an American rock band from Escatawpa, Mississippi who formed in 1996. The band originally consisted of Brad Arnold, Todd Harrell and Matt Roberts. Wikipedia",
             "type": "",
+            "Lead singer ": [
+                "Brad Arnold (1996–)"
+            ],
             "Origin ": [
-                "United States of America"
+                "Escatawpa",
+                " Mississippi",
+                " United States"
             ],
-            "Albums ": [
-                "7 Walkers",
-                " Down on the Bayou II Live Jam from New Orleans"
+            "Members ": [
+                "Brad Arnold",
+                " Greg Upchurch",
+                " Chet Roberts",
+                " Chris Henderson",
+                " Justin Biltonen",
+                " Todd Harrell",
+                " Daniel Adair",
+                " Richard Liles",
+                " Matt RobertsMore"
             ],
-            "Members": [],
-            "People also search for": []
+            "Awards ": [
+                "Billboard Music Award for Top Rock Song",
+                " Billboard Music Award for Top Duo/Group",
+                " American Music Award for Favorite Pop/Rock New Artist",
+                " Billboard Music Award for Hot 100 Artist Duo/Group of the Year",
+                " Billboard Music Award for New Group Artist of the Year",
+                " Billboard Music Award for Modern Rock Track of the YearMore"
+            ],
+            "Songs": [],
+            "Upcoming events": []
         },
         "3 Inches of Blood": {
             "label": "3 Inches of Blood",
@@ -421,6 +376,51 @@
                 " Roadrunner Records"
             ],
             "Albums": []
+        },
+        "702 (band)": {
+            "label": "702",
+            "description": "702, named after the area code of their hometown of Las Vegas, Nevada, was an American platinum-selling R&B trio. Wikipedia",
+            "type": "Musical Group",
+            "Origin ": [
+                "Las Vegas",
+                " Nevada",
+                " United States"
+            ],
+            "Members ": [
+                "Irish Grinstead",
+                " Kameelah Williams",
+                " LeMisha Grinstead",
+                " Cree Lamore",
+                " Orish Grinstead",
+                " Amelia Childs"
+            ],
+            "Albums ": [
+                "No Doubt",
+                " 702"
+            ],
+            "Record labels ": [
+                "Motown Records",
+                " Biv 10 Records"
+            ],
+            "Nominations ": [
+                "BET Award for Best Female Group",
+                " American Music Award for Favorite Soul/R&B New Artist"
+            ],
+            "Songs": []
+        },
+        "7 Walkers": {
+            "label": "7 Walkers",
+            "description": "7 Walkers are an American rock band featuring former Grateful Dead drummer Bill Kreutzmann, guitarist Papa Mali, multi-instrumentalist Matt Hubbard and bassist George Porter, Jr. Wikipedia",
+            "type": "",
+            "Origin ": [
+                "United States of America"
+            ],
+            "Albums ": [
+                "7 Walkers",
+                " Down on the Bayou II Live Jam from New Orleans"
+            ],
+            "Members": [],
+            "People also search for": []
         },
         "7th Level": {
             "label": "7th Level",
@@ -538,6 +538,26 @@
             "Songs": [],
             "Members": []
         },
+        "ABB Group": {
+            "label": "ABB Ltd",
+            "description": "ABB is a multinational corporation headquartered in Zurich, Switzerland, operating in robotics and mainly in the power and automation technology areas. It ranked 158th in the Forbes Ranking. Wikipedia",
+            "type": "",
+            "Stock price ": [
+                "ABB (NYSE) $24.91 -0.08 (-0.32%)Mar 24",
+                " 400 PM EDT - Disclaimer"
+            ],
+            "Headquarters ": [
+                "Zürich",
+                " Canton of Zurich"
+            ],
+            "CEO ": [
+                "Ulrich Spiesshofer"
+            ],
+            "Founder ": [
+                "Percy Barnevik"
+            ],
+            "Recent posts": []
+        },
         "ABC (band)": {
             "label": "ABC",
             "description": "ABC are an English new wave group that first came to prominence in the early 1980s. Their 1982 debut album, The Lexicon of Love, was a UK number one and they achieved ten UK and five US Top 40 hit singles between 1981 and 1990. Wikipedia",
@@ -570,26 +590,6 @@
             "Songs": [],
             "Albums": []
         },
-        "ABB Group": {
-            "label": "ABB Ltd",
-            "description": "ABB is a multinational corporation headquartered in Zurich, Switzerland, operating in robotics and mainly in the power and automation technology areas. It ranked 158th in the Forbes Ranking. Wikipedia",
-            "type": "",
-            "Stock price ": [
-                "ABB (NYSE) $24.91 -0.08 (-0.32%)Mar 24",
-                " 400 PM EDT - Disclaimer"
-            ],
-            "Headquarters ": [
-                "Zürich",
-                " Canton of Zurich"
-            ],
-            "CEO ": [
-                "Ulrich Spiesshofer"
-            ],
-            "Founder ": [
-                "Percy Barnevik"
-            ],
-            "Recent posts": []
-        },
         "ACF Gloria 1922 Bistriţa": {
             "label": "ACF Gloria Bistrița",
             "description": "Gloria Bistrița is a Romanian professional football club from Bistrița, Bistrița-Năsăud County. Wikipedia",
@@ -600,6 +600,18 @@
             "League ": [
                 "Liga I"
             ]
+        },
+        "AC Arles-Avignon": {
+            "label": "AC Arles-Avignon",
+            "description": "Athlétic Club Arles-Avignon is a French association football club originally based in Arles. The club was founded in 1912 as a result of a merger and was formerly known as Athlétic Club Arles, but in ... Wikipedia",
+            "type": "",
+            "Founded ": [
+                "1913"
+            ],
+            "League ": [
+                "Ligue 2"
+            ],
+            "Roster": []
         },
         "AC Horsens": {
             "label": "AC Horsens",
@@ -628,17 +640,13 @@
             ],
             "See results about": []
         },
-        "AC Arles-Avignon": {
-            "label": "AC Arles-Avignon",
-            "description": "Athlétic Club Arles-Avignon is a French association football club originally based in Arles. The club was founded in 1912 as a result of a merger and was formerly known as Athlétic Club Arles, but in ... Wikipedia",
+        "AFC Progresul Bucureşti": {
+            "label": "FC Progresul București",
+            "description": "Fotbal Club Progresul Bucureşti is a Romanian football club from Bucharest, founded in 1944.\nIt played for 32 seasons in the Liga I, being ranked 15th in the Liga I All-Time Table. Wikipedia",
             "type": "",
             "Founded ": [
-                "1913"
-            ],
-            "League ": [
-                "Ligue 2"
-            ],
-            "Roster": []
+                "1944"
+            ]
         },
         "AGOVV Apeldoorn": {
             "label": "Agovv Apeldoorn",
@@ -655,6 +663,15 @@
             ],
             "People also search for": []
         },
+        "AIDA Cruises": {
+            "label": "AIDA Cruises",
+            "description": "AIDA Cruises is a British-American owned German cruise line based in Rostock, Germany. Originally founded as Deutsche Seereederei with a ship called Völkerfreundschaft, the company entered the cruise industry in the 1960s. Wikipedia",
+            "type": "",
+            "Founded ": [
+                "1960"
+            ],
+            "Recent posts": []
+        },
         "AM General": {
             "label": "AM General",
             "description": "AM General is an American heavy vehicle manufacturer based in South Bend, Indiana. It is best known for the civilian Hummer and the military Humvee, that is assembled in Mishawaka, Indiana. Wikipedia",
@@ -664,14 +681,13 @@
             ],
             "People also search for": []
         },
-        "AIDA Cruises": {
-            "label": "AIDA Cruises",
-            "description": "AIDA Cruises is a British-American owned German cruise line based in Rostock, Germany. Originally founded as Deutsche Seereederei with a ship called Völkerfreundschaft, the company entered the cruise industry in the 1960s. Wikipedia",
+        "ARY Group": {
+            "label": "ARY Group",
+            "description": "The ARY Group is a Dubai-based holding company founded by a Pakistani businessman, Haji Abdul Razzak Yaqoob. Abdul is the Chief Executive Officer and owner of the Group. Wikipedia",
             "type": "",
-            "Founded ": [
-                "1960"
-            ],
-            "Recent posts": []
+            "Founder ": [
+                "Abdul Razzak Yaqoob"
+            ]
         },
         "ASP (band)": {
             "label": "ASP",
@@ -723,14 +739,6 @@
             "Songs": [],
             "Upcoming events": []
         },
-        "ARY Group": {
-            "label": "ARY Group",
-            "description": "The ARY Group is a Dubai-based holding company founded by a Pakistani businessman, Haji Abdul Razzak Yaqoob. Abdul is the Chief Executive Officer and owner of the Group. Wikipedia",
-            "type": "",
-            "Founder ": [
-                "Abdul Razzak Yaqoob"
-            ]
-        },
         "AS Cherbourg Football": {
             "label": "AS Cherbourg Football",
             "description": "AS Cherbourg or the Association Sportive de Cherbourg Football is a French football club currently playing in the Championnat de France amateur, which is the fourth division in France. Wikipedia",
@@ -740,6 +748,14 @@
             ],
             "League ": [
                 "Championnat National"
+            ]
+        },
+        "AS Moulins": {
+            "label": "AS Moulins",
+            "description": "Association Sportive Moulins Football 03 Auvergne, commonly known as AS Moulins or simply Moulins, is a French football club based in Moulins. Wikipedia",
+            "type": "",
+            "Founded ": [
+                "1927"
             ]
         },
         "AVG Technologies": {
@@ -778,22 +794,6 @@
             "Songs": [],
             "Upcoming events": []
         },
-        "AFC Progresul Bucureşti": {
-            "label": "FC Progresul București",
-            "description": "Fotbal Club Progresul Bucureşti is a Romanian football club from Bucharest, founded in 1944.\nIt played for 32 seasons in the Liga I, being ranked 15th in the Liga I All-Time Table. Wikipedia",
-            "type": "",
-            "Founded ": [
-                "1944"
-            ]
-        },
-        "AS Moulins": {
-            "label": "AS Moulins",
-            "description": "Association Sportive Moulins Football 03 Auvergne, commonly known as AS Moulins or simply Moulins, is a French football club based in Moulins. Wikipedia",
-            "type": "",
-            "Founded ": [
-                "1927"
-            ]
-        },
         "A Taste of Honey (band)": {
             "label": "A Taste of Honey",
             "description": "A Taste of Honey was the name of an American recording act, formed in 1971 by associates Perry Kibble and Donald Ray Johnson. In 1978, they had one of the best known chart-toppers of the disco era, \"Boogie Oogie Oogie\". Wikipedia",
@@ -830,6 +830,24 @@
             ],
             "Songs": []
         },
+        "Abaddon Incarnate": {
+            "label": "Abaddon Incarnate",
+            "description": "Abaddon Incarnate are an Irish death metal deathgrind band. Wikipedia",
+            "type": "",
+            "Active from ": [
+                "1991"
+            ],
+            "Origin ": [
+                "Republic of Ireland"
+            ],
+            "Albums ": [
+                "Dark Crusade",
+                " The Last Supper",
+                " Nadir",
+                " Cascade"
+            ],
+            "People also search for": []
+        },
         "Above & Beyond (band)": {
             "label": "Above & Beyond",
             "description": "Above & Beyond is an English dance music group consisting of members Jono Grant, Tony McGuinness, and Paavo Siljamäki. Wikipedia",
@@ -854,23 +872,44 @@
             "Songs": [],
             "Upcoming events": []
         },
-        "Abaddon Incarnate": {
-            "label": "Abaddon Incarnate",
-            "description": "Abaddon Incarnate are an Irish death metal deathgrind band. Wikipedia",
+        "Academy of Performing Arts in Bratislava": {
+            "label": "Academy of Performing Arts in Bratislava",
+            "description": "The Academy of Performing Arts in Bratislava is a university founded on June 9, 1949.\nThe university consists of three faculties\nTheatre Faculty\nFaculty of Film and Television\nFaculty of Music and Dance Wikipedia",
             "type": "",
-            "Active from ": [
-                "1991"
+            "Address ": "3, 81301 Bratislava, Slovakia",
+            "Phone ": [
+                "+421 2/593 035 11"
             ],
-            "Origin ": [
-                "Republic of Ireland"
-            ],
-            "Albums ": [
-                "Dark Crusade",
-                " The Last Supper",
-                " Nadir",
-                " Cascade"
+            "Founded ": [
+                "1949"
             ],
             "People also search for": []
+        },
+        "Accenture": {
+            "label": "Accenture",
+            "description": "Accenture plc is a multinational management consulting, technology services outsourcing company. Its incorporated headquarters are in Dublin, Republic of Ireland. Wikipedia",
+            "type": "",
+            "Stock price ": [
+                "ACN (NYSE) $82.00 -0.83 (-1.00%)Mar 24",
+                " 400 PM EDT - Disclaimer"
+            ],
+            "CEO ": [
+                "Pierre Nanterme"
+            ],
+            "Headquarters ": [
+                "Dublin",
+                " Leinster"
+            ],
+            "Customer service ": [
+                "+1 312-842-5012"
+            ],
+            "Founder ": [
+                "Clarence DeLany"
+            ],
+            "Founded ": [
+                "1913"
+            ],
+            "Recent posts": []
         },
         "Ace (band)": {
             "label": "Ace",
@@ -909,31 +948,37 @@
             ],
             "Songs": []
         },
-        "Accenture": {
-            "label": "Accenture",
-            "description": "Accenture plc is a multinational management consulting, technology services outsourcing company. Its incorporated headquarters are in Dublin, Republic of Ireland. Wikipedia",
+        "Acid Drinkers": {
+            "label": "Acid Drinkers",
+            "description": "Acid Drinkers are Polish thrash metal band formed in September 1986 in Poznań. Acid Drinkers were formed on 21 September 1986 consisting of Tomasz \"Titus\" Pukacki and Robert \"Litza\" Friedrich. Wikipedia",
             "type": "",
-            "Stock price ": [
-                "ACN (NYSE) $82.00 -0.83 (-1.00%)Mar 24",
-                " 400 PM EDT - Disclaimer"
+            "Active from ": "September 21, 1986",
+            "Origin ": [
+                "Poznań",
+                " Poland"
             ],
-            "CEO ": [
-                "Pierre Nanterme"
+            "Film music credits ": [
+                "Chasing the Acids"
             ],
-            "Headquarters ": [
-                "Dublin",
-                " Leinster"
+            "Members ": [
+                "Tomasz \"Titus\" Pukacki",
+                " Dariusz \"Popcorn\" Popowicz",
+                " Maciej \"Ślimak\" Starosta",
+                " Wojciech \"Jankiel\" Moryto",
+                " Robert Friedrich",
+                " Aleksander \"Olass\" Mendyk",
+                " Tomasz \"Lipa\" Lipnicki",
+                " Przemysław WejmannMore"
             ],
-            "Customer service ": [
-                "+1 312-842-5012"
+            "Record labels ": [
+                "Music for Nations",
+                " Sony BMG Music Entertainment",
+                " Metal Mind Productions",
+                " Sony Music Entertainment",
+                " Warner Music Group",
+                " Mystic ProductionMore"
             ],
-            "Founder ": [
-                "Clarence DeLany"
-            ],
-            "Founded ": [
-                "1913"
-            ],
-            "Recent posts": []
+            "Albums": []
         },
         "Adam Again": {
             "label": "Adam Again",
@@ -967,50 +1012,18 @@
             ],
             "Albums": []
         },
-        "Acid Drinkers": {
-            "label": "Acid Drinkers",
-            "description": "Acid Drinkers are Polish thrash metal band formed in September 1986 in Poznań. Acid Drinkers were formed on 21 September 1986 consisting of Tomasz \"Titus\" Pukacki and Robert \"Litza\" Friedrich. Wikipedia",
+        "Adnams Brewery": {
+            "label": "Adnams Brewery",
+            "description": "Adnams PLC is a British regional brewery company founded in 1872 in Southwold, Suffolk, England, by George and Ernest Adnams. The company produces cask ale and pasteurised bottled beers. Annual production is around 85,000 barrels. Wikipedia",
             "type": "",
-            "Active from ": "September 21, 1986",
-            "Origin ": [
-                "Poznań",
-                " Poland"
-            ],
-            "Film music credits ": [
-                "Chasing the Acids"
-            ],
-            "Members ": [
-                "Tomasz \"Titus\" Pukacki",
-                " Dariusz \"Popcorn\" Popowicz",
-                " Maciej \"Ślimak\" Starosta",
-                " Wojciech \"Jankiel\" Moryto",
-                " Robert Friedrich",
-                " Aleksander \"Olass\" Mendyk",
-                " Tomasz \"Lipa\" Lipnicki",
-                " Przemysław WejmannMore"
-            ],
-            "Record labels ": [
-                "Music for Nations",
-                " Sony BMG Music Entertainment",
-                " Metal Mind Productions",
-                " Sony Music Entertainment",
-                " Warner Music Group",
-                " Mystic ProductionMore"
-            ],
-            "Albums": []
-        },
-        "Academy of Performing Arts in Bratislava": {
-            "label": "Academy of Performing Arts in Bratislava",
-            "description": "The Academy of Performing Arts in Bratislava is a university founded on June 9, 1949.\nThe university consists of three faculties\nTheatre Faculty\nFaculty of Film and Television\nFaculty of Music and Dance Wikipedia",
-            "type": "",
-            "Address ": "3, 81301 Bratislava, Slovakia",
-            "Phone ": [
-                "+421 2/593 035 11"
-            ],
             "Founded ": [
-                "1949"
+                "1872"
             ],
-            "People also search for": []
+            "Founders ": [
+                "Ernest Adnams",
+                " George Adnams"
+            ],
+            "Recent posts": []
         },
         "Adolescents (band)": {
             "label": "Adolescents",
@@ -1042,19 +1055,6 @@
             "Songs": [],
             "Albums": []
         },
-        "Adnams Brewery": {
-            "label": "Adnams Brewery",
-            "description": "Adnams PLC is a British regional brewery company founded in 1872 in Southwold, Suffolk, England, by George and Ernest Adnams. The company produces cask ale and pasteurised bottled beers. Annual production is around 85,000 barrels. Wikipedia",
-            "type": "",
-            "Founded ": [
-                "1872"
-            ],
-            "Founders ": [
-                "Ernest Adnams",
-                " George Adnams"
-            ],
-            "Recent posts": []
-        },
         "Aer Arann": {
             "label": "Aer Arann",
             "description": "Aer Arann is a regional airline based in Dublin, Ireland. The airline operates scheduled services on behalf of Aer Lingus Regional. The airline has three bases in Cork, Dublin and Shannon which operate under the Aer Lingus Regional brand. Wikipedia",
@@ -1064,18 +1064,18 @@
             ],
             "Track flight status": []
         },
-        "Aeropostal Alas de Venezuela": {
-            "label": "Aeropostal Alas de Venezuela",
-            "description": "Aeropostal Alas de Venezuela, normally referred to as just Aeropostal, is a formerly state-owned airline of Venezuela based in Torre Polar Oeste in Caracas, Venezuela. It operates domestic services and international services in the Caribbean. Wikipedia",
-            "type": "",
-            "Founded ": "July 3, 1929",
-            "Track flight status": []
-        },
         "Aero Lloyd": {
             "label": "Aero Lloyd",
             "description": "Aero Lloyd Flugreisen GmbH & Co, operated as Aero Lloyd, was a German charter airline based in Oberursel, Germany.\nIt was originally headquartered in Frankfurt before it was moved to Oberursel. Wikipedia",
             "type": "",
             "Founded ": "December 5, 1980",
+            "Track flight status": []
+        },
+        "Aeropostal Alas de Venezuela": {
+            "label": "Aeropostal Alas de Venezuela",
+            "description": "Aeropostal Alas de Venezuela, normally referred to as just Aeropostal, is a formerly state-owned airline of Venezuela based in Torre Polar Oeste in Caracas, Venezuela. It operates domestic services and international services in the Caribbean. Wikipedia",
+            "type": "",
+            "Founded ": "July 3, 1929",
             "Track flight status": []
         },
         "Afrinat International Airlines": {
@@ -1089,41 +1089,90 @@
         }
     },
     "summary": {
-        "label": 62,
-        "description": 62,
-        "type": 62,
-        "founded": 1,
-        "people_also_search_for": 1,
-        "address": 1,
-        "phone": 1,
-        "enrollment": 1,
-        "founders": 1,
-        "hours": 1,
-        "founder": 1,
-        "location": 1,
-        "lead_singer": 1,
-        "origin": 1,
-        "members": 1,
-        "record_labels": 1,
-        "songs": 1,
-        "upcoming_events": 1,
-        "albums": 1,
-        "active_from": 1,
-        "lead_singers": 1,
-        "nominations": 1,
-        "awards": 1,
-        "record_label": 1,
-        "see_results_about": 1,
-        "headquarters": 1,
-        "recent_posts": 1,
-        "stock_price": 1,
-        "ceo": 1,
-        "league": 1,
-        "roster": 1,
-        "customer_service": 1,
-        "active_until": 1,
-        "film_music_credits": 1,
-        "track_flight_status": 1
+        "label": {
+            "uri": "http://dbpedia.org/property/label",
+            "count": 62
+        },
+        "description": {
+            "uri": "http://purl.org/dc/elements/1.1/description",
+            "count": 62
+        },
+        "type": {
+            "uri": "http://dbpedia.org/property/type",
+            "count": 62
+        },
+        "founded": {
+            "uri": "http://dbpedia.org/property/founded",
+            "count": 28
+        },
+        "address": {
+            "uri": "http://dbpedia.org/ontology/address",
+            "count": 5
+        },
+        "phone": {
+            "uri": "http://dbpedia.org/property/phone",
+            "count": 3
+        },
+        "enrollment": {
+            "uri": "http://dbpedia.org/property/enrollment",
+            "count": 1
+        },
+        "founders": {
+            "uri": "http://dbpedia.org/property/founders",
+            "count": 2
+        },
+        "hours": {
+            "uri": "http://dbpedia.org/property/hours",
+            "count": 3
+        },
+        "founder": {
+            "uri": "http://dbpedia.org/ontology/founder",
+            "count": 4
+        },
+        "location": {
+            "uri": "http://dbpedia.org/property/place/location",
+            "count": 1
+        },
+        "origin": {
+            "uri": "http://dbpedia.org/property/origin",
+            "count": 22
+        },
+        "members": {
+            "uri": "http://dbpedia.org/property/members",
+            "count": 20
+        },
+        "albums": {
+            "uri": "http://dbpedia.org/property/albums",
+            "count": 17
+        },
+        "leadSingers": {
+            "uri": "http://dbpedia.org/property/leadSingers",
+            "count": 1
+        },
+        "recordLabel": {
+            "uri": "http://dbpedia.org/property/recordLabel",
+            "count": 2
+        },
+        "awards": {
+            "uri": "http://dbpedia.org/property/awards",
+            "count": 3
+        },
+        "nominations": {
+            "uri": "http://dbpedia.org/property/nominations",
+            "count": 2
+        },
+        "headquarters": {
+            "uri": "http://dbpedia.org/property/headquarters",
+            "count": 3
+        },
+        "ceo": {
+            "uri": "http://dbpedia.org/property/president/ceo",
+            "count": 2
+        },
+        "league": {
+            "uri": "http://dbpedia.org/property/league",
+            "count": 5
+        }
     },
     "infoboxless": [
         "!Action Pact!",
@@ -1164,5 +1213,21 @@
         "Academy of Country Music",
         "Acasă",
         "African Party for the Independence of Guinea and Cape Verde"
-    ]
+    ],
+    "Unmapped_Properties": {
+        "peopleAlsoSearchFor": 1,
+        "leadSinger": 1,
+        "recordLabels": 1,
+        "songs": 1,
+        "upcomingEvents": 1,
+        "activeFrom": 1,
+        "seeResultsAbout": 1,
+        "recentPosts": 1,
+        "stockPrice": 1,
+        "roster": 1,
+        "customerService": 1,
+        "filmMusicCredits": 1,
+        "activeUntil": 1,
+        "trackFlightStatus": 1
+    }
 }

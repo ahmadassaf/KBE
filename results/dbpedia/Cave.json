@@ -114,11 +114,6 @@
             "description": "Read's Cavern is a cave at Burrington Combe, Somerset, England, in which traces of Iron Age occupation have been found. It lies under Dolbury Hill. Its large main chamber has a boulder ruckle floor and is parallel to a cliff face. Wikipedia",
             "type": ""
         },
-        "Aveline's Hole": {
-            "label": "Aveline's Hole",
-            "description": "Aveline's Hole is a cave at Burrington Combe in the limestone of the Mendip Hills, in Somerset, England.\nThe earliest scientifically dated cemetery in Britain was found at Aveline's Hole. Wikipedia",
-            "type": ""
-        },
         "Aillwee Cave": {
             "label": "Aillwee Cave",
             "description": "Aillwee Cave is a show cave located in the karst landscape of the Burren in north west County Clare, Ireland. The name Aillwee is derived from the Irish Aill Bhuí which means \"yellow cliff\". Wikipedia",
@@ -133,6 +128,11 @@
             ],
             "People also search for": []
         },
+        "Aveline's Hole": {
+            "label": "Aveline's Hole",
+            "description": "Aveline's Hole is a cave at Burrington Combe in the limestone of the Mendip Hills, in Somerset, England.\nThe earliest scientifically dated cemetery in Britain was found at Aveline's Hole. Wikipedia",
+            "type": ""
+        },
         "Boho Caves": {
             "label": "Boho Caves",
             "description": "The Boho Caves are a selection of caves centred on the village of Boho, County Fermanagh on the northern slopes of Belmore Mountain. They encompass the main Boho Cave and the smaller Waterfall Cave and Upper and Lower Ravine Caves. Wikipedia",
@@ -143,6 +143,16 @@
             "description": "Fingal's Cave is a sea cave on the uninhabited island of Staffa, in the Inner Hebrides of Scotland, part of a National Nature Reserve owned by the National Trust for Scotland. Wikipedia",
             "type": "Cave in Scotland",
             "See results about": []
+        },
+        "Gaping Gill": {
+            "label": "Gaping Gill",
+            "description": "Gaping Gill is a natural cave in North Yorkshire, England. It is one of the unmistakable landmarks on the southern slopes of Ingleborough – a 98-metre deep pothole with the stream Fell Beck flowing into it. Wikipedia",
+            "type": "",
+            "Address ": [
+                "Clapdale Dr",
+                " North Yorkshire LA2",
+                " United Kingdom"
+            ]
         },
         "Laas Gaal": {
             "label": "Laas Gaal",
@@ -155,19 +165,20 @@
             "description": "Laurel Caverns, formerly known as Dulaney's Cave and Laurel Hill Cave, is the largest cave in Pennsylvania. Located in Farmington, Pennsylvania; it sits on Chestnut Ridge near Uniontown, about 50 miles southeast of Pittsburgh. Wikipedia",
             "type": ""
         },
-        "Unicorn Cave (Austria)": {
-            "label": "Unicorn Cave",
-            "description": "The Unicorn Cave in Austria is situated in the Hohe Wand Nature Park near Dreistetten in Lower Austria and may be reached on signposted hiking trails in ca. 20 minutes from Dreistetten aus. Wikipedia",
-            "type": "Austria",
+        "Sea Lion Caves": {
+            "label": "Sea Lion Caves",
+            "description": "Sea Lion Caves are a connected system of sea caves and caverns open to the Pacific Ocean in the U.S. state of Oregon. They are located 11 miles north of Florence on U.S. Highway 101, about midpoint on the 400 miles Oregon Coast. Wikipedia",
+            "type": "",
             "Address ": [
-                "2753 Markt Piesting",
-                " Austria"
-            ]
-        },
-        "Swansea Cave": {
-            "label": "Swansea Cave",
-            "description": "Swansea Cave is a cave and palaeontological site in the Saint Catherine Parish of south-eastern Jamaica. Wikipedia",
-            "type": ""
+                "91560 U.S. 101",
+                " Florence",
+                " OR 97439",
+                " United States"
+            ],
+            "Hours ": [
+                "(541) 547-3111"
+            ],
+            "People also search for": []
         },
         "Smoo Cave": {
             "label": "Smoo Cave",
@@ -181,6 +192,20 @@
                 "+44 1971 511259"
             ],
             "People also search for": []
+        },
+        "Swansea Cave": {
+            "label": "Swansea Cave",
+            "description": "Swansea Cave is a cave and palaeontological site in the Saint Catherine Parish of south-eastern Jamaica. Wikipedia",
+            "type": ""
+        },
+        "Unicorn Cave (Austria)": {
+            "label": "Unicorn Cave",
+            "description": "The Unicorn Cave in Austria is situated in the Hohe Wand Nature Park near Dreistetten in Lower Austria and may be reached on signposted hiking trails in ca. 20 minutes from Dreistetten aus. Wikipedia",
+            "type": "Austria",
+            "Address ": [
+                "2753 Markt Piesting",
+                " Austria"
+            ]
         },
         "Redmond Caves": {
             "label": "Redmond Caves",
@@ -213,31 +238,6 @@
             "type": "",
             "See results about": []
         },
-        "Gaping Gill": {
-            "label": "Gaping Gill",
-            "description": "Gaping Gill is a natural cave in North Yorkshire, England. It is one of the unmistakable landmarks on the southern slopes of Ingleborough – a 98-metre deep pothole with the stream Fell Beck flowing into it. Wikipedia",
-            "type": "",
-            "Address ": [
-                "Clapdale Dr",
-                " North Yorkshire LA2",
-                " United Kingdom"
-            ]
-        },
-        "Sea Lion Caves": {
-            "label": "Sea Lion Caves",
-            "description": "Sea Lion Caves are a connected system of sea caves and caverns open to the Pacific Ocean in the U.S. state of Oregon. They are located 11 miles north of Florence on U.S. Highway 101, about midpoint on the 400 miles Oregon Coast. Wikipedia",
-            "type": "",
-            "Address ": [
-                "91560 U.S. 101",
-                " Florence",
-                " OR 97439",
-                " United States"
-            ],
-            "Hours ": [
-                "(541) 547-3111"
-            ],
-            "People also search for": []
-        },
         "Oxlow Cavern": {
             "label": "Oxlow Cavern",
             "description": "Oxlow Cavern is a part-natural and part-mined cavern near Castleton in Derbyshire, England. It is situated on the south side of the road running from the A623 at Sparrowpit to the Winnats Pass, west of ... Wikipedia",
@@ -257,16 +257,16 @@
             ],
             "People also search for": []
         },
-        "Cave of Reveillon": {
-            "label": "Cave of Reveillon",
-            "description": "The Cavern of Reveillon is a French cave located near Alvignac. Wikipedia",
-            "type": ""
-        },
         "Xueyu Cave": {
             "label": "Xueyu Cave",
             "description": "Xueyu Cave is a National Three Gorges Scenic Area and a National 4A Scenic Area located in Fengdu County, Chongqing Municipality, People's Republic of China. Wikipedia",
             "type": "",
             "People also search for": []
+        },
+        "Cave of Reveillon": {
+            "label": "Cave of Reveillon",
+            "description": "The Cavern of Reveillon is a French cave located near Alvignac. Wikipedia",
+            "type": ""
         },
         "Mitchell Caverns": {
             "label": "Mitchell Caverns",
@@ -278,6 +278,11 @@
             "label": "Sinks of Gandy",
             "description": "The Sinks of Gandy — also called the Sinks of Gandy Creek, or simply “The Sinks” — are a modestly celebrated cave and underground stream at Osceola in eastern Randolph County, West Virginia, USA. Wikipedia",
             "type": ""
+        },
+        "Thor's Cave": {
+            "label": "Thor's Cave",
+            "description": "Thor's Cave is a natural cavern located at SK09865496 in the Manifold Valley of the White Peak in Staffordshire, England. It is classified as a Karst cave. Wikipedia",
+            "type": "Railway station"
         },
         "Bluff Dweller's Cave": {
             "label": "Bluff Dweller's Cave",
@@ -298,11 +303,6 @@
             "description": "Optymistychna is a gypsum cave located near the Ukrainian village of Korolivka, Borschiv Raion, Ternopil Oblast. As of 2005, it has 230 km of mapped passageways and is the longest cave in Eurasia. Wikipedia",
             "type": ""
         },
-        "Thor's Cave": {
-            "label": "Thor's Cave",
-            "description": "Thor's Cave is a natural cavern located at SK09865496 in the Manifold Valley of the White Peak in Staffordshire, England. It is classified as a Karst cave. Wikipedia",
-            "type": "Railway station"
-        },
         "Attborough Swallet": {
             "label": "Attborough Swallet",
             "description": "Attborough Swallet is a cave in Chewton Mendip in Somerset, England.\nIt is unusual for a cave on the Mendip Hills in that it is not in limestone but instead in Dolomitic Conglomerate and Marl. Wikipedia",
@@ -313,14 +313,14 @@
             "description": "Blanche Cave, previously known as \"The Big Cave\", \"The Old Cave\" and \"Mosquito Plains Cave\", is one of 26 caves to be found in the Naracoorte Caves National Park, a World Heritage listed site. Wikipedia",
             "type": ""
         },
-        "Gökgöl Cave": {
-            "label": "Gökgöl Cave",
-            "description": "Gökgöl Cave is a cave in Zonguldak Province, Turkey Wikipedia",
-            "type": ""
-        },
         "Cave of the Crystals": {
             "label": "Cave of the Crystals",
             "description": "Cave of the Crystals or Giant Crystal Cave is a cave connected to the Naica Mine 300 metres below the surface in Naica, Chihuahua, Mexico. The main chamber contains giant selenite crystals, some of the largest natural crystals ever found. Wikipedia",
+            "type": ""
+        },
+        "Gökgöl Cave": {
+            "label": "Gökgöl Cave",
+            "description": "Gökgöl Cave is a cave in Zonguldak Province, Turkey Wikipedia",
             "type": ""
         },
         "Gruta das Torres": {
@@ -342,24 +342,14 @@
             ],
             "People also search for": []
         },
-        "Longwood Swallet": {
-            "label": "Longwood Swallet",
-            "description": "Longwood Swallet is a cave near Charterhouse, in the Carboniferous Limestone of the Mendip Hills, in Somerset, England. The cave is part of the Cheddar Complex SSSI and connected to August Hole.\nIt is 1.65 km in length and reaches a depth of 175m. Wikipedia",
-            "type": ""
-        },
-        "Llygad Llwchwr": {
-            "label": "Llygad Llwchwr",
-            "description": "Llygad Llwchwr is a 1.2 km long cave system in the Black Mountain which forms the westernmost range of the Brecon Beacons National Park in Wales. Wikipedia",
+        "Mud Caves": {
+            "label": "Mud Caves",
+            "description": "The Mud Caves are a popular feature in Anza Borrego Desert State Park in San Diego County, California. Wikipedia",
             "type": ""
         },
         "Lovelock Cave": {
             "label": "Lovelock Cave",
             "description": "Lovelock Cave is a North American archaeological site previously known as Sunset Guano Cave, Horseshoe Cave, and Loud Site 18. The cave is about 150 feet long and 35 feet wide. Wikipedia",
-            "type": ""
-        },
-        "Mud Caves": {
-            "label": "Mud Caves",
-            "description": "The Mud Caves are a popular feature in Anza Borrego Desert State Park in San Diego County, California. Wikipedia",
             "type": ""
         },
         "Naj Tunich": {
@@ -370,6 +360,11 @@
         "Notts Pot": {
             "label": "Notts Pot",
             "description": "Notts Pot is cave system on Leck Fell, Lancashire, England. It is described as 'the most concentrated vertical maze in Britain'. Wikipedia",
+            "type": ""
+        },
+        "Longwood Swallet": {
+            "label": "Longwood Swallet",
+            "description": "Longwood Swallet is a cave near Charterhouse, in the Carboniferous Limestone of the Mendip Hills, in Somerset, England. The cave is part of the Cheddar Complex SSSI and connected to August Hole.\nIt is 1.65 km in length and reaches a depth of 175m. Wikipedia",
             "type": ""
         },
         "Ogof Nadolig": {
@@ -465,14 +460,14 @@
             "description": "Coffee River Cave is a large river cave in Manchester Parish in west-central Jamaica. It is 2800 metres in length and at an altitude of 250 metres. Wikipedia",
             "type": ""
         },
-        "Goatchurch Cavern": {
-            "label": "Goatchurch Cavern",
-            "description": "Goatchurch Cavern is a cave on the edge of Burrington Combe in the limestone of the Mendip Hills, in Somerset, England. Wikipedia",
-            "type": ""
-        },
         "GB Cave": {
             "label": "GB Cave",
             "description": "GB Cave is a cave between Charterhouse and Shipham in the limestone of the Mendip Hills, in Somerset, England, and is close to Charterhouse Cave, the deepest in the region. Wikipedia",
+            "type": ""
+        },
+        "Goatchurch Cavern": {
+            "label": "Goatchurch Cavern",
+            "description": "Goatchurch Cavern is a cave on the edge of Burrington Combe in the limestone of the Mendip Hills, in Somerset, England. Wikipedia",
             "type": ""
         },
         "Hutchinson's Hole": {
@@ -480,14 +475,14 @@
             "description": "Hutchinson's Hole is a large sinkhole named after the 18th century serial killer Lewis Hutchinson, who used the sinkhole to dispose of bodies. Wikipedia",
             "type": ""
         },
-        "Morgans Pond Hole": {
-            "label": "Morgans Pond Hole",
-            "description": "At 186 metres, Morgans Pond Hole in Manchester Parish, Jamaica is the second deepest known cave in the island. Wikipedia",
-            "type": ""
-        },
         "Sinkhole Dersios": {
             "label": "Dersios sinkhole",
             "description": "The Dersios sinkhole is a sinkhole in Arcadia, Greece.\nThe sinkhole, which has a depth of 170 metres, has been known since antiquity and is located towards the north end of the plateau of Palaiochora ... Wikipedia",
+            "type": ""
+        },
+        "Morgans Pond Hole": {
+            "label": "Morgans Pond Hole",
+            "description": "At 186 metres, Morgans Pond Hole in Manchester Parish, Jamaica is the second deepest known cave in the island. Wikipedia",
             "type": ""
         },
         "White Scar Caves": {
@@ -537,21 +532,6 @@
             "label": "Rod's Pot",
             "description": "Rod's Pot is a limestone cave above Burrington Combe in the Mendip Hills, in Somerset, England.\nThe cave was first excavated in 1944 by the University of Bristol Spelæological Society. Wikipedia",
             "type": ""
-        },
-        "Seneca Caverns (Ohio)": {
-            "label": "Seneca Caverns",
-            "description": "Seneca Caverns is a show cave located in northeastern Seneca County, Ohio, USA, just outside of Flat Rock. The cave is designated as a Registered Natural Landmark by the Ohio Department of Natural Resources. Wikipedia",
-            "type": "Ohio",
-            "Address ": [
-                "15248 E Township Road 178",
-                " Bellevue",
-                " OH 44811",
-                " United States"
-            ],
-            "Hours ": [
-                "(419) 483-6711"
-            ],
-            "People also search for": []
         },
         "Traungold Cave": {
             "label": "Traungold Cave",
@@ -608,6 +588,11 @@
                 " India"
             ]
         },
+        "Ogof Craig a Ffynnon": {
+            "label": "Ogof Craig a Ffynnon",
+            "description": "Ogof Craig a Ffynnon is a cave in Wales. The cave is about 7 km in length.\nThe cave is renowned as one of the most well-decorated caves in Britain. Wikipedia",
+            "type": ""
+        },
         "Lost River Caverns": {
             "label": "Lost River Caverns",
             "description": "Lost River Caverns is a natural limestone cavern consisting of 5 chambers. The caverns were formed by the karstification or dissolving of the limestone by water. In the past the caverns have been called Rentzeimer's Cave and Lost Cave. Wikipedia",
@@ -620,23 +605,40 @@
             ],
             "See results about": []
         },
-        "Ogof Craig a Ffynnon": {
-            "label": "Ogof Craig a Ffynnon",
-            "description": "Ogof Craig a Ffynnon is a cave in Wales. The cave is about 7 km in length.\nThe cave is renowned as one of the most well-decorated caves in Britain. Wikipedia",
+        "Seneca Caverns (Ohio)": {
+            "label": "Seneca Caverns",
+            "description": "Seneca Caverns is a show cave located in northeastern Seneca County, Ohio, USA, just outside of Flat Rock. The cave is designated as a Registered Natural Landmark by the Ohio Department of Natural Resources. Wikipedia",
+            "type": "Ohio",
+            "Address ": [
+                "15248 E Township Road 178",
+                " Bellevue",
+                " OH 44811",
+                " United States"
+            ],
+            "Hours ": [
+                "(419) 483-6711"
+            ],
+            "People also search for": []
+        },
+        "Llygad Llwchwr": {
+            "label": "Llygad Llwchwr",
+            "description": "Llygad Llwchwr is a 1.2 km long cave system in the Black Mountain which forms the westernmost range of the Brecon Beacons National Park in Wales. Wikipedia",
             "type": ""
         }
     },
     "summary": {
-        "label": 92,
-        "description": 92,
-        "type": 92,
-        "address": 1,
-        "phone": 1,
-        "people_also_search_for": 1,
-        "hours": 1,
-        "see_results_about": 1,
-        "recent_posts": 1,
-        "management": 1
+        "label": {
+            "uri": "http://dbpedia.org/property/label",
+            "count": 92
+        },
+        "description": {
+            "uri": "http://fr.dbpedia.org/ontology/abstract",
+            "count": 92
+        },
+        "type": {
+            "uri": "http://dbpedia.org/ontology/type",
+            "count": 92
+        }
     },
     "infoboxless": [
         "Bear Cave",
@@ -647,5 +649,14 @@
         "Hellhole",
         "Thatchfield Great Cave",
         "Son Doong Cave"
-    ]
+    ],
+    "Unmapped_Properties": {
+        "address": 1,
+        "phone": 1,
+        "peopleAlsoSearchFor": 1,
+        "hours": 1,
+        "seeResultsAbout": 1,
+        "recentPosts": 1,
+        "management": 1
+    }
 }

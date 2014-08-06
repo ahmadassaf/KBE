@@ -56,6 +56,71 @@
             ],
             "People also search for": []
         },
+        "Nina Hossain": {
+            "label": "Nina Hossain",
+            "description": "Nina Hossain is an English journalist and presenter employed by ITN. Wikipedia",
+            "type": "Journalist",
+            "Born ": "May 1, 1975 (age 38), Huddersfield, United Kingdom",
+            "Nationality ": [
+                "British"
+            ],
+            "Education ": [
+                "Durham University"
+            ],
+            "TV shows ": [
+                "ITV News London",
+                " Hard Spell"
+            ],
+            "People also search for": []
+        },
+        "Brandon Rudat": {
+            "label": "Brandon Rudat",
+            "description": "Brandon Rudat is an American journalist. Wikipedia",
+            "type": "Journalist",
+            "Born ": "May 29, 1980 (age 33)",
+            "Education ": [
+                "New York University"
+            ],
+            "Movies ": [
+                "The Green Hornet"
+            ],
+            "People also search for": []
+        },
+        "Helen Vlachos": {
+            "label": "Helen Vlachos",
+            "description": "Helen Vlachos was a legend of Greek journalism, newspaper-publishing heiress, proprietor, and anti-junta activist.\nSoon after the coup of 21 April 1967, she closed-down her newspaper Kathimerini as a protest against the dictatorship. Wikipedia",
+            "type": "",
+            "Born ": [
+                "1911",
+                " Athens",
+                " Greece"
+            ],
+            "People also search for": []
+        },
+        "Leslie Finer": {
+            "label": "Leslie Finer",
+            "description": "Leslie Finer was a British journalist and author who worked for the BBC, the Financial Times, The Observer, The New Statesman, other British news organisations, Kathimerini and the Canadian Broadcasting Corporation. Wikipedia",
+            "type": "Journalist",
+            "Born ": "December 10, 1922, East End of London, London, United Kingdom",
+            "Died ": [
+                "2010"
+            ],
+            "Education ": [
+                "London School of Economics and Political Science"
+            ],
+            "People also search for ": [
+                "Morris Finer",
+                " Elliot Willensky",
+                " Helen Vlachos"
+            ]
+        },
+        "Raya Abirached": {
+            "label": "Raya Abirached",
+            "description": "Raya Abirached is a Lebanese TV presenter, television personality, celebrity journalist, and producer for MBC. She is the co-host, along with Qusai, of the hit TV talent show Arabs Got Talent. Wikipedia",
+            "type": "Presenter",
+            "Born ": "May 12, 1977 (age 36)",
+            "People also search for": []
+        },
         "Serajur Rahman": {
             "label": "Serajur Rahman",
             "description": "A. N. M. Serajur Rahman is a Bangladeshi journalist, broadcaster and Bangladeshi nationalist. Wikipedia",
@@ -91,71 +156,6 @@
                 " Hamoodur RahmanMore"
             ]
         },
-        "Nina Hossain": {
-            "label": "Nina Hossain",
-            "description": "Nina Hossain is an English journalist and presenter employed by ITN. Wikipedia",
-            "type": "Journalist",
-            "Born ": "May 1, 1975 (age 38), Huddersfield, United Kingdom",
-            "Nationality ": [
-                "British"
-            ],
-            "Education ": [
-                "Durham University"
-            ],
-            "TV shows ": [
-                "ITV News London",
-                " Hard Spell"
-            ],
-            "People also search for": []
-        },
-        "Brandon Rudat": {
-            "label": "Brandon Rudat",
-            "description": "Brandon Rudat is an American journalist. Wikipedia",
-            "type": "Journalist",
-            "Born ": "May 29, 1980 (age 33)",
-            "Education ": [
-                "New York University"
-            ],
-            "Movies ": [
-                "The Green Hornet"
-            ],
-            "People also search for": []
-        },
-        "Raya Abirached": {
-            "label": "Raya Abirached",
-            "description": "Raya Abirached is a Lebanese TV presenter, television personality, celebrity journalist, and producer for MBC. She is the co-host, along with Qusai, of the hit TV talent show Arabs Got Talent. Wikipedia",
-            "type": "Presenter",
-            "Born ": "May 12, 1977 (age 36)",
-            "People also search for": []
-        },
-        "Helen Vlachos": {
-            "label": "Helen Vlachos",
-            "description": "Helen Vlachos was a legend of Greek journalism, newspaper-publishing heiress, proprietor, and anti-junta activist.\nSoon after the coup of 21 April 1967, she closed-down her newspaper Kathimerini as a protest against the dictatorship. Wikipedia",
-            "type": "",
-            "Born ": [
-                "1911",
-                " Athens",
-                " Greece"
-            ],
-            "People also search for": []
-        },
-        "Leslie Finer": {
-            "label": "Leslie Finer",
-            "description": "Leslie Finer was a British journalist and author who worked for the BBC, the Financial Times, The Observer, The New Statesman, other British news organisations, Kathimerini and the Canadian Broadcasting Corporation. Wikipedia",
-            "type": "Journalist",
-            "Born ": "December 10, 1922, East End of London, London, United Kingdom",
-            "Died ": [
-                "2010"
-            ],
-            "Education ": [
-                "London School of Economics and Political Science"
-            ],
-            "People also search for ": [
-                "Morris Finer",
-                " Elliot Willensky",
-                " Helen Vlachos"
-            ]
-        },
         "Robert H. Cushman": {
             "label": "Robert H. Cushman",
             "description": "Robert Herman Cushman was an American trade magazine journalist who had written extensively across several engineering disciplines, two in particular during the vanguard of rapid technological advances ... Wikipedia",
@@ -174,18 +174,35 @@
         }
     },
     "summary": {
-        "label": 13,
-        "description": 13,
-        "type": 13,
-        "born": 1,
-        "died": 1,
-        "people_also_search_for": 1,
-        "tv_shows": 1,
-        "education": 1,
-        "nationality": 1,
-        "movies": 1
+        "label": {
+            "uri": "http://www.w3.org/2000/01/rdf-schema#label",
+            "count": 13
+        },
+        "description": {
+            "uri": "http://purl.org/dc/elements/1.1/description",
+            "count": 13
+        },
+        "type": {
+            "uri": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+            "count": 13
+        },
+        "education": {
+            "uri": "http://dbpedia.org/property/education",
+            "count": 7
+        },
+        "nationality": {
+            "uri": "http://dbpedia.org/property/nationality",
+            "count": 1
+        }
     },
     "infoboxless": [
         "Khalid Altowelli"
-    ]
+    ],
+    "Unmapped_Properties": {
+        "born": 1,
+        "died": 1,
+        "peopleAlsoSearchFor": 1,
+        "tvShows": 1,
+        "movies": 1
+    }
 }

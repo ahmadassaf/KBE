@@ -1,16 +1,5 @@
 {
     "instances": {
-        "Coo Coo Marlin": {
-            "label": "Coo Coo Marlin",
-            "description": "Clifton \"Coo Coo\" Marlin was a NASCAR Winston Cup driver who spent 14 years in the series. Wikipedia",
-            "type": "NASCAR Driver",
-            "Born ": "January 3, 1932, Columbia, Tennessee, United States",
-            "Died ": "August 14, 2005",
-            "Children ": [
-                "Sterling Marlin"
-            ],
-            "People also search for": []
-        },
         "Dale Earnhardt, Jr.": {
             "label": "Dale Earnhardt, Jr.",
             "description": "Ralph Dale Earnhardt, Jr. is an American stock car racing driver and team owner. He is the son of NASCAR Hall of Famer Dale Earnhardt, Sr. He is also the grandson of both NASCAR driver Ralph Earnhardt ... Wikipedia",
@@ -39,6 +28,17 @@
                 " Oak Ridge Military Academy"
             ],
             "Recent posts": [],
+            "People also search for": []
+        },
+        "Coo Coo Marlin": {
+            "label": "Coo Coo Marlin",
+            "description": "Clifton \"Coo Coo\" Marlin was a NASCAR Winston Cup driver who spent 14 years in the series. Wikipedia",
+            "type": "NASCAR Driver",
+            "Born ": "January 3, 1932, Columbia, Tennessee, United States",
+            "Died ": "August 14, 2005",
+            "Children ": [
+                "Sterling Marlin"
+            ],
             "People also search for": []
         },
         "Danica Patrick": {
@@ -109,14 +109,12 @@
             ],
             "People also search for": []
         },
-        "Scott Speed": {
-            "label": "Scott Speed",
-            "description": "Scott Andrew Speed is an American race car driver. Formerly a driver for the Scuderia Toro Rosso F1 team, he made his Formula One race debut at the 2006 Bahrain Grand Prix; becoming the first American to race in F1 since Michael Andretti in 1993. Wikipedia",
-            "type": "Race car driver",
-            "Born ": "January 24, 1983 (age 31), Manteca, California, United States",
-            "Siblings ": [
-                "Alex Speed"
-            ],
+        "LeeRoy Yarbrough": {
+            "label": "LeeRoy Yarbrough",
+            "description": "Lonnie \"LeeRoy\" Yarbrough was a NASCAR racer. His best season was 1969 when he won seven races, tallied 21 finishes in the top-ten and earned $193,211. Wikipedia",
+            "type": "NASCAR Driver",
+            "Born ": "September 17, 1938, Jacksonville, Florida, United States",
+            "Died ": "December 7, 1984",
             "People also search for": []
         },
         "Max Papis": {
@@ -135,32 +133,6 @@
             ],
             "People also search for": []
         },
-        "Troy Ruttman": {
-            "label": "Troy Ruttman",
-            "description": "Troy Ruttman was an American race car driver. He was the older brother of NASCAR driver Joe Ruttman.\nRuttman won the Indianapolis 500 in 1952, at the age of 22 years and 80 days. As of 2012, he is the youngest winner of the race. Wikipedia",
-            "type": "Race car driver",
-            "Born ": "March 11, 1930, Mooreland, Oklahoma, United States",
-            "Died ": "May 19, 1997, Lake Havasu City, Arizona, United States",
-            "Siblings ": [
-                "Joe Ruttman"
-            ],
-            "People also search for": []
-        },
-        "LeeRoy Yarbrough": {
-            "label": "LeeRoy Yarbrough",
-            "description": "Lonnie \"LeeRoy\" Yarbrough was a NASCAR racer. His best season was 1969 when he won seven races, tallied 21 finishes in the top-ten and earned $193,211. Wikipedia",
-            "type": "NASCAR Driver",
-            "Born ": "September 17, 1938, Jacksonville, Florida, United States",
-            "Died ": "December 7, 1984",
-            "People also search for": []
-        },
-        "Ricky Craven": {
-            "label": "Ricky Craven",
-            "description": "Richard Allen Craven is an ESPN broadcaster who works ESPN2's NASCAR Now and a race analyst for the network. Prior to his ESPN duties, he was a NASCAR driver who won in four different series—the K&N Pro Series, and the three national series. Wikipedia",
-            "type": "NASCAR Driver",
-            "Born ": "May 24, 1966 (age 47), Newburgh, Maine, United States",
-            "People also search for": []
-        },
         "Patty Moise": {
             "label": "Patty Moise",
             "description": "Patty Moise is a former NASCAR driver. She drove in five Winston Cup races from 1987 to 1989, and 133 Busch Series races from 1986 to 1998. She is the wife of former fellow NASCAR driver Elton Sawyer. Wikipedia",
@@ -168,24 +140,6 @@
             "Born ": "December 29, 1960 (age 53), Jacksonville, Florida, United States",
             "Education ": [
                 "Jacksonville University"
-            ],
-            "People also search for": []
-        },
-        "Tayler Malsam": {
-            "label": "Tayler Malsam",
-            "description": "Tayler Malsam is an American stock car racing driver. He has competed in the NASCAR Nationwide Series and Camping World Truck Series. Wikipedia",
-            "type": "NASCAR Driver",
-            "Born ": "February 15, 1989 (age 25), Seattle, Washington, United States",
-            "People also search for": []
-        },
-        "Wally Dallenbach, Jr.": {
-            "label": "Wally Dallenbach, Jr.",
-            "description": "Wally Dallenbach, Jr. is an American racecar driver who formerly competed in the NASCAR Winston Cup Series. He competed in 226 Winston Cup races from 1991 to 2001 and had 23 top 10 finishes. Wikipedia",
-            "type": "NASCAR Driver",
-            "Born ": "May 23, 1963 (age 50), Basalt, Colorado, United States",
-            "Parents ": [
-                "Wally Dallenbach",
-                " Sr."
             ],
             "People also search for": []
         },
@@ -203,6 +157,13 @@
                 "Montgomery Petty",
                 " Austin Petty"
             ],
+            "People also search for": []
+        },
+        "Ricky Craven": {
+            "label": "Ricky Craven",
+            "description": "Richard Allen Craven is an ESPN broadcaster who works ESPN2's NASCAR Now and a race analyst for the network. Prior to his ESPN duties, he was a NASCAR driver who won in four different series—the K&N Pro Series, and the three national series. Wikipedia",
+            "type": "NASCAR Driver",
+            "Born ": "May 24, 1966 (age 47), Newburgh, Maine, United States",
             "People also search for": []
         },
         "Benny Parsons": {
@@ -223,19 +184,33 @@
             ],
             "People also search for": []
         },
-        "Bill Amick": {
-            "label": "Bill Amick",
-            "description": "Bill Amick was a NASCAR Grand National and West Coast driver from Portland, Oregon. He has one win, nineteen top-fives, twenty-seven top 10s, and five poles in Grand National. Wikipedia",
+        "Wally Dallenbach, Jr.": {
+            "label": "Wally Dallenbach, Jr.",
+            "description": "Wally Dallenbach, Jr. is an American racecar driver who formerly competed in the NASCAR Winston Cup Series. He competed in 226 Winston Cup races from 1991 to 2001 and had 23 top 10 finishes. Wikipedia",
             "type": "NASCAR Driver",
-            "Born ": "November 16, 1925",
-            "Died ": "July 15, 1995",
+            "Born ": "May 23, 1963 (age 50), Basalt, Colorado, United States",
+            "Parents ": [
+                "Wally Dallenbach",
+                " Sr."
+            ],
             "People also search for": []
         },
-        "Bob Cooper (racing driver)": {
-            "label": "Bob Cooper",
-            "description": "Bob Cooper is a retired driver that raced in the NASCAR Grand National Series from 1962 to 1969. Wikipedia",
+        "Troy Ruttman": {
+            "label": "Troy Ruttman",
+            "description": "Troy Ruttman was an American race car driver. He was the older brother of NASCAR driver Joe Ruttman.\nRuttman won the Indianapolis 500 in 1952, at the age of 22 years and 80 days. As of 2012, he is the youngest winner of the race. Wikipedia",
+            "type": "Race car driver",
+            "Born ": "March 11, 1930, Mooreland, Oklahoma, United States",
+            "Died ": "May 19, 1997, Lake Havasu City, Arizona, United States",
+            "Siblings ": [
+                "Joe Ruttman"
+            ],
+            "People also search for": []
+        },
+        "Tayler Malsam": {
+            "label": "Tayler Malsam",
+            "description": "Tayler Malsam is an American stock car racing driver. He has competed in the NASCAR Nationwide Series and Camping World Truck Series. Wikipedia",
             "type": "NASCAR Driver",
-            "Born ": "November 13, 1935 (age 78), Gastonia, North Carolina, United States",
+            "Born ": "February 15, 1989 (age 25), Seattle, Washington, United States",
             "People also search for": []
         },
         "Bob Flock": {
@@ -244,6 +219,24 @@
             "type": "NASCAR Driver",
             "Born ": "April 16, 1918, Fort Payne, Alabama, United States",
             "Died ": "May 16, 1964",
+            "People also search for": []
+        },
+        "Bill Amick": {
+            "label": "Bill Amick",
+            "description": "Bill Amick was a NASCAR Grand National and West Coast driver from Portland, Oregon. He has one win, nineteen top-fives, twenty-seven top 10s, and five poles in Grand National. Wikipedia",
+            "type": "NASCAR Driver",
+            "Born ": "November 16, 1925",
+            "Died ": "July 15, 1995",
+            "People also search for": []
+        },
+        "Boris Said": {
+            "label": "Boris Said",
+            "description": "Boris Said III is an American race car driver from Carlsbad, California but considers his hometown to be Stamford, Connecticut and was born in New York City. Wikipedia",
+            "type": "Race car driver",
+            "Born ": "September 18, 1962 (age 51), New York City, New York, United States",
+            "Education ": [
+                "Princeton University"
+            ],
             "People also search for": []
         },
         "Bobby Hamilton, Jr.": {
@@ -269,27 +262,6 @@
             ],
             "People also search for": []
         },
-        "Boris Said": {
-            "label": "Boris Said",
-            "description": "Boris Said III is an American race car driver from Carlsbad, California but considers his hometown to be Stamford, Connecticut and was born in New York City. Wikipedia",
-            "type": "Race car driver",
-            "Born ": "September 18, 1962 (age 51), New York City, New York, United States",
-            "Education ": [
-                "Princeton University"
-            ],
-            "People also search for": []
-        },
-        "Buck Baker": {
-            "label": "Buck Baker",
-            "description": "Elzie Wylie Baker Sr., better known as Buck Baker, was an American racing driver. Born in Richburg, South Carolina, Baker began his NASCAR career in 1949 and won his first race three years later at Columbia Speedway. Wikipedia",
-            "type": "NASCAR Driver",
-            "Born ": "March 4, 1919, Richburg, South Carolina, United States",
-            "Died ": "April 14, 2002, Charlotte, North Carolina, United States",
-            "Children ": [
-                "Buddy Baker"
-            ],
-            "People also search for": []
-        },
         "Carl Long": {
             "label": "Carl Long",
             "description": "James Carlyle \"Carl\" Long is a NASCAR race car driver and mechanic who is currently driving the #15 Ford Mustang for Rick Ware Racing in the Nationwide Series. Wikipedia",
@@ -305,13 +277,14 @@
             ],
             "People also search for": []
         },
-        "Chad Little": {
-            "label": "Chad Little",
-            "description": "Chad Little is a former NASCAR driver. He holds a degree in marketing from Washington State University, and a law degree from Gonzaga University. While attending Washington State University he joined the Delta Upsilon Fraternity. Wikipedia",
+        "Buck Baker": {
+            "label": "Buck Baker",
+            "description": "Elzie Wylie Baker Sr., better known as Buck Baker, was an American racing driver. Born in Richburg, South Carolina, Baker began his NASCAR career in 1949 and won his first race three years later at Columbia Speedway. Wikipedia",
             "type": "NASCAR Driver",
-            "Born ": "April 29, 1963 (age 50), Spokane, Washington, United States",
-            "Education ": [
-                "Washington State University"
+            "Born ": "March 4, 1919, Richburg, South Carolina, United States",
+            "Died ": "April 14, 2002, Charlotte, North Carolina, United States",
+            "Children ": [
+                "Buddy Baker"
             ],
             "People also search for": []
         },
@@ -340,6 +313,16 @@
             "type": "Race car driver",
             "Born ": "August 4, 1936, Paris, France",
             "Died ": "November 9, 1999",
+            "People also search for": []
+        },
+        "Chad Little": {
+            "label": "Chad Little",
+            "description": "Chad Little is a former NASCAR driver. He holds a degree in marketing from Washington State University, and a law degree from Gonzaga University. While attending Washington State University he joined the Delta Upsilon Fraternity. Wikipedia",
+            "type": "NASCAR Driver",
+            "Born ": "April 29, 1963 (age 50), Spokane, Washington, United States",
+            "Education ": [
+                "Washington State University"
+            ],
             "People also search for": []
         },
         "Colin Braun": {
@@ -394,6 +377,20 @@
             "Born ": "September 8, 1937 (age 76), Augusta, Georgia, United States",
             "People also search for": []
         },
+        "Gary Bettenhausen": {
+            "label": "Gary Bettenhausen",
+            "description": "Gary Bettenhausen was an American auto racing driver. He was born in Blue Island, Illinois, raised in Tinley Park, Illinois, graduated in the class of 1962 from Bremen High School in Midlothian, Illinois ... Wikipedia",
+            "type": "Race car driver",
+            "Born ": "November 18, 1941, Tinley Park, Illinois, United States",
+            "Died ": "March 16, 2014, Monrovia, Indiana, United States",
+            "Parents ": [
+                "Tony Bettenhausen"
+            ],
+            "Siblings ": [
+                "Merle Bettenhausen"
+            ],
+            "People also search for": []
+        },
         "Greg Biffle": {
             "label": "Greg Biffle",
             "description": "Gregory Jack \"Greg\" Biffle is a NASCAR driver who drives the No. 16 Ford Fusion for Roush Fenway Racing in the Sprint Cup Series. Wikipedia",
@@ -408,20 +405,6 @@
             "Movies and TV shows ": [
                 "Paula's Party",
                 " Full Throttle Adrenaline Vol. 2"
-            ],
-            "People also search for": []
-        },
-        "Gary Bettenhausen": {
-            "label": "Gary Bettenhausen",
-            "description": "Gary Bettenhausen was an American auto racing driver. He was born in Blue Island, Illinois, raised in Tinley Park, Illinois, graduated in the class of 1962 from Bremen High School in Midlothian, Illinois ... Wikipedia",
-            "type": "Race car driver",
-            "Born ": "November 18, 1941, Tinley Park, Illinois, United States",
-            "Died ": "March 16, 2014, Monrovia, Indiana, United States",
-            "Parents ": [
-                "Tony Bettenhausen"
-            ],
-            "Siblings ": [
-                "Merle Bettenhausen"
             ],
             "People also search for": []
         },
@@ -445,21 +428,6 @@
             ],
             "People also search for": []
         },
-        "Jeremy Mayfield": {
-            "label": "Jeremy Mayfield",
-            "description": "Jeremy Allen Mayfield is a former NASCAR driver who last competed in 2009 due to legal troubles and an indefinite suspension by NASCAR. Wikipedia",
-            "type": "NASCAR Driver",
-            "Born ": "May 27, 1969 (age 44), Owensboro, Kentucky, United States",
-            "Spouse ": [
-                "Shana Sessions Mayfield"
-            ],
-            "Awards ": [
-                "NASCAR Rookie of the Year",
-                " Kentucky Motor Speedway Rookie of the Year",
-                " Auto Racing Club Rookie of the Year"
-            ],
-            "People also search for": []
-        },
         "Jeff Andretti": {
             "label": "Jeff Andretti",
             "description": "Jeff Andretti is a former American race car driver. He competed in CART, and was the series' Rookie of the Year in 1991. Wikipedia",
@@ -472,6 +440,21 @@
             "Parents ": [
                 "Dee Ann Andretti",
                 " Mario Andretti"
+            ],
+            "People also search for": []
+        },
+        "Jeremy Mayfield": {
+            "label": "Jeremy Mayfield",
+            "description": "Jeremy Allen Mayfield is a former NASCAR driver who last competed in 2009 due to legal troubles and an indefinite suspension by NASCAR. Wikipedia",
+            "type": "NASCAR Driver",
+            "Born ": "May 27, 1969 (age 44), Owensboro, Kentucky, United States",
+            "Spouse ": [
+                "Shana Sessions Mayfield"
+            ],
+            "Awards ": [
+                "NASCAR Rookie of the Year",
+                " Kentucky Motor Speedway Rookie of the Year",
+                " Auto Racing Club Rookie of the Year"
             ],
             "People also search for": []
         },
@@ -532,6 +515,24 @@
             ],
             "People also search for": []
         },
+        "Bob Cooper (racing driver)": {
+            "label": "Bob Cooper",
+            "description": "Bob Cooper is a retired driver that raced in the NASCAR Grand National Series from 1962 to 1969. Wikipedia",
+            "type": "NASCAR Driver",
+            "Born ": "November 13, 1935 (age 78), Gastonia, North Carolina, United States",
+            "People also search for": []
+        },
+        "Kevin Grubb": {
+            "label": "Kevin Grubb",
+            "description": "Kevin Grubb was an American race car driver from Mechanicsville, Virginia. He was the younger brother of former race car driver Wayne Grubb. Wikipedia",
+            "type": "Race car driver",
+            "Born ": "April 19, 1978, Mechanicsville, Virginia, United States",
+            "Died ": "May 6, 2009, Richmond, Virginia, United States",
+            "Siblings ": [
+                "Wayne Grubb"
+            ],
+            "People also search for": []
+        },
         "Kurt Busch": {
             "label": "Kurt Busch",
             "description": "Kurt Thomas Busch is an American stock car racing driver. He competes in the NASCAR Sprint Cup Series, driving the No. 41 Haas Automation Chevrolet SS for Stewart-Haas Racing. Wikipedia",
@@ -552,17 +553,6 @@
             "Parents ": [
                 "Gaye Busch",
                 " Tom Busch"
-            ],
-            "People also search for": []
-        },
-        "Kevin Grubb": {
-            "label": "Kevin Grubb",
-            "description": "Kevin Grubb was an American race car driver from Mechanicsville, Virginia. He was the younger brother of former race car driver Wayne Grubb. Wikipedia",
-            "type": "Race car driver",
-            "Born ": "April 19, 1978, Mechanicsville, Virginia, United States",
-            "Died ": "May 6, 2009, Richmond, Virginia, United States",
-            "Siblings ": [
-                "Wayne Grubb"
             ],
             "People also search for": []
         },
@@ -589,35 +579,6 @@
             ],
             "Recent posts": []
         },
-        "Lee Petty": {
-            "label": "Lee Petty",
-            "description": "Lee Arnold Petty was an American stock car driver in the 1950s and 1960s. He was one of the pioneers of NASCAR, and one of its first superstars. Wikipedia",
-            "type": "NASCAR Driver",
-            "Born ": "March 14, 1914, Randleman, North Carolina, United States",
-            "Died ": "April 5, 2000, Greensboro, North Carolina, United States",
-            "Spouse ": [
-                "Elizabeth Petty (m. 1937–2000)"
-            ],
-            "Children ": [
-                "Richard Petty",
-                " Maurice Petty"
-            ],
-            "People also search for": []
-        },
-        "Lloyd Dane": {
-            "label": "Lloyd Dane",
-            "description": "Lloyd Dane is a former NASCAR Grand National Series driver from Eldon, Missouri. He participated part time in the 1951 and 1954 to 1964 seasons, capturing 4 wins, all in his own car. Wikipedia",
-            "type": "NASCAR Driver",
-            "Born ": "August 19, 1925 (age 88), Eldon, Missouri, United States",
-            "People also search for": []
-        },
-        "Lake Speed": {
-            "label": "Lake Speed",
-            "description": "Lake Chambers Speed is a American stock car racintg driver. Now retired, he formerly competed in the NASCAR Winston Cup Series, scoring one career win in 402 starts. Wikipedia",
-            "type": "NASCAR Driver",
-            "Born ": "January 17, 1948 (age 66), Jackson, Mississippi, United States",
-            "People also search for": []
-        },
         "Kyle Petty": {
             "label": "Kyle Petty",
             "description": "'Kyle Eugene Petty is an American stock car racing driver. Now retired, he formerly competed in the NASCAR Sprint Cup Series, and is currently a co-host for NASCAR RaceDay, which is on Fox Sports 1. He also commentates for TNT in the summer. Wikipedia",
@@ -641,6 +602,35 @@
                 " Rebecca Petty Moffit"
             ],
             "Movies and TV shows": []
+        },
+        "Lake Speed": {
+            "label": "Lake Speed",
+            "description": "Lake Chambers Speed is a American stock car racintg driver. Now retired, he formerly competed in the NASCAR Winston Cup Series, scoring one career win in 402 starts. Wikipedia",
+            "type": "NASCAR Driver",
+            "Born ": "January 17, 1948 (age 66), Jackson, Mississippi, United States",
+            "People also search for": []
+        },
+        "Lee Petty": {
+            "label": "Lee Petty",
+            "description": "Lee Arnold Petty was an American stock car driver in the 1950s and 1960s. He was one of the pioneers of NASCAR, and one of its first superstars. Wikipedia",
+            "type": "NASCAR Driver",
+            "Born ": "March 14, 1914, Randleman, North Carolina, United States",
+            "Died ": "April 5, 2000, Greensboro, North Carolina, United States",
+            "Spouse ": [
+                "Elizabeth Petty (m. 1937–2000)"
+            ],
+            "Children ": [
+                "Richard Petty",
+                " Maurice Petty"
+            ],
+            "People also search for": []
+        },
+        "Lloyd Dane": {
+            "label": "Lloyd Dane",
+            "description": "Lloyd Dane is a former NASCAR Grand National Series driver from Eldon, Missouri. He participated part time in the 1951 and 1954 to 1964 seasons, capturing 4 wins, all in his own car. Wikipedia",
+            "type": "NASCAR Driver",
+            "Born ": "August 19, 1925 (age 88), Eldon, Missouri, United States",
+            "People also search for": []
         },
         "Matt Crafton": {
             "label": "Matt Crafton",
@@ -725,16 +715,6 @@
             "Born ": "August 17, 1929 (age 84), Taylorsville, North Carolina, United States",
             "People also search for": []
         },
-        "Rick Mast": {
-            "label": "Rick Mast",
-            "description": "Rick Mast is a former NASCAR driver. He competed in both the Winston Cup and Busch Series before retiring in 2002. He holds a business administration degree from Blue Ridge Community College. Wikipedia",
-            "type": "NASCAR Driver",
-            "Born ": "March 4, 1957 (age 57), Rockbridge Baths, Virginia, United States",
-            "Education ": [
-                "Blue Ridge Community College"
-            ],
-            "People also search for": []
-        },
         "Richard Childress": {
             "label": "Richard Childress",
             "description": "Richard Childress is a former NASCAR driver and the current team owner of Richard Childress Racing. As a business entrepreneur, Childress became one of the wealthiest men in North Carolina. Wikipedia",
@@ -742,6 +722,16 @@
             "Born ": "September 21, 1945 (age 68), Winston-Salem, North Carolina, United States",
             "Spouse ": [
                 "Judy Childress"
+            ],
+            "People also search for": []
+        },
+        "Rick Mast": {
+            "label": "Rick Mast",
+            "description": "Rick Mast is a former NASCAR driver. He competed in both the Winston Cup and Busch Series before retiring in 2002. He holds a business administration degree from Blue Ridge Community College. Wikipedia",
+            "type": "NASCAR Driver",
+            "Born ": "March 4, 1957 (age 57), Rockbridge Baths, Virginia, United States",
+            "Education ": [
+                "Blue Ridge Community College"
             ],
             "People also search for": []
         },
@@ -784,13 +774,6 @@
             "Born ": "November 18, 1967 (age 46), Cornelius, North Carolina, United States",
             "People also search for": []
         },
-        "Scott Gaylord": {
-            "label": "Scott Gaylord",
-            "description": "Scott Gaylord is an American race car driver. He has competed in four NASCAR Winston Cup Series races, all at Sears Point Raceway, most recently in 1996. He has been a long time competitor in the NASCAR Camping World West Series. Wikipedia",
-            "type": "NASCAR Driver",
-            "Born ": "August 12, 1958 (age 55), Lakewood, Colorado, United States",
-            "People also search for": []
-        },
         "Scott Riggs": {
             "label": "Scott Riggs",
             "description": "Russell Scott Riggs is an American stock car racing driver. He currently competes part-time in the NASCAR Sprint Cup Series and Camping World Truck Series. Wikipedia",
@@ -803,6 +786,13 @@
                 "Layne Riggs",
                 " Skyler Riggs"
             ],
+            "People also search for": []
+        },
+        "Scott Gaylord": {
+            "label": "Scott Gaylord",
+            "description": "Scott Gaylord is an American race car driver. He has competed in four NASCAR Winston Cup Series races, all at Sears Point Raceway, most recently in 1996. He has been a long time competitor in the NASCAR Camping World West Series. Wikipedia",
+            "type": "NASCAR Driver",
+            "Born ": "August 12, 1958 (age 55), Lakewood, Colorado, United States",
             "People also search for": []
         },
         "Scott Wimmer": {
@@ -818,6 +808,14 @@
             ],
             "People also search for": []
         },
+        "Shorty Rollins": {
+            "label": "Shorty Rollins",
+            "description": "Lloyd George \"Shorty\" Rollins, nicknamed \"Shorty\", born in Granbury, Texas was the first official NASCAR Rookie of the Year. Wikipedia",
+            "type": "NASCAR Driver",
+            "Born ": "April 3, 1929, Granbury, Texas, United States",
+            "Died ": "December 28, 1998",
+            "People also search for": []
+        },
         "Tim Flock": {
             "label": "Tim Flock",
             "description": "Julius Timothy Flock was one of NASCAR's early pioneers, and a two-time series champion. He was a brother to NASCAR's second female driver Ethel Mobley and NASCAR pioneers Bob Flock and Fonty Flock. Wikipedia",
@@ -828,14 +826,6 @@
                 "Fonty Flock",
                 " Ethel Mobley"
             ],
-            "People also search for": []
-        },
-        "Shorty Rollins": {
-            "label": "Shorty Rollins",
-            "description": "Lloyd George \"Shorty\" Rollins, nicknamed \"Shorty\", born in Granbury, Texas was the first official NASCAR Rookie of the Year. Wikipedia",
-            "type": "NASCAR Driver",
-            "Born ": "April 3, 1929, Granbury, Texas, United States",
-            "Died ": "December 28, 1998",
             "People also search for": []
         },
         "Tiny Lund": {
@@ -943,17 +933,17 @@
             "Died ": "August 13, 1992",
             "People also search for": []
         },
+        "Darrell Bryant": {
+            "label": "D Bryant Retirement Strategies",
+            "description": "",
+            "type": ""
+        },
         "Dakoda Armstrong": {
             "label": "Dakoda Armstrong",
             "description": "Dakoda Armstrong is an American stock car racing driver. A competitor in the NASCAR Nationwide Series, he drives the No. 43 WinField Ford for Richard Petty Motorsports. Wikipedia",
             "type": "NASCAR Driver",
             "Born ": "July 16, 1991 (age 22), New Castle, Indiana, United States",
             "People also search for": []
-        },
-        "Darrell Bryant": {
-            "label": "D Bryant Retirement Strategies",
-            "description": "",
-            "type": ""
         },
         "David Simko": {
             "label": "David Simko",
@@ -975,6 +965,13 @@
             "type": "",
             "Born ": "August 12, 1964 (age 49), Clearwater, Florida, United States"
         },
+        "Fain Skinner": {
+            "label": "Fain Skinner",
+            "description": "Fain Skinner is an American stock car racing driver. Winner of the 1999 World Karting Association National Championship, he races part-time in the NASCAR Nationwide Series and the ARCA Racing Series. Wikipedia",
+            "type": "NASCAR Driver",
+            "Born ": "February 21, 1985 (age 29), Live Oak, Florida, United States",
+            "People also search for": []
+        },
         "Gary Balough": {
             "label": "Gary Balough",
             "description": "Gary Balough is a retired NASCAR Winston Cup Series driver who has competed from 1979 to 1992. Wikipedia",
@@ -982,36 +979,54 @@
             "Born ": "September 16, 1947 (age 66), Fort Lauderdale, Florida, United States",
             "People also search for": []
         },
-        "Fain Skinner": {
-            "label": "Fain Skinner",
-            "description": "Fain Skinner is an American stock car racing driver. Winner of the 1999 World Karting Association National Championship, he races part-time in the NASCAR Nationwide Series and the ARCA Racing Series. Wikipedia",
-            "type": "NASCAR Driver",
-            "Born ": "February 21, 1985 (age 29), Live Oak, Florida, United States",
+        "Scott Speed": {
+            "label": "Scott Speed",
+            "description": "Scott Andrew Speed is an American race car driver. Formerly a driver for the Scuderia Toro Rosso F1 team, he made his Formula One race debut at the 2006 Bahrain Grand Prix; becoming the first American to race in F1 since Michael Andretti in 1993. Wikipedia",
+            "type": "Race car driver",
+            "Born ": "January 24, 1983 (age 31), Manteca, California, United States",
+            "Siblings ": [
+                "Alex Speed"
+            ],
             "People also search for": []
         }
     },
     "summary": {
-        "label": 90,
-        "description": 90,
-        "type": 90,
-        "born": 1,
-        "died": 1,
-        "children": 1,
-        "people_also_search_for": 1,
-        "nationality": 1,
-        "parents": 1,
-        "siblings": 1,
-        "tv_shows": 1,
-        "education": 1,
-        "recent_posts": 1,
-        "height": 1,
-        "full_name": 1,
-        "spouse": 1,
-        "salary": 1,
-        "awards": 1,
-        "movies": 1,
-        "movies_and_tv_shows": 1,
-        "nominations": 1
+        "label": {
+            "uri": "http://www.w3.org/2000/01/rdf-schema#label",
+            "count": 90
+        },
+        "description": {
+            "uri": "http://dbpedia.org/property/description",
+            "count": 90
+        },
+        "type": {
+            "uri": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+            "count": 90
+        },
+        "nationality": {
+            "uri": "http://dbpedia.org/property/nationality",
+            "count": 10
+        },
+        "parents": {
+            "uri": "http://dbpedia.org/property/parents",
+            "count": 15
+        },
+        "died": {
+            "uri": "http://dbpedia.org/property/died",
+            "count": 22
+        },
+        "children": {
+            "uri": "http://dbpedia.org/property/children",
+            "count": 11
+        },
+        "spouse": {
+            "uri": "http://dbpedia.org/property/spouse",
+            "count": 19
+        },
+        "awards": {
+            "uri": "http://dbpedia.org/property/awards",
+            "count": 2
+        }
     },
     "infoboxless": [
         "A. J. Foyt",
@@ -1024,5 +1039,19 @@
         "Doug Wilson (racing driver)",
         "Eliseo Salazar  NASCAR career  1",
         "George Parrish"
-    ]
+    ],
+    "Unmapped_Properties": {
+        "born": 1,
+        "siblings": 1,
+        "tvShows": 1,
+        "education": 1,
+        "recentPosts": 1,
+        "peopleAlsoSearchFor": 1,
+        "height": 1,
+        "fullName": 1,
+        "salary": 1,
+        "movies": 1,
+        "moviesAndTvShows": 1,
+        "nominations": 1
+    }
 }

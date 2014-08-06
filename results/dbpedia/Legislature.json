@@ -6,14 +6,14 @@
             "type": "",
             "People also search for": []
         },
-        "Congress of Deputies (Spain)": {
-            "label": "Congress of Deputies",
+        "New York City Council": {
+            "label": "New York City Council",
             "description": "",
             "type": "",
             "People also search for": []
         },
-        "New York City Council": {
-            "label": "New York City Council",
+        "Congress of Deputies (Spain)": {
+            "label": "Congress of Deputies",
             "description": "",
             "type": "",
             "People also search for": []
@@ -40,16 +40,16 @@
             "description": "",
             "type": ""
         },
-        "West Sussex County Council": {
-            "label": "West Sussex County Council",
-            "description": "West Sussex County Council is the authority that governs the non-metropolitan county of West Sussex. The county also contains 7 district and borough councils, and 159 town, parish and neighbourhood councils. Wikipedia",
-            "type": "",
-            "See results about": []
-        },
         "Scottish Parliament": {
             "label": "Scottish Parliament",
             "description": "The Scottish Parliament is the devolved national, unicameral legislature of Scotland, located in the Holyrood area of the capital, Edinburgh. Wikipedia",
             "type": "Governmental Body",
+            "See results about": []
+        },
+        "West Sussex County Council": {
+            "label": "West Sussex County Council",
+            "description": "West Sussex County Council is the authority that governs the non-metropolitan county of West Sussex. The county also contains 7 district and borough councils, and 159 town, parish and neighbourhood councils. Wikipedia",
+            "type": "",
             "See results about": []
         },
         "Sutton London Borough Council": {
@@ -130,18 +130,18 @@
         }
     },
     "summary": {
-        "label": 17,
-        "description": 17,
-        "type": 17,
-        "people_also_search_for": 1,
-        "see_results_about": 1,
-        "area": 1,
-        "university": 1,
-        "ceo": 1,
-        "colleges_and_universities": 1,
-        "weather": 1,
-        "local_time": 1,
-        "points_of_interest": 1
+        "label": {
+            "uri": "http://dbpedia.org/property/label",
+            "count": 17
+        },
+        "description": {
+            "uri": "http://fr.dbpedia.org/ontology/abstract",
+            "count": 17
+        },
+        "type": {
+            "uri": "http://dbpedia.org/property/type",
+            "count": 17
+        }
     },
     "infoboxless": [
         "Belgian Chamber of Representatives",
@@ -227,5 +227,16 @@
         "Maine Legislature",
         "Maine Senate",
         "Maryland General Assembly"
-    ]
+    ],
+    "Unmapped_Properties": {
+        "peopleAlsoSearchFor": 1,
+        "seeResultsAbout": 1,
+        "area": 1,
+        "university": 1,
+        "ceo": 1,
+        "collegesAndUniversities": 1,
+        "weather": 1,
+        "localTime": 1,
+        "pointsOfInterest": 1
+    }
 }

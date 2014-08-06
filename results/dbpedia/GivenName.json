@@ -69,6 +69,13 @@
             ],
             "Books": []
         },
+        "Catherine": {
+            "label": "Catherine",
+            "description": "Catherine is a puzzle-platformer adventure video game developed by Atlus Persona Team and published by Atlus for the PlayStation 3 and Xbox 360. Wikipedia",
+            "type": "Video Game",
+            "Release date ": "July 26, 2011",
+            "Songs": []
+        },
         "Karadžić": {
             "label": "Radovan Karadžić",
             "description": "Radovan Karadžić is a former Bosnian Serb politician. During the breakup of Yugoslavia, Karadžić, as President of the Republika Srpska, sought the direct unification of that entity with Serbia. Wikipedia",
@@ -82,13 +89,6 @@
                 " University of Sarajevo"
             ],
             "People also search for": []
-        },
-        "Catherine": {
-            "label": "Catherine",
-            "description": "Catherine is a puzzle-platformer adventure video game developed by Atlus Persona Team and published by Atlus for the PlayStation 3 and Xbox 360. Wikipedia",
-            "type": "Video Game",
-            "Release date ": "July 26, 2011",
-            "Songs": []
         },
         "Olga (name)": {
             "label": "Olga of Kiev",
@@ -154,6 +154,37 @@
             ],
             "People also search for": []
         },
+        "Theodoric": {
+            "label": "Theoderic the Great",
+            "description": "Theoderic the Great, often referred to as Theodoric, was king of the Germanic Ostrogoths, ruler of Italy, regent of the Visigoths, and a viceroy of the Eastern Roman Empire. Wikipedia",
+            "type": "King of the Ostrogoths",
+            "Born ": [
+                "454 AD",
+                " Pannonia"
+            ],
+            "Died ": [
+                "August 30",
+                " 526 AD",
+                " Ravenna",
+                " Italy"
+            ],
+            "Spouse ": [
+                "Audofleda"
+            ],
+            "Children ": [
+                "Amalasuntha",
+                " Austrigusa",
+                " Theodegotho"
+            ],
+            "Siblings ": [
+                "Amalafrida"
+            ],
+            "Parents ": [
+                "Ereleuva",
+                " Theodemir"
+            ],
+            "People also search for": []
+        },
         "William (name)": {
             "label": "William the Conqueror",
             "description": "William I, usually known as William the Conqueror and sometimes William the Bastard, was the first Norman King of England, reigning from 1066 until his death in 1087. Wikipedia",
@@ -185,37 +216,6 @@
                 " Cecilia of Normandy",
                 " Agatha of Normandy",
                 " MatildaMore"
-            ],
-            "People also search for": []
-        },
-        "Theodoric": {
-            "label": "Theoderic the Great",
-            "description": "Theoderic the Great, often referred to as Theodoric, was king of the Germanic Ostrogoths, ruler of Italy, regent of the Visigoths, and a viceroy of the Eastern Roman Empire. Wikipedia",
-            "type": "King of the Ostrogoths",
-            "Born ": [
-                "454 AD",
-                " Pannonia"
-            ],
-            "Died ": [
-                "August 30",
-                " 526 AD",
-                " Ravenna",
-                " Italy"
-            ],
-            "Spouse ": [
-                "Audofleda"
-            ],
-            "Children ": [
-                "Amalasuntha",
-                " Austrigusa",
-                " Theodegotho"
-            ],
-            "Siblings ": [
-                "Amalafrida"
-            ],
-            "Parents ": [
-                "Ereleuva",
-                " Theodemir"
             ],
             "People also search for": []
         },
@@ -339,23 +339,6 @@
             ],
             "People also search for": []
         },
-        "Maarja": {
-            "label": "Maarja-Liis Ilus",
-            "description": "Maarja-Liis Ilus, sometimes better known by her performing name Maarja is a pop musician. She has represented her native Estonia in the Eurovision Song Contest twice. Wikipedia",
-            "type": "Musician",
-            "Born ": "December 24, 1980 (age 33), Tallinn, Estonia",
-            "Albums ": [
-                "Maarja-Liis",
-                " First in Line",
-                " Jõuluingel",
-                " Homme",
-                " City Life",
-                " Kaua veel",
-                " Look Around",
-                " Kuldne põld"
-            ],
-            "People also search for": []
-        },
         "Evelyn (name)": {
             "label": "Evelyn Waugh",
             "description": "Arthur Evelyn St. John Waugh, known as Evelyn Waugh, was an English writer of novels, biographies and travel books. He was also a prolific journalist and reviewer. Wikipedia",
@@ -383,30 +366,46 @@
                 "Alec Waugh"
             ],
             "Books": []
+        },
+        "Maarja": {
+            "label": "Maarja-Liis Ilus",
+            "description": "Maarja-Liis Ilus, sometimes better known by her performing name Maarja is a pop musician. She has represented her native Estonia in the Eurovision Song Contest twice. Wikipedia",
+            "type": "Musician",
+            "Born ": "December 24, 1980 (age 33), Tallinn, Estonia",
+            "Albums ": [
+                "Maarja-Liis",
+                " First in Line",
+                " Jõuluingel",
+                " Homme",
+                " City Life",
+                " Kaua veel",
+                " Look Around",
+                " Kuldne põld"
+            ],
+            "People also search for": []
         }
     },
     "summary": {
-        "label": 13,
-        "description": 13,
-        "type": 13,
-        "born": 1,
-        "died": 1,
-        "full_name": 1,
-        "education": 1,
-        "parents": 1,
-        "children": 1,
-        "people_also_search_for": 1,
-        "movies_and_tv_shows": 1,
-        "spouse": 1,
-        "awards": 1,
-        "books": 1,
-        "release_date": 1,
-        "songs": 1,
-        "nationality": 1,
-        "siblings": 1,
-        "nickname": 1,
-        "assassinated": 1,
-        "albums": 1
+        "label": {
+            "uri": "http://www.w3.org/2000/01/rdf-schema#label",
+            "count": 13
+        },
+        "description": {
+            "uri": "http://fr.dbpedia.org/ontology/abstract",
+            "count": 13
+        },
+        "type": {
+            "uri": "http://dbpedia.org/property/type",
+            "count": 13
+        },
+        "born": {
+            "uri": "http://dbpedia.org/property/born",
+            "count": 12
+        },
+        "nickname": {
+            "uri": "http://dbpedia.org/property/nickname",
+            "count": 1
+        }
     },
     "infoboxless": [
         "Adalbert (given name)",
@@ -496,5 +495,23 @@
         "Rauno",
         "Rebecca (given name)",
         "Eino"
-    ]
+    ],
+    "Unmapped_Properties": {
+        "died": 1,
+        "fullName": 1,
+        "education": 1,
+        "parents": 1,
+        "children": 1,
+        "peopleAlsoSearchFor": 1,
+        "moviesAndTvShows": 1,
+        "spouse": 1,
+        "awards": 1,
+        "books": 1,
+        "releaseDate": 1,
+        "songs": 1,
+        "nationality": 1,
+        "siblings": 1,
+        "assassinated": 1,
+        "albums": 1
+    }
 }

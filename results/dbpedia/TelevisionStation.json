@@ -6,6 +6,12 @@
             "type": "",
             "See results about": []
         },
+        "CNBC Europe": {
+            "label": "CNBC Europe",
+            "description": "CNBC Europe is a business and financial news television channel which airs across Europe, the Middle East and Africa. The station is based in London, where it shares the Adrian Smith-designed 10 Fleet Place building with Dow Jones & Company. Wikipedia",
+            "type": "",
+            "See results about": []
+        },
         "Discovery Channel": {
             "label": "Discovery Channel",
             "description": "Discovery Channel is an American basic cable and satellite television channel that is the flagship television property of Discovery Communications, a publicly traded company run by CEO David Zaslav. Wikipedia",
@@ -18,27 +24,21 @@
             ],
             "People also search for": []
         },
-        "CNBC Europe": {
-            "label": "CNBC Europe",
-            "description": "CNBC Europe is a business and financial news television channel which airs across Europe, the Middle East and Africa. The station is based in London, where it shares the Adrian Smith-designed 10 Fleet Place building with Dow Jones & Company. Wikipedia",
-            "type": "",
-            "See results about": []
-        },
         "FashionTV": {
             "label": "FashionTV",
             "description": "FashionTV is an international fashion and lifestyle broadcasting television channel. Founded in France in 1997 by its Polish-born president Michel Adam Lisowski, FashionTV has become one of the most ... Wikipedia",
             "type": "",
             "See results about": []
         },
-        "ProSiebenSat.1 Welt": {
-            "label": "ProSiebenSat.1 Welt",
-            "description": "ProSiebenSat.1 Welt is a German-language television channel developed for the North American audiences. Wikipedia",
-            "type": "",
-            "See results about": []
-        },
         "NHK World": {
             "label": "NHK World",
             "description": "NHK World is the international broadcasting service of NHK, Japan's public broadcaster. The service is aimed at the overseas market, similar to BBC World News, DW, France 24 and RT, and broadcast through ... Wikipedia",
+            "type": "",
+            "See results about": []
+        },
+        "ProSiebenSat.1 Welt": {
+            "label": "ProSiebenSat.1 Welt",
+            "description": "ProSiebenSat.1 Welt is a German-language television channel developed for the North American audiences. Wikipedia",
             "type": "",
             "See results about": []
         },
@@ -104,12 +104,6 @@
             "type": "",
             "People also search for": []
         },
-        "Sky News": {
-            "label": "Sky News",
-            "description": "Sky News UK is a 24-hour, multi-media news operation based in Britain. It provides non-stop rolling news on television, online, and on a range of mobile devices – as well as delivering a service of ... Wikipedia",
-            "type": "",
-            "Recent posts": []
-        },
         "KTLA": {
             "label": "KTLA",
             "description": "KTLA, virtual channel 5, is a CW-affiliated television station located in Los Angeles, California, United States. Wikipedia",
@@ -131,19 +125,43 @@
             "description": "Viasat Film is a group of cable and satellite movie channels broadcasting to the Nordic countries and owned by Modern Times Group. Wikipedia",
             "type": "",
             "People also search for": []
+        },
+        "Sky News": {
+            "label": "Sky News",
+            "description": "Sky News UK is a 24-hour, multi-media news operation based in Britain. It provides non-stop rolling news on television, online, and on a range of mobile devices – as well as delivering a service of ... Wikipedia",
+            "type": "",
+            "Recent posts": []
         }
     },
     "summary": {
-        "label": 18,
-        "description": 18,
-        "type": 18,
-        "see_results_about": 1,
-        "founder": 1,
-        "founded": 1,
-        "people_also_search_for": 1,
-        "headquarters": 1,
-        "recent_posts": 1,
-        "ceo": 1
+        "label": {
+            "uri": "http://dbpedia.org/property/label",
+            "count": 18
+        },
+        "description": {
+            "uri": "http://dbpedia.org/property/description",
+            "count": 18
+        },
+        "type": {
+            "uri": "http://dbpedia.org/ontology/type",
+            "count": 18
+        },
+        "founder": {
+            "uri": "http://dbpedia.org/property/founder",
+            "count": 2
+        },
+        "founded": {
+            "uri": "http://dbpedia.org/property/founded",
+            "count": 5
+        },
+        "headquarters": {
+            "uri": "http://dbpedia.org/property/headquarters",
+            "count": 1
+        },
+        "ceo": {
+            "uri": "http://dbpedia.org/property/chairman/ceo",
+            "count": 1
+        }
     },
     "infoboxless": [
         "ČT24",
@@ -228,5 +246,10 @@
         "Viasat Golf",
         "Viasat Hockey",
         "DXDJ-TV"
-    ]
+    ],
+    "Unmapped_Properties": {
+        "seeResultsAbout": 1,
+        "peopleAlsoSearchFor": 1,
+        "recentPosts": 1
+    }
 }

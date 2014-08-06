@@ -6,12 +6,6 @@
             "type": "Musical genre",
             "See results about": []
         },
-        "Acid rock": {
-            "label": "Acid rock",
-            "description": "Acid rock is a form of psychedelic rock, which is characterized by long instrumental solos, few lyrics, and musical improvisation. Wikipedia",
-            "type": "Musical genre",
-            "See results about": []
-        },
         "Bluegrass music": {
             "label": "Bluegrass",
             "description": "Bluegrass music is a form of American roots music, and a sub-genre of country music. Bluegrass was inspired by the music of Appalachia. Wikipedia",
@@ -24,15 +18,15 @@
             "type": "Musical genre",
             "See results about": []
         },
-        "Euro disco": {
-            "label": "Euro disco",
-            "description": "Euro disco is the variety of European forms of electronic dance music that first originated from disco in the 1970s; incorporating elements of pop, new wave and rock into a disco-like continuous dance atmosphere. Wikipedia",
+        "Acid rock": {
+            "label": "Acid rock",
+            "description": "Acid rock is a form of psychedelic rock, which is characterized by long instrumental solos, few lyrics, and musical improvisation. Wikipedia",
             "type": "Musical genre",
             "See results about": []
         },
-        "Digital hardcore": {
-            "label": "Digital hardcore",
-            "description": "Digital hardcore is a music genre that melds hardcore punk with electronic music such as hardcore techno, industrial and drum and bass. Wikipedia",
+        "Son montuno": {
+            "label": "Son montuno",
+            "description": "The son montuno is a sub-genre of Son Cubano. The son itself is the most important genre of Cuban popular music. Wikipedia",
             "type": "Musical genre",
             "See results about": []
         },
@@ -42,9 +36,15 @@
             "type": "Record label",
             "People also search for": []
         },
-        "Son montuno": {
-            "label": "Son montuno",
-            "description": "The son montuno is a sub-genre of Son Cubano. The son itself is the most important genre of Cuban popular music. Wikipedia",
+        "Digital hardcore": {
+            "label": "Digital hardcore",
+            "description": "Digital hardcore is a music genre that melds hardcore punk with electronic music such as hardcore techno, industrial and drum and bass. Wikipedia",
+            "type": "Musical genre",
+            "See results about": []
+        },
+        "Euro disco": {
+            "label": "Euro disco",
+            "description": "Euro disco is the variety of European forms of electronic dance music that first originated from disco in the 1970s; incorporating elements of pop, new wave and rock into a disco-like continuous dance atmosphere. Wikipedia",
             "type": "Musical genre",
             "See results about": []
         },
@@ -56,11 +56,18 @@
         }
     },
     "summary": {
-        "label": 9,
-        "description": 9,
-        "type": 9,
-        "see_results_about": 1,
-        "people_also_search_for": 1
+        "label": {
+            "uri": "http://dbpedia.org/property/label",
+            "count": 9
+        },
+        "description": {
+            "uri": "http://dbpedia.org/property/description",
+            "count": 9
+        },
+        "type": {
+            "uri": "http://dbpedia.org/property/type",
+            "count": 9
+        }
     },
     "infoboxless": [
         "Cosmic music",
@@ -154,5 +161,9 @@
         "Bachata (music)",
         "Barbershop music",
         "Bossa nova"
-    ]
+    ],
+    "Unmapped_Properties": {
+        "seeResultsAbout": 1,
+        "peopleAlsoSearchFor": 1
+    }
 }

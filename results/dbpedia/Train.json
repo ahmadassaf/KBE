@@ -1,14 +1,5 @@
 {
     "instances": {
-        "Doppelmayr": {
-            "label": "Doppelmayr Garaventa Group",
-            "description": "The Doppelmayr Garaventa Group is an Austrian company that manufactures chairlifts, cable cars, gondolas, surface tows for ski and amusement parks as well as urban people movers and material handling systems. Wikipedia",
-            "type": "Company",
-            "Founded ": [
-                "1892"
-            ],
-            "People also search for": []
-        },
         "Parry People Movers": {
             "label": "Parry People Movers",
             "description": "Parry People Movers Ltd. is a British company manufacturing lightweight trams and railcars that use flywheel energy storage to store energy for traction, allowing electric systems to operate without ... Wikipedia",
@@ -32,16 +23,30 @@
                 "1936"
             ],
             "People also search for": []
+        },
+        "Doppelmayr": {
+            "label": "Doppelmayr Garaventa Group",
+            "description": "The Doppelmayr Garaventa Group is an Austrian company that manufactures chairlifts, cable cars, gondolas, surface tows for ski and amusement parks as well as urban people movers and material handling systems. Wikipedia",
+            "type": "Company",
+            "Founded ": [
+                "1892"
+            ],
+            "People also search for": []
         }
     },
     "summary": {
-        "label": 4,
-        "description": 4,
-        "type": 4,
-        "founded": 1,
-        "people_also_search_for": 1,
-        "founder": 1,
-        "see_results_about": 1
+        "label": {
+            "uri": "http://www.w3.org/2000/01/rdf-schema#label",
+            "count": 4
+        },
+        "description": {
+            "uri": "http://dbpedia.org/property/description",
+            "count": 4
+        },
+        "type": {
+            "uri": "http://dbpedia.org/property/type",
+            "count": 4
+        }
     },
     "infoboxless": [
         "Acela Express",
@@ -140,5 +145,11 @@
         "SNCF Class Z 23500",
         "SNCF Class Z 9500",
         "British Rail Class 311"
-    ]
+    ],
+    "Unmapped_Properties": {
+        "founder": 1,
+        "peopleAlsoSearchFor": 1,
+        "seeResultsAbout": 1,
+        "founded": 1
+    }
 }

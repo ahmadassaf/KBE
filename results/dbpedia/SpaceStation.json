@@ -1,25 +1,5 @@
 {
     "instances": {
-        "Genesis II": {
-            "label": "Genesis II",
-            "description": "Genesis II is a 1973 American television film pilot created and produced by Gene Roddenberry and directed by John Llewellyn Moxey. The film, which opens with the line, \"My name is Dylan Hunt. Wikipedia",
-            "type": "1973 Film",
-            "Initial release ": "March 23, 1973",
-            "Director ": [
-                "John Llewellyn Moxey"
-            ],
-            "Running time ": [
-                "74 minutes"
-            ],
-            "Sequel ": [
-                "Planet Earth"
-            ],
-            "Screenplay ": [
-                "Gene Roddenberry"
-            ],
-            "Cast": [],
-            "People also search for": []
-        },
         "International Space Station": {
             "label": "International Space Station",
             "description": "The International Space Station is a space station, or a habitable artificial satellite in low Earth orbit. It is a modular structure whose first component was launched in 1998. Wikipedia",
@@ -42,6 +22,26 @@
             "Manufacturer ": [
                 "Boeing"
             ],
+            "People also search for": []
+        },
+        "Genesis II": {
+            "label": "Genesis II",
+            "description": "Genesis II is a 1973 American television film pilot created and produced by Gene Roddenberry and directed by John Llewellyn Moxey. The film, which opens with the line, \"My name is Dylan Hunt. Wikipedia",
+            "type": "1973 Film",
+            "Initial release ": "March 23, 1973",
+            "Director ": [
+                "John Llewellyn Moxey"
+            ],
+            "Running time ": [
+                "74 minutes"
+            ],
+            "Sequel ": [
+                "Planet Earth"
+            ],
+            "Screenplay ": [
+                "Gene Roddenberry"
+            ],
+            "Cast": [],
             "People also search for": []
         },
         "Salyut 1": {
@@ -146,25 +146,18 @@
         }
     },
     "summary": {
-        "label": 14,
-        "description": 14,
-        "type": 14,
-        "initial_release": 1,
-        "director": 1,
-        "running_time": 1,
-        "sequel": 1,
-        "screenplay": 1,
-        "cast": 1,
-        "people_also_search_for": 1,
-        "orbit_height": 1,
-        "speed_on_orbit": 1,
-        "max_speed": 1,
-        "launch_date": 1,
-        "cost": 1,
-        "manufacturer": 1,
-        "see_results_about": 1,
-        "related_topics": 1,
-        "launch_site": 1
+        "label": {
+            "uri": "http://www.w3.org/2000/01/rdf-schema#label",
+            "count": 14
+        },
+        "description": {
+            "uri": "http://fr.dbpedia.org/ontology/abstract",
+            "count": 14
+        },
+        "type": {
+            "uri": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+            "count": 14
+        }
     },
     "infoboxless": [
         "Genesis I",
@@ -191,5 +184,23 @@
         "Tiangong-1",
         "Pirs docking compartment",
         "Pakistan Mission Control Center"
-    ]
+    ],
+    "Unmapped_Properties": {
+        "orbitHeight": 1,
+        "speedOnOrbit": 1,
+        "maxSpeed": 1,
+        "launchDate": 1,
+        "cost": 1,
+        "manufacturer": 1,
+        "peopleAlsoSearchFor": 1,
+        "initialRelease": 1,
+        "director": 1,
+        "runningTime": 1,
+        "sequel": 1,
+        "screenplay": 1,
+        "cast": 1,
+        "seeResultsAbout": 1,
+        "relatedTopics": 1,
+        "launchSite": 1
+    }
 }

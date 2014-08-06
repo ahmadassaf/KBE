@@ -28,23 +28,6 @@
                 "Coccomyxaceae"
             ]
         },
-        "Chlorella": {
-            "label": "Chlorella",
-            "description": "Chlorella is a genus of single-cell green algae, belonging to the phylum Chlorophyta. It is spherical in shape, about 2 to 10 μm in diameter, and is without flagella. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Chlorella"
-            ],
-            "Rank ": [
-                "Genus"
-            ],
-            "Higher classification ": [
-                "Oocystaceae"
-            ],
-            "Lower classifications ": [
-                "Chlorella pyrenoidosa"
-            ]
-        },
         "Volvocales": {
             "label": "Volvocales",
             "description": "In taxonomy, the Volvocales, also known as Chlamydomonadales, are an order of flagellate or pseudociliate green algae, specifically of the Chlorophyceae. Volvocales can form planar or spherical colonies. These vary from Gonium up to Volvox. Wikipedia",
@@ -76,6 +59,11 @@
             ],
             "See results about": []
         },
+        "Zygnematophyceae": {
+            "label": "Zygnematophyceae",
+            "description": "Zygnematophyceae is a class of green algae. It contains two orders Zygnematales and Desmidiales. Wikipedia",
+            "type": ""
+        },
         "Bambusina": {
             "label": "Bambusina",
             "description": "In taxonomy, Bambusina is a genus of fresh-water algae, specifically of the Desmidiaceae. Wikipedia",
@@ -89,11 +77,6 @@
             "Higher classification ": [
                 "Desmidiaceae"
             ]
-        },
-        "Zygnematophyceae": {
-            "label": "Zygnematophyceae",
-            "description": "Zygnematophyceae is a class of green algae. It contains two orders Zygnematales and Desmidiales. Wikipedia",
-            "type": ""
         },
         "Chlorella pyrenoidosa": {
             "label": "Chlorella pyrenoidosa",
@@ -174,12 +157,12 @@
                 "Genus"
             ]
         },
-        "Micrasterias": {
-            "label": "Micrasterias",
-            "description": "Micrasterias is a unicellular green alga of the Desmidiales order.\nMicrasterias, commonly known as green alga, is a Eukaryotic, unicellular, and ~0.35mm in size. Wikipedia",
+        "Hyalotheca": {
+            "label": "Hyalotheca",
+            "description": "In taxonomy, Hyalotheca is a genus of algae, specifically of the Desmidiaceae. Wikipedia",
             "type": "",
             "Scientific name ": [
-                "Micrasterias"
+                "Hyalotheca"
             ],
             "Rank ": [
                 "Genus"
@@ -188,12 +171,12 @@
                 "Desmidiaceae"
             ]
         },
-        "Hyalotheca": {
-            "label": "Hyalotheca",
-            "description": "In taxonomy, Hyalotheca is a genus of algae, specifically of the Desmidiaceae. Wikipedia",
+        "Micrasterias": {
+            "label": "Micrasterias",
+            "description": "Micrasterias is a unicellular green alga of the Desmidiales order.\nMicrasterias, commonly known as green alga, is a Eukaryotic, unicellular, and ~0.35mm in size. Wikipedia",
             "type": "",
             "Scientific name ": [
-                "Hyalotheca"
+                "Micrasterias"
             ],
             "Rank ": [
                 "Genus"
@@ -213,6 +196,20 @@
                 "Genus"
             ]
         },
+        "Pandorina": {
+            "label": "Pandorina",
+            "description": "Pandorina is a genus of green algae composed of 8, 16, or sometimes 32 cells, held together at their bases to form a sack globular colony surrounded by mucilage. The cells are ovoid or slightly narrowed at one end to appear keystone- or pear-shaped. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Pandorina"
+            ],
+            "Rank ": [
+                "Genus"
+            ],
+            "Higher classification ": [
+                "Volvocaceae"
+            ]
+        },
         "Sphaeropleales": {
             "label": "Sphaeropleales",
             "description": "In taxonomy, the Sphaeropleales are an order of green algae that used to be called Chlorococcales. The order includes some of the most common freshwater planktonic algae such as Scenedesmus and Pediastrum. Wikipedia",
@@ -228,20 +225,6 @@
             ],
             "Lower classifications ": [
                 "Sphaeropleaceae"
-            ]
-        },
-        "Pandorina": {
-            "label": "Pandorina",
-            "description": "Pandorina is a genus of green algae composed of 8, 16, or sometimes 32 cells, held together at their bases to form a sack globular colony surrounded by mucilage. The cells are ovoid or slightly narrowed at one end to appear keystone- or pear-shaped. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Pandorina"
-            ],
-            "Rank ": [
-                "Genus"
-            ],
-            "Higher classification ": [
-                "Volvocaceae"
             ]
         },
         "Staurastrum": {
@@ -284,6 +267,20 @@
                 "Family"
             ]
         },
+        "Avrainvillea": {
+            "label": "Avrainvillea",
+            "description": "In taxonomy, Avrainvillea is a genus of algae, specifically of the Udoteaceae. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Avrainvillea"
+            ],
+            "Rank ": [
+                "Genus"
+            ],
+            "Higher classification ": [
+                "Udoteaceae"
+            ]
+        },
         "Chaetosiphon": {
             "label": "Chaetosiphon",
             "description": "In taxonomy, Chaetosiphon is a genus of algae, specifically of the Chaetosiphonaceae. Wikipedia",
@@ -313,18 +310,18 @@
                 " Trebouxia"
             ]
         },
-        "Avrainvillea": {
-            "label": "Avrainvillea",
-            "description": "In taxonomy, Avrainvillea is a genus of algae, specifically of the Udoteaceae. Wikipedia",
+        "Chlorococcum": {
+            "label": "Chlorococcum",
+            "description": "Chlorococcum is a genus of algae, in the family Chlorococcaceae. Wikipedia",
             "type": "",
             "Scientific name ": [
-                "Avrainvillea"
+                "Chlorococcum"
             ],
             "Rank ": [
                 "Genus"
             ],
             "Higher classification ": [
-                "Udoteaceae"
+                "Chlorococcaceae"
             ]
         },
         "Chlorodesmis": {
@@ -347,20 +344,6 @@
             "type": "",
             "Rank ": [
                 "Genus"
-            ]
-        },
-        "Chlorococcum": {
-            "label": "Chlorococcum",
-            "description": "Chlorococcum is a genus of algae, in the family Chlorococcaceae. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Chlorococcum"
-            ],
-            "Rank ": [
-                "Genus"
-            ],
-            "Higher classification ": [
-                "Chlorococcaceae"
             ]
         },
         "Desmococcus": {
@@ -466,12 +449,12 @@
                 "Genus"
             ]
         },
-        "Sphaerozosma": {
-            "label": "Sphaerozosma",
-            "description": "In taxonomy, Sphaerozosma is a genus of algae, specifically of the Desmidiaceae. Wikipedia",
+        "Spondylosium": {
+            "label": "Spondylosium",
+            "description": "In taxonomy, Spondylosium is a genus of algae, specifically of the Desmidiaceae. Wikipedia",
             "type": "",
             "Scientific name ": [
-                "Sphaerozosma"
+                "Spondylosium"
             ],
             "Rank ": [
                 "Genus"
@@ -480,12 +463,12 @@
                 "Desmidiaceae"
             ]
         },
-        "Spondylosium": {
-            "label": "Spondylosium",
-            "description": "In taxonomy, Spondylosium is a genus of algae, specifically of the Desmidiaceae. Wikipedia",
+        "Sphaerozosma": {
+            "label": "Sphaerozosma",
+            "description": "In taxonomy, Sphaerozosma is a genus of algae, specifically of the Desmidiaceae. Wikipedia",
             "type": "",
             "Scientific name ": [
-                "Spondylosium"
+                "Sphaerozosma"
             ],
             "Rank ": [
                 "Genus"
@@ -557,6 +540,14 @@
                 " BryopsidaceaeMore"
             ]
         },
+        "Halimeda tuna": {
+            "label": "Halimeda tuna",
+            "description": "Halimeda tuna is a species of green macroalgae.\nHalimeda tuna is the type species of the genus Halimeda. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Halimeda tuna"
+            ]
+        },
         "Nitella": {
             "label": "Nitella",
             "description": "Nitella is a genus of alga in the family Characeae. Wikipedia",
@@ -568,14 +559,6 @@
                 "Characeae"
             ],
             "See results about": []
-        },
-        "Halimeda tuna": {
-            "label": "Halimeda tuna",
-            "description": "Halimeda tuna is a species of green macroalgae.\nHalimeda tuna is the type species of the genus Halimeda. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Halimeda tuna"
-            ]
         },
         "Nitella flexilis": {
             "label": "Nitella flexilis",
@@ -874,6 +857,23 @@
                 "Dictyosphaeriaceae"
             ]
         },
+        "Chlorella": {
+            "label": "Chlorella",
+            "description": "Chlorella is a genus of single-cell green algae, belonging to the phylum Chlorophyta. It is spherical in shape, about 2 to 10 μm in diameter, and is without flagella. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Chlorella"
+            ],
+            "Rank ": [
+                "Genus"
+            ],
+            "Higher classification ": [
+                "Oocystaceae"
+            ],
+            "Lower classifications ": [
+                "Chlorella pyrenoidosa"
+            ]
+        },
         "Fritschiella": {
             "label": "Fritschiella",
             "description": "Fritschiella is a genus of algae, in the family Chaetophoraceae. Wikipedia",
@@ -884,15 +884,18 @@
         }
     },
     "summary": {
-        "label": 68,
-        "description": 68,
-        "type": 68,
-        "scientific_name": 1,
-        "rank": 1,
-        "higher_classification": 1,
-        "lower_classifications": 1,
-        "see_results_about": 1,
-        "people_also_search_for": 1
+        "label": {
+            "uri": "http://www.w3.org/2000/01/rdf-schema#label",
+            "count": 68
+        },
+        "description": {
+            "uri": "http://fr.dbpedia.org/ontology/abstract",
+            "count": 68
+        },
+        "type": {
+            "uri": "http://dbpedia.org/property/type",
+            "count": 68
+        }
     },
     "infoboxless": [
         "Anadyomene (alga)",
@@ -927,5 +930,13 @@
         "Endosphaeraceae",
         "Geppella",
         "Gilbertsmithia"
-    ]
+    ],
+    "Unmapped_Properties": {
+        "scientificName": 1,
+        "rank": 1,
+        "higherClassification": 1,
+        "lowerClassifications": 1,
+        "seeResultsAbout": 1,
+        "peopleAlsoSearchFor": 1
+    }
 }

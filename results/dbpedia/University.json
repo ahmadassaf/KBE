@@ -27,12 +27,6 @@
             ],
             "People also search for": []
         },
-        "École nationale de l'aviation civile": {
-            "label": "École nationale de l'aviation civile",
-            "description": "The École Nationale de l'Aviation Civile is a French grande école created on 28 August 1949 to provide initial and continuing education in the field of civil aviation. Wikipedia",
-            "type": "",
-            "People also search for": []
-        },
         "École centrale de Nantes": {
             "label": "École Centrale de Nantes",
             "description": "École Centrale de Nantes is a renowned French Grande école of engineering, established in 1919 under the name of Institut Polytechnique de l'Ouest. Wikipedia",
@@ -45,6 +39,12 @@
             "Hours ": [
                 "1919"
             ]
+        },
+        "École nationale de l'aviation civile": {
+            "label": "École nationale de l'aviation civile",
+            "description": "The École Nationale de l'Aviation Civile is a French grande école created on 28 August 1949 to provide initial and continuing education in the field of civil aviation. Wikipedia",
+            "type": "",
+            "People also search for": []
         },
         "École nationale supérieure de l'aéronautique et de l'espace": {
             "label": "École Nationale Supérieure de l'Aéronautique et de l'Espace",
@@ -92,20 +92,6 @@
             ],
             "People also search for": []
         },
-        "Al-Azhar University": {
-            "label": "Al-Azhar University",
-            "description": "Al-Azhar University is a university in Cairo, Egypt. Founded in 970 or 972 by the Fatimids as a centre of Islamic learning, its students studied the Qur'an and Islamic law in detail, along with logic, ... Wikipedia",
-            "type": "",
-            "Address ": [
-                "1 Al Mokhaym Al Daem",
-                " Cairo Governorate",
-                " Egypt"
-            ],
-            "Phone ": [
-                "+20 2 22623279"
-            ],
-            "People also search for": []
-        },
         "Akita International University": {
             "label": "Akita International University",
             "description": "Akita International University, or AIU, is a public university located in Akita City, Akita Prefecture, Japan. Wikipedia",
@@ -128,6 +114,20 @@
             "Colors ": [
                 "Green",
                 " Beige"
+            ],
+            "People also search for": []
+        },
+        "Al-Azhar University": {
+            "label": "Al-Azhar University",
+            "description": "Al-Azhar University is a university in Cairo, Egypt. Founded in 970 or 972 by the Fatimids as a centre of Islamic learning, its students studied the Qur'an and Islamic law in detail, along with logic, ... Wikipedia",
+            "type": "",
+            "Address ": [
+                "1 Al Mokhaym Al Daem",
+                " Cairo Governorate",
+                " Egypt"
+            ],
+            "Phone ": [
+                "+20 2 22623279"
             ],
             "People also search for": []
         },
@@ -825,15 +825,6 @@
             ],
             "People also search for": []
         },
-        "Cracow University of Economics": {
-            "label": "Academy of Economics in Kraków",
-            "description": "Cracow University of Economics is one of the five Polish public economics universities. CUE came into existence in 1925. It is the biggest university of economic sciences in Poland. Wikipedia",
-            "type": "",
-            "Founded ": [
-                "1925"
-            ],
-            "People also search for": []
-        },
         "Comenius University in Bratislava": {
             "label": "Comenius University in Bratislava",
             "description": "Comenius University in Bratislava is the largest university in Slovakia, with most of its faculties located in Bratislava. It was founded in 1919, shortly after the creation of Czechoslovakia. Wikipedia",
@@ -851,6 +842,15 @@
                 "000 (2006)"
             ],
             "Founded ": "June 27, 1919",
+            "People also search for": []
+        },
+        "Cracow University of Economics": {
+            "label": "Academy of Economics in Kraków",
+            "description": "Cracow University of Economics is one of the five Polish public economics universities. CUE came into existence in 1925. It is the biggest university of economic sciences in Poland. Wikipedia",
+            "type": "",
+            "Founded ": [
+                "1925"
+            ],
             "People also search for": []
         },
         "Cracow University of Technology": {
@@ -1586,49 +1586,6 @@
             ],
             "People also search for": []
         },
-        "King Abdullah University of Science and Technology": {
-            "label": "King Abdullah University of Science and Technology",
-            "description": "King Abdullah University of Science and Technology is a public research university located in Thuwal, Saudi Arabia. KAUST was built and is operated by Saudi Aramco. Wikipedia",
-            "type": "",
-            "Address ": [
-                "Thuwal Saudi Arabia"
-            ],
-            "Founder ": [
-                "Abdullah of Saudi Arabia"
-            ],
-            "Founded ": "September 5, 2009",
-            "Phone ": [
-                "+966 2 808 3428"
-            ],
-            "Colors ": [
-                "Yellow",
-                " Blue",
-                " Green",
-                " Orange"
-            ],
-            "People also search for": []
-        },
-        "Klaipėda University": {
-            "label": "Klaipėda University",
-            "description": "Klaipėda University is a university in the Lithuanian seaport Klaipėda. Wikipedia",
-            "type": "",
-            "Address ": [
-                "H. Manto gatvė 84",
-                " Klaipėda 92294",
-                " Lithuania"
-            ],
-            "Phone ": [
-                "+370 46 398500"
-            ],
-            "Enrollment ": [
-                "8",
-                "000 (2010)"
-            ],
-            "Founded ": [
-                "1991"
-            ],
-            "People also search for": []
-        },
         "Kent State University": {
             "label": "Kent State University",
             "description": "Kent State University is a public research university located in Kent, Ohio, United States. The university has eight campuses around the Northeast Ohio region with the main campus in Kent being the largest. Wikipedia",
@@ -1664,6 +1621,28 @@
             ],
             "Recent posts": []
         },
+        "King Abdullah University of Science and Technology": {
+            "label": "King Abdullah University of Science and Technology",
+            "description": "King Abdullah University of Science and Technology is a public research university located in Thuwal, Saudi Arabia. KAUST was built and is operated by Saudi Aramco. Wikipedia",
+            "type": "",
+            "Address ": [
+                "Thuwal Saudi Arabia"
+            ],
+            "Founder ": [
+                "Abdullah of Saudi Arabia"
+            ],
+            "Founded ": "September 5, 2009",
+            "Phone ": [
+                "+966 2 808 3428"
+            ],
+            "Colors ": [
+                "Yellow",
+                " Blue",
+                " Green",
+                " Orange"
+            ],
+            "People also search for": []
+        },
         "King Edward VI Grammar School (Chelmsford)": {
             "label": "King Edward VI Grammar School, Chelmsford",
             "description": "King Edward VI Grammar School, or KEGS, is a British grammar school with academy status located in the city of Chelmsford, Essex, England. Wikipedia",
@@ -1681,26 +1660,24 @@
                 "1551"
             ]
         },
-        "La Trobe University": {
-            "label": "La Trobe University, Mildura Campus",
-            "description": "",
-            "type": ""
-        },
-        "Long Beach Museum of Art": {
-            "label": "Long Beach Museum of Art",
-            "description": "The Long Beach Museum of Art is a museum located on Ocean Boulevard in the Bluff Park neighborhood of Long Beach, California, United States. Wikipedia",
+        "Klaipėda University": {
+            "label": "Klaipėda University",
+            "description": "Klaipėda University is a university in the Lithuanian seaport Klaipėda. Wikipedia",
             "type": "",
             "Address ": [
-                "2300 E Ocean Blvd",
-                " Long Beach",
-                " CA 90803",
-                " United States"
-            ],
-            "Hours ": [
-                "(562) 439-2119"
+                "H. Manto gatvė 84",
+                " Klaipėda 92294",
+                " Lithuania"
             ],
             "Phone ": [
-                "1950"
+                "+370 46 398500"
+            ],
+            "Enrollment ": [
+                "8",
+                "000 (2010)"
+            ],
+            "Founded ": [
+                "1991"
             ],
             "People also search for": []
         },
@@ -1728,6 +1705,29 @@
             ],
             "People also search for": []
         },
+        "La Trobe University": {
+            "label": "La Trobe University, Mildura Campus",
+            "description": "",
+            "type": ""
+        },
+        "Long Beach Museum of Art": {
+            "label": "Long Beach Museum of Art",
+            "description": "The Long Beach Museum of Art is a museum located on Ocean Boulevard in the Bluff Park neighborhood of Long Beach, California, United States. Wikipedia",
+            "type": "",
+            "Address ": [
+                "2300 E Ocean Blvd",
+                " Long Beach",
+                " CA 90803",
+                " United States"
+            ],
+            "Hours ": [
+                "(562) 439-2119"
+            ],
+            "Phone ": [
+                "1950"
+            ],
+            "People also search for": []
+        },
         "MIT Sloan School of Management": {
             "label": "MIT Sloan School of Management",
             "description": "The MIT Sloan School of Management is the business school of the Massachusetts Institute of Technology, in Cambridge, Massachusetts, USA. Wikipedia",
@@ -1744,6 +1744,25 @@
             "Founded ": [
                 "1914"
             ],
+            "People also search for": []
+        },
+        "Makerere University": {
+            "label": "Makerere University",
+            "description": "Makerere University Kampala is Uganda's largest and second-oldest higher institution of learning, first established as a technical school in 1922. Wikipedia",
+            "type": "",
+            "Address ": [
+                "P.O.Box 7062",
+                " Kampala University Rd",
+                " Kampala",
+                " Uganda"
+            ],
+            "Founded ": [
+                "1922"
+            ],
+            "Phone ": [
+                "+256 256414534343"
+            ],
+            "Recent posts": [],
             "People also search for": []
         },
         "Massey University": {
@@ -1838,24 +1857,34 @@
             ],
             "People also search for": []
         },
-        "Makerere University": {
-            "label": "Makerere University",
-            "description": "Makerere University Kampala is Uganda's largest and second-oldest higher institution of learning, first established as a technical school in 1922. Wikipedia",
+        "Middlesex University": {
+            "label": "Middlesex University",
+            "description": "Middlesex University is a university in Hendon, North London, England. It is located within the historic county boundaries of Middlesex from which it takes its name. It is one of the new universities and is a member of Million+ working group. Wikipedia",
             "type": "",
             "Address ": [
-                "P.O.Box 7062",
-                " Kampala University Rd",
-                " Kampala",
-                " Uganda"
-            ],
-            "Founded ": [
-                "1922"
+                "The Burroughs",
+                " London NW4 4BT",
+                " United Kingdom"
             ],
             "Phone ": [
-                "+256 256414534343"
+                "+44 20 8411 5000"
             ],
-            "Recent posts": [],
-            "People also search for": []
+            "Enrollment ": [
+                "23",
+                "175 (2009)"
+            ],
+            "Founded ": [
+                "1973"
+            ],
+            "Colors ": [
+                "White",
+                " Red"
+            ],
+            "Awards ": [
+                "The Queen's Award for Enterprise",
+                " International Trade"
+            ],
+            "Recent posts": []
         },
         "Millsaps College": {
             "label": "Millsaps College",
@@ -1887,35 +1916,6 @@
                 " Purple"
             ],
             "People also search for": []
-        },
-        "Middlesex University": {
-            "label": "Middlesex University",
-            "description": "Middlesex University is a university in Hendon, North London, England. It is located within the historic county boundaries of Middlesex from which it takes its name. It is one of the new universities and is a member of Million+ working group. Wikipedia",
-            "type": "",
-            "Address ": [
-                "The Burroughs",
-                " London NW4 4BT",
-                " United Kingdom"
-            ],
-            "Phone ": [
-                "+44 20 8411 5000"
-            ],
-            "Enrollment ": [
-                "23",
-                "175 (2009)"
-            ],
-            "Founded ": [
-                "1973"
-            ],
-            "Colors ": [
-                "White",
-                " Red"
-            ],
-            "Awards ": [
-                "The Queen's Award for Enterprise",
-                " International Trade"
-            ],
-            "Recent posts": []
         },
         "Milwaukee School of Engineering": {
             "label": "Milwaukee School of Engineering",
@@ -1964,31 +1964,6 @@
             ],
             "Recent posts": []
         },
-        "Moscow State University": {
-            "label": "Moscow State University",
-            "description": "Lomonosov Moscow State University, previously known as Lomonosov University or MSU, is one of the oldest and largest universities in Russia. Founded in 1755, the university was renamed in honor of its founder, Mikhail Lomonosov, in 1940. Wikipedia",
-            "type": "",
-            "Address ": [
-                "ул. Ленинские Горы",
-                " 1",
-                " Москва",
-                " Russia",
-                " 119991"
-            ],
-            "Founded ": "January 25, 1755",
-            "Phone ": [
-                "+7 495 939-10-00"
-            ],
-            "Enrollment ": [
-                "38",
-                "150 (2012)"
-            ],
-            "Founders ": [
-                "Ivan Shuvalov",
-                " Mikhail Lomonosov"
-            ],
-            "People also search for": []
-        },
         "Morgan State University": {
             "label": "Morgan State University",
             "description": "Morgan State University is a historically black college in Baltimore, Maryland, United States. Morgan is Maryland's designated public urban university and the largest HBCU in Maryland. Wikipedia",
@@ -2017,6 +1992,31 @@
             "Colors ": [
                 "Blue",
                 " Orange"
+            ],
+            "People also search for": []
+        },
+        "Moscow State University": {
+            "label": "Moscow State University",
+            "description": "Lomonosov Moscow State University, previously known as Lomonosov University or MSU, is one of the oldest and largest universities in Russia. Founded in 1755, the university was renamed in honor of its founder, Mikhail Lomonosov, in 1940. Wikipedia",
+            "type": "",
+            "Address ": [
+                "ул. Ленинские Горы",
+                " 1",
+                " Москва",
+                " Russia",
+                " 119991"
+            ],
+            "Founded ": "January 25, 1755",
+            "Phone ": [
+                "+7 495 939-10-00"
+            ],
+            "Enrollment ": [
+                "38",
+                "150 (2012)"
+            ],
+            "Founders ": [
+                "Ivan Shuvalov",
+                " Mikhail Lomonosov"
             ],
             "People also search for": []
         },
@@ -2054,35 +2054,91 @@
         }
     },
     "summary": {
-        "label": 97,
-        "description": 97,
-        "type": 97,
-        "address": 1,
-        "phone": 1,
-        "enrollment": 1,
-        "founded": 1,
-        "founders": 1,
-        "people_also_search_for": 1,
-        "hours": 1,
-        "founder": 1,
-        "mascot": 1,
-        "colors": 1,
-        "acceptance_rate": 1,
-        "tax_deductibility_code": 1,
-        "motto": 1,
-        "recent_posts": 1,
-        "football_stadium": 1,
-        "nickname": 1,
-        "tax_id": 1,
-        "assets": 1,
-        "see_results_about": 1,
-        "color": 1,
-        "province": 1,
-        "awards": 1
+        "label": {
+            "uri": "http://dbpedia.org/property/label",
+            "count": 97
+        },
+        "description": {
+            "uri": "http://purl.org/dc/elements/1.1/description",
+            "count": 97
+        },
+        "type": {
+            "uri": "http://dbpedia.org/property/type",
+            "count": 97
+        },
+        "address": {
+            "uri": "http://dbpedia.org/property/address",
+            "count": 82
+        },
+        "phone": {
+            "uri": "http://dbpedia.org/property/phone",
+            "count": 69
+        },
+        "enrollment": {
+            "uri": "http://dbpedia.org/property/enrollment",
+            "count": 47
+        },
+        "founded": {
+            "uri": "http://dbpedia.org/property/founded",
+            "count": 71
+        },
+        "founders": {
+            "uri": "http://dbpedia.org/property/founders",
+            "count": 5
+        },
+        "founder": {
+            "uri": "http://dbpedia.org/property/founder",
+            "count": 21
+        },
+        "mascot": {
+            "uri": "http://dbpedia.org/property/mascot",
+            "count": 27
+        },
+        "colors": {
+            "uri": "http://dbpedia.org/property/colors",
+            "count": 29
+        },
+        "acceptanceRate": {
+            "uri": "http://dbpedia.org/property/acceptanceRate",
+            "count": 27
+        },
+        "motto": {
+            "uri": "http://dbpedia.org/property/motto",
+            "count": 4
+        },
+        "footballStadium": {
+            "uri": "http://dbpedia.org/property/footballStadium",
+            "count": 5
+        },
+        "nickname": {
+            "uri": "http://dbpedia.org/property/nickname",
+            "count": 2
+        },
+        "color": {
+            "uri": "http://dbpedia.org/property/color",
+            "count": 2
+        },
+        "province": {
+            "uri": "http://dbpedia.org/property/state/province",
+            "count": 2
+        },
+        "awards": {
+            "uri": "http://dbpedia.org/property/awards",
+            "count": 2
+        }
     },
     "infoboxless": [
         "Altai State Academy of Education",
         "Black Mountain College",
         "Global Alliance in Management Education"
-    ]
+    ],
+    "Unmapped_Properties": {
+        "peopleAlsoSearchFor": 1,
+        "hours": 1,
+        "taxDeductibilityCode": 1,
+        "recentPosts": 1,
+        "taxId": 1,
+        "assets": 1,
+        "seeResultsAbout": 1
+    }
 }

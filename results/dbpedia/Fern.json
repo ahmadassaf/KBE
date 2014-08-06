@@ -8,6 +8,35 @@
                 "Asplenium ruta-muraria"
             ]
         },
+        "Asplenium trichomanes": {
+            "label": "Asplenium trichomanes",
+            "description": "Asplenium trichomanes is a small fern in the spleenwort genus Asplenium. It is a widespread and common species, occurring almost worldwide in a variety of rocky habitats. It is a variable fern with several subspecies. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Asplenium trichomanes"
+            ],
+            "Higher classification ": [
+                "Asplenium"
+            ],
+            "Rank ": [
+                "Species"
+            ],
+            "See results about": []
+        },
+        "Athyrium filix-femina": {
+            "label": "Athyrium filix-femina",
+            "description": "Athyrium filix-femina is a large, feathery species of fern native throughout most of the temperate Northern Hemisphere, where it is often abundant in damp, shady woodland environments and is often grown for decoration. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Athyrium filix-femina"
+            ],
+            "Higher classification ": [
+                "Athyrium"
+            ],
+            "Rank ": [
+                "Species"
+            ]
+        },
         "Botrychium lunaria": {
             "label": "Botrychium lunaria",
             "description": "Botrychium lunaria is a species of fern known by the common name common moonwort. It is the most widely distributed moonwort, growing throughout the Northern Hemisphere across Eurasia and from Alaska ... Wikipedia",
@@ -39,20 +68,6 @@
             ],
             "See results about": []
         },
-        "Cystopteris fragilis": {
-            "label": "Cystopteris fragilis",
-            "description": "Cystopteris fragilis is a species of fern known by the common names brittle bladderfern and common fragile fern. It can be found worldwide, generally in shady, moist areas. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Cystopteris fragilis"
-            ],
-            "Rank ": [
-                "Species"
-            ],
-            "Higher classification ": [
-                "Cystopteris"
-            ]
-        },
         "Cyatheaceae": {
             "label": "Cyatheaceae",
             "description": "The Cyatheaceae are the scaly tree fern family and include the world's tallest tree ferns, which reach heights up to 20 m. Wikipedia",
@@ -69,6 +84,20 @@
             "Lower classifications ": [
                 "Cyathea",
                 " Cnemidaria"
+            ]
+        },
+        "Cystopteris fragilis": {
+            "label": "Cystopteris fragilis",
+            "description": "Cystopteris fragilis is a species of fern known by the common names brittle bladderfern and common fragile fern. It can be found worldwide, generally in shady, moist areas. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Cystopteris fragilis"
+            ],
+            "Rank ": [
+                "Species"
+            ],
+            "Higher classification ": [
+                "Cystopteris"
             ]
         },
         "Diplazium esculentum": {
@@ -155,20 +184,20 @@
             ],
             "See results about": []
         },
-        "Polypodium vulgare": {
-            "label": "Polypodium vulgare",
-            "description": "Polypodium vulgare, the common polypody, is a fern of the Polypodiaceae family. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Polypodium vulgare"
-            ]
-        },
         "Polystichum aculeatum": {
             "label": "Polystichum aculeatum",
             "description": "Polystichum aculeatum is an evergreen fern native to Europe. It is most abundant in upland regions of the British Isles and western France, where it benefits from the combination of mild winters and ... Wikipedia",
             "type": "",
             "Scientific name ": [
                 "Polystichum aculeatum"
+            ]
+        },
+        "Polypodium vulgare": {
+            "label": "Polypodium vulgare",
+            "description": "Polypodium vulgare, the common polypody, is a fern of the Polypodiaceae family. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Polypodium vulgare"
             ]
         },
         "Polystichum lonchitis": {
@@ -193,14 +222,6 @@
                 "Species"
             ]
         },
-        "Salvinia natans": {
-            "label": "Salvinia natans",
-            "description": "Salvinia natans is an annual floating aquatic fern, which can appear superficially similar to moss. It is found throughout the world where there is plentiful standing fresh water, sunlight, and humid ... Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Salvinia natans"
-            ]
-        },
         "Sceptridium multifidum": {
             "label": "Sceptridium multifidum",
             "description": "Sceptridium multifidum is a fern species in the Ophioglossaceae, known by the common names leathery grapefern and leathery moonwort. Wikipedia",
@@ -221,38 +242,13 @@
             ],
             "See results about": []
         },
-        "Asplenium": {
-            "label": "Asplenium",
-            "description": "Asplenium is a genus of about 700 species of ferns, often treated as the only genus in the family Aspleniaceae, though other authors consider Hymenasplenium separate, based on molecular phylogenetic ... Wikipedia",
+        "Salvinia natans": {
+            "label": "Salvinia natans",
+            "description": "Salvinia natans is an annual floating aquatic fern, which can appear superficially similar to moss. It is found throughout the world where there is plentiful standing fresh water, sunlight, and humid ... Wikipedia",
             "type": "",
             "Scientific name ": [
-                "Asplenium"
-            ],
-            "Rank ": [
-                "Genus"
-            ],
-            "Higher classification ": [
-                "Aspleniaceae"
-            ],
-            "Lower classifications ": [
-                "Asplenium congestum",
-                " Asplenium schweinfurthii",
-                " Asplenium platyneuron",
-                " Asplenium polyodon",
-                " Asplenium aequibasis",
-                " Asplenium septentrionale",
-                " Asplenium virens",
-                " Hymenasplenium cardiophyllum",
-                " Asplenium bifrons",
-                " Asplenium ascensionis",
-                " Asplenium vespertinum",
-                " Asplenium scolopendrium",
-                " Asplenium rhizophyllum",
-                " Asplenium ecuadorense",
-                " Asplenium flaccidum",
-                " Asplenium trichomanesMore"
-            ],
-            "See results about": []
+                "Salvinia natans"
+            ]
         },
         "Botrychium": {
             "label": "Moonwort",
@@ -302,26 +298,36 @@
             ],
             "See results about": []
         },
-        "Cystopteris": {
-            "label": "Cystopteris",
-            "description": "Cystopteris is a genus of ferns in the family Cystopteridaceae. These are known generally as bladderferns or fragile ferns. They are found in temperate areas worldwide. Wikipedia",
+        "Asplenium": {
+            "label": "Asplenium",
+            "description": "Asplenium is a genus of about 700 species of ferns, often treated as the only genus in the family Aspleniaceae, though other authors consider Hymenasplenium separate, based on molecular phylogenetic ... Wikipedia",
             "type": "",
             "Scientific name ": [
-                "Cystopteris"
+                "Asplenium"
             ],
             "Rank ": [
                 "Genus"
             ],
             "Higher classification ": [
-                "Dryopteridaceae"
+                "Aspleniaceae"
             ],
             "Lower classifications ": [
-                "Cystopteris dickieana",
-                " Cystopteris protrusa",
-                " Cystopteris bulbifera",
-                " Cystopteris tenuis",
-                " Cystopteris fragilis",
-                " Cystopteris diaphanaMore"
+                "Asplenium congestum",
+                " Asplenium schweinfurthii",
+                " Asplenium platyneuron",
+                " Asplenium polyodon",
+                " Asplenium aequibasis",
+                " Asplenium septentrionale",
+                " Asplenium virens",
+                " Hymenasplenium cardiophyllum",
+                " Asplenium bifrons",
+                " Asplenium ascensionis",
+                " Asplenium vespertinum",
+                " Asplenium scolopendrium",
+                " Asplenium rhizophyllum",
+                " Asplenium ecuadorense",
+                " Asplenium flaccidum",
+                " Asplenium trichomanesMore"
             ],
             "See results about": []
         },
@@ -331,6 +337,31 @@
             "type": "",
             "Rank ": [
                 "Genus"
+            ],
+            "See results about": []
+        },
+        "Equisetum": {
+            "label": "Equisetum",
+            "description": "Equisetum is the only living genus in Equisetaceae, a family of vascular plants that reproduce by spores rather than seeds. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Equisetum"
+            ],
+            "Rank ": [
+                "Genus"
+            ],
+            "Higher classification ": [
+                "Equisetaceae"
+            ],
+            "Lower classifications ": [
+                "Equisetum arvense",
+                " Equisetum pratense",
+                " Equisetum laevigatum",
+                " Equisetum hyemale",
+                " Equisetum giganteum",
+                " Equisetum palustre",
+                " Equisetum variegatum",
+                " Equisetum telmateiaMore"
             ],
             "See results about": []
         },
@@ -358,31 +389,6 @@
                 " Dryopteris arguta",
                 " Dryopteris erythrosora",
                 " Dryopteris marginalisMore"
-            ],
-            "See results about": []
-        },
-        "Equisetum": {
-            "label": "Equisetum",
-            "description": "Equisetum is the only living genus in Equisetaceae, a family of vascular plants that reproduce by spores rather than seeds. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Equisetum"
-            ],
-            "Rank ": [
-                "Genus"
-            ],
-            "Higher classification ": [
-                "Equisetaceae"
-            ],
-            "Lower classifications ": [
-                "Equisetum arvense",
-                " Equisetum pratense",
-                " Equisetum laevigatum",
-                " Equisetum hyemale",
-                " Equisetum giganteum",
-                " Equisetum palustre",
-                " Equisetum variegatum",
-                " Equisetum telmateiaMore"
             ],
             "See results about": []
         },
@@ -420,11 +426,6 @@
                 "Osmunda"
             ]
         },
-        "Salviniales": {
-            "label": "Salviniales",
-            "description": "The order Salviniales is an order of ferns in the class Polypodiopsida. Salviniales are all aquatic and differ from all other ferns in being heterosporous, meaning that they produce two different types ... Wikipedia",
-            "type": ""
-        },
         "Pteridium aquilinum": {
             "label": "Pteridium aquilinum",
             "description": "Pteridium aquilinum, also known as \"eagle fern,\" is a species of fern occurring in temperate and subtropical regions in both hemispheres. The extreme lightness of its spores has led to its global distribution. Wikipedia",
@@ -432,6 +433,40 @@
             "Scientific name ": [
                 "Pteridium aquilinum"
             ]
+        },
+        "Salviniales": {
+            "label": "Salviniales",
+            "description": "The order Salviniales is an order of ferns in the class Polypodiopsida. Salviniales are all aquatic and differ from all other ferns in being heterosporous, meaning that they produce two different types ... Wikipedia",
+            "type": ""
+        },
+        "Woodsiaceae": {
+            "label": "Woodsiaceae",
+            "description": "The Woodsiaceae or Cliff Ferns is a family of ferns in the Eupolypods II clade of the order Polypodiales, in the class Polypodiopsida. It contains the three genera Cheilanthopsis, Hymenocystis, and Woodsia. Wikipedia",
+            "type": "",
+            "See results about": []
+        },
+        "Cystopteris": {
+            "label": "Cystopteris",
+            "description": "Cystopteris is a genus of ferns in the family Cystopteridaceae. These are known generally as bladderferns or fragile ferns. They are found in temperate areas worldwide. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Cystopteris"
+            ],
+            "Rank ": [
+                "Genus"
+            ],
+            "Higher classification ": [
+                "Dryopteridaceae"
+            ],
+            "Lower classifications ": [
+                "Cystopteris dickieana",
+                " Cystopteris protrusa",
+                " Cystopteris bulbifera",
+                " Cystopteris tenuis",
+                " Cystopteris fragilis",
+                " Cystopteris diaphanaMore"
+            ],
+            "See results about": []
         },
         "Thelypteridaceae": {
             "label": "Thelypteridaceae",
@@ -451,12 +486,6 @@
                 " Phegopteris"
             ]
         },
-        "Woodsiaceae": {
-            "label": "Woodsiaceae",
-            "description": "The Woodsiaceae or Cliff Ferns is a family of ferns in the Eupolypods II clade of the order Polypodiales, in the class Polypodiopsida. It contains the three genera Cheilanthopsis, Hymenocystis, and Woodsia. Wikipedia",
-            "type": "",
-            "See results about": []
-        },
         "Asplenium platyneuron": {
             "label": "Asplenium platyneuron",
             "description": "Asplenium platyneuron, commonly known as ebony spleenwort or brownstem spleenwort, is a fern native to North America east of the Rocky Mountains and to South Africa. Wikipedia",
@@ -469,14 +498,6 @@
             ],
             "Rank ": [
                 "Species"
-            ]
-        },
-        "Microsorum pteropus": {
-            "label": "Microsorum pteropus",
-            "description": "Microsorum pteropus, commonly known as Java fern, an aquatic fern from southeast Asia, is highly variable with several different geographic varieties that vary in leaf size and shape. It is found attached to roots and rocks in nature. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Microsorum pteropus"
             ]
         },
         "Marattiaceae": {
@@ -504,10 +525,13 @@
                 "Osmunda japonica"
             ]
         },
-        "Pecopteris": {
-            "label": "Pecopteris",
-            "description": "Pecopteris was a form genus of leaves from several unrelated plant groups that flourished the early Carboniferous period and on to c. 250 Ma. Wikipedia",
-            "type": ""
+        "Microsorum pteropus": {
+            "label": "Microsorum pteropus",
+            "description": "Microsorum pteropus, commonly known as Java fern, an aquatic fern from southeast Asia, is highly variable with several different geographic varieties that vary in leaf size and shape. It is found attached to roots and rocks in nature. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Microsorum pteropus"
+            ]
         },
         "Pteridales": {
             "label": "Pteridales",
@@ -561,19 +585,10 @@
                 "Pleopeltis"
             ]
         },
-        "Adiantum jordanii": {
-            "label": "Adiantum jordanii",
-            "description": "Adiantum jordanii is a perennial species of maidenhair fern, in the Vittarioideae subfamily of the Pteridaceae. The species is known by the common name California maidenhair.\nIt is native to California and Baja California. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Adiantum jordanii"
-            ],
-            "Rank ": [
-                "Species"
-            ],
-            "Higher classification ": [
-                "Adiantum"
-            ]
+        "Pecopteris": {
+            "label": "Pecopteris",
+            "description": "Pecopteris was a form genus of leaves from several unrelated plant groups that flourished the early Carboniferous period and on to c. 250 Ma. Wikipedia",
+            "type": ""
         },
         "Anogramma leptophylla": {
             "label": "Anogramma leptophylla",
@@ -612,6 +627,14 @@
             ],
             "See results about": []
         },
+        "Asplenium serratum": {
+            "label": "Asplenium serratum",
+            "description": "Asplenium serratum, the Bird's nest spleenwort and Wild birdnest fern, is a fern native to Brazil, the Caribbean, and the United States. It is rare in central and southern Florida, where it is a state-listed endangered species. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Asplenium serratum"
+            ]
+        },
         "Aspidotis californica": {
             "label": "Aspidotis californica",
             "description": "Aspidotis californica is a species of fern known by the common name California lacefern. It is native to California and Baja California.\nIt grows in rock cracks and crevices in many types of habitat. Wikipedia",
@@ -626,26 +649,24 @@
                 "Aspidotis"
             ]
         },
-        "Asplenium serratum": {
-            "label": "Asplenium serratum",
-            "description": "Asplenium serratum, the Bird's nest spleenwort and Wild birdnest fern, is a fern native to Brazil, the Caribbean, and the United States. It is rare in central and southern Florida, where it is a state-listed endangered species. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Asplenium serratum"
-            ]
-        },
-        "Blechnum brasiliense": {
-            "label": "Blechnum brasiliense",
-            "description": "Blechnum brasiliense is a fern in the genus Blechnum that is native to South America.\nThis is one of the better known and more common species of Blechnum in warmer climates. It forms a small trunk. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Blechnum brasiliense"
-            ]
-        },
         "Ceratopteris thalictroides": {
             "label": "Ceratopteris thalictroides",
             "description": "The species Ceratopteris thalictroides is a fern species belonging to the genus Ceratopteris, one of only two genera of the Ceratopteridoideae subfamily of the family Pteridaceae. Wikipedia",
             "type": ""
+        },
+        "Adiantum jordanii": {
+            "label": "Adiantum jordanii",
+            "description": "Adiantum jordanii is a perennial species of maidenhair fern, in the Vittarioideae subfamily of the Pteridaceae. The species is known by the common name California maidenhair.\nIt is native to California and Baja California. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Adiantum jordanii"
+            ],
+            "Rank ": [
+                "Species"
+            ],
+            "Higher classification ": [
+                "Adiantum"
+            ]
         },
         "Cyathea balanocarpa": {
             "label": "Cyathea balanocarpa",
@@ -661,34 +682,20 @@
                 "Cyathea"
             ]
         },
+        "Blechnum brasiliense": {
+            "label": "Blechnum brasiliense",
+            "description": "Blechnum brasiliense is a fern in the genus Blechnum that is native to South America.\nThis is one of the better known and more common species of Blechnum in warmer climates. It forms a small trunk. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Blechnum brasiliense"
+            ]
+        },
         "Cyathea corcovadensis": {
             "label": "Cyathea corcovadensis",
             "description": "Cyathea corcovadensis is a species of tree fern native to Paraguay and Serra do Mar in southern Brazil, where it grows in primary and secondary forest, as well as scrub, at an altitude of 250-2100 m. Wikipedia",
             "type": "",
             "Scientific name ": [
                 "Cyathea corcovadensis"
-            ],
-            "Rank ": [
-                "Species"
-            ],
-            "Higher classification ": [
-                "Cyathea"
-            ]
-        },
-        "Cyathea dregei": {
-            "label": "Cyathea dregei",
-            "description": "Cyathea dregei, also known as the Common Tree Fern and Gewone Boomvaring in Afrikaans, is a widespread species of tree fern in southern Africa. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Cyathea dregei"
-            ]
-        },
-        "Cyathea exilis": {
-            "label": "Cyathea exilis",
-            "description": "Cyathea exilis is a species of tree fern endemic to the Cape York Peninsula in Queensland, Australia, where it grows in vine forest on a substrate of sandstone. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Cyathea exilis"
             ],
             "Rank ": [
                 "Species"
@@ -711,6 +718,14 @@
                 "Cyathea"
             ]
         },
+        "Cyathea dregei": {
+            "label": "Cyathea dregei",
+            "description": "Cyathea dregei, also known as the Common Tree Fern and Gewone Boomvaring in Afrikaans, is a widespread species of tree fern in southern Africa. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Cyathea dregei"
+            ]
+        },
         "Cyathea glabra": {
             "label": "Cyathea glabra",
             "description": "Cyathea glabra is a species of tree fern native to Borneo, western Java, Sumatra and the Malay Peninsula, where it grows in lowland swamp forest and montane forest at an elevation of up to 1500 m. The trunk of this plant is erect and 2-4 m tall. Wikipedia",
@@ -731,6 +746,20 @@
             "type": "",
             "Scientific name ": [
                 "Cyathea glauca"
+            ],
+            "Rank ": [
+                "Species"
+            ],
+            "Higher classification ": [
+                "Cyathea"
+            ]
+        },
+        "Cyathea exilis": {
+            "label": "Cyathea exilis",
+            "description": "Cyathea exilis is a species of tree fern endemic to the Cape York Peninsula in Queensland, Australia, where it grows in vine forest on a substrate of sandstone. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Cyathea exilis"
             ],
             "Rank ": [
                 "Species"
@@ -782,20 +811,6 @@
             ],
             "See results about": []
         },
-        "Phegopteris hexagonoptera": {
-            "label": "Phegopteris hexagonoptera",
-            "description": "Phegopteris hexagonoptera, commonly called the broad beech fern, is a common forest fern in the eastern United States and adjacent Ontario. It grows from a creeping rootstock, sending up individual fronds that more or less clump. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Phegopteris hexagonoptera"
-            ],
-            "Rank ": [
-                "Species"
-            ],
-            "Higher classification ": [
-                "Phegopteris"
-            ]
-        },
         "Psilotum complanatum": {
             "label": "Psilotum complanatum",
             "description": "Psilotum complanatum is a rare herbaceous epiphytic fern ally in the genus Psilotum. There is some evidence that it might be a true fern that has lost some typically fern-like characteristics. Wikipedia",
@@ -810,6 +825,26 @@
                 "Psilotum"
             ]
         },
+        "Phegopteris hexagonoptera": {
+            "label": "Phegopteris hexagonoptera",
+            "description": "Phegopteris hexagonoptera, commonly called the broad beech fern, is a common forest fern in the eastern United States and adjacent Ontario. It grows from a creeping rootstock, sending up individual fronds that more or less clump. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Phegopteris hexagonoptera"
+            ],
+            "Rank ": [
+                "Species"
+            ],
+            "Higher classification ": [
+                "Phegopteris"
+            ]
+        },
+        "Todea": {
+            "label": "Todea",
+            "description": "The fern genus Todea is known from only two living species. Todea barbara L., known as the king fern, is native to South Africa, New Zealand, and Australia while Todea papuana H. is known only from Papua New Guinea. Wikipedia",
+            "type": "",
+            "See results about": []
+        },
         "Ptisana salicina": {
             "label": "Ptisana salicina",
             "description": "Ptisana salicina, or king fern, is a species of fern native to Australia and the South Pacific. Large and robust with a distinctive tropical appearance, it has fronds up to 5 metres tall that arise from ... Wikipedia",
@@ -820,12 +855,6 @@
             "Rank ": [
                 "Species"
             ]
-        },
-        "Todea": {
-            "label": "Todea",
-            "description": "The fern genus Todea is known from only two living species. Todea barbara L., known as the king fern, is native to South Africa, New Zealand, and Australia while Todea papuana H. is known only from Papua New Guinea. Wikipedia",
-            "type": "",
-            "See results about": []
         },
         "Woodwardia areolata": {
             "label": "Woodwardia areolata",
@@ -846,28 +875,20 @@
             "description": "Asplenium × ebenoides is a hybrid fern native to eastern North America, part of the \"Appalachian Asplenium complex\" of related hybrids. Wikipedia",
             "type": ""
         },
-        "Asplenium anceps": {
-            "label": "Asplenium anceps",
-            "description": "Asplenium anceps is a diploid fern of Aspleniaceae family and one of the ancestors of the ferns that form the trichomanes complex. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Asplenium anceps"
-            ]
-        },
-        "Asplenium pinnatifidum": {
-            "label": "Asplenium pinnatifidum",
-            "description": "Asplenium pinnatifidum, commonly known as the lobed spleenwort or pinnatifid spleenwort, is a small fern found principally in the Appalachian Mountains and the Shawnee Hills, growing in rock crevices in moderately acid to subacid strata. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Asplenium pinnatifidum"
-            ]
-        },
         "Niphidium crassifolium": {
             "label": "Niphidium crassifolium",
             "description": "Niphidium crassifolium commonly known as the graceful fern is a species of fern in the Polypodiaceae family found in Central and South America. Wikipedia",
             "type": "",
             "Scientific name ": [
                 "Niphidium crassifolium"
+            ]
+        },
+        "Asplenium anceps": {
+            "label": "Asplenium anceps",
+            "description": "Asplenium anceps is a diploid fern of Aspleniaceae family and one of the ancestors of the ferns that form the trichomanes complex. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Asplenium anceps"
             ]
         },
         "Athyrium angustum": {
@@ -886,14 +907,6 @@
                 "Bolbitis heteroclita"
             ]
         },
-        "Ceratopteris richardii": {
-            "label": "Ceratopteris richardii",
-            "description": "Ceratopteris richardii is a fern species belonging to the genus Ceratopteris, one of only two genera of the Ceratopteridoideae subfamily of the Pteridaceae. It is one of several genera of ferns adapted to an aquatic existence. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Ceratopteris richardii"
-            ]
-        },
         "Cheilanthes villosa": {
             "label": "Cheilanthes villosa",
             "description": "Cheilanthes villosa is a species of lip fern, whose common name is villous lipfern. This plant is native to the southwestern United States where it grows in rocky mountains and deserts. Wikipedia",
@@ -908,25 +921,18 @@
                 "Cheilanthes"
             ]
         },
+        "Ceratopteris richardii": {
+            "label": "Ceratopteris richardii",
+            "description": "Ceratopteris richardii is a fern species belonging to the genus Ceratopteris, one of only two genera of the Ceratopteridoideae subfamily of the Pteridaceae. It is one of several genera of ferns adapted to an aquatic existence. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Ceratopteris richardii"
+            ]
+        },
         "Cryptogrammaceae": {
             "label": "Cryptogrammaceae",
             "description": "Cryptogrammaceae is a small family of ferns, which appears to be somewhat isolated from the rest of the Pteridales. This family forms a natural clade that is the most basal to the order. Of these, Llavea is the most basal within the clade. Wikipedia",
             "type": "",
-            "See results about": []
-        },
-        "Ctenitis": {
-            "label": "Ctenitis",
-            "description": "Ctenitis is a genus of large ferns in the Dryopteridaceae. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Ctenitis"
-            ],
-            "Rank ": [
-                "Genus"
-            ],
-            "Lower classifications ": [
-                "Ctenitis squamigera"
-            ],
             "See results about": []
         },
         "Llavea": {
@@ -935,6 +941,14 @@
             "type": "",
             "Scientific name ": [
                 "Llavea cordifolia"
+            ]
+        },
+        "Asplenium pinnatifidum": {
+            "label": "Asplenium pinnatifidum",
+            "description": "Asplenium pinnatifidum, commonly known as the lobed spleenwort or pinnatifid spleenwort, is a small fern found principally in the Appalachian Mountains and the Shawnee Hills, growing in rock crevices in moderately acid to subacid strata. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Asplenium pinnatifidum"
             ]
         },
         "Notholaena californica": {
@@ -951,52 +965,41 @@
                 "Notholaena"
             ]
         },
+        "Ctenitis": {
+            "label": "Ctenitis",
+            "description": "Ctenitis is a genus of large ferns in the Dryopteridaceae. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Ctenitis"
+            ],
+            "Rank ": [
+                "Genus"
+            ],
+            "Lower classifications ": [
+                "Ctenitis squamigera"
+            ],
+            "See results about": []
+        },
         "Mohria": {
             "label": "Mohria",
             "description": "The fern genus Mohria is a small one of eight species, restricted to southern Africa and Madagascar. Plants in this genus superficially resemble Cheilanthes, but the sporangial structure indicates their close affinity to Anemia. Wikipedia",
             "type": "",
             "See results about": []
-        },
-        "Athyrium filix-femina": {
-            "label": "Athyrium filix-femina",
-            "description": "Athyrium filix-femina is a large, feathery species of fern native throughout most of the temperate Northern Hemisphere, where it is often abundant in damp, shady woodland environments and is often grown for decoration. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Athyrium filix-femina"
-            ],
-            "Higher classification ": [
-                "Athyrium"
-            ],
-            "Rank ": [
-                "Species"
-            ]
-        },
-        "Asplenium trichomanes": {
-            "label": "Asplenium trichomanes",
-            "description": "Asplenium trichomanes is a small fern in the spleenwort genus Asplenium. It is a widespread and common species, occurring almost worldwide in a variety of rocky habitats. It is a variable fern with several subspecies. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Asplenium trichomanes"
-            ],
-            "Higher classification ": [
-                "Asplenium"
-            ],
-            "Rank ": [
-                "Species"
-            ],
-            "See results about": []
         }
     },
     "summary": {
-        "label": 80,
-        "description": 80,
-        "type": 80,
-        "scientific_name": 1,
-        "rank": 1,
-        "higher_classification": 1,
-        "see_results_about": 1,
-        "lower_classifications": 1,
-        "people_also_search_for": 1
+        "label": {
+            "uri": "http://dbpedia.org/property/label",
+            "count": 80
+        },
+        "description": {
+            "uri": "http://fr.dbpedia.org/ontology/abstract",
+            "count": 80
+        },
+        "type": {
+            "uri": "http://dbpedia.org/property/type",
+            "count": 80
+        }
     },
     "infoboxless": [
         "Cladoxylopsida",
@@ -1019,5 +1022,13 @@
         "Cystopteridaceae",
         "Ophioderma falcatum",
         "Ophioderma pendulum"
-    ]
+    ],
+    "Unmapped_Properties": {
+        "scientificName": 1,
+        "higherClassification": 1,
+        "rank": 1,
+        "seeResultsAbout": 1,
+        "lowerClassifications": 1,
+        "peopleAlsoSearchFor": 1
+    }
 }

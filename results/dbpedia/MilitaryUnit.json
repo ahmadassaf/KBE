@@ -12,6 +12,15 @@
             "type": "",
             "See results about": []
         },
+        "French Air Force": {
+            "label": "French Air Force",
+            "description": "The French Air Force is the air force of the French Armed Forces. It was formed in 1909 as the Service Aéronautique, a service arm of the French Army, then was made an independent military arm in 1933. Wikipedia",
+            "type": "",
+            "Founder ": [
+                "Pierre Auguste Roques"
+            ],
+            "People also search for": []
+        },
         "Luftstreitkräfte": {
             "label": "Luftstreitkräfte",
             "description": "The Deutsche Luftstreitkräfte, known before October 1916 as Die Fliegertruppen des deutschen Kaiserreiches, or simply Die Fliegertruppen, was the air arm of the German Army during World War I. Wikipedia",
@@ -34,26 +43,33 @@
                 "February 2005"
             ],
             "People also search for": []
-        },
-        "French Air Force": {
-            "label": "French Air Force",
-            "description": "The French Air Force is the air force of the French Armed Forces. It was formed in 1909 as the Service Aéronautique, a service arm of the French Army, then was made an independent military arm in 1933. Wikipedia",
-            "type": "",
-            "Founder ": [
-                "Pierre Auguste Roques"
-            ],
-            "People also search for": []
         }
     },
     "summary": {
-        "label": 5,
-        "description": 5,
-        "type": 5,
-        "see_results_about": 1,
-        "people_also_search_for": 1,
-        "color": 1,
-        "founded": 1,
-        "founder": 1
+        "label": {
+            "uri": "http://dbpedia.org/property/label",
+            "count": 5
+        },
+        "description": {
+            "uri": "http://purl.org/dc/elements/1.1/description",
+            "count": 5
+        },
+        "type": {
+            "uri": "http://dbpedia.org/property/type",
+            "count": 5
+        },
+        "founder": {
+            "uri": "http://dbpedia.org/property/founder",
+            "count": 1
+        },
+        "color": {
+            "uri": "http://dbpedia.org/property/color",
+            "count": 1
+        },
+        "founded": {
+            "uri": "http://dbpedia.org/property/founded",
+            "count": 1
+        }
     },
     "infoboxless": [
         "132 Armoured Division Ariete",
@@ -151,5 +167,9 @@
         "No. 312 (Czechoslovak) Squadron RAF",
         "Panamanian Public Forces",
         "People's Armed Police"
-    ]
+    ],
+    "Unmapped_Properties": {
+        "seeResultsAbout": 1,
+        "peopleAlsoSearchFor": 1
+    }
 }

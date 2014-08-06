@@ -1,12 +1,5 @@
 {
     "instances": {
-        "Anja Monke": {
-            "label": "Anja Monke",
-            "description": "Anja Monke is a German professional golfer. She has played on the Ladies European Tour since 2004.\nIn 2003, Monke won the International Amateur Championships of Switzerland and Italy, and was voted German Ladies Amateur Golfer of the Year. Wikipedia",
-            "type": "Golfer",
-            "Born ": "May 28, 1977 (age 36), Herford, Germany",
-            "People also search for": []
-        },
         "Arnold Palmer": {
             "label": "Arnold Palmer",
             "description": "Arnold Daniel Palmer is an American professional golfer, who is generally regarded as one of the greatest players in the history of men's professional golf. He has won numerous events on both the PGA Tour and Champions Tour, dating back to 1955. Wikipedia",
@@ -63,6 +56,19 @@
             ],
             "People also search for": []
         },
+        "Brad Adamonis": {
+            "label": "Brad Adamonis",
+            "description": "Bradley Fred Adamonis is an American professional golfer who has played on the PGA Tour.\nBradley's Grandparents are of Lithuanian descent. Adamonis was born in Providence, Rhode Island. Wikipedia",
+            "type": "Golfer",
+            "Born ": "January 16, 1973 (age 41), Providence, Rhode Island, United States",
+            "Weight ": [
+                "216 lbs (98 kg)"
+            ],
+            "Education ": [
+                "Miami University"
+            ],
+            "People also search for": []
+        },
         "Ben Hogan": {
             "label": "Ben Hogan",
             "description": "William Ben Hogan was an American professional golfer, generally considered one of the greatest players in the history of the game. Wikipedia",
@@ -80,19 +86,6 @@
                 " Chester Hogan"
             ],
             "Books": []
-        },
-        "Brad Adamonis": {
-            "label": "Brad Adamonis",
-            "description": "Bradley Fred Adamonis is an American professional golfer who has played on the PGA Tour.\nBradley's Grandparents are of Lithuanian descent. Adamonis was born in Providence, Rhode Island. Wikipedia",
-            "type": "Golfer",
-            "Born ": "January 16, 1973 (age 41), Providence, Rhode Island, United States",
-            "Weight ": [
-                "216 lbs (98 kg)"
-            ],
-            "Education ": [
-                "Miami University"
-            ],
-            "People also search for": []
         },
         "Dave Eichelberger": {
             "label": "Dave Eichelberger",
@@ -114,6 +107,13 @@
                 " Davis",
                 " Martin"
             ],
+            "People also search for": []
+        },
+        "Anja Monke": {
+            "label": "Anja Monke",
+            "description": "Anja Monke is a German professional golfer. She has played on the Ladies European Tour since 2004.\nIn 2003, Monke won the International Amateur Championships of Switzerland and Italy, and was voted German Ladies Amateur Golfer of the Year. Wikipedia",
+            "type": "Golfer",
+            "Born ": "May 28, 1977 (age 36), Herford, Germany",
             "People also search for": []
         },
         "Ernie Els": {
@@ -138,29 +138,6 @@
                 " Ben Neels Els"
             ],
             "People also search for": []
-        },
-        "Greg Norman": {
-            "label": "Greg Norman",
-            "description": "Gregory John Norman AO is an Australian professional golfer and entrepreneur who spent 331 weeks as the world's Number 1 ranked golfer in the 1980s and 1990s. Wikipedia",
-            "type": "Golfer",
-            "Born ": "February 10, 1955 (age 59), Mount Isa, Australia",
-            "Height ": [
-                "6' 0\" (1.83 m)"
-            ],
-            "Spouse ": [
-                "Kirsten Kutner (m. 2010)",
-                " Chris Evert (m. 2008–2009)",
-                " Laura Andrassy (m. 1981–2007)"
-            ],
-            "Children ": [
-                "Morgan Leigh Norman",
-                " Gregory Norman"
-            ],
-            "Parents ": [
-                "Merv Norman",
-                " Toini Norman"
-            ],
-            "Books": []
         },
         "Isao Aoki": {
             "label": "Isao Aoki",
@@ -207,30 +184,6 @@
             ],
             "People also search for": []
         },
-        "Michelle Wie": {
-            "label": "Michelle Wie",
-            "description": "Michelle Sung Wie is an American professional golfer who plays on the LPGA Tour. At age 10, she became the youngest player to qualify for a USGA amateur championship. Wikipedia",
-            "type": "Golfer",
-            "Born ": "October 11, 1989 (age 24), Honolulu, Hawaii, United States",
-            "Height ": [
-                "6' 1\" (1.85 m)"
-            ],
-            "Nationality ": [
-                "American"
-            ],
-            "Weight ": [
-                "150 lbs (68 kg)"
-            ],
-            "Parents ": [
-                "Bo Wie",
-                " Byung-wook Wie"
-            ],
-            "Education ": [
-                "Punahou School",
-                " Stanford University"
-            ],
-            "People also search for": []
-        },
         "Natalie Gulbis": {
             "label": "Natalie Gulbis",
             "description": "Natalie Anne Gulbis is an American professional golfer of Latvian descent who plays on the U.S.-based LPGA Tour. Wikipedia",
@@ -257,16 +210,29 @@
             ],
             "People also search for": []
         },
-        "Sam Snead": {
-            "label": "Sam Snead",
-            "description": "Samuel Jackson Snead was an American professional golfer who was one of the top players in the world for most of four decades. Snead won a record 82 PGA Tour events, including seven majors. Wikipedia",
+        "Michelle Wie": {
+            "label": "Michelle Wie",
+            "description": "Michelle Sung Wie is an American professional golfer who plays on the LPGA Tour. At age 10, she became the youngest player to qualify for a USGA amateur championship. Wikipedia",
             "type": "Golfer",
-            "Born ": "May 27, 1912, Ashwood, Virginia, United States",
-            "Died ": "May 23, 2002, Virginia, United States",
+            "Born ": "October 11, 1989 (age 24), Honolulu, Hawaii, United States",
+            "Height ": [
+                "6' 1\" (1.85 m)"
+            ],
             "Nationality ": [
                 "American"
             ],
-            "Books": []
+            "Weight ": [
+                "150 lbs (68 kg)"
+            ],
+            "Parents ": [
+                "Bo Wie",
+                " Byung-wook Wie"
+            ],
+            "Education ": [
+                "Punahou School",
+                " Stanford University"
+            ],
+            "People also search for": []
         },
         "Rui Kitada": {
             "label": "Rui Kitada",
@@ -280,6 +246,40 @@
                 "119 lbs (54 kg)"
             ],
             "People also search for": []
+        },
+        "Greg Norman": {
+            "label": "Greg Norman",
+            "description": "Gregory John Norman AO is an Australian professional golfer and entrepreneur who spent 331 weeks as the world's Number 1 ranked golfer in the 1980s and 1990s. Wikipedia",
+            "type": "Golfer",
+            "Born ": "February 10, 1955 (age 59), Mount Isa, Australia",
+            "Height ": [
+                "6' 0\" (1.83 m)"
+            ],
+            "Spouse ": [
+                "Kirsten Kutner (m. 2010)",
+                " Chris Evert (m. 2008–2009)",
+                " Laura Andrassy (m. 1981–2007)"
+            ],
+            "Children ": [
+                "Morgan Leigh Norman",
+                " Gregory Norman"
+            ],
+            "Parents ": [
+                "Merv Norman",
+                " Toini Norman"
+            ],
+            "Books": []
+        },
+        "Sam Snead": {
+            "label": "Sam Snead",
+            "description": "Samuel Jackson Snead was an American professional golfer who was one of the top players in the world for most of four decades. Snead won a record 82 PGA Tour events, including seven majors. Wikipedia",
+            "type": "Golfer",
+            "Born ": "May 27, 1912, Ashwood, Virginia, United States",
+            "Died ": "May 23, 2002, Virginia, United States",
+            "Nationality ": [
+                "American"
+            ],
+            "Books": []
         },
         "Seiji Ebihara": {
             "label": "Seiji Ebihara",
@@ -302,6 +302,13 @@
             "Height ": [
                 "5' 9\" (1.76 m)"
             ],
+            "People also search for": []
+        },
+        "Andrew Marshall (golfer)": {
+            "label": "Andrew Marshall",
+            "description": "Andrew Charles Marshall is an English professional golfer.\nMarshall was born in Sutton-in-Ashfield and turned professional in 1995. In 2001, he finished 4th on the Challenge Tour Rankings to earn his card on the top level European Tour. Wikipedia",
+            "type": "Golfer",
+            "Born ": "August 24, 1973 (age 40), Sutton-in-Ashfield, United Kingdom",
             "People also search for": []
         },
         "David Duval": {
@@ -341,11 +348,21 @@
             ],
             "People also search for": []
         },
-        "Andrew Marshall (golfer)": {
-            "label": "Andrew Marshall",
-            "description": "Andrew Charles Marshall is an English professional golfer.\nMarshall was born in Sutton-in-Ashfield and turned professional in 1995. In 2001, he finished 4th on the Challenge Tour Rankings to earn his card on the top level European Tour. Wikipedia",
+        "Dorothy Delasin": {
+            "label": "Dorothy Delasin",
+            "description": "Dorothy Delasin is a Filipino-American professional golfer on the LPGA Tour.\nDelasin was born in Lubbock, Texas and grew up in San Francisco, California. She had dual American and Filipino citizenship but gave it up sometime before 1999. Wikipedia",
             "type": "Golfer",
-            "Born ": "August 24, 1973 (age 40), Sutton-in-Ashfield, United Kingdom",
+            "Born ": "August 26, 1980 (age 33), Lubbock, Texas, United States",
+            "People also search for": []
+        },
+        "Emilee Klein": {
+            "label": "Emilee Klein",
+            "description": "Emilee Klein is an American professional golfer and college golf coach who played on the LPGA Tour.\nKlein was born in Santa Monica, California and grew up in Sherman Oaks, California. Wikipedia",
+            "type": "Golfer",
+            "Born ": "June 11, 1974 (age 39), Santa Monica, California, United States",
+            "Education ": [
+                "Arizona State University"
+            ],
             "People also search for": []
         },
         "Fred Couples": {
@@ -398,20 +415,16 @@
             ],
             "People also search for": []
         },
-        "Dorothy Delasin": {
-            "label": "Dorothy Delasin",
-            "description": "Dorothy Delasin is a Filipino-American professional golfer on the LPGA Tour.\nDelasin was born in Lubbock, Texas and grew up in San Francisco, California. She had dual American and Filipino citizenship but gave it up sometime before 1999. Wikipedia",
+        "Kermit Zarley": {
+            "label": "Kermit Zarley",
+            "description": "Kermit Millard Zarley, Jr. is an American professional golfer who played on the PGA Tour and the Champions Tour. He is also an author of several books. Wikipedia",
             "type": "Golfer",
-            "Born ": "August 26, 1980 (age 33), Lubbock, Texas, United States",
-            "People also search for": []
-        },
-        "Emilee Klein": {
-            "label": "Emilee Klein",
-            "description": "Emilee Klein is an American professional golfer and college golf coach who played on the LPGA Tour.\nKlein was born in Santa Monica, California and grew up in Sherman Oaks, California. Wikipedia",
-            "type": "Golfer",
-            "Born ": "June 11, 1974 (age 39), Santa Monica, California, United States",
+            "Born ": "September 29, 1941 (age 72), Seattle, Washington, United States",
+            "Weight ": [
+                "174 lbs (79 kg)"
+            ],
             "Education ": [
-                "Arizona State University"
+                "University of Houston"
             ],
             "People also search for": []
         },
@@ -435,6 +448,17 @@
             ],
             "Education ": [
                 "Brigham Young University"
+            ],
+            "People also search for": []
+        },
+        "Ruth Jessen": {
+            "label": "Ruth Jessen",
+            "description": "Mary Ruth Jessen was an American professional golfer. She became a member of the LPGA Tour in 1956 and won 11 LPGA Tour victories in all. Wikipedia",
+            "type": "Golfer",
+            "Born ": "November 12, 1936, Seattle, Washington, United States",
+            "Died ": "September 21, 2007, Phoenix, Arizona, United States",
+            "Education ": [
+                "Seattle University"
             ],
             "People also search for": []
         },
@@ -464,27 +488,13 @@
             ],
             "People also search for": []
         },
-        "Kermit Zarley": {
-            "label": "Kermit Zarley",
-            "description": "Kermit Millard Zarley, Jr. is an American professional golfer who played on the PGA Tour and the Champions Tour. He is also an author of several books. Wikipedia",
+        "Steve Melnyk (golfer)": {
+            "label": "Steve Melnyk",
+            "description": "Steven N. Melnyk is a former American professional golfer and golf sportscaster best known for his success as an amateur golfer. Melnyk won both the U.S. Amateur and British Amateur. Wikipedia",
             "type": "Golfer",
-            "Born ": "September 29, 1941 (age 72), Seattle, Washington, United States",
-            "Weight ": [
-                "174 lbs (79 kg)"
-            ],
+            "Born ": "February 26, 1947 (age 67), Brunswick, Georgia, United States",
             "Education ": [
-                "University of Houston"
-            ],
-            "People also search for": []
-        },
-        "Ruth Jessen": {
-            "label": "Ruth Jessen",
-            "description": "Mary Ruth Jessen was an American professional golfer. She became a member of the LPGA Tour in 1956 and won 11 LPGA Tour victories in all. Wikipedia",
-            "type": "Golfer",
-            "Born ": "November 12, 1936, Seattle, Washington, United States",
-            "Died ": "September 21, 2007, Phoenix, Arizona, United States",
-            "Education ": [
-                "Seattle University"
+                "University of Florida"
             ],
             "People also search for": []
         },
@@ -508,13 +518,16 @@
             "Born ": "November 20, 1984 (age 29), Amsterdam, Netherlands",
             "People also search for": []
         },
-        "Steve Melnyk (golfer)": {
-            "label": "Steve Melnyk",
-            "description": "Steven N. Melnyk is a former American professional golfer and golf sportscaster best known for his success as an amateur golfer. Melnyk won both the U.S. Amateur and British Amateur. Wikipedia",
+        "Tim Petrovic": {
+            "label": "Tim Petrovic",
+            "description": "Tim Petrovic is an American professional golfer.\nPetrovic was born in Northampton, Massachusetts. He has won one PGA Tour tournament, the Zurich Classic of New Orleans in 2005.\nPetrovic's career high OWGR ranking is 65th, achieved in 2005. Wikipedia",
             "type": "Golfer",
-            "Born ": "February 26, 1947 (age 67), Brunswick, Georgia, United States",
+            "Born ": "August 16, 1966 (age 47), Northampton, Massachusetts, United States",
+            "Weight ": [
+                "194 lbs (88 kg)"
+            ],
             "Education ": [
-                "University of Florida"
+                "University of Hartford"
             ],
             "People also search for": []
         },
@@ -564,16 +577,24 @@
             ],
             "People also search for": []
         },
-        "Tim Petrovic": {
-            "label": "Tim Petrovic",
-            "description": "Tim Petrovic is an American professional golfer.\nPetrovic was born in Northampton, Massachusetts. He has won one PGA Tour tournament, the Zurich Classic of New Orleans in 2005.\nPetrovic's career high OWGR ranking is 65th, achieved in 2005. Wikipedia",
-            "type": "Golfer",
-            "Born ": "August 16, 1966 (age 47), Northampton, Massachusetts, United States",
-            "Weight ": [
-                "194 lbs (88 kg)"
+        "Babe Didrikson Zaharias": {
+            "label": "Babe Didrikson Zaharias",
+            "description": "Mildred Ella \"Babe\" Didrikson Zaharias was an American athlete who achieved outstanding success in golf, basketball, and track and field. Wikipedia",
+            "type": "Athlete",
+            "Born ": "June 26, 1911, Port Arthur, Texas, United States",
+            "Died ": "September 27, 1956, Galveston, Texas, United States",
+            "Spouse ": [
+                "George Zaharias (m. 1938–1956)"
             ],
-            "Education ": [
-                "University of Hartford"
+            "Movies ": [
+                "Babe"
+            ],
+            "Awards ": [
+                "Associated Press Female Athlete of the Year"
+            ],
+            "Parents ": [
+                "Ole",
+                " Hannah"
             ],
             "People also search for": []
         },
@@ -601,27 +622,6 @@
             ],
             "People also search for": []
         },
-        "Babe Didrikson Zaharias": {
-            "label": "Babe Didrikson Zaharias",
-            "description": "Mildred Ella \"Babe\" Didrikson Zaharias was an American athlete who achieved outstanding success in golf, basketball, and track and field. Wikipedia",
-            "type": "Athlete",
-            "Born ": "June 26, 1911, Port Arthur, Texas, United States",
-            "Died ": "September 27, 1956, Galveston, Texas, United States",
-            "Spouse ": [
-                "George Zaharias (m. 1938–1956)"
-            ],
-            "Movies ": [
-                "Babe"
-            ],
-            "Awards ": [
-                "Associated Press Female Athlete of the Year"
-            ],
-            "Parents ": [
-                "Ole",
-                " Hannah"
-            ],
-            "People also search for": []
-        },
         "Al Balding": {
             "label": "Al Balding",
             "description": "Allan George Balding was a Canadian professional golfer, who won four events on the PGA Tour. In 1955 he became the first Canadian to win a PGA Tour event in the United States; Canadians Ken Black and ... Wikipedia",
@@ -643,6 +643,16 @@
             ],
             "People also search for": []
         },
+        "Alastair Forsyth": {
+            "label": "Alastair Forsyth",
+            "description": "Alastair Forsyth is a Scottish professional golfer. Wikipedia",
+            "type": "Golfer",
+            "Born ": "February 5, 1976 (age 38), Glasgow, United Kingdom",
+            "Weight ": [
+                "196 lbs (89 kg)"
+            ],
+            "People also search for": []
+        },
         "Alf Perry": {
             "label": "Alf Perry",
             "description": "Alfred \"Alf\" Perry was a professional golfer from England, the winner of The Open Championship in 1935. Wikipedia",
@@ -655,6 +665,13 @@
             "Died ": [
                 "1974"
             ],
+            "People also search for": []
+        },
+        "Amy Alcott": {
+            "label": "Amy Alcott",
+            "description": "Amy Alcott is an American professional golfer and golf course designer. She became a member of the LPGA Tour in 1975, and won five major championships and 29 LPGA Tour events in all. She is a member of the World Golf Hall of Fame. Wikipedia",
+            "type": "Golfer",
+            "Born ": "February 22, 1956 (age 58), Kansas City, Missouri, United States",
             "People also search for": []
         },
         "Ben Crane": {
@@ -677,21 +694,27 @@
             ],
             "People also search for": []
         },
-        "Alastair Forsyth": {
-            "label": "Alastair Forsyth",
-            "description": "Alastair Forsyth is a Scottish professional golfer. Wikipedia",
+        "Ben Curtis (golfer)": {
+            "label": "Ben Curtis",
+            "description": "Ben Clifford Curtis is an American professional golfer on the PGA Tour, best known for winning the 2003 Open Championship. Wikipedia",
             "type": "Golfer",
-            "Born ": "February 5, 1976 (age 38), Glasgow, United Kingdom",
-            "Weight ": [
-                "196 lbs (89 kg)"
+            "Born ": "May 26, 1977 (age 36), Columbus, Ohio, United States",
+            "Height ": [
+                "5' 11\" (1.80 m)"
             ],
-            "People also search for": []
-        },
-        "Amy Alcott": {
-            "label": "Amy Alcott",
-            "description": "Amy Alcott is an American professional golfer and golf course designer. She became a member of the LPGA Tour in 1975, and won five major championships and 29 LPGA Tour events in all. She is a member of the World Golf Hall of Fame. Wikipedia",
-            "type": "Golfer",
-            "Born ": "February 22, 1956 (age 58), Kansas City, Missouri, United States",
+            "Weight ": [
+                "174 lbs (79 kg)"
+            ],
+            "Spouse ": [
+                "Candace Curtis (m. 2003)"
+            ],
+            "Education ": [
+                "Kent State University"
+            ],
+            "Children ": [
+                "Liam Curtis",
+                " Addison Curtis"
+            ],
             "People also search for": []
         },
         "Bernd Wiesberger": {
@@ -730,51 +753,6 @@
             ],
             "Awards ": [
                 "Best Female Golfer ESPY Award"
-            ],
-            "People also search for": []
-        },
-        "Ben Curtis (golfer)": {
-            "label": "Ben Curtis",
-            "description": "Ben Clifford Curtis is an American professional golfer on the PGA Tour, best known for winning the 2003 Open Championship. Wikipedia",
-            "type": "Golfer",
-            "Born ": "May 26, 1977 (age 36), Columbus, Ohio, United States",
-            "Height ": [
-                "5' 11\" (1.80 m)"
-            ],
-            "Weight ": [
-                "174 lbs (79 kg)"
-            ],
-            "Spouse ": [
-                "Candace Curtis (m. 2003)"
-            ],
-            "Education ": [
-                "Kent State University"
-            ],
-            "Children ": [
-                "Liam Curtis",
-                " Addison Curtis"
-            ],
-            "People also search for": []
-        },
-        "Bill Haas": {
-            "label": "Bill Haas",
-            "description": "William Harlan Haas is an American professional golfer who plays on the PGA Tour and won the 2011 FedEx Cup. He is the son of former PGA Tour player Jay Haas. Wikipedia",
-            "type": "Golfer",
-            "Born ": "May 24, 1982 (age 31), Charlotte, North Carolina, United States",
-            "Height ": [
-                "6' 2\" (1.88 m)"
-            ],
-            "Nationality ": [
-                "American"
-            ],
-            "Parents ": [
-                "Jay Haas"
-            ],
-            "Spouse ": [
-                "Julie Haas (m. ?–2011)"
-            ],
-            "Education ": [
-                "Wake Forest University"
             ],
             "People also search for": []
         },
@@ -840,25 +818,6 @@
             ],
             "People also search for": []
         },
-        "Bob Estes": {
-            "label": "Bob Estes",
-            "description": "Bob Alan Estes is an American professional golfer.\nEstes was born in Graham, Texas and raised in Abilene, Texas. He first played golf at age 4 and decided to become a professional golfer at age 12. Wikipedia",
-            "type": "Golfer",
-            "Born ": "February 2, 1966 (age 48), Graham, Texas, United States",
-            "Height ": [
-                "6' 2\" (1.88 m)"
-            ],
-            "Weight ": [
-                "181 lbs (82 kg)"
-            ],
-            "Spouse ": [
-                "Liz Estes"
-            ],
-            "Education ": [
-                "University of Texas at Austin"
-            ],
-            "People also search for": []
-        },
         "Brett Rumford": {
             "label": "Brett Rumford",
             "description": "Brett Michael Rumford is an Australian professional golfer who plays on the European Tour, having formerly been a member on both the PGA Tour and PGA Tour of Australasia.\nRumford was born and grew up in Perth, Western Australia. Wikipedia",
@@ -879,16 +838,6 @@
             ],
             "People also search for": []
         },
-        "Carol Mann": {
-            "label": "Carol Mann",
-            "description": "Carol Mann is a former American professional golfer. She became a member of the LPGA Tour in 1961 and won two major championships and 38 LPGA Tour events in all. She is a member of the World Golf Hall of Fame. Wikipedia",
-            "type": "Golfer",
-            "Born ": "February 3, 1941 (age 73), Buffalo, New York, United States",
-            "Education ": [
-                "University of North Carolina at Greensboro"
-            ],
-            "People also search for": []
-        },
         "Bruce Crampton": {
             "label": "Bruce Crampton",
             "description": "Bruce Crampton is an Australian professional golfer.\nCrampton was born in Sydney, New South Wales, and attended Kogarah High School from 1948-1950. He turned professional in 1953. Wikipedia",
@@ -899,6 +848,30 @@
             ],
             "Education ": [
                 "Kogarah High School"
+            ],
+            "People also search for": []
+        },
+        "Carol Mann": {
+            "label": "Carol Mann",
+            "description": "Carol Mann is a former American professional golfer. She became a member of the LPGA Tour in 1961 and won two major championships and 38 LPGA Tour events in all. She is a member of the World Golf Hall of Fame. Wikipedia",
+            "type": "Golfer",
+            "Born ": "February 3, 1941 (age 73), Buffalo, New York, United States",
+            "Education ": [
+                "University of North Carolina at Greensboro"
+            ],
+            "People also search for": []
+        },
+        "Chick Evans": {
+            "label": "Chick Evans",
+            "description": "Charles E. \"Chick\" Evans, Jr. was a leading American amateur golfer of the 1910s and 1920s. Evans was the first amateur to win the U.S. Open and U.S. Amateur in one year, a feat he achieved in 1916. Wikipedia",
+            "type": "Golfer",
+            "Born ": "July 18, 1890, Indianapolis, Indiana, United States",
+            "Died ": "November 6, 1979, Chicago, Illinois, United States",
+            "Weight ": [
+                "159 lbs (72 kg)"
+            ],
+            "Education ": [
+                "Northwestern University"
             ],
             "People also search for": []
         },
@@ -925,20 +898,6 @@
             "Education ": [
                 "University of Florida",
                 " Lake Brantley High School"
-            ],
-            "People also search for": []
-        },
-        "Chick Evans": {
-            "label": "Chick Evans",
-            "description": "Charles E. \"Chick\" Evans, Jr. was a leading American amateur golfer of the 1910s and 1920s. Evans was the first amateur to win the U.S. Open and U.S. Amateur in one year, a feat he achieved in 1916. Wikipedia",
-            "type": "Golfer",
-            "Born ": "July 18, 1890, Indianapolis, Indiana, United States",
-            "Died ": "November 6, 1979, Chicago, Illinois, United States",
-            "Weight ": [
-                "159 lbs (72 kg)"
-            ],
-            "Education ": [
-                "Northwestern University"
             ],
             "People also search for": []
         },
@@ -981,19 +940,16 @@
             ],
             "People also search for": []
         },
-        "Craig Parry": {
-            "label": "Craig Parry",
-            "description": "Craig David Parry is an Australian professional golfer. He has been one of Australia's premier golfers since turning professional in 1985, and has 23 career victories, two of those wins being events on ... Wikipedia",
+        "Colt Knost": {
+            "label": "Colt Knost",
+            "description": "Colt Knost is an American professional golfer who has played on the PGA Tour. Wikipedia",
             "type": "Golfer",
-            "Born ": "January 12, 1966 (age 48), Sunshine, Australia",
-            "Height ": [
-                "5' 6\" (1.68 m)"
-            ],
+            "Born ": "June 26, 1985 (age 28), Garrettsville, Ohio, United States",
             "Weight ": [
-                "172 lbs (78 kg)"
+                "216 lbs (98 kg)"
             ],
-            "Spouse ": [
-                "Jenny Parry"
+            "Education ": [
+                "Southern Methodist University"
             ],
             "People also search for": []
         },
@@ -1024,16 +980,52 @@
             ],
             "People also search for": []
         },
-        "Colt Knost": {
-            "label": "Colt Knost",
-            "description": "Colt Knost is an American professional golfer who has played on the PGA Tour. Wikipedia",
+        "Bob Estes": {
+            "label": "Bob Estes",
+            "description": "Bob Alan Estes is an American professional golfer.\nEstes was born in Graham, Texas and raised in Abilene, Texas. He first played golf at age 4 and decided to become a professional golfer at age 12. Wikipedia",
             "type": "Golfer",
-            "Born ": "June 26, 1985 (age 28), Garrettsville, Ohio, United States",
+            "Born ": "February 2, 1966 (age 48), Graham, Texas, United States",
+            "Height ": [
+                "6' 2\" (1.88 m)"
+            ],
             "Weight ": [
-                "216 lbs (98 kg)"
+                "181 lbs (82 kg)"
+            ],
+            "Spouse ": [
+                "Liz Estes"
             ],
             "Education ": [
-                "Southern Methodist University"
+                "University of Texas at Austin"
+            ],
+            "People also search for": []
+        },
+        "Craig Parry": {
+            "label": "Craig Parry",
+            "description": "Craig David Parry is an Australian professional golfer. He has been one of Australia's premier golfers since turning professional in 1985, and has 23 career victories, two of those wins being events on ... Wikipedia",
+            "type": "Golfer",
+            "Born ": "January 12, 1966 (age 48), Sunshine, Australia",
+            "Height ": [
+                "5' 6\" (1.68 m)"
+            ],
+            "Weight ": [
+                "172 lbs (78 kg)"
+            ],
+            "Spouse ": [
+                "Jenny Parry"
+            ],
+            "People also search for": []
+        },
+        "Craig Perks": {
+            "label": "Craig Perks",
+            "description": "Craig William Perks is a professional golfer from New Zealand who played on the PGA Tour.\nPerks was born in Palmerston North. He played college golf at University of Oklahoma and University of Southwestern Louisiana in the United States. Wikipedia",
+            "type": "Golfer",
+            "Born ": "January 6, 1967 (age 47), Palmerston North, New Zealand",
+            "Weight ": [
+                "201 lbs (91 kg)"
+            ],
+            "Education ": [
+                "University of Louisiana at Lafayette",
+                " University of Oklahoma"
             ],
             "People also search for": []
         },
@@ -1074,20 +1066,6 @@
             ],
             "People also search for": []
         },
-        "Craig Perks": {
-            "label": "Craig Perks",
-            "description": "Craig William Perks is a professional golfer from New Zealand who played on the PGA Tour.\nPerks was born in Palmerston North. He played college golf at University of Oklahoma and University of Southwestern Louisiana in the United States. Wikipedia",
-            "type": "Golfer",
-            "Born ": "January 6, 1967 (age 47), Palmerston North, New Zealand",
-            "Weight ": [
-                "201 lbs (91 kg)"
-            ],
-            "Education ": [
-                "University of Louisiana at Lafayette",
-                " University of Oklahoma"
-            ],
-            "People also search for": []
-        },
         "David Toms": {
             "label": "David Toms",
             "description": "David Wayne Toms is an American professional golfer who plays on the PGA Tour. He has won a total of thirteen events on the PGA Tour including the 2001 PGA Championship. Wikipedia",
@@ -1108,16 +1086,6 @@
             "Children ": [
                 "Carter Toms",
                 " Anna Toms"
-            ],
-            "People also search for": []
-        },
-        "Dick Mast": {
-            "label": "Dick Mast",
-            "description": "Richard Mast is an American professional golfer who has played on the PGA Tour, Nationwide Tour, and Champions Tour.\nMast was born in Bluffton, Ohio. He graduated from St. Petersburg Junior College in 1971 with a degree in business. Wikipedia",
-            "type": "Golfer",
-            "Born ": "March 23, 1951 (age 63), Bluffton, Ohio, United States",
-            "Education ": [
-                "St. Petersburg College"
             ],
             "People also search for": []
         },
@@ -1142,6 +1110,16 @@
             "Children ": [
                 "Alexia Love",
                 " Davis Love IV"
+            ],
+            "People also search for": []
+        },
+        "Dick Mast": {
+            "label": "Dick Mast",
+            "description": "Richard Mast is an American professional golfer who has played on the PGA Tour, Nationwide Tour, and Champions Tour.\nMast was born in Bluffton, Ohio. He graduated from St. Petersburg Junior College in 1971 with a degree in business. Wikipedia",
+            "type": "Golfer",
+            "Born ": "March 23, 1951 (age 63), Bluffton, Ohio, United States",
+            "Education ": [
+                "St. Petersburg College"
             ],
             "People also search for": []
         },
@@ -1177,6 +1155,13 @@
             ],
             "People also search for": []
         },
+        "Eamonn Darcy": {
+            "label": "Eamonn Darcy",
+            "description": "Eamonn Darcy is one of the most successful golfers produced by Ireland.\nDarcy was born in Delgany, County Wicklow. He turned professional in 1968 and played on the European Tour from 1972, winning four European Tour tournaments. Wikipedia",
+            "type": "Golfer",
+            "Born ": "August 7, 1952 (age 61), Delgany, Republic of Ireland",
+            "People also search for": []
+        },
         "Eben Byers": {
             "label": "Eben Byers",
             "description": "Eben McBurney Byers was a wealthy American socialite, athlete, and industrialist. He won the 1906 U.S. Amateur in golf. Wikipedia",
@@ -1201,6 +1186,19 @@
             ],
             "People also search for": []
         },
+        "Estanislao Goya": {
+            "label": "Estanislao Goya",
+            "description": "Carlos Estanislao \"Tano\" Goya is an Argentine professional golfer.\nAfter turning professional in 2007, Goya won the Tour de las Americas qualifying school by nine shots, and followed that with victory ... Wikipedia",
+            "type": "Golfer",
+            "Born ": "June 1, 1988 (age 25), Alta Gracia, Argentina",
+            "Height ": [
+                "6' 0\" (1.82 m)"
+            ],
+            "Weight ": [
+                "170 lbs (77 kg)"
+            ],
+            "People also search for": []
+        },
         "Franklin Langham": {
             "label": "Franklin Langham",
             "description": "Franklin Langham is an American professional golfer.\nLangham was born in Thomson, Georgia. He played golf at the University of Georgia from 1989 to 1991 and was named an All-American in 1991. He played on the 1991 Walker Cup team. Wikipedia",
@@ -1214,18 +1212,37 @@
             ],
             "People also search for": []
         },
-        "Estanislao Goya": {
-            "label": "Estanislao Goya",
-            "description": "Carlos Estanislao \"Tano\" Goya is an Argentine professional golfer.\nAfter turning professional in 2007, Goya won the Tour de las Americas qualifying school by nine shots, and followed that with victory ... Wikipedia",
+        "Fred Funk": {
+            "label": "Fred Funk",
+            "description": "Frederick Funk is an American professional golfer on the PGA Tour and Champions Tour. Wikipedia",
             "type": "Golfer",
-            "Born ": "June 1, 1988 (age 25), Alta Gracia, Argentina",
+            "Born ": "June 14, 1956 (age 57), Takoma Park, Maryland, United States",
             "Height ": [
-                "6' 0\" (1.82 m)"
+                "5' 8\" (1.73 m)"
             ],
-            "Weight ": [
-                "170 lbs (77 kg)"
+            "Spouse ": [
+                "Sharon Funk"
+            ],
+            "Education ": [
+                "University of Maryland",
+                " College Park"
+            ],
+            "Children ": [
+                "Perri Leigh Funk",
+                " Eric Justin Funk",
+                " Taylor Christian Funk"
+            ],
+            "Movies ": [
+                "Short Game Golf",
+                " Chicken Soup Conversations for the Golfer's Soul"
             ],
             "People also search for": []
+        },
+        "Fred Haas": {
+            "label": "Fred Haas Toyota World",
+            "description": "",
+            "type": "20 followers on Google+",
+            "Recent posts": []
         },
         "Fuzzy Zoeller": {
             "label": "Fuzzy Zoeller",
@@ -1253,19 +1270,6 @@
                 " Edison Community College"
             ],
             "People also search for": []
-        },
-        "Eamonn Darcy": {
-            "label": "Eamonn Darcy",
-            "description": "Eamonn Darcy is one of the most successful golfers produced by Ireland.\nDarcy was born in Delgany, County Wicklow. He turned professional in 1968 and played on the European Tour from 1972, winning four European Tour tournaments. Wikipedia",
-            "type": "Golfer",
-            "Born ": "August 7, 1952 (age 61), Delgany, Republic of Ireland",
-            "People also search for": []
-        },
-        "Fred Haas": {
-            "label": "Fred Haas Toyota World",
-            "description": "",
-            "type": "20 followers on Google+",
-            "Recent posts": []
         },
         "Gary McCord": {
             "label": "Gary McCord",
@@ -1320,6 +1324,16 @@
             ],
             "People also search for": []
         },
+        "Greg Owen": {
+            "label": "Greg Owen",
+            "description": "Gregory Clive Owen is an English professional golfer.\nOwen was born in Mansfield, Nottinghamshire. He turned professional in 1992 and gained his European Tour card at the 1997 qualifying school. Wikipedia",
+            "type": "Golfer",
+            "Born ": "February 19, 1972 (age 42), Mansfield, United Kingdom",
+            "Weight ": [
+                "205 lbs (93 kg)"
+            ],
+            "People also search for": []
+        },
         "Hal Sutton": {
             "label": "Hal Sutton",
             "description": "Hal Evan Sutton is an American professional golfer who has had fourteen victories on the PGA Tour, including one major the PGA Championship in 1983. Wikipedia",
@@ -1343,29 +1357,14 @@
             ],
             "People also search for": []
         },
-        "Fred Funk": {
-            "label": "Fred Funk",
-            "description": "Frederick Funk is an American professional golfer on the PGA Tour and Champions Tour. Wikipedia",
+        "Hale Irwin": {
+            "label": "Hale Irwin",
+            "description": "Hale S. Irwin is an American professional golfer. He was one of the world's leading golfers from the mid-1970s to the mid-1980s. Wikipedia",
             "type": "Golfer",
-            "Born ": "June 14, 1956 (age 57), Takoma Park, Maryland, United States",
-            "Height ": [
-                "5' 8\" (1.73 m)"
-            ],
-            "Spouse ": [
-                "Sharon Funk"
-            ],
+            "Born ": "June 3, 1945 (age 68), Joplin, Missouri, United States",
             "Education ": [
-                "University of Maryland",
-                " College Park"
-            ],
-            "Children ": [
-                "Perri Leigh Funk",
-                " Eric Justin Funk",
-                " Taylor Christian Funk"
-            ],
-            "Movies ": [
-                "Short Game Golf",
-                " Chicken Soup Conversations for the Golfer's Soul"
+                "University of Colorado Boulder",
+                " Boulder High School"
             ],
             "People also search for": []
         },
@@ -1379,17 +1378,6 @@
             ],
             "Weight ": [
                 "165 lbs (75 kg)"
-            ],
-            "People also search for": []
-        },
-        "Hale Irwin": {
-            "label": "Hale Irwin",
-            "description": "Hale S. Irwin is an American professional golfer. He was one of the world's leading golfers from the mid-1970s to the mid-1980s. Wikipedia",
-            "type": "Golfer",
-            "Born ": "June 3, 1945 (age 68), Joplin, Missouri, United States",
-            "Education ": [
-                "University of Colorado Boulder",
-                " Boulder High School"
             ],
             "People also search for": []
         },
@@ -1429,16 +1417,6 @@
             "Education ": [
                 "University of Arizona",
                 " Pepperdine University"
-            ],
-            "People also search for": []
-        },
-        "Greg Owen": {
-            "label": "Greg Owen",
-            "description": "Gregory Clive Owen is an English professional golfer.\nOwen was born in Mansfield, Nottinghamshire. He turned professional in 1992 and gained his European Tour card at the 1997 qualifying school. Wikipedia",
-            "type": "Golfer",
-            "Born ": "February 19, 1972 (age 42), Mansfield, United Kingdom",
-            "Weight ": [
-                "205 lbs (93 kg)"
             ],
             "People also search for": []
         },
@@ -1499,38 +1477,86 @@
                 " University of Arizona"
             ],
             "People also search for": []
+        },
+        "Bill Haas": {
+            "label": "Bill Haas",
+            "description": "William Harlan Haas is an American professional golfer who plays on the PGA Tour and won the 2011 FedEx Cup. He is the son of former PGA Tour player Jay Haas. Wikipedia",
+            "type": "Golfer",
+            "Born ": "May 24, 1982 (age 31), Charlotte, North Carolina, United States",
+            "Height ": [
+                "6' 2\" (1.88 m)"
+            ],
+            "Nationality ": [
+                "American"
+            ],
+            "Parents ": [
+                "Jay Haas"
+            ],
+            "Spouse ": [
+                "Julie Haas (m. ?–2011)"
+            ],
+            "Education ": [
+                "Wake Forest University"
+            ],
+            "People also search for": []
         }
     },
     "summary": {
-        "label": 96,
-        "description": 96,
-        "type": 96,
-        "born": 1,
-        "people_also_search_for": 1,
-        "height": 1,
-        "education": 1,
-        "spouse": 1,
-        "children": 1,
-        "books": 1,
-        "weight": 1,
-        "nominations": 1,
-        "died": 1,
-        "parents": 1,
-        "nationality": 1,
-        "movies": 1,
-        "tv_shows": 1,
-        "full_name": 1,
-        "caddy": 1,
-        "awards": 1,
-        "see_results_about": 1,
-        "recent_posts": 1,
-        "siblings": 1,
-        "nicknames": 1
+        "label": {
+            "uri": "http://www.w3.org/2000/01/rdf-schema#label",
+            "count": 96
+        },
+        "description": {
+            "uri": "http://purl.org/dc/elements/1.1/description",
+            "count": 96
+        },
+        "type": {
+            "uri": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+            "count": 96
+        },
+        "height": {
+            "uri": "http://dbpedia.org/ontology/height",
+            "count": 44
+        },
+        "spouse": {
+            "uri": "http://dbpedia.org/property/spouse",
+            "count": 31
+        },
+        "children": {
+            "uri": "http://dbpedia.org/property/children",
+            "count": 23
+        },
+        "weight": {
+            "uri": "http://dbpedia.org/ontology/weight",
+            "count": 45
+        },
+        "nationality": {
+            "uri": "http://dbpedia.org/property/nationality",
+            "count": 12
+        }
     },
     "infoboxless": [
         "Carolyn Hill",
         "Barry Lane",
         "Ed Dudley",
         "Jim Barnes"
-    ]
+    ],
+    "Unmapped_Properties": {
+        "born": 1,
+        "education": 1,
+        "books": 1,
+        "peopleAlsoSearchFor": 1,
+        "nominations": 1,
+        "died": 1,
+        "parents": 1,
+        "movies": 1,
+        "tvShows": 1,
+        "fullName": 1,
+        "caddy": 1,
+        "awards": 1,
+        "seeResultsAbout": 1,
+        "recentPosts": 1,
+        "siblings": 1,
+        "nicknames": 1
+    }
 }

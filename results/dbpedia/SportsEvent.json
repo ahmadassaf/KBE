@@ -26,10 +26,18 @@
         }
     },
     "summary": {
-        "label": 4,
-        "description": 4,
-        "type": 4,
-        "see_results_about": 1
+        "label": {
+            "uri": "http://dbpedia.org/property/label",
+            "count": 4
+        },
+        "description": {
+            "uri": "http://dbpedia.org/property/description",
+            "count": 4
+        },
+        "type": {
+            "uri": "http://dbpedia.org/ontology/type",
+            "count": 4
+        }
     },
     "infoboxless": [
         "1906 French Grand Prix",
@@ -128,5 +136,8 @@
         "1970 Monaco Grand Prix",
         "1970 South African Grand Prix",
         "1972 Italian Grand Prix"
-    ]
+    ],
+    "Unmapped_Properties": {
+        "seeResultsAbout": 1
+    }
 }

@@ -1,5 +1,11 @@
 {
     "instances": {
+        "Eric Pollard": {
+            "label": "Eric Pollard",
+            "description": "Eric Charles Pollard is a fictional character from the British soap opera Emmerdale, played by Chris Chittell, who has appeared in the show since 1986. Wikipedia",
+            "type": "Fictional Character",
+            "See results about": []
+        },
         "List of My Family characters": {
             "label": "My Family",
             "description": "My Family is a British sitcom created and initially co-written by Fred Barron, which was produced by DLT Entertainment and Rude Boy Productions, and broadcast by BBC One for eleven series between 2000 ... Wikipedia",
@@ -61,12 +67,6 @@
             "Episodes": [],
             "Cast": []
         },
-        "Eric Pollard": {
-            "label": "Eric Pollard",
-            "description": "Eric Charles Pollard is a fictional character from the British soap opera Emmerdale, played by Chris Chittell, who has appeared in the show since 1986. Wikipedia",
-            "type": "Fictional Character",
-            "See results about": []
-        },
         "Meredith Lord": {
             "label": "Meredith Lord Photography",
             "description": "",
@@ -100,25 +100,38 @@
         }
     },
     "summary": {
-        "label": 5,
-        "description": 5,
-        "type": 5,
-        "characters": 1,
-        "first_episode": 1,
-        "final_episode": 1,
-        "network": 1,
-        "program_creator": 1,
-        "cast": 1,
-        "adaptations": 1,
-        "episodes": 1,
-        "see_results_about": 1,
-        "people_also_search_for": 1,
-        "born": 1,
-        "height": 1,
-        "salary": 1,
-        "education": 1,
-        "parents": 1,
-        "siblings": 1
+        "label": {
+            "uri": "http://www.w3.org/2000/01/rdf-schema#label",
+            "count": 5
+        },
+        "description": {
+            "uri": "http://dbpedia.org/property/description",
+            "count": 5
+        },
+        "type": {
+            "uri": "http://dbpedia.org/property/type",
+            "count": 5
+        },
+        "episodes": {
+            "uri": "http://dbpedia.org/property/episodes",
+            "count": 1
+        },
+        "born": {
+            "uri": "http://dbpedia.org/property/born",
+            "count": 1
+        },
+        "education": {
+            "uri": "http://dbpedia.org/property/education",
+            "count": 1
+        },
+        "parents": {
+            "uri": "http://dbpedia.org/property/parents",
+            "count": 1
+        },
+        "siblings": {
+            "uri": "http://dbpedia.org/property/siblings",
+            "count": 1
+        }
     },
     "infoboxless": [
         "Bianca Jackson",
@@ -216,5 +229,18 @@
         "Willy (EastEnders)",
         "Addie Horton",
         "Anna DiMera"
-    ]
+    ],
+    "Unmapped_Properties": {
+        "seeResultsAbout": 1,
+        "characters": 1,
+        "firstEpisode": 1,
+        "finalEpisode": 1,
+        "network": 1,
+        "programCreator": 1,
+        "cast": 1,
+        "adaptations": 1,
+        "peopleAlsoSearchFor": 1,
+        "height": 1,
+        "salary": 1
+    }
 }

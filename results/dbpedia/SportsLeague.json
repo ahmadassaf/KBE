@@ -1,11 +1,5 @@
 {
     "instances": {
-        "USA Ultimate": {
-            "label": "USA Ultimate",
-            "description": "USA Ultimate is a not-for-profit organization that serves as the governing body of the sport of Ultimate in the United States.\nIt was founded in 1979 as the Ultimate Players Association, but rebranded itself as USA Ultimate on May 25, 2010. Wikipedia",
-            "type": "",
-            "Recent posts": []
-        },
         "NBA Development League": {
             "label": "NBA Development League",
             "description": "The NBA Development League, or NBA D-League, is the National Basketball Association's official minor league basketball organization. Wikipedia",
@@ -15,6 +9,12 @@
                 " NY"
             ],
             "People also search for": []
+        },
+        "USA Ultimate": {
+            "label": "USA Ultimate",
+            "description": "USA Ultimate is a not-for-profit organization that serves as the governing body of the sport of Ultimate in the United States.\nIt was founded in 1979 as the Ultimate Players Association, but rebranded itself as USA Ultimate on May 25, 2010. Wikipedia",
+            "type": "",
+            "Recent posts": []
         },
         "Women's Flat Track Derby Association": {
             "label": "Women's Flat Track Derby Association",
@@ -42,17 +42,38 @@
         }
     },
     "summary": {
-        "label": 4,
-        "description": 4,
-        "type": 4,
-        "recent_posts": 1,
-        "headquarters": 1,
-        "people_also_search_for": 1,
-        "founded": 1,
-        "arena/stadium": 1,
-        "manager": 1,
-        "league": 1,
-        "location": 1
+        "label": {
+            "uri": "http://dbpedia.org/property/label",
+            "count": 4
+        },
+        "description": {
+            "uri": "http://fr.dbpedia.org/ontology/abstract",
+            "count": 4
+        },
+        "type": {
+            "uri": "http://dbpedia.org/property/type",
+            "count": 4
+        },
+        "headquarters": {
+            "uri": "http://dbpedia.org/property/headquarters",
+            "count": 1
+        },
+        "founded": {
+            "uri": "http://dbpedia.org/property/founded",
+            "count": 1
+        },
+        "manager": {
+            "uri": "http://dbpedia.org/property/manager",
+            "count": 1
+        },
+        "league": {
+            "uri": "http://dbpedia.org/property/league",
+            "count": 1
+        },
+        "location": {
+            "uri": "http://dbpedia.org/ontology/location",
+            "count": 1
+        }
     },
     "infoboxless": [
         "AL-Bank Ligaen",
@@ -151,5 +172,10 @@
         "United Kingdom Roller Derby Association",
         "1st. Slovak National Hockey League",
         "Atlantic Coast Hockey League (2002–2003)"
-    ]
+    ],
+    "Unmapped_Properties": {
+        "peopleAlsoSearchFor": 1,
+        "recentPosts": 1,
+        "arena/stadium": 1
+    }
 }

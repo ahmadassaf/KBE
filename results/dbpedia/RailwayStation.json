@@ -27,18 +27,18 @@
                 " Japan"
             ]
         },
-        "Gion Station (Fukuoka)": {
-            "label": "Gion Station",
-            "description": "Gion Station is a train station located in Hakata-ku, Fukuoka in Japan. Its station symbol is a person in traditional clothes, representing the famous Gion Yamakasa Festival, held in July each year. Wikipedia",
+        "Nagareyama-centralpark Station": {
+            "label": "Nagareyama-centralpark Station",
+            "description": "Nagareyama-centralpark Station is a train station in Nagareyama, Chiba Prefecture, Japan. Its station number is 11. The station opened on 24 August 2005. Wikipedia",
             "type": "Train station",
             "Address ": [
-                "Fukuoka",
+                "Chiba",
                 " Japan"
             ]
         },
-        "Higashi-Hie Station": {
-            "label": "Higashi-Hie Station",
-            "description": "Higashi-Hie Station is a train station located in Hakata-ku, Fukuoka in Japan. Wikipedia",
+        "Gion Station (Fukuoka)": {
+            "label": "Gion Station",
+            "description": "Gion Station is a train station located in Hakata-ku, Fukuoka in Japan. Its station symbol is a person in traditional clothes, representing the famous Gion Yamakasa Festival, held in July each year. Wikipedia",
             "type": "Train station",
             "Address ": [
                 "Fukuoka",
@@ -54,12 +54,12 @@
                 " Japan"
             ]
         },
-        "Nagareyama-centralpark Station": {
-            "label": "Nagareyama-centralpark Station",
-            "description": "Nagareyama-centralpark Station is a train station in Nagareyama, Chiba Prefecture, Japan. Its station number is 11. The station opened on 24 August 2005. Wikipedia",
+        "Higashi-Hie Station": {
+            "label": "Higashi-Hie Station",
+            "description": "Higashi-Hie Station is a train station located in Hakata-ku, Fukuoka in Japan. Wikipedia",
             "type": "Train station",
             "Address ": [
-                "Chiba",
+                "Fukuoka",
                 " Japan"
             ]
         },
@@ -72,12 +72,12 @@
                 " Japan"
             ]
         },
-        "Furushō Station": {
-            "label": "Furushō Station",
-            "description": "Furushō Station is a train station of the Shizuoka-Shimizu Line in Aoi-ku, Shizuoka, Shizuoka Prefecture, Japan. Wikipedia",
-            "type": "",
+        "Kai-Ōshima Station": {
+            "label": "Kai-Ōshima Station",
+            "description": "Kai-Ōshima Station is a railway station on the Minobu Line of Central Japan Railway Company located in the town of Minobu, Minamikoma District, Yamanashi Prefecture, Japan. Wikipedia",
+            "type": "Railway station",
             "Address ": [
-                "Shizuoka",
+                "Yamanashi",
                 " Japan"
             ]
         },
@@ -90,21 +90,21 @@
                 " Japan"
             ]
         },
-        "Kitsunegasaki Station": {
-            "label": "Kitsunegasaki Station",
-            "description": "Kitsunegasaki Station is a train station of the Shizuoka-Shimizu Line in Shimizu-ku, Shizuoka, Shizuoka Prefecture, Japan. Wikipedia",
+        "Furushō Station": {
+            "label": "Furushō Station",
+            "description": "Furushō Station is a train station of the Shizuoka-Shimizu Line in Aoi-ku, Shizuoka, Shizuoka Prefecture, Japan. Wikipedia",
             "type": "",
             "Address ": [
                 "Shizuoka",
                 " Japan"
             ]
         },
-        "Heiwa Station": {
-            "label": "Heiwa Station",
-            "description": "Heiwa Station is a train station in Shiroishi-ku, Sapporo, Hokkaidō, Japan, operated by Hokkaido Railway Company. The station is numbered H04. Wikipedia",
-            "type": "Train station",
+        "Kitsunegasaki Station": {
+            "label": "Kitsunegasaki Station",
+            "description": "Kitsunegasaki Station is a train station of the Shizuoka-Shimizu Line in Shimizu-ku, Shizuoka, Shizuoka Prefecture, Japan. Wikipedia",
+            "type": "",
             "Address ": [
-                "Hokkaido Prefecture",
+                "Shizuoka",
                 " Japan"
             ]
         },
@@ -117,21 +117,21 @@
                 " Japan"
             ]
         },
-        "Kai-Ōshima Station": {
-            "label": "Kai-Ōshima Station",
-            "description": "Kai-Ōshima Station is a railway station on the Minobu Line of Central Japan Railway Company located in the town of Minobu, Minamikoma District, Yamanashi Prefecture, Japan. Wikipedia",
-            "type": "Railway station",
-            "Address ": [
-                "Yamanashi",
-                " Japan"
-            ]
-        },
         "Hagiyama Station": {
             "label": "Hagiyama Station",
             "description": "Hagiyama Station is a railway station in Higashimurayama, Tokyo, Japan, operated by the private railway operator Seibu Railway. It functions as an interchange between the Seibu Haijima Line, the Seibu Tamako Line, and the Seibu Shinjuku Lines. Wikipedia",
             "type": "Railway station",
             "Address ": [
                 "Tokyo",
+                " Japan"
+            ]
+        },
+        "Heiwa Station": {
+            "label": "Heiwa Station",
+            "description": "Heiwa Station is a train station in Shiroishi-ku, Sapporo, Hokkaidō, Japan, operated by Hokkaido Railway Company. The station is numbered H04. Wikipedia",
+            "type": "Train station",
+            "Address ": [
+                "Hokkaido Prefecture",
                 " Japan"
             ]
         },
@@ -153,21 +153,21 @@
                 " Japan"
             ]
         },
-        "Suzukashi Station": {
-            "label": "Suzukashi Station",
-            "description": "Suzukashi Station is a railway station on the Kintetsu Suzuka Line in Suzuka, Mie Prefecture, Japan, operated by the private railway operator Kintetsu. Suzukashi Station is 4.1 rail kilometers from the terminus of the line at Ise-Wakamatsu Station. Wikipedia",
-            "type": "Railway station",
-            "Address ": [
-                "Mie",
-                " Japan"
-            ]
-        },
         "Fuchidaka Station": {
             "label": "Fuchidaka Station",
             "description": "Fuchidaka Station is a train station on the Meitetsu Bisai Line located in Aisai, Aichi Prefecture, Japan. It is located 12.4 kilometers from the terminus of the Bisai Line at Yatomi. Wikipedia",
             "type": "Train station",
             "Address ": [
                 "Aichi",
+                " Japan"
+            ]
+        },
+        "Suzukashi Station": {
+            "label": "Suzukashi Station",
+            "description": "Suzukashi Station is a railway station on the Kintetsu Suzuka Line in Suzuka, Mie Prefecture, Japan, operated by the private railway operator Kintetsu. Suzukashi Station is 4.1 rail kilometers from the terminus of the line at Ise-Wakamatsu Station. Wikipedia",
+            "type": "Railway station",
+            "Address ": [
+                "Mie",
                 " Japan"
             ]
         },
@@ -207,21 +207,21 @@
                 " Japan"
             ]
         },
-        "Kasugabaru Station": {
-            "label": "Kasugabaru Station",
-            "description": "Kasugabaru Station is a train station located in Kasuga, Fukuoka. Wikipedia",
-            "type": "",
-            "Address ": [
-                "Fukuoka",
-                " Japan"
-            ]
-        },
         "Kōshiyama Station": {
             "label": "Kōshiyama Station",
             "description": "Kōshiyama Station is a railway station in Mihama, Minamimuro District, Mie Prefecture, Japan, operated by Central Japan Railway Company. The station is 164.1 rail kilometers from the terminus of the line at Kameyama Station. Wikipedia",
             "type": "Railway station",
             "Address ": [
                 "Mie",
+                " Japan"
+            ]
+        },
+        "Kasugabaru Station": {
+            "label": "Kasugabaru Station",
+            "description": "Kasugabaru Station is a train station located in Kasuga, Fukuoka. Wikipedia",
+            "type": "",
+            "Address ": [
+                "Fukuoka",
                 " Japan"
             ]
         },
@@ -334,21 +334,21 @@
                 " Japan"
             ]
         },
-        "Awaji Station": {
-            "label": "Awaji Station",
-            "description": "Awaji Station is a railway station in Higashiyodogawa-ku, Osaka, Japan, opreated by the private operator Hankyu Railway. Wikipedia",
-            "type": "Railway station",
-            "Address ": [
-                "Osaka Prefecture",
-                " Japan"
-            ]
-        },
         "Aoyama-itchōme Station": {
             "label": "Aoyama-itchōme Station",
             "description": "Aoyama-itchōme Station is a subway station in Minato, Tokyo, Japan operated by Tokyo Metro and Tokyo Metropolitan Bureau of Transportation. Wikipedia",
             "type": "Subway station",
             "Address ": [
                 "Tokyo",
+                " Japan"
+            ]
+        },
+        "Awaji Station": {
+            "label": "Awaji Station",
+            "description": "Awaji Station is a railway station in Higashiyodogawa-ku, Osaka, Japan, opreated by the private operator Hankyu Railway. Wikipedia",
+            "type": "Railway station",
+            "Address ": [
+                "Osaka Prefecture",
                 " Japan"
             ]
         },
@@ -465,6 +465,15 @@
                 " Japan"
             ]
         },
+        "Kawagoe Station": {
+            "label": "Kawagoe Station",
+            "description": "Kawagoe Station is a railway station in Kawagoe, Saitama, Japan, operated by the private railway operator Tobu Railway and East Japan Railway Company. Wikipedia",
+            "type": "Railway station",
+            "Address ": [
+                "Saitama",
+                " Japan"
+            ]
+        },
         "Kichijōji Station": {
             "label": "Kichijōji Station",
             "description": "Kichijōji Station is a railway station in Musashino, Tokyo, Japan, operated by East Japan Railway Company and the private railway operator Keio Corporation. Wikipedia",
@@ -474,15 +483,6 @@
                 " Japan"
             ],
             "See results about": []
-        },
-        "Kawagoe Station": {
-            "label": "Kawagoe Station",
-            "description": "Kawagoe Station is a railway station in Kawagoe, Saitama, Japan, operated by the private railway operator Tobu Railway and East Japan Railway Company. Wikipedia",
-            "type": "Railway station",
-            "Address ": [
-                "Saitama",
-                " Japan"
-            ]
         },
         "Kita-Senju Station": {
             "label": "Kita-Senju Station",
@@ -566,15 +566,6 @@
                 " Japan"
             ]
         },
-        "Ninohe Station": {
-            "label": "Ninohe Station",
-            "description": "Ninohe Station is a railway station in Ninohe, Iwate, Japan. Wikipedia",
-            "type": "Railway station",
-            "Address ": [
-                "Iwate",
-                " Japan"
-            ]
-        },
         "Nakano Station (Tokyo)": {
             "label": "Nakano Station",
             "description": "Nakano Station is a railway station in Japan located on the JR Chūō Main Line in Nakano, Tokyo, just west of Shinjuku. Wikipedia",
@@ -584,6 +575,15 @@
                 " Japan"
             ],
             "See results about": []
+        },
+        "Ninohe Station": {
+            "label": "Ninohe Station",
+            "description": "Ninohe Station is a railway station in Ninohe, Iwate, Japan. Wikipedia",
+            "type": "Railway station",
+            "Address ": [
+                "Iwate",
+                " Japan"
+            ]
         },
         "Nishi-Kawaguchi Station": {
             "label": "Nishi-Kawaguchi Station",
@@ -600,6 +600,15 @@
             "type": "Railway station",
             "Address ": [
                 "Tokyo",
+                " Japan"
+            ]
+        },
+        "Nishi-Umeda Station": {
+            "label": "Nishi-Umeda Station",
+            "description": "Nishi-Umeda Station is the terminus railway station of the Osaka Municipal Subway Yotsubashi Line in Umeda, Kita-ku, Osaka, Japan, close to Herbis OSAKA and Herbis ENT operated by Hanshin Electric Railway Co., Ltd. and the two Hilton Plazas. Wikipedia",
+            "type": "Railway station",
+            "Address ": [
+                "Osaka Prefecture",
                 " Japan"
             ]
         },
@@ -622,15 +631,6 @@
                 " Japan"
             ],
             "See results about": []
-        },
-        "Nishi-Umeda Station": {
-            "label": "Nishi-Umeda Station",
-            "description": "Nishi-Umeda Station is the terminus railway station of the Osaka Municipal Subway Yotsubashi Line in Umeda, Kita-ku, Osaka, Japan, close to Herbis OSAKA and Herbis ENT operated by Hanshin Electric Railway Co., Ltd. and the two Hilton Plazas. Wikipedia",
-            "type": "Railway station",
-            "Address ": [
-                "Osaka Prefecture",
-                " Japan"
-            ]
         },
         "Sannomiya Station": {
             "label": "Sannomiya Station",
@@ -668,21 +668,21 @@
                 " Japan"
             ]
         },
-        "Shin-Kobe Station": {
-            "label": "Shin-Kobe Station",
-            "description": "Shin-Kōbe station is a railway station located on the Sanyō Shinkansen line serving the city of Kobe, Japan, and the surrounding area. It is located to the north of Kobe city centre, at the foot of Mount Rokkō. Wikipedia",
-            "type": "Railway station",
-            "Address ": [
-                "Hyogo Prefecture",
-                " Japan"
-            ]
-        },
         "Shibata Station (Niigata)": {
             "label": "Shibata Station",
             "description": "Shibata Station is a railway station operated by East Japan Railway Company, located in Shibata, Niigata, Japan. Wikipedia",
             "type": "Railway station",
             "Address ": [
                 "Niigata",
+                " Japan"
+            ]
+        },
+        "Shin-Kobe Station": {
+            "label": "Shin-Kobe Station",
+            "description": "Shin-Kōbe station is a railway station located on the Sanyō Shinkansen line serving the city of Kobe, Japan, and the surrounding area. It is located to the north of Kobe city centre, at the foot of Mount Rokkō. Wikipedia",
+            "type": "Railway station",
+            "Address ": [
+                "Hyogo Prefecture",
                 " Japan"
             ]
         },
@@ -705,6 +705,15 @@
                 " Japan"
             ]
         },
+        "Tajima-Mie Station": {
+            "label": "Tajima-Mie Station",
+            "description": "Tajima-Mie Station is a railway station on the Kitakinki Tango Railway Miyazu Line in Toyooka, Hyōgo Prefecture, Japan. Wikipedia",
+            "type": "Railway station",
+            "Address ": [
+                "Hyogo Prefecture",
+                " Japan"
+            ]
+        },
         "Takadanobaba Station": {
             "label": "Takadanobaba Station",
             "description": "Takadanobaba Station is a railway station in the Takadanobaba area of Tokyo's Shinjuku ward, situated between the commercial districts of Ikebukuro and Shinjuku. Wikipedia",
@@ -720,15 +729,6 @@
             "type": "Railway station",
             "Address ": [
                 "Tokyo",
-                " Japan"
-            ]
-        },
-        "Tajima-Mie Station": {
-            "label": "Tajima-Mie Station",
-            "description": "Tajima-Mie Station is a railway station on the Kitakinki Tango Railway Miyazu Line in Toyooka, Hyōgo Prefecture, Japan. Wikipedia",
-            "type": "Railway station",
-            "Address ": [
-                "Hyogo Prefecture",
                 " Japan"
             ]
         },
@@ -766,6 +766,15 @@
             "type": "Railway station",
             "Address ": [
                 "Tochigi",
+                " Japan"
+            ]
+        },
+        "Yodoyabashi Station": {
+            "label": "Yodoyabashi Station",
+            "description": "Yodoyabashi Station is a railway station on the Osaka Municipal Subway Midosuji Line and the Keihan Railway Keihan Main Line. It is the nearest station to Osaka City Hall. Wikipedia",
+            "type": "Railway station",
+            "Address ": [
+                "Osaka Prefecture",
                 " Japan"
             ]
         },
@@ -814,6 +823,15 @@
                 " Japan"
             ]
         },
+        "Sagamino Station": {
+            "label": "Sagamino Station",
+            "description": "Sagamino Station is a train station on the Sagami Railway in the city of Ebina, Kanagawa, Japan. It is located near the border of Ebina with Zama and Ayase, and is convenient for many American servicemembers ... Wikipedia",
+            "type": "Train station",
+            "Address ": [
+                "Kanagawa",
+                " Japan"
+            ]
+        },
         "Ayame-Kōen Station": {
             "label": "Ayame-Kōen Station",
             "description": "Ayame-Kōen Station is a railway station in Nagai, Yamagata, Japan, operated by the Yamagata Railway. Wikipedia",
@@ -823,12 +841,12 @@
                 " Japan"
             ]
         },
-        "Yodoyabashi Station": {
-            "label": "Yodoyabashi Station",
-            "description": "Yodoyabashi Station is a railway station on the Osaka Municipal Subway Midosuji Line and the Keihan Railway Keihan Main Line. It is the nearest station to Osaka City Hall. Wikipedia",
-            "type": "Railway station",
+        "Kōtōdai-Kōen Station": {
+            "label": "Kōtōdai-Kōen Station",
+            "description": "Kōtōdai-Kōen Station is a station on the Sendai Subway Nanboku Line in Aoba-ku, Sendai, Miyagi Prefecture, Japan. Wikipedia",
+            "type": "Subway station",
             "Address ": [
-                "Osaka Prefecture",
+                "Miyagi",
                 " Japan"
             ]
         },
@@ -841,15 +859,6 @@
                 " Japan"
             ]
         },
-        "Sagamino Station": {
-            "label": "Sagamino Station",
-            "description": "Sagamino Station is a train station on the Sagami Railway in the city of Ebina, Kanagawa, Japan. It is located near the border of Ebina with Zama and Ayase, and is convenient for many American servicemembers ... Wikipedia",
-            "type": "Train station",
-            "Address ": [
-                "Kanagawa",
-                " Japan"
-            ]
-        },
         "Mitsumatsu Station (Fukui)": {
             "label": "Mitsumatsu Station",
             "description": "Mitsumatsu Station is a railway station in the town of Takahama, Ōi District, Fukui Prefecture, Japan. Wikipedia",
@@ -858,28 +867,33 @@
                 "Fukui",
                 " Japan"
             ]
-        },
-        "Kōtōdai-Kōen Station": {
-            "label": "Kōtōdai-Kōen Station",
-            "description": "Kōtōdai-Kōen Station is a station on the Sendai Subway Nanboku Line in Aoba-ku, Sendai, Miyagi Prefecture, Japan. Wikipedia",
-            "type": "Subway station",
-            "Address ": [
-                "Miyagi",
-                " Japan"
-            ]
         }
     },
     "summary": {
-        "label": 96,
-        "description": 96,
-        "type": 96,
-        "address": 1,
-        "see_results_about": 1
+        "label": {
+            "uri": "http://www.w3.org/2000/01/rdf-schema#label",
+            "count": 96
+        },
+        "description": {
+            "uri": "http://fr.dbpedia.org/ontology/abstract",
+            "count": 96
+        },
+        "type": {
+            "uri": "http://dbpedia.org/property/type",
+            "count": 96
+        },
+        "address": {
+            "uri": "http://dbpedia.org/property/address",
+            "count": 95
+        }
     },
     "infoboxless": [
         "Kamo Station (Fukuoka)",
         "Ebisu Station (Hyōgo)",
         "Kii-Kamiya Station",
         "Yanaizu Station (Gifu)"
-    ]
+    ],
+    "Unmapped_Properties": {
+        "seeResultsAbout": 1
+    }
 }

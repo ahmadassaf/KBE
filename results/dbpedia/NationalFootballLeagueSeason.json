@@ -7,9 +7,18 @@
         }
     },
     "summary": {
-        "label": 1,
-        "description": 1,
-        "type": 1
+        "label": {
+            "uri": "http://www.w3.org/2000/01/rdf-schema#label",
+            "count": 1
+        },
+        "description": {
+            "uri": "http://fr.dbpedia.org/ontology/abstract",
+            "count": 1
+        },
+        "type": {
+            "uri": "http://dbpedia.org/property/type",
+            "count": 1
+        }
     },
     "infoboxless": [
         "2010 Oakland Raiders season",
@@ -89,8 +98,8 @@
         "1970 San Diego Chargers season",
         "1971 Kansas City Chiefs season",
         "1974 Green Bay Packers season",
-        "1974 San Diego Chargers season",
         "1974 Pittsburgh Steelers season",
+        "1974 San Diego Chargers season",
         "1978 Pittsburgh Steelers season",
         "1978 San Diego Chargers season",
         "1978 Seattle Seahawks season",
@@ -111,5 +120,6 @@
         "1997 Kansas City Chiefs season",
         "2000 Kansas City Chiefs season",
         "2003 Seattle Seahawks season"
-    ]
+    ],
+    "Unmapped_Properties": {}
 }

@@ -1,15 +1,5 @@
 {
     "instances": {
-        "International Football Federation": {
-            "label": "Fédération Internationale de Football Association",
-            "description": "The Fédération Internationale de Football Association is the international governing body of association football, futsal and beach soccer. Its membership comprises 209 national associations. Wikipedia",
-            "type": "Football Organization",
-            "Headquarters ": [
-                "Zürich"
-            ],
-            "Founded ": "May 21, 1904",
-            "People also search for": []
-        },
         "XFL": {
             "label": "XFL",
             "description": "The XFL was a professional American football league, founded by World Wrestling Federation owner Vince McMahon. Wikipedia",
@@ -33,21 +23,35 @@
                 " Sports"
             ],
             "Cast": []
+        },
+        "International Football Federation": {
+            "label": "Fédération Internationale de Football Association",
+            "description": "The Fédération Internationale de Football Association is the international governing body of association football, futsal and beach soccer. Its membership comprises 209 national associations. Wikipedia",
+            "type": "Football Organization",
+            "Headquarters ": [
+                "Zürich"
+            ],
+            "Founded ": "May 21, 1904",
+            "People also search for": []
         }
     },
     "summary": {
-        "label": 2,
-        "description": 2,
-        "type": 2,
-        "headquarters": 1,
-        "founded": 1,
-        "people_also_search_for": 1,
-        "first_episode": 1,
-        "program_creator": 1,
-        "language": 1,
-        "networks": 1,
-        "genres": 1,
-        "cast": 1
+        "label": {
+            "uri": "http://www.w3.org/2000/01/rdf-schema#label",
+            "count": 2
+        },
+        "description": {
+            "uri": "http://fr.dbpedia.org/ontology/abstract",
+            "count": 2
+        },
+        "type": {
+            "uri": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+            "count": 2
+        },
+        "founded": {
+            "uri": "http://dbpedia.org/property/founded",
+            "count": 1
+        }
     },
     "infoboxless": [
         "Italian Football League",
@@ -126,5 +130,15 @@
         "Legends Football League",
         "Liga Portuguesa de Futebol Americano",
         "Southern Amateur Football Association"
-    ]
+    ],
+    "Unmapped_Properties": {
+        "firstEpisode": 1,
+        "programCreator": 1,
+        "language": 1,
+        "networks": 1,
+        "genres": 1,
+        "cast": 1,
+        "headquarters": 1,
+        "peopleAlsoSearchFor": 1
+    }
 }

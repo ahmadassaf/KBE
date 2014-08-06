@@ -70,28 +70,6 @@
                 " Entente cordiale"
             ]
         },
-        "Lisa Boyle": {
-            "label": "Lisa Boyle",
-            "description": "Lisa Doreen Boyle is an American model known for her appearances in Playboy magazine and its various Special Editions, often teamed with Patricia Ford. Wikipedia",
-            "type": "Model",
-            "Born ": "August 6, 1964 (age 49), Chicago, Illinois, United States",
-            "Height ": [
-                "5' 6\" (1.67 m)"
-            ],
-            "Education ": [
-                "Steinmetz College Prep"
-            ],
-            "Movies": []
-        },
-        "Michaela Schaffrath": {
-            "label": "Michaela Schaffrath",
-            "description": "Michaela Schaffrath is a German television actress. A former nurse, she got started in the adult film industry after she posed nude for Coupé, a German adult magazine. Wikipedia",
-            "type": "Actress",
-            "Born ": "December 6, 1970 (age 43), Eschweiler, Germany",
-            "Spouse ": [
-                "Axel Schaffrath (m. 1994–2005)"
-            ]
-        },
         "Candy Barr": {
             "label": "Candy Barr",
             "description": "Candy Barr was an American stripper, burlesque dancer, actress and adult model in men's magazines of the mid-20th century. Wikipedia",
@@ -120,6 +98,34 @@
                 " Sadie Mae Sumner"
             ]
         },
+        "Lisa Boyle": {
+            "label": "Lisa Boyle",
+            "description": "Lisa Doreen Boyle is an American model known for her appearances in Playboy magazine and its various Special Editions, often teamed with Patricia Ford. Wikipedia",
+            "type": "Model",
+            "Born ": "August 6, 1964 (age 49), Chicago, Illinois, United States",
+            "Height ": [
+                "5' 6\" (1.67 m)"
+            ],
+            "Education ": [
+                "Steinmetz College Prep"
+            ],
+            "Movies": []
+        },
+        "Michaela Schaffrath": {
+            "label": "Michaela Schaffrath",
+            "description": "Michaela Schaffrath is a German television actress. A former nurse, she got started in the adult film industry after she posed nude for Coupé, a German adult magazine. Wikipedia",
+            "type": "Actress",
+            "Born ": "December 6, 1970 (age 43), Eschweiler, Germany",
+            "Spouse ": [
+                "Axel Schaffrath (m. 1994–2005)"
+            ]
+        },
+        "Misty Rain": {
+            "label": "Misty Rain",
+            "description": "Misty Rain is the stage name of an American pornographic actress, director and exotic dancer.\nRain began her career in 1992. Wikipedia",
+            "type": "Pornographic actress",
+            "Born ": "August 10, 1969 (age 44), Long Beach, California, United States"
+        },
         "Amber Lynn": {
             "label": "Amber Lynn",
             "description": "Amber Lynn is an American pornographic film actress, model, and exotic dancer. Wikipedia",
@@ -136,12 +142,6 @@
                 "Buck Adams"
             ],
             "People also search for": []
-        },
-        "Misty Rain": {
-            "label": "Misty Rain",
-            "description": "Misty Rain is the stage name of an American pornographic actress, director and exotic dancer.\nRain began her career in 1992. Wikipedia",
-            "type": "Pornographic actress",
-            "Born ": "August 10, 1969 (age 44), Long Beach, California, United States"
         },
         "Bradford Thomas Wagner": {
             "label": "Bradford Thomas Wagner",
@@ -182,15 +182,6 @@
             "Died ": "July 11, 2006, Long Beach, California, United States",
             "Movies": []
         },
-        "Sara Tommasi": {
-            "label": "Sara Tommasi",
-            "description": "Sara Tommasi is an Italian former actress and television personality, turned pornographic actress. She made her film debut in the 2008 comedy Ultimi della classe playing a teacher who had appeared in a \"sexy\" calendar shoot. Wikipedia",
-            "type": "Pornographic actress",
-            "Born ": "June 9, 1981 (age 32), Narni, Italy",
-            "Education ": [
-                "Bocconi University"
-            ]
-        },
         "Maria Antonietta Beluzzi": {
             "label": "Maria Antonietta Beluzzi",
             "description": "Maria Antonietta Beluzzi was an Italian born actress who appeared in a number of films in her native country. Wikipedia",
@@ -204,14 +195,6 @@
                 "Maria Beluzzi"
             ]
         },
-        "Rosalind Pitt-Rivers": {
-            "label": "Rosalind Pitt-Rivers",
-            "description": "Rosalind Venetia Lane Fox \"Ros\" Pitt-Rivers FRS was a British biochemist and Fellow of the Royal Society. She became the second president of the European Thyroid Association in 1971. Wikipedia",
-            "type": "Biochemist",
-            "Born ": "March 4, 1907, London, United Kingdom",
-            "Died ": "January 14, 1990, Hinton St Mary, United Kingdom",
-            "People also search for": []
-        },
         "Pamela Green": {
             "label": "Pamela Green",
             "description": "Pamela Green was an English glamour model and actress, best known at the end of the 1950s and early 1960s. She modeled for Zoltán Glass, Horace Roye, Jean Straker, Joan Craven and John Everard. Wikipedia",
@@ -224,27 +207,62 @@
             "Movies ": [
                 "Peeping Tom"
             ]
+        },
+        "Sara Tommasi": {
+            "label": "Sara Tommasi",
+            "description": "Sara Tommasi is an Italian former actress and television personality, turned pornographic actress. She made her film debut in the 2008 comedy Ultimi della classe playing a teacher who had appeared in a \"sexy\" calendar shoot. Wikipedia",
+            "type": "Pornographic actress",
+            "Born ": "June 9, 1981 (age 32), Narni, Italy",
+            "Education ": [
+                "Bocconi University"
+            ]
+        },
+        "Rosalind Pitt-Rivers": {
+            "label": "Rosalind Pitt-Rivers",
+            "description": "Rosalind Venetia Lane Fox \"Ros\" Pitt-Rivers FRS was a British biochemist and Fellow of the Royal Society. She became the second president of the European Thyroid Association in 1971. Wikipedia",
+            "type": "Biochemist",
+            "Born ": "March 4, 1907, London, United Kingdom",
+            "Died ": "January 14, 1990, Hinton St Mary, United Kingdom",
+            "People also search for": []
         }
     },
     "summary": {
-        "label": 15,
-        "description": 15,
-        "type": 15,
-        "born": 1,
-        "spouse": 1,
-        "education": 1,
-        "tv_shows": 1,
-        "children": 1,
-        "books": 1,
-        "movies": 1,
-        "see_results_about": 1,
-        "died": 1,
-        "height": 1,
-        "siblings": 1,
-        "parents": 1,
-        "movies_and_tv_shows": 1,
-        "people_also_search_for": 1,
-        "awards": 1
+        "label": {
+            "uri": "http://dbpedia.org/property/label",
+            "count": 15
+        },
+        "description": {
+            "uri": "http://purl.org/dc/elements/1.1/description",
+            "count": 15
+        },
+        "type": {
+            "uri": "http://dbpedia.org/property/type",
+            "count": 15
+        },
+        "born": {
+            "uri": "http://dbpedia.org/property/born",
+            "count": 15
+        },
+        "spouse": {
+            "uri": "http://dbpedia.org/property/spouse",
+            "count": 3
+        },
+        "education": {
+            "uri": "http://dbpedia.org/property/education",
+            "count": 6
+        },
+        "children": {
+            "uri": "http://dbpedia.org/property/children",
+            "count": 1
+        },
+        "parents": {
+            "uri": "http://dbpedia.org/property/parents",
+            "count": 2
+        },
+        "height": {
+            "uri": "http://dbpedia.org/property/height",
+            "count": 2
+        }
     },
     "infoboxless": [
         "Angel Dark",
@@ -318,8 +336,8 @@
         "Bridget Powers",
         "Dahlia Grey",
         "Erik Everhard",
-        "Gianna Michaels",
         "Gail McKenna",
+        "Gianna Michaels",
         "Jayme Langford",
         "Lilli Carati",
         "Matthew Rush (pornographic actor)",
@@ -332,5 +350,16 @@
         "Ai Iijima",
         "Aika Miura",
         "Alexa Rae"
-    ]
+    ],
+    "Unmapped_Properties": {
+        "tvShows": 1,
+        "books": 1,
+        "movies": 1,
+        "seeResultsAbout": 1,
+        "died": 1,
+        "siblings": 1,
+        "moviesAndTvShows": 1,
+        "peopleAlsoSearchFor": 1,
+        "awards": 1
+    }
 }

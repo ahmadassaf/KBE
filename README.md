@@ -29,6 +29,7 @@ You have to create one folder for caching ...
  	+ folder called ```GKB``` inside the cache folder: This will hold the aggregated Google Knowledge boxes extracted for a DBpedia concept (type)
  	+ folder called ```instances_GKB``` inside the cache folder: This will hold the Google Knowledge box for a single instance
  	+ folder called ```instances``` inside the cache folder: This will hold the DBpedia instances for each concept (type)
+    + folder called ```instanc_properties``` inside the cache folder: Thiw ill hold the distinct list of properties for all the instances of a certain concept 
 
  - run ```node server.js```
  - The application is run in the console and the output will be available in results/result.json
@@ -59,3 +60,8 @@ limit_dbpedia_concepts_value : null,
 limit_dbpedia_instances_value: 100,
 proxy                        : null
 ```
+
+## Updates
+
+ - Properties now have the direct links to DBpedia ontology
+ - Properties scores are normalized

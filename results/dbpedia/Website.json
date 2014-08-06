@@ -1,20 +1,5 @@
 {
     "instances": {
-        "DeviantArt": {
-            "label": "deviantART, Inc.",
-            "description": "DeviantArt, LLC is an online community showcasing various forms of user-made artwork. It was first launched on August 7, 2000 by Scott Jarkoff, Matthew Stephens, Angelo Sotira and others. Wikipedia",
-            "type": "",
-            "CEO ": [
-                "Angelo Sotira"
-            ],
-            "Founded ": "August 7, 2000, Los Angeles, California, United States",
-            "Founders ": [
-                "Matt Stephens",
-                " Scott Jarkoff",
-                " Angelo Sotira"
-            ],
-            "Recent posts": []
-        },
         "Google Search": {
             "label": "Google",
             "description": "Google is an American multinational corporation specializing in Internet-related services and products. These include search, cloud computing, software, and online advertising technologies. Most of its profits are derived from AdWords. Wikipedia",
@@ -44,6 +29,31 @@
             "type": "",
             "Related topics": []
         },
+        "Kazakh Wikipedia": {
+            "label": "Kazakh Wikipedia",
+            "description": "The Kazakh Wikipedia is a Wikipedia in the Kazakh language. Wikipedia",
+            "type": "",
+            "See results about": []
+        },
+        "MathWorld": {
+            "label": "MathWorld",
+            "description": "MathWorld is an online mathematics reference work, created and largely written by Eric W. Weisstein. Wikipedia",
+            "type": "",
+            "Related topics": []
+        },
+        "WikiLeaks": {
+            "label": "WikiLeaks",
+            "description": "WikiLeaks is an international, online, non-profit, journalistic organisation which publishes secret information, news leaks, and classified media from anonymous sources. Wikipedia",
+            "type": "",
+            "Founder ": [
+                "Julian Assange"
+            ],
+            "Founded ": "October 4, 2006",
+            "Awards ": [
+                "Economist New Media Award",
+                " Amnesty International UK Digital Media Award"
+            ]
+        },
         "FeedBurner": {
             "label": "FeedBurner",
             "description": "FeedBurner is a web feed management provider launched in 2004. FeedBurner was founded by Dick Costolo, Eric Lunt, Steve Olechowski, and Matt Shobe. Costolo, a University of Michigan graduate, became CEO of Twitter in 2010. Wikipedia",
@@ -59,30 +69,11 @@
             ],
             "People also search for": []
         },
-        "Kazakh Wikipedia": {
-            "label": "Kazakh Wikipedia",
-            "description": "The Kazakh Wikipedia is a Wikipedia in the Kazakh language. Wikipedia",
+        "German Wikipedia": {
+            "label": "German Wikipedia",
+            "description": "The German Wikipedia is the German-language edition of Wikipedia, a free and publicly editable online encyclopedia. Wikipedia",
             "type": "",
             "See results about": []
-        },
-        "WikiLeaks": {
-            "label": "WikiLeaks",
-            "description": "WikiLeaks is an international, online, non-profit, journalistic organisation which publishes secret information, news leaks, and classified media from anonymous sources. Wikipedia",
-            "type": "",
-            "Founder ": [
-                "Julian Assange"
-            ],
-            "Founded ": "October 4, 2006",
-            "Awards ": [
-                "Economist New Media Award",
-                " Amnesty International UK Digital Media Award"
-            ]
-        },
-        "MathWorld": {
-            "label": "MathWorld",
-            "description": "MathWorld is an online mathematics reference work, created and largely written by Eric W. Weisstein. Wikipedia",
-            "type": "",
-            "Related topics": []
         },
         "ImageShack": {
             "label": "Imageshack",
@@ -105,12 +96,6 @@
             ],
             "People also search for": []
         },
-        "German Wikipedia": {
-            "label": "German Wikipedia",
-            "description": "The German Wikipedia is the German-language edition of Wikipedia, a free and publicly editable online encyclopedia. Wikipedia",
-            "type": "",
-            "See results about": []
-        },
         "Orion's Arm": {
             "label": "Orion's Arm",
             "description": "Orion's Arm, is a multi-authored online science fiction world-building project, first established in 2000 by M. Alan Kazlev, Donna Malcolm Hirsekorn, Bernd Helfert and Anders Sandberg and further co-authored by many people since. Wikipedia",
@@ -122,15 +107,6 @@
             "description": "The Russian Wikipedia is the Russian language edition of Wikipedia. It has over 1,094,000 articles. It was founded on 20 May 2001. By May 2008 it had become the 10th largest Wikipedia by size and in January 2014 it ranks 7th. Wikipedia",
             "type": "",
             "See results about": []
-        },
-        "Technorati": {
-            "label": "Technorati",
-            "description": "Technorati is an Internet search engine for searching blogs. By June 2008, Technorati was indexing 112.8 million blogs and over 250 million pieces of tagged social media. Wikipedia",
-            "type": "",
-            "Founder ": [
-                "Dave Sifry"
-            ],
-            "People also search for": []
         },
         "Softonic.com": {
             "label": "Softonic International S.L.",
@@ -144,11 +120,26 @@
             ],
             "Recent posts": []
         },
+        "Technorati": {
+            "label": "Technorati",
+            "description": "Technorati is an Internet search engine for searching blogs. By June 2008, Technorati was indexing 112.8 million blogs and over 250 million pieces of tagged social media. Wikipedia",
+            "type": "",
+            "Founder ": [
+                "Dave Sifry"
+            ],
+            "People also search for": []
+        },
         "Aluka": {
             "label": "Aluka",
             "description": "Aluka is an online digital library focusing on materials about Africa. Aluka's mission is to connect scholars from around the world by building a common platform that allows online collaboration and knowledge sharing. Wikipedia",
             "type": "",
             "See results about": []
+        },
+        "Truthout": {
+            "label": "Truthout",
+            "description": "Truthout is a 501 nonprofit, progressive news organization in the United States that operates a web site and distributes a daily newsletter. Wikipedia",
+            "type": "",
+            "Recent posts": []
         },
         "GittiGidiyor": {
             "label": "Gittigidiyor",
@@ -158,28 +149,59 @@
                 "2004"
             ]
         },
-        "Truthout": {
-            "label": "Truthout",
-            "description": "Truthout is a 501 nonprofit, progressive news organization in the United States that operates a web site and distributes a daily newsletter. Wikipedia",
+        "DeviantArt": {
+            "label": "deviantART, Inc.",
+            "description": "DeviantArt, LLC is an online community showcasing various forms of user-made artwork. It was first launched on August 7, 2000 by Scott Jarkoff, Matthew Stephens, Angelo Sotira and others. Wikipedia",
             "type": "",
+            "CEO ": [
+                "Angelo Sotira"
+            ],
+            "Founded ": "August 7, 2000, Los Angeles, California, United States",
+            "Founders ": [
+                "Matt Stephens",
+                " Scott Jarkoff",
+                " Angelo Sotira"
+            ],
             "Recent posts": []
         }
     },
     "summary": {
-        "label": 17,
-        "description": 17,
-        "type": 17,
-        "ceo": 1,
-        "founded": 1,
-        "founders": 1,
-        "recent_posts": 1,
-        "stock_price": 1,
-        "headquarters": 1,
-        "related_topics": 1,
-        "people_also_search_for": 1,
-        "see_results_about": 1,
-        "founder": 1,
-        "awards": 1
+        "label": {
+            "uri": "http://dbpedia.org/property/label",
+            "count": 17
+        },
+        "description": {
+            "uri": "http://dbpedia.org/property/description",
+            "count": 17
+        },
+        "type": {
+            "uri": "http://dbpedia.org/property/type",
+            "count": 17
+        },
+        "founded": {
+            "uri": "http://dbpedia.org/property/founded",
+            "count": 7
+        },
+        "headquarters": {
+            "uri": "http://dbpedia.org/property/headquarters",
+            "count": 1
+        },
+        "ceo": {
+            "uri": "http://dbpedia.org/property/ceo",
+            "count": 2
+        },
+        "founders": {
+            "uri": "http://dbpedia.org/property/founders",
+            "count": 4
+        },
+        "founder": {
+            "uri": "http://dbpedia.org/property/founder",
+            "count": 3
+        },
+        "awards": {
+            "uri": "http://dbpedia.org/property/awards",
+            "count": 1
+        }
     },
     "infoboxless": [
         "About.com",
@@ -265,5 +287,12 @@
         "FactCheck.org",
         "43 Things",
         "Abandonia"
-    ]
+    ],
+    "Unmapped_Properties": {
+        "stockPrice": 1,
+        "recentPosts": 1,
+        "relatedTopics": 1,
+        "seeResultsAbout": 1,
+        "peopleAlsoSearchFor": 1
+    }
 }

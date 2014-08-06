@@ -1,25 +1,5 @@
 {
     "instances": {
-        "Åre River": {
-            "label": "Öre River",
-            "description": "Öre River is a river in Sweden. Wikipedia",
-            "type": "",
-            "Length ": [
-                "140 miles (225 km)"
-            ],
-            "Discharge ": [
-                "1",
-                "236 ft³/s (35 m³/s)"
-            ],
-            "Basin area ": [
-                "1",
-                "169 sq miles (3",
-                "029 km²)"
-            ],
-            "Mouth ": [
-                "Gulf of Bothnia"
-            ]
-        },
         "Ångerman River": {
             "label": "Ångerman River",
             "description": "The Ångerman River is one of Sweden's longest rivers with a total length of 460 kilometers. It also has the third largest amount of water running through it, after Göta älv and Lule River. Wikipedia",
@@ -48,6 +28,26 @@
             ]
         },
         "Öre River": {
+            "label": "Öre River",
+            "description": "Öre River is a river in Sweden. Wikipedia",
+            "type": "",
+            "Length ": [
+                "140 miles (225 km)"
+            ],
+            "Discharge ": [
+                "1",
+                "236 ft³/s (35 m³/s)"
+            ],
+            "Basin area ": [
+                "1",
+                "169 sq miles (3",
+                "029 km²)"
+            ],
+            "Mouth ": [
+                "Gulf of Bothnia"
+            ]
+        },
+        "Åre River": {
             "label": "Öre River",
             "description": "Öre River is a river in Sweden. Wikipedia",
             "type": "",
@@ -175,30 +175,6 @@
             "type": "",
             "People also search for": []
         },
-        "Aksu River (China)": {
-            "label": "Aksu River",
-            "description": "The Aksu River is a transboundary river in the Xinjiang province in China and Ak-Suu District of Issyk Kul Province of Kyrgyzstan. In Kyrgyzstan it is known as the Saryjaz River. The total length of the river is 282 km, of them 197 km in Kyrgyzstan. Wikipedia",
-            "type": "",
-            "Length ": [
-                "175 miles (282 km)"
-            ],
-            "Discharge ": [
-                "8",
-                "793 ft³/s (249 m³/s)"
-            ],
-            "Basin area ": [
-                "12",
-                "348 sq miles (31",
-                "982 km²)"
-            ],
-            "Source ": [
-                "Semenov's Glacier"
-            ],
-            "Cities ": [
-                "Aksu",
-                " Xinjiang"
-            ]
-        },
         "Aisne (river)": {
             "label": "Aisne",
             "description": "The Aisne is a river in northeastern France, left tributary of the river Oise. It gave its name to the French département Aisne. It was known in the Roman period as Axona. Wikipedia",
@@ -223,6 +199,30 @@
             ],
             "People also search for": []
         },
+        "Aksu River (China)": {
+            "label": "Aksu River",
+            "description": "The Aksu River is a transboundary river in the Xinjiang province in China and Ak-Suu District of Issyk Kul Province of Kyrgyzstan. In Kyrgyzstan it is known as the Saryjaz River. The total length of the river is 282 km, of them 197 km in Kyrgyzstan. Wikipedia",
+            "type": "",
+            "Length ": [
+                "175 miles (282 km)"
+            ],
+            "Discharge ": [
+                "8",
+                "793 ft³/s (249 m³/s)"
+            ],
+            "Basin area ": [
+                "12",
+                "348 sq miles (31",
+                "982 km²)"
+            ],
+            "Source ": [
+                "Semenov's Glacier"
+            ],
+            "Cities ": [
+                "Aksu",
+                " Xinjiang"
+            ]
+        },
         "Alma River (Ukraine)": {
             "label": "Alma River",
             "description": "The Alma is a small river in Crimea that flows into the Black Sea. Its mouth is located half-way between Yevpatoria and Sevastopol. Alma is the Crimean Tatar word for an \"apple\". Wikipedia",
@@ -240,14 +240,14 @@
                 "Black Sea"
             ]
         },
-        "Alte Oder": {
-            "label": "Alte Oder",
-            "description": "The name Alte Oder refers to an old branch of the Oder River in Brandenburg, Germany. Today it drains the Oderbruch basin, flowing northwards to the confluence with the Oder near Hohensaaten. Wikipedia",
-            "type": ""
-        },
         "Alte Elbe": {
             "label": "Alte Elbe",
             "description": "Alte Elbe is a river of Saxony-Anhalt, Germany. Wikipedia",
+            "type": ""
+        },
+        "Alte Oder": {
+            "label": "Alte Oder",
+            "description": "The name Alte Oder refers to an old branch of the Oder River in Brandenburg, Germany. Today it drains the Oderbruch basin, flowing northwards to the confluence with the Oder near Hohensaaten. Wikipedia",
             "type": ""
         },
         "Ammer (Neckar)": {
@@ -264,11 +264,6 @@
                 "Germany"
             ]
         },
-        "Apfelstädt (Gera)": {
-            "label": "Apfelstädt (Gera)",
-            "description": "Apfelstädt (Gera) is a river of Thuringia, Germany. Wikipedia",
-            "type": ""
-        },
         "Anaktuvuk River": {
             "label": "Anaktuvuk River",
             "description": "The Anaktuvuk River is a river in Alaska's North Slope. One hundred and thirty-five miles long, it flows west from glaciers in the Endicott Mountains changing direction just north of Anaktuvuk Pass to ... Wikipedia",
@@ -282,6 +277,11 @@
             "Country ": [
                 "United States of America"
             ]
+        },
+        "Apfelstädt (Gera)": {
+            "label": "Apfelstädt (Gera)",
+            "description": "Apfelstädt (Gera) is a river of Thuringia, Germany. Wikipedia",
+            "type": ""
         },
         "Arda (Maritsa)": {
             "label": "Arda",
@@ -311,6 +311,23 @@
                 " Greece"
             ]
         },
+        "Arsenyevka River": {
+            "label": "Arsenyevka River",
+            "description": "The Arsenyevka River is a left tributary of the Ussuri River in Anuchinsky and Yakovlevsky Districts of Primorsky Krai, Russia.\nThe length of river is approximately 294 kilometers and its basin area is 7,060 square kilometers. Wikipedia",
+            "type": "",
+            "Length ": [
+                "183 miles (294 km)"
+            ],
+            "Source ": [
+                "Sikhote-Alin"
+            ],
+            "Mouth ": [
+                "Ussuri River"
+            ],
+            "Country ": [
+                "Russia"
+            ]
+        },
         "Assiniboine River": {
             "label": "Assiniboine River",
             "description": "The Assiniboine River is a 1,070-kilometre river that runs through the prairies of Western Canada in Saskatchewan and Manitoba. It is a tributary of the Red River. Wikipedia",
@@ -334,23 +351,6 @@
             ],
             "Bridges ": [
                 "Maryland Bridge"
-            ]
-        },
-        "Arsenyevka River": {
-            "label": "Arsenyevka River",
-            "description": "The Arsenyevka River is a left tributary of the Ussuri River in Anuchinsky and Yakovlevsky Districts of Primorsky Krai, Russia.\nThe length of river is approximately 294 kilometers and its basin area is 7,060 square kilometers. Wikipedia",
-            "type": "",
-            "Length ": [
-                "183 miles (294 km)"
-            ],
-            "Source ": [
-                "Sikhote-Alin"
-            ],
-            "Mouth ": [
-                "Ussuri River"
-            ],
-            "Country ": [
-                "Russia"
             ]
         },
         "Aube (river)": {
@@ -436,6 +436,17 @@
                 "Tarn"
             ]
         },
+        "Awali (river)": {
+            "label": "Awali",
+            "description": "The Awali is a perennial river flowing in Southern Lebanon. In ancient times it was known as the River Asclepius. It is 48 kilometres long, originating from the Barouk mountain at a height of 1,492 metres and the Niha mountain. Wikipedia",
+            "type": "",
+            "Length ": [
+                "30 miles (48 km)"
+            ],
+            "Discharge ": [
+                "358.9 ft³/s (10.16 m³/s)"
+            ]
+        },
         "Ayalon River": {
             "label": "Ayalon River",
             "description": "The Ayalon River is a perennial stream in Israel, originating in the Judean Hills and mouthing into the Yarkon River in the Tel Aviv area. The total length of Ayalon River is about 50 kilometres and it drains an area of 815 square kilometres. Wikipedia",
@@ -451,17 +462,6 @@
             ],
             "Cities ": [
                 "Ramat Gan"
-            ]
-        },
-        "Awali (river)": {
-            "label": "Awali",
-            "description": "The Awali is a perennial river flowing in Southern Lebanon. In ancient times it was known as the River Asclepius. It is 48 kilometres long, originating from the Barouk mountain at a height of 1,492 metres and the Niha mountain. Wikipedia",
-            "type": "",
-            "Length ": [
-                "30 miles (48 km)"
-            ],
-            "Discharge ": [
-                "358.9 ft³/s (10.16 m³/s)"
             ]
         },
         "Bârlad River": {
@@ -606,6 +606,17 @@
             "description": "The Bear River is a river in the U.S. state of Washington. Its upper reach is known as Bear Branch. Wikipedia",
             "type": ""
         },
+        "Bei River": {
+            "label": "Bei River",
+            "description": "Bei River is the northern tributary of the Pearl River in southern China. The other two main tributaries of the Pearl River are the Xijiang River and the Dongjiang River.\nThe Bei River is 63.34 kilometers long and located in northern Guangdong. Wikipedia",
+            "type": "",
+            "Length ": [
+                "39 miles (63 km)"
+            ],
+            "Country ": [
+                "China"
+            ]
+        },
         "Ben Hai River": {
             "label": "Bến Hải River",
             "description": "The Bến Hải River is a river in central Vietnam which became an important landmark in the partition of the country into a northern and a southern zone along the 17th parallel by the Geneva Accords of 1954. Wikipedia",
@@ -620,21 +631,21 @@
                 "Vietnam"
             ]
         },
-        "Bei River": {
-            "label": "Bei River",
-            "description": "Bei River is the northern tributary of the Pearl River in southern China. The other two main tributaries of the Pearl River are the Xijiang River and the Dongjiang River.\nThe Bei River is 63.34 kilometers long and located in northern Guangdong. Wikipedia",
-            "type": "",
-            "Length ": [
-                "39 miles (63 km)"
-            ],
-            "Country ": [
-                "China"
-            ]
-        },
         "Berner Au": {
             "label": "Berner Au",
             "description": "Berner Au is a river of Hamburg, Germany. Wikipedia",
             "type": ""
+        },
+        "Big Quilcene River": {
+            "label": "Big Quilcene River",
+            "description": "The Big Quilcene River is a river on the Olympic Peninsula in the U.S. state of Washington. It rises in the Buckhorn Wilderness near Marmot Pass, south of Buckhorn Mountain, and near Mount Constance. Wikipedia",
+            "type": "",
+            "Source ": [
+                "Olympic Mountains"
+            ],
+            "Mouth ": [
+                "Hood Canal"
+            ]
         },
         "Biya River": {
             "label": "Biya River",
@@ -659,17 +670,6 @@
                 "Russia"
             ]
         },
-        "Big Quilcene River": {
-            "label": "Big Quilcene River",
-            "description": "The Big Quilcene River is a river on the Olympic Peninsula in the U.S. state of Washington. It rises in the Buckhorn Wilderness near Marmot Pass, south of Buckhorn Mountain, and near Mount Constance. Wikipedia",
-            "type": "",
-            "Source ": [
-                "Olympic Mountains"
-            ],
-            "Mouth ": [
-                "Hood Canal"
-            ]
-        },
         "Black Elster": {
             "label": "Black Elster",
             "description": "The Black Elster or Schwarze Elster is a 179 km long river in eastern Germany, in the states Saxony, Brandenburg and Saxony-Anhalt, right tributary of the Elbe. Its source is in the Upper Lusatia region, near Elstra. Wikipedia",
@@ -690,6 +690,20 @@
             "Sources ": [
                 "Upper Lusatia",
                 " Lusatia"
+            ]
+        },
+        "Blanice (Sázava)": {
+            "label": "Blanice",
+            "description": "The Blanice is a river located primarily in the Central Bohemian Region of the Czech Republic. It is a 66 kilometres left tributary of the Sázava. Wikipedia",
+            "type": "",
+            "Length ": [
+                "41 miles (66 km)"
+            ],
+            "Mouth ": [
+                "Český Šternberk"
+            ],
+            "Country ": [
+                "Czech Republic"
             ]
         },
         "Bojana (river)": {
@@ -722,20 +736,6 @@
                 " Albania"
             ]
         },
-        "Blanice (Sázava)": {
-            "label": "Blanice",
-            "description": "The Blanice is a river located primarily in the Central Bohemian Region of the Czech Republic. It is a 66 kilometres left tributary of the Sázava. Wikipedia",
-            "type": "",
-            "Length ": [
-                "41 miles (66 km)"
-            ],
-            "Mouth ": [
-                "Český Šternberk"
-            ],
-            "Country ": [
-                "Czech Republic"
-            ]
-        },
         "Bolshoy Kundysh River": {
             "label": "Bolshoy Kundysh River",
             "description": "Bolshoy Kundysh is a river in Kirov Oblast and Mari El, Russia, a right tributary of the Bolshaya Kokshaga River. It is 173 km long, its drainage basin is 1720 km². Bolshoy Kundysh flows across the fen of the Mari depression. Wikipedia",
@@ -747,6 +747,14 @@
                 "Bolshaya Kokshaga River"
             ]
         },
+        "Bröl": {
+            "label": "Bröl",
+            "description": "The Bröl is a 45.1 km long right tributary of the Sieg River in North Rhine-Westphalia, Germany.\nThe river flows through the districts of Rhein-Sieg-Kreis and Oberbergischer Kreis. Wikipedia",
+            "type": "",
+            "Length ": [
+                "28 miles (45 km)"
+            ]
+        },
         "Brandenberger Ache": {
             "label": "Brandenberger Ache",
             "description": "The Brandenberger Ache River is a 22 km long left tributary of the Inn River in the district Kufstein and flows from North to South to the town of Rattenberg where it merges with the Inn River. Wikipedia",
@@ -756,14 +764,6 @@
             ],
             "Country ": [
                 "Austria"
-            ]
-        },
-        "Bröl": {
-            "label": "Bröl",
-            "description": "The Bröl is a 45.1 km long right tributary of the Sieg River in North Rhine-Westphalia, Germany.\nThe river flows through the districts of Rhein-Sieg-Kreis and Oberbergischer Kreis. Wikipedia",
-            "type": "",
-            "Length ": [
-                "28 miles (45 km)"
             ]
         },
         "Bregenzer Ache": {
@@ -802,21 +802,6 @@
             "label": "Bridgwater and Taunton Canal",
             "description": "The Bridgwater and Taunton Canal is a canal in the south-west of England between Bridgwater and Taunton, opened in 1827 and linking the River Tone to the River Parrett. Wikipedia",
             "type": ""
-        },
-        "Cèze": {
-            "label": "Cèze",
-            "description": "The Cèze is a French river, a tributary of the Rhone. It runs through the departments of Lozère and Gard in the Languedoc-Roussillon region. Its source is in the Cévennes mountains, near Saint-André-Capcèze. Wikipedia",
-            "type": "",
-            "Length ": [
-                "80 miles (128 km)"
-            ],
-            "Source ": [
-                "Cévennes"
-            ],
-            "Mouth ": [
-                "Rhône"
-            ],
-            "See results about": []
         },
         "Brisbane River": {
             "label": "Brisbane River",
@@ -861,6 +846,21 @@
                 " Centenary BridgeMore"
             ]
         },
+        "Cèze": {
+            "label": "Cèze",
+            "description": "The Cèze is a French river, a tributary of the Rhone. It runs through the departments of Lozère and Gard in the Languedoc-Roussillon region. Its source is in the Cévennes mountains, near Saint-André-Capcèze. Wikipedia",
+            "type": "",
+            "Length ": [
+                "80 miles (128 km)"
+            ],
+            "Source ": [
+                "Cévennes"
+            ],
+            "Mouth ": [
+                "Rhône"
+            ],
+            "See results about": []
+        },
         "Casiquiare canal": {
             "label": "Casiquiare canal",
             "description": "The Casiquiare river is a distributary of the upper Orinoco flowing southward into the Rio Negro, in Venezuela, South America. As such, it forms a unique natural canal between the Orinoco and Amazon river systems. Wikipedia",
@@ -892,6 +892,21 @@
             ],
             "Country ": [
                 "Uruguay"
+            ]
+        },
+        "Chagodoshcha River": {
+            "label": "Chagodoshcha River",
+            "description": "The Chagodoshcha is a river in Boksitogorsky District of Leningrad Oblast and in Chagodoshchensky, Babayevsky, and Ustyuzhensky Districts of Vologda Oblast in Russia. It is a left tributary of the Mologa River. Wikipedia",
+            "type": "",
+            "Length ": [
+                "150 miles (242 km)"
+            ],
+            "Discharge ": [
+                "2",
+                "048 ft³/s (58 m³/s)"
+            ],
+            "Mouth ": [
+                "Mologa River"
             ]
         },
         "Chapayevka River": {
@@ -959,6 +974,23 @@
                 "Peru"
             ]
         },
+        "Chrudimka": {
+            "label": "Chrudimka River",
+            "description": "Chrudimka is a river in the Pardubice Region in the Czech Republic. It is a left tributary of Labe, beginning near Hlinsko and flowing mostly northward to the city of Pardubice. Wikipedia",
+            "type": "",
+            "Length ": [
+                "65 miles (104 km)"
+            ],
+            "Basin area ": [
+                "336.7 sq miles (872 km²)"
+            ],
+            "Mouth ": [
+                "Elbe"
+            ],
+            "Country ": [
+                "Czech Republic"
+            ]
+        },
         "Churchill River (Atlantic)": {
             "label": "Churchill River",
             "description": "The Churchill River is a river in Newfoundland and Labrador which flows east from the Smallwood Reservoir in Labrador into the Atlantic Ocean via Lake Melville. Wikipedia",
@@ -982,23 +1014,6 @@
             ],
             "Country ": [
                 "Canada"
-            ]
-        },
-        "Chrudimka": {
-            "label": "Chrudimka River",
-            "description": "Chrudimka is a river in the Pardubice Region in the Czech Republic. It is a left tributary of Labe, beginning near Hlinsko and flowing mostly northward to the city of Pardubice. Wikipedia",
-            "type": "",
-            "Length ": [
-                "65 miles (104 km)"
-            ],
-            "Basin area ": [
-                "336.7 sq miles (872 km²)"
-            ],
-            "Mouth ": [
-                "Elbe"
-            ],
-            "Country ": [
-                "Czech Republic"
             ]
         },
         "Cibin River": {
@@ -1028,21 +1043,6 @@
                 "Sibiu"
             ],
             "See results about": []
-        },
-        "Chagodoshcha River": {
-            "label": "Chagodoshcha River",
-            "description": "The Chagodoshcha is a river in Boksitogorsky District of Leningrad Oblast and in Chagodoshchensky, Babayevsky, and Ustyuzhensky Districts of Vologda Oblast in Russia. It is a left tributary of the Mologa River. Wikipedia",
-            "type": "",
-            "Length ": [
-                "150 miles (242 km)"
-            ],
-            "Discharge ": [
-                "2",
-                "048 ft³/s (58 m³/s)"
-            ],
-            "Mouth ": [
-                "Mologa River"
-            ]
         },
         "Coco River": {
             "label": "Coco River",
@@ -1375,6 +1375,16 @@
             "description": "Erlenbach is a river of Hesse, Germany. Wikipedia",
             "type": ""
         },
+        "Erie Canal": {
+            "label": "Erie Canal",
+            "description": "The Erie Canal is a canal in New York that originally ran about 363 miles from Albany, New York, on the Hudson River to Buffalo, New York, at Lake Erie. Wikipedia",
+            "type": "",
+            "Bridges ": [
+                "Bridge 8",
+                " Erie Canal"
+            ],
+            "See results about": []
+        },
         "Ettenbach": {
             "label": "Ettenbach",
             "description": "Ettenbach is a river of Baden-Württemberg, Germany. Wikipedia",
@@ -1419,45 +1429,61 @@
                 "Adige"
             ],
             "See results about": []
-        },
-        "Erie Canal": {
-            "label": "Erie Canal",
-            "description": "The Erie Canal is a canal in New York that originally ran about 363 miles from Albany, New York, on the Hudson River to Buffalo, New York, at Lake Erie. Wikipedia",
-            "type": "",
-            "Bridges ": [
-                "Bridge 8",
-                " Erie Canal"
-            ],
-            "See results about": []
         }
     },
     "summary": {
-        "label": 86,
-        "description": 86,
-        "type": 86,
-        "length": 1,
-        "discharge": 1,
-        "basin_area": 1,
-        "mouth": 1,
-        "country": 1,
-        "bridges": 1,
-        "source": 1,
-        "people_also_search_for": 1,
-        "cities": 1,
-        "source_elevation": 1,
-        "mouths": 1,
-        "countries": 1,
-        "scientific_name": 1,
-        "higher_classification": 1,
-        "mass": 1,
-        "gestation_period": 1,
-        "rank": 1,
-        "tail_length": 1,
-        "body_length": 1,
-        "see_results_about": 1,
-        "sources": 1,
-        "province": 1,
-        "islands": 1
+        "label": {
+            "uri": "http://dbpedia.org/property/label",
+            "count": 86
+        },
+        "description": {
+            "uri": "http://dbpedia.org/property/description",
+            "count": 86
+        },
+        "type": {
+            "uri": "http://dbpedia.org/property/type",
+            "count": 86
+        },
+        "length": {
+            "uri": "http://dbpedia.org/property/length",
+            "count": 65
+        },
+        "discharge": {
+            "uri": "http://dbpedia.org/property/discharge",
+            "count": 29
+        },
+        "mouth": {
+            "uri": "http://dbpedia.org/property/mouth",
+            "count": 50
+        },
+        "country": {
+            "uri": "http://dbpedia.org/property/country",
+            "count": 39
+        },
+        "source": {
+            "uri": "http://dbpedia.org/ontology/source",
+            "count": 33
+        },
+        "cities": {
+            "uri": "http://dbpedia.org/property/cities",
+            "count": 10
+        },
+        "sourceElevation": {
+            "uri": "http://dbpedia.org/property/sourceElevation",
+            "count": 5
+        },
+        "countries": {
+            "uri": "http://dbpedia.org/property/countries",
+            "count": 5
+        },
+        "province": {
+            "uri": "http://dbpedia.org/property/province",
+            "count": 1
+        },
+        "islands": {
+            "uri": "http://dbpedia.org/property/islands",
+            "count": 1
+        }
     },
     "infoboxless": [
         "Świna",
@@ -1474,5 +1500,20 @@
         "Elpenbach",
         "Eulegraben",
         "Exter (Weser)"
-    ]
+    ],
+    "Unmapped_Properties": {
+        "basinArea": 1,
+        "bridges": 1,
+        "peopleAlsoSearchFor": 1,
+        "mouths": 1,
+        "scientificName": 1,
+        "higherClassification": 1,
+        "mass": 1,
+        "gestationPeriod": 1,
+        "rank": 1,
+        "tailLength": 1,
+        "bodyLength": 1,
+        "seeResultsAbout": 1,
+        "sources": 1
+    }
 }

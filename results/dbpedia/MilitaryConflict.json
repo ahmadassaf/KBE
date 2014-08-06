@@ -10,24 +10,31 @@
                 " 96% Humidity"
             ]
         },
-        "Babuyan Islands": {
-            "label": "Babuyan Islands",
-            "description": "The Babuyan Islands is roughly a circular archipelago located in the Luzon Strait, north of Luzon Island in the Philippines. It is separated from Luzon by the Babuyan Channel and from the Batanes Islands to its north by the Balintang Channel. Wikipedia",
-            "type": ""
-        },
         "Battle of Bentonville": {
             "label": "Battle of Bentonville",
             "description": "The Battle of Bentonville was fought in Bentonville, North Carolina, near the town of Four Oaks, as part of the Carolinas Campaign of the American Civil War. Wikipedia",
             "type": "",
             "See results about": []
+        },
+        "Babuyan Islands": {
+            "label": "Babuyan Islands",
+            "description": "The Babuyan Islands is roughly a circular archipelago located in the Luzon Strait, north of Luzon Island in the Philippines. It is separated from Luzon by the Babuyan Channel and from the Batanes Islands to its north by the Balintang Channel. Wikipedia",
+            "type": ""
         }
     },
     "summary": {
-        "label": 3,
-        "description": 3,
-        "type": 3,
-        "weather": 1,
-        "see_results_about": 1
+        "label": {
+            "uri": "http://dbpedia.org/property/label",
+            "count": 3
+        },
+        "description": {
+            "uri": "http://purl.org/dc/elements/1.1/description",
+            "count": 3
+        },
+        "type": {
+            "uri": "http://dbpedia.org/property/type",
+            "count": 3
+        }
     },
     "infoboxless": [
         "1383–1385 Crisis",
@@ -127,5 +134,9 @@
         "Battle of Neuwied (1797)",
         "Battle of Noisseville",
         "Battle of Novi (1799)"
-    ]
+    ],
+    "Unmapped_Properties": {
+        "weather": 1,
+        "seeResultsAbout": 1
+    }
 }

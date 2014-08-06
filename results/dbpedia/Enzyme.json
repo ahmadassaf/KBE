@@ -1,26 +1,20 @@
 {
     "instances": {
-        "Aconitase": {
-            "label": "Aconitase",
-            "description": "Aconitase is an enzyme that catalyses the stereo-specific isomerization of citrate to isocitrate via cis-aconitate in the tricarboxylic acid cycle, a non-redox-active process.\nCitric acid\nAconitic acid\nIsocitric acid Wikipedia",
-            "type": "",
-            "Related topics": []
-        },
         "Angiotensin-converting enzyme": {
             "label": "Angiotensin-converting enzyme",
             "description": "Angiotensin-converting enzyme increases blood pressure by causing blood vessels to constrict. It does that by converting angiotensin I to angiotensin II, which constricts the vessels. Wikipedia",
             "type": "Protein",
             "See results about": []
         },
-        "Pyruvate carboxylase": {
-            "label": "Pyruvate carboxylase",
-            "description": "Pyruvate carboxylase is an enzyme of the ligase class that catalyzes the irreversible carboxylation of pyruvate to form oxaloacetate.\nPyruvic acid\nOxaloacetic acid\nIt is an important anaplerotic reaction that creates oxaloacetate from pyruvate. Wikipedia",
-            "type": "",
-            "Related topics": []
-        },
         "Ornithine decarboxylase": {
             "label": "Ornithine decarboxylase",
             "description": "The enzyme ornithine decarboxylase catalyzes the decarboxylation of ornithine to form putrescine. This reaction is the committed step in polyamine synthesis. In humans, this protein has 461 amino acids and forms a homodimer. Wikipedia",
+            "type": "",
+            "Related topics": []
+        },
+        "Pyruvate carboxylase": {
+            "label": "Pyruvate carboxylase",
+            "description": "Pyruvate carboxylase is an enzyme of the ligase class that catalyzes the irreversible carboxylation of pyruvate to form oxaloacetate.\nPyruvic acid\nOxaloacetic acid\nIt is an important anaplerotic reaction that creates oxaloacetate from pyruvate. Wikipedia",
             "type": "",
             "Related topics": []
         },
@@ -38,15 +32,15 @@
                 "Enzyme"
             ]
         },
-        "Diguanylate cyclase": {
-            "label": "Diguanylate cyclase",
-            "description": "In enzymology, diguanylate cyclase, also known as diguanylate kinase, is an enzyme that catalyzes the chemical reaction\n2 Guanosine triphosphate ↔ 2 diphosphate + cyclic di-3',5'-guanylate\nThe substrates ... Wikipedia",
-            "type": "",
-            "Related topics": []
-        },
         "5-alpha reductase": {
             "label": "5-alpha reductase",
             "description": "5α-reductases, also known as 3-oxo-5α-steroid 4-dehydrogenases, are enzymes involved in steroid metabolism. They participate in 3 metabolic pathways bile acid biosynthesis, androgen and estrogen metabolism, and prostate cancer. Wikipedia",
+            "type": "",
+            "Related topics": []
+        },
+        "Diguanylate cyclase": {
+            "label": "Diguanylate cyclase",
+            "description": "In enzymology, diguanylate cyclase, also known as diguanylate kinase, is an enzyme that catalyzes the chemical reaction\n2 Guanosine triphosphate ↔ 2 diphosphate + cyclic di-3',5'-guanylate\nThe substrates ... Wikipedia",
             "type": "",
             "Related topics": []
         },
@@ -56,21 +50,15 @@
             "type": "",
             "Related topics": []
         },
-        "G protein-coupled receptor kinase": {
-            "label": "G protein-coupled receptor kinase",
-            "description": "G protein-coupled receptor kinases are a family of protein kinases that regulate the activity of G protein-coupled receptors by phosphorylating their intracellular domains after their associated G proteins have been released and activated. Wikipedia",
-            "type": "",
-            "Related topics": []
-        },
-        "Fructose-bisphosphate aldolase": {
-            "label": "Fructose-bisphosphate aldolase",
-            "description": "Fructose-bisphosphate aldolase, often just aldolase, is an enzyme catalyzing a reversible reaction that splits the aldol, fructose 1,6-bisphosphate, into the triose phosphates dihydroxyacetone phosphate and glyceraldehyde 3-phosphate. Wikipedia",
-            "type": "",
-            "Related topics": []
-        },
         "Nucleoside-diphosphate kinase": {
             "label": "Nucleoside-diphosphate kinase",
             "description": "Nucleoside-diphosphate kinases are enzymes that catalyze the exchange of phosphate groups between different nucleoside diphosphates. Wikipedia",
+            "type": "",
+            "Related topics": []
+        },
+        "G protein-coupled receptor kinase": {
+            "label": "G protein-coupled receptor kinase",
+            "description": "G protein-coupled receptor kinases are a family of protein kinases that regulate the activity of G protein-coupled receptors by phosphorylating their intracellular domains after their associated G proteins have been released and activated. Wikipedia",
             "type": "",
             "Related topics": []
         },
@@ -92,6 +80,18 @@
             "type": "",
             "Related topics": []
         },
+        "Aconitase": {
+            "label": "Aconitase",
+            "description": "Aconitase is an enzyme that catalyses the stereo-specific isomerization of citrate to isocitrate via cis-aconitate in the tricarboxylic acid cycle, a non-redox-active process.\nCitric acid\nAconitic acid\nIsocitric acid Wikipedia",
+            "type": "",
+            "Related topics": []
+        },
+        "Fructose-bisphosphate aldolase": {
+            "label": "Fructose-bisphosphate aldolase",
+            "description": "Fructose-bisphosphate aldolase, often just aldolase, is an enzyme catalyzing a reversible reaction that splits the aldol, fructose 1,6-bisphosphate, into the triose phosphates dihydroxyacetone phosphate and glyceraldehyde 3-phosphate. Wikipedia",
+            "type": "",
+            "Related topics": []
+        },
         "Chlorophyllase": {
             "label": "Chlorophyllase",
             "description": "Chlorophyllase is the key enzyme in chlorophyll metabolism. It is a membrane protein that is commonly known as Chlase and systematically known as chlorophyll chlorophyllidohydrolase. Wikipedia",
@@ -100,12 +100,18 @@
         }
     },
     "summary": {
-        "label": 16,
-        "description": 16,
-        "type": 16,
-        "related_topics": 1,
-        "see_results_about": 1,
-        "classification": 1
+        "label": {
+            "uri": "http://dbpedia.org/property/label",
+            "count": 16
+        },
+        "description": {
+            "uri": "http://fr.dbpedia.org/ontology/abstract",
+            "count": 16
+        },
+        "type": {
+            "uri": "http://dbpedia.org/property/type",
+            "count": 16
+        }
     },
     "infoboxless": [
         "Chitinase",
@@ -192,5 +198,10 @@
         "Leucine 2,3-aminomutase",
         "Leucoanthocyanidin reductase",
         "Methylenetetrahydrofolate reductase (ferredoxin)"
-    ]
+    ],
+    "Unmapped_Properties": {
+        "seeResultsAbout": 1,
+        "relatedTopics": 1,
+        "classification": 1
+    }
 }

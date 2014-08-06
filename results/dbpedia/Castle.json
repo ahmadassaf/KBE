@@ -53,6 +53,11 @@
             ],
             "People also search for": []
         },
+        "Övedskloster Castle": {
+            "label": "Övedskloster Mansion and Park",
+            "description": "",
+            "type": ""
+        },
         "Björnstorp Castle": {
             "label": "Björnstorp Castle",
             "description": "Björnstorp Castle is a castle in Lund Municipality, Scania, in southern Sweden. It was built in 1752 and reshaped in 1860-1880, with its final appearance set in 1868, by architect Helgo Zettervall. Wikipedia",
@@ -63,11 +68,6 @@
                 " Sweden"
             ],
             "People also search for": []
-        },
-        "Övedskloster Castle": {
-            "label": "Övedskloster Mansion and Park",
-            "description": "",
-            "type": ""
         },
         "Christinehof Castle": {
             "label": "Christinehof Castle",
@@ -80,11 +80,6 @@
             ],
             "People also search for": []
         },
-        "Djursholm Castle": {
-            "label": "Djursholm Castle",
-            "description": "Djursholm Castle is a castle in Sweden.\nDjursholm is located in Danderyd Municipality, within Stockholm urban area. The castle includes building components from the late Middle Ages. Wikipedia",
-            "type": ""
-        },
         "Citadel of Damascus": {
             "label": "Citadel of Damascus",
             "description": "The Citadel of Damascus is a large medieval fortified palace and citadel in Damascus, Syria. It is part of the Ancient City of Damascus, which was listed as a UNESCO World Heritage Site in 1979. Wikipedia",
@@ -95,15 +90,10 @@
             ],
             "People also search for": []
         },
-        "Häckeberga Castle": {
-            "label": "Häckeberga Castle",
-            "description": "Häckeberga Castle is a castle in Lund Municipality, Scania, in southern Sweden. It dates back to the 14th century.\nIt currently hosts a restaurant and hotel. Wikipedia",
-            "type": "",
-            "Address ": [
-                "Häckeberga Slott",
-                " 247 98 Genarp",
-                " Sweden"
-            ]
+        "Djursholm Castle": {
+            "label": "Djursholm Castle",
+            "description": "Djursholm Castle is a castle in Sweden.\nDjursholm is located in Danderyd Municipality, within Stockholm urban area. The castle includes building components from the late Middle Ages. Wikipedia",
+            "type": ""
         },
         "Hässelby Castle": {
             "label": "Hässelby Castle",
@@ -115,13 +105,13 @@
                 " Sweden"
             ]
         },
-        "Hjularöd Castle": {
-            "label": "Hjularöd Castle",
-            "description": "Hjularöd Castle is a castle in Eslöv Municipality, Scania, in southern Sweden.\nThe castle was first mentioned in 1391, but the current castle was built in 1894-1897. It was built on command of the former owner, chamberlain Hans Gustaf Toll. Wikipedia",
+        "Häckeberga Castle": {
+            "label": "Häckeberga Castle",
+            "description": "Häckeberga Castle is a castle in Lund Municipality, Scania, in southern Sweden. It dates back to the 14th century.\nIt currently hosts a restaurant and hotel. Wikipedia",
             "type": "",
             "Address ": [
-                "Hjularöds Gods",
-                " 240 35 Harlösa",
+                "Häckeberga Slott",
+                " 247 98 Genarp",
                 " Sweden"
             ]
         },
@@ -141,6 +131,16 @@
                 " Sweden"
             ]
         },
+        "Hjularöd Castle": {
+            "label": "Hjularöd Castle",
+            "description": "Hjularöd Castle is a castle in Eslöv Municipality, Scania, in southern Sweden.\nThe castle was first mentioned in 1391, but the current castle was built in 1894-1897. It was built on command of the former owner, chamberlain Hans Gustaf Toll. Wikipedia",
+            "type": "",
+            "Address ": [
+                "Hjularöds Gods",
+                " 240 35 Harlösa",
+                " Sweden"
+            ]
+        },
         "Kronovall Castle": {
             "label": "Kronovall Castle",
             "description": "Kronovall Castle is a castle in Tomelilla Municipality, Scania, in southern Sweden. Wikipedia",
@@ -156,17 +156,6 @@
             "description": "Kulla Gunnarstorp Castle is a castle in Helsingborg Municipality, Scania, in southern Sweden. The old castle was built in the 16th century by Jørgen Ottesen Brahe. In the 19th century there was also built a new one by Baltzar von Platen. Wikipedia",
             "type": ""
         },
-        "Mariedal Castle": {
-            "label": "Mariedal Castle",
-            "description": "Mariedal Castle is a castle in Sweden. Written accounts and the weather vane indicate the castle was built in 1666. The splendid interior of the castle provides stucco ceiling and wainscoting. Wikipedia",
-            "type": ""
-        },
-        "Samuil's Fortress, Ohrid": {
-            "label": "Samoil's Fortress",
-            "description": "",
-            "type": "",
-            "People also search for": []
-        },
         "Marsvinsholm Castle": {
             "label": "Marsvinsholm Castle",
             "description": "Marsvinsholm Castle is situated in Ystad Municipality, Scania, in southern Sweden, 12 kilometres from Ystad. Wikipedia",
@@ -176,6 +165,27 @@
                 " 271 42 Ystad",
                 " Sweden"
             ]
+        },
+        "Samuil's Fortress, Ohrid": {
+            "label": "Samoil's Fortress",
+            "description": "",
+            "type": "",
+            "People also search for": []
+        },
+        "Svenstorp Castle": {
+            "label": "Svenstorp Castle",
+            "description": "Svenstorp Castle is a castle in Lund Municipality, Scania, in southern Sweden. It was built in 1596 by Beata Hvitfeldt, a powerful lady-in-waiting to the Danish King Christian IV. Her architect was Hans Steenwinkel. Wikipedia",
+            "type": "",
+            "Address ": [
+                "Svenstorps Gods",
+                " 225 92 Lund",
+                " Sweden"
+            ]
+        },
+        "Mariedal Castle": {
+            "label": "Mariedal Castle",
+            "description": "Mariedal Castle is a castle in Sweden. Written accounts and the weather vane indicate the castle was built in 1666. The splendid interior of the castle provides stucco ceiling and wainscoting. Wikipedia",
+            "type": ""
         },
         "Trolleholm Castle": {
             "label": "Trolleholm Castle",
@@ -206,13 +216,13 @@
                 " Sweden"
             ]
         },
-        "Svenstorp Castle": {
-            "label": "Svenstorp Castle",
-            "description": "Svenstorp Castle is a castle in Lund Municipality, Scania, in southern Sweden. It was built in 1596 by Beata Hvitfeldt, a powerful lady-in-waiting to the Danish King Christian IV. Her architect was Hans Steenwinkel. Wikipedia",
+        "Öster-Malma Castle": {
+            "label": "Öster-Malma Castle",
+            "description": "Öster-Malma Castle is a castle in Sweden. Wikipedia",
             "type": "",
             "Address ": [
-                "Svenstorps Gods",
-                " 225 92 Lund",
+                "Öster-Malma",
+                " 611 91 Nyköping",
                 " Sweden"
             ]
         },
@@ -261,30 +271,10 @@
                 " Germany"
             ]
         },
-        "Newbury Castle": {
-            "label": "Newbury Castle",
-            "description": "Newbury Castle is the name of an English adulterine castle built by John Marshal during The Anarchy. It is located west of the town of Newbury in the English county of Berkshire. Wikipedia",
-            "type": ""
-        },
         "Laudegg Castle": {
             "label": "Laudegg Castle",
             "description": "Burg Laudegg is a restored castle ruin near Ladis, a village in Bezirk Landeck in the state of Tyrol, Austria. Wikipedia",
             "type": ""
-        },
-        "Zétrud-Lumay Castle": {
-            "label": "Zétrud-Lumay Castle",
-            "description": "Zétrud-Lumay Castle is a castle in Jodoigne, Walloon Brabant, Belgium located in Zétrud-Lumay. Wikipedia",
-            "type": ""
-        },
-        "Öster-Malma Castle": {
-            "label": "Öster-Malma Castle",
-            "description": "Öster-Malma Castle is a castle in Sweden. Wikipedia",
-            "type": "",
-            "Address ": [
-                "Öster-Malma",
-                " 611 91 Nyköping",
-                " Sweden"
-            ]
         },
         "Reichenstein Castle (Trechtingshausen)": {
             "label": "Reichenstein Castle",
@@ -296,16 +286,16 @@
             ],
             "People also search for": []
         },
+        "Zétrud-Lumay Castle": {
+            "label": "Zétrud-Lumay Castle",
+            "description": "Zétrud-Lumay Castle is a castle in Jodoigne, Walloon Brabant, Belgium located in Zétrud-Lumay. Wikipedia",
+            "type": ""
+        },
         "Antoing Castle": {
             "label": "Antoing Castle",
             "description": "Antoing Castle is one of Belgium's most original and well-known castles, situated in Antoing in Hainaut.\nIt was first mentioned in the 12th century. Wikipedia",
             "type": "",
             "People also search for": []
-        },
-        "Burtnieki Castle": {
-            "label": "Burtnieki Castle",
-            "description": "Burtnieki Castle is a castle in the historical region of Vidzeme, in northern Latvia. It was built on the south shore of Lake Burtnieks for the Livonian Order around 1284. Wikipedia",
-            "type": ""
         },
         "Burg Kreuzenstein": {
             "label": "Burg Kreuzenstein",
@@ -316,14 +306,19 @@
                 " Austria"
             ]
         },
+        "Newbury Castle": {
+            "label": "Newbury Castle",
+            "description": "Newbury Castle is the name of an English adulterine castle built by John Marshal during The Anarchy. It is located west of the town of Newbury in the English county of Berkshire. Wikipedia",
+            "type": ""
+        },
+        "Burtnieki Castle": {
+            "label": "Burtnieki Castle",
+            "description": "Burtnieki Castle is a castle in the historical region of Vidzeme, in northern Latvia. It was built on the south shore of Lake Burtnieks for the Livonian Order around 1284. Wikipedia",
+            "type": ""
+        },
         "Cartier Castle": {
             "label": "Cartier Castle",
             "description": "Cartier Castle is a château in Marchienne-au-Pont, a part of Charleroi, in the province of Hainaut, Belgium. Wikipedia",
-            "type": ""
-        },
-        "Burgruine Reifenstein": {
-            "label": "Reifenstein Castle",
-            "description": "Reifenstein Castle is a castle in Freienfeld, near Sterzing, in South Tyrol. It is located near a dried marsh, in the valley of the Eisack. Wikipedia",
             "type": ""
         },
         "Kururi Castle": {
@@ -334,6 +329,25 @@
                 "Japan",
                 " 〒292-0422 千葉県君津市久留里"
             ]
+        },
+        "Takayama Castle": {
+            "label": "Takayama Castle",
+            "description": "Takayama Castle is a castle located in the city of Takayama, Gifu Prefecture, Japan. The castle was built on a mountain nearly 687 m in height and had many typical castle features, including a stone base, earthen walls and a surrounding moat. Wikipedia",
+            "type": "",
+            "Address ": [
+                "Japan",
+                " 〒506-0822 岐阜県高山市城山"
+            ]
+        },
+        "Château de Vaulogé": {
+            "label": "Château de Vaulogé",
+            "description": "The Château de Vaulogé is a château in Fercé-sur-Sarthe near Le Mans in the Sarthe department of France.\nIt was built in the 15th century by Jean III de Vaulogé, and a town grew up around it. Wikipedia",
+            "type": "",
+            "Address ": "RD 309, 72430 Fercé-sur-Sarthe, France",
+            "Phone ": [
+                "+33 2 43 77 32 81"
+            ],
+            "People also search for": []
         },
         "Gujō Hachiman Castle": {
             "label": "Gujō Hachiman Castle",
@@ -347,33 +361,14 @@
                 " Japan"
             ]
         },
-        "Château de Vaulogé": {
-            "label": "Château de Vaulogé",
-            "description": "The Château de Vaulogé is a château in Fercé-sur-Sarthe near Le Mans in the Sarthe department of France.\nIt was built in the 15th century by Jean III de Vaulogé, and a town grew up around it. Wikipedia",
-            "type": "",
-            "Address ": "RD 309, 72430 Fercé-sur-Sarthe, France",
-            "Phone ": [
-                "+33 2 43 77 32 81"
-            ],
-            "People also search for": []
-        },
-        "Takayama Castle": {
-            "label": "Takayama Castle",
-            "description": "Takayama Castle is a castle located in the city of Takayama, Gifu Prefecture, Japan. The castle was built on a mountain nearly 687 m in height and had many typical castle features, including a stone base, earthen walls and a surrounding moat. Wikipedia",
-            "type": "",
-            "Address ": [
-                "Japan",
-                " 〒506-0822 岐阜県高山市城山"
-            ]
-        },
-        "Ruine Pflindsberg": {
-            "label": "Ruine Pflindsberg",
-            "description": "Ruine Pflindsberg is a castle in Styria, Austria.\nAround 1250 Philipp of Spanheim, the Archbishop-elect of Salzburg, occupied the Ausseerland and the Ennstal in Styria. Wikipedia",
-            "type": ""
-        },
         "Rauna Castle": {
             "label": "Rauna Castle",
             "description": "Rauna Castle ruins are located in the village of Rauna, in Cēsis District, Latvia. The castle was the principal residence of the Archbishopric of Riga in which at for certain period each year it was visited the Archbishop with his entourage. Wikipedia",
+            "type": ""
+        },
+        "Shigisan Castle": {
+            "label": "Shigisan Castle",
+            "description": "Shigisan castle was a Japanese castle of the Sengoku period, controlled by the Kizawa and Matsunaga clans. Wikipedia",
             "type": ""
         },
         "Hasegg Castle": {
@@ -382,15 +377,51 @@
             "type": "",
             "Address ": "Burg Hasegg 6, 6060 Hall in Tirol, Austria"
         },
-        "Shigisan Castle": {
-            "label": "Shigisan Castle",
-            "description": "Shigisan castle was a Japanese castle of the Sengoku period, controlled by the Kizawa and Matsunaga clans. Wikipedia",
+        "Burgruine Reifenstein": {
+            "label": "Reifenstein Castle",
+            "description": "Reifenstein Castle is a castle in Freienfeld, near Sterzing, in South Tyrol. It is located near a dried marsh, in the valley of the Eisack. Wikipedia",
             "type": ""
+        },
+        "Ruine Pflindsberg": {
+            "label": "Ruine Pflindsberg",
+            "description": "Ruine Pflindsberg is a castle in Styria, Austria.\nAround 1250 Philipp of Spanheim, the Archbishop-elect of Salzburg, occupied the Ausseerland and the Ennstal in Styria. Wikipedia",
+            "type": ""
+        },
+        "Dvigrad": {
+            "label": "Dvigrad",
+            "description": "Dvigrad, Docastei in Istriot language, is an abandoned medieval town in central Istria, Croatia. It is located in the Draga valley. The history of the settlement is prehistoric; it remained inhabited until the 18th century. Wikipedia",
+            "type": "Town in Croatia",
+            "Address ": [
+                "Croatia"
+            ],
+            "Weather ": [
+                "63°F (17°C)",
+                " Wind 0 mph (0 km/h)",
+                " 21% Humidity"
+            ],
+            "Local time ": [
+                "Friday 508 PM"
+            ]
         },
         "Solre-sur-Sambre Castle": {
             "label": "Solre-sur-Sambre Castle",
             "description": "Solre-sur-Sambre Castle is a castle in Solre-sur-Sambre in the municipality of Erquelinnes, province of Hainaut, Belgium.\nThe castle was built around the turn of the 13th and 14th centuries and retains much of the medieval structure. Wikipedia",
             "type": "",
+            "People also search for": []
+        },
+        "Fast Castle": {
+            "label": "Fast Castle",
+            "description": "Fast Castle is the ruined remains of a coastal fortress in Berwickshire, south-east Scotland, in the Scottish Borders. Wikipedia",
+            "type": ""
+        },
+        "Guédelon Castle": {
+            "label": "Guédelon Castle",
+            "description": "Guédelon Castle is a medieval construction project located in Treigny, France. The object of the project is to build a castle using only the techniques and materials used in the Middle Ages. Wikipedia",
+            "type": "Building in France",
+            "Address ": "D955, 89520 Treigny, France",
+            "Phone ": [
+                "+33 3 86 45 66 66"
+            ],
             "People also search for": []
         },
         "Château de Saumur": {
@@ -415,27 +446,6 @@
             "type": "Building in Belgium",
             "People also search for": []
         },
-        "Dvigrad": {
-            "label": "Dvigrad",
-            "description": "Dvigrad, Docastei in Istriot language, is an abandoned medieval town in central Istria, Croatia. It is located in the Draga valley. The history of the settlement is prehistoric; it remained inhabited until the 18th century. Wikipedia",
-            "type": "Town in Croatia",
-            "Address ": [
-                "Croatia"
-            ],
-            "Weather ": [
-                "63°F (17°C)",
-                " Wind 0 mph (0 km/h)",
-                " 21% Humidity"
-            ],
-            "Local time ": [
-                "Friday 508 PM"
-            ]
-        },
-        "Fast Castle": {
-            "label": "Fast Castle",
-            "description": "Fast Castle is the ruined remains of a coastal fortress in Berwickshire, south-east Scotland, in the Scottish Borders. Wikipedia",
-            "type": ""
-        },
         "Duivenvoorde Castle": {
             "label": "Duivenvoorde Castle",
             "description": "Duivenvoorde Castle is a castle in the town of Voorschoten, South Holland, in the Netherlands. It was first mentioned in 1226, making it one of the oldest castles in South Holland. Wikipedia",
@@ -446,17 +456,27 @@
                 " Netherlands"
             ]
         },
-        "Dalaborg": {
-            "label": "Dalaborg",
-            "description": "Dalaborg is a ruined castle in Sweden. Wikipedia",
-            "type": ""
-        },
         "Beauvoorde Castle": {
             "label": "Beauvoorde Castle",
             "description": "Beauvoorde Castle is a castle in Beauvoorde in Wulveringem in the municipality of Veurne, West Flanders, Belgium. Wikipedia",
             "type": "",
             "Address ": "Wulveringemstraat 12, 8630 Beauvoorde, Belgium",
             "People also search for": []
+        },
+        "Castle Brederode": {
+            "label": "Castle Brederode",
+            "description": "Castle Brederode, also called the Ruïns of Brederode, is located near Santpoort-Zuid. The castle was founded in the second half of the 13th century by William I van Brederode. Wikipedia",
+            "type": "",
+            "Address ": [
+                "Velserenderlaan 2",
+                " Santpoort-Zuid",
+                " Netherlands"
+            ]
+        },
+        "Dalaborg": {
+            "label": "Dalaborg",
+            "description": "Dalaborg is a ruined castle in Sweden. Wikipedia",
+            "type": ""
         },
         "Doornenburg Castle": {
             "label": "Doornenburg Castle",
@@ -504,22 +524,6 @@
             ],
             "People also search for": []
         },
-        "Castle Brederode": {
-            "label": "Castle Brederode",
-            "description": "Castle Brederode, also called the Ruïns of Brederode, is located near Santpoort-Zuid. The castle was founded in the second half of the 13th century by William I van Brederode. Wikipedia",
-            "type": "",
-            "Address ": [
-                "Velserenderlaan 2",
-                " Santpoort-Zuid",
-                " Netherlands"
-            ]
-        },
-        "Bernstein Castle": {
-            "label": "Bernstein Castle",
-            "description": "Bernstein Castle is a historical building in Bernstein im Burgenland, Austria, first mentioned in the 13th century. Wikipedia",
-            "type": "",
-            "Address ": "Schloßweg 1, 7434 Bernstein, Austria"
-        },
         "Aberystwyth Castle": {
             "label": "Aberystwyth Castle",
             "description": "Aberystwyth Castle is an Edwardian fortress located in Aberystwyth, Ceredigion, Mid Wales that was built during the First Welsh War in the late 13th century. Wikipedia",
@@ -535,12 +539,27 @@
             ],
             "People also search for": []
         },
+        "Bernstein Castle": {
+            "label": "Bernstein Castle",
+            "description": "Bernstein Castle is a historical building in Bernstein im Burgenland, Austria, first mentioned in the 13th century. Wikipedia",
+            "type": "",
+            "Address ": "Schloßweg 1, 7434 Bernstein, Austria"
+        },
         "Burgruine Eppenstein": {
             "label": "Burgruine Eppenstein",
             "description": "Burgruine Eppenstein is a castle in Styria, Austria. Wikipedia",
             "type": "",
             "Address ": [
                 "8741 Eppenstein",
+                " Austria"
+            ]
+        },
+        "Burgruine Mödling": {
+            "label": "Burgruine Mödling",
+            "description": "Burgruine Mödling is a ruined castle in Lower Austria. Wikipedia",
+            "type": "",
+            "Address ": [
+                "2340 Mödling",
                 " Austria"
             ]
         },
@@ -553,15 +572,6 @@
                 " Austria"
             ],
             "People also search for": []
-        },
-        "Burgruine Mödling": {
-            "label": "Burgruine Mödling",
-            "description": "Burgruine Mödling is a ruined castle in Lower Austria. Wikipedia",
-            "type": "",
-            "Address ": [
-                "2340 Mödling",
-                " Austria"
-            ]
         },
         "Burgruine Senftenberg": {
             "label": "Burgruine Senftenberg",
@@ -605,16 +615,16 @@
                 " Germany"
             ]
         },
-        "Burg Festenburg": {
-            "label": "Burg Festenburg",
-            "description": "Burg Festenburg is a castle in Styria, Austria. Wikipedia",
-            "type": ""
-        },
         "Burg Clam": {
             "label": "Burg Clam",
             "description": "Burg Clam is a castle in Upper Austria, Austria. Wikipedia",
             "type": "",
             "Address ": "Sperken 1, 4352 Saxen, Austria"
+        },
+        "Burg Festenburg": {
+            "label": "Burg Festenburg",
+            "description": "Burg Festenburg is a castle in Styria, Austria. Wikipedia",
+            "type": ""
         },
         "Burg Gutenfels": {
             "label": "Gutenfels Castle",
@@ -651,6 +661,16 @@
             "description": "Burgruine Greifenfels is a castle in Carinthia, Austria. Wikipedia",
             "type": ""
         },
+        "Dolwyddelan Castle": {
+            "label": "Dolwyddelan Castle",
+            "description": "Dolwyddelan Castle is a Welsh castle located near Dolwyddelan in Conwy County in North Wales. It is thought to have been built in the early 13th century by Llywelyn the Great, Prince of Gwynedd and North Wales. Wikipedia",
+            "type": ""
+        },
+        "Heimburg in Niederheimbach": {
+            "label": "Heimburg in Niederheimbach",
+            "description": "The Heimburg is a castle in the village of Niederheimbach in Rhineland-Palatinate, Germany. Wikipedia",
+            "type": ""
+        },
         "Knaresborough Castle": {
             "label": "Knaresborough Castle",
             "description": "Knaresborough Castle is a ruined fortress overlooking the River Nidd in the town of Knaresborough, North Yorkshire, England. Wikipedia",
@@ -666,31 +686,16 @@
             ],
             "People also search for": []
         },
-        "Guédelon Castle": {
-            "label": "Guédelon Castle",
-            "description": "Guédelon Castle is a medieval construction project located in Treigny, France. The object of the project is to build a castle using only the techniques and materials used in the Middle Ages. Wikipedia",
-            "type": "Building in France",
-            "Address ": "D955, 89520 Treigny, France",
-            "Phone ": [
-                "+33 3 86 45 66 66"
-            ],
-            "People also search for": []
-        },
-        "Dolwyddelan Castle": {
-            "label": "Dolwyddelan Castle",
-            "description": "Dolwyddelan Castle is a Welsh castle located near Dolwyddelan in Conwy County in North Wales. It is thought to have been built in the early 13th century by Llywelyn the Great, Prince of Gwynedd and North Wales. Wikipedia",
+        "Dunseverick Castle": {
+            "label": "Dunseverick Castle",
+            "description": "Dunseverick Castle is situated in County Antrim, Northern Ireland, near the small village of Dunseverick and the Giant's Causeway. Wikipedia",
             "type": ""
         },
-        "Heimburg in Niederheimbach": {
-            "label": "Heimburg in Niederheimbach",
-            "description": "The Heimburg is a castle in the village of Niederheimbach in Rhineland-Palatinate, Germany. Wikipedia",
-            "type": ""
-        },
-        "Schloss Straßburg": {
-            "label": "Schloss Straßburg",
-            "description": "Schloss Straßburg is a castle in Straßburg, Carinthia, Austria.\nToday the castle hosts changing museum exhibits, and houses several ethnographic collections. Wikipedia",
+        "Sausenburg Castle": {
+            "label": "Sausenburg Castle",
+            "description": "Sausenburg Castle is a ruined German castle on the edge of the Black Forest, just north of the town of Kandern in Baden-Württemberg, between the villages of Sitzenkirch and Malsburg-Marzell. Wikipedia",
             "type": "",
-            "Address ": "Schloßweg 6, 9341 Straßburg, Austria"
+            "People also search for": []
         },
         "Fortress of Miolans": {
             "label": "Fortress of Miolans",
@@ -713,16 +718,16 @@
             ],
             "People also search for": []
         },
-        "Dunseverick Castle": {
-            "label": "Dunseverick Castle",
-            "description": "Dunseverick Castle is situated in County Antrim, Northern Ireland, near the small village of Dunseverick and the Giant's Causeway. Wikipedia",
+        "Braine Castle": {
+            "label": "Braine Castle",
+            "description": "Braine Castle is a castle in Braine-le-Château, Walloon Brabant, Belgium.\nIn 649 the Abbess of Mons St. Waudru ceded her \"land of Ittre\", including Braine, to the Chapter of Mons. Wikipedia",
             "type": ""
         },
-        "Sausenburg Castle": {
-            "label": "Sausenburg Castle",
-            "description": "Sausenburg Castle is a ruined German castle on the edge of the Black Forest, just north of the town of Kandern in Baden-Württemberg, between the villages of Sitzenkirch and Malsburg-Marzell. Wikipedia",
+        "Schloss Straßburg": {
+            "label": "Schloss Straßburg",
+            "description": "Schloss Straßburg is a castle in Straßburg, Carinthia, Austria.\nToday the castle hosts changing museum exhibits, and houses several ethnographic collections. Wikipedia",
             "type": "",
-            "People also search for": []
+            "Address ": "Schloßweg 6, 9341 Straßburg, Austria"
         },
         "Burgruine Fohnsdorf": {
             "label": "Burgruine Fohnsdorf",
@@ -733,26 +738,21 @@
                 " 8753 Fohnsdorf",
                 " Austria"
             ]
-        },
-        "Braine Castle": {
-            "label": "Braine Castle",
-            "description": "Braine Castle is a castle in Braine-le-Château, Walloon Brabant, Belgium.\nIn 649 the Abbess of Mons St. Waudru ceded her \"land of Ittre\", including Braine, to the Chapter of Mons. Wikipedia",
-            "type": ""
         }
     },
     "summary": {
-        "label": 87,
-        "description": 87,
-        "type": 87,
-        "address": 1,
-        "opened": 1,
-        "phone": 1,
-        "people_also_search_for": 1,
-        "function": 1,
-        "see_results_about": 1,
-        "hours": 1,
-        "weather": 1,
-        "local_time": 1
+        "label": {
+            "uri": "http://dbpedia.org/property/label",
+            "count": 87
+        },
+        "description": {
+            "uri": "http://dbpedia.org/property/description",
+            "count": 87
+        },
+        "type": {
+            "uri": "http://dbpedia.org/property/type",
+            "count": 87
+        }
     },
     "infoboxless": [
         "Kavlås Castle",
@@ -768,5 +768,16 @@
         "Burgruine Hohenburg",
         "Painburg",
         "Burgruine Sturmberg"
-    ]
+    ],
+    "Unmapped_Properties": {
+        "address": 1,
+        "opened": 1,
+        "phone": 1,
+        "peopleAlsoSearchFor": 1,
+        "function": 1,
+        "seeResultsAbout": 1,
+        "hours": 1,
+        "weather": 1,
+        "localTime": 1
+    }
 }

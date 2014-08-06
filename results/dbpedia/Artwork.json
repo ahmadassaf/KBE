@@ -38,6 +38,11 @@
             ],
             "People also search for": []
         },
+        "The Ghost of Oyuki": {
+            "label": "The Ghost of Oyuki",
+            "description": "The Ghost of Oyuki is a painting of a female yūrei, by Maruyama Okyo, founder of the Maruyama-Shijô school of painting.\nAccording to an inscription on the painting, Okyo had a mistress in the Tominaga Geisha house. Wikipedia",
+            "type": "Painting"
+        },
         "Danaë (Rembrandt painting)": {
             "label": "Danaë",
             "description": "Danaë is Rembrandt's painting from the collection of Pierre Crozat which from the 18th century resides in the Hermitage Museum, St. Petersburg, Russia. It is a life-sized depiction of the character Danaë from Greek mythology, the mother of Perseus. Wikipedia",
@@ -61,11 +66,6 @@
                 "Oil paint"
             ],
             "Rembrandt artwork": []
-        },
-        "The Ghost of Oyuki": {
-            "label": "The Ghost of Oyuki",
-            "description": "The Ghost of Oyuki is a painting of a female yūrei, by Maruyama Okyo, founder of the Maruyama-Shijô school of painting.\nAccording to an inscription on the painting, Okyo had a mistress in the Tominaga Geisha house. Wikipedia",
-            "type": "Painting"
         },
         "Portrait of a Man (Self Portrait?)": {
             "label": "Portrait of a Man (Self Portrait?)",
@@ -171,6 +171,21 @@
             ],
             "People also search for": []
         },
+        "The Return of the Herd": {
+            "label": "The Return of the Herd",
+            "description": "The Return of the Herd is an oil on wood painting by Pieter Bruegel in 1565. The painting is one in a series of six works, five of which are still intact, that depict different times of the year. Wikipedia",
+            "type": "Painting",
+            "Artist ": [
+                "Pieter Brueghel the Elder"
+            ],
+            "Location ": [
+                "Kunsthistorisches Museum"
+            ],
+            "Created ": [
+                "1565"
+            ],
+            "Related Pieter Brueghel the Elder artwork": []
+        },
         "The Sleeping Gypsy": {
             "label": "The Sleeping Gypsy",
             "description": "The Sleeping Gypsy is an 1897 oil painting by French Naïve artist Henri Rousseau. The fantastical depiction of a lion musing over a sleeping woman on a moonlit night is one of the most recognizable artworks of modern times. Wikipedia",
@@ -194,21 +209,6 @@
                 "Oil paint"
             ],
             "People also search for": []
-        },
-        "The Return of the Herd": {
-            "label": "The Return of the Herd",
-            "description": "The Return of the Herd is an oil on wood painting by Pieter Bruegel in 1565. The painting is one in a series of six works, five of which are still intact, that depict different times of the year. Wikipedia",
-            "type": "Painting",
-            "Artist ": [
-                "Pieter Brueghel the Elder"
-            ],
-            "Location ": [
-                "Kunsthistorisches Museum"
-            ],
-            "Created ": [
-                "1565"
-            ],
-            "Related Pieter Brueghel the Elder artwork": []
         },
         "The Tribute Money (Titian)": {
             "label": "The Tribute Money",
@@ -403,6 +403,17 @@
             ],
             "People also search for": []
         },
+        "Memorial tablet for the lords of Montfoort": {
+            "label": "Memorial tablet for the lords of Montfoort",
+            "description": "The Memorial tablet for the lords of Montfoort is the oldest known surviving painting that was made in the Netherlands. Wikipedia",
+            "type": "Painting",
+            "Location ": [
+                "Rijksmuseum"
+            ],
+            "Media ": [
+                "Panel painting"
+            ]
+        },
         "Portrait of Professor Benjamin H. Rand": {
             "label": "Portrait of Professor Benjamin H. Rand",
             "description": "Portrait of Professor Benjamin H. Rand is an 1874 painting by Thomas Eakins. It is oil on canvas and depicts Benjamin H. Rand, a doctor at Jefferson Medical College who taught Eakins anatomy. Wikipedia",
@@ -426,17 +437,6 @@
                 "Oil paint"
             ],
             "Related Thomas Eakins artwork": []
-        },
-        "Memorial tablet for the lords of Montfoort": {
-            "label": "Memorial tablet for the lords of Montfoort",
-            "description": "The Memorial tablet for the lords of Montfoort is the oldest known surviving painting that was made in the Netherlands. Wikipedia",
-            "type": "Painting",
-            "Location ": [
-                "Rijksmuseum"
-            ],
-            "Media ": [
-                "Panel painting"
-            ]
         },
         "Portrait of a Man (Signorelli)": {
             "label": "Portrait of a Man",
@@ -521,6 +521,14 @@
             ],
             "People also search for": []
         },
+        "Wedding dress of Sarah Ferguson": {
+            "label": "Wedding dress of Sarah Ferguson",
+            "description": "The Wedding dress of Sarah Ferguson was worn by Sarah Ferguson at her wedding to Prince Andrew, Duke of York on 23 July 1986 at Westminster Abbey. Designed by Lindka Cierach, the dress was made from ivory duchesse satin and featured heavy beading. Wikipedia",
+            "type": "",
+            "Created ": [
+                "1986"
+            ]
+        },
         "World War I Memorial Flagpole (Hawkins)": {
             "label": "World War I Memorial Flagpole",
             "description": "World War I Memorial Flagpole is a public artwork by American artist Benjamin Franklin Hawkins located on the lakefront in Milwaukee, Wisconsin, United States. The artwork was made in 1932 from bronze and granite. Wikipedia",
@@ -550,14 +558,6 @@
                 "Oil paint"
             ],
             "People also search for": []
-        },
-        "Wedding dress of Sarah Ferguson": {
-            "label": "Wedding dress of Sarah Ferguson",
-            "description": "The Wedding dress of Sarah Ferguson was worn by Sarah Ferguson at her wedding to Prince Andrew, Duke of York on 23 July 1986 at Westminster Abbey. Designed by Lindka Cierach, the dress was made from ivory duchesse satin and featured heavy beading. Wikipedia",
-            "type": "",
-            "Created ": [
-                "1986"
-            ]
         },
         "Ognissanti Madonna": {
             "label": "Ognissanti Madonna",
@@ -733,21 +733,6 @@
             ],
             "William Hogarth artwork": []
         },
-        "Sutphin Fountain": {
-            "label": "Sutphin Fountain",
-            "description": "The Sutphin Fountain is a built environment located at the Indianapolis Museum of Art, which is near downtown Indianapolis, Indiana. Wikipedia",
-            "type": "Art",
-            "Created ": [
-                "1972"
-            ],
-            "People also search for ": [
-                "Happy-Go-Luckies of Nature and Technology",
-                " Stephanie and Spy",
-                " Emma Willard Memorial",
-                " La Hermana del Hombre Bóveda",
-                " SnowplowMore"
-            ]
-        },
         "The Last Sleep of Arthur in Avalon": {
             "label": "The Last Sleep of Arthur in Avalon",
             "description": "The Last Sleep of Arthur in Avalon is a painting by Edward Burne-Jones, started in 1881. The massive painting measures 279 cm × 650 cm, and is widely considered to be Burne-Jones's magnum opus. Wikipedia",
@@ -773,6 +758,21 @@
                 " Museo de Arte de Ponce"
             ],
             "Edward Burne-Jones artwork": []
+        },
+        "Sutphin Fountain": {
+            "label": "Sutphin Fountain",
+            "description": "The Sutphin Fountain is a built environment located at the Indianapolis Museum of Art, which is near downtown Indianapolis, Indiana. Wikipedia",
+            "type": "Art",
+            "Created ": [
+                "1972"
+            ],
+            "People also search for ": [
+                "Happy-Go-Luckies of Nature and Technology",
+                " Stephanie and Spy",
+                " Emma Willard Memorial",
+                " La Hermana del Hombre Bóveda",
+                " SnowplowMore"
+            ]
         },
         "The Art of Painting": {
             "label": "The Art of Painting",
@@ -914,30 +914,6 @@
             ],
             "People also search for": []
         },
-        "Assumption of the Virgin (Titian)": {
-            "label": "Assumption of the Virgin",
-            "description": "Assumption of the Virgin is a large oil painting by Italian Renaissance artist Titian, executed in 1516–1518. It is located on the high altar in the Basilica di Santa Maria Gloriosa dei Frari in Venice, being the largest altarpiece in the city. Wikipedia",
-            "type": "Painting",
-            "Artist ": [
-                "Titian"
-            ],
-            "Subject ": [
-                "Assumption of Mary"
-            ],
-            "Dimensions ": [
-                "22' 8\" x 11' 10\" (6.9 m x 3.6 m)"
-            ],
-            "Created ": [
-                "1516–1518"
-            ],
-            "Period ": [
-                "Italian Renaissance"
-            ],
-            "Genre ": [
-                "History painting"
-            ],
-            "People also search for": []
-        },
         "Benois Madonna": {
             "label": "Benois Madonna",
             "description": "Madonna and Child with Flowers, otherwise known as the Benois Madonna, could be one of two Madonnas Leonardo da Vinci had commented on having started in October 1478. The other one could be Madonna of the Carnation from Munich. Wikipedia",
@@ -967,6 +943,38 @@
                 " Jesus Christ"
             ],
             "People also search for": []
+        },
+        "Assumption of the Virgin (Titian)": {
+            "label": "Assumption of the Virgin",
+            "description": "Assumption of the Virgin is a large oil painting by Italian Renaissance artist Titian, executed in 1516–1518. It is located on the high altar in the Basilica di Santa Maria Gloriosa dei Frari in Venice, being the largest altarpiece in the city. Wikipedia",
+            "type": "Painting",
+            "Artist ": [
+                "Titian"
+            ],
+            "Subject ": [
+                "Assumption of Mary"
+            ],
+            "Dimensions ": [
+                "22' 8\" x 11' 10\" (6.9 m x 3.6 m)"
+            ],
+            "Created ": [
+                "1516–1518"
+            ],
+            "Period ": [
+                "Italian Renaissance"
+            ],
+            "Genre ": [
+                "History painting"
+            ],
+            "People also search for": []
+        },
+        "Carvings (Indiana State Library)": {
+            "label": "Carvings (Indiana State Library)",
+            "description": "Carvings (Indiana State Library), is a series of bas-relief limestone panels decorating the facade of the Indiana State Library in Indianapolis, Indiana, United States. Wikipedia",
+            "type": "",
+            "Created ": [
+                "1934"
+            ]
         },
         "Castelfranco Madonna": {
             "label": "Castelfranco Madonna",
@@ -998,14 +1006,6 @@
                 "1987"
             ]
         },
-        "Carvings (Indiana State Library)": {
-            "label": "Carvings (Indiana State Library)",
-            "description": "Carvings (Indiana State Library), is a series of bas-relief limestone panels decorating the facade of the Indiana State Library in Indianapolis, Indiana, United States. Wikipedia",
-            "type": "",
-            "Created ": [
-                "1934"
-            ]
-        },
         "Christ in the House of His Parents": {
             "label": "Christ in the House of His Parents",
             "description": "Christ in the House of His Parents is a painting by John Everett Millais depicting the Holy Family in Saint Joseph's carpentry workshop. Wikipedia",
@@ -1024,22 +1024,6 @@
                 " Jesus Christ"
             ],
             "People also search for": []
-        },
-        "For Endless Trees": {
-            "label": "For Endless Trees",
-            "description": "For Endless Trees, or For Endless Trees IV, is a public sculpture by American artist Gary Freeman. It is located in front of the WFYI office building in Indianapolis, Indiana, United States. Wikipedia",
-            "type": "Sculpture",
-            "Artist ": [
-                "Gary Freeman"
-            ],
-            "Created ": [
-                "1991"
-            ],
-            "People also search for ": [
-                "Broken Walrus I",
-                " Monumentalment IV",
-                " Broken Walrus II"
-            ]
         },
         "David (Bernini)": {
             "label": "David",
@@ -1077,6 +1061,22 @@
             ],
             "People also search for": []
         },
+        "For Endless Trees": {
+            "label": "For Endless Trees",
+            "description": "For Endless Trees, or For Endless Trees IV, is a public sculpture by American artist Gary Freeman. It is located in front of the WFYI office building in Indianapolis, Indiana, United States. Wikipedia",
+            "type": "Sculpture",
+            "Artist ": [
+                "Gary Freeman"
+            ],
+            "Created ": [
+                "1991"
+            ],
+            "People also search for ": [
+                "Broken Walrus I",
+                " Monumentalment IV",
+                " Broken Walrus II"
+            ]
+        },
         "Her Secret Is Patience": {
             "label": "Her Secret Is Patience",
             "description": "Her Secret Is Patience is a public art sculpture commission designed by artist Janet Echelman for the city of Phoenix. Wikipedia",
@@ -1091,41 +1091,38 @@
         }
     },
     "summary": {
-        "label": 71,
-        "description": 71,
-        "type": 71,
-        "born": 1,
-        "died": 1,
-        "children": 1,
-        "people_also_search_for": 1,
-        "location": 1,
-        "see_results_about": 1,
-        "address": 1,
-        "created": 1,
-        "artist": 1,
-        "dimensions": 1,
-        "genre": 1,
-        "media": 1,
-        "rembrandt_artwork": 1,
-        "related_sandro_botticelli_artwork": 1,
-        "nicolas_poussin_artwork": 1,
-        "subject": 1,
-        "related_pieter_brueghel_the_elder_artwork": 1,
-        "period": 1,
-        "related_joseph_wright_of_derby_artwork": 1,
-        "related_albrecht_dürer_artwork": 1,
-        "related_gian_lorenzo_bernini_artwork": 1,
-        "related_thomas_eakins_artwork": 1,
-        "related_rené_magritte_artwork": 1,
-        "andy_warhol_artwork": 1,
-        "related_diego_velázquez_artwork": 1,
-        "related_jean-baptiste_camille_corot_artwork": 1,
-        "william_hogarth_artwork": 1,
-        "locations": 1,
-        "edward_burne-jones_artwork": 1,
-        "filippo_lippi_artwork": 1,
-        "periods": 1,
-        "janet_echelman_artwork": 1
+        "label": {
+            "uri": "http://www.w3.org/2000/01/rdf-schema#label",
+            "count": 71
+        },
+        "description": {
+            "uri": "http://dbpedia.org/property/description",
+            "count": 71
+        },
+        "type": {
+            "uri": "http://dbpedia.org/property/type",
+            "count": 71
+        },
+        "location": {
+            "uri": "http://dbpedia.org/property/location",
+            "count": 26
+        },
+        "artist": {
+            "uri": "http://dbpedia.org/property/artist",
+            "count": 50
+        },
+        "dimensions": {
+            "uri": "http://dbpedia.org/property/dimensions",
+            "count": 12
+        },
+        "subject": {
+            "uri": "http://dbpedia.org/property/subject",
+            "count": 12
+        },
+        "period": {
+            "uri": "http://dbpedia.org/property/period",
+            "count": 9
+        }
     },
     "infoboxless": [
         "Post-Impressionism",
@@ -1157,5 +1154,34 @@
         "West Gate",
         "Equipose 14",
         "Hildebrand Monument"
-    ]
+    ],
+    "Unmapped_Properties": {
+        "born": 1,
+        "died": 1,
+        "children": 1,
+        "peopleAlsoSearchFor": 1,
+        "seeResultsAbout": 1,
+        "address": 1,
+        "created": 1,
+        "genre": 1,
+        "media": 1,
+        "rembrandtArtwork": 1,
+        "relatedSandroBotticelliArtwork": 1,
+        "nicolasPoussinArtwork": 1,
+        "relatedPieterBrueghelTheElderArtwork": 1,
+        "relatedJosephWrightOfDerbyArtwork": 1,
+        "relatedAlbrechtDürerArtwork": 1,
+        "relatedGianLorenzoBerniniArtwork": 1,
+        "relatedThomasEakinsArtwork": 1,
+        "relatedRenéMagritteArtwork": 1,
+        "andyWarholArtwork": 1,
+        "relatedDiegoVelázquezArtwork": 1,
+        "relatedJeanBaptisteCamilleCorotArtwork": 1,
+        "williamHogarthArtwork": 1,
+        "locations": 1,
+        "edwardBurneJonesArtwork": 1,
+        "filippoLippiArtwork": 1,
+        "periods": 1,
+        "janetEchelmanArtwork": 1
+    }
 }

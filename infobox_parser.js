@@ -31,9 +31,10 @@ infobox_parser.prototype.parse = function(instance, type, callback) {
 
 	this.cache.getCache(cache_filename, function(error, data) {
 		if (!error && !data)
-			infobox_parser.query(instance, type,cache_filename,function(error, data){
-				callback(null,data);
-			});
+			callback(null,data);
+			// infobox_parser.query(instance, type,cache_filename,function(error, data){
+			// 	callback(null,data);
+			// });
 		else if (!error) callback(null,data);
 	});
 };

@@ -42,15 +42,6 @@
             "Founded ": "May 29, 1969",
             "Recent posts": []
         },
-        "Sveriges Radio": {
-            "label": "Sveriges Radio",
-            "description": "Sveriges Radio AB is Sweden's national publicly funded radio broadcaster. The Swedish public-broadcasting system is in many respects modelled after the one used in the United Kingdom, and Sveriges Radio ... Wikipedia",
-            "type": "",
-            "Founded ": [
-                "1925"
-            ],
-            "People also search for": []
-        },
         "Rede Globo": {
             "label": "Rede Globo",
             "description": "Rede Globo, or simply Globo, is a Brazilian television network, launched by media mogul Roberto Marinho on April 26, 1965. It is owned by media conglomerate Organizações Globo, being by far the largest of its holdings. Wikipedia",
@@ -59,6 +50,15 @@
                 "Roberto Marinho"
             ],
             "Recent posts": []
+        },
+        "Sveriges Radio": {
+            "label": "Sveriges Radio",
+            "description": "Sveriges Radio AB is Sweden's national publicly funded radio broadcaster. The Swedish public-broadcasting system is in many respects modelled after the one used in the United Kingdom, and Sveriges Radio ... Wikipedia",
+            "type": "",
+            "Founded ": [
+                "1925"
+            ],
+            "People also search for": []
         },
         "Télévision Suisse Romande": {
             "label": "Télévision Suisse Romande",
@@ -147,6 +147,12 @@
             "Founded ": "August 31, 1998",
             "People also search for": []
         },
+        "PTEN": {
+            "label": "PTEN",
+            "description": "Phosphatase and tensin homolog is a protein that, in humans, is encoded by the PTEN gene. Mutations of this gene are a step in the development of many cancers. Wikipedia",
+            "type": "",
+            "Related topics": []
+        },
         "Cornerstone Television Network": {
             "label": "Cornerstone Television Inc",
             "description": "",
@@ -165,6 +171,12 @@
                 " Claude Berda"
             ],
             "People also search for": []
+        },
+        "Antenna TV": {
+            "label": "Antenna TV",
+            "description": "Antenna TV is an American digital broadcast television network that is owned by the Tribune Broadcasting subsidiary of the Chicago-based Tribune Company, which also holds a 50% ownership stake in fellow multicast network This TV. Wikipedia",
+            "type": "",
+            "See results about": []
         },
         "Bounce TV": {
             "label": "Bounce TV",
@@ -221,11 +233,11 @@
             "Founded ": "March 1, 1950, Manila, Philippines",
             "People also search for": []
         },
-        "PTEN": {
-            "label": "PTEN",
-            "description": "Phosphatase and tensin homolog is a protein that, in humans, is encoded by the PTEN gene. Mutations of this gene are a step in the development of many cancers. Wikipedia",
+        "Georgian Public Broadcaster": {
+            "label": "Georgian Public Broadcaster",
+            "description": "Georgian Public Broadcaster is the national public broadcaster of Georgia. It started broadcasting radio in 1925, and Georgian TV started broadcasting in 1956. Wikipedia",
             "type": "",
-            "Related topics": []
+            "See results about": []
         },
         "Lebanese Broadcasting Corporation": {
             "label": "Lebanese Broadcasting Corporation",
@@ -239,21 +251,9 @@
             ],
             "People also search for": []
         },
-        "Georgian Public Broadcaster": {
-            "label": "Georgian Public Broadcaster",
-            "description": "Georgian Public Broadcaster is the national public broadcaster of Georgia. It started broadcasting radio in 1925, and Georgian TV started broadcasting in 1956. Wikipedia",
-            "type": "",
-            "See results about": []
-        },
         "Magyar Televízió": {
             "label": "M1",
             "description": "M1 is a Hungarian television channel owned and operated by Magyar Televízió. It is also transmitted in high definition.\nIt is the most watched national channel in Hungary and its transmission receiving is 97%. Wikipedia",
-            "type": "",
-            "See results about": []
-        },
-        "Antenna TV": {
-            "label": "Antenna TV",
-            "description": "Antenna TV is an American digital broadcast television network that is owned by the Tribune Broadcasting subsidiary of the Chicago-based Tribune Company, which also holds a 50% ownership stake in fellow multicast network This TV. Wikipedia",
             "type": "",
             "See results about": []
         },
@@ -265,21 +265,38 @@
         }
     },
     "summary": {
-        "label": 30,
-        "description": 30,
-        "type": 30,
-        "founded": 1,
-        "ceo": 1,
-        "people_also_search_for": 1,
-        "founders": 1,
-        "recent_posts": 1,
-        "founder": 1,
-        "see_results_about": 1,
-        "headquarters": 1,
-        "first_episode": 1,
-        "languages": 1,
-        "customer_service": 1,
-        "related_topics": 1
+        "label": {
+            "uri": "http://www.w3.org/2000/01/rdf-schema#label",
+            "count": 30
+        },
+        "description": {
+            "uri": "http://dbpedia.org/property/description",
+            "count": 30
+        },
+        "type": {
+            "uri": "http://dbpedia.org/property/type",
+            "count": 30
+        },
+        "founded": {
+            "uri": "http://dbpedia.org/property/founded",
+            "count": 10
+        },
+        "ceo": {
+            "uri": "http://dbpedia.org/property/ceo",
+            "count": 3
+        },
+        "founders": {
+            "uri": "http://dbpedia.org/property/founders",
+            "count": 3
+        },
+        "founder": {
+            "uri": "http://dbpedia.org/property/founder",
+            "count": 7
+        },
+        "headquarters": {
+            "uri": "http://dbpedia.org/property/headquarters",
+            "count": 3
+        }
     },
     "infoboxless": [
         "Óčko",
@@ -352,5 +369,14 @@
         "Namibian Broadcasting Corporation",
         "Now Business News Channel",
         "Oe1campus"
-    ]
+    ],
+    "Unmapped_Properties": {
+        "peopleAlsoSearchFor": 1,
+        "recentPosts": 1,
+        "seeResultsAbout": 1,
+        "firstEpisode": 1,
+        "languages": 1,
+        "relatedTopics": 1,
+        "customerService": 1
+    }
 }

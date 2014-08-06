@@ -1,9 +1,15 @@
 {
     "instances": {
-        "Ravenloft": {
-            "label": "Ravenloft",
-            "description": "Ravenloft is a campaign setting for the Dungeons & Dragons roleplaying game. It is an alternate time-space existence known as a pocket dimension called the Demiplane of Dread, which consists of a ... Wikipedia",
-            "type": "",
+        "Tag (game)": {
+            "label": "Tag",
+            "description": "Tag is a playground game that involves one or more players chasing other players in an attempt to \"tag\" or touch them, usually with their hand. There are many variations; most forms have no teams, scores, or equipment. Wikipedia",
+            "type": "Game",
+            "See results about": []
+        },
+        "Truth or Dare?": {
+            "label": "Truth or Dare?",
+            "description": "Truth or Dare? is a party game requiring at least three players. Players are given the choice between answering a question truthfully, or performing a \"dare\", both of which are set by the other players. Wikipedia",
+            "type": "Game",
             "See results about": []
         },
         "Power Grid": {
@@ -19,18 +25,6 @@
             ],
             "Founded ": "October 23, 1992",
             "People also search for": []
-        },
-        "Tag (game)": {
-            "label": "Tag",
-            "description": "Tag is a playground game that involves one or more players chasing other players in an attempt to \"tag\" or touch them, usually with their hand. There are many variations; most forms have no teams, scores, or equipment. Wikipedia",
-            "type": "Game",
-            "See results about": []
-        },
-        "Truth or Dare?": {
-            "label": "Truth or Dare?",
-            "description": "Truth or Dare? is a party game requiring at least three players. Players are given the choice between answering a question truthfully, or performing a \"dare\", both of which are set by the other players. Wikipedia",
-            "type": "Game",
-            "See results about": []
         },
         "Enemy": {
             "label": "Enemy",
@@ -50,23 +44,35 @@
                 "R"
             ],
             "Cast": []
+        },
+        "Ravenloft": {
+            "label": "Ravenloft",
+            "description": "Ravenloft is a campaign setting for the Dungeons & Dragons roleplaying game. It is an alternate time-space existence known as a pocket dimension called the Demiplane of Dread, which consists of a ... Wikipedia",
+            "type": "",
+            "See results about": []
         }
     },
     "summary": {
-        "label": 5,
-        "description": 5,
-        "type": 5,
-        "see_results_about": 1,
-        "stock_price": 1,
-        "headquarters": 1,
-        "founded": 1,
-        "people_also_search_for": 1,
-        "release_date": 1,
-        "director": 1,
-        "story_by": 1,
-        "adapted_from": 1,
-        "mpaa_rating": 1,
-        "cast": 1
+        "label": {
+            "uri": "http://www.w3.org/2000/01/rdf-schema#label",
+            "count": 5
+        },
+        "description": {
+            "uri": "http://fr.dbpedia.org/ontology/abstract",
+            "count": 5
+        },
+        "type": {
+            "uri": "http://dbpedia.org/property/type",
+            "count": 5
+        },
+        "releaseDate": {
+            "uri": "http://dbpedia.org/property/releaseDate",
+            "count": 1
+        },
+        "director": {
+            "uri": "http://dbpedia.org/property/director",
+            "count": 1
+        }
     },
     "infoboxless": [
         "Alhambra (board game)",
@@ -164,5 +170,16 @@
         "Assassin (game)",
         "Betrayal at House on the Hill",
         "Blackmoor"
-    ]
+    ],
+    "Unmapped_Properties": {
+        "seeResultsAbout": 1,
+        "stockPrice": 1,
+        "headquarters": 1,
+        "founded": 1,
+        "peopleAlsoSearchFor": 1,
+        "storyBy": 1,
+        "adaptedFrom": 1,
+        "mpaaRating": 1,
+        "cast": 1
+    }
 }

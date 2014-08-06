@@ -19,17 +19,17 @@
                 "Czech Republic"
             ]
         },
-        "1. FC Eschborn": {
-            "label": "1. FC Eschborn",
-            "description": "",
-            "type": "",
-            "People also search for": []
-        },
         "1. FC Heidenheim": {
             "label": "1. FC Heidenheim",
             "description": "1. FC Heidenheim 1846 is a German association football club from the city of Heidenheim, Baden-Württemberg. Wikipedia",
             "type": "",
             "Founded ": "August 14, 1846"
+        },
+        "1. FC Eschborn": {
+            "label": "1. FC Eschborn",
+            "description": "",
+            "type": "",
+            "People also search for": []
         },
         "1. FC Pforzheim": {
             "label": "1. FC Pforzheim",
@@ -65,15 +65,6 @@
                 "Liga I"
             ]
         },
-        "AC Horsens": {
-            "label": "AC Horsens",
-            "description": "AC Horsens is a professional Danish football team, playing in the Danish 1st Division. They play on Casa Arena Horsens in Horsens. The club was founded in 1994, as a superstructure on Horsens fS and the merger of Dagnæs IF and B 1940; FC Horsens. Wikipedia",
-            "type": "",
-            "Founded ": "January 1, 1994",
-            "League ": [
-                "Danish Superliga"
-            ]
-        },
         "AC Arles-Avignon": {
             "label": "AC Arles-Avignon",
             "description": "Athlétic Club Arles-Avignon is a French association football club originally based in Arles. The club was founded in 1912 as a result of a merger and was formerly known as Athlétic Club Arles, but in ... Wikipedia",
@@ -85,6 +76,15 @@
                 "Ligue 2"
             ],
             "Roster": []
+        },
+        "AC Horsens": {
+            "label": "AC Horsens",
+            "description": "AC Horsens is a professional Danish football team, playing in the Danish 1st Division. They play on Casa Arena Horsens in Horsens. The club was founded in 1994, as a superstructure on Horsens fS and the merger of Dagnæs IF and B 1940; FC Horsens. Wikipedia",
+            "type": "",
+            "Founded ": "January 1, 1994",
+            "League ": [
+                "Danish Superliga"
+            ]
         },
         "AD Arganda": {
             "label": "AD Arganda",
@@ -179,6 +179,12 @@
                 "Ligue 2"
             ]
         },
+        "Argentino de Quilmes": {
+            "label": "Club Atlético Argentino de Quilmes",
+            "description": "",
+            "type": "",
+            "People also search for": []
+        },
         "Atlanta Thrashers": {
             "label": "Atlanta Thrashers",
             "description": "The Atlanta Thrashers were a professional ice hockey team based in Atlanta, Georgia, United States. Atlanta was granted a franchise in the National Hockey League on June 25, 1997, and became the league's ... Wikipedia",
@@ -196,12 +202,6 @@
                 "Eastern Conference"
             ],
             "Roster": []
-        },
-        "Argentino de Quilmes": {
-            "label": "Club Atlético Argentino de Quilmes",
-            "description": "",
-            "type": "",
-            "People also search for": []
         },
         "B68 Toftir": {
             "label": "B68 Toftir",
@@ -485,12 +485,6 @@
                 "1848"
             ]
         },
-        "FC Anker Wismar": {
-            "label": "FC Anker Wismar",
-            "description": "FC Anker Wismar is a German association football club based in Wismar, Germany, currently playing in the NOFV-Oberliga Nord. Wikipedia",
-            "type": "",
-            "Founded ": "June 12, 1997"
-        },
         "Evian Thonon Gaillard F.C.": {
             "label": "Evian Thonon Gaillard F.C.",
             "description": "Évian Thonon Gaillard Football Club is a French association football club originally based in Gaillard near the Swiss border and the city of Geneva. In 2007, the club moved to Thonon-les-Bains. Wikipedia",
@@ -508,6 +502,12 @@
                 "Pascal Dupraz"
             ],
             "Roster": []
+        },
+        "FC Anker Wismar": {
+            "label": "FC Anker Wismar",
+            "description": "FC Anker Wismar is a German association football club based in Wismar, Germany, currently playing in the NOFV-Oberliga Nord. Wikipedia",
+            "type": "",
+            "Founded ": "June 12, 1997"
         },
         "FC Anzhi Makhachkala": {
             "label": "FC Anzhi Makhachkala",
@@ -599,14 +599,6 @@
                 "Ukrainian Premier League"
             ]
         },
-        "FC MSA Dolní Benešov": {
-            "label": "FC MSA Dolní Benešov",
-            "description": "FC MSA Dolní Benešov is a Czech football club located in the village of Dolní Benešov in the Moravian–Silesian Region. It currently plays in the Czech Fourth Division. Wikipedia",
-            "type": "",
-            "Founded ": [
-                "1926"
-            ]
-        },
         "FC Lustenau 07": {
             "label": "FC Lustenau 07",
             "description": "FC Lustenau 07 was an Austrian association football club from Lustenau. They currently play in the Austrian Football First League. Wikipedia",
@@ -616,6 +608,14 @@
             ],
             "League ": [
                 "Austrian Football First League"
+            ]
+        },
+        "FC MSA Dolní Benešov": {
+            "label": "FC MSA Dolní Benešov",
+            "description": "FC MSA Dolní Benešov is a Czech football club located in the village of Dolní Benešov in the Moravian–Silesian Region. It currently plays in the Czech Fourth Division. Wikipedia",
+            "type": "",
+            "Founded ": [
+                "1926"
             ]
         },
         "FC Malamuk": {
@@ -717,14 +717,6 @@
             "type": "",
             "Founded ": "October 1, 1928"
         },
-        "FC Wohlen": {
-            "label": "FC Wohlen",
-            "description": "FC Wohlen is a Swiss football club based in the town Wohlen in Canton Aargau. They play in the Challenge League, the second highest league in the country. Wikipedia",
-            "type": "",
-            "Founded ": [
-                "1904"
-            ]
-        },
         "FC Viktoria Plzeň": {
             "label": "FC Viktoria Plzeň",
             "description": "FC Viktoria Plzeň is a Czech professional football club based in Plzeň. They currently play in the Gambrinus liga, the top division of football in the country. Wikipedia",
@@ -740,6 +732,14 @@
             ],
             "League ": [
                 "Gambrinus liga"
+            ]
+        },
+        "FC Wohlen": {
+            "label": "FC Wohlen",
+            "description": "FC Wohlen is a Swiss football club based in the town Wohlen in Canton Aargau. They play in the Challenge League, the second highest league in the country. Wikipedia",
+            "type": "",
+            "Founded ": [
+                "1904"
             ]
         },
         "FC Zenit Čáslav": {
@@ -825,6 +825,14 @@
                 "Premier League of Bosnia and Herzegovina"
             ]
         },
+        "FK Pěnčín-Turnov": {
+            "label": "FK Pěnčín-Turnov",
+            "description": "FK Pěnčín-Turnov is a Czech football club located in Turnov. It currently plays in Divize C, which is in the Czech Fourth Division. Wikipedia",
+            "type": "",
+            "Founded ": [
+                "2004"
+            ]
+        },
         "FK Renova": {
             "label": "FK Renova",
             "description": "FK Renova is a football club based in Džepčište, Republic of Macedonia playing in the Macedonian First League. Wikipedia",
@@ -837,14 +845,6 @@
             ],
             "League ": [
                 "First Macedonian Football League"
-            ]
-        },
-        "FK Pěnčín-Turnov": {
-            "label": "FK Pěnčín-Turnov",
-            "description": "FK Pěnčín-Turnov is a Czech football club located in Turnov. It currently plays in Divize C, which is in the Czech Fourth Division. Wikipedia",
-            "type": "",
-            "Founded ": [
-                "2004"
             ]
         },
         "FK Senica": {
@@ -906,28 +906,62 @@
         }
     },
     "summary": {
-        "label": 90,
-        "description": 90,
-        "type": 90,
-        "founded": 1,
-        "location": 1,
-        "people_also_search_for": 1,
-        "league": 1,
-        "roster": 1,
-        "see_results_about": 1,
-        "captain": 1,
-        "division": 1,
-        "conference": 1,
-        "arena/stadium": 1,
-        "manager": 1,
-        "training_ground": 1,
-        "leagues": 1,
-        "mascots": 1,
-        "awards": 1,
-        "locations": 1,
-        "nominations": 1,
-        "coach": 1,
-        "stanley_cup_wins": 1
+        "label": {
+            "uri": "http://dbpedia.org/property/label",
+            "count": 90
+        },
+        "description": {
+            "uri": "http://purl.org/dc/elements/1.1/description",
+            "count": 90
+        },
+        "type": {
+            "uri": "http://dbpedia.org/property/type",
+            "count": 90
+        },
+        "founded": {
+            "uri": "http://dbpedia.org/property/founded",
+            "count": 80
+        },
+        "location": {
+            "uri": "http://dbpedia.org/property/location",
+            "count": 7
+        },
+        "league": {
+            "uri": "http://dbpedia.org/property/league",
+            "count": 32
+        },
+        "captain": {
+            "uri": "http://dbpedia.org/property/captain",
+            "count": 2
+        },
+        "division": {
+            "uri": "http://dbpedia.org/property/division",
+            "count": 2
+        },
+        "conference": {
+            "uri": "http://dbpedia.org/property/conference",
+            "count": 1
+        },
+        "manager": {
+            "uri": "http://dbpedia.org/property/a/manager",
+            "count": 5
+        },
+        "leagues": {
+            "uri": "http://dbpedia.org/property/leagues",
+            "count": 2
+        },
+        "mascots": {
+            "uri": "http://dbpedia.org/property/mascots",
+            "count": 1
+        },
+        "awards": {
+            "uri": "http://dbpedia.org/property/awards",
+            "count": 2
+        },
+        "coach": {
+            "uri": "http://dbpedia.org/property/gm/coach",
+            "count": 1
+        }
     },
     "infoboxless": [
         "A.D. Fafe",
@@ -940,5 +974,15 @@
         "FC Dosta Bystrc-Kníničky",
         "FK Mutěnice",
         "Farsley Celtic A.F.C."
-    ]
+    ],
+    "Unmapped_Properties": {
+        "peopleAlsoSearchFor": 1,
+        "roster": 1,
+        "seeResultsAbout": 1,
+        "arena/stadium": 1,
+        "trainingGround": 1,
+        "locations": 1,
+        "nominations": 1,
+        "stanleyCupWins": 1
+    }
 }

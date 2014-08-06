@@ -1,12 +1,5 @@
 {
     "instances": {
-        "Championship Gaming Series": {
-            "label": "Championship Gaming Series",
-            "description": "The Championship Gaming Series was an international electronic sports league based in the United States of America, though it had expanded to every continent except Antarctica for Season Two before being abruptly discontinued. Wikipedia",
-            "type": "TV series",
-            "First episode ": "July 9, 2007",
-            "Cast": []
-        },
         "Cyberathlete Professional League": {
             "label": "Cyberathlete Professional League",
             "description": "The Cyberathlete Professional League, founded by Angel Munoz on June 27, 1997, is a professional sports tournament organization specializing in computer and console video game competitions. Wikipedia",
@@ -23,20 +16,44 @@
                 "Sundance DiGiovanni"
             ],
             "People also search for": []
+        },
+        "Championship Gaming Series": {
+            "label": "Championship Gaming Series",
+            "description": "The Championship Gaming Series was an international electronic sports league based in the United States of America, though it had expanded to every continent except Antarctica for Season Two before being abruptly discontinued. Wikipedia",
+            "type": "TV series",
+            "First episode ": "July 9, 2007",
+            "Cast": []
         }
     },
     "summary": {
-        "label": 3,
-        "description": 3,
-        "type": 3,
-        "first_episode": 1,
-        "cast": 1,
-        "founded": 1,
-        "ceo": 1,
-        "people_also_search_for": 1
+        "label": {
+            "uri": "http://www.w3.org/2000/01/rdf-schema#label",
+            "count": 3
+        },
+        "description": {
+            "uri": "http://fr.dbpedia.org/ontology/abstract",
+            "count": 3
+        },
+        "type": {
+            "uri": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+            "count": 3
+        },
+        "founded": {
+            "uri": "http://dbpedia.org/property/founded",
+            "count": 1
+        },
+        "ceo": {
+            "uri": "http://dbpedia.org/property/ceo",
+            "count": 1
+        }
     },
     "infoboxless": [
         "Evolution Championship Series",
         "West Texas Gamers"
-    ]
+    ],
+    "Unmapped_Properties": {
+        "peopleAlsoSearchFor": 1,
+        "firstEpisode": 1,
+        "cast": 1
+    }
 }

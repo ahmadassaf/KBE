@@ -9,19 +9,6 @@
             ],
             "People also search for": []
         },
-        "Internet Systems Consortium": {
-            "label": "Internet Systems Consortium",
-            "description": "Internet Systems Consortium, Inc., also known as ISC, is a Delaware-registered, 501 public benefit non-profit corporation dedicated to supporting the infrastructure of the universal connected self-organizing ... Wikipedia",
-            "type": "Non-profit",
-            "Founded ": [
-                "1994"
-            ],
-            "Founders ": [
-                "Paul Vixie",
-                " Rick Adams",
-                " Carl Malamud"
-            ]
-        },
         "Compassion International": {
             "label": "Compassion International",
             "description": "Compassion International is a Christian child sponsorship organization dedicated to the long-term development of children living in poverty around the world. Wikipedia",
@@ -46,17 +33,18 @@
             ],
             "Recent posts": []
         },
-        "Mars Society": {
-            "label": "Mars Society",
-            "description": "The Mars Society is space advocacy non-profit organization dedicated to promoting the human exploration and settlement of the planet Mars. Wikipedia",
+        "Internet Systems Consortium": {
+            "label": "Internet Systems Consortium",
+            "description": "Internet Systems Consortium, Inc., also known as ISC, is a Delaware-registered, 501 public benefit non-profit corporation dedicated to supporting the infrastructure of the universal connected self-organizing ... Wikipedia",
             "type": "Non-profit",
-            "Founder ": [
-                "Robert Zubrin"
-            ],
             "Founded ": [
-                "1998"
+                "1994"
             ],
-            "People also search for": []
+            "Founders ": [
+                "Paul Vixie",
+                " Rick Adams",
+                " Carl Malamud"
+            ]
         },
         "James Randi Educational Foundation": {
             "label": "James Randi Educational Foundation",
@@ -81,6 +69,18 @@
             "Founders ": [
                 "Yigal Carmon",
                 " Meyrav Wurmser"
+            ],
+            "People also search for": []
+        },
+        "Mars Society": {
+            "label": "Mars Society",
+            "description": "The Mars Society is space advocacy non-profit organization dedicated to promoting the human exploration and settlement of the planet Mars. Wikipedia",
+            "type": "Non-profit",
+            "Founder ": [
+                "Robert Zubrin"
+            ],
+            "Founded ": [
+                "1998"
             ],
             "People also search for": []
         },
@@ -134,29 +134,6 @@
             ],
             "People also search for": []
         },
-        "World Monuments Fund": {
-            "label": "World Monuments Fund",
-            "description": "World Monuments Fund is a private, international, non-profit organization dedicated to the preservation of historic architecture and cultural heritage sites around the world through fieldwork, advocacy, grantmaking, education, and training. Wikipedia",
-            "type": "Non-profit",
-            "Tax ID ": [
-                "13-2571900"
-            ],
-            "Founded ": [
-                "1965"
-            ],
-            "Nonprofit category ": [
-                "Historical Societies and Related Activities"
-            ],
-            "Tax deductibility code ": [
-                "501(c)(3)"
-            ],
-            "Assets ": [
-                "57.27 million USD (2011)"
-            ],
-            "Income ": [
-                "26.65 million USD (2011)"
-            ]
-        },
         "The Planetary Society": {
             "label": "The Planetary Society",
             "description": "The Planetary Society is an American-based non-government, nonprofit organization supported by more than forty thousand international members; anyone can join. Wikipedia",
@@ -182,6 +159,29 @@
                 " Bruce C. Murray"
             ],
             "Recent posts": []
+        },
+        "World Monuments Fund": {
+            "label": "World Monuments Fund",
+            "description": "World Monuments Fund is a private, international, non-profit organization dedicated to the preservation of historic architecture and cultural heritage sites around the world through fieldwork, advocacy, grantmaking, education, and training. Wikipedia",
+            "type": "Non-profit",
+            "Tax ID ": [
+                "13-2571900"
+            ],
+            "Founded ": [
+                "1965"
+            ],
+            "Nonprofit category ": [
+                "Historical Societies and Related Activities"
+            ],
+            "Tax deductibility code ": [
+                "501(c)(3)"
+            ],
+            "Assets ": [
+                "57.27 million USD (2011)"
+            ],
+            "Income ": [
+                "26.65 million USD (2011)"
+            ]
         },
         "Bill & Melinda Gates Foundation": {
             "label": "Bill & Melinda Gates Foundation",
@@ -449,6 +449,20 @@
             ],
             "People also search for": []
         },
+        "Boston Vegetarian Society": {
+            "label": "Boston Vegetarian Society",
+            "description": "",
+            "type": "",
+            "People also search for": []
+        },
+        "Carbonfund.org": {
+            "label": "Carbonfund.org",
+            "description": "The Carbonfund.org Foundation is a 501 not-for-profit organization based in Silver Spring, MD that provides carbon offsetting and greenhouse gas reduction options to individuals, businesses, and organizations. Wikipedia",
+            "type": "Not-for-profit organization",
+            "Founded ": [
+                "2003"
+            ]
+        },
         "Carnegie Corporation of New York": {
             "label": "Carnegie Corporation of New York",
             "description": "Carnegie Corporation of New York, which was established by Andrew Carnegie in 1911 \"to promote the advancement and diffusion of knowledge and understanding\", is one of the oldest, largest and most influential of American foundations. Wikipedia",
@@ -471,20 +485,6 @@
             "Assets ": [
                 "2.548 billion USD (2011)"
             ],
-            "People also search for": []
-        },
-        "Carbonfund.org": {
-            "label": "Carbonfund.org",
-            "description": "The Carbonfund.org Foundation is a 501 not-for-profit organization based in Silver Spring, MD that provides carbon offsetting and greenhouse gas reduction options to individuals, businesses, and organizations. Wikipedia",
-            "type": "Not-for-profit organization",
-            "Founded ": [
-                "2003"
-            ]
-        },
-        "Boston Vegetarian Society": {
-            "label": "Boston Vegetarian Society",
-            "description": "",
-            "type": "",
             "People also search for": []
         },
         "Carter Center": {
@@ -575,11 +575,6 @@
             "description": "",
             "type": ""
         },
-        "Community Foundation of the Eastern Shore": {
-            "label": "Community Foundation of the Eastern Shore",
-            "description": "",
-            "type": ""
-        },
         "Civitan International": {
             "label": "Civitan International",
             "description": "Civitan International, based in Birmingham, Alabama, is an association of community service clubs founded in 1917. Wikipedia",
@@ -590,6 +585,11 @@
             "Founded ": [
                 "1917"
             ]
+        },
+        "Community Foundation of the Eastern Shore": {
+            "label": "Community Foundation of the Eastern Shore",
+            "description": "",
+            "type": ""
         },
         "Council of the Southern Mountains": {
             "label": "Council of the Southern Mountains",
@@ -732,22 +732,42 @@
         }
     },
     "summary": {
-        "label": 51,
-        "description": 51,
-        "type": 51,
-        "founded": 1,
-        "people_also_search_for": 1,
-        "founders": 1,
-        "tax_id": 1,
-        "tax_deductibility_code": 1,
-        "ceo": 1,
-        "nonprofit_category": 1,
-        "assets": 1,
-        "income": 1,
-        "recent_posts": 1,
-        "founder": 1,
-        "address": 1,
-        "hours": 1
+        "label": {
+            "uri": "http://dbpedia.org/property/label",
+            "count": 51
+        },
+        "description": {
+            "uri": "http://fr.dbpedia.org/ontology/abstract",
+            "count": 51
+        },
+        "type": {
+            "uri": "http://dbpedia.org/property/type",
+            "count": 51
+        },
+        "founded": {
+            "uri": "http://dbpedia.org/property/founded",
+            "count": 39
+        },
+        "taxId": {
+            "uri": "http://dbpedia.org/property/taxId",
+            "count": 14
+        },
+        "ceo": {
+            "uri": "http://dbpedia.org/property/ceo",
+            "count": 5
+        },
+        "founders": {
+            "uri": "http://dbpedia.org/property/founders",
+            "count": 8
+        },
+        "founder": {
+            "uri": "http://dbpedia.org/property/founder",
+            "count": 12
+        },
+        "address": {
+            "uri": "http://dbpedia.org/property/address",
+            "count": 1
+        }
     },
     "infoboxless": [
         "BUNDjugend",
@@ -799,5 +819,14 @@
         "Family Research Institute",
         "Fight Forever Foundation",
         "Fisher House Foundation"
-    ]
+    ],
+    "Unmapped_Properties": {
+        "peopleAlsoSearchFor": 1,
+        "taxDeductibilityCode": 1,
+        "nonprofitCategory": 1,
+        "assets": 1,
+        "income": 1,
+        "recentPosts": 1,
+        "hours": 1
+    }
 }

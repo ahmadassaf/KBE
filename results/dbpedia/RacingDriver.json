@@ -21,29 +21,6 @@
             ],
             "People also search for": []
         },
-        "Danica Patrick": {
-            "label": "Danica Patrick",
-            "description": "Danica Sue Patrick is an American auto racing driver, model and advertising spokeswoman. She is the most successful woman in the history of American open-wheel racing—her win in the 2008 Indy Japan ... Wikipedia",
-            "type": "Model",
-            "Born ": "March 25, 1982 (age 32), Beloit, Wisconsin, United States",
-            "Height ": [
-                "5' 2\" (1.57 m)"
-            ],
-            "Full name ": [
-                "Danica Sue Patrick"
-            ],
-            "Spouse ": [
-                "Paul Edward Hospenthal (m. 2005–2013)"
-            ],
-            "Salary ": [
-                "12 million USD (2011)"
-            ],
-            "Parents ": [
-                "T.J. Patrick",
-                " Bev Patrick"
-            ],
-            "People also search for": []
-        },
         "Dale Earnhardt, Jr.": {
             "label": "Dale Earnhardt, Jr.",
             "description": "Ralph Dale Earnhardt, Jr. is an American stock car racing driver and team owner. He is the son of NASCAR Hall of Famer Dale Earnhardt, Sr. He is also the grandson of both NASCAR driver Ralph Earnhardt ... Wikipedia",
@@ -74,11 +51,57 @@
             "Recent posts": [],
             "People also search for": []
         },
+        "Danica Patrick": {
+            "label": "Danica Patrick",
+            "description": "Danica Sue Patrick is an American auto racing driver, model and advertising spokeswoman. She is the most successful woman in the history of American open-wheel racing—her win in the 2008 Indy Japan ... Wikipedia",
+            "type": "Model",
+            "Born ": "March 25, 1982 (age 32), Beloit, Wisconsin, United States",
+            "Height ": [
+                "5' 2\" (1.57 m)"
+            ],
+            "Full name ": [
+                "Danica Sue Patrick"
+            ],
+            "Spouse ": [
+                "Paul Edward Hospenthal (m. 2005–2013)"
+            ],
+            "Salary ": [
+                "12 million USD (2011)"
+            ],
+            "Parents ": [
+                "T.J. Patrick",
+                " Bev Patrick"
+            ],
+            "People also search for": []
+        },
         "Adrián Campos": {
             "label": "Adrián Campos",
             "description": "Adrián Campos Suñer is a retired Formula One driver from Spain. He participated in 21 Grands Prix, debuting on 12 April 1987, without scoring a championship point. He later moved into team management, with more success. Wikipedia",
             "type": "Race car driver",
             "Born ": "June 17, 1960 (age 53), Valencia, Spain",
+            "People also search for": []
+        },
+        "Dario Franchitti": {
+            "label": "Dario Franchitti",
+            "description": "George Dario Marino Franchitti is a British racing driver from Scotland. Now retired, he won the IndyCar Series four times; in 2007, and three titles consecutively between 2009 and 2011. Wikipedia",
+            "type": "Race car driver",
+            "Born ": "May 19, 1973 (age 40), Bathgate, United Kingdom",
+            "Nationality ": [
+                "British"
+            ],
+            "Height ": [
+                "5' 9\" (1.75 m)"
+            ],
+            "Spouse ": [
+                "Ashley Judd (m. 2001–2013)"
+            ],
+            "Parents ": [
+                "Marina Franchitti",
+                " George Franchitti"
+            ],
+            "Siblings ": [
+                "Marino Franchitti"
+            ],
             "People also search for": []
         },
         "Al Herman": {
@@ -107,6 +130,19 @@
             ],
             "Children ": [
                 "Christian Jones"
+            ],
+            "People also search for": []
+        },
+        "Hiroki Yoshimoto": {
+            "label": "Hiroki Yoshimoto",
+            "description": "Hiroki Yoshimoto is a Japanese race car driver. He raced in the 2005 GP2 Series for the BCN Competicion team, alongside the Venezuelan E. J. Viso. For 2006 he was initially teamed with the more experienced Timo Glock of Germany. Wikipedia",
+            "type": "Race car driver",
+            "Born ": "September 2, 1980 (age 33), Osaka, Osaka Prefecture, Japan",
+            "Record label ": [
+                "Giza Studio"
+            ],
+            "Music group ": [
+                "doa"
             ],
             "People also search for": []
         },
@@ -880,68 +916,49 @@
             "Born ": "October 2, 1919, The Hague, Netherlands",
             "Died ": "December 26, 1992, Leiden, Netherlands",
             "People also search for": []
-        },
-        "Hiroki Yoshimoto": {
-            "label": "Hiroki Yoshimoto",
-            "description": "Hiroki Yoshimoto is a Japanese race car driver. He raced in the 2005 GP2 Series for the BCN Competicion team, alongside the Venezuelan E. J. Viso. For 2006 he was initially teamed with the more experienced Timo Glock of Germany. Wikipedia",
-            "type": "Race car driver",
-            "Born ": "September 2, 1980 (age 33), Osaka, Osaka Prefecture, Japan",
-            "Record label ": [
-                "Giza Studio"
-            ],
-            "Music group ": [
-                "doa"
-            ],
-            "People also search for": []
-        },
-        "Dario Franchitti": {
-            "label": "Dario Franchitti",
-            "description": "George Dario Marino Franchitti is a British racing driver from Scotland. Now retired, he won the IndyCar Series four times; in 2007, and three titles consecutively between 2009 and 2011. Wikipedia",
-            "type": "Race car driver",
-            "Born ": "May 19, 1973 (age 40), Bathgate, United Kingdom",
-            "Nationality ": [
-                "British"
-            ],
-            "Height ": [
-                "5' 9\" (1.75 m)"
-            ],
-            "Spouse ": [
-                "Ashley Judd (m. 2001–2013)"
-            ],
-            "Parents ": [
-                "Marina Franchitti",
-                " George Franchitti"
-            ],
-            "Siblings ": [
-                "Marino Franchitti"
-            ],
-            "People also search for": []
         }
     },
     "summary": {
-        "label": 93,
-        "description": 93,
-        "type": 93,
-        "born": 1,
-        "siblings": 1,
-        "people_also_search_for": 1,
-        "died": 1,
-        "children": 1,
-        "height": 1,
-        "full_name": 1,
-        "spouse": 1,
-        "salary": 1,
-        "parents": 1,
-        "nationality": 1,
-        "tv_shows": 1,
-        "education": 1,
-        "recent_posts": 1,
-        "see_results_about": 1,
-        "movies": 1,
-        "books": 1,
-        "movies_and_tv_shows": 1,
-        "record_label": 1,
-        "music_group": 1
+        "label": {
+            "uri": "http://dbpedia.org/property/label",
+            "count": 93
+        },
+        "description": {
+            "uri": "http://dbpedia.org/property/description",
+            "count": 93
+        },
+        "type": {
+            "uri": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+            "count": 93
+        },
+        "died": {
+            "uri": "http://dbpedia.org/property/died",
+            "count": 52
+        },
+        "children": {
+            "uri": "http://dbpedia.org/property/children",
+            "count": 12
+        },
+        "nationality": {
+            "uri": "http://dbpedia.org/property/nationality",
+            "count": 4
+        },
+        "parents": {
+            "uri": "http://dbpedia.org/property/parents",
+            "count": 7
+        },
+        "education": {
+            "uri": "http://dbpedia.org/property/education",
+            "count": 5
+        },
+        "height": {
+            "uri": "http://dbpedia.org/property/height",
+            "count": 5
+        },
+        "spouse": {
+            "uri": "http://dbpedia.org/property/spouse",
+            "count": 9
+        }
     },
     "infoboxless": [
         "A. J. Foyt",
@@ -951,5 +968,20 @@
         "Chris Irwin",
         "Hans Klenk",
         "Hans Stuck"
-    ]
+    ],
+    "Unmapped_Properties": {
+        "born": 1,
+        "siblings": 1,
+        "peopleAlsoSearchFor": 1,
+        "tvShows": 1,
+        "recentPosts": 1,
+        "fullName": 1,
+        "salary": 1,
+        "recordLabel": 1,
+        "musicGroup": 1,
+        "seeResultsAbout": 1,
+        "movies": 1,
+        "books": 1,
+        "moviesAndTvShows": 1
+    }
 }

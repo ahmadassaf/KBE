@@ -12,15 +12,15 @@
             "type": "Gene",
             "Related topics": []
         },
-        "Binding immunoglobulin protein": {
-            "label": "Binding immunoglobulin protein",
-            "description": "Binding immunoglobulin protein also known as 78 kDa glucose-regulated protein or heat shock 70 kDa protein 5 is a protein that in humans is encoded by the HSPA5 gene. Wikipedia",
-            "type": "",
-            "Related topics": []
-        },
         "Calcitonin gene-related peptide": {
             "label": "Calcitonin gene-related peptide",
             "description": "Calcitonin gene related peptide is a member of the calcitonin family of peptides, which in humans exists in two forms, α-CGRP and β-CGRP. α-CGRP is a 37-amino acid peptide and is formed from the ... Wikipedia",
+            "type": "",
+            "Related topics": []
+        },
+        "Binding immunoglobulin protein": {
+            "label": "Binding immunoglobulin protein",
+            "description": "Binding immunoglobulin protein also known as 78 kDa glucose-regulated protein or heat shock 70 kDa protein 5 is a protein that in humans is encoded by the HSPA5 gene. Wikipedia",
             "type": "",
             "Related topics": []
         },
@@ -51,6 +51,18 @@
                 "Lactic acid/Ascorbic acid/Thiamine/Pyridoxine/Vitamin a/.alpha.-tocopherol/Folic acid/Collagenase/Riboflavin/Cholecalciferol/Niacinamide"
             ],
             "People also search for": []
+        },
+        "Cystatin C": {
+            "label": "Cystatin C",
+            "description": "Cystatin C or cystatin 3, a protein encoded by the CST3 gene, is mainly used as a biomarker of kidney function. Recently, it has been studied for its role in predicting new-onset or deteriorating cardiovascular disease. Wikipedia",
+            "type": "Protein",
+            "Related topics": []
+        },
+        "DNA clamp": {
+            "label": "DNA clamp",
+            "description": "A DNA clamp, also known as a sliding clamp, is a protein fold that serves as a processivity-promoting factor in DNA replication. Wikipedia",
+            "type": "",
+            "Related topics": []
         },
         "Enkephalin": {
             "label": "Enkephalin",
@@ -123,16 +135,16 @@
             "type": "",
             "See results about": []
         },
-        "NF-κB": {
-            "label": "NF-κB",
-            "description": "NF-κB is a protein complex that controls transcription of DNA. NF-κB is found in almost all animal cell types and is involved in cellular responses to stimuli such as stress, cytokines, free radicals, ... Wikipedia",
-            "type": ""
-        },
         "Microphthalmia-associated transcription factor": {
             "label": "Microphthalmia-associated transcription factor",
             "description": "Microphthalmia-associated transcription factor is a basic helix-loop-helix leucine zipper transcription factor involved in melanocyte and osteoclast development. MITF is the most characterized member of the MIT family. Wikipedia",
             "type": "",
             "Related topics": []
+        },
+        "NF-κB": {
+            "label": "NF-κB",
+            "description": "NF-κB is a protein complex that controls transcription of DNA. NF-κB is found in almost all animal cell types and is involved in cellular responses to stimuli such as stress, cytokines, free radicals, ... Wikipedia",
+            "type": ""
         },
         "Neprilysin": {
             "label": "Neprilysin",
@@ -146,28 +158,28 @@
             "type": "",
             "Related topics": []
         },
-        "Pikachurin": {
-            "label": "Pikachurin",
-            "description": "Pikachurin, also known as agrin-like protein and EGF-like, fibronectin type-III and laminin G-like domain-containing protein, is a protein that in humans is encoded by the EGFLAM gene. Wikipedia",
-            "type": "Protein",
-            "Related topics": []
-        },
         "P-glycoprotein": {
             "label": "P-glycoprotein",
             "description": "P-glycoprotein 1 also known as multidrug resistance protein 1 or ATP-binding cassette sub-family B member 1 or cluster of differentiation 243 is an important protein of the cell membrane that pumps many foreign substances out of cells. Wikipedia",
             "type": "Protein",
             "Related topics": []
         },
-        "Ran (biology)": {
-            "label": "Ran",
-            "description": "Ran also known as GTP-binding nuclear protein Ran is a protein that in humans is encoded by the RAN gene. Ran is a small 25 kDa protein that is involved in transport into and out of the cell nucleus during interphase and also involved in mitosis. Wikipedia",
-            "type": "Gene",
+        "Pikachurin": {
+            "label": "Pikachurin",
+            "description": "Pikachurin, also known as agrin-like protein and EGF-like, fibronectin type-III and laminin G-like domain-containing protein, is a protein that in humans is encoded by the EGFLAM gene. Wikipedia",
+            "type": "Protein",
             "Related topics": []
         },
         "Prohibitin": {
             "label": "Prohibitin",
             "description": "Prohibitin, also known as PHB, is a protein that in humans is encoded by the PHB gene. The Phb gene has also been described in animals, fungi, plants, and unicellular eukaryotes. Wikipedia",
             "type": "",
+            "Related topics": []
+        },
+        "Ran (biology)": {
+            "label": "Ran",
+            "description": "Ran also known as GTP-binding nuclear protein Ran is a protein that in humans is encoded by the RAN gene. Ran is a small 25 kDa protein that is involved in transport into and out of the cell nucleus during interphase and also involved in mitosis. Wikipedia",
+            "type": "Gene",
             "Related topics": []
         },
         "Ryanodine receptor": {
@@ -284,15 +296,15 @@
             "type": "Protein",
             "Related topics": []
         },
-        "ANKRD2": {
-            "label": "ANKRD2",
-            "description": "Ankyrin repeat domain-containing protein 2 is a protein that in humans is encoded by the ANKRD2 gene. Wikipedia",
-            "type": "",
-            "Related topics": []
-        },
         "Phosphoenolpyruvate carboxykinase": {
             "label": "Phosphoenolpyruvate carboxykinase",
             "description": "Phosphoenolpyruvate carboxykinase is an enzyme in the lyase family used in the metabolic pathway of gluconeogenesis. It converts oxaloacetate into phosphoenolpyruvate and carbon dioxide.\nIt is found in two forms, cytosolic and mitochondrial. Wikipedia",
+            "type": "",
+            "Related topics": []
+        },
+        "ANKRD2": {
+            "label": "ANKRD2",
+            "description": "Ankyrin repeat domain-containing protein 2 is a protein that in humans is encoded by the ANKRD2 gene. Wikipedia",
             "type": "",
             "Related topics": []
         },
@@ -307,34 +319,21 @@
             "description": "Heat shock factor, in molecular biology, is the name given to transcription factors that regulate the expression of the heat shock proteins. A typical example is the heat shock factor of Drosophila melanogaster. Wikipedia",
             "type": "",
             "Related topics": []
-        },
-        "DNA clamp": {
-            "label": "DNA clamp",
-            "description": "A DNA clamp, also known as a sliding clamp, is a protein fold that serves as a processivity-promoting factor in DNA replication. Wikipedia",
-            "type": "",
-            "Related topics": []
-        },
-        "Cystatin C": {
-            "label": "Cystatin C",
-            "description": "Cystatin C or cystatin 3, a protein encoded by the CST3 gene, is mainly used as a biomarker of kidney function. Recently, it has been studied for its role in predicting new-onset or deteriorating cardiovascular disease. Wikipedia",
-            "type": "Protein",
-            "Related topics": []
         }
     },
     "summary": {
-        "label": 49,
-        "description": 49,
-        "type": 49,
-        "related_topics": 1,
-        "may_treat": 1,
-        "drug_class": 1,
-        "other_drugs_in_same_class": 1,
-        "people_also_search_for": 1,
-        "pregnancy_risk": 1,
-        "see_results_about": 1,
-        "molar_mass": 1,
-        "formula": 1,
-        "drugs_in_class": 1
+        "label": {
+            "uri": "http://dbpedia.org/property/label",
+            "count": 49
+        },
+        "description": {
+            "uri": "http://dbpedia.org/property/description",
+            "count": 49
+        },
+        "type": {
+            "uri": "http://dbpedia.org/property/type",
+            "count": 49
+        }
     },
     "infoboxless": [
         "Brain natriuretic peptide",
@@ -388,5 +387,17 @@
         "S-adenosyl-L-homocysteine hydrolase",
         "Translation initiation factor IF-3",
         "Trappin protein transglutaminase binding domain"
-    ]
+    ],
+    "Unmapped_Properties": {
+        "relatedTopics": 1,
+        "mayTreat": 1,
+        "drugClass": 1,
+        "otherDrugsInSameClass": 1,
+        "peopleAlsoSearchFor": 1,
+        "pregnancyRisk": 1,
+        "seeResultsAbout": 1,
+        "molarMass": 1,
+        "formula": 1,
+        "drugsInClass": 1
+    }
 }

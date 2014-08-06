@@ -1,9 +1,9 @@
 {
     "instances": {
-        "BioModels Database": {
-            "label": "BioModels Database",
-            "description": "BioModels Database is a free and open-source repository for storing, exchanging and retrieving quantitative models of biological interest. Wikipedia",
-            "type": "",
+        "Protein Data Bank": {
+            "label": "Protein Data Bank (RCSB PDB)",
+            "description": "The Protein Data Bank is a repository for the three-dimensional structural data of large biological molecules, such as proteins and nucleic acids. Wikipedia",
+            "type": "Database website",
             "Related topics": []
         },
         "ChEBI": {
@@ -12,9 +12,9 @@
             "type": "Ontology",
             "See results about": []
         },
-        "ENCODE": {
-            "label": "ENCODE",
-            "description": "The Encyclopedia of DNA Elements is a public research project launched by the US National Human Genome Research Institute in September 2003. Wikipedia",
+        "BioModels Database": {
+            "label": "BioModels Database",
+            "description": "BioModels Database is a free and open-source repository for storing, exchanging and retrieving quantitative models of biological interest. Wikipedia",
             "type": "",
             "Related topics": []
         },
@@ -22,12 +22,6 @@
             "label": "Conserved Domain Database",
             "description": "The Conserved Domain Database is a database of well-annotated multiple sequence alignment models and derived database search models, for ancient domains and full-length proteins. Wikipedia",
             "type": "",
-            "Related topics": []
-        },
-        "Protein Data Bank": {
-            "label": "Protein Data Bank (RCSB PDB)",
-            "description": "The Protein Data Bank is a repository for the three-dimensional structural data of large biological molecules, such as proteins and nucleic acids. Wikipedia",
-            "type": "Database website",
             "Related topics": []
         },
         "Ensembl": {
@@ -47,14 +41,27 @@
             "description": "In biology, histones are highly alkaline proteins found in eukaryotic cell nuclei that package and order the DNA into structural units called nucleosomes. Wikipedia",
             "type": "Protein",
             "Related topics": []
+        },
+        "ENCODE": {
+            "label": "ENCODE",
+            "description": "The Encyclopedia of DNA Elements is a public research project launched by the US National Human Genome Research Institute in September 2003. Wikipedia",
+            "type": "",
+            "Related topics": []
         }
     },
     "summary": {
-        "label": 8,
-        "description": 8,
-        "type": 8,
-        "related_topics": 1,
-        "see_results_about": 1
+        "label": {
+            "uri": "http://www.w3.org/2000/01/rdf-schema#label",
+            "count": 8
+        },
+        "description": {
+            "uri": "http://purl.org/dc/elements/1.1/description",
+            "count": 8
+        },
+        "type": {
+            "uri": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+            "count": 8
+        }
     },
     "infoboxless": [
         "Medical Subject Headings",
@@ -149,5 +156,9 @@
         "GlycomeDB",
         "H-Invitational",
         "HUGO Gene Nomenclature Committee"
-    ]
+    ],
+    "Unmapped_Properties": {
+        "relatedTopics": 1,
+        "seeResultsAbout": 1
+    }
 }

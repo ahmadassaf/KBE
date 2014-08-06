@@ -40,16 +40,16 @@
             "description": "The Appel Farm Arts and Music Festival, is an annual one-day festival held the first Saturday in June at Appel Farm Arts and Music Center located near Elmer, in Salem County, New Jersey, USA. Wikipedia",
             "type": ""
         },
-        "Mayfair (festival)": {
-            "label": "Mayfair",
-            "description": "Mayfair Festival of the Arts is a multidisciplinary arts festival produced by Mayfair Inc, a 501 nonprofit organization.\nThe Festival is held annually at in Allentown, Pennsylvania. It has been held Memorial Day weekend since 1986. Wikipedia",
-            "type": "Festival"
-        },
         "Dockville": {
             "label": "Dockville",
             "description": "Dockville is a music and art festival on Europe's biggest river island, Hamburg's district Wilhelmsburg. It is sponsored by the German Internationale Bauausstellung and it took place for the first time in 2007. Wikipedia",
             "type": "",
             "People also search for": []
+        },
+        "Mayfair (festival)": {
+            "label": "Mayfair",
+            "description": "Mayfair Festival of the Arts is a multidisciplinary arts festival produced by Mayfair Inc, a 501 nonprofit organization.\nThe Festival is held annually at in Allentown, Pennsylvania. It has been held Memorial Day weekend since 1986. Wikipedia",
+            "type": "Festival"
         },
         "Pukkelpop": {
             "label": "Pukkelpop",
@@ -64,22 +64,6 @@
             "type": "",
             "See results about": []
         },
-        "Big Spring Jam": {
-            "label": "Big Spring Jam",
-            "description": "",
-            "type": ""
-        },
-        "International Music Summit": {
-            "label": "International Music Summit",
-            "description": "",
-            "type": "",
-            "People also search for": []
-        },
-        "Homegrown Music Festival (New Zealand)": {
-            "label": "Homegrown Music Festival",
-            "description": "Homegrown Music Festival has been held annually in Wellington, New Zealand since 2008. Wikipedia",
-            "type": "New Zealand"
-        },
         "Falcon Ridge Folk Festival": {
             "label": "Falcon Ridge Folk Festival",
             "description": "The Falcon Ridge Folk Festival is an American annual folk-oriented music festival and dance festival formerly held at the Long Hill Farm in Hillsdale, New York, USA. Wikipedia",
@@ -90,16 +74,37 @@
                 " NY 12529",
                 " United States"
             ]
+        },
+        "Homegrown Music Festival (New Zealand)": {
+            "label": "Homegrown Music Festival",
+            "description": "Homegrown Music Festival has been held annually in Wellington, New Zealand since 2008. Wikipedia",
+            "type": "New Zealand"
+        },
+        "Big Spring Jam": {
+            "label": "Big Spring Jam",
+            "description": "",
+            "type": ""
+        },
+        "International Music Summit": {
+            "label": "International Music Summit",
+            "description": "",
+            "type": "",
+            "People also search for": []
         }
     },
     "summary": {
-        "label": 14,
-        "description": 14,
-        "type": 14,
-        "people_also_search_for": 1,
-        "address": 1,
-        "see_results_about": 1,
-        "recent_posts": 1
+        "label": {
+            "uri": "http://dbpedia.org/property/label",
+            "count": 14
+        },
+        "description": {
+            "uri": "http://dbpedia.org/property/description",
+            "count": 14
+        },
+        "type": {
+            "uri": "http://dbpedia.org/property/type",
+            "count": 14
+        }
     },
     "infoboxless": [
         "American Folk Blues Festival",
@@ -188,5 +193,11 @@
         "Gathering of the Vibes",
         "Hellflame Festival",
         "Jalometalli Winterfest"
-    ]
+    ],
+    "Unmapped_Properties": {
+        "peopleAlsoSearchFor": 1,
+        "address": 1,
+        "seeResultsAbout": 1,
+        "recentPosts": 1
+    }
 }

@@ -6,23 +6,31 @@
             "type": "",
             "See results about": []
         },
+        "The Oldie": {
+            "label": "Oldie Publications Ltd",
+            "description": "",
+            "type": ""
+        },
         "Hispanic Business": {
             "label": "Hispanic Business Inc",
             "description": "",
             "type": "",
             "See results about": []
-        },
-        "The Oldie": {
-            "label": "Oldie Publications Ltd",
-            "description": "",
-            "type": ""
         }
     },
     "summary": {
-        "label": 3,
-        "description": 3,
-        "type": 3,
-        "see_results_about": 1
+        "label": {
+            "uri": "http://dbpedia.org/property/label",
+            "count": 3
+        },
+        "description": {
+            "uri": "http://dbpedia.org/ontology/description",
+            "count": 3
+        },
+        "type": {
+            "uri": "http://dbpedia.org/property/type",
+            "count": 3
+        }
     },
     "infoboxless": [
         "AVN (magazine)",
@@ -122,5 +130,8 @@
         "Arcadia (magazine)",
         "Arena (magazine)",
         "Armed Forces Journal"
-    ]
+    ],
+    "Unmapped_Properties": {
+        "seeResultsAbout": 1
+    }
 }

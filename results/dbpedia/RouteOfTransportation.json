@@ -42,6 +42,24 @@
                 "29.2 miles (47 km)"
             ]
         },
+        "A1 (Croatia)": {
+            "label": "A1",
+            "description": "The A1 motorway is the longest motorway in Croatia, spanning 465.5 kilometers. As it connects Zagreb, the nation's capital, to Split, the second largest city in the country and the largest city in ... Wikipedia",
+            "type": "",
+            "Length ": [
+                "289.2 miles (465.5 km)"
+            ],
+            "Major cities ": [
+                "Split",
+                " Croatia",
+                " Zagreb",
+                " Dubrovnik",
+                " Zadar",
+                " Šibenik",
+                " Ploče",
+                " Karlovac"
+            ]
+        },
         "A1 autostrada (Poland)": {
             "label": "A1 autostrada",
             "description": "The autostrada A1 in Poland is a north-south motorway under construction that will run through central Poland, from Gdańsk on the Baltic Sea through Łódź and the Upper Silesian Industry Area to the ... Wikipedia",
@@ -64,24 +82,6 @@
                 " Toruń",
                 " Gliwice",
                 " Częstochowa"
-            ]
-        },
-        "A1 (Croatia)": {
-            "label": "A1",
-            "description": "The A1 motorway is the longest motorway in Croatia, spanning 465.5 kilometers. As it connects Zagreb, the nation's capital, to Split, the second largest city in the country and the largest city in ... Wikipedia",
-            "type": "",
-            "Length ": [
-                "289.2 miles (465.5 km)"
-            ],
-            "Major cities ": [
-                "Split",
-                " Croatia",
-                " Zagreb",
-                " Dubrovnik",
-                " Zadar",
-                " Šibenik",
-                " Ploče",
-                " Karlovac"
             ]
         },
         "A1 motorway (Netherlands)": {
@@ -234,6 +234,14 @@
             ],
             "People also search for": []
         },
+        "Carnaby Street": {
+            "label": "Carnaby Street",
+            "description": "Carnaby Street is a pedestrianised shopping street in the City of Westminster, London, located in the Soho district, near Oxford Street and Regent Street. Wikipedia",
+            "type": "",
+            "Major cities ": [
+                "London"
+            ]
+        },
         "Centennial Bridge, Panama": {
             "label": "Centennial Bridge, Panama",
             "description": "Panama's Centennial Bridge is a major bridge crossing the Panama Canal. It was built to supplement the overcrowded Bridge of the Americas and to replace it as the carrier of the Pan-American Highway. Wikipedia",
@@ -264,14 +272,6 @@
             "type": "",
             "See results about": []
         },
-        "Carnaby Street": {
-            "label": "Carnaby Street",
-            "description": "Carnaby Street is a pedestrianised shopping street in the City of Westminster, London, located in the Soho district, near Oxford Street and Regent Street. Wikipedia",
-            "type": "",
-            "Major cities ": [
-                "London"
-            ]
-        },
         "Chelsea Bridge": {
             "label": "Chelsea Bridge",
             "description": "Chelsea Bridge is a bridge over the River Thames in west London, connecting Chelsea on the north bank to Battersea on the south bank. There have been two Chelsea Bridges, on the site of what was an ancient ford. Wikipedia",
@@ -300,6 +300,11 @@
             "description": "The Chemins de fer du Jura, the railways of the Jura canton in northern Switzerland, came about as the result of an amalgamation, in 1944, of four independent companies connecting Porrentruy to Bonfol, ... Wikipedia",
             "type": ""
         },
+        "Church Street, Monmouth": {
+            "label": "Church Street, Monmouth",
+            "description": "Church Street is a pedestrianised street in the centre of Monmouth, Wales. It now contains a variety of independent shops, restaurants, commercial art galleries, and the Savoy Theatre. Wikipedia",
+            "type": ""
+        },
         "Colemanville Covered Bridge": {
             "label": "Colemanville Covered Bridge",
             "description": "The Colemanville Covered Bridge is a covered bridge that spans Pequea Creek in Lancaster County, Pennsylvania, United States. After Hunsecker's Mill Covered Bridge, it is Lancaster County's second-longest single-span covered bridge still being used. Wikipedia",
@@ -309,19 +314,6 @@
                 "356 ft² (404.7 m²)"
             ],
             "People also search for": []
-        },
-        "Church Street, Monmouth": {
-            "label": "Church Street, Monmouth",
-            "description": "Church Street is a pedestrianised street in the centre of Monmouth, Wales. It now contains a variety of independent shops, restaurants, commercial art galleries, and the Savoy Theatre. Wikipedia",
-            "type": ""
-        },
-        "D4 motorway (Slovakia)": {
-            "label": "D4 motorway",
-            "description": "D4 is a motorway in southwestern Slovakia. The planned highway is commonly referred to as the Bratislava bypass. Currently there is only a short stretch from Austrian border at Jarovce to the junction with D2, opened in 1998. Wikipedia",
-            "type": "",
-            "Length ": [
-                "1.864 miles (3 km)"
-            ]
         },
         "D1 motorway (Czech Republic)": {
             "label": "D1 motorway",
@@ -333,6 +325,35 @@
             "Major cities ": [
                 "Jihlava"
             ]
+        },
+        "D4 motorway (Slovakia)": {
+            "label": "D4 motorway",
+            "description": "D4 is a motorway in southwestern Slovakia. The planned highway is commonly referred to as the Bratislava bypass. Currently there is only a short stretch from Austrian border at Jarovce to the junction with D2, opened in 1998. Wikipedia",
+            "type": "",
+            "Length ": [
+                "1.864 miles (3 km)"
+            ]
+        },
+        "D5 motorway (Czech Republic)": {
+            "label": "D5 motorway",
+            "description": "D5 motorway is a highway in the Czech Republic. It runs from Prague through Pilsen into Germany. D5 is 151 km long; a bypass of Pilsen includes the 380 metre long Valík Tunnel and the 445 metre long bridge over the River Úhlava. Wikipedia",
+            "type": "",
+            "Length ": [
+                "93.83 miles (151 km)"
+            ],
+            "Major cities ": [
+                "Pilsen"
+            ]
+        },
+        "Dorfbahn Serfaus": {
+            "label": "Dorfbahn Serfaus",
+            "description": "The Dorfbahn Serfaus is an unusual underground air cushion funicular transit system in the Tyrolian village of Serfaus in Austria. The name literally translates as Serfaus Village Railway. Wikipedia",
+            "type": ""
+        },
+        "East Coast Main Line": {
+            "label": "East Coast Main Line",
+            "description": "The East Coast Main Line is a 393-mile long high-speed railway link between London, Peterborough, Doncaster, Wakefield, Leeds, York, Darlington, Newcastle, Edinburgh and is electrified along the whole route. Wikipedia",
+            "type": ""
         },
         "Fehmarn Sound Bridge": {
             "label": "Fehmarn Sound Bridge",
@@ -356,27 +377,6 @@
                 "Fehmarn Sound"
             ],
             "People also search for": []
-        },
-        "D5 motorway (Czech Republic)": {
-            "label": "D5 motorway",
-            "description": "D5 motorway is a highway in the Czech Republic. It runs from Prague through Pilsen into Germany. D5 is 151 km long; a bypass of Pilsen includes the 380 metre long Valík Tunnel and the 445 metre long bridge over the River Úhlava. Wikipedia",
-            "type": "",
-            "Length ": [
-                "93.83 miles (151 km)"
-            ],
-            "Major cities ": [
-                "Pilsen"
-            ]
-        },
-        "East Coast Main Line": {
-            "label": "East Coast Main Line",
-            "description": "The East Coast Main Line is a 393-mile long high-speed railway link between London, Peterborough, Doncaster, Wakefield, Leeds, York, Darlington, Newcastle, Edinburgh and is electrified along the whole route. Wikipedia",
-            "type": ""
-        },
-        "Dorfbahn Serfaus": {
-            "label": "Dorfbahn Serfaus",
-            "description": "The Dorfbahn Serfaus is an unusual underground air cushion funicular transit system in the Tyrolian village of Serfaus in Austria. The name literally translates as Serfaus Village Railway. Wikipedia",
-            "type": ""
         },
         "FirstGroup": {
             "label": "FirstGroup",
@@ -420,6 +420,42 @@
             "description": "The Genoa Metro is a light metro consisting of a single line that connects the centre of Genoa, Italy with the suburb of Rivarolo Ligure, to the north-west of the city centre. Wikipedia",
             "type": ""
         },
+        "Gotthard Base Tunnel": {
+            "label": "Gotthard Base Tunnel",
+            "description": "The Gotthard Base Tunnel is a railway tunnel in the heart of the Swiss Alps expected to open in 2016. Wikipedia",
+            "type": ""
+        },
+        "Great Ocean Road": {
+            "label": "Great Ocean Road",
+            "description": "The Great Ocean Road is an Australian National Heritage listed 243 kilometres stretch of road along the south-eastern coast of Australia between the Victorian cities of Torquay and Allansford. Wikipedia",
+            "type": "",
+            "Length ": [
+                "151 miles (243 km)"
+            ],
+            "Major cities ": [
+                "Apollo Bay",
+                " Lorne",
+                " Torquay",
+                " Anglesea",
+                " Port Campbell",
+                " Aireys Inlet",
+                " Wye River",
+                " Peterborough",
+                " Lavers Hill",
+                " Kennett River"
+            ],
+            "People also search for": []
+        },
+        "Great River Road": {
+            "label": "Great River Road",
+            "description": "The Great River Road is a collection of state and local roads which follow the course of the Mississippi River through ten states of the United States. Wikipedia",
+            "type": "",
+            "Length ": [
+                "2",
+                "069 miles (3",
+                "330 km)"
+            ]
+        },
         "Grosvenor Bridge": {
             "label": "Grosvenor Bridge",
             "description": "Grosvenor Bridge, originally known as, and alternatively called Victoria Railway Bridge, is a railway bridge over the River Thames in London, between Vauxhall Bridge and Chelsea Bridge. Wikipedia",
@@ -444,10 +480,26 @@
             ],
             "People also search for": []
         },
-        "Gotthard Base Tunnel": {
-            "label": "Gotthard Base Tunnel",
-            "description": "The Gotthard Base Tunnel is a railway tunnel in the heart of the Swiss Alps expected to open in 2016. Wikipedia",
-            "type": ""
+        "Greyhound Lines": {
+            "label": "Greyhound Lines",
+            "description": "Greyhound Lines, Inc., called Greyhound for short, is an intercity bus service common carrier serving over 3,700 destinations in the United States, Canada, and Mexico. Wikipedia",
+            "type": "",
+            "CEO ": [
+                "Dave Leach"
+            ],
+            "Founder ": [
+                "Eric Wickman"
+            ],
+            "Founded ": [
+                "1914"
+            ],
+            "Customer service ": [
+                "+1 214-849-8100 (Consumer)",
+                " +1 800-752-4841 (Consumer)",
+                " +1 800-440-7712",
+                " +1 214-849-8966 (Consumer)"
+            ],
+            "People also search for": []
         },
         "Hörn Bridge": {
             "label": "Hörn Bridge",
@@ -462,15 +514,10 @@
             ],
             "People also search for": []
         },
-        "Great River Road": {
-            "label": "Great River Road",
-            "description": "The Great River Road is a collection of state and local roads which follow the course of the Mississippi River through ten states of the United States. Wikipedia",
-            "type": "",
-            "Length ": [
-                "2",
-                "069 miles (3",
-                "330 km)"
-            ]
+        "Hamburg S-Bahn": {
+            "label": "Hamburg S-Bahn",
+            "description": "The Hamburg S-Bahn is rapid mass transit railway network in the Hamburg Metropolitan Region. Together, the S-Bahn, the Hamburg U-Bahn, the AKN railway and the regional railway form the backbone of ... Wikipedia",
+            "type": ""
         },
         "Hangzhou Bay Bridge": {
             "label": "Hangzhou Bay Bridge",
@@ -512,53 +559,6 @@
             ],
             "People also search for": []
         },
-        "Greyhound Lines": {
-            "label": "Greyhound Lines",
-            "description": "Greyhound Lines, Inc., called Greyhound for short, is an intercity bus service common carrier serving over 3,700 destinations in the United States, Canada, and Mexico. Wikipedia",
-            "type": "",
-            "CEO ": [
-                "Dave Leach"
-            ],
-            "Founder ": [
-                "Eric Wickman"
-            ],
-            "Founded ": [
-                "1914"
-            ],
-            "Customer service ": [
-                "+1 214-849-8100 (Consumer)",
-                " +1 800-752-4841 (Consumer)",
-                " +1 800-440-7712",
-                " +1 214-849-8966 (Consumer)"
-            ],
-            "People also search for": []
-        },
-        "Great Ocean Road": {
-            "label": "Great Ocean Road",
-            "description": "The Great Ocean Road is an Australian National Heritage listed 243 kilometres stretch of road along the south-eastern coast of Australia between the Victorian cities of Torquay and Allansford. Wikipedia",
-            "type": "",
-            "Length ": [
-                "151 miles (243 km)"
-            ],
-            "Major cities ": [
-                "Apollo Bay",
-                " Lorne",
-                " Torquay",
-                " Anglesea",
-                " Port Campbell",
-                " Aireys Inlet",
-                " Wye River",
-                " Peterborough",
-                " Lavers Hill",
-                " Kennett River"
-            ],
-            "People also search for": []
-        },
-        "Hamburg S-Bahn": {
-            "label": "Hamburg S-Bahn",
-            "description": "The Hamburg S-Bahn is rapid mass transit railway network in the Hamburg Metropolitan Region. Together, the S-Bahn, the Hamburg U-Bahn, the AKN railway and the regional railway form the backbone of ... Wikipedia",
-            "type": ""
-        },
         "Highway 1 (Israel)": {
             "label": "Highway 1",
             "description": "Highway 1, is the main highway connecting Tel Aviv and Jerusalem in Israel. Wikipedia",
@@ -599,6 +599,18 @@
                 " Atlit"
             ]
         },
+        "Highway 3 (Israel)": {
+            "label": "Highway 3",
+            "description": "Highway 3 is a highway in Israel. It begins at Highway 4 on the outskirts of Ashkelon, running east-northeast, passing through Kiryat Malakhi and Latrun, and ending just short of Modi'in. Wikipedia",
+            "type": "",
+            "Length ": [
+                "28.58 miles (46 km)"
+            ],
+            "Major cities ": [
+                "Kiryat Malakhi",
+                " Modi'in-Maccabim-Re'ut"
+            ]
+        },
         "Highway 4 (Israel)": {
             "label": "Highway 4",
             "description": "Highway 4 is an Israeli highway that runs along Israel's entire coastal plain of the Mediterranean Sea, its route in the north runs from the Rosh HaNikra border crossing with Lebanon until the Erez Border Crossing with the Gaza Strip. Wikipedia",
@@ -631,17 +643,44 @@
                 " YavneMore"
             ]
         },
-        "Highway 3 (Israel)": {
-            "label": "Highway 3",
-            "description": "Highway 3 is a highway in Israel. It begins at Highway 4 on the outskirts of Ashkelon, running east-northeast, passing through Kiryat Malakhi and Latrun, and ending just short of Modi'in. Wikipedia",
+        "Highway 5 (Israel)": {
+            "label": "Highway 5",
+            "description": "Highway 5, or the Trans-Samaria Highway, is one of Israel's main highways, connecting the Mediterranean coast immediately north of Tel Aviv with the central Sharon plain and eastwards to Ariel and other ... Wikipedia",
             "type": "",
             "Length ": [
-                "28.58 miles (46 km)"
+                "22.99 miles (37 km)"
             ],
             "Major cities ": [
-                "Kiryat Malakhi",
-                " Modi'in-Maccabim-Re'ut"
+                "Petah Tikva",
+                " Rosh HaAyin",
+                " Ramat HaSharon",
+                " Hod HaSharon"
             ]
+        },
+        "Highway 6 (Israel)": {
+            "label": "Highway 6",
+            "description": "Highway 6, also known as the Trans-Israel Highway, is a major electronic toll highway in Israel.Highway 6 is the first Israeli Build-Operate-Transfer road constructed, carried out mainly by the private ... Wikipedia",
+            "type": "",
+            "Length ": [
+                "86.99 miles (140 km)"
+            ],
+            "Major cities ": [
+                "Haifa",
+                " Beersheba",
+                " Petah Tikva",
+                " Yokneam",
+                " Hadera",
+                " Kiryat Gat",
+                " Rosh HaAyin",
+                " Ramla",
+                " Pardes Hanna-Karkur"
+            ]
+        },
+        "Ho Chi Minh City Metro": {
+            "label": "Ho Chi Minh City Metro",
+            "description": "The Ho Chi Minh City Metro is a proposed rapid transit network that will serve Ho Chi Minh City in Vietnam. Wikipedia",
+            "type": "",
+            "See results about": []
         },
         "Hohenzollern Bridge": {
             "label": "Hohenzollern Bridge",
@@ -669,38 +708,17 @@
             ],
             "People also search for": []
         },
-        "Highway 6 (Israel)": {
-            "label": "Highway 6",
-            "description": "Highway 6, also known as the Trans-Israel Highway, is a major electronic toll highway in Israel.Highway 6 is the first Israeli Build-Operate-Transfer road constructed, carried out mainly by the private ... Wikipedia",
+        "Hunsecker's Mill Covered Bridge": {
+            "label": "Hunsecker's Mill Covered Bridge",
+            "description": "The Hunsecker's Mill Covered Bridge is a covered bridge located in Lancaster County, Pennsylvania, United States. The bridge has a single span, wooden, double Burr arch trusses design. Wikipedia",
             "type": "",
-            "Length ": [
-                "86.99 miles (140 km)"
+            "Total length ": [
+                "180' (55 m)"
             ],
-            "Major cities ": [
-                "Haifa",
-                " Beersheba",
-                " Petah Tikva",
-                " Yokneam",
-                " Hadera",
-                " Kiryat Gat",
-                " Rosh HaAyin",
-                " Ramla",
-                " Pardes Hanna-Karkur"
-            ]
-        },
-        "Highway 5 (Israel)": {
-            "label": "Highway 5",
-            "description": "Highway 5, or the Trans-Samaria Highway, is one of Israel's main highways, connecting the Mediterranean coast immediately north of Tel Aviv with the central Sharon plain and eastwards to Ariel and other ... Wikipedia",
-            "type": "",
-            "Length ": [
-                "22.99 miles (37 km)"
+            "Bridge type ": [
+                "Burr Truss"
             ],
-            "Major cities ": [
-                "Petah Tikva",
-                " Rosh HaAyin",
-                " Ramat HaSharon",
-                " Hod HaSharon"
-            ]
+            "People also search for": []
         },
         "Interstate Bridge": {
             "label": "Interstate Bridge",
@@ -728,24 +746,6 @@
             ],
             "People also search for": []
         },
-        "Hunsecker's Mill Covered Bridge": {
-            "label": "Hunsecker's Mill Covered Bridge",
-            "description": "The Hunsecker's Mill Covered Bridge is a covered bridge located in Lancaster County, Pennsylvania, United States. The bridge has a single span, wooden, double Burr arch trusses design. Wikipedia",
-            "type": "",
-            "Total length ": [
-                "180' (55 m)"
-            ],
-            "Bridge type ": [
-                "Burr Truss"
-            ],
-            "People also search for": []
-        },
-        "Ho Chi Minh City Metro": {
-            "label": "Ho Chi Minh City Metro",
-            "description": "The Ho Chi Minh City Metro is a proposed rapid transit network that will serve Ho Chi Minh City in Vietnam. Wikipedia",
-            "type": "",
-            "See results about": []
-        },
         "Icefields Parkway": {
             "label": "Icefields Parkway",
             "description": "The Icefields Parkway, also known as Highway 93 north, is a scenic road in Alberta, Canada. It parallels the Continental Divide, traversing the rugged landscape of the Canadian Rockies, travelling ... Wikipedia",
@@ -765,6 +765,15 @@
             "description": "Interstate 5 in Washington is a 276.62-mile highway in the U.S. state of Washington that extends from its border with Oregon to its border with Canada. Wikipedia",
             "type": ""
         },
+        "Interstate H-3": {
+            "label": "Interstate H-3",
+            "description": "Interstate H-3 is an intrastate Interstate Highway located on the island of O'ahu in the state of Hawai'i in the United States. H-3 is also known as the John A. Burns Freeway. Wikipedia",
+            "type": "",
+            "Length ": [
+                "15.32 miles (24.66 km)"
+            ],
+            "Constructed ": "December 12, 1997"
+        },
         "Jack Pesch Bridge": {
             "label": "Jack Pesch Bridge",
             "description": "The Jack Pesch Bridge is a bridge for pedestrians and cyclists which crosses the Brisbane River. The bridge is named in honour of Jack Pesch, a cycling champion during the 1930s. Wikipedia",
@@ -780,6 +789,11 @@
                 "Brisbane River"
             ],
             "People also search for": []
+        },
+        "Kaluzhsko-Rizhskaya Line": {
+            "label": "Kaluzhsko-Rizhskaya Line",
+            "description": "The Kaluzhsko–Rizhskaya Line is a line of the Moscow Metro, that originally existed as two separate radial lines, Rizhskaya and Kaluzhskaya opened in 1958 and 1962, respectively. Wikipedia",
+            "type": ""
         },
         "Interstate H-1": {
             "label": "Interstate H-1",
@@ -818,22 +832,11 @@
             ],
             "People also search for": []
         },
-        "Interstate H-3": {
-            "label": "Interstate H-3",
-            "description": "Interstate H-3 is an intrastate Interstate Highway located on the island of O'ahu in the state of Hawai'i in the United States. H-3 is also known as the John A. Burns Freeway. Wikipedia",
+        "Keretapi Tanah Melayu": {
+            "label": "Keretapi Tanah Melayu",
+            "description": "Keretapi Tanah Melayu Berhad or Malayan Railways Limited is the main rail operator in Peninsular Malaysia. The railway system dates back to the British colonial era, when it was first built to transport tin. Wikipedia",
             "type": "",
-            "Length ": [
-                "15.32 miles (24.66 km)"
-            ],
-            "Constructed ": "December 12, 1997"
-        },
-        "Interstate H-2": {
-            "label": "Interstate H-2",
-            "description": "Interstate H-2 is an intrastate Interstate Highway located on the island of O‘ahu in Hawai‘i, USA. H-2 is also known as the Veterans Memorial Freeway. Wikipedia",
-            "type": "",
-            "Length ": [
-                "8.333 miles (13.41 km)"
-            ]
+            "People also search for": []
         },
         "Krk Bridge": {
             "label": "Krk Bridge",
@@ -862,6 +865,11 @@
             ],
             "People also search for": []
         },
+        "Kiev Metro": {
+            "label": "Kiev Metro",
+            "description": "The Kiev Metro is a metro system that is the mainstay of Kiev's public transport. It was the first rapid transit system in Ukraine and the third one built in the USSR. It now has three lines with a total length of 66.6 kilometres and 52 stations. Wikipedia",
+            "type": ""
+        },
         "Krka Bridge": {
             "label": "Krka Bridge",
             "description": "The Krka Bridge is located in Croatia, between the Skradin and Šibenik interchanges. It is a 391 metres long concrete arch bridge spanning the Krka River at a height of 65 metres. Wikipedia",
@@ -887,10 +895,11 @@
             ],
             "People also search for": []
         },
-        "Kaluzhsko-Rizhskaya Line": {
-            "label": "Kaluzhsko-Rizhskaya Line",
-            "description": "The Kaluzhsko–Rizhskaya Line is a line of the Moscow Metro, that originally existed as two separate radial lines, Rizhskaya and Kaluzhskaya opened in 1958 and 1962, respectively. Wikipedia",
-            "type": ""
+        "Kobe Municipal Subway": {
+            "label": "Kobe Municipal Subway",
+            "description": "Kobe Municipal Subway is the subway of Kobe. It has two lines. Wikipedia",
+            "type": "",
+            "People also search for": []
         },
         "Kurtz's Mill Covered Bridge": {
             "label": "Kurtz's Mill Covered Bridge",
@@ -904,27 +913,10 @@
             ],
             "People also search for": []
         },
-        "Kobe Municipal Subway": {
-            "label": "Kobe Municipal Subway",
-            "description": "Kobe Municipal Subway is the subway of Kobe. It has two lines. Wikipedia",
-            "type": "",
-            "People also search for": []
-        },
-        "Landis Mill Covered Bridge": {
-            "label": "Landis Mill Covered Bridge",
-            "description": "The Landis Mill Covered Bridge is a covered bridge that spans the Little Conestoga Creek in Lancaster County, Pennsylvania, United States. A county-owned and maintained bridge, its official designation is the Little Conestoga #1 Bridge. Wikipedia",
-            "type": "",
-            "Total length ": [
-                "53' (16 m)"
-            ],
-            "Area ": [
-                "4",
-                "356 ft² (404.7 m²)"
-            ],
-            "Bridge type ": [
-                "Burr Truss"
-            ],
-            "People also search for": []
+        "Ländchesbahn": {
+            "label": "Ländches Railway",
+            "description": "The Ländches Railway is a single non-electrified branch railway line between Wiesbaden and Niedernhausen, Germany. The 19.6-kilometre long line was opened in July 1879 by the Hessian Ludwig Railway. Wikipedia",
+            "type": ""
         },
         "Lambeth Bridge": {
             "label": "Lambeth Bridge",
@@ -948,6 +940,22 @@
             ],
             "Architect ": [
                 "Reginald Blomfield"
+            ],
+            "People also search for": []
+        },
+        "Landis Mill Covered Bridge": {
+            "label": "Landis Mill Covered Bridge",
+            "description": "The Landis Mill Covered Bridge is a covered bridge that spans the Little Conestoga Creek in Lancaster County, Pennsylvania, United States. A county-owned and maintained bridge, its official designation is the Little Conestoga #1 Bridge. Wikipedia",
+            "type": "",
+            "Total length ": [
+                "53' (16 m)"
+            ],
+            "Area ": [
+                "4",
+                "356 ft² (404.7 m²)"
+            ],
+            "Bridge type ": [
+                "Burr Truss"
             ],
             "People also search for": []
         },
@@ -985,27 +993,24 @@
             ],
             "People also search for": []
         },
-        "Keretapi Tanah Melayu": {
-            "label": "Keretapi Tanah Melayu",
-            "description": "Keretapi Tanah Melayu Berhad or Malayan Railways Limited is the main rail operator in Peninsular Malaysia. The railway system dates back to the British colonial era, when it was first built to transport tin. Wikipedia",
+        "Interstate H-2": {
+            "label": "Interstate H-2",
+            "description": "Interstate H-2 is an intrastate Interstate Highway located on the island of O‘ahu in Hawai‘i, USA. H-2 is also known as the Veterans Memorial Freeway. Wikipedia",
             "type": "",
-            "People also search for": []
-        },
-        "Kiev Metro": {
-            "label": "Kiev Metro",
-            "description": "The Kiev Metro is a metro system that is the mainstay of Kiev's public transport. It was the first rapid transit system in Ukraine and the third one built in the USSR. It now has three lines with a total length of 66.6 kilometres and 52 stations. Wikipedia",
-            "type": ""
-        },
-        "Ländchesbahn": {
-            "label": "Ländches Railway",
-            "description": "The Ländches Railway is a single non-electrified branch railway line between Wiesbaden and Niedernhausen, Germany. The 19.6-kilometre long line was opened in July 1879 by the Hessian Ludwig Railway. Wikipedia",
-            "type": ""
+            "Length ": [
+                "8.333 miles (13.41 km)"
+            ]
         },
         "Lima Metro": {
             "label": "Lima Metro",
             "description": "The Lima Metro, colloquially referred to as El Tren Eléctrico by Lima residents, is a metropolitan railway currently linking south Lima with the centre of the capital of Peru. Wikipedia",
             "type": "",
             "See results about": []
+        },
+        "Lyublinsko-Dmitrovskaya Line": {
+            "label": "Lyublinsko-Dmitrovskaya Line",
+            "description": "Lyublinsko-Dmitrovskaya Line is the line of the Moscow Metro. It was known as \"Lyublinskaya Line\" before 2007. First opened in 1995 as a semi-chordial radius it is at present in process of being extended through the centre and northwards. Wikipedia",
+            "type": ""
         },
         "Mühlviertler Schnellstraße": {
             "label": "Mühlviertler Schnellstraße",
@@ -1017,11 +1022,6 @@
             "Major cities ": [
                 "Freistadt"
             ]
-        },
-        "Lyublinsko-Dmitrovskaya Line": {
-            "label": "Lyublinsko-Dmitrovskaya Line",
-            "description": "Lyublinsko-Dmitrovskaya Line is the line of the Moscow Metro. It was known as \"Lyublinskaya Line\" before 2007. First opened in 1995 as a semi-chordial radius it is at present in process of being extended through the centre and northwards. Wikipedia",
-            "type": ""
         },
         "M11 motorway": {
             "label": "M11 motorway",
@@ -1035,6 +1035,14 @@
             ],
             "See results about": []
         },
+        "M15 motorway (Hungary)": {
+            "label": "M15 motorway",
+            "description": "The M15 motorway is a Hungarian motorway connects the M1 motorway to Bratislava, the capital of Slovakia. The Hungary-Slovakia border crossing is at Rajka (Hungary) and Čunovo. Wikipedia",
+            "type": "",
+            "Length ": [
+                "9.321 miles (15 km)"
+            ]
+        },
         "M1 motorway (Northern Ireland)": {
             "label": "M1 motorway",
             "description": "The M1 is a motorway in Northern Ireland. It is the longest motorway in Northern Ireland and runs for 38 miles from Belfast to Dungannon through County Down and County Armagh. Wikipedia",
@@ -1045,39 +1053,6 @@
             "Constructed ": [
                 "1962"
             ]
-        },
-        "Mark Clark Bridge": {
-            "label": "Mark Clark Bridge",
-            "description": "The Mark Clark Bridge, built in 1949, carried Washington State Route 532 across the Stillaguamish River to connect Stanwood, Washington to Camano Island. It provided the only road access to the island. Wikipedia",
-            "type": "",
-            "Opened ": [
-                "1949"
-            ],
-            "Location ": [
-                "Stanwood"
-            ],
-            "Body of water ": [
-                "Stillaguamish River"
-            ],
-            "People also search for": []
-        },
-        "M15 motorway (Hungary)": {
-            "label": "M15 motorway",
-            "description": "The M15 motorway is a Hungarian motorway connects the M1 motorway to Bratislava, the capital of Slovakia. The Hungary-Slovakia border crossing is at Rajka (Hungary) and Čunovo. Wikipedia",
-            "type": "",
-            "Length ": [
-                "9.321 miles (15 km)"
-            ]
-        },
-        "Mainzer Landstraße": {
-            "label": "Mainzer Landstraße",
-            "description": "Mainzer Landstraße is one of the main arterial roads in Frankfurt am Main, running west from the city centre to the outlying suburbs of the city. Wikipedia",
-            "type": ""
-        },
-        "Mariazell Railway": {
-            "label": "Mariazell Railway",
-            "description": "The Mariazell Railway is an electrically operated narrow-gauge railway which connects the Lower Austrian capital Sankt Pölten with the Styrian pilgrimage centre of Mariazell. Wikipedia",
-            "type": ""
         },
         "M7 motorway (Hungary)": {
             "label": "M7 motorway",
@@ -1094,6 +1069,31 @@
                 " Fonyód"
             ]
         },
+        "Mainzer Landstraße": {
+            "label": "Mainzer Landstraße",
+            "description": "Mainzer Landstraße is one of the main arterial roads in Frankfurt am Main, running west from the city centre to the outlying suburbs of the city. Wikipedia",
+            "type": ""
+        },
+        "Mariazell Railway": {
+            "label": "Mariazell Railway",
+            "description": "The Mariazell Railway is an electrically operated narrow-gauge railway which connects the Lower Austrian capital Sankt Pölten with the Styrian pilgrimage centre of Mariazell. Wikipedia",
+            "type": ""
+        },
+        "Mark Clark Bridge": {
+            "label": "Mark Clark Bridge",
+            "description": "The Mark Clark Bridge, built in 1949, carried Washington State Route 532 across the Stillaguamish River to connect Stanwood, Washington to Camano Island. It provided the only road access to the island. Wikipedia",
+            "type": "",
+            "Opened ": [
+                "1949"
+            ],
+            "Location ": [
+                "Stanwood"
+            ],
+            "Body of water ": [
+                "Stillaguamish River"
+            ],
+            "People also search for": []
+        },
         "Memphis Suspension Railway": {
             "label": "Memphis Suspension Railway",
             "description": "The Memphis Suspension Railway or Mud Island Monorail is a suspended monorail that connects the city center of Memphis with the entertainment park on Mud Island. Wikipedia",
@@ -1101,37 +1101,82 @@
         }
     },
     "summary": {
-        "label": 86,
-        "description": 86,
-        "type": 86,
-        "address": 1,
-        "total_length": 1,
-        "longest_span": 1,
-        "construction_started": 1,
-        "body_of_water": 1,
-        "location": 1,
-        "people_also_search_for": 1,
-        "length": 1,
-        "hours": 1,
-        "highway_system": 1,
-        "major_cities": 1,
-        "opened": 1,
-        "bridge_type": 1,
-        "see_results_about": 1,
-        "height": 1,
-        "area": 1,
-        "stock_price": 1,
-        "headquarters": 1,
-        "ceo": 1,
-        "founder": 1,
-        "founded": 1,
-        "width": 1,
-        "customer_service": 1,
-        "constructed": 1,
-        "clearance_below": 1,
-        "architect": 1,
-        "architects": 1,
-        "architecture_firms": 1
+        "label": {
+            "uri": "http://dbpedia.org/property/label",
+            "count": 86
+        },
+        "description": {
+            "uri": "http://dbpedia.org/property/description",
+            "count": 86
+        },
+        "type": {
+            "uri": "http://dbpedia.org/property/type",
+            "count": 86
+        },
+        "address": {
+            "uri": "http://dbpedia.org/property/address",
+            "count": 6
+        },
+        "totalLength": {
+            "uri": "http://dbpedia.org/property/totalLength",
+            "count": 17
+        },
+        "longestSpan": {
+            "uri": "http://dbpedia.org/property/longestSpan",
+            "count": 3
+        },
+        "location": {
+            "uri": "http://dbpedia.org/property/location",
+            "count": 16
+        },
+        "length": {
+            "uri": "http://dbpedia.org/property/length",
+            "count": 30
+        },
+        "majorCities": {
+            "uri": "http://dbpedia.org/property/majorCities",
+            "count": 16
+        },
+        "highwaySystem": {
+            "uri": "http://dbpedia.org/ontology/highwaySystem",
+            "count": 5
+        },
+        "opened": {
+            "uri": "http://dbpedia.org/property/opened",
+            "count": 15
+        },
+        "height": {
+            "uri": "http://dbpedia.org/property/height",
+            "count": 4
+        },
+        "area": {
+            "uri": "http://dbpedia.org/property/area",
+            "count": 5
+        },
+        "headquarters": {
+            "uri": "http://dbpedia.org/property/headquarters",
+            "count": 1
+        },
+        "ceo": {
+            "uri": "http://dbpedia.org/property/ceo",
+            "count": 2
+        },
+        "founded": {
+            "uri": "http://dbpedia.org/property/founded",
+            "count": 3
+        },
+        "width": {
+            "uri": "http://dbpedia.org/property/width",
+            "count": 2
+        },
+        "constructed": {
+            "uri": "http://dbpedia.org/property/constructed",
+            "count": 3
+        },
+        "architect": {
+            "uri": "http://dbpedia.org/property/architect",
+            "count": 1
+        }
     },
     "infoboxless": [
         "BTS Skytrain",
@@ -1148,5 +1193,19 @@
         "Line 5 (São Paulo Metro)",
         "M3 motorway (Hungary)",
         "METRORail"
-    ]
+    ],
+    "Unmapped_Properties": {
+        "constructionStarted": 1,
+        "bodyOfWater": 1,
+        "peopleAlsoSearchFor": 1,
+        "hours": 1,
+        "bridgeType": 1,
+        "seeResultsAbout": 1,
+        "stockPrice": 1,
+        "founder": 1,
+        "customerService": 1,
+        "clearanceBelow": 1,
+        "architects": 1,
+        "architectureFirms": 1
+    }
 }

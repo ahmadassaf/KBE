@@ -254,23 +254,6 @@
                 "Aero Vodochody"
             ]
         },
-        "Aero A.14": {
-            "label": "Aero A.14",
-            "description": "The Aero A.14 was a Czechoslovakian biplane military reconnaissance aircraft built in the 1920s. It was essentially a slightly modified version of the Hansa-Brandenburg B.I aircraft that Aero had been ... Wikipedia",
-            "type": "",
-            "Top speed ": [
-                "111 mph (179 km/h)"
-            ],
-            "Length ": [
-                "28' (8.40 m)"
-            ],
-            "Wingspan ": [
-                "40' (12 m)"
-            ],
-            "Manufacturer ": [
-                "Aero Vodochody"
-            ]
-        },
         "Aero A.12": {
             "label": "Aero A.12",
             "description": "The Aero A.12 was a Czechoslovakian biplane light bomber and military reconnaissance aircraft manufactured in small numbers shortly after World War I. Wikipedia",
@@ -283,6 +266,23 @@
             ],
             "Wingspan ": [
                 "43' (13 m)"
+            ],
+            "Manufacturer ": [
+                "Aero Vodochody"
+            ]
+        },
+        "Aero A.14": {
+            "label": "Aero A.14",
+            "description": "The Aero A.14 was a Czechoslovakian biplane military reconnaissance aircraft built in the 1920s. It was essentially a slightly modified version of the Hansa-Brandenburg B.I aircraft that Aero had been ... Wikipedia",
+            "type": "",
+            "Top speed ": [
+                "111 mph (179 km/h)"
+            ],
+            "Length ": [
+                "28' (8.40 m)"
+            ],
+            "Wingspan ": [
+                "40' (12 m)"
             ],
             "Manufacturer ": [
                 "Aero Vodochody"
@@ -334,11 +334,6 @@
             ],
             "See results about": []
         },
-        "Aero A.300": {
-            "label": "Aero A.300",
-            "description": "The Aero A.300 was a Czechoslovakian bomber aircraft that first flew in 1938 as a much refined development of the A.304. Despite showing much promise, development and production of the aircraft was interrupted by the outbreak of World War II. Wikipedia",
-            "type": ""
-        },
         "Aero A.23": {
             "label": "Aero A.23",
             "description": "The Aero A.23 was a Czechoslovakian biplane airliner of the 1920s. Aero's previous airliner design, the A.10 had been a relatively crude machine drawing heavily on World War I military aircraft. Wikipedia",
@@ -361,6 +356,11 @@
             "Manufacturer ": [
                 "Aero Vodochody"
             ]
+        },
+        "Aero A.300": {
+            "label": "Aero A.300",
+            "description": "The Aero A.300 was a Czechoslovakian bomber aircraft that first flew in 1938 as a much refined development of the A.304. Despite showing much promise, development and production of the aircraft was interrupted by the outbreak of World War II. Wikipedia",
+            "type": ""
         },
         "Aero A.304": {
             "label": "Aero A.304",
@@ -427,23 +427,6 @@
             "description": "The Aero A.42 was a Czechoslovakian bomber aircraft of 1929 that was only ever produced in prototype form. For its day, it was an advanced design, with a sleek monoplane configuration. Wikipedia",
             "type": ""
         },
-        "Aero Ae 01": {
-            "label": "Aero Ae 01",
-            "description": "The Aero Ae 01 was a Czechoslovakian military trainer biplane built in 1919, the company's first attempt to modify one of the aircraft designs they had been manufacturing under licence during World War I, the Hansa-Brandenburg B.I. Wikipedia",
-            "type": "",
-            "Top speed ": [
-                "68 mph (110 km/h)"
-            ],
-            "Length ": [
-                "28' (8.50 m)"
-            ],
-            "Wingspan ": [
-                "40' (12 m)"
-            ],
-            "First flight ": [
-                "1919"
-            ]
-        },
         "Aero Ae-45": {
             "label": "Aero Ae-45",
             "description": "The Aero 45 was a twin piston-engined civil utility aircraft produced in Czechoslovakia after World War II. It was the first product of the nation's post-war aviation industry and proved a great success, with many of the 590 produced being exported. Wikipedia",
@@ -461,6 +444,23 @@
             "Manufacturers ": [
                 "Aero Vodochody",
                 " Let Kunovice"
+            ]
+        },
+        "Aero Ae 01": {
+            "label": "Aero Ae 01",
+            "description": "The Aero Ae 01 was a Czechoslovakian military trainer biplane built in 1919, the company's first attempt to modify one of the aircraft designs they had been manufacturing under licence during World War I, the Hansa-Brandenburg B.I. Wikipedia",
+            "type": "",
+            "Top speed ": [
+                "68 mph (110 km/h)"
+            ],
+            "Length ": [
+                "28' (8.50 m)"
+            ],
+            "Wingspan ": [
+                "40' (12 m)"
+            ],
+            "First flight ": [
+                "1919"
             ]
         },
         "Aero L-29 Delfín": {
@@ -490,6 +490,37 @@
             "Engine type ": [
                 "Motorlet M-701"
             ]
+        },
+        "Aero Spacelines Super Guppy": {
+            "label": "Aero Spacelines Super Guppy",
+            "description": "The Aero Spacelines Super Guppy is a large, wide-bodied cargo aircraft that is used for hauling outsized cargo components. It was the successor to the Pregnant Guppy, the first of the Guppy aircraft produced by Aero Spacelines. Wikipedia",
+            "type": "",
+            "Top speed ": [
+                "288 mph (463 km/h)"
+            ],
+            "Range ": [
+                "2",
+                "000 miles (3",
+                "219 km)"
+            ],
+            "Length ": [
+                "144' (44 m)"
+            ],
+            "Wingspan ": [
+                "156' (48 m)"
+            ],
+            "Weight ": [
+                "101",
+                "500 lbs (46",
+                "040 kg)"
+            ],
+            "Cruise speed ": [
+                "253 mph (407 km/h)"
+            ],
+            "Engine type ": [
+                "Turboprop"
+            ],
+            "See results about": []
         },
         "Aichi B7A": {
             "label": "Aichi B7A",
@@ -557,6 +588,20 @@
                 "Aichi Kokuki"
             ]
         },
+        "Aichi E11A": {
+            "label": "Aichi E11A",
+            "description": "The Aichi E11A was an Imperial Japanese Navy flying boat used during the first year of World War II for maritime patrol duties. The Allied reporting name for the type was \"Laura\"; the Japanese Navy designation was \"Type 98 Reconnaissance Seaplane\". Wikipedia",
+            "type": "",
+            "Top speed ": [
+                "135 mph (217 km/h)"
+            ],
+            "Length ": [
+                "35' (11 m)"
+            ],
+            "Wingspan ": [
+                "48' (14 m)"
+            ]
+        },
         "Aichi E13A": {
             "label": "Aichi E13A",
             "description": "The Aichi E13A was a long-range reconnaissance seaplane used by the Imperial Japanese Navy from 1941 to 1945. Numerically the most important floatplane of the IJN, it could carry a crew of three and a bombload of 250 kg. Wikipedia",
@@ -580,50 +625,10 @@
                 "Aichi Kokuki"
             ]
         },
-        "Aero Spacelines Super Guppy": {
-            "label": "Aero Spacelines Super Guppy",
-            "description": "The Aero Spacelines Super Guppy is a large, wide-bodied cargo aircraft that is used for hauling outsized cargo components. It was the successor to the Pregnant Guppy, the first of the Guppy aircraft produced by Aero Spacelines. Wikipedia",
-            "type": "",
-            "Top speed ": [
-                "288 mph (463 km/h)"
-            ],
-            "Range ": [
-                "2",
-                "000 miles (3",
-                "219 km)"
-            ],
-            "Length ": [
-                "144' (44 m)"
-            ],
-            "Wingspan ": [
-                "156' (48 m)"
-            ],
-            "Weight ": [
-                "101",
-                "500 lbs (46",
-                "040 kg)"
-            ],
-            "Cruise speed ": [
-                "253 mph (407 km/h)"
-            ],
-            "Engine type ": [
-                "Turboprop"
-            ],
-            "See results about": []
-        },
-        "Aichi E11A": {
-            "label": "Aichi E11A",
-            "description": "The Aichi E11A was an Imperial Japanese Navy flying boat used during the first year of World War II for maritime patrol duties. The Allied reporting name for the type was \"Laura\"; the Japanese Navy designation was \"Type 98 Reconnaissance Seaplane\". Wikipedia",
-            "type": "",
-            "Top speed ": [
-                "135 mph (217 km/h)"
-            ],
-            "Length ": [
-                "35' (11 m)"
-            ],
-            "Wingspan ": [
-                "48' (14 m)"
-            ]
+        "Aichi E16A": {
+            "label": "Aichi E16A",
+            "description": "The Aichi E16A Zuiun was a two-seat reconnaissance seaplane operated by the Imperial Japanese Navy during World War II. Wikipedia",
+            "type": ""
         },
         "Aichi H9A": {
             "label": "Aichi H9A",
@@ -733,11 +738,6 @@
                 " Airbus"
             ]
         },
-        "Aichi E16A": {
-            "label": "Aichi E16A",
-            "description": "The Aichi E16A Zuiun was a two-seat reconnaissance seaplane operated by the Imperial Japanese Navy during World War II. Wikipedia",
-            "type": ""
-        },
         "Airbus A400M": {
             "label": "Airbus A400M Atlas",
             "description": "The Airbus A400M Atlas is a multi-national four-engine turboprop military transport aircraft. It was designed by Airbus Military as a tactical airlifter with strategic capabilities. Wikipedia",
@@ -805,29 +805,6 @@
             ],
             "See results about": []
         },
-        "Airco DH.4": {
-            "label": "Airco DH.4",
-            "description": "The Airco DH.4 was a British two-seat biplane day-bomber of the First World War. It was designed by Geoffrey de Havilland for Airco, and was the first British two seat light day-bomber to have an effective defensive armament. Wikipedia",
-            "type": ""
-        },
-        "Airspeed Oxford": {
-            "label": "Airspeed Oxford",
-            "description": "The Airspeed AS.10 Oxford was a twin-engine aircraft used for training British Commonwealth aircrews in navigation, radio-operating, bombing and gunnery during the Second World War. Wikipedia",
-            "type": "",
-            "Top speed ": [
-                "192 mph (309 km/h)"
-            ],
-            "Length ": [
-                "35' (11 m)"
-            ],
-            "Wingspan ": [
-                "53' (16 m)"
-            ],
-            "First flight ": "June 19, 1937",
-            "Manufacturer ": [
-                "Airspeed Ltd."
-            ]
-        },
         "Airco DH.2": {
             "label": "Airco DH.2",
             "description": "The Airco DH.2 was a single-seat biplane \"pusher\" aircraft which operated as a fighter during the First World War. It was the second pusher design by Geoffrey de Havilland for Airco, based on his earlier DH.1 two-seater. Wikipedia",
@@ -854,6 +831,11 @@
             "Engine type ": [
                 "Rotary engine"
             ]
+        },
+        "Airco DH.4": {
+            "label": "Airco DH.4",
+            "description": "The Airco DH.4 was a British two-seat biplane day-bomber of the First World War. It was designed by Geoffrey de Havilland for Airco, and was the first British two seat light day-bomber to have an effective defensive armament. Wikipedia",
+            "type": ""
         },
         "Airco DH.9": {
             "label": "Airco DH.9",
@@ -883,6 +865,24 @@
                 "Siddeley Puma"
             ],
             "See results about": []
+        },
+        "Airspeed Oxford": {
+            "label": "Airspeed Oxford",
+            "description": "The Airspeed AS.10 Oxford was a twin-engine aircraft used for training British Commonwealth aircrews in navigation, radio-operating, bombing and gunnery during the Second World War. Wikipedia",
+            "type": "",
+            "Top speed ": [
+                "192 mph (309 km/h)"
+            ],
+            "Length ": [
+                "35' (11 m)"
+            ],
+            "Wingspan ": [
+                "53' (16 m)"
+            ],
+            "First flight ": "June 19, 1937",
+            "Manufacturer ": [
+                "Airspeed Ltd."
+            ]
         },
         "Albatros C.III": {
             "label": "Albatros C.III",
@@ -1663,6 +1663,12 @@
                 "000 USD (2012)"
             ]
         },
+        "Beechcraft King Air": {
+            "label": "Beechcraft King Air",
+            "description": "The Beechcraft King Air family is part of a line of twin-turboprop aircraft produced by Beechcraft. The King Air line comprises a number of models that have been divided into two families; the Model 90 ... Wikipedia",
+            "type": "",
+            "See results about": []
+        },
         "Beechcraft Model 99": {
             "label": "Beechcraft Model 99",
             "description": "The Beechcraft Model 99 is a civilian aircraft produced by the Beechcraft. It is also known as the Beech 99 Airliner and the Commuter 99. Wikipedia",
@@ -1691,6 +1697,39 @@
             ],
             "Engine type ": [
                 "Pratt & Whitney Canada PT6"
+            ]
+        },
+        "Beechcraft T-6 Texan II": {
+            "label": "Beechcraft T-6 Texan II",
+            "description": "The Beechcraft T-6 Texan II is a single-engined turboprop aircraft built by the Raytheon Aircraft Company. Wikipedia",
+            "type": "",
+            "Top speed ": [
+                "364 mph (585 km/h)"
+            ],
+            "Range ": [
+                "1",
+                "036 miles (1",
+                "667 km)"
+            ],
+            "Length ": [
+                "33' (10 m)"
+            ],
+            "Wingspan ": [
+                "33' (10 m)"
+            ],
+            "Unit cost ": [
+                "3",
+                "900",
+                "000–6",
+                "000",
+                "000 USD"
+            ],
+            "Engine type ": [
+                "Pratt & Whitney Canada PT6"
+            ],
+            "Manufacturers ": [
+                "Hawker Beechcraft",
+                " Beechcraft"
             ]
         },
         "Bell Boeing V-22 Osprey": {
@@ -1726,45 +1765,6 @@
                 " Boeing Rotorcraft Systems"
             ]
         },
-        "Beechcraft King Air": {
-            "label": "Beechcraft King Air",
-            "description": "The Beechcraft King Air family is part of a line of twin-turboprop aircraft produced by Beechcraft. The King Air line comprises a number of models that have been divided into two families; the Model 90 ... Wikipedia",
-            "type": "",
-            "See results about": []
-        },
-        "Beechcraft T-6 Texan II": {
-            "label": "Beechcraft T-6 Texan II",
-            "description": "The Beechcraft T-6 Texan II is a single-engined turboprop aircraft built by the Raytheon Aircraft Company. Wikipedia",
-            "type": "",
-            "Top speed ": [
-                "364 mph (585 km/h)"
-            ],
-            "Range ": [
-                "1",
-                "036 miles (1",
-                "667 km)"
-            ],
-            "Length ": [
-                "33' (10 m)"
-            ],
-            "Wingspan ": [
-                "33' (10 m)"
-            ],
-            "Unit cost ": [
-                "3",
-                "900",
-                "000–6",
-                "000",
-                "000 USD"
-            ],
-            "Engine type ": [
-                "Pratt & Whitney Canada PT6"
-            ],
-            "Manufacturers ": [
-                "Hawker Beechcraft",
-                " Beechcraft"
-            ]
-        },
         "Bell UH-1 Iroquois": {
             "label": "Bell UH-1 Iroquois",
             "description": "The Bell UH-1 Iroquois is a military helicopter powered by a single, turboshaft engine, with a two-bladed main rotor and tail rotor. Wikipedia",
@@ -1778,6 +1778,28 @@
             ],
             "Manufacturer ": [
                 "Bell Helicopter"
+            ]
+        },
+        "Bell X-14": {
+            "label": "Bell X-14",
+            "description": "The Bell X-14 was an experimental VTOL aircraft flown in the United States in the 1950s. The main objective of the project was to demonstrate horizontal and vertical takeoff, hover, transition to forward flight, and vertical landing. Wikipedia",
+            "type": "",
+            "Top speed ": [
+                "172 mph (277 km/h)"
+            ],
+            "Length ": [
+                "25' 0\" (7.62 m)"
+            ],
+            "Wingspan ": [
+                "34' (10 m)"
+            ],
+            "First flight ": "February 19, 1957",
+            "Retired ": "May 29, 1981",
+            "Engine type ": [
+                "Armstrong Siddeley Viper"
+            ],
+            "Manufacturer ": [
+                "Bell Aircraft"
             ]
         },
         "Bell X-16": {
@@ -1810,28 +1832,6 @@
                 "Bell Aircraft"
             ]
         },
-        "Bell X-14": {
-            "label": "Bell X-14",
-            "description": "The Bell X-14 was an experimental VTOL aircraft flown in the United States in the 1950s. The main objective of the project was to demonstrate horizontal and vertical takeoff, hover, transition to forward flight, and vertical landing. Wikipedia",
-            "type": "",
-            "Top speed ": [
-                "172 mph (277 km/h)"
-            ],
-            "Length ": [
-                "25' 0\" (7.62 m)"
-            ],
-            "Wingspan ": [
-                "34' (10 m)"
-            ],
-            "First flight ": "February 19, 1957",
-            "Retired ": "May 29, 1981",
-            "Engine type ": [
-                "Armstrong Siddeley Viper"
-            ],
-            "Manufacturer ": [
-                "Bell Aircraft"
-            ]
-        },
         "Bell XFL Airabonita": {
             "label": "Bell XFL Airabonita",
             "description": "The Bell XFL Airabonita was a United States experimental shipboard interceptor aircraft developed for the United States Navy by Bell Aircraft. Wikipedia",
@@ -1839,24 +1839,62 @@
         }
     },
     "summary": {
-        "label": 93,
-        "description": 93,
-        "type": 93,
-        "length": 1,
-        "wingspan": 1,
-        "top_speed": 1,
-        "range": 1,
-        "weight": 1,
-        "engine_type": 1,
-        "manufacturer": 1,
-        "first_flight": 1,
-        "introduced": 1,
-        "see_results_about": 1,
-        "cruise_speed": 1,
-        "retired": 1,
-        "manufacturers": 1,
-        "unit_cost": 1,
-        "designer": 1
+        "label": {
+            "uri": "http://www.w3.org/2000/01/rdf-schema#label",
+            "count": 93
+        },
+        "description": {
+            "uri": "http://dbpedia.org/property/description",
+            "count": 93
+        },
+        "type": {
+            "uri": "http://dbpedia.org/property/type",
+            "count": 93
+        },
+        "length": {
+            "uri": "http://dbpedia.org/property/length",
+            "count": 74
+        },
+        "range": {
+            "uri": "http://dbpedia.org/property/range",
+            "count": 20
+        },
+        "weight": {
+            "uri": "http://dbpedia.org/property/power/weight",
+            "count": 18
+        },
+        "manufacturer": {
+            "uri": "http://dbpedia.org/property/manufacturer",
+            "count": 55
+        },
+        "firstFlight": {
+            "uri": "http://dbpedia.org/property/firstFlight",
+            "count": 39
+        },
+        "introduced": {
+            "uri": "http://dbpedia.org/property/introduced",
+            "count": 11
+        },
+        "cruiseSpeed": {
+            "uri": "http://dbpedia.org/property/cruiseSpeed",
+            "count": 9
+        },
+        "retired": {
+            "uri": "http://dbpedia.org/ontology/retired",
+            "count": 16
+        },
+        "manufacturers": {
+            "uri": "http://dbpedia.org/property/manufacturers",
+            "count": 7
+        },
+        "unitCost": {
+            "uri": "http://dbpedia.org/property/unitCost",
+            "count": 5
+        },
+        "designer": {
+            "uri": "http://dbpedia.org/property/designer",
+            "count": 8
+        }
     },
     "infoboxless": [
         "ABC Robin",
@@ -1866,5 +1904,11 @@
         "Aero A.101",
         "Applebay Zuni",
         "Avro Avis"
-    ]
+    ],
+    "Unmapped_Properties": {
+        "wingspan": 1,
+        "topSpeed": 1,
+        "engineType": 1,
+        "seeResultsAbout": 1
+    }
 }

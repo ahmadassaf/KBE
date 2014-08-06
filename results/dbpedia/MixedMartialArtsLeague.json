@@ -8,10 +8,21 @@
         }
     },
     "summary": {
-        "label": 1,
-        "description": 1,
-        "type": 1,
-        "people_also_search_for": 1
+        "label": {
+            "uri": "http://www.w3.org/2000/01/rdf-schema#label",
+            "count": 1
+        },
+        "description": {
+            "uri": "http://fr.dbpedia.org/ontology/abstract",
+            "count": 1
+        },
+        "type": {
+            "uri": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+            "count": 1
+        }
     },
-    "infoboxless": []
+    "infoboxless": [],
+    "Unmapped_Properties": {
+        "peopleAlsoSearchFor": 1
+    }
 }

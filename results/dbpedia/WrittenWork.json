@@ -1,5 +1,25 @@
 {
     "instances": {
+        "A Crown of Swords": {
+            "label": "A Crown of Swords",
+            "description": "A Crown of Swords is the seventh book of The Wheel of Time fantasy series written by American author Robert Jordan. It was published by Tor Books and released on May 15, 1996. A Crown of Swords consists of a prologue and 41 chapters. Wikipedia",
+            "type": "",
+            "Published ": "May 15, 1996",
+            "Author ": [
+                "Robert Jordan"
+            ],
+            "Preceded by ": [
+                "Lord of Chaos"
+            ],
+            "Followed by ": [
+                "The Path of Daggers"
+            ],
+            "Genres ": [
+                "Fantasy",
+                " Speculative fiction"
+            ],
+            "People also search for": []
+        },
         "'Salem's Lot": {
             "label": "'Salem's Lot",
             "description": "'Salem's Lot is a 1975 horror fiction novel written by the American author Stephen King. It was his second published novel. Wikipedia",
@@ -26,26 +46,6 @@
                 " Susan Norton",
                 " Matt Burke",
                 " Richard K. Straker"
-            ],
-            "People also search for": []
-        },
-        "A Crown of Swords": {
-            "label": "A Crown of Swords",
-            "description": "A Crown of Swords is the seventh book of The Wheel of Time fantasy series written by American author Robert Jordan. It was published by Tor Books and released on May 15, 1996. A Crown of Swords consists of a prologue and 41 chapters. Wikipedia",
-            "type": "",
-            "Published ": "May 15, 1996",
-            "Author ": [
-                "Robert Jordan"
-            ],
-            "Preceded by ": [
-                "Lord of Chaos"
-            ],
-            "Followed by ": [
-                "The Path of Daggers"
-            ],
-            "Genres ": [
-                "Fantasy",
-                " Speculative fiction"
             ],
             "People also search for": []
         },
@@ -93,6 +93,21 @@
             ],
             "Related Edgar Allan Poe books": []
         },
+        "A Drama in Livonia": {
+            "label": "A Drama in Livonia",
+            "description": "A Drama in Livonia is a novel written by Jules Verne in 1893, revised in 1903 and first published in 1904. Wikipedia",
+            "type": "",
+            "Published ": [
+                "1904"
+            ],
+            "Author ": [
+                "Jules Verne"
+            ],
+            "Genre ": [
+                "Adventure fiction"
+            ],
+            "People also search for": []
+        },
         "A Drama in Mexico": {
             "label": "A Drama in Mexico",
             "description": "\"A Drama in Mexico\" is a historical short story by Jules Verne, first published in July 1851 under the title \"The First Ships of the Mexican Navy\". Wikipedia",
@@ -109,21 +124,6 @@
                 " Historical fiction"
             ],
             "Related Jules Verne books": []
-        },
-        "A Drama in Livonia": {
-            "label": "A Drama in Livonia",
-            "description": "A Drama in Livonia is a novel written by Jules Verne in 1893, revised in 1903 and first published in 1904. Wikipedia",
-            "type": "",
-            "Published ": [
-                "1904"
-            ],
-            "Author ": [
-                "Jules Verne"
-            ],
-            "Genre ": [
-                "Adventure fiction"
-            ],
-            "People also search for": []
         },
         "A Few Good Men (play)": {
             "label": "A Few Good Men",
@@ -477,6 +477,21 @@
             "Cast": [],
             "People also search for": []
         },
+        "Amphitryon (play)": {
+            "label": "Amphitryon",
+            "description": "Amphitryon is a Latin play for the early Roman theatre by playwright Titus Maccius Plautus. It is Plautus’ only play on a mythological subject; he refers to it as a tragicomoedia in the prologue. Wikipedia",
+            "type": "",
+            "Published ": [
+                "1952"
+            ],
+            "Playwright ": [
+                "Plautus"
+            ],
+            "Adaptations ": [
+                "Geta"
+            ],
+            "Plautus plays": []
+        },
         "An American Tragedy": {
             "label": "An American Tragedy",
             "description": "An American Tragedy is a novel by the American writer Theodore Dreiser. Wikipedia",
@@ -496,21 +511,6 @@
                 " Crime Fiction"
             ],
             "People also search for": []
-        },
-        "Amphitryon (play)": {
-            "label": "Amphitryon",
-            "description": "Amphitryon is a Latin play for the early Roman theatre by playwright Titus Maccius Plautus. It is Plautus’ only play on a mythological subject; he refers to it as a tragicomoedia in the prologue. Wikipedia",
-            "type": "",
-            "Published ": [
-                "1952"
-            ],
-            "Playwright ": [
-                "Plautus"
-            ],
-            "Adaptations ": [
-                "Geta"
-            ],
-            "Plautus plays": []
         },
         "An Essay on the Principle of Population": {
             "label": "An Essay on the Principle of Population",
@@ -556,36 +556,6 @@
             "Cast": [],
             "People also search for": []
         },
-        "Anna Christie": {
-            "label": "Anna Christie",
-            "description": "Anna Christie is a play in four acts by Eugene O'Neill. It made its Broadway debut at the Vanderbilt Theatre on November 2, 1921. O'Neill received the 1922 Pulitzer Prize for Drama for this work. Wikipedia",
-            "type": "",
-            "First performance ": "November 2, 1921",
-            "Playwright ": [
-                "Eugene O'Neill"
-            ],
-            "Composer ": [
-                "Douglas J. Cuomo"
-            ],
-            "Characters ": [
-                "Mat Burke",
-                " A postman",
-                " Johnny the Priest",
-                " Anna Christie",
-                " Marthy Owen",
-                " Chris C. Christopherson",
-                " Johnson",
-                " First longshoreman",
-                " Second longshoreman",
-                " LarryMore"
-            ],
-            "Adaptations ": [
-                "Anna Christie (1931)",
-                " Anna Christie (1930)",
-                " Anna Christie (1923)"
-            ],
-            "People also search for": []
-        },
         "Anne of Green Gables": {
             "label": "Anne of Green Gables",
             "description": "Anne of Green Gables is a bestselling 1908 novel by Canadian author Lucy Maud Montgomery. Written as fiction for readers of all ages, the literary classic has been considered a children's novel since the mid-twentieth century. Wikipedia",
@@ -629,6 +599,36 @@
             ],
             "People also search for": []
         },
+        "Anna Christie": {
+            "label": "Anna Christie",
+            "description": "Anna Christie is a play in four acts by Eugene O'Neill. It made its Broadway debut at the Vanderbilt Theatre on November 2, 1921. O'Neill received the 1922 Pulitzer Prize for Drama for this work. Wikipedia",
+            "type": "",
+            "First performance ": "November 2, 1921",
+            "Playwright ": [
+                "Eugene O'Neill"
+            ],
+            "Composer ": [
+                "Douglas J. Cuomo"
+            ],
+            "Characters ": [
+                "Mat Burke",
+                " A postman",
+                " Johnny the Priest",
+                " Anna Christie",
+                " Marthy Owen",
+                " Chris C. Christopherson",
+                " Johnson",
+                " First longshoreman",
+                " Second longshoreman",
+                " LarryMore"
+            ],
+            "Adaptations ": [
+                "Anna Christie (1931)",
+                " Anna Christie (1930)",
+                " Anna Christie (1923)"
+            ],
+            "People also search for": []
+        },
         "Ardiente paciencia": {
             "label": "Ardiente paciencia",
             "description": "Ardiente Paciencia, or El Cartero De Neruda, is a 1985 novel by Antonio Skármeta. The novel was published in the English market under the title The Postman. Wikipedia",
@@ -652,6 +652,22 @@
             ],
             "People also search for": []
         },
+        "Atala (novella)": {
+            "label": "Atala*",
+            "description": "Atala is an early novella by François-René de Chateaubriand, first published on 12 germinal IX. The work, inspired by his travels in North America, had an immense impact on early Romanticism, and went through five editions in its first year. Wikipedia",
+            "type": "",
+            "Published ": [
+                "1801"
+            ],
+            "Author ": [
+                "François-René de Chateaubriand"
+            ],
+            "Genres ": [
+                "Novella",
+                " Romanticism"
+            ],
+            "François-René de Chateaubriand books": []
+        },
         "Ark Angel": {
             "label": "Ark Angel",
             "description": "Ark Angel is the sixth book in the Alex Rider series written by British author Anthony Horowitz. The book was released in the United Kingdom on April 1, 2005 and in the United States on April 20, 2006. Wikipedia",
@@ -673,22 +689,6 @@
                 " Spy fiction"
             ],
             "People also search for": []
-        },
-        "Atala (novella)": {
-            "label": "Atala*",
-            "description": "Atala is an early novella by François-René de Chateaubriand, first published on 12 germinal IX. The work, inspired by his travels in North America, had an immense impact on early Romanticism, and went through five editions in its first year. Wikipedia",
-            "type": "",
-            "Published ": [
-                "1801"
-            ],
-            "Author ": [
-                "François-René de Chateaubriand"
-            ],
-            "Genres ": [
-                "Novella",
-                " Romanticism"
-            ],
-            "François-René de Chateaubriand books": []
         },
         "Atonement (novel)": {
             "label": "Atonement",
@@ -1459,11 +1459,6 @@
             ],
             "People also search for": []
         },
-        "Dictionary of American Naval Fighting Ships": {
-            "label": "Dictionary of American Naval Fighting Ships",
-            "description": "The Dictionary of American Naval Fighting Ships is the official reference work for the basic facts about ships used by the United States Navy. Wikipedia",
-            "type": ""
-        },
         "Dialectic of Enlightenment": {
             "label": "Dialectic of Enlightenment",
             "description": "Dialectic of Enlightenment is a work of philosophy and social criticism written by Frankfurt School philosophers Max Horkheimer and Theodor W. Adorno and first published in 1944. Wikipedia",
@@ -1476,6 +1471,11 @@
                 " Max Horkheimer"
             ],
             "People also search for": []
+        },
+        "Dictionary of American Naval Fighting Ships": {
+            "label": "Dictionary of American Naval Fighting Ships",
+            "description": "The Dictionary of American Naval Fighting Ships is the official reference work for the basic facts about ships used by the United States Navy. Wikipedia",
+            "type": ""
         },
         "Dictionary of the Khazars": {
             "label": "Dictionary of the Khazars",
@@ -1532,57 +1532,94 @@
         }
     },
     "summary": {
-        "label": 75,
-        "description": 75,
-        "type": 75,
-        "published": 1,
-        "author": 1,
-        "preceded_by": 1,
-        "followed_by": 1,
-        "adaptations": 1,
-        "characters": 1,
-        "people_also_search_for": 1,
-        "genres": 1,
-        "genre": 1,
-        "related_edgar_allan_poe_books": 1,
-        "related_jules_verne_books": 1,
-        "playwright": 1,
-        "related_dorothy_m._johnson_books": 1,
-        "kurt_vonnegut_books": 1,
-        "illustrator": 1,
-        "see_results_about": 1,
-        "related_john_irving_books": 1,
-        "authors": 1,
-        "release_date": 1,
-        "director": 1,
-        "adapted_from": 1,
-        "story_by": 1,
-        "awards": 1,
-        "cast": 1,
-        "plautus_plays": 1,
-        "prequel": 1,
-        "sequel": 1,
-        "first_performance": 1,
-        "composer": 1,
-        "françois-rené_de_chateaubriand_books": 1,
-        "related_jack_kerouac_books": 1,
-        "philip_ardagh_books": 1,
-        "umberto_eco_books": 1,
-        "initial_release": 1,
-        "screenplay": 1,
-        "languages": 1,
-        "mpaa_rating": 1,
-        "initial_dvd_release": 1,
-        "victor_hugo_books": 1,
-        "stephen_king_books": 1,
-        "original_language": 1,
-        "related_italo_calvino_books": 1,
-        "related_agatha_christie_books": 1,
-        "books": 1,
-        "related_maarten_'t_hart_books": 1,
-        "running_time": 1,
-        "music_composed_by": 1,
-        "related_stephen_king_books": 1
+        "label": {
+            "uri": "http://dbpedia.org/property/label",
+            "count": 75
+        },
+        "description": {
+            "uri": "http://dbpedia.org/ontology/description",
+            "count": 75
+        },
+        "type": {
+            "uri": "http://dbpedia.org/property/type",
+            "count": 75
+        },
+        "published": {
+            "uri": "http://dbpedia.org/property/published",
+            "count": 61
+        },
+        "author": {
+            "uri": "http://dbpedia.org/property/author",
+            "count": 55
+        },
+        "precededBy": {
+            "uri": "http://dbpedia.org/property/precededBy",
+            "count": 17
+        },
+        "followedBy": {
+            "uri": "http://dbpedia.org/property/followedBy",
+            "count": 19
+        },
+        "genres": {
+            "uri": "http://dbpedia.org/property/genres",
+            "count": 40
+        },
+        "characters": {
+            "uri": "http://dbpedia.org/property/characters",
+            "count": 19
+        },
+        "genre": {
+            "uri": "http://dbpedia.org/property/genre",
+            "count": 11
+        },
+        "playwright": {
+            "uri": "http://dbpedia.org/property/playwright",
+            "count": 7
+        },
+        "illustrator": {
+            "uri": "http://dbpedia.org/property/illustrator",
+            "count": 1
+        },
+        "authors": {
+            "uri": "http://dbpedia.org/property/authors",
+            "count": 3
+        },
+        "releaseDate": {
+            "uri": "http://dbpedia.org/property/releaseDate",
+            "count": 3
+        },
+        "director": {
+            "uri": "http://dbpedia.org/property/director",
+            "count": 6
+        },
+        "awards": {
+            "uri": "http://dbpedia.org/property/awards",
+            "count": 2
+        },
+        "composer": {
+            "uri": "http://dbpedia.org/property/composer",
+            "count": 1
+        },
+        "screenplay": {
+            "uri": "http://dbpedia.org/property/screenplay",
+            "count": 3
+        },
+        "languages": {
+            "uri": "http://dbpedia.org/property/languages",
+            "count": 1
+        },
+        "originalLanguage": {
+            "uri": "http://dbpedia.org/property/originalLanguage",
+            "count": 2
+        },
+        "books": {
+            "uri": "http://dbpedia.org/property/books",
+            "count": 1
+        },
+        "runningTime": {
+            "uri": "http://dbpedia.org/property/runningTime",
+            "count": 1
+        }
     },
     "infoboxless": [
         "AVN (magazine)",
@@ -1610,5 +1647,36 @@
         "Daily Mail",
         "De Morgen",
         "Death in the Afternoon"
-    ]
+    ],
+    "Unmapped_Properties": {
+        "peopleAlsoSearchFor": 1,
+        "adaptations": 1,
+        "relatedEdgarAllanPoeBooks": 1,
+        "relatedJulesVerneBooks": 1,
+        "relatedDorothyM.JohnsonBooks": 1,
+        "kurtVonnegutBooks": 1,
+        "seeResultsAbout": 1,
+        "relatedJohnIrvingBooks": 1,
+        "adaptedFrom": 1,
+        "storyBy": 1,
+        "cast": 1,
+        "plautusPlays": 1,
+        "prequel": 1,
+        "sequel": 1,
+        "firstPerformance": 1,
+        "françoisRenéDeChateaubriandBooks": 1,
+        "relatedJackKerouacBooks": 1,
+        "philipArdaghBooks": 1,
+        "umbertoEcoBooks": 1,
+        "initialRelease": 1,
+        "mpaaRating": 1,
+        "initialDvdRelease": 1,
+        "victorHugoBooks": 1,
+        "stephenKingBooks": 1,
+        "relatedItaloCalvinoBooks": 1,
+        "relatedAgathaChristieBooks": 1,
+        "relatedMaarten-'tHartBooks": 1,
+        "musicComposedBy": 1,
+        "relatedStephenKingBooks": 1
+    }
 }

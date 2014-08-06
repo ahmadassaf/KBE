@@ -145,30 +145,6 @@
             ],
             "People also search for": []
         },
-        "Laughing Samoans": {
-            "label": "Laughing Samoans",
-            "description": "The Laughing Samoans are a New Zealand-based duo formed by comedians Eteuati Ete and Tofiga Fepulea'i, both of Samoan descent. Wikipedia",
-            "type": "",
-            "Born ": [
-                "New Zealand"
-            ],
-            "People also search for": []
-        },
-        "Mitchell and Webb": {
-            "label": "Mitchell and Webb",
-            "description": "Mitchell and Webb are a British comedy double act, composed of David Mitchell and Robert Webb. They are best known for starring in the Channel 4 sitcom Peep Show and their award-winning sketch show That Mitchell and Webb Look. Wikipedia",
-            "type": "",
-            "See results about": []
-        },
-        "Adam and Joe": {
-            "label": "Adam and Joe",
-            "description": "Adam Buxton and Joe Cornish are British comedy performers known together as Adam and Joe. They are best known for presenting Adam and Joe on BBC Radio 6 Music, and The Adam and Joe Show on Channel 4 from 1996 to 2001. Wikipedia",
-            "type": "",
-            "Born ": [
-                "United Kingdom"
-            ],
-            "People also search for": []
-        },
         "Galenskaparna och After Shave": {
             "label": "Galenskaparna and After Shave",
             "description": "Galenskaparna och After Shave is the collaborative name of two Swedish comedy groups, Galenskaparna and After Shave, from Gothenburg. Wikipedia",
@@ -193,16 +169,34 @@
             ],
             "People also search for": []
         },
+        "Adam and Joe": {
+            "label": "Adam and Joe",
+            "description": "Adam Buxton and Joe Cornish are British comedy performers known together as Adam and Joe. They are best known for presenting Adam and Joe on BBC Radio 6 Music, and The Adam and Joe Show on Channel 4 from 1996 to 2001. Wikipedia",
+            "type": "",
+            "Born ": [
+                "United Kingdom"
+            ],
+            "People also search for": []
+        },
+        "Laughing Samoans": {
+            "label": "Laughing Samoans",
+            "description": "The Laughing Samoans are a New Zealand-based duo formed by comedians Eteuati Ete and Tofiga Fepulea'i, both of Samoan descent. Wikipedia",
+            "type": "",
+            "Born ": [
+                "New Zealand"
+            ],
+            "People also search for": []
+        },
+        "Mitchell and Webb": {
+            "label": "Mitchell and Webb",
+            "description": "Mitchell and Webb are a British comedy double act, composed of David Mitchell and Robert Webb. They are best known for starring in the Channel 4 sitcom Peep Show and their award-winning sketch show That Mitchell and Webb Look. Wikipedia",
+            "type": "",
+            "See results about": []
+        },
         "Neveneffecten (cabaret)": {
             "label": "Neveneffecten",
             "description": "Neveneffecten is a Flemish cabaret quartet formed by Jonas Geirnaert, Lieven Scheire, Koen De Poorter and Jelle De Beule. Wikipedia",
             "type": "Cabaret"
-        },
-        "The Books of Knjige": {
-            "label": "The Books of Knjige",
-            "description": "The Books of Knjige is the name of the Montenegrin comedy troupe and alternative rock band from Cetinje, also known as TBOK, Booksovci or Buksovci. It consists four members Popaj, Goran, Gajo and Zonjo. Wikipedia",
-            "type": "Band",
-            "People also search for": []
         },
         "Royal Canadian Air Farce": {
             "label": "Royal Canadian Air Farce",
@@ -225,6 +219,18 @@
             ],
             "People also search for": []
         },
+        "The Books of Knjige": {
+            "label": "The Books of Knjige",
+            "description": "The Books of Knjige is the name of the Montenegrin comedy troupe and alternative rock band from Cetinje, also known as TBOK, Booksovci or Buksovci. It consists four members Popaj, Goran, Gajo and Zonjo. Wikipedia",
+            "type": "Band",
+            "People also search for": []
+        },
+        "The Penny Dreadfuls": {
+            "label": "The Penny Dreadfuls",
+            "description": "The Penny Dreadfuls are a British sketch-comedy troupe consisting of comedians Humphrey Ker, David Reed and Thom Tuck. The sketch team perform regularly on the London comedy circuit. Wikipedia",
+            "type": "",
+            "People also search for": []
+        },
         "Tim & Eric": {
             "label": "Tim and Eric",
             "description": "Tim Heidecker and Eric Wareheim, known collectively as Tim & Eric, are an American comedy duo and creators of the Adult Swim television series Tom Goes to the Mayor and Tim and Eric Awesome Show, Great Job!. Wikipedia",
@@ -239,33 +245,25 @@
             ],
             "Songs": [],
             "People also search for": []
-        },
-        "The Penny Dreadfuls": {
-            "label": "The Penny Dreadfuls",
-            "description": "The Penny Dreadfuls are a British sketch-comedy troupe consisting of comedians Humphrey Ker, David Reed and Thom Tuck. The sketch team perform regularly on the London comedy circuit. Wikipedia",
-            "type": "",
-            "People also search for": []
         }
     },
     "summary": {
-        "label": 21,
-        "description": 21,
-        "type": 21,
-        "members": 1,
-        "people_also_search_for": 1,
-        "release_date": 1,
-        "director": 1,
-        "running_time": 1,
-        "initial_dvd_release": 1,
-        "awards": 1,
-        "cast": 1,
-        "albums": 1,
-        "songs": 1,
-        "born": 1,
-        "nominations": 1,
-        "record_labels": 1,
-        "see_results_about": 1,
-        "active_from": 1
+        "label": {
+            "uri": "http://www.w3.org/2000/01/rdf-schema#label",
+            "count": 21
+        },
+        "description": {
+            "uri": "http://purl.org/dc/elements/1.1/description",
+            "count": 21
+        },
+        "type": {
+            "uri": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+            "count": 21
+        },
+        "director": {
+            "uri": "http://dbpedia.org/property/director",
+            "count": 1
+        }
     },
     "infoboxless": [
         "Ad-Libs",
@@ -279,5 +277,21 @@
         "Naked Samoans",
         "Totally Tom",
         "Asperger's Are Us"
-    ]
+    ],
+    "Unmapped_Properties": {
+        "members": 1,
+        "peopleAlsoSearchFor": 1,
+        "releaseDate": 1,
+        "runningTime": 1,
+        "initialDvdRelease": 1,
+        "awards": 1,
+        "cast": 1,
+        "albums": 1,
+        "songs": 1,
+        "born": 1,
+        "nominations": 1,
+        "recordLabels": 1,
+        "activeFrom": 1,
+        "seeResultsAbout": 1
+    }
 }

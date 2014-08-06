@@ -1,16 +1,25 @@
 {
     "instances": {
+        "Saturn IB": {
+            "label": "Saturn IB",
+            "description": "The Saturn IB was an American launch vehicle commissioned by the National Aeronautics and Space Administration for the Apollo program. Wikipedia",
+            "type": "",
+            "Related topics": []
+        },
         "Atlas III": {
             "label": "Atlas III",
             "description": "The Lockheed Martin Atlas III was an American orbital launch vehicle, used between 2000 and 2005. It was the first member of the Atlas family since the Atlas A to feature a \"normal\" staging method, ... Wikipedia",
             "type": "",
             "See results about": []
         },
-        "Saturn IB": {
-            "label": "Saturn IB",
-            "description": "The Saturn IB was an American launch vehicle commissioned by the National Aeronautics and Space Administration for the Apollo program. Wikipedia",
-            "type": "",
-            "Related topics": []
+        "Jarvis (rocket)": {
+            "label": "Jarvis",
+            "description": "Jarvis was a proposed American heavy-lift launch vehicle for space launch, designed by Hughes Aircraft and Boeing during the mid-1980s as part of the joint United States Air Force /National Aeronautics ... Wikipedia",
+            "type": "Rocket",
+            "Manufacturers ": [
+                "Hughes Aircraft Company",
+                " Boeing"
+            ]
         },
         "Lynx (spacecraft)": {
             "label": "Lynx rocketplane",
@@ -25,15 +34,6 @@
             "description": "The N-1 was a heavy lift rocket intended to deliver payloads beyond low Earth orbit, acting as the Soviet counterpart to the NASA Saturn V rocket. Wikipedia",
             "type": "Rocket",
             "Related topics": []
-        },
-        "Jarvis (rocket)": {
-            "label": "Jarvis",
-            "description": "Jarvis was a proposed American heavy-lift launch vehicle for space launch, designed by Hughes Aircraft and Boeing during the mid-1980s as part of the joint United States Air Force /National Aeronautics ... Wikipedia",
-            "type": "Rocket",
-            "Manufacturers ": [
-                "Hughes Aircraft Company",
-                " Boeing"
-            ]
         },
         "Atlas I": {
             "label": "ATLAS-I",
@@ -67,20 +67,22 @@
         }
     },
     "summary": {
-        "label": 8,
-        "description": 8,
-        "type": 8,
-        "see_results_about": 1,
-        "related_topics": 1,
-        "designer": 1,
-        "manufacturers": 1,
-        "stock_price": 1,
-        "headquarters": 1,
-        "ceo": 1,
-        "founder": 1,
-        "founded": 1,
-        "track_flight_status": 1,
-        "recent_posts": 1
+        "label": {
+            "uri": "http://www.w3.org/2000/01/rdf-schema#label",
+            "count": 8
+        },
+        "description": {
+            "uri": "http://fr.dbpedia.org/ontology/abstract",
+            "count": 8
+        },
+        "type": {
+            "uri": "http://dbpedia.org/property/type",
+            "count": 8
+        },
+        "designer": {
+            "uri": "http://dbpedia.org/property/designer",
+            "count": 1
+        }
     },
     "infoboxless": [
         "Black Knight (rocket)",
@@ -175,5 +177,17 @@
         "Long March 3C",
         "Long March 4C",
         "Saturn I"
-    ]
+    ],
+    "Unmapped_Properties": {
+        "relatedTopics": 1,
+        "seeResultsAbout": 1,
+        "manufacturers": 1,
+        "stockPrice": 1,
+        "headquarters": 1,
+        "ceo": 1,
+        "founder": 1,
+        "founded": 1,
+        "trackFlightStatus": 1,
+        "recentPosts": 1
+    }
 }

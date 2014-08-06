@@ -28,14 +28,18 @@
         }
     },
     "summary": {
-        "label": 3,
-        "description": 3,
-        "type": 3,
-        "see_results_about": 1,
-        "tax_id": 1,
-        "assets": 1,
-        "income": 1,
-        "people_also_search_for": 1
+        "label": {
+            "uri": "http://www.w3.org/2000/01/rdf-schema#label",
+            "count": 3
+        },
+        "description": {
+            "uri": "http://dbpedia.org/property/description",
+            "count": 3
+        },
+        "type": {
+            "uri": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+            "count": 3
+        }
     },
     "infoboxless": [
         "Christian Trade Union Federation of Germany",
@@ -135,5 +139,12 @@
         "Scottish Society of Playwrights",
         "Seafarers' Union of Burma",
         "Sierra Leone Labour Congress"
-    ]
+    ],
+    "Unmapped_Properties": {
+        "seeResultsAbout": 1,
+        "taxId": 1,
+        "assets": 1,
+        "income": 1,
+        "peopleAlsoSearchFor": 1
+    }
 }

@@ -1,5 +1,19 @@
 {
     "instances": {
+        "Ceratodon purpureus": {
+            "label": "Ceratodon purpureus",
+            "description": "Ceratodon purpureus is a dioicous moss with a color ranging from yellow-green to red. The height amounts to 3 centimeters. It is found worldwide, mainly in urban areas and next to roads on dry sand soils. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Ceratodon purpureus"
+            ],
+            "Rank ": [
+                "Species"
+            ],
+            "Higher classification ": [
+                "Ceratodon"
+            ]
+        },
         "Dicranales": {
             "label": "Dicranales",
             "description": "Dicranales is an order of mosses in the subclass Dicranidae. Wikipedia",
@@ -15,20 +29,6 @@
             ],
             "Lower classifications ": [
                 "Dicranaceae"
-            ]
-        },
-        "Ceratodon purpureus": {
-            "label": "Ceratodon purpureus",
-            "description": "Ceratodon purpureus is a dioicous moss with a color ranging from yellow-green to red. The height amounts to 3 centimeters. It is found worldwide, mainly in urban areas and next to roads on dry sand soils. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Ceratodon purpureus"
-            ],
-            "Rank ": [
-                "Species"
-            ],
-            "Higher classification ": [
-                "Ceratodon"
             ]
         },
         "Grimmiales": {
@@ -70,23 +70,6 @@
                 "Taxiphyllum barbieri"
             ]
         },
-        "Sphagnaceae": {
-            "label": "Sphagnaceae",
-            "description": "The Sphagnaceae is a family of moss with only one living genus Sphagnum. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Sphagnaceae"
-            ],
-            "Lower classifications ": [
-                "Sphagnum"
-            ],
-            "Rank ": [
-                "Family"
-            ],
-            "Higher classification ": [
-                "Sphagnales"
-            ]
-        },
         "Polytrichaceae": {
             "label": "Polytrichaceae",
             "description": "The Polytrichaceae is a common family of mosses. Members of this family tend to be larger than other mosses with a thickened central stem and a rhizome. The leaves have a midrib that bears lamellae on the upper surface. Wikipedia",
@@ -104,18 +87,21 @@
                 "Polytrichum"
             ]
         },
-        "Hylocomium splendens": {
-            "label": "Hylocomium splendens",
-            "description": "Hylocomium splendens, commonly known as Glittering Wood-moss, Stairstep Moss and Mountain Fern Moss, is a perennial clonal moss with a widespread distribution in Northern Hemisphere boreal forests. Wikipedia",
+        "Sphagnaceae": {
+            "label": "Sphagnaceae",
+            "description": "The Sphagnaceae is a family of moss with only one living genus Sphagnum. Wikipedia",
             "type": "",
             "Scientific name ": [
-                "Hylocomium splendens"
+                "Sphagnaceae"
+            ],
+            "Lower classifications ": [
+                "Sphagnum"
             ],
             "Rank ": [
-                "Species"
+                "Family"
             ],
             "Higher classification ": [
-                "Hylocomium"
+                "Sphagnales"
             ]
         },
         "Bryopsida": {
@@ -133,6 +119,20 @@
             ],
             "Lower classifications ": [
                 "Bryidae"
+            ]
+        },
+        "Hylocomium splendens": {
+            "label": "Hylocomium splendens",
+            "description": "Hylocomium splendens, commonly known as Glittering Wood-moss, Stairstep Moss and Mountain Fern Moss, is a perennial clonal moss with a widespread distribution in Northern Hemisphere boreal forests. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Hylocomium splendens"
+            ],
+            "Rank ": [
+                "Species"
+            ],
+            "Higher classification ": [
+                "Hylocomium"
             ]
         },
         "Physcomitrella patens": {
@@ -392,20 +392,6 @@
                 "Sphagnum"
             ]
         },
-        "Frullania dilatata": {
-            "label": "Frullania dilatata",
-            "description": "Frullania dilatata is a species of liverwort in the Jubulaceae family.\nIt is found in Ireland, Germany, ... Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Frullania dilatata"
-            ],
-            "Rank ": [
-                "Species"
-            ],
-            "Higher classification ": [
-                "Frullania"
-            ]
-        },
         "Sphagnum angustifolium": {
             "label": "Sphagnum angustifolium",
             "description": "Sphagnum angustifolium is a species of peat moss with a Holarctic distribution. Wikipedia",
@@ -420,26 +406,18 @@
                 "Sphagnum"
             ]
         },
-        "Bruchia bolanderi": {
-            "label": "Bruchia bolanderi",
-            "description": "Bruchia bolanderi is a rare plant of the Western U.S. Oregon, California, and Nevada. It grows on very damp bare soil. One may distinguish it from other mosses by the capsules, which are shaped like little upside-down pear fruits. Wikipedia",
+        "Frullania dilatata": {
+            "label": "Frullania dilatata",
+            "description": "Frullania dilatata is a species of liverwort in the Jubulaceae family.\nIt is found in Ireland, Germany, ... Wikipedia",
             "type": "",
             "Scientific name ": [
-                "Bruchia bolanderi"
-            ]
-        },
-        "Fissidentaceae": {
-            "label": "Fissidentaceae",
-            "description": "Fissidentaceae is a family of mosses in the order Dicranales. Wikipedia",
-            "type": "",
-            "See results about": []
-        },
-        "Calymperastrum": {
-            "label": "Calymperastrum",
-            "description": "Calymperastrum latifolium is the sole species in the monotypic moss genus Calymperastrum. It is a poorly known moss, having been collected only three times. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Calymperastrum latifolium"
+                "Frullania dilatata"
+            ],
+            "Rank ": [
+                "Species"
+            ],
+            "Higher classification ": [
+                "Frullania"
             ]
         },
         "Ambuchanania leucobryoides": {
@@ -455,6 +433,28 @@
             "Higher classification ": [
                 "Ambuchanania"
             ],
+            "See results about": []
+        },
+        "Bruchia bolanderi": {
+            "label": "Bruchia bolanderi",
+            "description": "Bruchia bolanderi is a rare plant of the Western U.S. Oregon, California, and Nevada. It grows on very damp bare soil. One may distinguish it from other mosses by the capsules, which are shaped like little upside-down pear fruits. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Bruchia bolanderi"
+            ]
+        },
+        "Calymperastrum": {
+            "label": "Calymperastrum",
+            "description": "Calymperastrum latifolium is the sole species in the monotypic moss genus Calymperastrum. It is a poorly known moss, having been collected only three times. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Calymperastrum latifolium"
+            ]
+        },
+        "Fissidentaceae": {
+            "label": "Fissidentaceae",
+            "description": "Fissidentaceae is a family of mosses in the order Dicranales. Wikipedia",
+            "type": "",
             "See results about": []
         },
         "Fissidentales": {
@@ -527,20 +527,6 @@
                 "Genus"
             ]
         },
-        "Tayloria lingulata": {
-            "label": "Tayloria lingulata",
-            "description": "Tayloria lingulata, commonly known as Tongue-leaved Gland Moss, Lingulate Dung Moss, or Marsh Collar-moss is a moss found in montane habitats in the Northern Hemisphere including Europe, Asia and North America. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Tayloria lingulata"
-            ],
-            "Rank ": [
-                "Species"
-            ],
-            "Higher classification ": [
-                "Tayloria"
-            ]
-        },
         "Takakia lepidozioides": {
             "label": "Takakia lepidozioides",
             "description": "Takakia lepidozioides is a species of moss in the Takakiaceae family, one of two species of Takakia. Wikipedia",
@@ -553,6 +539,20 @@
             ],
             "Higher classification ": [
                 "Takakia"
+            ]
+        },
+        "Tayloria lingulata": {
+            "label": "Tayloria lingulata",
+            "description": "Tayloria lingulata, commonly known as Tongue-leaved Gland Moss, Lingulate Dung Moss, or Marsh Collar-moss is a moss found in montane habitats in the Northern Hemisphere including Europe, Asia and North America. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Tayloria lingulata"
+            ],
+            "Rank ": [
+                "Species"
+            ],
+            "Higher classification ": [
+                "Tayloria"
             ]
         },
         "Thamnobryum": {
@@ -575,20 +575,20 @@
                 "Mizutania riccardioides"
             ]
         },
-        "Plagiochila deltoidea": {
-            "label": "Plagiochila deltoidea",
-            "description": "Plagiochila deltoidea is a liverwort that resides on wet ground. It can grow to lengths of up to 60 mm with 3 mm wide leaves. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Plagiochila deltoidea"
-            ]
-        },
         "Frullania asagrayana": {
             "label": "Frullania asagrayana",
             "description": "Frullania asagrayana is a reddish-brown species of liverwort in the Jubulaceae family that grows in eastern North America. Wikipedia",
             "type": "",
             "Scientific name ": [
                 "Frullania asagrayana"
+            ]
+        },
+        "Plagiochila deltoidea": {
+            "label": "Plagiochila deltoidea",
+            "description": "Plagiochila deltoidea is a liverwort that resides on wet ground. It can grow to lengths of up to 60 mm with 3 mm wide leaves. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Plagiochila deltoidea"
             ]
         },
         "Andreaea": {
@@ -693,20 +693,6 @@
                 "Rhytidiadelphus squarrosus"
             ]
         },
-        "Riccardia chamedryfolia": {
-            "label": "Riccardia chamedryfolia",
-            "description": "Riccardia chamedryfolia is a species of liverwort is a terrestrial plant which has been adapted by aquarist as an ornamental plant for the freshwater planted aquarium hobby. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Riccardia chamedryfolia"
-            ],
-            "Rank ": [
-                "Species"
-            ],
-            "Higher classification ": [
-                "Riccardia"
-            ]
-        },
         "Rhytidiadelphus triquetrus": {
             "label": "Rhytidiadelphus triquetrus",
             "description": "Shaggy moss, Rhytidiadelphus triquetrus, is species of moss in the family Hylocomiaceae. It is often the dominating moss species in moderately rich forest habitats in the boreal regions. Wikipedia",
@@ -719,6 +705,20 @@
             ],
             "Higher classification ": [
                 "Rhytidiadelphus"
+            ]
+        },
+        "Riccardia chamedryfolia": {
+            "label": "Riccardia chamedryfolia",
+            "description": "Riccardia chamedryfolia is a species of liverwort is a terrestrial plant which has been adapted by aquarist as an ornamental plant for the freshwater planted aquarium hobby. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Riccardia chamedryfolia"
+            ],
+            "Rank ": [
+                "Species"
+            ],
+            "Higher classification ": [
+                "Riccardia"
             ]
         },
         "Scapania": {
@@ -965,14 +965,18 @@
         }
     },
     "summary": {
-        "label": 76,
-        "description": 76,
-        "type": 76,
-        "scientific_name": 1,
-        "rank": 1,
-        "higher_classification": 1,
-        "lower_classifications": 1,
-        "see_results_about": 1
+        "label": {
+            "uri": "http://www.w3.org/2000/01/rdf-schema#label",
+            "count": 76
+        },
+        "description": {
+            "uri": "http://fr.dbpedia.org/ontology/abstract",
+            "count": 76
+        },
+        "type": {
+            "uri": "http://dbpedia.org/property/type",
+            "count": 76
+        }
     },
     "infoboxless": [
         "Hylocomiaceae",
@@ -999,5 +1003,12 @@
         "Scaphophyllum speciosum",
         "Schistochila macrodonta",
         "Didymodon gelidus"
-    ]
+    ],
+    "Unmapped_Properties": {
+        "scientificName": 1,
+        "rank": 1,
+        "higherClassification": 1,
+        "lowerClassifications": 1,
+        "seeResultsAbout": 1
+    }
 }

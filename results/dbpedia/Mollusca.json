@@ -1,16 +1,5 @@
 {
     "instances": {
-        "Amastra spirizona": {
-            "label": "Amastra spirizona",
-            "description": "Amastra spirizona is a species of land snail, a terrestrial pulmonate gastropod mollusk in the Amastridae family. This species is endemic to Hawaii. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Amastra spirizona"
-            ],
-            "Rank ": [
-                "Species"
-            ]
-        },
         "Amastra cylindrica": {
             "label": "Amastra cylindrica",
             "description": "Amastra cylindrica is a species of land snail, a terrestrial pulmonate gastropod mollusk in the Amastridae family. This species is endemic to Hawaii. Wikipedia",
@@ -51,6 +40,17 @@
             ],
             "Lower classifications ": [
                 "Aplysia"
+            ]
+        },
+        "Amastra spirizona": {
+            "label": "Amastra spirizona",
+            "description": "Amastra spirizona is a species of land snail, a terrestrial pulmonate gastropod mollusk in the Amastridae family. This species is endemic to Hawaii. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Amastra spirizona"
+            ],
+            "Rank ": [
+                "Species"
             ]
         },
         "Arca noae": {
@@ -223,6 +223,14 @@
                 "Obovaria"
             ]
         },
+        "Hoplites (ammonite)": {
+            "label": "Hoplites",
+            "description": "Hoplites are a genus of ammonite from the Early Cretaceous period. Its fossils have been found in Europe. Wikipedia",
+            "type": "Ammonite",
+            "Rank ": [
+                "Genus"
+            ]
+        },
         "Helicoidea": {
             "label": "Helicoidea",
             "description": "Helicoidea is a taxonomic superfamily of air-breathing land snails, terrestrial pulmonate gastropod mollusks in the clade Stylommatophora. Wikipedia",
@@ -238,14 +246,6 @@
             ],
             "Lower classifications ": [
                 "Helicidae"
-            ]
-        },
-        "Hoplites (ammonite)": {
-            "label": "Hoplites",
-            "description": "Hoplites are a genus of ammonite from the Early Cretaceous period. Its fossils have been found in Europe. Wikipedia",
-            "type": "Ammonite",
-            "Rank ": [
-                "Genus"
             ]
         },
         "Limacidae": {
@@ -341,6 +341,20 @@
                 " HancockiidaeMore"
             ]
         },
+        "Oxyloma elegans": {
+            "label": "Oxyloma elegans",
+            "description": "Oxyloma elegans is a species of small European land snail, a terrestrial pulmonate gastropod mollusk belonging to the family Succineidae, the amber snails. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Oxyloma elegans"
+            ],
+            "Rank ": [
+                "Species"
+            ],
+            "Higher classification ": [
+                "Oxyloma"
+            ]
+        },
         "Octopodidae": {
             "label": "Octopodidae",
             "description": "Octopodidae is the family containing the majority of known octopus species. Wikipedia",
@@ -358,19 +372,11 @@
                 "Octopodinae"
             ]
         },
-        "Oxyloma elegans": {
-            "label": "Oxyloma elegans",
-            "description": "Oxyloma elegans is a species of small European land snail, a terrestrial pulmonate gastropod mollusk belonging to the family Succineidae, the amber snails. Wikipedia",
+        "Pectinidae": {
+            "label": "Pectinidae",
+            "description": "The Pectinidae, common name scallops, are a family of saltwater bivalve mollusks. They are hermaphrodites, and the male gonads mature first. Wikipedia",
             "type": "",
-            "Scientific name ": [
-                "Oxyloma elegans"
-            ],
-            "Rank ": [
-                "Species"
-            ],
-            "Higher classification ": [
-                "Oxyloma"
-            ]
+            "See results about": []
         },
         "Physella acuta": {
             "label": "Physella acuta",
@@ -385,12 +391,6 @@
             "Higher classification ": [
                 "Physella"
             ]
-        },
-        "Pectinidae": {
-            "label": "Pectinidae",
-            "description": "The Pectinidae, common name scallops, are a family of saltwater bivalve mollusks. They are hermaphrodites, and the male gonads mature first. Wikipedia",
-            "type": "",
-            "See results about": []
         },
         "Planorbarius corneus": {
             "label": "Planorbarius corneus",
@@ -442,20 +442,6 @@
                 " Cabestana"
             ]
         },
-        "Sepia apama": {
-            "label": "Sepia apama",
-            "description": "Sepia apama, also known as the Australian giant cuttlefish, is the world's largest cuttlefish species, growing to 50 cm in mantle length and over 10.5 kg in weight. Wikipedia",
-            "type": "Animal",
-            "Scientific name ": [
-                "Sepia apama"
-            ],
-            "Rank ": [
-                "Species"
-            ],
-            "Higher classification ": [
-                "Sepia"
-            ]
-        },
         "Sea butterfly": {
             "label": "Sea butterfly",
             "description": "Sea butterflies, scientific name Thecosomata, are a taxonomic suborder of small pelagic swimming sea snails. These are holoplanktonic opisthobranch gastropod mollusks in the informal group Opisthobranchia. Wikipedia",
@@ -469,6 +455,20 @@
             "Lower classifications ": [
                 "Limacinidae",
                 " Cavoliniidae"
+            ]
+        },
+        "Sepia apama": {
+            "label": "Sepia apama",
+            "description": "Sepia apama, also known as the Australian giant cuttlefish, is the world's largest cuttlefish species, growing to 50 cm in mantle length and over 10.5 kg in weight. Wikipedia",
+            "type": "Animal",
+            "Scientific name ": [
+                "Sepia apama"
+            ],
+            "Rank ": [
+                "Species"
+            ],
+            "Higher classification ": [
+                "Sepia"
             ]
         },
         "Sepiola rondeleti": {
@@ -526,6 +526,14 @@
             ],
             "See results about": []
         },
+        "Swan mussel": {
+            "label": "Swan mussel",
+            "description": "The swan mussel, Anodonta cygnea, is a large species of freshwater mussel, an aquatic bivalve mollusc in the family Unionidae, the river mussels. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Anodonta cygnea"
+            ]
+        },
         "Succinea putris": {
             "label": "Succinea putris",
             "description": "Succinea putris is a species of small air-breathing land snail in the family Succineidae, the amber snails. Wikipedia",
@@ -580,22 +588,6 @@
                 "Turritella"
             ]
         },
-        "Swan mussel": {
-            "label": "Swan mussel",
-            "description": "The swan mussel, Anodonta cygnea, is a large species of freshwater mussel, an aquatic bivalve mollusc in the family Unionidae, the river mussels. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Anodonta cygnea"
-            ]
-        },
-        "Warty venus": {
-            "label": "Warty venus",
-            "description": "The warty venus, Venus verrucosa, is a species of saltwater clam. They are marine bivalve molluscs in the family Veneridae, sometimes known as the Venus clams. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Venus verrucosa"
-            ]
-        },
         "Unionoida": {
             "label": "Unionoida",
             "description": "Unionoida is an monophyletic order of freshwater mussels, aquatic bivalve mollusks. The order includes most of the larger freshwater mussels, including the freshwater pearl mussels. Wikipedia",
@@ -616,18 +608,12 @@
                 " Unionidae"
             ]
         },
-        "Alabama moccasinshell": {
-            "label": "Alabama moccasinshell",
-            "description": "The Alabama moccasinshell is a species of freshwater mussel in the family Unionidae, the river mussels. It is native to Alabama, Mississippi, Georgia, Tennessee, and possibly Florida. It is a federally listed threatened species of the United States. Wikipedia",
-            "type": "Animal",
+        "Warty venus": {
+            "label": "Warty venus",
+            "description": "The warty venus, Venus verrucosa, is a species of saltwater clam. They are marine bivalve molluscs in the family Veneridae, sometimes known as the Venus clams. Wikipedia",
+            "type": "",
             "Scientific name ": [
-                "Medionidus acutissimus"
-            ],
-            "Rank ": [
-                "Species"
-            ],
-            "Higher classification ": [
-                "Medionidus"
+                "Venus verrucosa"
             ]
         },
         "Zonitoides nitidus": {
@@ -644,6 +630,20 @@
                 "Zonitoides"
             ]
         },
+        "Alabama moccasinshell": {
+            "label": "Alabama moccasinshell",
+            "description": "The Alabama moccasinshell is a species of freshwater mussel in the family Unionidae, the river mussels. It is native to Alabama, Mississippi, Georgia, Tennessee, and possibly Florida. It is a federally listed threatened species of the United States. Wikipedia",
+            "type": "Animal",
+            "Scientific name ": [
+                "Medionidus acutissimus"
+            ],
+            "Rank ": [
+                "Species"
+            ],
+            "Higher classification ": [
+                "Medionidus"
+            ]
+        },
         "Allonautilus scrobiculatus": {
             "label": "Allonautilus scrobiculatus",
             "description": "Allonautilus scrobiculatus, also known as the crusty nautilus, is a species of nautilus native to the waters around New Guinea, specifically New Britain and Milne Bay, and the Solomon Islands. Wikipedia",
@@ -656,20 +656,6 @@
             ],
             "Higher classification ": [
                 "Allonautilus"
-            ]
-        },
-        "Cumberland monkeyface pearly mussel": {
-            "label": "Cumberland monkeyface pearly mussel",
-            "description": "The Cumberland monkeyface pearly mussel or Cumberland monkeyface, scientific name Quadrula intermedia, is a species of freshwater mussel in the family Unionidae, the river mussels. Wikipedia",
-            "type": "Animal",
-            "Scientific name ": [
-                "Quadrula intermedia"
-            ],
-            "Rank ": [
-                "Species"
-            ],
-            "Higher classification ": [
-                "Quadrula"
             ]
         },
         "Chamelea gallina": {
@@ -698,6 +684,20 @@
             ],
             "Higher classification ": [
                 "Medionidus"
+            ]
+        },
+        "Cumberland monkeyface pearly mussel": {
+            "label": "Cumberland monkeyface pearly mussel",
+            "description": "The Cumberland monkeyface pearly mussel or Cumberland monkeyface, scientific name Quadrula intermedia, is a species of freshwater mussel in the family Unionidae, the river mussels. Wikipedia",
+            "type": "Animal",
+            "Scientific name ": [
+                "Quadrula intermedia"
+            ],
+            "Rank ": [
+                "Species"
+            ],
+            "Higher classification ": [
+                "Quadrula"
             ]
         },
         "Dromedary naiad": {
@@ -739,6 +739,26 @@
                 "Species"
             ]
         },
+        "Giant octopus": {
+            "label": "Giant octopus",
+            "description": "Enteroctopus is an octopus genus, many of whose members are sometimes known as giant octopuses. Wikipedia",
+            "type": "Animal",
+            "Scientific name ": [
+                "Enteroctopus"
+            ],
+            "Rank ": [
+                "Genus"
+            ],
+            "Higher classification ": [
+                "Octopodinae"
+            ],
+            "Lower classifications ": [
+                "Enteroctopus megalocyathus",
+                " Enteroctopus magnificus",
+                " Enteroctopus dofleini"
+            ],
+            "See results about": []
+        },
         "Giant squid": {
             "label": "Giant squid",
             "description": "The giant squid is a deep-ocean dwelling squid in the family Architeuthidae, represented by as many as eight species. Wikipedia",
@@ -763,40 +783,6 @@
                 " Architeuthis duxMore"
             ]
         },
-        "Gulf moccasinshell": {
-            "label": "Gulf moccasinshell",
-            "description": "The gulf moccasinshell is a rare species of freshwater mussel in the family Unionidae, the river mussels. Wikipedia",
-            "type": "Animal",
-            "Scientific name ": [
-                "Medionidus penicillatus"
-            ],
-            "Rank ": [
-                "Species"
-            ],
-            "Higher classification ": [
-                "Medionidus"
-            ]
-        },
-        "Giant octopus": {
-            "label": "Giant octopus",
-            "description": "Enteroctopus is an octopus genus, many of whose members are sometimes known as giant octopuses. Wikipedia",
-            "type": "Animal",
-            "Scientific name ": [
-                "Enteroctopus"
-            ],
-            "Rank ": [
-                "Genus"
-            ],
-            "Higher classification ": [
-                "Octopodinae"
-            ],
-            "Lower classifications ": [
-                "Enteroctopus megalocyathus",
-                " Enteroctopus magnificus",
-                " Enteroctopus dofleini"
-            ],
-            "See results about": []
-        },
         "Grove snail": {
             "label": "Grove snail",
             "description": "The grove snail or brown-lipped snail is a species of air-breathing land snail, a terrestrial pulmonate gastropod mollusc. It is one of the most common species of land snail in Europe and has been introduced to North America. Wikipedia",
@@ -809,6 +795,20 @@
             ],
             "Higher classification ": [
                 "Cepaea"
+            ]
+        },
+        "Gulf moccasinshell": {
+            "label": "Gulf moccasinshell",
+            "description": "The gulf moccasinshell is a rare species of freshwater mussel in the family Unionidae, the river mussels. Wikipedia",
+            "type": "Animal",
+            "Scientific name ": [
+                "Medionidus penicillatus"
+            ],
+            "Rank ": [
+                "Species"
+            ],
+            "Higher classification ": [
+                "Medionidus"
             ]
         },
         "Helix aspersa": {
@@ -839,6 +839,14 @@
                 "Species"
             ]
         },
+        "Kimberella": {
+            "label": "Kimberella",
+            "description": "Kimberella is a monospecific genus of bilaterian known only from rocks of the Ediacaran period. The slug-like organism fed by scratching the microbial surface on which it dwelt in a manner similar to ... Wikipedia",
+            "type": "",
+            "Rank ": [
+                "Genus"
+            ]
+        },
         "Narrow pigtoe": {
             "label": "Narrow pigtoe",
             "description": "The narrow pigtoe is a species of bivalve in the Unionidae family. It is endemic to the United States. Wikipedia",
@@ -851,14 +859,6 @@
             ],
             "Higher classification ": [
                 "Fusconaia"
-            ]
-        },
-        "Kimberella": {
-            "label": "Kimberella",
-            "description": "Kimberella is a monospecific genus of bilaterian known only from rocks of the Ediacaran period. The slug-like organism fed by scratching the microbial surface on which it dwelt in a manner similar to ... Wikipedia",
-            "type": "",
-            "Rank ": [
-                "Genus"
             ]
         },
         "Oegopsina": {
@@ -964,20 +964,6 @@
             "description": "The Pulmonata, or \"pulmonates\", are an informal group of snails and slugs characterized by the ability to breathe air, by virtue of having a pallial lung instead of a gill, or gills. Wikipedia",
             "type": ""
         },
-        "Stylommatophora": {
-            "label": "Stylommatophora",
-            "description": "Stylommatophora is a taxon of air-breathing land snails and slugs, terrestrial pulmonate gastropod molluscs. This taxon is currently considered to be a clade. It was previously regarded as an infraorder. Wikipedia",
-            "type": "Animal",
-            "Scientific name ": [
-                "Stylommatophora"
-            ],
-            "Higher classification ": [
-                "Eupulmonata"
-            ],
-            "Lower classifications ": [
-                "Sigmurethra"
-            ]
-        },
         "Rio Grande monkeyface": {
             "label": "Rio Grande monkeyface",
             "description": "The Rio Grande monkeyface, scientific name Quadrula couchiana, is a species of freshwater mussel, an aquatic bivalve mollusk in the family Unionidae, the river mussels.\nThis species is endemic to the United States. Wikipedia",
@@ -1004,6 +990,20 @@
             ],
             "Higher classification ": [
                 "Elliptio"
+            ]
+        },
+        "Stylommatophora": {
+            "label": "Stylommatophora",
+            "description": "Stylommatophora is a taxon of air-breathing land snails and slugs, terrestrial pulmonate gastropod molluscs. This taxon is currently considered to be a clade. It was previously regarded as an infraorder. Wikipedia",
+            "type": "Animal",
+            "Scientific name ": [
+                "Stylommatophora"
+            ],
+            "Higher classification ": [
+                "Eupulmonata"
+            ],
+            "Lower classifications ": [
+                "Sigmurethra"
             ]
         },
         "Trochoidea claudinae": {
@@ -1125,15 +1125,18 @@
         }
     },
     "summary": {
-        "label": 80,
-        "description": 80,
-        "type": 80,
-        "scientific_name": 1,
-        "rank": 1,
-        "higher_classification": 1,
-        "lower_classifications": 1,
-        "length": 1,
-        "see_results_about": 1
+        "label": {
+            "uri": "http://www.w3.org/2000/01/rdf-schema#label",
+            "count": 80
+        },
+        "description": {
+            "uri": "http://fr.dbpedia.org/ontology/abstract",
+            "count": 80
+        },
+        "type": {
+            "uri": "http://dbpedia.org/property/type",
+            "count": 80
+        }
     },
     "infoboxless": [
         "Aculifera",
@@ -1156,5 +1159,13 @@
         "Partula langfordi",
         "Cyclostrematidae",
         "Acavoidea"
-    ]
+    ],
+    "Unmapped_Properties": {
+        "scientificName": 1,
+        "rank": 1,
+        "higherClassification": 1,
+        "lowerClassifications": 1,
+        "length": 1,
+        "seeResultsAbout": 1
+    }
 }

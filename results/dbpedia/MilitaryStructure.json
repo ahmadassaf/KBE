@@ -1,17 +1,5 @@
 {
     "instances": {
-        "Dyess Air Force Base": {
-            "label": "Dyess Air Force Base",
-            "description": "Dyess Air Force Base is a United States Air Force base located approximately 7 miles southwest of Abilene, Texas.\nThe host unit at Dyess is the 7th Bomb Wing assigned to the Air Combat Command Twelfth Air Force. Wikipedia",
-            "type": "",
-            "Elevation ": [
-                "1",
-                "789' (545 m)"
-            ],
-            "Code ": [
-                "DYS"
-            ]
-        },
         "Aviano Air Base": {
             "label": "Aviano Air Base",
             "description": "Aviano Air Base is a NATO base in northeastern Italy, in the Friuli-Venezia Giulia region. It is located in the Aviano municipality, at the foot of the Carnic Pre-Alps, or Southern Carnic Alps, about 15 kilometers from Pordenone. Wikipedia",
@@ -25,6 +13,18 @@
             ],
             "Phone ": [
                 "+39 0434 301110"
+            ]
+        },
+        "Dyess Air Force Base": {
+            "label": "Dyess Air Force Base",
+            "description": "Dyess Air Force Base is a United States Air Force base located approximately 7 miles southwest of Abilene, Texas.\nThe host unit at Dyess is the 7th Bomb Wing assigned to the Air Combat Command Twelfth Air Force. Wikipedia",
+            "type": "",
+            "Elevation ": [
+                "1",
+                "789' (545 m)"
+            ],
+            "Code ": [
+                "DYS"
             ]
         },
         "Edwards Air Force Base": {
@@ -173,11 +173,6 @@
                 "(229) 257-4211"
             ]
         },
-        "Patrick Air Force Base": {
-            "label": "Patrick Air Force Base",
-            "description": "Patrick Air Force Base is a United States Air Force Base located between Satellite Beach and Cocoa Beach, in Brevard County, Florida, United States. It was named in honor of Major General Mason Patrick. Wikipedia",
-            "type": "Military post"
-        },
         "Nellis Air Force Base": {
             "label": "Nellis Air Force Base",
             "description": "Nellis Air Force Base is a southern Nevada installation with military schools and more squadrons than any other USAF base. Wikipedia",
@@ -193,6 +188,11 @@
             "Code ": [
                 "LSV"
             ]
+        },
+        "Patrick Air Force Base": {
+            "label": "Patrick Air Force Base",
+            "description": "Patrick Air Force Base is a United States Air Force Base located between Satellite Beach and Cocoa Beach, in Brevard County, Florida, United States. It was named in honor of Major General Mason Patrick. Wikipedia",
+            "type": "Military post"
         },
         "Ramat David Airbase": {
             "label": "Ramat David Airbase",
@@ -221,17 +221,6 @@
                 "+49 6371 479196"
             ]
         },
-        "Whiteman Air Force Base": {
-            "label": "Whiteman Air Force Base",
-            "description": "Whiteman Air Force Base is a United States Air Force base located approximately 2 miles south of Knob Noster, Missouri; 70 miles east-southeast of Kansas City, Missouri. Wikipedia",
-            "type": "",
-            "Elevation ": [
-                "869' (265 m)"
-            ],
-            "Code ": [
-                "SZL"
-            ]
-        },
         "Seymour Johnson Air Force Base": {
             "label": "Seymour Johnson Air Force Base",
             "description": "Seymour Johnson Air Force Base is a United States Air Force base located to the southeast of Goldsboro, North Carolina. Wikipedia",
@@ -249,6 +238,17 @@
             ],
             "Phone ": [
                 "(919) 722-1110"
+            ]
+        },
+        "Whiteman Air Force Base": {
+            "label": "Whiteman Air Force Base",
+            "description": "Whiteman Air Force Base is a United States Air Force base located approximately 2 miles south of Knob Noster, Missouri; 70 miles east-southeast of Kansas City, Missouri. Wikipedia",
+            "type": "",
+            "Elevation ": [
+                "869' (265 m)"
+            ],
+            "Code ": [
+                "SZL"
             ]
         },
         "Wolf's Lair": {
@@ -393,6 +393,17 @@
             ],
             "People also search for": []
         },
+        "Leslie Castle": {
+            "label": "Castle Leslie",
+            "description": "Castle Leslie, home to an Irish branch of Clan Leslie and located on the 4 km², Castle Leslie is both the name of a historic Country House and 1,000-acre Estate adjacent to the village of Glaslough, ... Wikipedia",
+            "type": "",
+            "Address ": [
+                "Glaslough",
+                " Co. Monaghan",
+                " Ireland"
+            ],
+            "See results about": []
+        },
         "Lunt Roman Fort": {
             "label": "Lunt Roman Fort",
             "description": "The Lunt Roman Fort is the archaeological site of a Roman fort, of unknown name, in the Roman province of Britannia. It is open to the public and located in the village of Baginton outside Coventry, Warwickshire. Wikipedia",
@@ -404,17 +415,6 @@
                 " United Kingdom"
             ],
             "People also search for": []
-        },
-        "Leslie Castle": {
-            "label": "Castle Leslie",
-            "description": "Castle Leslie, home to an Irish branch of Clan Leslie and located on the 4 km², Castle Leslie is both the name of a historic Country House and 1,000-acre Estate adjacent to the village of Glaslough, ... Wikipedia",
-            "type": "",
-            "Address ": [
-                "Glaslough",
-                " Co. Monaghan",
-                " Ireland"
-            ],
-            "See results about": []
         },
         "Pendennis Castle": {
             "label": "Pendennis Castle",
@@ -443,6 +443,11 @@
             "type": "Building",
             "People also search for": []
         },
+        "RAF Holmpton": {
+            "label": "RAF Holmpton",
+            "description": "RAF Holmpton is a former Cold War era nuclear bunker that was built in the 1950s as an early warning radar station. Wikipedia",
+            "type": ""
+        },
         "Portland Castle": {
             "label": "Portland Castle",
             "description": "Portland Castle is one of the Device Forts, also known as Henrician Castles, built in 1539 by Henry VIII on the Isle of Portland to guard the natural Portland anchorage known as the Portland Roads. Wikipedia",
@@ -454,11 +459,6 @@
                 " United Kingdom"
             ],
             "People also search for": []
-        },
-        "RAF Holmpton": {
-            "label": "RAF Holmpton",
-            "description": "RAF Holmpton is a former Cold War era nuclear bunker that was built in the 1950s as an early warning radar station. Wikipedia",
-            "type": ""
         },
         "Saddell Castle": {
             "label": "Saddell Castle",
@@ -642,6 +642,12 @@
             "type": "",
             "People also search for": []
         },
+        "Clare Castle": {
+            "label": "Clare Castle",
+            "description": "Clare Castle is a medieval castle in the small town of Clare in Suffolk, England. Built shortly after the Norman conquest of England by Richard Fitz Gilbert, the motte and bailey castle was later improved in stone. Wikipedia",
+            "type": "",
+            "People also search for": []
+        },
         "Brougham Castle": {
             "label": "Brougham Castle",
             "description": "Brougham Castle is a medieval building about 2 miles south-east of Penrith, Cumbria, England. The castle was founded by Robert de Vieuxpont in the early 13th century. Wikipedia",
@@ -657,12 +663,6 @@
             "Phone ": [
                 "Roger de Vieuxpont"
             ],
-            "People also search for": []
-        },
-        "Clare Castle": {
-            "label": "Clare Castle",
-            "description": "Clare Castle is a medieval castle in the small town of Clare in Suffolk, England. Built shortly after the Norman conquest of England by Richard Fitz Gilbert, the motte and bailey castle was later improved in stone. Wikipedia",
-            "type": "",
             "People also search for": []
         },
         "Framlingham Castle": {
@@ -695,11 +695,6 @@
             "description": "Achstetten Castle is a classicist mansion in the southern German municipality of Achstetten in Upper Swabia. Wikipedia",
             "type": ""
         },
-        "Brock Barracks": {
-            "label": "Brock Barracks",
-            "description": "Brock Barracks is a British Army barracks in the town of Reading in the English county of Berkshire. Located on Oxford Road in the district of West Reading. The majority of the buildings and structures within Brock Barracks are Grade II listed. Wikipedia",
-            "type": ""
-        },
         "Burgistein Castle": {
             "label": "Burgistein Castle",
             "description": "Burgistein Castle is a castle in the municipality of Burgistein in the canton of Bern in Switzerland. It is a Swiss heritage site of national significance. Wikipedia",
@@ -708,6 +703,11 @@
                 "3664 Burgistein",
                 " Switzerland"
             ]
+        },
+        "Brock Barracks": {
+            "label": "Brock Barracks",
+            "description": "Brock Barracks is a British Army barracks in the town of Reading in the English county of Berkshire. Located on Oxford Road in the district of West Reading. The majority of the buildings and structures within Brock Barracks are Grade II listed. Wikipedia",
+            "type": ""
         },
         "Buxa Fort": {
             "label": "Buxa Fort",
@@ -729,11 +729,6 @@
             "description": "There have been several town walls around Edinburgh, Scotland, since the 12th century. Some form of wall probably existed from the foundation of the royal burgh in around 1125, though the first building ... Wikipedia",
             "type": ""
         },
-        "Fort La Baye": {
-            "label": "Fort La Baye",
-            "description": "Fort La Baye was a French military post at La Baye, which was built in 1717, and occupied until 1760.\nBy 1718, there were a number of French Canadian families living in the area near the fort. Wikipedia",
-            "type": ""
-        },
         "Fort Lowell": {
             "label": "Ft. Lowell",
             "description": "Fort Lowell was a United States Army post active from 1873 to 1891 on the outskirts of Tucson, Arizona. Fort Lowell was the successor to Camp Lowell, an earlier Army installation. Wikipedia",
@@ -747,6 +742,11 @@
             "Area ": [
                 "20 acres (8 ha)"
             ]
+        },
+        "Fort La Baye": {
+            "label": "Fort La Baye",
+            "description": "Fort La Baye was a French military post at La Baye, which was built in 1717, and occupied until 1760.\nBy 1718, there were a number of French Canadian families living in the area near the fort. Wikipedia",
+            "type": ""
         },
         "Kacenštajn Castle": {
             "label": "Kacenštajn Castle",
@@ -785,11 +785,10 @@
             "type": "",
             "People also search for": []
         },
-        "Ouvrage Sainte-Agnès": {
-            "label": "Ouvrage Sainte-Agnès",
-            "description": "Ouvrage Sainte-Agnès was a work of the Maginot Line's Alpine extension, the Alpine Line, also called the Little Maginot Line. The fortification was built between 1932 and 1938. Wikipedia",
-            "type": "Fortification",
-            "People also search for": []
+        "Peterborough Castle": {
+            "label": "Peterborough Castle",
+            "description": "Peterborough Castle, also known as Mount Thorold and Touthill, was a medieval motte and bailey castle in Peterborough, Cambridgeshire, England. Wikipedia",
+            "type": ""
         },
         "Ouvrage Schoenenbourg": {
             "label": "Ouvrage Schoenenbourg",
@@ -801,10 +800,15 @@
                 " France"
             ]
         },
-        "Peterborough Castle": {
-            "label": "Peterborough Castle",
-            "description": "Peterborough Castle, also known as Mount Thorold and Touthill, was a medieval motte and bailey castle in Peterborough, Cambridgeshire, England. Wikipedia",
-            "type": ""
+        "RAF Deenethorpe": {
+            "label": "RAF Deenethorpe",
+            "description": "RAF Deenethorpe is a former Second World War airfield in Northamptonshire, England, about two miles east of Corby. Wikipedia",
+            "type": "",
+            "Address ": [
+                "Deenethorpe",
+                " Northamptonshire NN17 3AN",
+                " United Kingdom"
+            ]
         },
         "RAF Grafton Underwood": {
             "label": "RAF Grafton Underwood",
@@ -815,16 +819,6 @@
             "label": "Stalag II-B",
             "description": "Stalag II-B was a German World War II prisoner-of-war camp situated 2.4 kilometres west of the village of Hammerstein, Pomerania on the north side of the railway line. Wikipedia",
             "type": ""
-        },
-        "RAF Deenethorpe": {
-            "label": "RAF Deenethorpe",
-            "description": "RAF Deenethorpe is a former Second World War airfield in Northamptonshire, England, about two miles east of Corby. Wikipedia",
-            "type": "",
-            "Address ": [
-                "Deenethorpe",
-                " Northamptonshire NN17 3AN",
-                " United Kingdom"
-            ]
         },
         "Stalag XIII-D": {
             "label": "Stalag XIII-D",
@@ -841,6 +835,12 @@
             "description": "Tonopah Air Force Base is a Formerly Used Defense Site that was a Tonopah Basin military installation until shortly after it was designated an Air Force Base in 1948. Wikipedia",
             "type": ""
         },
+        "Fort Harmar": {
+            "label": "Fort Harmar",
+            "description": "Fort Harmar was an early United States frontier military fort, built in pentagonal shape during 1785 at the confluence of the Ohio and Muskingum rivers, on the west side of the mouth of the Muskingum River. Wikipedia",
+            "type": "",
+            "People also search for": []
+        },
         "Fort Teremba": {
             "label": "Fort Teremba",
             "description": "Fort Teremba is a former fort and a prison located near Moindou in New Caledonia, which came to be set up to house prisoners and the supervisory staff. The prisoners were brought to build road network Canala-Bourail-Boulouparis. Wikipedia",
@@ -849,12 +849,6 @@
                 "Moindou",
                 " New Caledonia"
             ]
-        },
-        "Fort Harmar": {
-            "label": "Fort Harmar",
-            "description": "Fort Harmar was an early United States frontier military fort, built in pentagonal shape during 1785 at the confluence of the Ohio and Muskingum rivers, on the west side of the mouth of the Muskingum River. Wikipedia",
-            "type": "",
-            "People also search for": []
         },
         "Balapur Fort": {
             "label": "Balapur Fort",
@@ -912,28 +906,55 @@
             "label": "Lielzalve Manor",
             "description": "Lielzalve Manor is a two-storey manor house built in the 19th century in the historical region of Selonia, Latvia. Wikipedia",
             "type": ""
+        },
+        "Ouvrage Sainte-Agnès": {
+            "label": "Ouvrage Sainte-Agnès",
+            "description": "Ouvrage Sainte-Agnès was a work of the Maginot Line's Alpine extension, the Alpine Line, also called the Little Maginot Line. The fortification was built between 1932 and 1938. Wikipedia",
+            "type": "Fortification",
+            "People also search for": []
         }
     },
     "summary": {
-        "label": 95,
-        "description": 95,
-        "type": 95,
-        "elevation": 1,
-        "code": 1,
-        "address": 1,
-        "phone": 1,
-        "hours": 1,
-        "population": 1,
-        "area": 1,
-        "founded": 1,
-        "see_results_about": 1,
-        "opened": 1,
-        "people_also_search_for": 1,
-        "function": 1,
-        "architects": 1,
-        "established": 1,
-        "closed": 1,
-        "province": 1
+        "label": {
+            "uri": "http://dbpedia.org/property/label",
+            "count": 95
+        },
+        "description": {
+            "uri": "http://dbpedia.org/property/description",
+            "count": 95
+        },
+        "type": {
+            "uri": "http://dbpedia.org/ontology/type",
+            "count": 95
+        },
+        "address": {
+            "uri": "http://dbpedia.org/property/address",
+            "count": 39
+        },
+        "code": {
+            "uri": "http://dbpedia.org/property/code",
+            "count": 13
+        },
+        "area": {
+            "uri": "http://dbpedia.org/property/area",
+            "count": 3
+        },
+        "opened": {
+            "uri": "http://dbpedia.org/property/opened",
+            "count": 4
+        },
+        "established": {
+            "uri": "http://dbpedia.org/property/established",
+            "count": 1
+        },
+        "closed": {
+            "uri": "http://dbpedia.org/property/closed",
+            "count": 1
+        },
+        "province": {
+            "uri": "http://dbpedia.org/property/province",
+            "count": 1
+        }
     },
     "infoboxless": [
         "K. I. Sawyer Air Force Base",
@@ -941,5 +962,16 @@
         "Mittelwerk",
         "Abri du Ancien Camp",
         "La Vieille Airfield"
-    ]
+    ],
+    "Unmapped_Properties": {
+        "elevation": 1,
+        "phone": 1,
+        "hours": 1,
+        "population": 1,
+        "founded": 1,
+        "seeResultsAbout": 1,
+        "peopleAlsoSearchFor": 1,
+        "function": 1,
+        "architects": 1
+    }
 }

@@ -780,29 +780,6 @@
                 " Rufous-headed Ground Roller"
             ]
         },
-        "Atthis (bird)": {
-            "label": "Atthis",
-            "description": "Atthis is a genus of hummingbirds. It consists of two small species found in Central America, Mexico and the southern United States. They are\nBumblebee Hummingbird Atthis heloisa\nWine-throated Hummingbird, Atthis ellioti Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Atthis"
-            ],
-            "Rank ": [
-                "Genus"
-            ],
-            "Higher classification ": [
-                "Trochilinae"
-            ],
-            "Lower classifications ": [
-                "Bumblebee Hummingbird",
-                " Wine-throated Hummingbird"
-            ]
-        },
-        "Augur Buzzard": {
-            "label": "Augur Buzzard",
-            "description": "The Augur Buzzard is a 55–60 cm long African bird of prey. The taxonomy on this species is confusing, with some taxonomists considering this species, the Jackal Buzzard, and the Archer's Buzzard to be the same superspecies. Wikipedia",
-            "type": ""
-        },
         "Atlapetes": {
             "label": "Atlapetes",
             "description": "Atlapetes is a genus of bird in the Emberizidae family. Along with the genus Buarremon they comprise the brush finches. Wikipedia",
@@ -847,6 +824,57 @@
             ],
             "See results about": []
         },
+        "Atthis (bird)": {
+            "label": "Atthis",
+            "description": "Atthis is a genus of hummingbirds. It consists of two small species found in Central America, Mexico and the southern United States. They are\nBumblebee Hummingbird Atthis heloisa\nWine-throated Hummingbird, Atthis ellioti Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Atthis"
+            ],
+            "Rank ": [
+                "Genus"
+            ],
+            "Higher classification ": [
+                "Trochilinae"
+            ],
+            "Lower classifications ": [
+                "Bumblebee Hummingbird",
+                " Wine-throated Hummingbird"
+            ]
+        },
+        "Auckland Shag": {
+            "label": "Auckland Shag",
+            "description": "The Auckland Shag or Auckland Islands Shag is a species of cormorant from New Zealand. The species is endemic to the Auckland Islands archipelago. It is a sedentary bird that primarily eats various crustaceans and fish. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Phalacrocorax colensoi"
+            ],
+            "Rank ": [
+                "Species"
+            ],
+            "Higher classification ": [
+                "Phalacrocorax"
+            ]
+        },
+        "Auckland Teal": {
+            "label": "Auckland Teal",
+            "description": "The Auckland Teal or Auckland Islands Teal is a species of dabbling duck of the genus Anas that is endemic to Auckland Islands south of New Zealand. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Anas aucklandica"
+            ],
+            "Rank ": [
+                "Species"
+            ],
+            "Higher classification ": [
+                "Dabbling duck"
+            ]
+        },
+        "Augur Buzzard": {
+            "label": "Augur Buzzard",
+            "description": "The Augur Buzzard is a 55–60 cm long African bird of prey. The taxonomy on this species is confusing, with some taxonomists considering this species, the Jackal Buzzard, and the Archer's Buzzard to be the same superspecies. Wikipedia",
+            "type": ""
+        },
         "Austral Rail": {
             "label": "Austral Rail",
             "description": "The Austral Rail is a species of bird in the Rallidae family. It is found in Argentina and Chile. Its natural habitats are swamps, freshwater lakes, and freshwater marshes. It is threatened by habitat loss. Wikipedia",
@@ -873,62 +901,6 @@
             ],
             "Higher classification ": [
                 "Phalacrocorax"
-            ]
-        },
-        "Auckland Teal": {
-            "label": "Auckland Teal",
-            "description": "The Auckland Teal or Auckland Islands Teal is a species of dabbling duck of the genus Anas that is endemic to Auckland Islands south of New Zealand. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Anas aucklandica"
-            ],
-            "Rank ": [
-                "Species"
-            ],
-            "Higher classification ": [
-                "Dabbling duck"
-            ]
-        },
-        "Auckland Shag": {
-            "label": "Auckland Shag",
-            "description": "The Auckland Shag or Auckland Islands Shag is a species of cormorant from New Zealand. The species is endemic to the Auckland Islands archipelago. It is a sedentary bird that primarily eats various crustaceans and fish. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Phalacrocorax colensoi"
-            ],
-            "Rank ": [
-                "Species"
-            ],
-            "Higher classification ": [
-                "Phalacrocorax"
-            ]
-        },
-        "Azure Dollarbird": {
-            "label": "Azure Dollarbird",
-            "description": "The Azure Dollarbird also known as the Azure Roller, Purple Dollarbird or Purple Roller, is a species of bird in the Coraciidae family. It is endemic to the Maluku Islands in Indonesia. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Eurystomus azureus"
-            ],
-            "Rank ": [
-                "Species"
-            ],
-            "Higher classification ": [
-                "Eurystomus"
-            ]
-        },
-        "Azure Tit": {
-            "label": "Azure Tit",
-            "description": "The Azure Tit, is a passerine bird in the tit family Paridae. It is a widespread and common resident breeder throughout Russia and central Asia.\nIt is found in temperate and subarctic deciduous or mixed woodlands, scrub and marshes. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Cyanistes cyanus"
-            ],
-            "Rank ": [
-                "Species"
-            ],
-            "Higher classification ": [
-                "Cyanistes"
             ]
         },
         "Automolus": {
@@ -958,6 +930,20 @@
             ],
             "See results about": []
         },
+        "Azure Dollarbird": {
+            "label": "Azure Dollarbird",
+            "description": "The Azure Dollarbird also known as the Azure Roller, Purple Dollarbird or Purple Roller, is a species of bird in the Coraciidae family. It is endemic to the Maluku Islands in Indonesia. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Eurystomus azureus"
+            ],
+            "Rank ": [
+                "Species"
+            ],
+            "Higher classification ": [
+                "Eurystomus"
+            ]
+        },
         "Azure Gallinule": {
             "label": "Azure Gallinule",
             "description": "The Azure Gallinule is a species of bird in the Rallidae family. It is found in Argentina, Bolivia, Brazil, Colombia, Ecuador, French Guiana, Guyana, Paraguay, Peru, Suriname, Trinidad and Tobago, the United States, and Venezuela. Wikipedia",
@@ -970,6 +956,34 @@
             ],
             "Higher classification ": [
                 "Swamphen"
+            ]
+        },
+        "Azure Kingfisher": {
+            "label": "Azure Kingfisher",
+            "description": "The Azure Kingfisher is a small kingfisher, in the river kingfisher family, Alcedinidae. It is found in Northern and Eastern Australia and Tasmania, as well as the lowlands of New Guinea and neighbouring islands, and out to North Maluku and Romang. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Alcedo azurea"
+            ],
+            "Rank ": [
+                "Species"
+            ],
+            "Higher classification ": [
+                "Alcedo"
+            ]
+        },
+        "Azure Tit": {
+            "label": "Azure Tit",
+            "description": "The Azure Tit, is a passerine bird in the tit family Paridae. It is a widespread and common resident breeder throughout Russia and central Asia.\nIt is found in temperate and subarctic deciduous or mixed woodlands, scrub and marshes. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Cyanistes cyanus"
+            ],
+            "Rank ": [
+                "Species"
+            ],
+            "Higher classification ": [
+                "Cyanistes"
             ]
         },
         "Baeolophus": {
@@ -1012,18 +1026,18 @@
                 " Honeyguide Greenbul"
             ]
         },
-        "Azure Kingfisher": {
-            "label": "Azure Kingfisher",
-            "description": "The Azure Kingfisher is a small kingfisher, in the river kingfisher family, Alcedinidae. It is found in Northern and Eastern Australia and Tasmania, as well as the lowlands of New Guinea and neighbouring islands, and out to North Maluku and Romang. Wikipedia",
+        "Balsas Screech Owl": {
+            "label": "Balsas Screech Owl",
+            "description": "The Balsas Screech Owl is a species of owl in the Strigidae family. It is endemic to Mexico.\nIts natural habitats are subtropical or tropical dry forests and heavily degraded former forest. It is threatened by habitat loss. Wikipedia",
             "type": "",
             "Scientific name ": [
-                "Alcedo azurea"
+                "Megascops seductus"
             ],
             "Rank ": [
                 "Species"
             ],
             "Higher classification ": [
-                "Alcedo"
+                "Screech owl"
             ]
         },
         "Band-tailed Guan": {
@@ -1069,46 +1083,18 @@
             ],
             "See results about": []
         },
-        "Balsas Screech Owl": {
-            "label": "Balsas Screech Owl",
-            "description": "The Balsas Screech Owl is a species of owl in the Strigidae family. It is endemic to Mexico.\nIts natural habitats are subtropical or tropical dry forests and heavily degraded former forest. It is threatened by habitat loss. Wikipedia",
+        "Banded Martin": {
+            "label": "Banded Martin",
+            "description": "The Banded Martin or Banded Sand Martin is a small passerine bird in the swallow family.\nThe Banded Martin is found in open habitats such as farmland, grassland and savannah, usually near water. Wikipedia",
             "type": "",
             "Scientific name ": [
-                "Megascops seductus"
+                "Riparia cincta"
             ],
             "Rank ": [
                 "Species"
             ],
             "Higher classification ": [
-                "Screech owl"
-            ]
-        },
-        "Bare-faced Ibis": {
-            "label": "Bare-faced Ibis",
-            "description": "The Bare-faced Ibis, also known as the Whispering Ibis, is a species of bird in the Threskiornithidae family, in the monotypic genus Phimosus. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Phimosus infuscatus"
-            ],
-            "Rank ": [
-                "Species"
-            ],
-            "Higher classification ": [
-                "Phimosus"
-            ]
-        },
-        "Bank Myna": {
-            "label": "Bank Myna",
-            "description": "Bank Myna called \" Sharak \" in Punjabi. is a myna found in South Asia. It is smaller but similar in colouration to the Common Myna but differs in having a brick red bare skin behind the eye in place of yellow. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Acridotheres ginginianus"
-            ],
-            "Rank ": [
-                "Species"
-            ],
-            "Higher classification ": [
-                "Acridotheres"
+                "Riparia"
             ]
         },
         "Bank Cormorant": {
@@ -1125,6 +1111,34 @@
                 "Phalacrocorax"
             ]
         },
+        "Bank Myna": {
+            "label": "Bank Myna",
+            "description": "Bank Myna called \" Sharak \" in Punjabi. is a myna found in South Asia. It is smaller but similar in colouration to the Common Myna but differs in having a brick red bare skin behind the eye in place of yellow. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Acridotheres ginginianus"
+            ],
+            "Rank ": [
+                "Species"
+            ],
+            "Higher classification ": [
+                "Acridotheres"
+            ]
+        },
+        "Bare-faced Ibis": {
+            "label": "Bare-faced Ibis",
+            "description": "The Bare-faced Ibis, also known as the Whispering Ibis, is a species of bird in the Threskiornithidae family, in the monotypic genus Phimosus. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Phimosus infuscatus"
+            ],
+            "Rank ": [
+                "Species"
+            ],
+            "Higher classification ": [
+                "Phimosus"
+            ]
+        },
         "Bare-throated Tiger Heron": {
             "label": "Bare-throated Tiger Heron",
             "description": "The Bare-throated Tiger Heron is a wading bird of the heron family Ardeidae, found from Mexico to northwestern Colombia, with one recorded sighting from the United States in Hidalgo County, Texas. It is 80 cm in length and weighs 1,200 g. Wikipedia",
@@ -1137,6 +1151,20 @@
             ],
             "Higher classification ": [
                 "Tigrisoma"
+            ]
+        },
+        "Barred Forest Falcon": {
+            "label": "Barred Forest Falcon",
+            "description": "The Barred Forest Falcon is a species of bird of prey in the Falconidae family which includes the falcons, caracaras, and their relatives. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Micrastur ruficollis"
+            ],
+            "Rank ": [
+                "Species"
+            ],
+            "Higher classification ": [
+                "Forest falcon"
             ]
         },
         "Baryphthengus": {
@@ -1157,20 +1185,6 @@
                 " Rufous-capped Motmot"
             ],
             "See results about": []
-        },
-        "Barred Forest Falcon": {
-            "label": "Barred Forest Falcon",
-            "description": "The Barred Forest Falcon is a species of bird of prey in the Falconidae family which includes the falcons, caracaras, and their relatives. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Micrastur ruficollis"
-            ],
-            "Rank ": [
-                "Species"
-            ],
-            "Higher classification ": [
-                "Forest falcon"
-            ]
         },
         "Basilornis": {
             "label": "Basilornis",
@@ -1193,32 +1207,18 @@
             ],
             "See results about": []
         },
-        "Banded Martin": {
-            "label": "Banded Martin",
-            "description": "The Banded Martin or Banded Sand Martin is a small passerine bird in the swallow family.\nThe Banded Martin is found in open habitats such as farmland, grassland and savannah, usually near water. Wikipedia",
+        "Bat Falcon": {
+            "label": "Bat Falcon",
+            "description": "The Bat Falcon is a falcon that is a resident breeder in tropical Mexico, Central and South America and Trinidad. Wikipedia",
             "type": "",
             "Scientific name ": [
-                "Riparia cincta"
+                "Falco rufigularis"
             ],
             "Rank ": [
                 "Species"
             ],
             "Higher classification ": [
-                "Riparia"
-            ]
-        },
-        "Bay-breasted Warbler": {
-            "label": "Bay-breasted Warbler",
-            "description": "The Bay-breasted Warbler is a New World warbler. They breed in northern North America, specifically in Canada, into the Great Lakes region, and into northern New England. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Dendroica castanea"
-            ],
-            "Rank ": [
-                "Species"
-            ],
-            "Higher classification ": [
-                "Setophaga"
+                "Falcon"
             ]
         },
         "Baudo Guan": {
@@ -1235,6 +1235,20 @@
                 "Penelope"
             ]
         },
+        "Bay-breasted Warbler": {
+            "label": "Bay-breasted Warbler",
+            "description": "The Bay-breasted Warbler is a New World warbler. They breed in northern North America, specifically in Canada, into the Great Lakes region, and into northern New England. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Dendroica castanea"
+            ],
+            "Rank ": [
+                "Species"
+            ],
+            "Higher classification ": [
+                "Setophaga"
+            ]
+        },
         "Beach Kingfisher": {
             "label": "Beach Kingfisher",
             "description": "The Beach Kingfisher is a species of bird in the Alcedinidae family. It is found in Indonesia, Papua New Guinea, and Solomon Islands. Its natural habitat is subtropical or tropical mangrove forests. Wikipedia",
@@ -1249,26 +1263,26 @@
                 "Todiramphus"
             ]
         },
+        "Bean Goose": {
+            "label": "Bean Goose",
+            "description": "The Bean Goose is a goose that breeds in northern Europe and Asia. It has two distinct varieties, one inhabiting taiga habitats and one inhabiting tundra. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Anser fabalis"
+            ],
+            "Rank ": [
+                "Species"
+            ],
+            "Higher classification ": [
+                "Anser"
+            ]
+        },
         "Berryeater": {
             "label": "Berryeater",
             "description": "Carpornis, the berryeaters, is a genus of bird in the Cotingidae family. These primarily frugivorous birds are endemic to the Atlantic forest of eastern Brazil. Both species are mainly greenish-yellow with a black hood. Wikipedia",
             "type": "",
             "Rank ": [
                 "Genus"
-            ]
-        },
-        "Bat Falcon": {
-            "label": "Bat Falcon",
-            "description": "The Bat Falcon is a falcon that is a resident breeder in tropical Mexico, Central and South America and Trinidad. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Falco rufigularis"
-            ],
-            "Rank ": [
-                "Species"
-            ],
-            "Higher classification ": [
-                "Falcon"
             ]
         },
         "Biak Paradise Kingfisher": {
@@ -1327,18 +1341,18 @@
                 "Tetrao"
             ]
         },
-        "Bean Goose": {
-            "label": "Bean Goose",
-            "description": "The Bean Goose is a goose that breeds in northern Europe and Asia. It has two distinct varieties, one inhabiting taiga habitats and one inhabiting tundra. Wikipedia",
+        "Black-capped Tinamou": {
+            "label": "Black-capped Tinamou",
+            "description": "The Black-capped Tinamou is a type of Tinamou commonly found in the moist forest lowlands in subtropical and tropical regions. Wikipedia",
             "type": "",
             "Scientific name ": [
-                "Anser fabalis"
+                "Crypturellus atrocapillus"
             ],
             "Rank ": [
                 "Species"
             ],
             "Higher classification ": [
-                "Anser"
+                "Crypturellus"
             ]
         },
         "Black-faced Cormorant": {
@@ -1355,34 +1369,6 @@
                 "Phalacrocorax"
             ]
         },
-        "Black-capped Tinamou": {
-            "label": "Black-capped Tinamou",
-            "description": "The Black-capped Tinamou is a type of Tinamou commonly found in the moist forest lowlands in subtropical and tropical regions. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Crypturellus atrocapillus"
-            ],
-            "Rank ": [
-                "Species"
-            ],
-            "Higher classification ": [
-                "Crypturellus"
-            ]
-        },
-        "Black-faced Ibis": {
-            "label": "Black-faced Ibis",
-            "description": "The Black-faced Ibis is a species of bird in the Threskiornithidae family. It is found in grassland and fields in southern and western South America. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Theristicus melanopis"
-            ],
-            "Rank ": [
-                "Species"
-            ],
-            "Higher classification ": [
-                "Theristicus"
-            ]
-        },
         "Black-faced Hawk": {
             "label": "Black-faced Hawk",
             "description": "The Black-faced Hawk is a species of bird of prey in the Accipitridae family. This low-density species has traditionally been believed to be restricted to Amazon Basin north of the Amazon River, but ... Wikipedia",
@@ -1397,18 +1383,18 @@
                 "Leucopternis"
             ]
         },
-        "Black-fronted Dotterel": {
-            "label": "Black-fronted Dotterel",
-            "description": "The Black-fronted Dotterel is a small, slender plover, widespread throughout most of Australia, to which it is native and New Zealand, where it self-introduced in the 1950s. Wikipedia",
+        "Black-faced Ibis": {
+            "label": "Black-faced Ibis",
+            "description": "The Black-faced Ibis is a species of bird in the Threskiornithidae family. It is found in grassland and fields in southern and western South America. Wikipedia",
             "type": "",
             "Scientific name ": [
-                "Elseyornis melanops"
+                "Theristicus melanopis"
             ],
             "Rank ": [
                 "Species"
             ],
             "Higher classification ": [
-                "Elseyornis"
+                "Theristicus"
             ]
         },
         "Black-faced Sandgrouse": {
@@ -1439,6 +1425,48 @@
                 "Sheathbill"
             ]
         },
+        "Black-fronted Dotterel": {
+            "label": "Black-fronted Dotterel",
+            "description": "The Black-fronted Dotterel is a small, slender plover, widespread throughout most of Australia, to which it is native and New Zealand, where it self-introduced in the 1950s. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Elseyornis melanops"
+            ],
+            "Rank ": [
+                "Species"
+            ],
+            "Higher classification ": [
+                "Elseyornis"
+            ]
+        },
+        "Black-headed Jay": {
+            "label": "Black-headed Jay",
+            "description": "The Black-headed Jay or Lanceolated Jay is roughly the same size as its close relative the Eurasian Jay, but a little more slender overall except for the bill which is slightly shorter and thicker. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Garrulus lanceolatus"
+            ],
+            "Rank ": [
+                "Species"
+            ],
+            "Higher classification ": [
+                "Garrulus"
+            ]
+        },
+        "Black-naped Tern": {
+            "label": "Black-naped Tern",
+            "description": "The Black-naped Tern is an oceanic tern mostly found in tropical and subtropical areas of the Pacific and Indian Oceans. It is rarely found inland.\nThe tern is about 30 cm long with a wing length of 21–23 cm. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Sterna sumatrana"
+            ],
+            "Rank ": [
+                "Species"
+            ],
+            "Higher classification ": [
+                "Sterna"
+            ]
+        },
         "Black-shouldered Kite": {
             "label": "Black-shouldered Kite",
             "description": "The Black-shouldered Kite or Australian Black-shouldered Kite is a small raptor found in open habitat throughout Australia and resembles similar species found in Africa, Eurasia and North America, which ... Wikipedia",
@@ -1466,48 +1494,21 @@
             "Higher classification ": [
                 "Aegithalos"
             ]
-        },
-        "Black-naped Tern": {
-            "label": "Black-naped Tern",
-            "description": "The Black-naped Tern is an oceanic tern mostly found in tropical and subtropical areas of the Pacific and Indian Oceans. It is rarely found inland.\nThe tern is about 30 cm long with a wing length of 21–23 cm. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Sterna sumatrana"
-            ],
-            "Rank ": [
-                "Species"
-            ],
-            "Higher classification ": [
-                "Sterna"
-            ]
-        },
-        "Black-headed Jay": {
-            "label": "Black-headed Jay",
-            "description": "The Black-headed Jay or Lanceolated Jay is roughly the same size as its close relative the Eurasian Jay, but a little more slender overall except for the bill which is slightly shorter and thicker. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Garrulus lanceolatus"
-            ],
-            "Rank ": [
-                "Species"
-            ],
-            "Higher classification ": [
-                "Garrulus"
-            ]
         }
     },
     "summary": {
-        "label": 94,
-        "description": 94,
-        "type": 94,
-        "scientific_name": 1,
-        "higher_classification": 1,
-        "rank": 1,
-        "lower_classifications": 1,
-        "see_results_about": 1,
-        "length": 1,
-        "wingspan": 1,
-        "mass": 1
+        "label": {
+            "uri": "http://dbpedia.org/property/label",
+            "count": 94
+        },
+        "description": {
+            "uri": "http://dbpedia.org/property/description",
+            "count": 94
+        },
+        "type": {
+            "uri": "http://dbpedia.org/property/type",
+            "count": 94
+        }
     },
     "infoboxless": [
         "African Dwarf Kingfisher",
@@ -1516,5 +1517,15 @@
         "Antpecker",
         "Aphanotriccus",
         "Auckland Rail"
-    ]
+    ],
+    "Unmapped_Properties": {
+        "scientificName": 1,
+        "higherClassification": 1,
+        "rank": 1,
+        "lowerClassifications": 1,
+        "seeResultsAbout": 1,
+        "length": 1,
+        "wingspan": 1,
+        "mass": 1
+    }
 }

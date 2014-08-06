@@ -1,71 +1,5 @@
 {
     "instances": {
-        "Alfa Romeo 164": {
-            "label": "1995 Alfa Romeo 164",
-            "description": "",
-            "type": "",
-            "Engine size ": [
-                "3.0L"
-            ],
-            "Body style ": [
-                "Sedan"
-            ],
-            "MPG ": [
-                "up to 17 city / 24 highway"
-            ],
-            "Horsepower ": [
-                "210 HP to 230 HP"
-            ],
-            "Available trims ": [
-                "LS",
-                " Quadrifoglio"
-            ],
-            "Other model years ": "1993, 1994",
-            "Configurations": []
-        },
-        "Audi RS 4": {
-            "label": "2008 Audi RS 4",
-            "description": "",
-            "type": "",
-            "Engine size ": [
-                "4.2L"
-            ],
-            "MPG ": [
-                "up to 13 city / 20 highway"
-            ],
-            "Horsepower ": [
-                "420 HP"
-            ],
-            "Other model years ": [
-                "2007"
-            ],
-            "Make ": [
-                "Audi"
-            ],
-            "Body styles": []
-        },
-        "Audi Quattro": {
-            "label": "1994 Audi Quattro",
-            "description": "",
-            "type": "",
-            "Engine size ": [
-                "4.2L"
-            ],
-            "Body style ": [
-                "Sedan"
-            ],
-            "MPG ": [
-                "14 city / 20 highway"
-            ],
-            "Horsepower ": [
-                "276 HP"
-            ],
-            "Make ": [
-                "Audi"
-            ],
-            "Other model years ": "1992, 1993",
-            "People also search for": []
-        },
         "Aston Martin Vanquish": {
             "label": "2014 Aston Martin Vanquish",
             "description": "",
@@ -91,24 +25,93 @@
             ],
             "People also search for": []
         },
-        "Chevrolet Suburban": {
-            "label": "2014 Chevrolet Suburban",
+        "Alfa Romeo 164": {
+            "label": "1995 Alfa Romeo 164",
             "description": "",
             "type": "",
             "Engine size ": [
-                "5.3L"
+                "3.0L"
             ],
-            "MSRP ": [
-                "from $46",
-                "300"
-            ],
-            "Make ": [
-                "Chevrolet"
+            "Body style ": [
+                "Sedan"
             ],
             "MPG ": [
-                "15 city / 21 highway"
+                "up to 17 city / 24 highway"
             ],
-            "Other model years ": "2012, 2013",
+            "Horsepower ": [
+                "210 HP to 230 HP"
+            ],
+            "Available trims ": [
+                "LS",
+                " Quadrifoglio"
+            ],
+            "Other model years ": "1993, 1994",
+            "Configurations": []
+        },
+        "Audi Quattro": {
+            "label": "1994 Audi Quattro",
+            "description": "",
+            "type": "",
+            "Engine size ": [
+                "4.2L"
+            ],
+            "Body style ": [
+                "Sedan"
+            ],
+            "MPG ": [
+                "14 city / 20 highway"
+            ],
+            "Horsepower ": [
+                "276 HP"
+            ],
+            "Make ": [
+                "Audi"
+            ],
+            "Other model years ": "1992, 1993",
+            "People also search for": []
+        },
+        "Audi RS 4": {
+            "label": "2008 Audi RS 4",
+            "description": "",
+            "type": "",
+            "Engine size ": [
+                "4.2L"
+            ],
+            "MPG ": [
+                "up to 13 city / 20 highway"
+            ],
+            "Horsepower ": [
+                "420 HP"
+            ],
+            "Other model years ": [
+                "2007"
+            ],
+            "Make ": [
+                "Audi"
+            ],
+            "Body styles": []
+        },
+        "BMW 8 Series (E31)": {
+            "label": "1997 BMW 8 Series",
+            "description": "",
+            "type": "",
+            "Body style ": [
+                "Coupe"
+            ],
+            "MPG ": [
+                "up to 15 city / 20 highway"
+            ],
+            "Horsepower ": [
+                "282 HP to 322 HP"
+            ],
+            "Engine size ": [
+                "4.4L",
+                " 5.4L"
+            ],
+            "Available trims ": [
+                "840CiA",
+                " 850CiA"
+            ],
             "Configurations": []
         },
         "Chevrolet Corvette": {
@@ -130,6 +133,26 @@
             ],
             "Other model years ": "2012, 2013",
             "Body styles": []
+        },
+        "Chevrolet Suburban": {
+            "label": "2014 Chevrolet Suburban",
+            "description": "",
+            "type": "",
+            "Engine size ": [
+                "5.3L"
+            ],
+            "MSRP ": [
+                "from $46",
+                "300"
+            ],
+            "Make ": [
+                "Chevrolet"
+            ],
+            "MPG ": [
+                "15 city / 21 highway"
+            ],
+            "Other model years ": "2012, 2013",
+            "Configurations": []
         },
         "Chrysler Crossfire": {
             "label": "2008 Chrysler Crossfire",
@@ -194,6 +217,26 @@
             "Other model years ": "2008, 2009",
             "People also search for": []
         },
+        "Dodge Charger (B-body)": {
+            "label": "2014 Dodge Charger",
+            "description": "",
+            "type": "",
+            "Make ": [
+                "Dodge"
+            ],
+            "MSRP ": [
+                "from $27",
+                "595"
+            ],
+            "MPG ": [
+                "up to 19 city / 31 highway"
+            ],
+            "Horsepower ": [
+                "292 HP to 470 HP"
+            ],
+            "Other model years ": "2012, 2013",
+            "Configurations": []
+        },
         "Ferrari 575M Maranello": {
             "label": "2006 Ferrari 575 M",
             "description": "",
@@ -213,29 +256,6 @@
             "Available trims ": [
                 "Maranello",
                 " Maranello F1"
-            ],
-            "Configurations": []
-        },
-        "BMW 8 Series (E31)": {
-            "label": "1997 BMW 8 Series",
-            "description": "",
-            "type": "",
-            "Body style ": [
-                "Coupe"
-            ],
-            "MPG ": [
-                "up to 15 city / 20 highway"
-            ],
-            "Horsepower ": [
-                "282 HP to 322 HP"
-            ],
-            "Engine size ": [
-                "4.4L",
-                " 5.4L"
-            ],
-            "Available trims ": [
-                "840CiA",
-                " 850CiA"
             ],
             "Configurations": []
         },
@@ -333,43 +353,37 @@
                 " GT"
             ],
             "Configurations": []
-        },
-        "Dodge Charger (B-body)": {
-            "label": "2014 Dodge Charger",
-            "description": "",
-            "type": "",
-            "Make ": [
-                "Dodge"
-            ],
-            "MSRP ": [
-                "from $27",
-                "595"
-            ],
-            "MPG ": [
-                "up to 19 city / 31 highway"
-            ],
-            "Horsepower ": [
-                "292 HP to 470 HP"
-            ],
-            "Other model years ": "2012, 2013",
-            "Configurations": []
         }
     },
     "summary": {
-        "label": 16,
-        "description": 16,
-        "type": 16,
-        "engine_size": 1,
-        "body_style": 1,
-        "mpg": 1,
-        "horsepower": 1,
-        "available_trims": 1,
-        "other_model_years": 1,
-        "configurations": 1,
-        "make": 1,
-        "body_styles": 1,
-        "people_also_search_for": 1,
-        "msrp": 1
+        "label": {
+            "uri": "http://www.w3.org/2000/01/rdf-schema#label",
+            "count": 16
+        },
+        "description": {
+            "uri": "http://dbpedia.org/property/description",
+            "count": 16
+        },
+        "type": {
+            "uri": "http://dbpedia.org/property/type",
+            "count": 16
+        },
+        "bodyStyle": {
+            "uri": "http://dbpedia.org/property/bodyStyle",
+            "count": 11
+        },
+        "make": {
+            "uri": "http://dbpedia.org/property/make",
+            "count": 9
+        },
+        "horsepower": {
+            "uri": "http://dbpedia.org/property/horsepower",
+            "count": 15
+        },
+        "bodyStyles": {
+            "uri": "http://dbpedia.org/property/bodyStyles",
+            "count": 3
+        }
     },
     "infoboxless": [
         "Škoda 1201",
@@ -456,5 +470,14 @@
         "Ford Puma",
         "Ford RS200",
         "Ford S-Max"
-    ]
+    ],
+    "Unmapped_Properties": {
+        "engineSize": 1,
+        "msrp": 1,
+        "mpg": 1,
+        "peopleAlsoSearchFor": 1,
+        "availableTrims": 1,
+        "otherModelYears": 1,
+        "configurations": 1
+    }
 }

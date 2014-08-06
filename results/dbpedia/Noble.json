@@ -1,21 +1,5 @@
 {
     "instances": {
-        "Ida of Formbach-Ratelnberg": {
-            "label": "Ida of Formbach-Ratelnberg",
-            "description": "Ida of Austria was a consort of Leopold II of Austria. She was a crusader, participating in the Crusade of 1101 with her own army. Wikipedia",
-            "type": "",
-            "Born ": [
-                "1055"
-            ],
-            "Died ": [
-                "September 1101"
-            ],
-            "Children ": [
-                "Leopold III",
-                " Margrave of Austria"
-            ],
-            "People also search for": []
-        },
         "Duchess Charlotte Frederica of Mecklenburg-Schwerin": {
             "label": "Duchess Charlotte Frederica of Mecklenburg-Schwerin",
             "description": "Duchess Charlotte Frederica of Mecklenburg-Schwerin, was the first wife of King Christian VIII from 1806 until 1810, before he became King of Denmark. Wikipedia",
@@ -32,6 +16,22 @@
                 "Princess Louise of Saxe-Gotha-Altenburg",
                 " Frederick Francis I",
                 " Grand Duke of Mecklenburg-Schwerin"
+            ],
+            "People also search for": []
+        },
+        "Ida of Formbach-Ratelnberg": {
+            "label": "Ida of Formbach-Ratelnberg",
+            "description": "Ida of Austria was a consort of Leopold II of Austria. She was a crusader, participating in the Crusade of 1101 with her own army. Wikipedia",
+            "type": "",
+            "Born ": [
+                "1055"
+            ],
+            "Died ": [
+                "September 1101"
+            ],
+            "Children ": [
+                "Leopold III",
+                " Margrave of Austria"
             ],
             "People also search for": []
         },
@@ -283,6 +283,75 @@
                 " Michael Shishman of BulgariaMore"
             ]
         },
+        "Henry I, Count of Champagne": {
+            "label": "Henry I, Count of Champagne",
+            "description": "Henry I of Champagne, known as \"the Liberal\", was count of Champagne from 1152 to 1181. He was the eldest son of Count Thibaut II of Champagne and his wife, Matilda of Carinthia. Wikipedia",
+            "type": "",
+            "Born ": [
+                "December 1127"
+            ],
+            "Died ": "March 16, 1181, Troyes, France",
+            "Spouse ": [
+                "Marie of France",
+                " Countess of Champagne (m. 1164)"
+            ],
+            "Children ": [
+                "Henry II",
+                " Count of Champagne",
+                " Theobald III",
+                " Count of Champagne",
+                " Marie of Champagne"
+            ],
+            "Parents ": [
+                "Theobald II",
+                " Count of Champagne",
+                " Matilda of Carinthia"
+            ],
+            "People also search for": []
+        },
+        "Shishman of Vidin": {
+            "label": "Shishman of Vidin",
+            "description": "Shishman, Despot of Vidin was a Bulgarian noble who ruled a semi-independent realm based out of the Danubian fortress of Vidin in the late 13th and early 14th century. Wikipedia",
+            "type": "",
+            "Children ": [
+                "Michael Shishman of Bulgaria",
+                " Belaur",
+                " Keratsa Petritsa"
+            ],
+            "People also search for ": [
+                "Michael Shishman of Bulgaria",
+                " Anna-Theodora Asenina of Bulgaria",
+                " Dragoš",
+                " Belaur",
+                " George I of Bulgaria",
+                " Ivan Sratsimir of Bulgaria",
+                " Constantine II of Bulgaria",
+                " Keratsa Petritsa",
+                " Ivan Stephen of Bulgaria",
+                " George II of Bulgaria",
+                " Theodore Svetoslav of Bulgaria",
+                " Ana-Neda",
+                " Jacob Svetoslav",
+                " Shishman",
+                " Smilets of Bulgaria",
+                " Stephen Constantine of Serbia",
+                " John Komnenos Asen",
+                " Uroš II of Rascia",
+                " Michael Asen I of BulgariaMore"
+            ]
+        },
+        "John Komnenos Asen": {
+            "label": "John Komnenos Asen",
+            "description": "John Komnenos Asen was the ruler of the Principality of Valona from circa 1345 to 1363, initially as a Serbian vassal and after 1355 as a largely independent lord. Wikipedia",
+            "type": "",
+            "Died ": [
+                "1363"
+            ],
+            "Parents ": [
+                "Keratsa Petritsa"
+            ],
+            "People also search for": []
+        },
         "Gautier V, Count of Brienne": {
             "label": "Walter V, Count of Brienne",
             "description": "Gautier or Walter V of Brienne was born in Brienne-le-Château, Aube, Champagne, France. He was the son of Hugh, Count of Brienne and Lecce, and Isabella de la Roche, daughter of Guy I de la Roche, Duke of Athens. Wikipedia",
@@ -342,120 +411,6 @@
                 " comte de BrienneMore"
             ]
         },
-        "Henry I, Count of Champagne": {
-            "label": "Henry I, Count of Champagne",
-            "description": "Henry I of Champagne, known as \"the Liberal\", was count of Champagne from 1152 to 1181. He was the eldest son of Count Thibaut II of Champagne and his wife, Matilda of Carinthia. Wikipedia",
-            "type": "",
-            "Born ": [
-                "December 1127"
-            ],
-            "Died ": "March 16, 1181, Troyes, France",
-            "Spouse ": [
-                "Marie of France",
-                " Countess of Champagne (m. 1164)"
-            ],
-            "Children ": [
-                "Henry II",
-                " Count of Champagne",
-                " Theobald III",
-                " Count of Champagne",
-                " Marie of Champagne"
-            ],
-            "Parents ": [
-                "Theobald II",
-                " Count of Champagne",
-                " Matilda of Carinthia"
-            ],
-            "People also search for": []
-        },
-        "John Komnenos Asen": {
-            "label": "John Komnenos Asen",
-            "description": "John Komnenos Asen was the ruler of the Principality of Valona from circa 1345 to 1363, initially as a Serbian vassal and after 1355 as a largely independent lord. Wikipedia",
-            "type": "",
-            "Died ": [
-                "1363"
-            ],
-            "Parents ": [
-                "Keratsa Petritsa"
-            ],
-            "People also search for": []
-        },
-        "Shishman of Vidin": {
-            "label": "Shishman of Vidin",
-            "description": "Shishman, Despot of Vidin was a Bulgarian noble who ruled a semi-independent realm based out of the Danubian fortress of Vidin in the late 13th and early 14th century. Wikipedia",
-            "type": "",
-            "Children ": [
-                "Michael Shishman of Bulgaria",
-                " Belaur",
-                " Keratsa Petritsa"
-            ],
-            "People also search for ": [
-                "Michael Shishman of Bulgaria",
-                " Anna-Theodora Asenina of Bulgaria",
-                " Dragoš",
-                " Belaur",
-                " George I of Bulgaria",
-                " Ivan Sratsimir of Bulgaria",
-                " Constantine II of Bulgaria",
-                " Keratsa Petritsa",
-                " Ivan Stephen of Bulgaria",
-                " George II of Bulgaria",
-                " Theodore Svetoslav of Bulgaria",
-                " Ana-Neda",
-                " Jacob Svetoslav",
-                " Shishman",
-                " Smilets of Bulgaria",
-                " Stephen Constantine of Serbia",
-                " John Komnenos Asen",
-                " Uroš II of Rascia",
-                " Michael Asen I of BulgariaMore"
-            ]
-        },
-        "Theobald III, Count of Champagne": {
-            "label": "Theobald III, Count of Champagne",
-            "description": "Theobald III was Count of Champagne from 1197 to his death.\nTheobald was the younger son of Henry I of Champagne and Marie, a daughter of Louis VII of France and Eleanor of Aquitaine. Wikipedia",
-            "type": "",
-            "Born ": "May 13, 1179, Troyes, France",
-            "Died ": "May 24, 1201, Troyes, France",
-            "Children ": [
-                "Theobald I of Navarre"
-            ],
-            "Parents ": [
-                "Henry I",
-                " Count of Champagne",
-                " Marie of France",
-                " Countess of Champagne"
-            ],
-            "People also search for": []
-        },
-        "Theobald III, Count of Blois": {
-            "label": "Theobald III, Count of Blois",
-            "description": "Theobald III of Blois was count of Blois, Meaux and Troyes. He was son of Odo II, Count of Blois and Ermengarde of Auvergne.\nTheobald inherited amongst others the counties of Blois, Tours, Chartres. Wikipedia",
-            "type": "",
-            "Born ": [
-                "1012",
-                " Blois",
-                " France"
-            ],
-            "Died ": [
-                "1089"
-            ],
-            "Children ": [
-                "Stephen",
-                " Count of Blois",
-                " Hugh",
-                " Count of Champagne",
-                " Odo IV of Blois",
-                " Philip",
-                " Bishop of Châlons-sur-Marne"
-            ],
-            "Parents ": [
-                "Odo II",
-                " Count of Blois",
-                " Ermengarde of Auvergne"
-            ],
-            "People also search for": []
-        },
         "Yolande, Duchess of Lorraine": {
             "label": "Yolande, Duchess of Lorraine",
             "description": "Yolande, Duchess of Lorraine, also known as Yolande de Bar, was Duchess of Lorraine and Bar. She was the daughter of Isabella, Duchess of Lorraine, and René of Anjou. Wikipedia",
@@ -471,6 +426,23 @@
                 "René of Anjou",
                 " Isabella",
                 " Duchess of Lorraine"
+            ],
+            "People also search for": []
+        },
+        "Theobald III, Count of Champagne": {
+            "label": "Theobald III, Count of Champagne",
+            "description": "Theobald III was Count of Champagne from 1197 to his death.\nTheobald was the younger son of Henry I of Champagne and Marie, a daughter of Louis VII of France and Eleanor of Aquitaine. Wikipedia",
+            "type": "",
+            "Born ": "May 13, 1179, Troyes, France",
+            "Died ": "May 24, 1201, Troyes, France",
+            "Children ": [
+                "Theobald I of Navarre"
+            ],
+            "Parents ": [
+                "Henry I",
+                " Count of Champagne",
+                " Marie of France",
+                " Countess of Champagne"
             ],
             "People also search for": []
         },
@@ -535,31 +507,6 @@
             ],
             "People also search for": []
         },
-        "García Ramírez of Navarre": {
-            "label": "García Ramírez of Navarre",
-            "description": "García Ramírez, sometimes García IV,V, VI or VII, called the Restorer, was Lord of Monzón and Logroño, and, from 1134, King of Navarre. He \"restored\" the independence of the Navarrese crown after 58 years of union with the Kingdom of Aragon. Wikipedia",
-            "type": "",
-            "Born ": [
-                "1110"
-            ],
-            "Died ": "November 21, 1150",
-            "Parents ": [
-                "Ramiro Sánchez",
-                " Lord of Monzón"
-            ],
-            "Spouse ": [
-                "Urraca of Castile",
-                " Queen of Navarre (m. 1144–1150)",
-                " Margaret of L'Aigle (m. 1130–1141)"
-            ],
-            "Children ": [
-                "Sancho VI of Navarre",
-                " Blanche of Navarre",
-                " Queen of Castile",
-                " Margaret of Navarre"
-            ],
-            "People also search for": []
-        },
         "Sancho II of Pamplona": {
             "label": "Sancho II of Pamplona",
             "description": "Sancho II Garcés Abarca was King of Pamplona from 970 until his death. He was the son of García Sánchez I and Andregota, daughter of Galindo Aznárez II, Count of Aragon. Wikipedia",
@@ -601,6 +548,59 @@
             "Parents ": [
                 "García Ramírez of Navarre",
                 " Margaret of L'Aigle"
+            ],
+            "People also search for": []
+        },
+        "Theobald III, Count of Blois": {
+            "label": "Theobald III, Count of Blois",
+            "description": "Theobald III of Blois was count of Blois, Meaux and Troyes. He was son of Odo II, Count of Blois and Ermengarde of Auvergne.\nTheobald inherited amongst others the counties of Blois, Tours, Chartres. Wikipedia",
+            "type": "",
+            "Born ": [
+                "1012",
+                " Blois",
+                " France"
+            ],
+            "Died ": [
+                "1089"
+            ],
+            "Children ": [
+                "Stephen",
+                " Count of Blois",
+                " Hugh",
+                " Count of Champagne",
+                " Odo IV of Blois",
+                " Philip",
+                " Bishop of Châlons-sur-Marne"
+            ],
+            "Parents ": [
+                "Odo II",
+                " Count of Blois",
+                " Ermengarde of Auvergne"
+            ],
+            "People also search for": []
+        },
+        "García Ramírez of Navarre": {
+            "label": "García Ramírez of Navarre",
+            "description": "García Ramírez, sometimes García IV,V, VI or VII, called the Restorer, was Lord of Monzón and Logroño, and, from 1134, King of Navarre. He \"restored\" the independence of the Navarrese crown after 58 years of union with the Kingdom of Aragon. Wikipedia",
+            "type": "",
+            "Born ": [
+                "1110"
+            ],
+            "Died ": "November 21, 1150",
+            "Parents ": [
+                "Ramiro Sánchez",
+                " Lord of Monzón"
+            ],
+            "Spouse ": [
+                "Urraca of Castile",
+                " Queen of Navarre (m. 1144–1150)",
+                " Margaret of L'Aigle (m. 1130–1141)"
+            ],
+            "Children ": [
+                "Sancho VI of Navarre",
+                " Blanche of Navarre",
+                " Queen of Castile",
+                " Margaret of Navarre"
             ],
             "People also search for": []
         },
@@ -1182,25 +1182,6 @@
             ],
             "People also search for": []
         },
-        "Ernst Ludwig, Duke of Pomerania": {
-            "label": "Ernst Ludwig, Duke of Pomerania",
-            "description": "Ernst Ludwig was duke of Pomerania from 1560 to 1592. From 1569 to 1592, he was duke in the Teilherzogtum Pomerania-Wolgast, sharing the rule over the Duchy of Pomerania with his older brother Johann ... Wikipedia",
-            "type": "",
-            "Born ": "November 20, 1545, Wolgast, Germany",
-            "Died ": "June 17, 1592, Wolgast, Germany",
-            "Children ": [
-                "Philipp Julius",
-                " Duke of Pomerania",
-                " Elisabeth Magdalena of Pomerania"
-            ],
-            "Parents ": [
-                "Maria of Saxony",
-                " Duchess of Pomerania",
-                " Philip I",
-                " Duke of Pomerania"
-            ],
-            "People also search for": []
-        },
         "Albert, Margrave of Baden-Hachberg": {
             "label": "Albert, Margrave of Baden-Hachberg",
             "description": "Albert, Margrave of Baden-Hachberg was a Margrave of Baden.\nHe was the son of Margrave Charles I of Baden and Catherine of Austria. In 1475, Charles I died and Albert and his elder brother Chrisopher I inhertited the margraviate. Wikipedia",
@@ -1240,6 +1221,25 @@
                 " Bernard I",
                 " Margrave of Baden-BadenMore"
             ]
+        },
+        "Ernst Ludwig, Duke of Pomerania": {
+            "label": "Ernst Ludwig, Duke of Pomerania",
+            "description": "Ernst Ludwig was duke of Pomerania from 1560 to 1592. From 1569 to 1592, he was duke in the Teilherzogtum Pomerania-Wolgast, sharing the rule over the Duchy of Pomerania with his older brother Johann ... Wikipedia",
+            "type": "",
+            "Born ": "November 20, 1545, Wolgast, Germany",
+            "Died ": "June 17, 1592, Wolgast, Germany",
+            "Children ": [
+                "Philipp Julius",
+                " Duke of Pomerania",
+                " Elisabeth Magdalena of Pomerania"
+            ],
+            "Parents ": [
+                "Maria of Saxony",
+                " Duchess of Pomerania",
+                " Philip I",
+                " Duke of Pomerania"
+            ],
+            "People also search for": []
         },
         "Tomasz Antoni Zamoyski": {
             "label": "Tomasz Antoni Zamoyski",
@@ -1354,79 +1354,6 @@
                 " Duke of PomeraniaMore"
             ]
         },
-        "Bogislaw V, Duke of Pomerania": {
-            "label": "Bogislaw V, Duke of Pomerania",
-            "description": "Bogislaw V was a Duke of Pomerania.\nEldest son of Duke Wartislaw IV and Elisabeth of Lindow-Ruppin, Bogislaw had two brothers, Barnim IV and Wartislaw V. The brothers were joint rulers from their father's death in 1326. Wikipedia",
-            "type": "",
-            "Born ": [
-                "1318"
-            ],
-            "Died ": "April 23, 1374",
-            "Spouse ": [
-                "Elizabeth of Poland",
-                " Duchess of Pomerania"
-            ],
-            "Parents ": [
-                "Wartislaw IV",
-                " Duke of Pomerania"
-            ],
-            "Children ": [
-                "Bogislaw VIII",
-                " Duke of Pomerania",
-                " Elizabeth of Pomerania",
-                " Wartislaw VII",
-                " Duke of Pomerania",
-                " Casimir IV",
-                " Duke of Pomerania",
-                " Barnim V",
-                " Duke of PomeraniaMore"
-            ],
-            "People also search for": []
-        },
-        "Bogislaw VIII, Duke of Pomerania": {
-            "label": "Bogislaw VIII, Duke of Pomerania",
-            "description": "Bogislaw VIII was Duke of Pomerania in Pomerania-Stolp from 1395 until 1418. He married Sophie of Holstein, the daughter of Henry II, Count of Holstein-Rendsburg. Wikipedia",
-            "type": "",
-            "Born ": [
-                "1364"
-            ],
-            "Died ": "February 11, 1418",
-            "Parents ": [
-                "Bogislaw V",
-                " Duke of Pomerania"
-            ],
-            "Children ": [
-                "Bogusław IX"
-            ],
-            "People also search for": []
-        },
-        "Bogislaw X, Duke of Pomerania": {
-            "label": "Bogislaw X, Duke of Pomerania",
-            "description": "Bogislaw X of Pomerania, the Great, was Duke of Pomerania from 1474 until his death in 1523.\nBogislaw was born in Rügenwalde into the House of Pomerania. Wikipedia",
-            "type": "",
-            "Born ": "May 28, 1454, Darłowo, Poland",
-            "Died ": "October 5, 1523, Szczecin, Poland",
-            "Spouse ": [
-                "Anna Jagiellon of Poland (m. 1491–1523)",
-                " Margaret of Brandenburg (m. 1477–1489)"
-            ],
-            "Children ": [
-                "Barnim XI",
-                " Duke of Pomerania",
-                " George I",
-                " Duke of Pomerania",
-                " Sophie of Pomerania",
-                " Anna of Pomerania",
-                " Duchess of LubinMore"
-            ],
-            "Parents ": [
-                "Eric II",
-                " Duke of Pomerania",
-                " Sophie of Pomerania",
-                " Duchess of Pomerania"
-            ],
-            "People also search for": []
-        },
         "Bogislaw XIII, Duke of Pomerania": {
             "label": "Bogislaw XIII, Duke of Pomerania",
             "description": "Bogislaw XIII of Pomerania, son of Philip I and Maria of Saxony, was a prince of Stettin and Wolgast, and a member of the Griffins.\nBogislaw studied at the University of Greifswald at the age of 14. Wikipedia",
@@ -1466,6 +1393,33 @@
             "Children ": [
                 "Emich Carl",
                 " 2nd Prince of Leiningen"
+            ],
+            "People also search for": []
+        },
+        "Bogislaw X, Duke of Pomerania": {
+            "label": "Bogislaw X, Duke of Pomerania",
+            "description": "Bogislaw X of Pomerania, the Great, was Duke of Pomerania from 1474 until his death in 1523.\nBogislaw was born in Rügenwalde into the House of Pomerania. Wikipedia",
+            "type": "",
+            "Born ": "May 28, 1454, Darłowo, Poland",
+            "Died ": "October 5, 1523, Szczecin, Poland",
+            "Spouse ": [
+                "Anna Jagiellon of Poland (m. 1491–1523)",
+                " Margaret of Brandenburg (m. 1477–1489)"
+            ],
+            "Children ": [
+                "Barnim XI",
+                " Duke of Pomerania",
+                " George I",
+                " Duke of Pomerania",
+                " Sophie of Pomerania",
+                " Anna of Pomerania",
+                " Duchess of LubinMore"
+            ],
+            "Parents ": [
+                "Eric II",
+                " Duke of Pomerania",
+                " Sophie of Pomerania",
+                " Duchess of Pomerania"
             ],
             "People also search for": []
         },
@@ -1526,27 +1480,6 @@
                 " Duke of PomeraniaMore"
             ]
         },
-        "Elżbieta Sieniawska": {
-            "label": "Elżbieta Sieniawska",
-            "description": "Elżbieta Helena Sieniawska née Lubomirska was a Polish noble lady, Grand Hetmaness of the Crown and renowned patron of arts. Wikipedia",
-            "type": "",
-            "Born ": [
-                "1669",
-                " Końskowola",
-                " Poland"
-            ],
-            "Died ": "March 21, 1729, Oleszyce, Poland",
-            "Spouse ": [
-                "Adam Mikołaj Sieniawski (m. 1687)"
-            ],
-            "Parents ": [
-                "Stanisław Herakliusz Lubomirski"
-            ],
-            "Children ": [
-                "Maria Zofia Czartoryska"
-            ],
-            "People also search for": []
-        },
         "Elżbieta Szydłowska": {
             "label": "Elżbieta Szydłowska",
             "description": "Elżbieta Szydłowska, married surname Grabowska, was a member of the Polish gentry, a mistress and a morganatic wife of the last elective King of Poland, Stanisław August Poniatowski. Wikipedia",
@@ -1594,6 +1527,73 @@
             ],
             "People also search for": []
         },
+        "Elżbieta Sieniawska": {
+            "label": "Elżbieta Sieniawska",
+            "description": "Elżbieta Helena Sieniawska née Lubomirska was a Polish noble lady, Grand Hetmaness of the Crown and renowned patron of arts. Wikipedia",
+            "type": "",
+            "Born ": [
+                "1669",
+                " Końskowola",
+                " Poland"
+            ],
+            "Died ": "March 21, 1729, Oleszyce, Poland",
+            "Spouse ": [
+                "Adam Mikołaj Sieniawski (m. 1687)"
+            ],
+            "Parents ": [
+                "Stanisław Herakliusz Lubomirski"
+            ],
+            "Children ": [
+                "Maria Zofia Czartoryska"
+            ],
+            "People also search for": []
+        },
+        "Bogislaw VIII, Duke of Pomerania": {
+            "label": "Bogislaw VIII, Duke of Pomerania",
+            "description": "Bogislaw VIII was Duke of Pomerania in Pomerania-Stolp from 1395 until 1418. He married Sophie of Holstein, the daughter of Henry II, Count of Holstein-Rendsburg. Wikipedia",
+            "type": "",
+            "Born ": [
+                "1364"
+            ],
+            "Died ": "February 11, 1418",
+            "Parents ": [
+                "Bogislaw V",
+                " Duke of Pomerania"
+            ],
+            "Children ": [
+                "Bogusław IX"
+            ],
+            "People also search for": []
+        },
+        "Bogislaw V, Duke of Pomerania": {
+            "label": "Bogislaw V, Duke of Pomerania",
+            "description": "Bogislaw V was a Duke of Pomerania.\nEldest son of Duke Wartislaw IV and Elisabeth of Lindow-Ruppin, Bogislaw had two brothers, Barnim IV and Wartislaw V. The brothers were joint rulers from their father's death in 1326. Wikipedia",
+            "type": "",
+            "Born ": [
+                "1318"
+            ],
+            "Died ": "April 23, 1374",
+            "Spouse ": [
+                "Elizabeth of Poland",
+                " Duchess of Pomerania"
+            ],
+            "Parents ": [
+                "Wartislaw IV",
+                " Duke of Pomerania"
+            ],
+            "Children ": [
+                "Bogislaw VIII",
+                " Duke of Pomerania",
+                " Elizabeth of Pomerania",
+                " Wartislaw VII",
+                " Duke of Pomerania",
+                " Casimir IV",
+                " Duke of Pomerania",
+                " Barnim V",
+                " Duke of PomeraniaMore"
+            ],
+            "People also search for": []
+        },
         "Frederick Michael, Count Palatine of Zweibrücken": {
             "label": "Frederick Michael, Count Palatine of Zweibrücken",
             "description": "Frederick Michael, Count Palatine of Zweibrücken-Birkenfeld was a member of the Wittelsbach dynasty. Wikipedia",
@@ -1637,6 +1637,25 @@
             ],
             "People also search for": []
         },
+        "Gothelo I, Duke of Lorraine": {
+            "label": "Gothelo I, Duke of Lorraine",
+            "description": "Gothelo, called the Great, was the duke of Lower Lorraine from 1023 and of Upper Lorraine from 1033. He was also the margrave of Antwerp from 1005 and count of Verdun. Wikipedia",
+            "type": "",
+            "Born ": [
+                "967 AD"
+            ],
+            "Died ": "April 19, 1044",
+            "Parents ": [
+                "Godfrey I",
+                " Count of Verdun"
+            ],
+            "Children ": [
+                "Godfrey III",
+                " Duke of Lower Lorraine",
+                " Gothelo II of Lower Lorraine"
+            ],
+            "People also search for": []
+        },
         "Heinrich XXIV, Count Reuss of Ebersdorf": {
             "label": "Heinrich XXIV, Count Reuss of Ebersdorf",
             "description": "Heinrich XXIV, Count Reuss of Ebersdorf, was ruler of the German county Reuss-Ebersdorf from 1747 till his death.\nHe was the eldest son of the thirteen children of Heinrich XXIX, Count of Reuss-Ebersdorf and Sophie Theodora of Castell-Remlingen. Wikipedia",
@@ -1655,22 +1674,25 @@
             ],
             "People also search for": []
         },
-        "Gothelo I, Duke of Lorraine": {
-            "label": "Gothelo I, Duke of Lorraine",
-            "description": "Gothelo, called the Great, was the duke of Lower Lorraine from 1023 and of Upper Lorraine from 1033. He was also the margrave of Antwerp from 1005 and count of Verdun. Wikipedia",
+        "Hermann II, Count of Celje": {
+            "label": "Hermann II, Count of Celje",
+            "description": "Hermann II was a Count of Celje and Ban of Croatia, Slavonia and Dalmatia. Hermann was the son of Hermann I, Count of Celje and his wife Katherine of Bosnia.\nHermann II married Countess Anna of Schaunberg in c. 1377. Wikipedia",
             "type": "",
             "Born ": [
-                "967 AD"
+                "1365"
             ],
-            "Died ": "April 19, 1044",
+            "Died ": "October 13, 1435, Bratislava, Slovakia",
+            "Spouse ": [
+                "Anna of Schaunberg (m. 1377–1396)"
+            ],
             "Parents ": [
-                "Godfrey I",
-                " Count of Verdun"
+                "Catherine of Bosnia",
+                " Countess of Cilli"
             ],
             "Children ": [
-                "Godfrey III",
-                " Duke of Lower Lorraine",
-                " Gothelo II of Lower Lorraine"
+                "Barbara of Cilli",
+                " Frederick II",
+                " Count of Celje"
             ],
             "People also search for": []
         },
@@ -1719,28 +1741,6 @@
                 " Đuraš Ilijić",
                 " Lekë ZahariaMore"
             ]
-        },
-        "Hermann II, Count of Celje": {
-            "label": "Hermann II, Count of Celje",
-            "description": "Hermann II was a Count of Celje and Ban of Croatia, Slavonia and Dalmatia. Hermann was the son of Hermann I, Count of Celje and his wife Katherine of Bosnia.\nHermann II married Countess Anna of Schaunberg in c. 1377. Wikipedia",
-            "type": "",
-            "Born ": [
-                "1365"
-            ],
-            "Died ": "October 13, 1435, Bratislava, Slovakia",
-            "Spouse ": [
-                "Anna of Schaunberg (m. 1377–1396)"
-            ],
-            "Parents ": [
-                "Catherine of Bosnia",
-                " Countess of Cilli"
-            ],
-            "Children ": [
-                "Barbara of Cilli",
-                " Frederick II",
-                " Count of Celje"
-            ],
-            "People also search for": []
         },
         "Otto I, Duke of Pomerania": {
             "label": "Otto I, Duke of Pomerania",
@@ -1862,6 +1862,21 @@
                 " 1st BaronetMore"
             ]
         },
+        "Ulrich II, Count of Celje": {
+            "label": "Ulrich II of Celje",
+            "description": "Ulrich II, or Ulrich of Celje, was the last Princely Count of Celje. Wikipedia",
+            "type": "",
+            "Born ": [
+                "1406",
+                " Celje",
+                " Slovenia"
+            ],
+            "Died ": "November 9, 1456, Belgrade, Serbia",
+            "Children ": [
+                "Elizabeth of Celje"
+            ],
+            "People also search for": []
+        },
         "Vojvoda Vojin": {
             "label": "Vojvoda Vojin",
             "description": "Vojin of Gacko or Vojvoda Vojin was a Serb voivode and magnate that held the province of Gacko, also known as Hum, in ca.1322-1347, serving King Stephen Uroš III Dečanski and Emperor Stephen Dušan the Mighty. Wikipedia",
@@ -1887,21 +1902,6 @@
                 " Duke of Pomerania",
                 " Wartislaw V",
                 " Duke of Pomerania"
-            ],
-            "People also search for": []
-        },
-        "Ulrich II, Count of Celje": {
-            "label": "Ulrich II of Celje",
-            "description": "Ulrich II, or Ulrich of Celje, was the last Princely Count of Celje. Wikipedia",
-            "type": "",
-            "Born ": [
-                "1406",
-                " Celje",
-                " Slovenia"
-            ],
-            "Died ": "November 9, 1456, Belgrade, Serbia",
-            "Children ": [
-                "Elizabeth of Celje"
             ],
             "People also search for": []
         },
@@ -1965,40 +1965,16 @@
                 " Duke of PomeraniaMore"
             ]
         },
-        "Philip III, Landgrave of Hesse-Butzbach": {
-            "label": "Philip III, Landgrave of Hesse-Butzbach",
-            "description": "Landgrave Philip III of Hesse-Butzbach was Landgrave of Hesse-Butzbach from 1609 to 1643. Wikipedia",
+        "Frederick IV, Landgrave of Thuringia": {
+            "label": "Frederick IV, Landgrave of Thuringia",
+            "description": "Frederick IV, Landgrave of Thuringia, nicknamed Frederick the Peaceful or Frederick the Simple, the peaceful one, and the Fool was a member of the House of Wettin and was Margrave of Meissen and Landgrave of Thuringia. Wikipedia",
             "type": "",
-            "Born ": [
-                "Darmstadt",
-                " Germany"
-            ],
-            "Siblings ": [
-                "Louis V",
-                " Landgrave of Hesse-Darmstadt"
-            ],
+            "Born ": "November 30, 1384",
             "Parents ": [
-                "Magdalene of Lippe",
-                " George I",
-                " Landgrave of Hesse-Darmstadt"
+                "Balthasar",
+                " Landgrave of Thuringia"
             ],
-            "People also search for ": [
-                "Louis V",
-                " Landgrave of Hesse-Darmstadt",
-                " George I",
-                " Landgrave of Hesse-Darmstadt",
-                " Daniel Mögling",
-                " Frederick I",
-                " Landgrave of Hesse-Homburg",
-                " Philip of Hesse-Darmstadt",
-                " Louis VI",
-                " Landgrave of Hesse-Darmstadt",
-                " Landgravine Caroline of Hesse-Darmstadt",
-                " Philipp Uffenbach",
-                " Frederick of Hesse-Darmstadt",
-                " George II",
-                " Landgrave of Hesse-DarmstadtMore"
-            ]
+            "People also search for": []
         },
         "Adolph II of the Marck": {
             "label": "Adolph II of the Marck",
@@ -2040,63 +2016,6 @@
                 " Count of Mark",
                 " John I",
                 " Duke of ClevesMore"
-            ]
-        },
-        "Frederick IV, Landgrave of Thuringia": {
-            "label": "Frederick IV, Landgrave of Thuringia",
-            "description": "Frederick IV, Landgrave of Thuringia, nicknamed Frederick the Peaceful or Frederick the Simple, the peaceful one, and the Fool was a member of the House of Wettin and was Margrave of Meissen and Landgrave of Thuringia. Wikipedia",
-            "type": "",
-            "Born ": "November 30, 1384",
-            "Parents ": [
-                "Balthasar",
-                " Landgrave of Thuringia"
-            ],
-            "People also search for": []
-        },
-        "Rudolf I, Margrave of Hachberg-Sausenberg": {
-            "label": "Rudolf I, Margrave of Hachberg-Sausenberg",
-            "description": "Margrave Rudolf I of Hachberg-Sausenberg was the son of Margrave Henry II of Hachberg and Anne of Üsenberg. He married in 1298 or 1299 to Agnes, the heiress of Otto of Rötteln. Wikipedia",
-            "type": "",
-            "Parents ": [
-                "Henry II",
-                " Margrave of Baden-Hachberg"
-            ],
-            "Children ": [
-                "Rudolf II",
-                " Margrave of Hachberg-Sausenberg",
-                " Otto I",
-                " Margrave of Hachberg-Sausenberg",
-                " Henry",
-                " Margrave of Hachberg-SausenbergMore"
-            ],
-            "People also search for ": [
-                "Rudolf IV",
-                " Margrave of Hachberg-Sausenberg",
-                " Rudolf II",
-                " Margrave of Hachberg-Sausenberg",
-                " William",
-                " Margrave of Hachberg-Sausenberg",
-                " Rudolf III",
-                " Margrave of Hachberg-Sausenberg",
-                " Henry II",
-                " Margrave of Baden-Hachberg",
-                " Otto I",
-                " Margrave of Hachberg-Sausenberg",
-                " Philip of Hachberg-Sausenberg",
-                " Henry",
-                " Margrave of Hachberg-Sausenberg",
-                " James III",
-                " Margrave of Baden-Hachberg",
-                " Herman IV",
-                " Margrave of Baden",
-                " Herman I",
-                " Margrave of Baden",
-                " Rudolf I",
-                " Margrave of Baden-Baden",
-                " Herman V",
-                " Margrave of Baden-Baden",
-                " Rudolf VI",
-                " Margrave of BadenMore"
             ]
         },
         "John, Landgrave of Lower Hesse": {
@@ -2152,6 +2071,87 @@
                 " Count of Sponheim-Kreuznach",
                 " Charles I",
                 " Landgrave of Hesse-PhilippsthalMore"
+            ]
+        },
+        "Philip III, Landgrave of Hesse-Butzbach": {
+            "label": "Philip III, Landgrave of Hesse-Butzbach",
+            "description": "Landgrave Philip III of Hesse-Butzbach was Landgrave of Hesse-Butzbach from 1609 to 1643. Wikipedia",
+            "type": "",
+            "Born ": [
+                "Darmstadt",
+                " Germany"
+            ],
+            "Siblings ": [
+                "Louis V",
+                " Landgrave of Hesse-Darmstadt"
+            ],
+            "Parents ": [
+                "Magdalene of Lippe",
+                " George I",
+                " Landgrave of Hesse-Darmstadt"
+            ],
+            "People also search for ": [
+                "Louis V",
+                " Landgrave of Hesse-Darmstadt",
+                " George I",
+                " Landgrave of Hesse-Darmstadt",
+                " Daniel Mögling",
+                " Frederick I",
+                " Landgrave of Hesse-Homburg",
+                " Philip of Hesse-Darmstadt",
+                " Louis VI",
+                " Landgrave of Hesse-Darmstadt",
+                " Landgravine Caroline of Hesse-Darmstadt",
+                " Philipp Uffenbach",
+                " Frederick of Hesse-Darmstadt",
+                " George II",
+                " Landgrave of Hesse-DarmstadtMore"
+            ]
+        },
+        "Rudolf I, Margrave of Hachberg-Sausenberg": {
+            "label": "Rudolf I, Margrave of Hachberg-Sausenberg",
+            "description": "Margrave Rudolf I of Hachberg-Sausenberg was the son of Margrave Henry II of Hachberg and Anne of Üsenberg. He married in 1298 or 1299 to Agnes, the heiress of Otto of Rötteln. Wikipedia",
+            "type": "",
+            "Parents ": [
+                "Henry II",
+                " Margrave of Baden-Hachberg"
+            ],
+            "Children ": [
+                "Rudolf II",
+                " Margrave of Hachberg-Sausenberg",
+                " Otto I",
+                " Margrave of Hachberg-Sausenberg",
+                " Henry",
+                " Margrave of Hachberg-SausenbergMore"
+            ],
+            "People also search for ": [
+                "Rudolf IV",
+                " Margrave of Hachberg-Sausenberg",
+                " Rudolf II",
+                " Margrave of Hachberg-Sausenberg",
+                " William",
+                " Margrave of Hachberg-Sausenberg",
+                " Rudolf III",
+                " Margrave of Hachberg-Sausenberg",
+                " Henry II",
+                " Margrave of Baden-Hachberg",
+                " Otto I",
+                " Margrave of Hachberg-Sausenberg",
+                " Philip of Hachberg-Sausenberg",
+                " Henry",
+                " Margrave of Hachberg-Sausenberg",
+                " James III",
+                " Margrave of Baden-Hachberg",
+                " Herman IV",
+                " Margrave of Baden",
+                " Herman I",
+                " Margrave of Baden",
+                " Rudolf I",
+                " Margrave of Baden-Baden",
+                " Herman V",
+                " Margrave of Baden-Baden",
+                " Rudolf VI",
+                " Margrave of BadenMore"
             ]
         },
         "Rudolf II, Margrave of Hachberg-Sausenberg": {
@@ -2217,21 +2217,42 @@
         }
     },
     "summary": {
-        "label": 84,
-        "description": 84,
-        "type": 84,
-        "born": 1,
-        "died": 1,
-        "children": 1,
-        "people_also_search_for": 1,
-        "spouse": 1,
-        "parents": 1,
-        "full_name": 1,
-        "siblings": 1,
-        "education": 1,
-        "artwork": 1,
-        "periods": 1,
-        "assassinated": 1
+        "label": {
+            "uri": "http://dbpedia.org/property/label",
+            "count": 84
+        },
+        "description": {
+            "uri": "http://purl.org/dc/elements/1.1/description",
+            "count": 84
+        },
+        "type": {
+            "uri": "http://dbpedia.org/property/type",
+            "count": 84
+        },
+        "born": {
+            "uri": "http://dbpedia.org/property/born",
+            "count": 68
+        },
+        "spouse": {
+            "uri": "http://dbpedia.org/property/spouse",
+            "count": 29
+        },
+        "children": {
+            "uri": "http://dbpedia.org/property/children",
+            "count": 63
+        },
+        "parents": {
+            "uri": "http://dbpedia.org/property/parents",
+            "count": 69
+        },
+        "fullName": {
+            "uri": "http://dbpedia.org/property/fullName",
+            "count": 1
+        },
+        "education": {
+            "uri": "http://dbpedia.org/property/education",
+            "count": 4
+        }
     },
     "infoboxless": [
         "Frederick Albert, Prince of Anhalt-Bernburg",
@@ -2250,5 +2271,13 @@
         "Charles William, Margrave of Baden-Rodemachern",
         "Henry III, Count of Gorizia",
         "Philip III, Marquis of Namur"
-    ]
+    ],
+    "Unmapped_Properties": {
+        "died": 1,
+        "peopleAlsoSearchFor": 1,
+        "siblings": 1,
+        "artwork": 1,
+        "periods": 1,
+        "assassinated": 1
+    }
 }

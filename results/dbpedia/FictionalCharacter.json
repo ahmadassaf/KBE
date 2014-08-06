@@ -1,11 +1,5 @@
 {
     "instances": {
-        "Alan Partridge": {
-            "label": "Alan Partridge",
-            "description": "Alan Gordon Partridge is a fictional character portrayed by English comedian Steve Coogan and invented by Coogan, Armando Iannucci, and other show writers for the BBC Radio 4 programme On The Hour. Wikipedia",
-            "type": "Fictional Character",
-            "See results about": []
-        },
         "Barb Wire": {
             "label": "Barb Wire",
             "description": "Barb Wire is a 1996 American action-science fiction film based on the Dark Horse comic book series of the same name. Brad Wyman produced, and David Hogan directed. Barb Wire stars Pamela Anderson in the title role. Wikipedia",
@@ -29,6 +23,30 @@
             "description": "Doc Savage is a fictional character originally published in American pulp magazines during the 1930s and 1940s. Wikipedia",
             "type": "Fictional Character",
             "See results about": []
+        },
+        "Lou Grant": {
+            "label": "Lou Grant",
+            "description": "Lou Grant is an American television drama series starring Ed Asner in the titular role as a newspaper editor. Unusual in American television, this drama series was a spinoff from a sitcom, The Mary Tyler Moore Show. Wikipedia",
+            "type": "Television Series",
+            "First episode ": "September 20, 1977",
+            "Final episode ": "September 13, 1982",
+            "Network ": [
+                "CBS"
+            ],
+            "Program creators ": [
+                "Gene Reynolds",
+                " Allan Burns",
+                " James L. Brooks"
+            ],
+            "Writers ": [
+                "Gene Reynolds",
+                " David Lloyd",
+                " Jeffrey Lane",
+                " Everett Greenbaum",
+                " Robert Schlitt",
+                " Harriett Weiss"
+            ],
+            "Cast": []
         },
         "List of The Hunger Games characters": {
             "label": "The Hunger Games",
@@ -73,30 +91,6 @@
                 " Utopian and dystopian fictionMore"
             ],
             "People also search for": []
-        },
-        "Lou Grant": {
-            "label": "Lou Grant",
-            "description": "Lou Grant is an American television drama series starring Ed Asner in the titular role as a newspaper editor. Unusual in American television, this drama series was a spinoff from a sitcom, The Mary Tyler Moore Show. Wikipedia",
-            "type": "Television Series",
-            "First episode ": "September 20, 1977",
-            "Final episode ": "September 13, 1982",
-            "Network ": [
-                "CBS"
-            ],
-            "Program creators ": [
-                "Gene Reynolds",
-                " Allan Burns",
-                " James L. Brooks"
-            ],
-            "Writers ": [
-                "Gene Reynolds",
-                " David Lloyd",
-                " Jeffrey Lane",
-                " Everett Greenbaum",
-                " Robert Schlitt",
-                " Harriett Weiss"
-            ],
-            "Cast": []
         },
         "Michał Wołodyjowski": {
             "label": "Michał Wołodyjowski",
@@ -241,6 +235,12 @@
             "type": "Magazine",
             "See results about": []
         },
+        "Zaphod Beeblebrox": {
+            "label": "Zaphod Beeblebrox",
+            "description": "Zaphod Beeblebrox is a fictional character in the various versions of the humorous science fiction story The Hitchhiker's Guide to the Galaxy by Douglas Adams. Wikipedia",
+            "type": "Fictional Character",
+            "See results about": []
+        },
         "Uriah Heep": {
             "label": "Uriah Heep",
             "description": "Uriah Heep are an English rock band formed in London in 1969 and are regarded as one of the seminal hard rock acts of the early 1970s. Wikipedia",
@@ -299,56 +299,92 @@
             "Songs": [],
             "Upcoming events": []
         },
-        "Zaphod Beeblebrox": {
-            "label": "Zaphod Beeblebrox",
-            "description": "Zaphod Beeblebrox is a fictional character in the various versions of the humorous science fiction story The Hitchhiker's Guide to the Galaxy by Douglas Adams. Wikipedia",
-            "type": "Fictional Character",
-            "See results about": []
-        },
         "Aiden Ford": {
             "label": "Aiden Ford",
             "description": "First Lieutenant Aiden Ford, USMC is a fictional character in the Canadian-American Sci-Fi Channel television series Stargate Atlantis, a military science fiction show about a combined civilian and ... Wikipedia",
             "type": "Fictional Character",
             "See results about": []
+        },
+        "Alan Partridge": {
+            "label": "Alan Partridge",
+            "description": "Alan Gordon Partridge is a fictional character portrayed by English comedian Steve Coogan and invented by Coogan, Armando Iannucci, and other show writers for the BBC Radio 4 programme On The Hour. Wikipedia",
+            "type": "Fictional Character",
+            "See results about": []
         }
     },
     "summary": {
-        "label": 17,
-        "description": 17,
-        "type": 17,
-        "see_results_about": 1,
-        "release_date": 1,
-        "director": 1,
-        "mpaa_rating": 1,
-        "initial_dvd_release": 1,
-        "awards": 1,
-        "cast": 1,
-        "people_also_search_for": 1,
-        "published": 1,
-        "characters": 1,
-        "author": 1,
-        "adaptations": 1,
-        "followed_by": 1,
-        "genres": 1,
-        "first_episode": 1,
-        "final_episode": 1,
-        "network": 1,
-        "program_creators": 1,
-        "writers": 1,
-        "creator": 1,
-        "born": 1,
-        "height": 1,
-        "spouse": 1,
-        "children": 1,
-        "nationality": 1,
-        "movies_and_tv_shows": 1,
-        "screenplay": 1,
-        "origin": 1,
-        "members": 1,
-        "lead_singers": 1,
-        "record_labels": 1,
-        "songs": 1,
-        "upcoming_events": 1
+        "label": {
+            "uri": "http://dbpedia.org/property/label",
+            "count": 17
+        },
+        "description": {
+            "uri": "http://dbpedia.org/property/description",
+            "count": 17
+        },
+        "type": {
+            "uri": "http://dbpedia.org/property/type",
+            "count": 17
+        },
+        "director": {
+            "uri": "http://dbpedia.org/property/director",
+            "count": 3
+        },
+        "awards": {
+            "uri": "http://dbpedia.org/property/awards",
+            "count": 2
+        },
+        "network": {
+            "uri": "http://dbpedia.org/property/network",
+            "count": 1
+        },
+        "writers": {
+            "uri": "http://dbpedia.org/property/writers",
+            "count": 1
+        },
+        "characters": {
+            "uri": "http://dbpedia.org/property/characters",
+            "count": 2
+        },
+        "author": {
+            "uri": "http://dbpedia.org/property/author",
+            "count": 1
+        },
+        "followedBy": {
+            "uri": "http://dbpedia.org/property/followedBy",
+            "count": 1
+        },
+        "creator": {
+            "uri": "http://dbpedia.org/property/creator",
+            "count": 1
+        },
+        "born": {
+            "uri": "http://dbpedia.org/property/born",
+            "count": 1
+        },
+        "height": {
+            "uri": "http://dbpedia.org/property/height",
+            "count": 1
+        },
+        "spouse": {
+            "uri": "http://dbpedia.org/property/spouse",
+            "count": 1
+        },
+        "children": {
+            "uri": "http://dbpedia.org/property/children",
+            "count": 1
+        },
+        "nationality": {
+            "uri": "http://dbpedia.org/property/nationality",
+            "count": 1
+        },
+        "origin": {
+            "uri": "http://dbpedia.org/property/origin",
+            "count": 1
+        },
+        "members": {
+            "uri": "http://dbpedia.org/property/members",
+            "count": 1
+        }
     },
     "infoboxless": [
         "Arnold Rimmer",
@@ -434,5 +470,25 @@
         "Wilkins Micawber",
         "Albus Dumbledore",
         "Bella Swan"
-    ]
+    ],
+    "Unmapped_Properties": {
+        "releaseDate": 1,
+        "mpaaRating": 1,
+        "initialDvdRelease": 1,
+        "cast": 1,
+        "peopleAlsoSearchFor": 1,
+        "seeResultsAbout": 1,
+        "firstEpisode": 1,
+        "finalEpisode": 1,
+        "programCreators": 1,
+        "published": 1,
+        "adaptations": 1,
+        "genres": 1,
+        "moviesAndTvShows": 1,
+        "screenplay": 1,
+        "leadSingers": 1,
+        "recordLabels": 1,
+        "songs": 1,
+        "upcomingEvents": 1
+    }
 }

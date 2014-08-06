@@ -36,16 +36,6 @@
             ],
             "People also search for": []
         },
-        "Auestadion": {
-            "label": "Auestadion",
-            "description": "Auestadion is a multi-use stadium in Kassel, Germany close to the Karlsaue park. It is used mostly for football matches and is the home stadium of KSV Hessen Kassel. The stadium is able to hold 18000 people. Wikipedia",
-            "type": "",
-            "Address ": "Damaschkestraße 1, 34121 Kassel, Germany",
-            "Phone ": [
-                "+49 561 25474"
-            ],
-            "People also search for": []
-        },
         "A. Le Coq Arena": {
             "label": "A. Le Coq Arena",
             "description": "",
@@ -101,6 +91,16 @@
                 "Canada national rugby union team",
                 " Toronto FC",
                 " Canada men's national soccer team"
+            ],
+            "People also search for": []
+        },
+        "Auestadion": {
+            "label": "Auestadion",
+            "description": "Auestadion is a multi-use stadium in Kassel, Germany close to the Karlsaue park. It is used mostly for football matches and is the home stadium of KSV Hessen Kassel. The stadium is able to hold 18000 people. Wikipedia",
+            "type": "",
+            "Address ": "Damaschkestraße 1, 34121 Kassel, Germany",
+            "Phone ": [
+                "+49 561 25474"
             ],
             "People also search for": []
         },
@@ -714,6 +714,12 @@
             ],
             "Upcoming events": []
         },
+        "Lohrheidestadion": {
+            "label": "Lohrheidestadion",
+            "description": "The Lohrheidestadion is a multi-use stadium in Bochum-Wattenscheid, Germany. It is currently used mostly for football matches and is the home stadium of SG Wattenscheid 09. The stadium is able to hold 16,233 people and opened in 1954. Wikipedia",
+            "type": "",
+            "Address ": "Lohrheidestraße 82, 44866 Bochum, Germany"
+        },
         "Marschweg-Stadion": {
             "label": "Marschweg-Stadion",
             "description": "Marschweg-Stadion is a multi-use stadium in Oldenburg, Germany . It is used as the stadium of VfB Oldenburg matches. The capacity of the stadium is 15,000 spectators. Wikipedia",
@@ -722,12 +728,6 @@
                 "Germany"
             ],
             "People also search for": []
-        },
-        "Lohrheidestadion": {
-            "label": "Lohrheidestadion",
-            "description": "The Lohrheidestadion is a multi-use stadium in Bochum-Wattenscheid, Germany. It is currently used mostly for football matches and is the home stadium of SG Wattenscheid 09. The stadium is able to hold 16,233 people and opened in 1954. Wikipedia",
-            "type": "",
-            "Address ": "Lohrheidestraße 82, 44866 Bochum, Germany"
         },
         "Max-Schmeling-Halle": {
             "label": "Max-Schmeling-Halle",
@@ -779,6 +779,18 @@
             ],
             "People also search for": []
         },
+        "Na Stínadlech": {
+            "label": "Na Stínadlech",
+            "description": "Na Stinadlech is a multi-purpose stadium in Teplice, Czech Republic. It is currently used mostly for football matches and is the home ground of FK Teplice. The stadium holds 18,221 and was built in 1973. Wikipedia",
+            "type": "",
+            "Address ": [
+                "Na Stínadlech 2796",
+                " 415 01 Teplice",
+                " Czech Republic"
+            ],
+            "Opened ": "May 9, 1973",
+            "People also search for": []
+        },
         "National Stadium, Warsaw": {
             "label": "National Stadium, Warsaw",
             "description": "The National Stadium is a retractable roof football stadium located in Warsaw, Poland. It is used mostly for football matches and it is the home stadium of Poland national football team. Wikipedia",
@@ -791,18 +803,6 @@
             "Phone ": [
                 "+48 22 295 90 00"
             ],
-            "People also search for": []
-        },
-        "Na Stínadlech": {
-            "label": "Na Stínadlech",
-            "description": "Na Stinadlech is a multi-purpose stadium in Teplice, Czech Republic. It is currently used mostly for football matches and is the home ground of FK Teplice. The stadium holds 18,221 and was built in 1973. Wikipedia",
-            "type": "",
-            "Address ": [
-                "Na Stínadlech 2796",
-                " 415 01 Teplice",
-                " Czech Republic"
-            ],
-            "Opened ": "May 9, 1973",
             "People also search for": []
         },
         "O2 World (Hamburg)": {
@@ -977,6 +977,16 @@
             "type": "",
             "Address ": "Westparkstraße 126, 47803 Krefeld, Germany"
         },
+        "Rheinstadion": {
+            "label": "Rheinstadion",
+            "description": "The Rheinstadion was a multi-purpose stadium, in Düsseldorf, Germany. The stadium was built, near the Rhine, in 1926 and held 55,900 people, at the end of its life.\nIt was the home ground for Fortuna Düsseldorf from 1953–1970 and 1972–2002. Wikipedia",
+            "type": "",
+            "Address ": "Europaplatz 5, 40474 Düsseldorf, Germany",
+            "Phone ": [
+                "+49 211 8995216"
+            ],
+            "People also search for": []
+        },
         "Robertson Stadium": {
             "label": "Robertson Stadium",
             "description": "John O'Quinn Field at Corbin J. Robertson Stadium was a multi-purpose stadium in Houston, located on the campus of the University of Houston. It was the home of the Houston Cougars football and women's soccer teams. Wikipedia",
@@ -995,16 +1005,6 @@
             ],
             "Phone ": [
                 "(713) 743-9444"
-            ],
-            "People also search for": []
-        },
-        "Rheinstadion": {
-            "label": "Rheinstadion",
-            "description": "The Rheinstadion was a multi-purpose stadium, in Düsseldorf, Germany. The stadium was built, near the Rhine, in 1926 and held 55,900 people, at the end of its life.\nIt was the home ground for Fortuna Düsseldorf from 1953–1970 and 1972–2002. Wikipedia",
-            "type": "",
-            "Address ": "Europaplatz 5, 40474 Düsseldorf, Germany",
-            "Phone ": [
-                "+49 211 8995216"
             ],
             "People also search for": []
         },
@@ -1040,24 +1040,6 @@
             "Address ": "Erich-Reimann-Straße 38, 67061 Ludwigshafen am Rhein, Germany",
             "People also search for": []
         },
-        "SGL arena": {
-            "label": "SGL arena",
-            "description": "SGL arena, until 1 July 2011 the Impuls Arena, is a football stadium in Augsburg, Bavaria, Germany. It is used mostly for football matches and hosts the home matches of FC Augsburg. Wikipedia",
-            "type": "",
-            "Address ": "Bürgermeister-Ulrich-Straße 90, 86199 Augsburg, Germany",
-            "Capacity ": [
-                "30",
-                "660"
-            ],
-            "Opened ": "July 26, 2009",
-            "Team ": [
-                "FC Augsburg"
-            ],
-            "Phone ": [
-                "+49 821 65040510"
-            ],
-            "Upcoming events": []
-        },
         "SAP Arena": {
             "label": "SAP Arena",
             "description": "SAP Arena is a multi-purpose arena in Mannheim, Germany. It is primarily used for ice hockey and handball, and is the home arena of the Adler Mannheim ice hockey club and the \"Rhein-Neckar-Löwen\" handball club. Wikipedia",
@@ -1074,6 +1056,24 @@
             ],
             "Architect ": [
                 "Hubert Petschnigg"
+            ],
+            "Upcoming events": []
+        },
+        "SGL arena": {
+            "label": "SGL arena",
+            "description": "SGL arena, until 1 July 2011 the Impuls Arena, is a football stadium in Augsburg, Bavaria, Germany. It is used mostly for football matches and hosts the home matches of FC Augsburg. Wikipedia",
+            "type": "",
+            "Address ": "Bürgermeister-Ulrich-Straße 90, 86199 Augsburg, Germany",
+            "Capacity ": [
+                "30",
+                "660"
+            ],
+            "Opened ": "July 26, 2009",
+            "Team ": [
+                "FC Augsburg"
+            ],
+            "Phone ": [
+                "+49 821 65040510"
             ],
             "Upcoming events": []
         },
@@ -1506,26 +1506,6 @@
             "Upcoming events": [],
             "People also search for": []
         },
-        "Volkswagen Arena": {
-            "label": "Volkswagen Arena",
-            "description": "Volkswagen Arena is a multi-purpose stadium in Wolfsburg, Lower Saxony, Germany and serves as the home stadium of the 2008–09 Bundesliga champions VfL Wolfsburg. The Volkswagen Arena replaced the former stadium of VfL Wolfsburg, the VFL Stadion. Wikipedia",
-            "type": "",
-            "Address ": "In den Allerwiesen 1, 38446 Wolfsburg, Germany",
-            "Capacity ": [
-                "22",
-                "000"
-            ],
-            "Opened ": [
-                "2002"
-            ],
-            "Team ": [
-                "VfL Wolfsburg"
-            ],
-            "Phone ": [
-                "+49 5361 89030"
-            ],
-            "Upcoming events": []
-        },
         "Werk Arena": {
             "label": "Werk Arena",
             "description": "Werk Arena is an indoor sporting arena located in Třinec, Czech Republic. The capacity of the arena is 5,200 people of which 3700 are seats.\nThe arena was built in 1967, the roof was provided in 1976. Wikipedia",
@@ -1546,6 +1526,26 @@
                 "HC Oceláři Třinec"
             ],
             "People also search for": []
+        },
+        "Volkswagen Arena": {
+            "label": "Volkswagen Arena",
+            "description": "Volkswagen Arena is a multi-purpose stadium in Wolfsburg, Lower Saxony, Germany and serves as the home stadium of the 2008–09 Bundesliga champions VfL Wolfsburg. The Volkswagen Arena replaced the former stadium of VfL Wolfsburg, the VFL Stadion. Wikipedia",
+            "type": "",
+            "Address ": "In den Allerwiesen 1, 38446 Wolfsburg, Germany",
+            "Capacity ": [
+                "22",
+                "000"
+            ],
+            "Opened ": [
+                "2002"
+            ],
+            "Team ": [
+                "VfL Wolfsburg"
+            ],
+            "Phone ": [
+                "+49 5361 89030"
+            ],
+            "Upcoming events": []
         },
         "White City Stadium": {
             "label": "White City Stadium",
@@ -1570,14 +1570,6 @@
             ],
             "People also search for": []
         },
-        "Wormatia-Stadion": {
-            "label": "Wormatia-Stadion",
-            "description": "EWR-Arena is a multi-use stadium in Worms, Germany. It is currently used mostly for football matches and is the home of Wormatia Worms. The stadium has a capacity of 5,724 people. Wikipedia",
-            "type": "",
-            "Address ": [
-                "Germany"
-            ]
-        },
         "Wiener Stadthalle": {
             "label": "Wiener Stadthalle",
             "description": "Wiener Stadthalle is an indoor arena, located in the 15th district of Vienna, Austria. It was designed by Austrian architect Roland Rainer and built from 1953–1958. The arena has an overall seating capacity of approximately 16,000 people. Wikipedia",
@@ -1587,6 +1579,14 @@
                 "+43 1 981000"
             ],
             "Upcoming events": []
+        },
+        "Wormatia-Stadion": {
+            "label": "Wormatia-Stadion",
+            "description": "EWR-Arena is a multi-use stadium in Worms, Germany. It is currently used mostly for football matches and is the home of Wormatia Worms. The stadium has a capacity of 5,724 people. Wikipedia",
+            "type": "",
+            "Address ": [
+                "Germany"
+            ]
         },
         "Zimní stadion Hradec Králové": {
             "label": "Zimní stadion Hradec Králové",
@@ -1650,26 +1650,58 @@
         }
     },
     "summary": {
-        "label": 100,
-        "description": 100,
-        "type": 100,
-        "address": 1,
-        "capacity": 1,
-        "opened": 1,
-        "team": 1,
-        "people_also_search_for": 1,
+        "label": {
+            "uri": "http://dbpedia.org/property/label",
+            "count": 100
+        },
+        "description": {
+            "uri": "http://dbpedia.org/property/description",
+            "count": 100
+        },
+        "type": {
+            "uri": "http://dbpedia.org/property/type",
+            "count": 100
+        },
+        "address": {
+            "uri": "http://dbpedia.org/property/address",
+            "count": 86
+        },
+        "capacity": {
+            "uri": "http://dbpedia.org/property/capacity",
+            "count": 47
+        },
+        "opened": {
+            "uri": "http://dbpedia.org/property/opened",
+            "count": 50
+        },
+        "team": {
+            "uri": "http://dbpedia.org/property/team",
+            "count": 38
+        },
+        "architect": {
+            "uri": "http://dbpedia.org/property/architect",
+            "count": 6
+        },
+        "elevation": {
+            "uri": "http://dbpedia.org/property/elevation",
+            "count": 1
+        },
+        "architects": {
+            "uri": "http://dbpedia.org/property/architects",
+            "count": 1
+        }
+    },
+    "infoboxless": [],
+    "Unmapped_Properties": {
+        "peopleAlsoSearchFor": 1,
         "phone": 1,
-        "architecture_firm": 1,
-        "upcoming_events": 1,
+        "architectureFirm": 1,
+        "upcomingEvents": 1,
         "hours": 1,
         "province": 1,
-        "architect": 1,
         "teams": 1,
         "function": 1,
-        "recent_posts": 1,
-        "elevation": 1,
-        "architects": 1,
-        "construction_started": 1
-    },
-    "infoboxless": []
+        "recentPosts": 1,
+        "constructionStarted": 1
+    }
 }

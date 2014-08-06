@@ -61,24 +61,6 @@
             ],
             "People also search for": []
         },
-        "Atna Peaks": {
-            "label": "Atna Peaks",
-            "description": "Atna Peaks is an eroded stratovolcano or shield volcano in the Wrangell Mountains of eastern Alaska. Wikipedia",
-            "type": "",
-            "Elevation ": [
-                "13",
-                "862' (4",
-                "225 m)"
-            ],
-            "Prominence ": [
-                "2",
-                "159' (658 m)"
-            ],
-            "Mountain range ": [
-                "Wrangell Mountains"
-            ],
-            "People also search for": []
-        },
         "Avachinsky": {
             "label": "Avachinsky",
             "description": "Avachinsky is an active stratovolcano on the Kamchatka Peninsula in the far east of Russia. It lies within sight of the capital of Kamchatka Krai, Petropavlovsk-Kamchatsky. Wikipedia",
@@ -95,6 +77,24 @@
                 "5",
                 "085' (1",
                 "550 m)"
+            ],
+            "People also search for": []
+        },
+        "Atna Peaks": {
+            "label": "Atna Peaks",
+            "description": "Atna Peaks is an eroded stratovolcano or shield volcano in the Wrangell Mountains of eastern Alaska. Wikipedia",
+            "type": "",
+            "Elevation ": [
+                "13",
+                "862' (4",
+                "225 m)"
+            ],
+            "Prominence ": [
+                "2",
+                "159' (658 m)"
+            ],
+            "Mountain range ": [
+                "Wrangell Mountains"
             ],
             "People also search for": []
         },
@@ -724,22 +724,6 @@
             ],
             "People also search for": []
         },
-        "Mount Scenery": {
-            "label": "Mount Scenery",
-            "description": "Mount Scenery is a potentially active volcano in the Caribbean Netherlands. Its lava dome forms the summit of the Saba island stratovolcano. Wikipedia",
-            "type": "Mountain in Caribbean Netherlands",
-            "Elevation ": [
-                "2",
-                "910' (887 m)"
-            ],
-            "Last eruption ": [
-                "1640"
-            ],
-            "Prominence ": [
-                "2",
-                "910' (887 m)"
-            ]
-        },
         "Mount Süphan": {
             "label": "Mount Süphan",
             "description": "Mount Süphan, is a stratovolcano located in eastern Turkey, immediately north of Lake Van. It is the second highest volcano in Turkey with an elevation of 4,058 m or 13,314 ft and has the second highest ... Wikipedia",
@@ -758,6 +742,22 @@
                 "189 m)"
             ],
             "People also search for": []
+        },
+        "Mount Scenery": {
+            "label": "Mount Scenery",
+            "description": "Mount Scenery is a potentially active volcano in the Caribbean Netherlands. Its lava dome forms the summit of the Saba island stratovolcano. Wikipedia",
+            "type": "Mountain in Caribbean Netherlands",
+            "Elevation ": [
+                "2",
+                "910' (887 m)"
+            ],
+            "Last eruption ": [
+                "1640"
+            ],
+            "Prominence ": [
+                "2",
+                "910' (887 m)"
+            ]
         },
         "Mount Shishaldin": {
             "label": "Mount Shishaldin",
@@ -1154,23 +1154,6 @@
             ],
             "People also search for": []
         },
-        "Reventador": {
-            "label": "Reventador",
-            "description": "Reventador is an active stratovolcano which lies in the eastern Andes of Ecuador. It lies in a remote area of the national park of the same name. Wikipedia",
-            "type": "Mountain in Ecuador",
-            "Elevation ": [
-                "11",
-                "686' (3",
-                "562 m)"
-            ],
-            "Last eruption ": [
-                "2009"
-            ],
-            "Mountain range ": [
-                "Andes"
-            ],
-            "People also search for": []
-        },
         "Mount Kilimanjaro": {
             "label": "Mount Kilimanjaro",
             "description": "Mount Kilimanjaro, with its three volcanic cones, Kibo, Mawenzi, and Shira, is a dormant volcanic mountain in Tanzania. Wikipedia",
@@ -1197,17 +1180,20 @@
             ],
             "People also search for": []
         },
-        "Bola (volcano)": {
-            "label": "Bola",
-            "description": "The Bola volcano, also known as Wangore, is an andesitic stratovolcano, located southwest of the Dakataua caldera. It is 1,115 metres tall and has a 400 metre wide summit crater. Wikipedia",
-            "type": "Volcano",
+        "Reventador": {
+            "label": "Reventador",
+            "description": "Reventador is an active stratovolcano which lies in the eastern Andes of Ecuador. It lies in a remote area of the national park of the same name. Wikipedia",
+            "type": "Mountain in Ecuador",
             "Elevation ": [
-                "3",
-                "789' (1",
-                "155 m)"
+                "11",
+                "686' (3",
+                "562 m)"
             ],
             "Last eruption ": [
-                "1890"
+                "2009"
+            ],
+            "Mountain range ": [
+                "Andes"
             ],
             "People also search for": []
         },
@@ -1219,6 +1205,20 @@
                 "5",
                 "686' (1",
                 "733 m)"
+            ],
+            "People also search for": []
+        },
+        "Bola (volcano)": {
+            "label": "Bola",
+            "description": "The Bola volcano, also known as Wangore, is an andesitic stratovolcano, located southwest of the Dakataua caldera. It is 1,115 metres tall and has a 400 metre wide summit crater. Wikipedia",
+            "type": "Volcano",
+            "Elevation ": [
+                "3",
+                "789' (1",
+                "155 m)"
+            ],
+            "Last eruption ": [
+                "1890"
             ],
             "People also search for": []
         },
@@ -1571,16 +1571,6 @@
             ],
             "People also search for": []
         },
-        "Belenkaya": {
-            "label": "Belenkaya",
-            "description": "Belenkaya is a stratovolcano located in the southern part of Kamchatka Peninsula, Russia. Wikipedia",
-            "type": "",
-            "Elevation ": [
-                "2",
-                "927' (892 m)"
-            ],
-            "People also search for": []
-        },
         "Batu Tara": {
             "label": "Batu Tara",
             "description": "Batu Tara stratovolcano is a small isolated island in the Flores Sea in Indonesia. Vegetations covers the flanks of Batu Tara. The first historical eruption occurred in 1852 with explosions and lava flows. Wikipedia",
@@ -1597,27 +1587,55 @@
                 "454' (748 m)"
             ],
             "People also search for": []
+        },
+        "Belenkaya": {
+            "label": "Belenkaya",
+            "description": "Belenkaya is a stratovolcano located in the southern part of Kamchatka Peninsula, Russia. Wikipedia",
+            "type": "",
+            "Elevation ": [
+                "2",
+                "927' (892 m)"
+            ],
+            "People also search for": []
         }
     },
     "summary": {
-        "label": 91,
-        "description": 91,
-        "type": 91,
-        "elevation": 1,
-        "prominence": 1,
-        "mountain_range": 1,
-        "people_also_search_for": 1,
-        "last_eruption": 1,
-        "first_ascent": 1,
-        "first_ascenders": 1,
-        "country": 1,
-        "province": 1,
-        "first_ascender": 1,
-        "see_results_about": 1,
-        "address": 1,
-        "area": 1,
-        "phone": 1,
-        "local_time": 1
+        "label": {
+            "uri": "http://dbpedia.org/property/label",
+            "count": 91
+        },
+        "description": {
+            "uri": "http://fr.dbpedia.org/ontology/abstract",
+            "count": 91
+        },
+        "type": {
+            "uri": "http://dbpedia.org/property/type",
+            "count": 91
+        },
+        "elevation": {
+            "uri": "http://dbpedia.org/property/elevation",
+            "count": 85
+        },
+        "prominence": {
+            "uri": "http://dbpedia.org/property/prominence",
+            "count": 55
+        },
+        "mountainRange": {
+            "uri": "http://dbpedia.org/ontology/mountainRange",
+            "count": 36
+        },
+        "lastEruption": {
+            "uri": "http://dbpedia.org/property/lastEruption",
+            "count": 54
+        },
+        "firstAscent": {
+            "uri": "http://dbpedia.org/property/firstAscent",
+            "count": 18
+        },
+        "country": {
+            "uri": "http://dbpedia.org/property/country",
+            "count": 1
+        }
     },
     "infoboxless": [
         "Marmolejo",
@@ -1629,5 +1647,16 @@
         "Chingo",
         "Asahi-dake",
         "Amasing Hill"
-    ]
+    ],
+    "Unmapped_Properties": {
+        "peopleAlsoSearchFor": 1,
+        "firstAscenders": 1,
+        "province": 1,
+        "firstAscender": 1,
+        "seeResultsAbout": 1,
+        "address": 1,
+        "area": 1,
+        "phone": 1,
+        "localTime": 1
+    }
 }

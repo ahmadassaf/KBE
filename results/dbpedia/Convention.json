@@ -25,12 +25,6 @@
                 "450 USD (2011)"
             ]
         },
-        "Conucopia": {
-            "label": "Cornucopia",
-            "description": "The cornucopia or horn of plenty is a symbol of abundance and nourishment, commonly a large horn-shaped container overflowing with produce, flowers, nuts, other edibles, or wealth in some form. Wikipedia",
-            "type": "",
-            "See results about": []
-        },
         "High Point Market": {
             "label": "High Point Market",
             "description": "The High Point Market, held in High Point, North Carolina, is the largest home furnishings industry trade show in the world, measuring over 10 million square feet encompassed in approximately 180 buildings throughout the area. Wikipedia",
@@ -41,18 +35,27 @@
             "description": "The Genoa International Boat Show is one of the world's premier boat shows, held annually in Genoa, Italy, typically during the month of October. Wikipedia",
             "type": "",
             "People also search for": []
+        },
+        "Conucopia": {
+            "label": "Cornucopia",
+            "description": "The cornucopia or horn of plenty is a symbol of abundance and nourishment, commonly a large horn-shaped container overflowing with produce, flowers, nuts, other edibles, or wealth in some form. Wikipedia",
+            "type": "",
+            "See results about": []
         }
     },
     "summary": {
-        "label": 5,
-        "description": 5,
-        "type": 5,
-        "see_results_about": 1,
-        "tax_id": 1,
-        "tax_deductibility_code": 1,
-        "assets": 1,
-        "income": 1,
-        "people_also_search_for": 1
+        "label": {
+            "uri": "http://www.w3.org/2000/01/rdf-schema#label",
+            "count": 5
+        },
+        "description": {
+            "uri": "http://fr.dbpedia.org/ontology/abstract",
+            "count": 5
+        },
+        "type": {
+            "uri": "http://dbpedia.org/property/type",
+            "count": 5
+        }
     },
     "infoboxless": [
         "InnoTrans",
@@ -150,5 +153,13 @@
         "QC Anime-zing!",
         "RootsTech",
         "SFContario"
-    ]
+    ],
+    "Unmapped_Properties": {
+        "seeResultsAbout": 1,
+        "taxId": 1,
+        "taxDeductibilityCode": 1,
+        "assets": 1,
+        "income": 1,
+        "peopleAlsoSearchFor": 1
+    }
 }

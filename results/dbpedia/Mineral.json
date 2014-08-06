@@ -1,11 +1,5 @@
 {
     "instances": {
-        "Dickite": {
-            "label": "Dickite",
-            "description": "Dickite is a phyllosilicate clay mineral chemically composed of aluminium, silicon, hydrogen and oxygen contributing 20.90%, 21.76%, 1.56%, and 55.78% each respectively. Wikipedia",
-            "type": "",
-            "Related topics": []
-        },
         "Nontronite": {
             "label": "Nontronite",
             "description": "Nontronite is the iron rich member of the smectite group of clay minerals. Nontronites typically have a chemical composition consisting of more than ~30% Fe2O3 and less than ~12% Al2O3. Wikipedia",
@@ -18,21 +12,15 @@
             "type": "Rock type",
             "Related topics": []
         },
-        "Paragonite": {
-            "label": "Paragonite",
-            "description": "Paragonite, also known as Natron-Glimmer, is a mineral, related to muscovite. Its empirical formula is NaAl2[(OH)2|AlSi3O10]. Wikipedia",
-            "type": "",
-            "Related topics": []
-        },
         "Sapphirine": {
             "label": "Sapphirine",
             "description": "Sapphirine is a rare mineral, a silicate of magnesium and aluminium with the chemical formula (Mg,Al)8(Al,Si)6O20. Wikipedia",
             "type": "",
             "Related topics": []
         },
-        "Tridymite": {
-            "label": "Tridymite",
-            "description": "Tridymite is a high-temperature polymorph of quartz and usually occurs as minute tabular white or colorless pseudo-hexagonal crystals, or scales, in cavities in felsic volcanic rocks. Its chemical formula is SiO2. Wikipedia",
+        "Dickite": {
+            "label": "Dickite",
+            "description": "Dickite is a phyllosilicate clay mineral chemically composed of aluminium, silicon, hydrogen and oxygen contributing 20.90%, 21.76%, 1.56%, and 55.78% each respectively. Wikipedia",
             "type": "",
             "Related topics": []
         },
@@ -48,6 +36,12 @@
             "type": "",
             "Related topics": []
         },
+        "Paragonite": {
+            "label": "Paragonite",
+            "description": "Paragonite, also known as Natron-Glimmer, is a mineral, related to muscovite. Its empirical formula is NaAl2[(OH)2|AlSi3O10]. Wikipedia",
+            "type": "",
+            "Related topics": []
+        },
         "Struvite": {
             "label": "Struvite",
             "description": "Struvite is a phosphate mineral with formula NH4MgPO4·6H2O. Struvite crystallizes in the orthorhombic system as white to yellowish or brownish-white pyramidal crystals or in platey mica-like forms. Wikipedia",
@@ -56,9 +50,9 @@
                 "NH4MgPO4·6H2O"
             ]
         },
-        "Wakefieldite": {
-            "label": "Wakefieldite",
-            "description": "Wakefieldite is an uncommon rare earth element vanadate mineral. There are four main types of wakefieldite- wakefieldite-, wakefieldite-, wakefieldite-, and wakefieldite-, depending upon the dominant rare earth metal ion present. Wikipedia",
+        "Tridymite": {
+            "label": "Tridymite",
+            "description": "Tridymite is a high-temperature polymorph of quartz and usually occurs as minute tabular white or colorless pseudo-hexagonal crystals, or scales, in cavities in felsic volcanic rocks. Its chemical formula is SiO2. Wikipedia",
             "type": "",
             "Related topics": []
         },
@@ -68,21 +62,27 @@
             "type": "",
             "Related topics": []
         },
+        "Wakefieldite": {
+            "label": "Wakefieldite",
+            "description": "Wakefieldite is an uncommon rare earth element vanadate mineral. There are four main types of wakefieldite- wakefieldite-, wakefieldite-, wakefieldite-, and wakefieldite-, depending upon the dominant rare earth metal ion present. Wikipedia",
+            "type": "",
+            "Related topics": []
+        },
         "Lanarkite": {
             "label": "Lanarkite",
             "description": "Lanarkite is a mineral, a form of lead sulfate with formula Pb2O. It was originally found at Leadhills in the Scottish county of Lanarkshire, hence the name. Wikipedia",
             "type": "",
             "Related topics": []
         },
-        "Troilite": {
-            "label": "Troilite",
-            "description": "Troilite is a rare iron sulfide mineral with the simple formula of FeS. It is the iron rich endmember of the pyrrhotite group. Pyrrhotite has the formula FeS which is iron deficient. Wikipedia",
-            "type": "",
-            "Related topics": []
-        },
         "Stishovite": {
             "label": "Stishovite",
             "description": "Stishovite is an extremely hard, dense tetragonal form of silicon dioxide. It is very rare on the earth's surface. It may however be a predominant form of silicon dioxide in the earth, especially in the lower mantle. Wikipedia",
+            "type": "",
+            "Related topics": []
+        },
+        "Troilite": {
+            "label": "Troilite",
+            "description": "Troilite is a rare iron sulfide mineral with the simple formula of FeS. It is the iron rich endmember of the pyrrhotite group. Pyrrhotite has the formula FeS which is iron deficient. Wikipedia",
             "type": "",
             "Related topics": []
         },
@@ -102,12 +102,6 @@
             "description": "Meteoric iron is a native metal found in meteorites and made from the elements iron and nickel mainly in the form of the mineral phases kamacite and taenite. Meteoric iron makes up the bulk of iron meteorites but is also found in other meteorites. Wikipedia",
             "type": "",
             "See results about": []
-        },
-        "Hessonite": {
-            "label": "Grossular",
-            "description": "Grossular or grossularite is a calcium-aluminium mineral species of the garnet gemstone group with the formula Ca3Al2(SiO4)3, though the calcium may in part be replaced by ferrous iron and the aluminium by ferric iron. Wikipedia",
-            "type": "",
-            "Related topics": []
         },
         "Autunite": {
             "label": "Autunite",
@@ -138,9 +132,9 @@
             "description": "Abelsonite is a nickel porphyrin mineral with formula C31H32N4Ni. It was discovered in 1969 in the U.S. State of Utah and described in 1975. The mineral is named after geochemist Philip H. Abelson. It is the only known crystalline geoporphyrin. Wikipedia",
             "type": ""
         },
-        "Aenigmatite": {
-            "label": "Aenigmatite",
-            "description": "Aenigmatite, also known as Cossyrite after Cossyra, the ancient name of Pantelleria, is a sodium, iron, titanium inosilicate mineral. Wikipedia",
+        "Hessonite": {
+            "label": "Grossular",
+            "description": "Grossular or grossularite is a calcium-aluminium mineral species of the garnet gemstone group with the formula Ca3Al2(SiO4)3, though the calcium may in part be replaced by ferrous iron and the aluminium by ferric iron. Wikipedia",
             "type": "",
             "Related topics": []
         },
@@ -156,26 +150,42 @@
             "type": "",
             "Related topics": []
         },
-        "Celadonite": {
-            "label": "Celadonite",
-            "description": "Celadonite is a mica group mineral, a phyllosilicate of potassium, iron in both oxidation states, aluminium and hydroxide with formula K[Si4O10](OH)2. Wikipedia",
-            "type": "",
-            "Related topics": []
-        },
         "Cerite": {
             "label": "Cerite",
             "description": "Cerite is a complex silicate mineral group containing cerium, formula (Ce,La,Ca)9(SiO4)6(OH)3. The cerium and lanthanum content varies with the Ce rich species and the La rich species. Wikipedia",
             "type": "",
             "Related topics": []
+        },
+        "Aenigmatite": {
+            "label": "Aenigmatite",
+            "description": "Aenigmatite, also known as Cossyrite after Cossyra, the ancient name of Pantelleria, is a sodium, iron, titanium inosilicate mineral. Wikipedia",
+            "type": "",
+            "Related topics": []
+        },
+        "Celadonite": {
+            "label": "Celadonite",
+            "description": "Celadonite is a mica group mineral, a phyllosilicate of potassium, iron in both oxidation states, aluminium and hydroxide with formula K[Si4O10](OH)2. Wikipedia",
+            "type": "",
+            "Related topics": []
         }
     },
     "summary": {
-        "label": 28,
-        "description": 28,
-        "type": 28,
-        "related_topics": 1,
-        "formula": 1,
-        "see_results_about": 1
+        "label": {
+            "uri": "http://dbpedia.org/property/label",
+            "count": 28
+        },
+        "description": {
+            "uri": "http://dbpedia.org/property/description",
+            "count": 28
+        },
+        "type": {
+            "uri": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+            "count": 28
+        },
+        "formula": {
+            "uri": "http://dbpedia.org/property/formula",
+            "count": 1
+        }
     },
     "infoboxless": [
         "Baotite",
@@ -250,5 +260,9 @@
         "Bukovskyite",
         "Calderite",
         "Chapmanite"
-    ]
+    ],
+    "Unmapped_Properties": {
+        "relatedTopics": 1,
+        "seeResultsAbout": 1
+    }
 }

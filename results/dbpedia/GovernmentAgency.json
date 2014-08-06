@@ -1,16 +1,5 @@
 {
     "instances": {
-        "Bundesstiftung zur Aufarbeitung der SED-Diktatur": {
-            "label": "Stiftung zur Aufarbeitung der SED-Diktatur",
-            "description": "",
-            "type": ""
-        },
-        "California Department of Transportation": {
-            "label": "Caltrans District 7",
-            "description": "",
-            "type": "",
-            "People also search for": []
-        },
         "Canadian Space Agency": {
             "label": "Canadian Space Agency",
             "description": "The Canadian Space Agency was established by the Canadian Space Agency Act which received Royal Assent on May 10, 1990. The president of the agency is Walter Natynczyk who reports to the Minister of Industry. Wikipedia",
@@ -18,11 +7,10 @@
             "Founded ": "March 1, 1989",
             "People also search for": []
         },
-        "Federal Aviation Administration": {
-            "label": "Federal Aviation Administration",
-            "description": "The Federal Aviation Administration is the national aviation authority of the United States. An agency of the United States Department of Transportation, it has authority to regulate and oversee all aspects of American civil aviation. Wikipedia",
-            "type": "Government Agency",
-            "Founded ": "August 23, 1958",
+        "California Department of Transportation": {
+            "label": "Caltrans District 7",
+            "description": "",
+            "type": "",
             "People also search for": []
         },
         "Centers for Disease Control and Prevention": {
@@ -37,6 +25,13 @@
             ],
             "Founded ": "July 1, 1946",
             "Recent posts": []
+        },
+        "Federal Aviation Administration": {
+            "label": "Federal Aviation Administration",
+            "description": "The Federal Aviation Administration is the national aviation authority of the United States. An agency of the United States Department of Transportation, it has authority to regulate and oversee all aspects of American civil aviation. Wikipedia",
+            "type": "Government Agency",
+            "Founded ": "August 23, 1958",
+            "People also search for": []
         },
         "Federal Statistical Office of Germany": {
             "label": "Federal Statistical Office of Germany",
@@ -57,17 +52,17 @@
             ],
             "People also search for": []
         },
-        "Millennium Challenge Corporation": {
-            "label": "Millennium Challenge Corporation",
-            "description": "",
-            "type": "",
-            "People also search for": []
-        },
         "Langley Research Center": {
             "label": "NASA Langley Research Center",
             "description": "",
             "type": "",
             "See results about": []
+        },
+        "Millennium Challenge Corporation": {
+            "label": "Millennium Challenge Corporation",
+            "description": "",
+            "type": "",
+            "People also search for": []
         },
         "Satish Dhawan Space Centre": {
             "label": "Satish Dhawan Space Centre",
@@ -81,12 +76,6 @@
             "Local time ": [
                 "Thursday 506 PM"
             ]
-        },
-        "Ministry of Health (Spain)": {
-            "label": "Ministry of Health",
-            "description": "",
-            "type": "",
-            "People also search for": []
         },
         "Supreme Administrative Court of the Czech Republic": {
             "label": "Nejvyšší správní soud",
@@ -104,6 +93,12 @@
             "Founded ": [
                 "2004"
             ]
+        },
+        "Ministry of Health (Spain)": {
+            "label": "Ministry of Health",
+            "description": "",
+            "type": "",
+            "People also search for": []
         },
         "National Institutes of Health": {
             "label": "National Institutes of Health",
@@ -134,6 +129,12 @@
             "type": "",
             "People also search for": []
         },
+        "Johnstown Housing Authority": {
+            "label": "Johnstown Housing Authority",
+            "description": "",
+            "type": "",
+            "People also search for": []
+        },
         "Government of Serbia": {
             "label": "Serbia",
             "description": "Serbia, officially the Republic of Serbia, is a country located at the crossroads of Central and Southeast Europe, covering the southern part of the Pannonian Plain and the central Balkans. Wikipedia",
@@ -158,39 +159,47 @@
             ],
             "Destinations": []
         },
-        "Johnstown Housing Authority": {
-            "label": "Johnstown Housing Authority",
-            "description": "",
-            "type": "",
-            "People also search for": []
-        },
         "Ministry of Culture (Russia)": {
             "label": "Ministerstvo Kultury RF",
             "description": "",
             "type": "",
             "People also search for": []
+        },
+        "Bundesstiftung zur Aufarbeitung der SED-Diktatur": {
+            "label": "Stiftung zur Aufarbeitung der SED-Diktatur",
+            "description": "",
+            "type": ""
         }
     },
     "summary": {
-        "label": 22,
-        "description": 22,
-        "type": 22,
-        "people_also_search_for": 1,
-        "founded": 1,
-        "address": 1,
-        "recent_posts": 1,
-        "opened": 1,
-        "architectural_styles": 1,
-        "see_results_about": 1,
-        "local_time": 1,
-        "headquarters": 1,
-        "government": 1,
-        "capital": 1,
-        "dialing_code": 1,
-        "continent": 1,
-        "national_anthem": 1,
-        "population": 1,
-        "destinations": 1
+        "label": {
+            "uri": "http://dbpedia.org/property/label",
+            "count": 22
+        },
+        "description": {
+            "uri": "http://dbpedia.org/property/description",
+            "count": 22
+        },
+        "type": {
+            "uri": "http://dbpedia.org/property/type",
+            "count": 22
+        },
+        "founded": {
+            "uri": "http://dbpedia.org/property/founded",
+            "count": 4
+        },
+        "address": {
+            "uri": "http://dbpedia.org/property/address",
+            "count": 2
+        },
+        "headquarters": {
+            "uri": "http://dbpedia.org/property/headquarters",
+            "count": 1
+        },
+        "destinations": {
+            "uri": "http://dbpedia.org/property/destinations",
+            "count": 1
+        }
     },
     "infoboxless": [
         "Allgemeine SS",
@@ -271,5 +280,19 @@
         "Acoustics Research Institute",
         "Administration for Children and Families",
         "Admiralty Board (United Kingdom)"
-    ]
+    ],
+    "Unmapped_Properties": {
+        "peopleAlsoSearchFor": 1,
+        "recentPosts": 1,
+        "opened": 1,
+        "architecturalStyles": 1,
+        "seeResultsAbout": 1,
+        "localTime": 1,
+        "government": 1,
+        "capital": 1,
+        "dialingCode": 1,
+        "continent": 1,
+        "nationalAnthem": 1,
+        "population": 1
+    }
 }

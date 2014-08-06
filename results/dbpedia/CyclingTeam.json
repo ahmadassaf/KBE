@@ -1,10 +1,5 @@
 {
     "instances": {
-        "Orica-GreenEDGE": {
-            "label": "Orica-GreenEDGE",
-            "description": "Orica-GreenEDGE is an Australian professional road race cycling team. Launched in January 2011, it competes on the UCI World Tour. Wikipedia",
-            "type": ""
-        },
         "Endura Racing": {
             "label": "Endura Racing",
             "description": "Endura Racing were a British UCI Continental cycling team. Wikipedia",
@@ -15,11 +10,6 @@
             "description": "Team Vorarlberg is a cycling team based in Austria. The team was previously known as Volksbank until the 2009 season, when the Austrian state Vorarlberg became a title sponsor. Wikipedia",
             "type": ""
         },
-        "Barloworld (cycling team)": {
-            "label": "Barloworld",
-            "description": "Barloworld was a UCI Professional Continental cycling team that competed between 2003 and 2009.\nIts sponsor company was South African and the team maintained a South African identity, but it was first ... Wikipedia",
-            "type": "Cycling team"
-        },
         "HTC-Highroad": {
             "label": "Team HTC-Columbia",
             "description": "HTC-Highroad is a former professional cycling team competing in international road bicycle races. Their last title sponsor was HTC Corporation, a Taiwanese manufacturer of smartphones but dissolved at ... Wikipedia",
@@ -28,6 +18,11 @@
                 "1991"
             ]
         },
+        "Barloworld (cycling team)": {
+            "label": "Barloworld",
+            "description": "Barloworld was a UCI Professional Continental cycling team that competed between 2003 and 2009.\nIts sponsor company was South African and the team maintained a South African identity, but it was first ... Wikipedia",
+            "type": "Cycling team"
+        },
         "Omega Pharma-Quick Step": {
             "label": "Team Quick Step",
             "description": "Omega Pharma-Quick Step is a Belgian UCI ProTour cycling team led by team manager Patrick Lefévère. The directors are Davide Bramati, Wilfried Peeters, Rik Van Slycke, Tom Steels, Brian Holm and Jan Schaffrath. Wikipedia",
@@ -35,6 +30,11 @@
             "Founded ": [
                 "2003"
             ]
+        },
+        "Orica-GreenEDGE": {
+            "label": "Orica-GreenEDGE",
+            "description": "Orica-GreenEDGE is an Australian professional road race cycling team. Launched in January 2011, it competes on the UCI World Tour. Wikipedia",
+            "type": ""
         },
         "Team Sky": {
             "label": "Team Sky",
@@ -49,15 +49,15 @@
             "description": "The Linda McCartney Racing Team was a British professional road bicycle racing team. Wikipedia",
             "type": ""
         },
-        "Bissell (cycling team)": {
-            "label": "Bissell",
-            "description": "Bissell Pro Cycling Team, or simply Bissell, was an elite men's cycling team registered in the United States as a UCI Continental. The team competed on the USA Cycling National Racing Calendar and the UCI America Tour. Wikipedia",
-            "type": "Cycling team"
-        },
         "Preti Mangimi": {
             "label": "Preti Mangimi Srl",
             "description": "",
             "type": ""
+        },
+        "Bissell (cycling team)": {
+            "label": "Bissell",
+            "description": "Bissell Pro Cycling Team, or simply Bissell, was an elite men's cycling team registered in the United States as a UCI Continental. The team competed on the USA Cycling National Racing Calendar and the UCI America Tour. Wikipedia",
+            "type": "Cycling team"
         },
         "La Vie Claire": {
             "label": "La Vie Claire",
@@ -65,9 +65,9 @@
             "type": "Company",
             "See results about": []
         },
-        "Rock Racing-Murcia": {
-            "label": "Team Rock Racing",
-            "description": "Rock Racing is a cycling team founded in 2007 by Michael Ball. The team is affiliated with Ball's Rock & Republic clothing. Wikipedia",
+        "Agritubel": {
+            "label": "Team Agritubel",
+            "description": "Agritubel Pro Cycling Team was a French professional road race cycling team. The team's title sponsor, Agritubel, is a worldwide provider and manufacturer of tubular metal products for cattle, livestock and farming. Wikipedia",
             "type": ""
         },
         "LPR (cycling team)": {
@@ -75,14 +75,9 @@
             "description": "LPR Brakes was a UCI Professional Continental cycling team, registered in Ireland. The team participated in UCI Continental Circuits races and, when selected as a wildcard, UCI ProTour events. Wikipedia",
             "type": "Cycling team"
         },
-        "Agritubel": {
-            "label": "Team Agritubel",
-            "description": "Agritubel Pro Cycling Team was a French professional road race cycling team. The team's title sponsor, Agritubel, is a worldwide provider and manufacturer of tubular metal products for cattle, livestock and farming. Wikipedia",
-            "type": ""
-        },
-        "Euskaltel-Euskadi": {
-            "label": "Team Euskaltel-Euskadi",
-            "description": "Euskaltel-Euskadi was a professional road bicycle racing team from the Basque Country, Europe. The team was commercially sponsored, but also worked as an unofficial Basque national team and was partly ... Wikipedia",
+        "Rock Racing-Murcia": {
+            "label": "Team Rock Racing",
+            "description": "Rock Racing is a cycling team founded in 2007 by Michael Ball. The team is affiliated with Ball's Rock & Republic clothing. Wikipedia",
             "type": ""
         },
         "SpiderTech-C10": {
@@ -95,6 +90,11 @@
             "Location ": [
                 "Canada"
             ]
+        },
+        "Euskaltel-Euskadi": {
+            "label": "Team Euskaltel-Euskadi",
+            "description": "Euskaltel-Euskadi was a professional road bicycle racing team from the Basque Country, Europe. The team was commercially sponsored, but also worked as an unofficial Basque national team and was partly ... Wikipedia",
+            "type": ""
         },
         "Gerolsteiner (cycling team)": {
             "label": "Gerolsteiner",
@@ -120,11 +120,6 @@
             "description": "Team Milram was a German pro cycling team, participating at the UCI ProTour. Wikipedia",
             "type": ""
         },
-        "Node 4-Giordana Racing": {
-            "label": "Velosure-Giordana Racing Team",
-            "description": "The Velosure Giordana Pro Cycling Team are a British UCI Continental cycling team. Wikipedia",
-            "type": ""
-        },
         "Cycling Team Jo Piels": {
             "label": "Cycling Team Jo Piels",
             "description": "Cycling Team Jo Piels is a continental cycling team based in the Netherlands that participates in UCI Continental Circuits races. The team was founded in 2003 under the name of \"Apac-Eemland Cycling Team\". Wikipedia",
@@ -137,6 +132,16 @@
             "Founded ": [
                 "2005"
             ]
+        },
+        "Node 4-Giordana Racing": {
+            "label": "Velosure-Giordana Racing Team",
+            "description": "The Velosure Giordana Pro Cycling Team are a British UCI Continental cycling team. Wikipedia",
+            "type": ""
+        },
+        "Gewiss-Ballan": {
+            "label": "Gewiss-Ballan",
+            "description": "Gewiss-Ballan was an Italian based road bicycle racing team active from 1993 to 1996, named after sponsor Italian Gewiss. The team was successful in the Giro d'Italia and the Tour de France as well as several classic during the early 1990s. Wikipedia",
+            "type": ""
         },
         "Peugeot (cycling team)": {
             "label": "Peugeot",
@@ -190,6 +195,12 @@
             "description": "The professional cycling team Efapel-Glassdrive is a Portuguese Team based in Vila Nova de Gaia. It is one of the European teams in UCI Continental Tour. Wikipedia",
             "type": ""
         },
+        "Cervélo TestTeam": {
+            "label": "Cervélo TestTeam",
+            "description": "Cervélo TestTeam is a former professional cycling team, whose license was held in Switzerland by the cycling management company Cycling United Racing. Wikipedia",
+            "type": "",
+            "Founded ": "December 2, 2008"
+        },
         "Cycle Collstrop": {
             "label": "Cycle Collstrop",
             "description": "Cycle Collstrop was a Swedish UCI Professional Continental cycling team. It was the successor to Unibet.com, which was mainly sponsored by the online gambling website Unibet.com and as a continuation of the MrBookmaker.com cycling team. Wikipedia",
@@ -200,15 +211,9 @@
             "description": "Team Katusha is a Russian road bicycle racing team which competes using Canyon bikes. Team Katusha competed as a UCI ProTeam between 2009 and 2012. Wikipedia",
             "type": ""
         },
-        "Cervélo TestTeam": {
-            "label": "Cervélo TestTeam",
-            "description": "Cervélo TestTeam is a former professional cycling team, whose license was held in Switzerland by the cycling management company Cycling United Racing. Wikipedia",
-            "type": "",
-            "Founded ": "December 2, 2008"
-        },
-        "Gewiss-Ballan": {
-            "label": "Gewiss-Ballan",
-            "description": "Gewiss-Ballan was an Italian based road bicycle racing team active from 1993 to 1996, named after sponsor Italian Gewiss. The team was successful in the Giro d'Italia and the Tour de France as well as several classic during the early 1990s. Wikipedia",
+        "Bianchi cycling team": {
+            "label": "Bianchi cycling team",
+            "description": "Bianchi was an Italian professional cycling team that was sponsored by and cycled on Bianchi racing bikes. A Bianchi cycling team existed in 1899 which implies that Bianchi was sponsoring professional cycling at a very early stage in the sport. Wikipedia",
             "type": ""
         },
         "Centro Ciclismo de Loulé-Louletano": {
@@ -217,9 +222,9 @@
             "type": "",
             "See results about": []
         },
-        "Bianchi cycling team": {
-            "label": "Bianchi cycling team",
-            "description": "Bianchi was an Italian professional cycling team that was sponsored by and cycled on Bianchi racing bikes. A Bianchi cycling team existed in 1899 which implies that Bianchi was sponsoring professional cycling at a very early stage in the sport. Wikipedia",
+        "Team TIBCO": {
+            "label": "TIBCO / To The Top",
+            "description": "Team TIBCO is a women's professional cycling team based in the United States of America that competes in elite road bicycle racing. The team's main sponsor is TIBCO Software. The Director Sportif is Linda Jackson, a former professional cyclist. Wikipedia",
             "type": ""
         },
         "Tinkoff Credit Systems": {
@@ -248,27 +253,25 @@
             "description": "",
             "type": "",
             "People also search for": []
-        },
-        "Team TIBCO": {
-            "label": "TIBCO / To The Top",
-            "description": "Team TIBCO is a women's professional cycling team based in the United States of America that competes in elite road bicycle racing. The team's main sponsor is TIBCO Software. The Director Sportif is Linda Jackson, a former professional cyclist. Wikipedia",
-            "type": ""
         }
     },
     "summary": {
-        "label": 41,
-        "description": 41,
-        "type": 41,
-        "founded": 1,
-        "founder": 1,
-        "see_results_about": 1,
-        "location": 1,
-        "population": 1,
-        "area": 1,
-        "elevation": 1,
-        "province": 1,
-        "island_group": 1,
-        "people_also_search_for": 1
+        "label": {
+            "uri": "http://www.w3.org/2000/01/rdf-schema#label",
+            "count": 41
+        },
+        "description": {
+            "uri": "http://fr.dbpedia.org/ontology/abstract",
+            "count": 41
+        },
+        "type": {
+            "uri": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+            "count": 41
+        },
+        "founded": {
+            "uri": "http://dbpedia.org/property/founded",
+            "count": 7
+        }
     },
     "infoboxless": [
         "Movistar Continental Team",
@@ -330,5 +333,16 @@
         "Pezula Racing",
         "Alessio-Bianchi",
         "Extremadura-Spiuk"
-    ]
+    ],
+    "Unmapped_Properties": {
+        "founder": 1,
+        "seeResultsAbout": 1,
+        "location": 1,
+        "population": 1,
+        "area": 1,
+        "elevation": 1,
+        "province": 1,
+        "islandGroup": 1,
+        "peopleAlsoSearchFor": 1
+    }
 }

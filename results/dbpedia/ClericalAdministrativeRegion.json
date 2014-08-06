@@ -8,6 +8,26 @@
                 "1140"
             ]
         },
+        "Apostolic Vicariate of Paksé": {
+            "label": "Apostolic Vicariate of Paksé",
+            "description": "Vicariate Apostolic of Paksé is a major unit of the Roman Catholic Church in Laos. The Vicar Apostolic since 2000 is Louis-Marie Ling Mangkhanekhoun. It was established in 1967, when it was split off from the Vicariate Apostolic of Savannakhet. Wikipedia",
+            "type": "",
+            "Area ": [
+                "17",
+                "375 sq miles (45",
+                "000 km²)"
+            ]
+        },
+        "Roman Catholic Diocese of Passau": {
+            "label": "Roman Catholic Diocese of Passau",
+            "description": "The Diocese of Passau is a Roman Catholic diocese in Germany that is a suffragan of the Archdiocese of Munich and Freising. Wikipedia",
+            "type": "",
+            "Area ": [
+                "2",
+                "101 sq miles (5",
+                "442 km²)"
+            ]
+        },
         "Episcopal Diocese of Pittsburgh": {
             "label": "Episcopal Diocese of Pittsburgh",
             "description": "The Episcopal Diocese of Pittsburgh is a diocese in the Episcopal Church in the United States of America. Geographically, it encompasses several counties in Western Pennsylvania, and its cathedral is located in downtown Pittsburgh. Wikipedia",
@@ -20,24 +40,19 @@
             ],
             "People also search for": []
         },
-        "Roman Catholic Diocese of Passau": {
-            "label": "Roman Catholic Diocese of Passau",
-            "description": "The Diocese of Passau is a Roman Catholic diocese in Germany that is a suffragan of the Archdiocese of Munich and Freising. Wikipedia",
-            "type": "",
-            "Area ": [
-                "2",
-                "101 sq miles (5",
-                "442 km²)"
-            ]
+        "Diocese of Gothenburg": {
+            "label": "Diocese of Gothenburg",
+            "description": "The diocese of Gothenburg is a diocese of the Church of Sweden. Since September, 2011 the Bishop has been Per Eckerdal. 1949–1970 it was Bo Giertz. The diocese includes the provinces of Bohuslän, Halland, and south-west parts of Västergötland. Wikipedia",
+            "type": ""
         },
-        "Apostolic Vicariate of Paksé": {
-            "label": "Apostolic Vicariate of Paksé",
-            "description": "Vicariate Apostolic of Paksé is a major unit of the Roman Catholic Church in Laos. The Vicar Apostolic since 2000 is Louis-Marie Ling Mangkhanekhoun. It was established in 1967, when it was split off from the Vicariate Apostolic of Savannakhet. Wikipedia",
+        "Diocese of Linköping": {
+            "label": "Diocese of Linköping",
+            "description": "The Diocese of Linköping is a diocese within the Church of Sweden administering the Östergötland County, the north eastern part of Jönköping County and the northern part of Kalmar County. Wikipedia",
             "type": "",
-            "Area ": [
-                "17",
-                "375 sq miles (45",
-                "000 km²)"
+            "Address ": [
+                "Ågatan 65",
+                " 582 22 Linköping",
+                " Sweden"
             ]
         },
         "Diocese of Härnösand": {
@@ -57,21 +72,6 @@
             "Address ": [
                 "Västra Torggatan 15",
                 " 652 24 Karlstad",
-                " Sweden"
-            ]
-        },
-        "Diocese of Gothenburg": {
-            "label": "Diocese of Gothenburg",
-            "description": "The diocese of Gothenburg is a diocese of the Church of Sweden. Since September, 2011 the Bishop has been Per Eckerdal. 1949–1970 it was Bo Giertz. The diocese includes the provinces of Bohuslän, Halland, and south-west parts of Västergötland. Wikipedia",
-            "type": ""
-        },
-        "Diocese of Linköping": {
-            "label": "Diocese of Linköping",
-            "description": "The Diocese of Linköping is a diocese within the Church of Sweden administering the Östergötland County, the north eastern part of Jönköping County and the northern part of Kalmar County. Wikipedia",
-            "type": "",
-            "Address ": [
-                "Ågatan 65",
-                " 582 22 Linköping",
                 " Sweden"
             ]
         },
@@ -290,6 +290,12 @@
                 " United States"
             ]
         },
+        "Roman Catholic Diocese of Marquette": {
+            "label": "Diocese of Marquette",
+            "description": "",
+            "type": "",
+            "People also search for": []
+        },
         "Episcopal Diocese of Eastern Michigan": {
             "label": "Episcopal Diocese of Eastern Michigan",
             "description": "The Episcopal Diocese of Eastern Michigan is the Episcopal diocese in the northern two-thirds of the eastern half of the Lower Peninsula of Michigan, not including the greater Detroit area, which is in the Episcopal Diocese of Michigan. Wikipedia",
@@ -301,11 +307,10 @@
                 " United States"
             ]
         },
-        "Roman Catholic Diocese of Marquette": {
-            "label": "Diocese of Marquette",
-            "description": "",
-            "type": "",
-            "People also search for": []
+        "Episcopal Diocese of Northern Indiana": {
+            "label": "Episcopal Diocese of Northern Indiana",
+            "description": "The Episcopal Diocese of Northern Indiana, originally called the Episcopal Diocese of Michigan City, is the diocese of the Episcopal Church in the United States of America with jurisdiction over the northern one-third of Indiana. Wikipedia",
+            "type": "Religious Jurisdiction"
         },
         "Episcopal Diocese of West Missouri": {
             "label": "Episcopal Diocese of West Missouri",
@@ -317,11 +322,6 @@
                 " MO 64105",
                 " United States"
             ]
-        },
-        "Episcopal Diocese of Northern Indiana": {
-            "label": "Episcopal Diocese of Northern Indiana",
-            "description": "The Episcopal Diocese of Northern Indiana, originally called the Episcopal Diocese of Michigan City, is the diocese of the Episcopal Church in the United States of America with jurisdiction over the northern one-third of Indiana. Wikipedia",
-            "type": "Religious Jurisdiction"
         },
         "Episcopal Diocese of East Carolina": {
             "label": "The Episcopal Diocese of East Carolina",
@@ -393,15 +393,30 @@
         }
     },
     "summary": {
-        "label": 45,
-        "description": 45,
-        "type": 45,
-        "founded": 1,
-        "address": 1,
-        "people_also_search_for": 1,
-        "area": 1,
-        "tax_id": 1,
-        "tax_deductibility_code": 1
+        "label": {
+            "uri": "http://www.w3.org/2000/01/rdf-schema#label",
+            "count": 45
+        },
+        "description": {
+            "uri": "http://fr.dbpedia.org/ontology/abstract",
+            "count": 45
+        },
+        "type": {
+            "uri": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+            "count": 45
+        },
+        "founded": {
+            "uri": "http://dbpedia.org/property/founded",
+            "count": 1
+        },
+        "area": {
+            "uri": "http://dbpedia.org/property/area",
+            "count": 14
+        },
+        "address": {
+            "uri": "http://dbpedia.org/property/address",
+            "count": 15
+        }
     },
     "infoboxless": [
         "Apostolic Prefecture of Battambang",
@@ -459,5 +474,10 @@
         "Roman Catholic Archdiocese of Saint Boniface",
         "Roman Catholic Diocese of Gliwice",
         "Roman Catholic Diocese of Legnica"
-    ]
+    ],
+    "Unmapped_Properties": {
+        "peopleAlsoSearchFor": 1,
+        "taxId": 1,
+        "taxDeductibilityCode": 1
+    }
 }

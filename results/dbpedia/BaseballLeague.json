@@ -10,25 +10,31 @@
             ],
             "Recent posts": []
         },
-        "Japanese High School Baseball Invitational Tournament": {
-            "label": "Japanese High School Baseball Invitational Tournament",
-            "description": "The National High School Baseball Invitational Tournament of Japan, commonly known as \"Spring Kōshien\" or \"Senbatsu\", is an annual high school baseball tournament. Wikipedia",
-            "type": ""
-        },
         "Major League Baseball": {
             "label": "Major League Baseball",
             "description": "Major League Baseball is a professional baseball organization that constitutes one of the four major professional sports leagues in North America. Wikipedia",
             "type": "",
             "See results about": []
+        },
+        "Japanese High School Baseball Invitational Tournament": {
+            "label": "Japanese High School Baseball Invitational Tournament",
+            "description": "The National High School Baseball Invitational Tournament of Japan, commonly known as \"Spring Kōshien\" or \"Senbatsu\", is an annual high school baseball tournament. Wikipedia",
+            "type": ""
         }
     },
     "summary": {
-        "label": 3,
-        "description": 3,
-        "type": 3,
-        "headquarters": 1,
-        "recent_posts": 1,
-        "see_results_about": 1
+        "label": {
+            "uri": "http://www.w3.org/2000/01/rdf-schema#label",
+            "count": 3
+        },
+        "description": {
+            "uri": "http://fr.dbpedia.org/ontology/abstract",
+            "count": 3
+        },
+        "type": {
+            "uri": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+            "count": 3
+        }
     },
     "infoboxless": [
         "Atlantic League of Professional Baseball",
@@ -128,5 +134,10 @@
         "Liga Norte de Mexico",
         "New South Wales Major League",
         "St. Louis Metro Collegiate Instructional Baseball League"
-    ]
+    ],
+    "Unmapped_Properties": {
+        "headquarters": 1,
+        "recentPosts": 1,
+        "seeResultsAbout": 1
+    }
 }

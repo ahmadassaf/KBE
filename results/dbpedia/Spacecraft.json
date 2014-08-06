@@ -46,16 +46,22 @@
         }
     },
     "summary": {
-        "label": 4,
-        "description": 4,
-        "type": 4,
-        "people_also_search_for": 1,
-        "launch_date": 1,
-        "launch_mass": 1,
-        "launch_site": 1,
-        "manufacturers": 1,
-        "origin": 1,
-        "albums": 1
+        "label": {
+            "uri": "http://www.w3.org/2000/01/rdf-schema#label",
+            "count": 4
+        },
+        "description": {
+            "uri": "http://fr.dbpedia.org/ontology/abstract",
+            "count": 4
+        },
+        "type": {
+            "uri": "http://dbpedia.org/property/type",
+            "count": 4
+        },
+        "launchSite": {
+            "uri": "http://dbpedia.org/ontology/launchSite",
+            "count": 1
+        }
     },
     "infoboxless": [
         "Progress M-12M",
@@ -130,13 +136,21 @@
         "HTV-1",
         "Progress M1-5",
         "Progress M-03M",
-        "Progress M-4",
         "Progress M-02M",
+        "Progress M-4",
         "Progress M-10M",
         "Progress M-65",
         "Progress 1",
         "Progress M-17M",
         "Progress M-16M",
         "Progress M-18M"
-    ]
+    ],
+    "Unmapped_Properties": {
+        "peopleAlsoSearchFor": 1,
+        "launchDate": 1,
+        "launchMass": 1,
+        "manufacturers": 1,
+        "origin": 1,
+        "albums": 1
+    }
 }

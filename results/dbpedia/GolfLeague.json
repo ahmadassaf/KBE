@@ -15,12 +15,22 @@
         }
     },
     "summary": {
-        "label": 1,
-        "description": 1,
-        "type": 1,
-        "headquarters": 1,
-        "founded": 1,
-        "recent_posts": 1
+        "label": {
+            "uri": "http://www.w3.org/2000/01/rdf-schema#label",
+            "count": 1
+        },
+        "description": {
+            "uri": "http://fr.dbpedia.org/ontology/abstract",
+            "count": 1
+        },
+        "type": {
+            "uri": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+            "count": 1
+        },
+        "founded": {
+            "uri": "http://dbpedia.org/property/founded",
+            "count": 1
+        }
     },
     "infoboxless": [
         "Asian Tour",
@@ -34,5 +44,9 @@
         "Champions Tour",
         "Ladies European Tour",
         "PGA Tour Canada"
-    ]
+    ],
+    "Unmapped_Properties": {
+        "headquarters": 1,
+        "recentPosts": 1
+    }
 }

@@ -20,6 +20,31 @@
             ],
             "People also search for": []
         },
+        "Albertina": {
+            "label": "Albertina",
+            "description": "The Albertina is a museum in the Innere Stadt of Vienna, Austria. It houses one of the largest and most important print rooms in the world with approximately 65,000 drawings and approximately 1 million ... Wikipedia",
+            "type": "",
+            "Address ": "Albertinaplatz 1, 1010 Wien, Austria",
+            "Opened ": [
+                "2004"
+            ],
+            "Hours ": [
+                "+43 1 53483"
+            ],
+            "Phone ": [
+                "Neoclassical architecture"
+            ],
+            "Architectural style ": [
+                "Palace",
+                " Museum"
+            ],
+            "Function ": [
+                "Hans Hollein",
+                " Joseph Kornhäusel",
+                " Louis Montoyer"
+            ],
+            "People also search for": []
+        },
         "Akron Art Museum": {
             "label": "Akron Art Museum",
             "description": "The Akron Art Museum is an art museum in Akron, Ohio, USA.\nThe museum first opened its doors on February 1, 1922, as the Akron Art Institute. It was located in two borrowed rooms in the basement of the public library. Wikipedia",
@@ -46,31 +71,6 @@
             ],
             "Revenue ": [
                 "Art Museums"
-            ],
-            "People also search for": []
-        },
-        "Albertina": {
-            "label": "Albertina",
-            "description": "The Albertina is a museum in the Innere Stadt of Vienna, Austria. It houses one of the largest and most important print rooms in the world with approximately 65,000 drawings and approximately 1 million ... Wikipedia",
-            "type": "",
-            "Address ": "Albertinaplatz 1, 1010 Wien, Austria",
-            "Opened ": [
-                "2004"
-            ],
-            "Hours ": [
-                "+43 1 53483"
-            ],
-            "Phone ": [
-                "Neoclassical architecture"
-            ],
-            "Architectural style ": [
-                "Palace",
-                " Museum"
-            ],
-            "Function ": [
-                "Hans Hollein",
-                " Joseph Kornhäusel",
-                " Louis Montoyer"
             ],
             "People also search for": []
         },
@@ -111,18 +111,6 @@
             ],
             "People also search for": []
         },
-        "Butser Ancient Farm": {
-            "label": "Butser Ancient Farm",
-            "description": "Butser Ancient Farm is an archaeological open air museum located near to Petersfield in Hampshire, southern England. Wikipedia",
-            "type": "",
-            "Address ": [
-                "Chalton Ln",
-                " Waterlooville",
-                " Chalton",
-                " Hampshire PO8 0BG",
-                " United Kingdom"
-            ]
-        },
         "Bridgeman Art Library": {
             "label": "Bridgeman Art Library",
             "description": "The Bridgeman Art Library, based in London, Paris, New York and Berlin, provides one of the largest archives for reproductions of works of art in the world. Wikipedia",
@@ -134,6 +122,18 @@
                 "1972"
             ],
             "People also search for": []
+        },
+        "Butser Ancient Farm": {
+            "label": "Butser Ancient Farm",
+            "description": "Butser Ancient Farm is an archaeological open air museum located near to Petersfield in Hampshire, southern England. Wikipedia",
+            "type": "",
+            "Address ": [
+                "Chalton Ln",
+                " Waterlooville",
+                " Chalton",
+                " Hampshire PO8 0BG",
+                " United Kingdom"
+            ]
         },
         "Dialogue in the Dark": {
             "label": "Dialogue in the Dark",
@@ -178,6 +178,11 @@
             ],
             "Recent posts": []
         },
+        "Florida Holocaust Museum": {
+            "label": "Florida Holocaust Museum",
+            "description": "",
+            "type": ""
+        },
         "Fort George, Ontario": {
             "label": "Fort George, Ontario",
             "description": "Fort George National Historic Site is a historic military structure at Niagara-on-the-Lake, Ontario, that was the scene of several battles during the War of 1812. Wikipedia",
@@ -195,11 +200,6 @@
                 "+1 905-468-6614"
             ],
             "People also search for": []
-        },
-        "Florida Holocaust Museum": {
-            "label": "Florida Holocaust Museum",
-            "description": "",
-            "type": ""
         },
         "Foundation E.G. Bührle": {
             "label": "Foundation E.G. Bührle",
@@ -234,41 +234,6 @@
             ],
             "People also search for": []
         },
-        "Guinness Storehouse": {
-            "label": "Guinness Storehouse",
-            "description": "Guinness Storehouse is a Guinness-themed tourist attraction located at St. James's Gate Brewery in Dublin, Ireland. Since opening in November 2000, it has received over four million visitors. Wikipedia",
-            "type": "",
-            "Address ": [
-                "St James's Gate",
-                " Dublin 8",
-                " Ireland"
-            ],
-            "Hours ": [
-                "+353 1 408 4800"
-            ],
-            "People also search for": []
-        },
-        "Institute for Museum Research": {
-            "label": "Institute for Museum Research",
-            "description": "The Institute for Museum Research is a national organization which provides services to museums in the Federal Republic of Germany in the areas of research, application-oriented teaching and documentation. Wikipedia",
-            "type": ""
-        },
-        "Heeresgeschichtliches Museum": {
-            "label": "Museum of Military History, Vienna",
-            "description": "The Museum of Military History is a military history museum located in Vienna, Austria. It claims to be the oldest and largest purpose-built military history museum in the world. Wikipedia",
-            "type": "",
-            "Address ": "Arsenal Objekt 1, 1030 Wien, Austria",
-            "Hours ": [
-                "+43 1 795610"
-            ],
-            "People also search for": []
-        },
-        "Juan Manuel Blanes Museum": {
-            "label": "Juan Manuel Blanes Museum",
-            "description": "Juan Manuel Blanes Municipal Museum of the Arts is the name of a municipal museum in Prado, Montevideo, Uruguay. Wikipedia",
-            "type": "",
-            "People also search for": []
-        },
         "International Center of Photography": {
             "label": "International Center of Photography",
             "description": "The International Center of Photography is a photography museum, school, and research center in Midtown Manhattan in New York City, United States. The center was founded in 1974. Wikipedia",
@@ -297,6 +262,32 @@
             "Assets ": [
                 "Robert Capa",
                 " Cornell Capa"
+            ],
+            "People also search for": []
+        },
+        "Juan Manuel Blanes Museum": {
+            "label": "Juan Manuel Blanes Museum",
+            "description": "Juan Manuel Blanes Municipal Museum of the Arts is the name of a municipal museum in Prado, Montevideo, Uruguay. Wikipedia",
+            "type": "",
+            "People also search for": []
+        },
+        "Institute for Museum Research": {
+            "label": "Institute for Museum Research",
+            "description": "The Institute for Museum Research is a national organization which provides services to museums in the Federal Republic of Germany in the areas of research, application-oriented teaching and documentation. Wikipedia",
+            "type": ""
+        },
+        "La Cité de l'Énergie": {
+            "label": "La Cité de l'Énergie",
+            "description": "La Cite de l'Énergie is a theme park based on local industrial history and located in Shawinigan, Quebec, Canada. Wikipedia",
+            "type": "",
+            "Address ": [
+                "1000 Avenue Melville",
+                " Shawinigan",
+                " QC G9N 6T9",
+                " Canada"
+            ],
+            "Province ": [
+                "Québec"
             ],
             "People also search for": []
         },
@@ -333,18 +324,22 @@
             ],
             "People also search for": []
         },
-        "La Cité de l'Énergie": {
-            "label": "La Cité de l'Énergie",
-            "description": "La Cite de l'Énergie is a theme park based on local industrial history and located in Shawinigan, Quebec, Canada. Wikipedia",
+        "Manifesta": {
+            "label": "Manifesta",
+            "description": "Manifesta, the roving European Biennial of Contemporary Art, is a European pan-regional contemporary cultural biennale, described in 2010 by the Wall Street Journal as \"stunning in its scope and uncompromisingly experimental in its approach\". Wikipedia",
             "type": "",
-            "Address ": [
-                "1000 Avenue Melville",
-                " Shawinigan",
-                " QC G9N 6T9",
-                " Canada"
+            "See results about": []
+        },
+        "Mathematikum": {
+            "label": "Mathematikum",
+            "description": "The Mathematikum is a science museum, located in Gießen, Germany, which offers a huge variety of mathematical hands-on exhibits. It was founded by Albrecht Beutelspacher, a German mathematician. Wikipedia",
+            "type": "",
+            "Address ": "Liebigstraße 8, 35390 Gießen, Germany",
+            "Hours ": [
+                "+49 641 9697970"
             ],
-            "Province ": [
-                "Québec"
+            "Phone ": [
+                "Museum"
             ],
             "People also search for": []
         },
@@ -361,25 +356,6 @@
                 "+33 1 49 92 70 00"
             ],
             "People also search for": []
-        },
-        "Mathematikum": {
-            "label": "Mathematikum",
-            "description": "The Mathematikum is a science museum, located in Gießen, Germany, which offers a huge variety of mathematical hands-on exhibits. It was founded by Albrecht Beutelspacher, a German mathematician. Wikipedia",
-            "type": "",
-            "Address ": "Liebigstraße 8, 35390 Gießen, Germany",
-            "Hours ": [
-                "+49 641 9697970"
-            ],
-            "Phone ": [
-                "Museum"
-            ],
-            "People also search for": []
-        },
-        "Manifesta": {
-            "label": "Manifesta",
-            "description": "Manifesta, the roving European Biennial of Contemporary Art, is a European pan-regional contemporary cultural biennale, described in 2010 by the Wall Street Journal as \"stunning in its scope and uncompromisingly experimental in its approach\". Wikipedia",
-            "type": "",
-            "See results about": []
         },
         "Musée du Vin": {
             "label": "Musée du Vin",
@@ -502,22 +478,6 @@
             "Recent posts": [],
             "People also search for": []
         },
-        "National Motor Museum": {
-            "label": "National Motor Museum, Beaulieu",
-            "description": "The National Motor Museum, Beaulieu is a museum in the village of Beaulieu, set in the heart of the New Forest, in the English county of Hampshire. Wikipedia",
-            "type": "",
-            "Address ": [
-                "John Montagu Bldg",
-                " Beaulieu",
-                " Brockenhurst",
-                " Hampshire SO42 7ZN",
-                " United Kingdom"
-            ],
-            "Hours ": [
-                "+44 1590 612345"
-            ],
-            "People also search for": []
-        },
         "National Maritime Museum": {
             "label": "National Maritime Museum",
             "description": "The National Maritime Museum in Greenwich, London, is the leading maritime museum of the United Kingdom and may be the largest museum of its kind in the world. Wikipedia",
@@ -546,6 +506,22 @@
             ],
             "People also search for": []
         },
+        "National Motor Museum": {
+            "label": "National Motor Museum, Beaulieu",
+            "description": "The National Motor Museum, Beaulieu is a museum in the village of Beaulieu, set in the heart of the New Forest, in the English county of Hampshire. Wikipedia",
+            "type": "",
+            "Address ": [
+                "John Montagu Bldg",
+                " Beaulieu",
+                " Brockenhurst",
+                " Hampshire SO42 7ZN",
+                " United Kingdom"
+            ],
+            "Hours ": [
+                "+44 1590 612345"
+            ],
+            "People also search for": []
+        },
         "National Museum of Denmark": {
             "label": "National Museum of Denmark",
             "description": "The National Museum of Denmark in Copenhagen is Denmark’s largest museum of cultural history, comprising the histories of Danish and foreign cultures, alike. Wikipedia",
@@ -559,6 +535,12 @@
         "National Museum of Oman": {
             "label": "National Museum of Oman",
             "description": "The National Museum of Oman, formerly known as the Museum of Bait Assayed / Nadir bin Faisal bin Turki, is a national museum, located off A'Noor Street in Ruwi, Oman. Wikipedia",
+            "type": "",
+            "People also search for": []
+        },
+        "National Museum of the United States Air Force": {
+            "label": "National Museum of the US Air Force",
+            "description": "",
             "type": "",
             "People also search for": []
         },
@@ -576,12 +558,6 @@
             "Hours ": [
                 "+31 71 568 7600"
             ],
-            "People also search for": []
-        },
-        "National Museum of the United States Air Force": {
-            "label": "National Museum of the US Air Force",
-            "description": "",
-            "type": "",
             "People also search for": []
         },
         "Naturhistorisches Museum": {
@@ -609,36 +585,6 @@
             "description": "The Joan Antoni Samaranch Olympic and Sports Museum opened in 2007 at the Olympic Ring in Barcelona, Catalonia, Spain. The museum is located in front of the Lluís Companys Olympic Stadium at the Montjuïc hill. Wikipedia",
             "type": "",
             "Address ": "Avinguda l'Estadi, 60, 08038 Barcelona, Spain"
-        },
-        "Romano-Germanic Central Museum (Mainz)": {
-            "label": "Romano-Germanic Central Museum",
-            "description": "The Romano-Germanic Central Museum is an archaeological and historical research institution for pre-history and early history headquartered in Mainz. Wikipedia",
-            "type": "",
-            "People also search for": []
-        },
-        "São Paulo Museum of Art": {
-            "label": "São Paulo Museum of Art",
-            "description": "The São Paulo Museum of Art is an art museum located on Paulista Avenue in the city of São Paulo, Brazil. Wikipedia",
-            "type": "",
-            "Address ": [
-                "Avenida Paulista",
-                " 1578 - Bela Vista",
-                " São Paulo - SP",
-                " 01310-200",
-                " Brazil"
-            ],
-            "Hours ": [
-                "+55 11 3251-5644"
-            ],
-            "Phone ": [
-                "Pink and Blue",
-                " Portrait of the Count-Duke of Olivares",
-                " Madame Georges van Muyden",
-                " Portrait of Diego Rivera",
-                " Portrait of Leopold Zborowski",
-                " Schoolboy (Camille Roulin)More"
-            ],
-            "People also search for": []
         },
         "Portland Art Museum": {
             "label": "Portland Art Museum",
@@ -670,6 +616,36 @@
             ],
             "Assets ": [
                 "The Ice Cutters"
+            ],
+            "People also search for": []
+        },
+        "Romano-Germanic Central Museum (Mainz)": {
+            "label": "Romano-Germanic Central Museum",
+            "description": "The Romano-Germanic Central Museum is an archaeological and historical research institution for pre-history and early history headquartered in Mainz. Wikipedia",
+            "type": "",
+            "People also search for": []
+        },
+        "São Paulo Museum of Art": {
+            "label": "São Paulo Museum of Art",
+            "description": "The São Paulo Museum of Art is an art museum located on Paulista Avenue in the city of São Paulo, Brazil. Wikipedia",
+            "type": "",
+            "Address ": [
+                "Avenida Paulista",
+                " 1578 - Bela Vista",
+                " São Paulo - SP",
+                " 01310-200",
+                " Brazil"
+            ],
+            "Hours ": [
+                "+55 11 3251-5644"
+            ],
+            "Phone ": [
+                "Pink and Blue",
+                " Portrait of the Count-Duke of Olivares",
+                " Madame Georges van Muyden",
+                " Portrait of Diego Rivera",
+                " Portrait of Leopold Zborowski",
+                " Schoolboy (Camille Roulin)More"
             ],
             "People also search for": []
         },
@@ -1015,28 +991,6 @@
             ],
             "People also search for": []
         },
-        "The Cloisters": {
-            "label": "The Cloisters",
-            "description": "The Cloisters is a museum located in Fort Tryon Park in Upper Manhattan, New York City. It is a branch of the Metropolitan Museum of Art, used to exhibit the museum's extensive collection of art, architecture and artifacts from Medieval Europe. Wikipedia",
-            "type": "",
-            "Address ": [
-                "99 Margaret Corbin Dr",
-                " New York",
-                " NY 10040",
-                " United States"
-            ],
-            "Opened ": "May 10, 1938",
-            "Hours ": [
-                "Medieval architecture"
-            ],
-            "Architectural style ": [
-                "(212) 923-3700"
-            ],
-            "Phone ": [
-                "Charles Collens"
-            ],
-            "People also search for": []
-        },
         "Solomon R. Guggenheim Museum": {
             "label": "Solomon R. Guggenheim Museum",
             "description": "The Solomon R. Guggenheim Museum, often referred to as The Guggenheim, is a well-known art museum located on the Upper East Side of Manhattan in New York City. Wikipedia",
@@ -1077,6 +1031,28 @@
             ],
             "Recent posts": []
         },
+        "The Cloisters": {
+            "label": "The Cloisters",
+            "description": "The Cloisters is a museum located in Fort Tryon Park in Upper Manhattan, New York City. It is a branch of the Metropolitan Museum of Art, used to exhibit the museum's extensive collection of art, architecture and artifacts from Medieval Europe. Wikipedia",
+            "type": "",
+            "Address ": [
+                "99 Margaret Corbin Dr",
+                " New York",
+                " NY 10040",
+                " United States"
+            ],
+            "Opened ": "May 10, 1938",
+            "Hours ": [
+                "Medieval architecture"
+            ],
+            "Architectural style ": [
+                "(212) 923-3700"
+            ],
+            "Phone ": [
+                "Charles Collens"
+            ],
+            "People also search for": []
+        },
         "Tsitsernakaberd": {
             "label": "Tsitsernakaberd",
             "description": "Tsitsernakaberd is a memorial dedicated to the victims of the Armenian Genocide; it is located on a hill overlooking Yerevan, Armenia. Wikipedia",
@@ -1086,6 +1062,17 @@
                 " Yerevan",
                 " Armenia"
             ]
+        },
+        "Van Gogh Museum": {
+            "label": "Van Gogh Museum",
+            "description": "The Van Gogh Museum is an art museum in Amsterdam in the Netherlands dedicated to the works of Vincent van Gogh and his contemporaries. Wikipedia",
+            "type": "",
+            "Address ": "Paulus Potterstraat 7, 1071 CX Amsterdam, Netherlands",
+            "Hours ": [
+                "+31 20 570 5200"
+            ],
+            "Recent posts": [],
+            "Artwork": []
         },
         "Vatican Museums": {
             "label": "Vatican Museums",
@@ -1129,22 +1116,6 @@
             "type": "",
             "People also search for": []
         },
-        "Bankfield Museum": {
-            "label": "Bankfield Museum",
-            "description": "Bankfield Museum is a grade II listed historic house museum, incorporating a regimental museum and textiles gallery in Boothtown, Halifax, England. Wikipedia",
-            "type": "",
-            "Address ": [
-                "Akroyd Park",
-                " Boothtown Rd",
-                " Halifax",
-                " West Yorkshire HX3 6HG",
-                " United Kingdom"
-            ],
-            "Hours ": [
-                "+44 1422 352334"
-            ],
-            "People also search for": []
-        },
         "Asia Society": {
             "label": "Asia Society",
             "description": "The Asia Society is a non-profit organization that focuses on educating the world about Asia. It has several centers in the United States and around the world Hong Kong, Manila, Mumbai, Seoul, Shanghai, and Sydney. Wikipedia",
@@ -1184,6 +1155,22 @@
             ],
             "Hours ": [
                 "(323) 667-2000"
+            ],
+            "People also search for": []
+        },
+        "Bankfield Museum": {
+            "label": "Bankfield Museum",
+            "description": "Bankfield Museum is a grade II listed historic house museum, incorporating a regimental museum and textiles gallery in Boothtown, Halifax, England. Wikipedia",
+            "type": "",
+            "Address ": [
+                "Akroyd Park",
+                " Boothtown Rd",
+                " Halifax",
+                " West Yorkshire HX3 6HG",
+                " United Kingdom"
+            ],
+            "Hours ": [
+                "+44 1422 352334"
             ],
             "People also search for": []
         },
@@ -1581,54 +1568,111 @@
             ],
             "People also search for": []
         },
-        "Van Gogh Museum": {
-            "label": "Van Gogh Museum",
-            "description": "The Van Gogh Museum is an art museum in Amsterdam in the Netherlands dedicated to the works of Vincent van Gogh and his contemporaries. Wikipedia",
+        "Guinness Storehouse": {
+            "label": "Guinness Storehouse",
+            "description": "Guinness Storehouse is a Guinness-themed tourist attraction located at St. James's Gate Brewery in Dublin, Ireland. Since opening in November 2000, it has received over four million visitors. Wikipedia",
             "type": "",
-            "Address ": "Paulus Potterstraat 7, 1071 CX Amsterdam, Netherlands",
-            "Hours ": [
-                "+31 20 570 5200"
+            "Address ": [
+                "St James's Gate",
+                " Dublin 8",
+                " Ireland"
             ],
-            "Recent posts": [],
-            "Artwork": []
+            "Hours ": [
+                "+353 1 408 4800"
+            ],
+            "People also search for": []
+        },
+        "Heeresgeschichtliches Museum": {
+            "label": "Museum of Military History, Vienna",
+            "description": "The Museum of Military History is a military history museum located in Vienna, Austria. It claims to be the oldest and largest purpose-built military history museum in the world. Wikipedia",
+            "type": "",
+            "Address ": "Arsenal Objekt 1, 1030 Wien, Austria",
+            "Hours ": [
+                "+43 1 795610"
+            ],
+            "People also search for": []
         }
     },
     "summary": {
-        "label": 97,
-        "description": 97,
-        "type": 97,
-        "address": 1,
-        "hours": 1,
-        "phone": 1,
-        "function": 1,
-        "people_also_search_for": 1,
-        "tax_id": 1,
-        "tax_deductibility_code": 1,
-        "assets": 1,
-        "revenue": 1,
-        "opened": 1,
-        "architectural_style": 1,
-        "recent_posts": 1,
-        "architecture_firm": 1,
-        "founder": 1,
-        "founded": 1,
-        "province": 1,
-        "artwork": 1,
-        "see_results_about": 1,
-        "architect": 1,
-        "established": 1,
-        "architects": 1,
-        "height": 1,
-        "architectural_styles": 1,
-        "construction_started": 1,
-        "founders": 1,
-        "nonprofit_category": 1,
-        "income": 1,
-        "floors": 1
+        "label": {
+            "uri": "http://dbpedia.org/property/label",
+            "count": 97
+        },
+        "description": {
+            "uri": "http://purl.org/dc/elements/1.1/description",
+            "count": 97
+        },
+        "type": {
+            "uri": "http://dbpedia.org/property/type",
+            "count": 97
+        },
+        "address": {
+            "uri": "http://dbpedia.org/ontology/address",
+            "count": 80
+        },
+        "hours": {
+            "uri": "http://dbpedia.org/property/hours",
+            "count": 67
+        },
+        "opened": {
+            "uri": "http://dbpedia.org/property/opened",
+            "count": 16
+        },
+        "architecturalStyle": {
+            "uri": "http://dbpedia.org/property/architecturalStyle",
+            "count": 6
+        },
+        "founder": {
+            "uri": "http://dbpedia.org/property/founder",
+            "count": 7
+        },
+        "founded": {
+            "uri": "http://dbpedia.org/property/founded",
+            "count": 3
+        },
+        "province": {
+            "uri": "http://dbpedia.org/property/province",
+            "count": 3
+        },
+        "architect": {
+            "uri": "http://dbpedia.org/ontology/architect",
+            "count": 3
+        },
+        "established": {
+            "uri": "http://dbpedia.org/property/established",
+            "count": 4
+        },
+        "height": {
+            "uri": "http://dbpedia.org/property/height",
+            "count": 1
+        },
+        "founders": {
+            "uri": "http://dbpedia.org/property/founders",
+            "count": 1
+        }
     },
     "infoboxless": [
         "Igualada Muleteer's Museum",
         "Confederate Memorial Hall",
         "Contemporary Arts Center"
-    ]
+    ],
+    "Unmapped_Properties": {
+        "phone": 1,
+        "function": 1,
+        "peopleAlsoSearchFor": 1,
+        "taxId": 1,
+        "taxDeductibilityCode": 1,
+        "assets": 1,
+        "revenue": 1,
+        "recentPosts": 1,
+        "architectureFirm": 1,
+        "artwork": 1,
+        "seeResultsAbout": 1,
+        "architects": 1,
+        "architecturalStyles": 1,
+        "constructionStarted": 1,
+        "nonprofitCategory": 1,
+        "income": 1,
+        "floors": 1
+    }
 }

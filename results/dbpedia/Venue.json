@@ -54,49 +54,6 @@
             ],
             "Upcoming events": []
         },
-        "Deutsches Schauspielhaus": {
-            "label": "Deutsches Schauspielhaus",
-            "description": "The Deutsches Schauspielhaus is a theatre in the St. Georg quarter of the city of Hamburg, Germany. With a capacity for 1192 spectators, it places it as Germany's largest theatre. Wikipedia",
-            "type": "",
-            "Address ": "Kirchenallee 39, 20099 Hamburg, Germany",
-            "Opened ": [
-                "1901"
-            ],
-            "Phone ": [
-                "+49 40 248710"
-            ],
-            "People also search for": []
-        },
-        "Prince Edward Theatre": {
-            "label": "Prince Edward Theatre",
-            "description": "The Prince Edward Theatre is a West End theatre situated on Old Compton Street, just north of Leicester Square, in the City of Westminster. Wikipedia",
-            "type": "Theatre in City of Westminster, England",
-            "Address ": [
-                "28 Old Compton St",
-                " London W1D 4HS",
-                " United Kingdom"
-            ],
-            "Capacity ": [
-                "1",
-                "650"
-            ],
-            "Opened ": "April 3, 1930",
-            "Phone ": [
-                "+44 844 482 5151"
-            ],
-            "Function ": [
-                "Theatre"
-            ],
-            "Architects ": [
-                "Thomas Braddock",
-                " Edward A. Stone"
-            ],
-            "Architectural styles ": [
-                "Palazzo style architecture",
-                " Art Deco"
-            ],
-            "Upcoming events": []
-        },
         "Sadler's Wells Theatre": {
             "label": "Sadler's Wells Theatre",
             "description": "Sadler's Wells Theatre is a performing arts venue located in Rosebery Avenue, Clerkenwell in the London Borough of Islington. The present day theatre is the sixth on the site since 1683. Wikipedia",
@@ -118,6 +75,19 @@
             ],
             "Upcoming events": [],
             "Recent posts": []
+        },
+        "Deutsches Schauspielhaus": {
+            "label": "Deutsches Schauspielhaus",
+            "description": "The Deutsches Schauspielhaus is a theatre in the St. Georg quarter of the city of Hamburg, Germany. With a capacity for 1192 spectators, it places it as Germany's largest theatre. Wikipedia",
+            "type": "",
+            "Address ": "Kirchenallee 39, 20099 Hamburg, Germany",
+            "Opened ": [
+                "1901"
+            ],
+            "Phone ": [
+                "+49 40 248710"
+            ],
+            "People also search for": []
         },
         "Theater Basel": {
             "label": "Theater Basel",
@@ -195,6 +165,36 @@
             ],
             "People also search for": []
         },
+        "Prince Edward Theatre": {
+            "label": "Prince Edward Theatre",
+            "description": "The Prince Edward Theatre is a West End theatre situated on Old Compton Street, just north of Leicester Square, in the City of Westminster. Wikipedia",
+            "type": "Theatre in City of Westminster, England",
+            "Address ": [
+                "28 Old Compton St",
+                " London W1D 4HS",
+                " United Kingdom"
+            ],
+            "Capacity ": [
+                "1",
+                "650"
+            ],
+            "Opened ": "April 3, 1930",
+            "Phone ": [
+                "+44 844 482 5151"
+            ],
+            "Function ": [
+                "Theatre"
+            ],
+            "Architects ": [
+                "Thomas Braddock",
+                " Edward A. Stone"
+            ],
+            "Architectural styles ": [
+                "Palazzo style architecture",
+                " Art Deco"
+            ],
+            "Upcoming events": []
+        },
         "Gaiety Theatre, Dublin": {
             "label": "Gaiety Theatre, Dublin",
             "description": "The Gaiety Theatre is a theatre on South King Street in Dublin, Ireland, off Grafton Street and close to St. Stephen's Green. It specialises in operatic and musical productions, with occasional dramatic shows. Wikipedia",
@@ -247,30 +247,6 @@
             ],
             "People also search for": []
         },
-        "Odéon-Théâtre de l'Europe": {
-            "label": "Odéon-Théâtre de l'Europe",
-            "description": "The Odéon-Théâtre de l'Europe is one of France's six national theatres.\nIt is located at 2 rue Corneille in the 6th arrondissement of Paris on the left bank of the Seine, next to the Luxembourg Garden. Wikipedia",
-            "type": "Theatre in Paris, France",
-            "Address ": [
-                "Place de l'Odéon",
-                " 75006 Paris",
-                " France"
-            ],
-            "Opened ": [
-                "1782"
-            ],
-            "Phone ": [
-                "+33 1 44 85 40 40"
-            ],
-            "Hours ": [
-                "Theatre"
-            ],
-            "Function ": [
-                "Charles De Wailly",
-                " Marie-Joseph Peyre"
-            ],
-            "People also search for": []
-        },
         "Royal Opera House": {
             "label": "Royal Opera House, London",
             "description": "The Royal Opera House is an opera house and major performing arts venue in Covent Garden, central London. Wikipedia",
@@ -305,15 +281,6 @@
             ],
             "Upcoming events": [],
             "Recent posts": []
-        },
-        "Théâtre Antoine-Simone Berriau": {
-            "label": "Théâtre Antoine-Simone Berriau",
-            "description": "Théâtre Antoine-Simone Berriau is a theater located at 14 boulevard de Strasbourg in the 10th arrondissement of Paris.\nThe 800-seat Italian Style theater was built in the year 1866. Wikipedia",
-            "type": "Theater",
-            "Opened ": [
-                "1866"
-            ],
-            "People also search for": []
         },
         "Théâtre Hébertot": {
             "label": "Théâtre Hébertot",
@@ -416,6 +383,35 @@
             ],
             "People also search for": []
         },
+        "Ahmanson Theatre": {
+            "label": "Mark Taper Forum",
+            "description": "The Mark Taper Forum is a 739-seat thrust stage at the Los Angeles Music Center designed by Welton Becket and Associates on the Bunker Hill section of downtown Los Angeles. Wikipedia",
+            "type": "Theatre",
+            "Address ": [
+                "601 W Temple St",
+                " Los Angeles",
+                " CA 90012",
+                " United States"
+            ],
+            "Opened ": [
+                "1967"
+            ],
+            "Phone ": [
+                "(213) 628-2772"
+            ],
+            "Hours ": [
+                "1967"
+            ],
+            "Founded ": [
+                "Welton Becket"
+            ],
+            "Architect ": [
+                "Tony Award for Best Play",
+                " Regional Theatre Tony Award",
+                " Drama Desk Award for Outstanding Play"
+            ],
+            "People also search for": []
+        },
         "Artsdepot": {
             "label": "artsdepot",
             "description": "The artsdepot is a multi-purpose cultural centre located in North Finchley, in the London borough of Barnet. It was officially opened on 23 October 2004 for the enjoyment and development of the arts in North London. Wikipedia",
@@ -450,6 +446,40 @@
             ],
             "Recent posts": [],
             "People also search for": []
+        },
+        "Théâtre Antoine-Simone Berriau": {
+            "label": "Théâtre Antoine-Simone Berriau",
+            "description": "Théâtre Antoine-Simone Berriau is a theater located at 14 boulevard de Strasbourg in the 10th arrondissement of Paris.\nThe 800-seat Italian Style theater was built in the year 1866. Wikipedia",
+            "type": "Theater",
+            "Opened ": [
+                "1866"
+            ],
+            "People also search for": []
+        },
+        "Brattle Theatre": {
+            "label": "Brattle Theatre",
+            "description": "The Brattle Theatre is a repertory movie theater located in Harvard Square in Cambridge, Massachusetts in the United States of America. The theatre is a small movie house with one screen. Wikipedia",
+            "type": "35 followers on Google+",
+            "Address ": [
+                "40 Brattle St",
+                " Cambridge",
+                " MA 02138",
+                " United States"
+            ],
+            "Capacity ": [
+                "235"
+            ],
+            "Phone ": [
+                "(617) 876-6837"
+            ],
+            "Hours ": [
+                "American Colonial"
+            ],
+            "Architectural style ": [
+                "Alexander Wadsworth Longfellow",
+                " Jr."
+            ],
+            "Recent posts": []
         },
         "Bush Theatre": {
             "label": "Bush Theatre",
@@ -511,6 +541,29 @@
             ],
             "People also search for": []
         },
+        "Colorado Convention Center": {
+            "label": "Colorado Convention Center",
+            "description": "The Colorado Convention Center is a multi-purpose convention center located in Downtown Denver. The center opened in June 1990; the first event being the NBA Draft for the Denver Nuggets. Wikipedia",
+            "type": "163 followers on Google+",
+            "Address ": [
+                "700 14th St",
+                " Denver",
+                " CO 80202",
+                " United States"
+            ],
+            "Opened ": "June 23, 1990",
+            "Height ": [
+                "489' (149 m)"
+            ],
+            "Phone ": [
+                "(303) 228-8000"
+            ],
+            "Hours ": [
+                "Curtis W. Fentress"
+            ],
+            "Upcoming events": [],
+            "Recent posts": []
+        },
         "Criterion Theatre": {
             "label": "Criterion Theatre",
             "description": "The Criterion Theatre is a West End theatre situated on Piccadilly Circus in the City of Westminster, and is a Grade II* listed building. It has an official capacity of 588. Wikipedia",
@@ -536,28 +589,29 @@
             "Upcoming events": [],
             "People also search for": []
         },
-        "Colorado Convention Center": {
-            "label": "Colorado Convention Center",
-            "description": "The Colorado Convention Center is a multi-purpose convention center located in Downtown Denver. The center opened in June 1990; the first event being the NBA Draft for the Denver Nuggets. Wikipedia",
-            "type": "163 followers on Google+",
+        "Dorothy Chandler Pavilion": {
+            "label": "Dorothy Chandler Pavilion",
+            "description": "The Dorothy Chandler Pavilion is one of the halls in the Los Angeles Music Center. The Music Center's other halls include the Mark Taper Forum, Ahmanson Theatre, and Walt Disney Concert Hall. Wikipedia",
+            "type": "Theatre",
             "Address ": [
-                "700 14th St",
-                " Denver",
-                " CO 80202",
+                "135 N Grand Ave",
+                " Los Angeles",
+                " CA 90012",
                 " United States"
             ],
-            "Opened ": "June 23, 1990",
-            "Height ": [
-                "489' (149 m)"
+            "Opened ": [
+                "1964"
             ],
             "Phone ": [
-                "(303) 228-8000"
+                "(213) 972-0711"
             ],
-            "Hours ": [
-                "Curtis W. Fentress"
+            "Function ": [
+                "Opera House"
             ],
-            "Upcoming events": [],
-            "Recent posts": []
+            "Architect ": [
+                "Welton Becket"
+            ],
+            "Upcoming events": []
         },
         "Ferguson Center for the Arts": {
             "label": "Ferguson Center for the Arts",
@@ -601,58 +655,43 @@
             ],
             "Upcoming events": []
         },
-        "Brattle Theatre": {
-            "label": "Brattle Theatre",
-            "description": "The Brattle Theatre is a repertory movie theater located in Harvard Square in Cambridge, Massachusetts in the United States of America. The theatre is a small movie house with one screen. Wikipedia",
-            "type": "35 followers on Google+",
-            "Address ": [
-                "40 Brattle St",
-                " Cambridge",
-                " MA 02138",
-                " United States"
-            ],
-            "Capacity ": [
-                "235"
-            ],
-            "Phone ": [
-                "(617) 876-6837"
-            ],
-            "Hours ": [
-                "American Colonial"
-            ],
-            "Architectural style ": [
-                "Alexander Wadsworth Longfellow",
-                " Jr."
-            ],
-            "Recent posts": []
+        "Hole-in-the-Wall (saloon)": {
+            "label": "Hole In the Wall Saloon",
+            "description": "",
+            "type": "",
+            "People also search for": []
         },
-        "Ahmanson Theatre": {
-            "label": "Mark Taper Forum",
-            "description": "The Mark Taper Forum is a 739-seat thrust stage at the Los Angeles Music Center designed by Welton Becket and Associates on the Bunker Hill section of downtown Los Angeles. Wikipedia",
-            "type": "Theatre",
+        "Lincoln Center for the Performing Arts": {
+            "label": "Lincoln Center for the Performing Arts",
+            "description": "Lincoln Center for the Performing Arts is a 16.3-acre complex of buildings in the Lincoln Square neighborhood of Manhattan in New York City. Reynold Levy has been its president since 2002. Wikipedia",
+            "type": "Building complex",
             "Address ": [
-                "601 W Temple St",
-                " Los Angeles",
-                " CA 90012",
+                "10 Lincoln Center Plaza",
+                " New York",
+                " NY 10023",
                 " United States"
             ],
-            "Opened ": [
-                "1967"
-            ],
-            "Phone ": [
-                "(213) 628-2772"
-            ],
-            "Hours ": [
-                "1967"
+            "Tax ID ": [
+                "13-1847137"
             ],
             "Founded ": [
-                "Welton Becket"
+                "New York City",
+                " New York",
+                " United States"
             ],
-            "Architect ": [
-                "Tony Award for Best Play",
-                " Regional Theatre Tony Award",
-                " Drama Desk Award for Outstanding Play"
+            "Phone ": [
+                "(212) 875-5000"
             ],
+            "Hours ": [
+                "739.4 million USD (2011)"
+            ],
+            "Assets ": [
+                "312.4 million USD (2011)"
+            ],
+            "Income ": [
+                "501(c)(3)"
+            ],
+            "Upcoming events": [],
             "People also search for": []
         },
         "Lobero Theatre": {
@@ -707,30 +746,6 @@
             "type": "",
             "People also search for": []
         },
-        "Dorothy Chandler Pavilion": {
-            "label": "Dorothy Chandler Pavilion",
-            "description": "The Dorothy Chandler Pavilion is one of the halls in the Los Angeles Music Center. The Music Center's other halls include the Mark Taper Forum, Ahmanson Theatre, and Walt Disney Concert Hall. Wikipedia",
-            "type": "Theatre",
-            "Address ": [
-                "135 N Grand Ave",
-                " Los Angeles",
-                " CA 90012",
-                " United States"
-            ],
-            "Opened ": [
-                "1964"
-            ],
-            "Phone ": [
-                "(213) 972-0711"
-            ],
-            "Function ": [
-                "Opera House"
-            ],
-            "Architect ": [
-                "Welton Becket"
-            ],
-            "Upcoming events": []
-        },
         "Merle Reskin Theatre": {
             "label": "Merle Reskin Theatre",
             "description": "The Merle Reskin Theatre is a performing arts venue located in the Loop community area of Chicago, Illinois. Originally named the Blackstone Theatre, it was founded in 1910. Wikipedia",
@@ -748,6 +763,25 @@
             "Architect ": [
                 "Marshall and Fox"
             ],
+            "People also search for": []
+        },
+        "Merriweather Post Pavilion": {
+            "label": "Merriweather Post Pavilion",
+            "description": "Merriweather Post Pavilion is an outdoor concert venue located within Symphony Woods, a 40-acre lot of preserved land in the heart of the planned community of Columbia, Maryland. Wikipedia",
+            "type": "",
+            "Address ": [
+                "10475 Little Patuxent Pkwy",
+                " Columbia",
+                " MD 21044",
+                " United States"
+            ],
+            "Opened ": [
+                "1967"
+            ],
+            "Phone ": [
+                "(410) 715-5550"
+            ],
+            "Upcoming events": [],
             "People also search for": []
         },
         "Morton H. Meyerson Symphony Center": {
@@ -795,12 +829,6 @@
             ],
             "People also search for": []
         },
-        "Hole-in-the-Wall (saloon)": {
-            "label": "Hole In the Wall Saloon",
-            "description": "",
-            "type": "",
-            "People also search for": []
-        },
         "Prather Coliseum": {
             "label": "Prather Coliseum",
             "description": "Prather Coliseum is a 3,900-seat multi-purpose arena in Natchitoches, Louisiana. It opened in 1964 and is home to the Northwestern State University Demons basketball team. Wikipedia",
@@ -817,39 +845,6 @@
             "Team ": [
                 "Northwestern State Demons basketball"
             ],
-            "People also search for": []
-        },
-        "Lincoln Center for the Performing Arts": {
-            "label": "Lincoln Center for the Performing Arts",
-            "description": "Lincoln Center for the Performing Arts is a 16.3-acre complex of buildings in the Lincoln Square neighborhood of Manhattan in New York City. Reynold Levy has been its president since 2002. Wikipedia",
-            "type": "Building complex",
-            "Address ": [
-                "10 Lincoln Center Plaza",
-                " New York",
-                " NY 10023",
-                " United States"
-            ],
-            "Tax ID ": [
-                "13-1847137"
-            ],
-            "Founded ": [
-                "New York City",
-                " New York",
-                " United States"
-            ],
-            "Phone ": [
-                "(212) 875-5000"
-            ],
-            "Hours ": [
-                "739.4 million USD (2011)"
-            ],
-            "Assets ": [
-                "312.4 million USD (2011)"
-            ],
-            "Income ": [
-                "501(c)(3)"
-            ],
-            "Upcoming events": [],
             "People also search for": []
         },
         "Richmond Theatre": {
@@ -874,23 +869,24 @@
             ],
             "Upcoming events": []
         },
-        "Merriweather Post Pavilion": {
-            "label": "Merriweather Post Pavilion",
-            "description": "Merriweather Post Pavilion is an outdoor concert venue located within Symphony Woods, a 40-acre lot of preserved land in the heart of the planned community of Columbia, Maryland. Wikipedia",
-            "type": "",
+        "Saratoga Performing Arts Center": {
+            "label": "Saratoga Performing Arts Center",
+            "description": "The Saratoga Performing Arts Center is complex consisting of a large amphitheater and a smaller indoor theater in Saratoga Springs, New York. It is on the grounds of Saratoga Spa State Park. Wikipedia",
+            "type": "Theater",
             "Address ": [
-                "10475 Little Patuxent Pkwy",
-                " Columbia",
-                " MD 21044",
+                "108 Avenue of the Pines",
+                " Saratoga Springs",
+                " NY 12866",
                 " United States"
             ],
-            "Opened ": [
-                "1967"
+            "Capacity ": [
+                "25",
+                "100"
             ],
+            "Opened ": "July 9, 1966",
             "Phone ": [
-                "(410) 715-5550"
+                "(518) 584-9330"
             ],
-            "Upcoming events": [],
             "People also search for": []
         },
         "South London Theatre": {
@@ -918,6 +914,20 @@
             ],
             "People also search for": []
         },
+        "Teatro La Perla": {
+            "label": "Teatro La Perla",
+            "description": "Teatro La Perla is a historic theater in the city of Ponce, Puerto Rico. Inaugurated in 1864, it is the second oldest theater of its kind in Puerto Rico, but \"the largest and most historic in the Spanish-speaking Caribbean.\" Wikipedia",
+            "type": "Theater",
+            "Address ": [
+                "Calle Mayor",
+                " s/n Bayamón",
+                " Puerto Rico"
+            ],
+            "Phone ": [
+                "+1 787-843-4322"
+            ],
+            "People also search for": []
+        },
         "Teatro Tapia": {
             "label": "Teatro Tapia",
             "description": "Teatro Alejandro Tapia y Rivera, is among the oldest free-standing drama stage buildings under U.S. flag still in use. It is located in San Juan, Puerto Rico. It is named after Alejandro Tapia y Rivera, a Puerto Rican poet and dramatist. Wikipedia",
@@ -936,26 +946,6 @@
             ],
             "Function ": [
                 "Theatre"
-            ],
-            "People also search for": []
-        },
-        "Saratoga Performing Arts Center": {
-            "label": "Saratoga Performing Arts Center",
-            "description": "The Saratoga Performing Arts Center is complex consisting of a large amphitheater and a smaller indoor theater in Saratoga Springs, New York. It is on the grounds of Saratoga Spa State Park. Wikipedia",
-            "type": "Theater",
-            "Address ": [
-                "108 Avenue of the Pines",
-                " Saratoga Springs",
-                " NY 12866",
-                " United States"
-            ],
-            "Capacity ": [
-                "25",
-                "100"
-            ],
-            "Opened ": "July 9, 1966",
-            "Phone ": [
-                "(518) 584-9330"
             ],
             "People also search for": []
         },
@@ -988,41 +978,6 @@
             ],
             "Upcoming events": []
         },
-        "La MaMa Experimental Theatre Club": {
-            "label": "La MaMa Experimental Theatre Club",
-            "description": "La MaMa Experimental Theatre Club is an off-off Broadway theatre founded in 1961 by Ellen Stewart, and named in reference to her. Wikipedia",
-            "type": "",
-            "Address ": [
-                "74 E 4th St",
-                " New York",
-                " NY 10003",
-                " United States"
-            ],
-            "Phone ": [
-                "(212) 475-7710"
-            ],
-            "Founder ": [
-                "Ellen Stewart"
-            ],
-            "Founded ": [
-                "1961"
-            ],
-            "People also search for": []
-        },
-        "Teatro La Perla": {
-            "label": "Teatro La Perla",
-            "description": "Teatro La Perla is a historic theater in the city of Ponce, Puerto Rico. Inaugurated in 1864, it is the second oldest theater of its kind in Puerto Rico, but \"the largest and most historic in the Spanish-speaking Caribbean.\" Wikipedia",
-            "type": "Theater",
-            "Address ": [
-                "Calle Mayor",
-                " s/n Bayamón",
-                " Puerto Rico"
-            ],
-            "Phone ": [
-                "+1 787-843-4322"
-            ],
-            "People also search for": []
-        },
         "Wilbur Theatre": {
             "label": "Wilbur Theatre",
             "description": "Wilbur Theatre is a historic theater at 244-250 Tremont Street in Boston, Massachusetts. The Wilbur Theatre was originally opened in 1914 but was revitalized in 2008. Wikipedia",
@@ -1040,11 +995,6 @@
                 "(617) 248-9700"
             ],
             "Upcoming events": []
-        },
-        "Warwick Musical Theatre": {
-            "label": "Warwick Musical Theatre",
-            "description": "Warwick Musical Theatre was a musical theater located on Route 2 in Warwick, Rhode Island.\nBuster Bonoff opened the theatre in 1955 on the site of an open field. Wikipedia",
-            "type": ""
         },
         "The Viper Room": {
             "label": "The Viper Room",
@@ -1067,19 +1017,24 @@
             ],
             "Upcoming events": []
         },
-        "Academy of Light": {
-            "label": "Academy of Light",
-            "description": "The Academy of Light is the name of the UEFA five star certified training facilities and youth academy for English football club Sunderland A.F.C. Wikipedia",
-            "type": "Sports Facility",
+        "La MaMa Experimental Theatre Club": {
+            "label": "La MaMa Experimental Theatre Club",
+            "description": "La MaMa Experimental Theatre Club is an off-off Broadway theatre founded in 1961 by Ellen Stewart, and named in reference to her. Wikipedia",
+            "type": "",
             "Address ": [
-                "Tyne and Wear",
-                " United Kingdom"
+                "74 E 4th St",
+                " New York",
+                " NY 10003",
+                " United States"
             ],
-            "Opened ": [
-                "March 2003"
+            "Phone ": [
+                "(212) 475-7710"
             ],
-            "Team ": [
-                "Sunderland A.F.C. Reserves and Academy"
+            "Founder ": [
+                "Ellen Stewart"
+            ],
+            "Founded ": [
+                "1961"
             ],
             "People also search for": []
         },
@@ -1101,6 +1056,34 @@
             "Upcoming events": [],
             "People also search for": []
         },
+        "Academy of Light": {
+            "label": "Academy of Light",
+            "description": "The Academy of Light is the name of the UEFA five star certified training facilities and youth academy for English football club Sunderland A.F.C. Wikipedia",
+            "type": "Sports Facility",
+            "Address ": [
+                "Tyne and Wear",
+                " United Kingdom"
+            ],
+            "Opened ": [
+                "March 2003"
+            ],
+            "Team ": [
+                "Sunderland A.F.C. Reserves and Academy"
+            ],
+            "People also search for": []
+        },
+        "Annenberg Center for the Performing Arts": {
+            "label": "Annenberg Center for the Performing Arts",
+            "description": "The Annenberg Center for the Performing Arts is a theatre, dance and world music venue in Philadelphia, Pennsylvania. Wikipedia",
+            "type": "",
+            "Address ": [
+                "3680 Walnut St",
+                " Philadelphia",
+                " PA 19104",
+                " United States"
+            ],
+            "Upcoming events": []
+        },
         "Baxter Theatre Centre": {
             "label": "Baxter Theatre Centre, Cape Town",
             "description": "The Baxter Theatre Centre is a performing arts complex in Rondebosch, a suburb of Cape Town, South Africa. Wikipedia",
@@ -1121,24 +1104,6 @@
             ],
             "People also search for": []
         },
-        "La Boite Theatre Company": {
-            "label": "La Boite Theatre Inc.",
-            "description": "",
-            "type": "",
-            "People also search for": []
-        },
-        "Annenberg Center for the Performing Arts": {
-            "label": "Annenberg Center for the Performing Arts",
-            "description": "The Annenberg Center for the Performing Arts is a theatre, dance and world music venue in Philadelphia, Pennsylvania. Wikipedia",
-            "type": "",
-            "Address ": [
-                "3680 Walnut St",
-                " Philadelphia",
-                " PA 19104",
-                " United States"
-            ],
-            "Upcoming events": []
-        },
         "Gazzarri's": {
             "label": "Gazzarri's",
             "description": "Gazzarri's was a nightclub on the Sunset Strip in West Hollywood, California, United States. It is most notable as the location where The Doors and Van Halen were featured house bands for long stretches before being discovered. Wikipedia",
@@ -1151,6 +1116,12 @@
             "type": "",
             "See results about": []
         },
+        "La Boite Theatre Company": {
+            "label": "La Boite Theatre Inc.",
+            "description": "",
+            "type": "",
+            "People also search for": []
+        },
         "London Fog (nightclub)": {
             "label": "London Fog",
             "description": "The London Fog was a 1960s nightclub located on the Sunset Strip in what was then unincorporated Los Angeles County, California. Wikipedia",
@@ -1161,6 +1132,11 @@
                 " California",
                 " 61944"
             ]
+        },
+        "Postcrypt Coffeehouse": {
+            "label": "Postcrypt Coffeehouse",
+            "description": "Postcrypt Coffeehouse is an all-acoustic music venue in the basement of St. Paul's Chapel at Columbia University in New York City, run completely by students. Wikipedia",
+            "type": ""
         },
         "O2 Academy Glasgow": {
             "label": "O2 Academy Glasgow",
@@ -1178,6 +1154,13 @@
                 "+44 141 418 3000"
             ],
             "Upcoming events": []
+        },
+        "The Casbah Coffee Club": {
+            "label": "The Casbah Coffee Club",
+            "description": "The Casbah Coffee Club was a rock and roll music venue in West Derby, Liverpool, started by Mona Best in 1959 in the cellar of the family home. Wikipedia",
+            "type": "Building in Liverpool, England",
+            "Opened ": "August 29, 1959",
+            "People also search for": []
         },
         "The Public Theater": {
             "label": "Public Theater",
@@ -1207,29 +1190,6 @@
                 " Drama Desk Award for Outstanding RevivalMore"
             ]
         },
-        "The Casbah Coffee Club": {
-            "label": "The Casbah Coffee Club",
-            "description": "The Casbah Coffee Club was a rock and roll music venue in West Derby, Liverpool, started by Mona Best in 1959 in the cellar of the family home. Wikipedia",
-            "type": "Building in Liverpool, England",
-            "Opened ": "August 29, 1959",
-            "People also search for": []
-        },
-        "Postcrypt Coffeehouse": {
-            "label": "Postcrypt Coffeehouse",
-            "description": "Postcrypt Coffeehouse is an all-acoustic music venue in the basement of St. Paul's Chapel at Columbia University in New York City, run completely by students. Wikipedia",
-            "type": ""
-        },
-        "Centre Tola Vologe": {
-            "label": "Centre Tola Vologe",
-            "description": "The Centre Tola Vologe is the training center and club headquarters of French football club Olympique Lyonnais. It is located in the city of Lyon, not far from the club's home stadium, the Stade de Gerland. Wikipedia",
-            "type": "Stadium",
-            "Address ": [
-                "7e Arrondissement",
-                " 69007 Lyon",
-                " France"
-            ],
-            "People also search for": []
-        },
         "Virginia Theatre (Champaign)": {
             "label": "Virginia Theatre",
             "description": "The Virginia Theatre is a live performance and movie theatre in downtown Champaign, Illinois. It has been providing theatrical and cinematic entertainment to the Champaign-Urbana community since its doors opened in 1921. Wikipedia",
@@ -1244,6 +1204,17 @@
                 "(217) 356-9063"
             ]
         },
+        "Centre Tola Vologe": {
+            "label": "Centre Tola Vologe",
+            "description": "The Centre Tola Vologe is the training center and club headquarters of French football club Olympique Lyonnais. It is located in the city of Lyon, not far from the club's home stadium, the Stade de Gerland. Wikipedia",
+            "type": "Stadium",
+            "Address ": [
+                "7e Arrondissement",
+                " 69007 Lyon",
+                " France"
+            ],
+            "People also search for": []
+        },
         "Euskalduna Conference Centre and Concert Hall": {
             "label": "The Euskalduna Conference Centre and Concert Hall",
             "description": "The Euskalduna Conference Centre and Concert Hall is located in the city of Bilbao, in the Basque Country, beside the Estuary of Bilbao, built in part of the area that was formerly occupied by the Euskalduna shipyards. Wikipedia",
@@ -1254,6 +1225,22 @@
         "Gulustan Palace": {
             "label": "Gulustan Palace",
             "description": "Gulustan Palace, formerly known as Gulustan Wedding Palace Complex during the Soviet era is the main state convention center of the Azerbaijani government. Wikipedia",
+            "type": ""
+        },
+        "Mudd Club": {
+            "label": "Mudd Club",
+            "description": "The Mudd Club was a TriBeCa nightclub opened in October 1978 by Steve Mass, art curator Diego Cortez and downtown punk scene figure Anya Phillips. Wikipedia",
+            "type": "",
+            "People also search for": []
+        },
+        "The Warehouse Project": {
+            "label": "The Warehouse Project",
+            "description": "The Warehouse Project is a series of club nights organised in Greater Manchester, England, since 2006. Unlike most other clubs, it has a limited seasonal approach rather than running all year. Wikipedia",
+            "type": ""
+        },
+        "DTU Campus Village": {
+            "label": "DTU Campus Village",
+            "description": "",
             "type": ""
         },
         "Damascus Opera House": {
@@ -1270,22 +1257,6 @@
             ],
             "People also search for": []
         },
-        "DTU Campus Village": {
-            "label": "DTU Campus Village",
-            "description": "",
-            "type": ""
-        },
-        "Mudd Club": {
-            "label": "Mudd Club",
-            "description": "The Mudd Club was a TriBeCa nightclub opened in October 1978 by Steve Mass, art curator Diego Cortez and downtown punk scene figure Anya Phillips. Wikipedia",
-            "type": "",
-            "People also search for": []
-        },
-        "The Warehouse Project": {
-            "label": "The Warehouse Project",
-            "description": "The Warehouse Project is a series of club nights organised in Greater Manchester, England, since 2006. Unlike most other clubs, it has a limited seasonal approach rather than running all year. Wikipedia",
-            "type": ""
-        },
         "Gaelic Theatre": {
             "label": "Gaelic Theatre",
             "description": "The Gaelic Theatre is a split level multi purpose venue in Surry Hills, New South Wales, Australia. The theatre is located on the ground floor of INA House, close to Central Railway Station and was ... Wikipedia",
@@ -1297,6 +1268,11 @@
                 "2002"
             ],
             "People also search for": []
+        },
+        "Warwick Musical Theatre": {
+            "label": "Warwick Musical Theatre",
+            "description": "Warwick Musical Theatre was a musical theater located on Route 2 in Warwick, Rhode Island.\nBuster Bonoff opened the theatre in 1955 on the site of an open field. Wikipedia",
+            "type": ""
         },
         "Red Robinson Show Theatre": {
             "label": "The Theatre",
@@ -1321,43 +1297,10 @@
             ],
             "Upcoming events": []
         },
-        "Wildhorse Saloon": {
-            "label": "Wildhorse Saloon",
-            "description": "The Wildhorse Saloon is a country/western-themed restaurant, live music venue, and dance club located in downtown Nashville, Tennessee. It is owned by Ryman Hospitality Properties. Wikipedia",
-            "type": "Bar",
-            "Address ": [
-                "120 2nd Ave N",
-                " Nashville",
-                " TN 37201",
-                " United States"
-            ],
-            "Opened ": "June 1, 1994",
-            "Phone ": [
-                "(615) 902-8200"
-            ],
-            "People also search for": []
-        },
         "The Baked Potato": {
             "label": "The Baked Potato",
             "description": "",
             "type": ""
-        },
-        "Florya Metin Oktay Sports Complex and Training Center": {
-            "label": "Florya Metin Oktay Sports Complex and Training Center",
-            "description": "The Florya Metin Oktay Sports Complex and Training Center is the training ground and academy base of the Turkish football club Galatasaray SK. Wikipedia",
-            "type": "Sports Facility",
-            "Address ": [
-                "Şenlikköy Mh.",
-                " 34153 Bakırköy/İstanbul",
-                " Turkey"
-            ],
-            "Phone ": [
-                "+90 212 663 0090"
-            ],
-            "Team ": [
-                "Galatasaray A2"
-            ],
-            "People also search for": []
         },
         "Fillmore Auditorium (Denver, Colorado)": {
             "label": "Fillmore Auditorium",
@@ -1376,6 +1319,39 @@
                 "(303) 837-0360"
             ],
             "Upcoming events": []
+        },
+        "Wildhorse Saloon": {
+            "label": "Wildhorse Saloon",
+            "description": "The Wildhorse Saloon is a country/western-themed restaurant, live music venue, and dance club located in downtown Nashville, Tennessee. It is owned by Ryman Hospitality Properties. Wikipedia",
+            "type": "Bar",
+            "Address ": [
+                "120 2nd Ave N",
+                " Nashville",
+                " TN 37201",
+                " United States"
+            ],
+            "Opened ": "June 1, 1994",
+            "Phone ": [
+                "(615) 902-8200"
+            ],
+            "People also search for": []
+        },
+        "Florya Metin Oktay Sports Complex and Training Center": {
+            "label": "Florya Metin Oktay Sports Complex and Training Center",
+            "description": "The Florya Metin Oktay Sports Complex and Training Center is the training ground and academy base of the Turkish football club Galatasaray SK. Wikipedia",
+            "type": "Sports Facility",
+            "Address ": [
+                "Şenlikköy Mh.",
+                " 34153 Bakırköy/İstanbul",
+                " Turkey"
+            ],
+            "Phone ": [
+                "+90 212 663 0090"
+            ],
+            "Team ": [
+                "Galatasaray A2"
+            ],
+            "People also search for": []
         },
         "Jannus Live": {
             "label": "Jannus Live",
@@ -1413,18 +1389,6 @@
             ],
             "Upcoming events": []
         },
-        "SMX Convention Center": {
-            "label": "SMX Convention Center",
-            "description": "The SMX Convention Center is a convention center in Pasay City, the Philippines. It is the largest private venue in the Philippines for trade events, industry conventions, corporate functions, and international exhibitions. Wikipedia",
-            "type": "Building",
-            "Address ": [
-                "Seashell Ln",
-                " Pasay City 1300",
-                " Philippines"
-            ],
-            "Opened ": "November 5, 2007",
-            "People also search for": []
-        },
         "Nokia Theatre L.A. Live": {
             "label": "Nokia Theatre L.A. Live",
             "description": "The Nokia Theatre is a music and theatre venue located in downtown Los Angeles, California located at L.A. Live. It is sponsored by the Finnish company, Nokia. Wikipedia",
@@ -1441,6 +1405,18 @@
             ],
             "Upcoming events": []
         },
+        "SMX Convention Center": {
+            "label": "SMX Convention Center",
+            "description": "The SMX Convention Center is a convention center in Pasay City, the Philippines. It is the largest private venue in the Philippines for trade events, industry conventions, corporate functions, and international exhibitions. Wikipedia",
+            "type": "Building",
+            "Address ": [
+                "Seashell Ln",
+                " Pasay City 1300",
+                " Philippines"
+            ],
+            "Opened ": "November 5, 2007",
+            "People also search for": []
+        },
         "Star Pavilion": {
             "label": "Hersheypark Stadium",
             "description": "",
@@ -1455,8 +1431,62 @@
                 "1974"
             ]
         },
-        "Upper Brown Street": {
-            "label": "Upper Brown Street Venue",
+        "Odéon-Théâtre de l'Europe": {
+            "label": "Odéon-Théâtre de l'Europe",
+            "description": "The Odéon-Théâtre de l'Europe is one of France's six national theatres.\nIt is located at 2 rue Corneille in the 6th arrondissement of Paris on the left bank of the Seine, next to the Luxembourg Garden. Wikipedia",
+            "type": "Theatre in Paris, France",
+            "Address ": [
+                "Place de l'Odéon",
+                " 75006 Paris",
+                " France"
+            ],
+            "Opened ": [
+                "1782"
+            ],
+            "Phone ": [
+                "+33 1 44 85 40 40"
+            ],
+            "Hours ": [
+                "Theatre"
+            ],
+            "Function ": [
+                "Charles De Wailly",
+                " Marie-Joseph Peyre"
+            ],
+            "People also search for": []
+        },
+        "London Coliseum": {
+            "label": "London Coliseum",
+            "description": "The London Coliseum is a theatre in St. Martin's Lane, central London, built as one of London's largest and most luxurious ‘family’ variety theatres. Wikipedia",
+            "type": "Theatre in City of Westminster, England",
+            "Address ": [
+                "St. Martin's Lane",
+                " Charing Cross",
+                " London WC2N 4ES",
+                " United Kingdom"
+            ],
+            "Capacity ": [
+                "2",
+                "359"
+            ],
+            "Opened ": [
+                "1904"
+            ],
+            "Phone ": [
+                "+44 20 7836 0111"
+            ],
+            "Architects ": [
+                "Frank Matcham",
+                " Oswald Stoll"
+            ],
+            "Function ": [
+                "Opera House",
+                " Theatre"
+            ],
+            "Upcoming events": []
+        },
+        "Subclub": {
+            "label": "Sub Club",
             "description": "",
             "type": "",
             "People also search for": []
@@ -1500,6 +1530,17 @@
             "Upcoming events": [],
             "People also search for": []
         },
+        "Grill Music Venue": {
+            "label": "Grill Music Venue",
+            "description": "The Grill Music Venue, also known as The Grill, formerly The Golden Grill, is an Irish nightclub located in Letterkenny, County Donegal. Wikipedia",
+            "type": "Bar"
+        },
+        "Upper Brown Street": {
+            "label": "Upper Brown Street Venue",
+            "description": "",
+            "type": "",
+            "People also search for": []
+        },
         "Avalon Theatre": {
             "label": "Avalon Theatre",
             "description": "The Avalon Theatre is a historic theater located in downtown Easton, Maryland. Originally built as a cinema in 1921, The Avalon was billed as the \"Showplace of the Eastern Shore.\" Wikipedia",
@@ -1520,79 +1561,57 @@
                 "Theatre"
             ],
             "People also search for": []
-        },
-        "Grill Music Venue": {
-            "label": "Grill Music Venue",
-            "description": "The Grill Music Venue, also known as The Grill, formerly The Golden Grill, is an Irish nightclub located in Letterkenny, County Donegal. Wikipedia",
-            "type": "Bar"
-        },
-        "London Coliseum": {
-            "label": "London Coliseum",
-            "description": "The London Coliseum is a theatre in St. Martin's Lane, central London, built as one of London's largest and most luxurious ‘family’ variety theatres. Wikipedia",
-            "type": "Theatre in City of Westminster, England",
-            "Address ": [
-                "St. Martin's Lane",
-                " Charing Cross",
-                " London WC2N 4ES",
-                " United Kingdom"
-            ],
-            "Capacity ": [
-                "2",
-                "359"
-            ],
-            "Opened ": [
-                "1904"
-            ],
-            "Phone ": [
-                "+44 20 7836 0111"
-            ],
-            "Architects ": [
-                "Frank Matcham",
-                " Oswald Stoll"
-            ],
-            "Function ": [
-                "Opera House",
-                " Theatre"
-            ],
-            "Upcoming events": []
-        },
-        "Subclub": {
-            "label": "Sub Club",
-            "description": "",
-            "type": "",
-            "People also search for": []
         }
     },
     "summary": {
-        "label": 91,
-        "description": 91,
-        "type": 91,
-        "address": 1,
-        "opened": 1,
-        "phone": 1,
-        "architectural_style": 1,
-        "function": 1,
-        "architecture_firm": 1,
-        "architects": 1,
-        "upcoming_events": 1,
-        "capacity": 1,
-        "hours": 1,
-        "people_also_search_for": 1,
-        "architectural_styles": 1,
-        "recent_posts": 1,
-        "architect": 1,
-        "owners": 1,
-        "see_results_about": 1,
-        "height": 1,
-        "founder": 1,
-        "founded": 1,
-        "team": 1,
-        "tax_id": 1,
-        "assets": 1,
-        "income": 1,
-        "awards": 1,
-        "nominations": 1,
-        "province": 1
+        "label": {
+            "uri": "http://dbpedia.org/property/label",
+            "count": 91
+        },
+        "description": {
+            "uri": "http://fr.dbpedia.org/ontology/abstract",
+            "count": 91
+        },
+        "type": {
+            "uri": "http://dbpedia.org/property/type",
+            "count": 91
+        },
+        "address": {
+            "uri": "http://dbpedia.org/property/address",
+            "count": 70
+        },
+        "opened": {
+            "uri": "http://dbpedia.org/property/opened",
+            "count": 56
+        },
+        "architecturalStyle": {
+            "uri": "http://dbpedia.org/property/architecturalStyle",
+            "count": 10
+        },
+        "capacity": {
+            "uri": "http://dbpedia.org/property/capacity",
+            "count": 18
+        },
+        "architect": {
+            "uri": "http://dbpedia.org/property/architect",
+            "count": 8
+        },
+        "owners": {
+            "uri": "http://dbpedia.org/property/owners",
+            "count": 1
+        },
+        "founded": {
+            "uri": "http://dbpedia.org/property/founded",
+            "count": 4
+        },
+        "height": {
+            "uri": "http://dbpedia.org/property/height",
+            "count": 1
+        },
+        "founder": {
+            "uri": "http://dbpedia.org/property/founder",
+            "count": 3
+        }
     },
     "infoboxless": [
         "Apollo Theatre",
@@ -1604,5 +1623,24 @@
         "SeOne",
         "ARK Theatre Company",
         "Arclight Theatre"
-    ]
+    ],
+    "Unmapped_Properties": {
+        "phone": 1,
+        "function": 1,
+        "architectureFirm": 1,
+        "architects": 1,
+        "upcomingEvents": 1,
+        "hours": 1,
+        "recentPosts": 1,
+        "peopleAlsoSearchFor": 1,
+        "architecturalStyles": 1,
+        "seeResultsAbout": 1,
+        "taxId": 1,
+        "assets": 1,
+        "income": 1,
+        "team": 1,
+        "awards": 1,
+        "nominations": 1,
+        "province": 1
+    }
 }

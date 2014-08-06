@@ -93,21 +93,6 @@
                 "+61 8 8951 1211"
             ]
         },
-        "Artigas Airport": {
-            "label": "Artigas Airport",
-            "description": "Artigas International Airport is the airport serving Artigas, Uruguay. Wikipedia",
-            "type": "",
-            "Address ": [
-                "Artigas",
-                " Uruguay"
-            ],
-            "Elevation ": [
-                "410' (125 m)"
-            ],
-            "Code ": [
-                "ATI"
-            ]
-        },
         "Araxos Airport": {
             "label": "Araxos Airport",
             "description": "Araxos Airport is an international military / civilian airport located near Araxos cape, Achaea, Greece. It serves the city of Patras as well as the western Peloponnese.\nIt is also known as Araxos National Airport. or Agamemnon Airport. Wikipedia",
@@ -121,6 +106,21 @@
             ],
             "Code ": [
                 "GPA"
+            ]
+        },
+        "Artigas Airport": {
+            "label": "Artigas Airport",
+            "description": "Artigas International Airport is the airport serving Artigas, Uruguay. Wikipedia",
+            "type": "",
+            "Address ": [
+                "Artigas",
+                " Uruguay"
+            ],
+            "Elevation ": [
+                "410' (125 m)"
+            ],
+            "Code ": [
+                "ATI"
             ]
         },
         "Arvidsjaur Airport": {
@@ -354,63 +354,6 @@
                 "IME"
             ]
         },
-        "Centennial Airport": {
-            "label": "Centennial Airport",
-            "description": "Centennial Airport is a public use airport in Arapahoe County, Colorado, United States. It is owned by the Arapahoe County Public Airport Authority and located 15 nautical miles southeast of downtown Denver, Colorado. Wikipedia",
-            "type": "",
-            "Address ": [
-                "7800 S Peoria St",
-                " Englewood",
-                " CO 80112",
-                " United States"
-            ],
-            "Code ": [
-                "APA"
-            ],
-            "Elevation ": [
-                "5",
-                "883' (1",
-                "793 m)"
-            ],
-            "Phone ": [
-                "(303) 790-0598"
-            ]
-        },
-        "Cerro Moreno International Airport": {
-            "label": "Cerro Moreno International Airport",
-            "description": "Cerro Moreno International Airport is an airport in Antofagasta, Chile. It is located 10 km north of Antofagasta. In 2011, the airport handled 1,000,000 passengers for the first time in its history. Wikipedia",
-            "type": "",
-            "Address ": [
-                "Tocopilla",
-                " Antofagasta Region",
-                " Chile"
-            ],
-            "Code ": [
-                "ANF"
-            ],
-            "Phone ": [
-                "+56 55269077"
-            ]
-        },
-        "Chiang Mai International Airport": {
-            "label": "Chiang Mai Airport",
-            "description": "Chiang Mai International Airport is an international airport serving Chiang Mai, the capital city of Chiang Mai Province in Thailand. It was established in 1921 as Suthep Airport. Wikipedia",
-            "type": "",
-            "Address ": [
-                "มหิดล อำเภอเมืองเชียงใหม่ จังหวัด เชียงใหม่ 50200",
-                " Thailand"
-            ],
-            "Code ": [
-                "CNX"
-            ],
-            "Elevation ": [
-                "1",
-                "037' (316 m)"
-            ],
-            "Phone ": [
-                "+66 53 922 100"
-            ]
-        },
         "Chicago Midway International Airport": {
             "label": "Chicago Midway International Airport",
             "description": "Chicago Midway International Airport, is in Chicago, Illinois, United States, on the city's southwest side, eight miles from the Loop. Wikipedia",
@@ -428,6 +371,22 @@
             ],
             "Phone ": [
                 "(773) 838-0600"
+            ]
+        },
+        "Cerro Moreno International Airport": {
+            "label": "Cerro Moreno International Airport",
+            "description": "Cerro Moreno International Airport is an airport in Antofagasta, Chile. It is located 10 km north of Antofagasta. In 2011, the airport handled 1,000,000 passengers for the first time in its history. Wikipedia",
+            "type": "",
+            "Address ": [
+                "Tocopilla",
+                " Antofagasta Region",
+                " Chile"
+            ],
+            "Code ": [
+                "ANF"
+            ],
+            "Phone ": [
+                "+56 55269077"
             ]
         },
         "Colonia Airport": {
@@ -450,6 +409,28 @@
             ],
             "See results about": []
         },
+        "Centennial Airport": {
+            "label": "Centennial Airport",
+            "description": "Centennial Airport is a public use airport in Arapahoe County, Colorado, United States. It is owned by the Arapahoe County Public Airport Authority and located 15 nautical miles southeast of downtown Denver, Colorado. Wikipedia",
+            "type": "",
+            "Address ": [
+                "7800 S Peoria St",
+                " Englewood",
+                " CO 80112",
+                " United States"
+            ],
+            "Code ": [
+                "APA"
+            ],
+            "Elevation ": [
+                "5",
+                "883' (1",
+                "793 m)"
+            ],
+            "Phone ": [
+                "(303) 790-0598"
+            ]
+        },
         "Comodoro Arturo Merino Benítez International Airport": {
             "label": "Comodoro Arturo Merino Benítez International Airport",
             "description": "Comodoro Arturo Merino Benítez International Airport, also known as Santiago International Airport and Pudahuel Airport, located in Pudahuel, 15 km north-west of downtown Santiago, is Chile's largest ... Wikipedia",
@@ -468,25 +449,6 @@
             ],
             "Phone ": [
                 "+56 2 2690 1752"
-            ]
-        },
-        "Cork Airport": {
-            "label": "Cork Airport",
-            "description": "Cork Airport is one of the three principal international airports of Ireland, along with Dublin and Shannon. It is located 6.5 km south of Cork city in an area known as Farmers Cross. Wikipedia",
-            "type": "",
-            "Address ": [
-                "Kinsale Road",
-                " Cork",
-                " Ireland"
-            ],
-            "Code ": [
-                "ORK"
-            ],
-            "Elevation ": [
-                "502' (153 m)"
-            ],
-            "Phone ": [
-                "+353 21 431 3131"
             ]
         },
         "Copernicus Airport Wrocław": {
@@ -523,6 +485,25 @@
                 "+49 211 4210"
             ]
         },
+        "Cork Airport": {
+            "label": "Cork Airport",
+            "description": "Cork Airport is one of the three principal international airports of Ireland, along with Dublin and Shannon. It is located 6.5 km south of Cork city in an area known as Farmers Cross. Wikipedia",
+            "type": "",
+            "Address ": [
+                "Kinsale Road",
+                " Cork",
+                " Ireland"
+            ],
+            "Code ": [
+                "ORK"
+            ],
+            "Elevation ": [
+                "502' (153 m)"
+            ],
+            "Phone ": [
+                "+353 21 431 3131"
+            ]
+        },
         "Denver International Airport": {
             "label": "Denver International Airport",
             "description": "Denver International Airport, often referred to as DIA, is an airport in Denver, Colorado. At 54 square miles it is the largest airport in the United States by total area. Runway 16R/34L is the longest public use runway in the United States. Wikipedia",
@@ -546,25 +527,6 @@
             ],
             "Hours ": [
                 "(303) 342-2000"
-            ]
-        },
-        "Domodedovo International Airport": {
-            "label": "Domodedovo International Airport",
-            "description": "Moscow Domodedovo Airport or Domodedovo International Airport is an international airport located on the territory of Domodedovo, Moscow Oblast, Russia, 42 kilometres south-southeast from the centre of Moscow. Wikipedia",
-            "type": "",
-            "Address ": [
-                "Domodedovsky District",
-                " Moskovskaya oblast",
-                " Russia"
-            ],
-            "Code ": [
-                "DME"
-            ],
-            "Elevation ": [
-                "587' (179 m)"
-            ],
-            "Hours ": [
-                "+7 495 933-66-66"
             ]
         },
         "Edinburgh Airport": {
@@ -655,20 +617,23 @@
                 "125' (38 m)"
             ]
         },
-        "Ganja International Airport": {
-            "label": "Ganja International Airport",
-            "description": "Ganja International Airport is an airport serving Ganja, the second-largest city in Azerbaijan.\nIt is also used by the Azerbaijani Air and Air Defence Force and was previously used by the Soviet Air Force. Wikipedia",
+        "Chiang Mai International Airport": {
+            "label": "Chiang Mai Airport",
+            "description": "Chiang Mai International Airport is an international airport serving Chiang Mai, the capital city of Chiang Mai Province in Thailand. It was established in 1921 as Suthep Airport. Wikipedia",
             "type": "",
             "Address ": [
-                "Ganja AZ 2000",
-                " Azerbaijan"
+                "มหิดล อำเภอเมืองเชียงใหม่ จังหวัด เชียงใหม่ 50200",
+                " Thailand"
+            ],
+            "Code ": [
+                "CNX"
             ],
             "Elevation ": [
                 "1",
-                "083' (330 m)"
+                "037' (316 m)"
             ],
-            "Code ": [
-                "KVD"
+            "Phone ": [
+                "+66 53 922 100"
             ]
         },
         "Gdańsk Lech Wałęsa Airport": {
@@ -690,24 +655,23 @@
                 "+48 52 567 35 31"
             ]
         },
-        "Glasgow Prestwick Airport": {
-            "label": "Glasgow Prestwick Airport",
-            "description": "Glasgow Prestwick Airport is Glasgow's second airport, it also serves the Greater Glasgow urban area, situated 1 NM Northeast of the town of Prestwick in South Ayrshire and 32 mi from the city centre of Glasgow. Wikipedia",
+        "Domodedovo International Airport": {
+            "label": "Domodedovo International Airport",
+            "description": "Moscow Domodedovo Airport or Domodedovo International Airport is an international airport located on the territory of Domodedovo, Moscow Oblast, Russia, 42 kilometres south-southeast from the centre of Moscow. Wikipedia",
             "type": "",
             "Address ": [
-                "Aviation House",
-                " Prestwick",
-                " South Ayrshire KA9 2PL",
-                " United Kingdom"
+                "Domodedovsky District",
+                " Moskovskaya oblast",
+                " Russia"
             ],
             "Code ": [
-                "PIK"
+                "DME"
             ],
             "Elevation ": [
-                "66' (20 m)"
+                "587' (179 m)"
             ],
-            "Phone ": [
-                "+44 871 223 0700"
+            "Hours ": [
+                "+7 495 933-66-66"
             ]
         },
         "Greater Moncton International Airport": {
@@ -733,6 +697,33 @@
                 "New Brunswick"
             ]
         },
+        "Hatzerim Airbase": {
+            "label": "Hatzerim Airbase",
+            "description": "Hatzerim Israeli Air Force Base is an air base of the Israeli Air Force in the Negev Desert on the west outskirts of Beersheba, near Kibbutz Hatzerim. Wikipedia",
+            "type": "",
+            "Address ": [
+                "Israel"
+            ],
+            "Elevation ": [
+                "722' (220 m)"
+            ]
+        },
+        "Ganja International Airport": {
+            "label": "Ganja International Airport",
+            "description": "Ganja International Airport is an airport serving Ganja, the second-largest city in Azerbaijan.\nIt is also used by the Azerbaijani Air and Air Defence Force and was previously used by the Soviet Air Force. Wikipedia",
+            "type": "",
+            "Address ": [
+                "Ganja AZ 2000",
+                " Azerbaijan"
+            ],
+            "Elevation ": [
+                "1",
+                "083' (330 m)"
+            ],
+            "Code ": [
+                "KVD"
+            ]
+        },
         "Hat Yai International Airport": {
             "label": "Hat Yai Airport",
             "description": "Hat Yai International Airport is the major southern hub airport in Thailand, located near the city of Hat Yai. It is under the management of Airports of Thailand, PCL. It is also an important airport for Muslims on the pilgrimage to Mecca. Wikipedia",
@@ -754,17 +745,6 @@
                 "+66 74 227 131"
             ]
         },
-        "Hatzerim Airbase": {
-            "label": "Hatzerim Airbase",
-            "description": "Hatzerim Israeli Air Force Base is an air base of the Israeli Air Force in the Negev Desert on the west outskirts of Beersheba, near Kibbutz Hatzerim. Wikipedia",
-            "type": "",
-            "Address ": [
-                "Israel"
-            ],
-            "Elevation ": [
-                "722' (220 m)"
-            ]
-        },
         "Heraklion International Airport": {
             "label": "Heraklion International Airport",
             "description": "Heraklion International Airport, “Nikos Kazantzakis” is the primary airport on the island of Crete, Greece, and the country’s second busiest airport after Athens International Airport. Wikipedia",
@@ -781,6 +761,21 @@
             ],
             "Phone ": [
                 "+30 281 039 7129"
+            ]
+        },
+        "Heringsdorf Airport": {
+            "label": "Heringsdorf Airport",
+            "description": "Heringsdorf Airport, a former East German airbase, is a regional airport located near Garz on the island of Usedom in Germany. It takes its name from the nearby municipality of Heringsdorf, located some 10 km to the north. Wikipedia",
+            "type": "",
+            "Address ": "Am Flughafen 1, 17419 Zirchow, Germany",
+            "Elevation ": [
+                "92' (28 m)"
+            ],
+            "Code ": [
+                "HDF"
+            ],
+            "Phone ": [
+                "+49 38376 2500"
             ]
         },
         "Hobart International Airport": {
@@ -800,21 +795,6 @@
             ],
             "Phone ": [
                 "+61 3 6216 1600"
-            ]
-        },
-        "Heringsdorf Airport": {
-            "label": "Heringsdorf Airport",
-            "description": "Heringsdorf Airport, a former East German airbase, is a regional airport located near Garz on the island of Usedom in Germany. It takes its name from the nearby municipality of Heringsdorf, located some 10 km to the north. Wikipedia",
-            "type": "",
-            "Address ": "Am Flughafen 1, 17419 Zirchow, Germany",
-            "Elevation ": [
-                "92' (28 m)"
-            ],
-            "Code ": [
-                "HDF"
-            ],
-            "Phone ": [
-                "+49 38376 2500"
             ]
         },
         "Hof-Plauen Airport": {
@@ -854,6 +834,17 @@
                 "(808) 836-6411"
             ]
         },
+        "Hradčany Airport": {
+            "label": "Hradčany Airport",
+            "description": "Hradčany Airport is a former military airport within the area of Ralsko in Liberec Region, northern Czech Republic. Built toward the end of World War II for the Luftwaffe, it was expanded after the war. Wikipedia",
+            "type": "",
+            "Address ": [
+                "Czech Republic"
+            ],
+            "Elevation ": [
+                "912' (278 m)"
+            ]
+        },
         "Indira Gandhi International Airport": {
             "label": "Indira Gandhi International Airport",
             "description": "Indira Gandhi International Airport is the primary international airport of the National Capital Region of Delhi, India, situated in Palam, 15 km south-west of the New Delhi railway station or 16 km from New Delhi city centre. Wikipedia",
@@ -873,15 +864,24 @@
                 "+91 124 337 6000"
             ]
         },
-        "Hradčany Airport": {
-            "label": "Hradčany Airport",
-            "description": "Hradčany Airport is a former military airport within the area of Ralsko in Liberec Region, northern Czech Republic. Built toward the end of World War II for the Luftwaffe, it was expanded after the war. Wikipedia",
+        "Glasgow Prestwick Airport": {
+            "label": "Glasgow Prestwick Airport",
+            "description": "Glasgow Prestwick Airport is Glasgow's second airport, it also serves the Greater Glasgow urban area, situated 1 NM Northeast of the town of Prestwick in South Ayrshire and 32 mi from the city centre of Glasgow. Wikipedia",
             "type": "",
             "Address ": [
-                "Czech Republic"
+                "Aviation House",
+                " Prestwick",
+                " South Ayrshire KA9 2PL",
+                " United Kingdom"
+            ],
+            "Code ": [
+                "PIK"
             ],
             "Elevation ": [
-                "912' (278 m)"
+                "66' (20 m)"
+            ],
+            "Phone ": [
+                "+44 871 223 0700"
             ]
         },
         "Innsbruck Airport": {
@@ -900,40 +900,6 @@
                 "+43 512 225250"
             ]
         },
-        "José Martí International Airport": {
-            "label": "José Martí International Airport",
-            "description": "José Martí International Airport, sometimes known by its former name Rancho-Boyeros Airport, is located 15 km southwest of Havana, Cuba, and is a hub for Cubana de Aviación, Aerogaviota and Aero ... Wikipedia",
-            "type": "",
-            "Address ": [
-                "Avenida Rancho Boyeros",
-                " Havana",
-                " Cuba"
-            ],
-            "Code ": [
-                "HAV"
-            ],
-            "Elevation ": [
-                "210' (64 m)"
-            ],
-            "Phone ": [
-                "+53 7 2664644"
-            ]
-        },
-        "Jinnah International Airport": {
-            "label": "Jinnah International Airport",
-            "description": "Jinnah International Airport is Pakistan's largest international and domestic airport. Located in Karachi, it is named after Muhammad Ali Jinnah, the founder of Pakistan. Wikipedia",
-            "type": "",
-            "Address ": [
-                "Karachi",
-                " Pakistan"
-            ],
-            "Code ": [
-                "KHI"
-            ],
-            "Elevation ": [
-                "98' (30 m)"
-            ]
-        },
         "Jerez Airport": {
             "label": "Jerez Airport",
             "description": "Jerez Airport, also known as La Parra Airport, is an airport located 8 km northeast of Jerez de la Frontera in Southern Spain, about 50 mi from Sevilla and 28.1 mi from Cadiz. Wikipedia",
@@ -949,44 +915,19 @@
                 "+34 956 15 00 00"
             ]
         },
-        "Karlovy Vary Airport": {
-            "label": "Karlovy Vary Airport",
-            "description": "Karlovy Vary Airport is the airport of Karlovy Vary in western Bohemia. It is located in the village of Olšová Vrata, 6 km southeast of the city centre and is the fourth busiest airport in the Czech Republic. Wikipedia",
+        "Jinnah International Airport": {
+            "label": "Jinnah International Airport",
+            "description": "Jinnah International Airport is Pakistan's largest international and domestic airport. Located in Karachi, it is named after Muhammad Ali Jinnah, the founder of Pakistan. Wikipedia",
             "type": "",
             "Address ": [
-                "K Letišti 132",
-                " Karlovy Vary",
-                " 360 01",
-                " Czech Republic"
-            ],
-            "Elevation ": [
-                "1",
-                "988' (606 m)"
+                "Karachi",
+                " Pakistan"
             ],
             "Code ": [
-                "KLV"
-            ],
-            "Phone ": [
-                "+420 353 360 611"
-            ]
-        },
-        "Keflavík International Airport": {
-            "label": "Keflavík International Airport",
-            "description": "Keflavík International Airport, also known as Reykjavík-Keflavík Airport, is the largest airport in Iceland and the country’s main hub for international transportation. It is situated 1.7 NM west of Keflavík and 50 km south-west of Reykjavík. Wikipedia",
-            "type": "",
-            "Address ": [
-                "Southern Peninsula",
-                " 235",
-                " Iceland"
-            ],
-            "Code ": [
-                "KEF"
+                "KHI"
             ],
             "Elevation ": [
-                "171' (52 m)"
-            ],
-            "Phone ": [
-                "+354 425 6000"
+                "98' (30 m)"
             ]
         },
         "Jomo Kenyatta International Airport": {
@@ -1008,6 +949,65 @@
             ],
             "Phone ": [
                 "+254 20 822111"
+            ]
+        },
+        "José Martí International Airport": {
+            "label": "José Martí International Airport",
+            "description": "José Martí International Airport, sometimes known by its former name Rancho-Boyeros Airport, is located 15 km southwest of Havana, Cuba, and is a hub for Cubana de Aviación, Aerogaviota and Aero ... Wikipedia",
+            "type": "",
+            "Address ": [
+                "Avenida Rancho Boyeros",
+                " Havana",
+                " Cuba"
+            ],
+            "Code ": [
+                "HAV"
+            ],
+            "Elevation ": [
+                "210' (64 m)"
+            ],
+            "Phone ": [
+                "+53 7 2664644"
+            ]
+        },
+        "Keflavík International Airport": {
+            "label": "Keflavík International Airport",
+            "description": "Keflavík International Airport, also known as Reykjavík-Keflavík Airport, is the largest airport in Iceland and the country’s main hub for international transportation. It is situated 1.7 NM west of Keflavík and 50 km south-west of Reykjavík. Wikipedia",
+            "type": "",
+            "Address ": [
+                "Southern Peninsula",
+                " 235",
+                " Iceland"
+            ],
+            "Code ": [
+                "KEF"
+            ],
+            "Elevation ": [
+                "171' (52 m)"
+            ],
+            "Phone ": [
+                "+354 425 6000"
+            ]
+        },
+        "Karlovy Vary Airport": {
+            "label": "Karlovy Vary Airport",
+            "description": "Karlovy Vary Airport is the airport of Karlovy Vary in western Bohemia. It is located in the village of Olšová Vrata, 6 km southeast of the city centre and is the fourth busiest airport in the Czech Republic. Wikipedia",
+            "type": "",
+            "Address ": [
+                "K Letišti 132",
+                " Karlovy Vary",
+                " 360 01",
+                " Czech Republic"
+            ],
+            "Elevation ": [
+                "1",
+                "988' (606 m)"
+            ],
+            "Code ": [
+                "KLV"
+            ],
+            "Phone ": [
+                "+420 353 360 611"
             ]
         },
         "Khrabrovo Airport": {
@@ -1110,6 +1110,19 @@
                 "+7 343 226-85-82"
             ]
         },
+        "Landsberg-Lech Air Base": {
+            "label": "Landsberg-Lech Air Base",
+            "description": "Landsberg-Lech Air Base is a German Air Force base located near the town of Landsberg am Lech in Bavaria.\nLandsberg is used as a transport base. It is home of the Air Transport Wing 61. Wikipedia",
+            "type": "",
+            "Address ": [
+                "Germany"
+            ],
+            "Elevation ": [
+                "6",
+                "706' (2",
+                "044 m)"
+            ]
+        },
         "Leonardo da Vinci-Fiumicino Airport": {
             "label": "Leonardo da Vinci–Fiumicino Airport",
             "description": "Fiumicino – Leonardo da Vinci International Airport or Rome Fiumicino Airport, also simply known as Fiumicino Airport, is Italy's largest airport with 37.7 million passengers served in 2011. Wikipedia",
@@ -1123,19 +1136,6 @@
             ],
             "Phone ": [
                 "+39 06 65951"
-            ]
-        },
-        "Landsberg-Lech Air Base": {
-            "label": "Landsberg-Lech Air Base",
-            "description": "Landsberg-Lech Air Base is a German Air Force base located near the town of Landsberg am Lech in Bavaria.\nLandsberg is used as a transport base. It is home of the Air Transport Wing 61. Wikipedia",
-            "type": "",
-            "Address ": [
-                "Germany"
-            ],
-            "Elevation ": [
-                "6",
-                "706' (2",
-                "044 m)"
             ]
         },
         "Lihue Airport": {
@@ -1234,26 +1234,6 @@
                 "+352 24 640"
             ]
         },
-        "Miami International Airport": {
-            "label": "Miami International Airport",
-            "description": "Miami International Airport, also known as MIA and historically Wilcox Field, is the primary airport serving the South Florida area. Wikipedia",
-            "type": "",
-            "Address ": [
-                "2100 NW 42nd Ave",
-                " Miami",
-                " FL 33126",
-                " United States"
-            ],
-            "Code ": [
-                "MIA"
-            ],
-            "Elevation ": [
-                "7' 10\" (2.40 m)"
-            ],
-            "Phone ": [
-                "(305) 876-7000"
-            ]
-        },
         "Memphis International Airport": {
             "label": "Memphis International Airport",
             "description": "Memphis International Airport is a civil-military airport seven miles southeast of downtown Memphis, in Shelby County, Tennessee.\nMemphis International Airport is home to the FedEx Express global \"SuperHub,\" which processes many of their packages. Wikipedia",
@@ -1294,6 +1274,26 @@
                 "+1 787-840-3151"
             ]
         },
+        "Miami International Airport": {
+            "label": "Miami International Airport",
+            "description": "Miami International Airport, also known as MIA and historically Wilcox Field, is the primary airport serving the South Florida area. Wikipedia",
+            "type": "",
+            "Address ": [
+                "2100 NW 42nd Ave",
+                " Miami",
+                " FL 33126",
+                " United States"
+            ],
+            "Code ": [
+                "MIA"
+            ],
+            "Elevation ": [
+                "7' 10\" (2.40 m)"
+            ],
+            "Phone ": [
+                "(305) 876-7000"
+            ]
+        },
         "Nice Côte d'Azur Airport": {
             "label": "Nice Côte d'Azur International Airport",
             "description": "Nice Côte d'Azur Airport is an international airport located 3.2 NM southwest of Nice, in the Alpes-Maritimes départment of France. Wikipedia",
@@ -1317,16 +1317,19 @@
             ],
             "Recent posts": []
         },
-        "Nueva Hesperides International Airport": {
-            "label": "Salto Airport",
-            "description": "Nueva Hespérides International Airport is the airport serving Salto, Uruguay. Wikipedia",
+        "Nordholz Naval Airbase": {
+            "label": "Nordholz Airport",
+            "description": "Nordholz Naval Airbase is a German Naval Air base located near the town of Nordholz in Lower Saxony, 25 km north of Bremerhaven, and 12 km southwest of Cuxhaven. Wikipedia",
             "type": "",
-            "Address ": [
-                "Salto",
-                " Uruguay"
+            "Address ": "Walter-Carstens-Str. 1, 27637 Nordholz, Germany",
+            "Elevation ": [
+                "243' (74 m)"
             ],
             "Code ": [
-                "STY"
+                "FCN"
+            ],
+            "Phone ": [
+                "+49 4741 18180"
             ]
         },
         "Phu Cat Airport": {
@@ -1345,19 +1348,36 @@
             ],
             "See results about": []
         },
-        "Nordholz Naval Airbase": {
-            "label": "Nordholz Airport",
-            "description": "Nordholz Naval Airbase is a German Naval Air base located near the town of Nordholz in Lower Saxony, 25 km north of Bremerhaven, and 12 km southwest of Cuxhaven. Wikipedia",
+        "Nueva Hesperides International Airport": {
+            "label": "Salto Airport",
+            "description": "Nueva Hespérides International Airport is the airport serving Salto, Uruguay. Wikipedia",
             "type": "",
-            "Address ": "Walter-Carstens-Str. 1, 27637 Nordholz, Germany",
-            "Elevation ": [
-                "243' (74 m)"
+            "Address ": [
+                "Salto",
+                " Uruguay"
             ],
             "Code ": [
-                "FCN"
+                "STY"
+            ]
+        },
+        "Pokhara Airport": {
+            "label": "Pokhara Airport",
+            "description": "Pokhara Airport, is a regional airport serving Pokhara in Nepal. The airport was established on 4 July 1958 and is operated by the government. It offers regular connections to Kathmandu and Jomsom; and seasonal connections to Manang. Wikipedia",
+            "type": "",
+            "Address ": [
+                "Nagdhunga",
+                " Pokhara 33700",
+                " Nepal"
+            ],
+            "Code ": [
+                "PKR"
+            ],
+            "Elevation ": [
+                "2",
+                "713' (827 m)"
             ],
             "Phone ": [
-                "+49 4741 18180"
+                "+977 61-465979"
             ]
         },
         "Princess Juliana International Airport": {
@@ -1399,26 +1419,6 @@
                 "+7 812 337-38-22"
             ]
         },
-        "Pokhara Airport": {
-            "label": "Pokhara Airport",
-            "description": "Pokhara Airport, is a regional airport serving Pokhara in Nepal. The airport was established on 4 July 1958 and is operated by the government. It offers regular connections to Kathmandu and Jomsom; and seasonal connections to Manang. Wikipedia",
-            "type": "",
-            "Address ": [
-                "Nagdhunga",
-                " Pokhara 33700",
-                " Nepal"
-            ],
-            "Code ": [
-                "PKR"
-            ],
-            "Elevation ": [
-                "2",
-                "713' (827 m)"
-            ],
-            "Phone ": [
-                "+977 61-465979"
-            ]
-        },
         "Queenstown Airport": {
             "label": "Queenstown Airport",
             "description": "Queenstown Airport is located in Frankton, Otago, New Zealand, and serves the resort town of Queenstown.The airport is 8 km by road from the CBD. Wikipedia",
@@ -1450,6 +1450,27 @@
                 "EDG"
             ]
         },
+        "RAF Kenley": {
+            "label": "RAF Kenley",
+            "description": "The former Royal Air Force Station Kenley, more commonly known as RAF Kenley was a station of the Royal Flying Corps in World War I and the RAF in World War II. It is located near Kenley, London, England. Wikipedia",
+            "type": "",
+            "People also search for": []
+        },
+        "Rome Ciampino Airport": {
+            "label": "Ciampino–G. B. Pastine International Airport",
+            "description": "Ciampino–G. B. Pastine International Airport or simply Rome Ciampino Airport, is a joint civilian, commercial and military airport near Rome in Italy. Wikipedia",
+            "type": "",
+            "Address ": "Via Appia Nuova, 1651, 00040 Ciampino Roma, Italy",
+            "Code ": [
+                "CIA"
+            ],
+            "Elevation ": [
+                "427' (130 m)"
+            ],
+            "Phone ": [
+                "+39 06 65951"
+            ]
+        },
         "Saarbrücken Airport": {
             "label": "Saarbrücken Airport",
             "description": "Saarbrücken Airport, or Flughafen Saarbrücken or Ensheim Airport in German, is a minor international airport in Saarbrücken, the capital of the German state of Saarland. Wikipedia",
@@ -1469,12 +1490,6 @@
             "Phone ": [
                 "+49 6893 830"
             ]
-        },
-        "RAF Kenley": {
-            "label": "RAF Kenley",
-            "description": "The former Royal Air Force Station Kenley, more commonly known as RAF Kenley was a station of the Royal Flying Corps in World War I and the RAF in World War II. It is located near Kenley, London, England. Wikipedia",
-            "type": "",
-            "People also search for": []
         },
         "Samui Airport": {
             "label": "Samui Airport",
@@ -1513,21 +1528,6 @@
                 "(619) 400-2404"
             ]
         },
-        "Rome Ciampino Airport": {
-            "label": "Ciampino–G. B. Pastine International Airport",
-            "description": "Ciampino–G. B. Pastine International Airport or simply Rome Ciampino Airport, is a joint civilian, commercial and military airport near Rome in Italy. Wikipedia",
-            "type": "",
-            "Address ": "Via Appia Nuova, 1651, 00040 Ciampino Roma, Italy",
-            "Code ": [
-                "CIA"
-            ],
-            "Elevation ": [
-                "427' (130 m)"
-            ],
-            "Phone ": [
-                "+39 06 65951"
-            ]
-        },
         "San Francisco International Airport": {
             "label": "San Francisco International Airport",
             "description": "San Francisco International Airport is an international airport located 13 miles south of downtown San Francisco, California, near Millbrae and San Bruno in unincorporated San Mateo County. Wikipedia",
@@ -1547,6 +1547,26 @@
                 "(650) 821-8211"
             ],
             "See results about": []
+        },
+        "San Jose International Airport": {
+            "label": "San Jose International Airport",
+            "description": "Norman Y. Mineta San Jose International Airport is a city-owned public airport in San Jose, Santa Clara County, California. Wikipedia",
+            "type": "",
+            "Address ": [
+                "1701 Airport Blvd",
+                " San Jose",
+                " CA 95110",
+                " United States"
+            ],
+            "Code ": [
+                "SJC"
+            ],
+            "Elevation ": [
+                "62' (19 m)"
+            ],
+            "Hours ": [
+                "(408) 392-3600"
+            ]
         },
         "Sanikiluaq Airport": {
             "label": "Sanikiluaq Airport",
@@ -1588,26 +1608,6 @@
                 "+34 913 21 10 00"
             ]
         },
-        "San Jose International Airport": {
-            "label": "San Jose International Airport",
-            "description": "Norman Y. Mineta San Jose International Airport is a city-owned public airport in San Jose, Santa Clara County, California. Wikipedia",
-            "type": "",
-            "Address ": [
-                "1701 Airport Blvd",
-                " San Jose",
-                " CA 95110",
-                " United States"
-            ],
-            "Code ": [
-                "SJC"
-            ],
-            "Elevation ": [
-                "62' (19 m)"
-            ],
-            "Hours ": [
-                "(408) 392-3600"
-            ]
-        },
         "Sde Dov Airport": {
             "label": "Sde Dov Airport",
             "description": "Sde Dov Airport, also known as Dov Hoz Airport is an airport located in Tel Aviv, Israel which mainly handles scheduled domestic flights to Eilat, northern Israel, and the Golan Heights. Wikipedia",
@@ -1644,6 +1644,22 @@
                 "13' 1\" (4.00 m)"
             ],
             "See results about": []
+        },
+        "Siegerland Airport": {
+            "label": "Siegerland Airport",
+            "description": "Siegerland Airport or Siegerlandflughafen in German is a small regional airport in Burbach in the Siegerland region near Siegen, Germany. Wikipedia",
+            "type": "",
+            "Address ": "Flughafenstraße 8, 57299 Burbach, Germany",
+            "Elevation ": [
+                "1",
+                "965' (599 m)"
+            ],
+            "Code ": [
+                "SGE"
+            ],
+            "Phone ": [
+                "+49 2736 4140"
+            ]
         },
         "Sir Seretse Khama International Airport": {
             "label": "Sir Seretse Khama International Airport",
@@ -1705,6 +1721,26 @@
                 "+34 902 40 47 04"
             ]
         },
+        "Tenerife South Airport": {
+            "label": "Reina Sofía Airport",
+            "description": "Tenerife South Airport, previously known as Tenerife South-Reina Sofia Airport, is one of two international airports located on the island of Tenerife, the largest of the Canary Islands. The airport is the busier of the two Tenerife airports. Wikipedia",
+            "type": "",
+            "Address ": [
+                "Granadilla de Abona",
+                " 38610",
+                " Santa Cruz de Tenerife",
+                " Spain"
+            ],
+            "Code ": [
+                "TFS"
+            ],
+            "Elevation ": [
+                "210' (64 m)"
+            ],
+            "Phone ": [
+                "+34 913 21 10 00"
+            ]
+        },
         "Thessaloniki International Airport": {
             "label": "Thessaloniki International Airport",
             "description": "Thessaloniki International Airport \"Macedonia\", formerly known as Mikra Airport and officially known as Macedonia International Airport, is located about 15 km SE of the city center of Thessaloniki, Greece at Thermi. Wikipedia",
@@ -1729,42 +1765,6 @@
                 "+30 231 098 5000"
             ]
         },
-        "Tenerife South Airport": {
-            "label": "Reina Sofía Airport",
-            "description": "Tenerife South Airport, previously known as Tenerife South-Reina Sofia Airport, is one of two international airports located on the island of Tenerife, the largest of the Canary Islands. The airport is the busier of the two Tenerife airports. Wikipedia",
-            "type": "",
-            "Address ": [
-                "Granadilla de Abona",
-                " 38610",
-                " Santa Cruz de Tenerife",
-                " Spain"
-            ],
-            "Code ": [
-                "TFS"
-            ],
-            "Elevation ": [
-                "210' (64 m)"
-            ],
-            "Phone ": [
-                "+34 913 21 10 00"
-            ]
-        },
-        "Siegerland Airport": {
-            "label": "Siegerland Airport",
-            "description": "Siegerland Airport or Siegerlandflughafen in German is a small regional airport in Burbach in the Siegerland region near Siegen, Germany. Wikipedia",
-            "type": "",
-            "Address ": "Flughafenstraße 8, 57299 Burbach, Germany",
-            "Elevation ": [
-                "1",
-                "965' (599 m)"
-            ],
-            "Code ": [
-                "SGE"
-            ],
-            "Phone ": [
-                "+49 2736 4140"
-            ]
-        },
         "Tocumen International Airport": {
             "label": "Tocumen International Airport",
             "description": "Tocumen International Airport is an international airport located 24 km from Panama City, Panama. In 2006, it underwent a major expansion and renovation program in order to modernize and improve its facilities. Wikipedia",
@@ -1786,21 +1786,41 @@
         }
     },
     "summary": {
-        "label": 99,
-        "description": 99,
-        "type": 99,
-        "address": 1,
-        "code": 1,
-        "elevation": 1,
-        "phone": 1,
-        "see_results_about": 1,
-        "hours": 1,
-        "area": 1,
-        "recent_posts": 1,
-        "province": 1,
-        "people_also_search_for": 1
+        "label": {
+            "uri": "http://dbpedia.org/property/label",
+            "count": 99
+        },
+        "description": {
+            "uri": "http://fr.dbpedia.org/ontology/abstract",
+            "count": 99
+        },
+        "type": {
+            "uri": "http://dbpedia.org/ontology/type",
+            "count": 99
+        },
+        "address": {
+            "uri": "http://dbpedia.org/property/address",
+            "count": 96
+        },
+        "elevation": {
+            "uri": "http://dbpedia.org/property/elevation",
+            "count": 94
+        },
+        "area": {
+            "uri": "http://dbpedia.org/property/area",
+            "count": 3
+        }
     },
     "infoboxless": [
         "Loring Air Force Base"
-    ]
+    ],
+    "Unmapped_Properties": {
+        "code": 1,
+        "phone": 1,
+        "seeResultsAbout": 1,
+        "hours": 1,
+        "recentPosts": 1,
+        "province": 1,
+        "peopleAlsoSearchFor": 1
+    }
 }

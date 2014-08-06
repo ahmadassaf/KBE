@@ -1,22 +1,5 @@
 {
     "instances": {
-        "Memento Park": {
-            "label": "Memento Park",
-            "description": "Memento Park is an open air museum in Budapest, dedicated to monumental statues from Hungary's Communist period. There are statues of Lenin, Marx, and Engels, and several Hungarian Communist leaders. Wikipedia",
-            "type": "Museum in Budapest, Hungary",
-            "Address ": [
-                "1223 Budapest",
-                " Balatoni út - Szabadkai utca sarok",
-                " Hungary"
-            ],
-            "Hours ": [
-                "+36 1 424 7500"
-            ],
-            "Phone ": [
-                "Museum"
-            ],
-            "People also search for": []
-        },
         "Englischer Garten": {
             "label": "Englischer Garten",
             "description": "The Englischer Garten, German for \"English Garden\", is a large public park in the centre of Munich, Bavaria, stretching from the city centre to the northeastern city limits. Wikipedia",
@@ -37,25 +20,28 @@
             ],
             "People also search for": []
         },
+        "Memento Park": {
+            "label": "Memento Park",
+            "description": "Memento Park is an open air museum in Budapest, dedicated to monumental statues from Hungary's Communist period. There are statues of Lenin, Marx, and Engels, and several Hungarian Communist leaders. Wikipedia",
+            "type": "Museum in Budapest, Hungary",
+            "Address ": [
+                "1223 Budapest",
+                " Balatoni út - Szabadkai utca sarok",
+                " Hungary"
+            ],
+            "Hours ": [
+                "+36 1 424 7500"
+            ],
+            "Phone ": [
+                "Museum"
+            ],
+            "People also search for": []
+        },
         "Ouse Washes": {
             "label": "RSPB - Ouse Washes",
             "description": "",
             "type": "",
             "See results about": []
-        },
-        "Kurpark, Wiesbaden": {
-            "label": "Kurpark, Wiesbaden",
-            "description": "The Kurpark, German for \"Spa Park\", is a public park in the centre of Wiesbaden, Germany, stretching from the Wilhelmstraße to the southern borders of the district of Sonneberg and lying immediately behind the Kurhaus convention center. Wikipedia",
-            "type": ""
-        },
-        "Sierra de Huétor": {
-            "label": "Sierra de Huétor",
-            "description": "The Sierra de Huétor is a mountain range of the Baetic System in Granada Province, Andalusia, Spain.\nThe range is located to the northeast of Granada city. Wikipedia",
-            "type": "",
-            "Address ": "Ctra. de Víznar a Puerto Lobo, Km.43, 18071 Víznar, Granada, Granada, Spain",
-            "Province ": [
-                "Province of Granada"
-            ]
         },
         "National Botanic Gardens (Ireland)": {
             "label": "National Botanic Gardens",
@@ -82,28 +68,25 @@
             ],
             "People also search for": []
         },
+        "Sierra de Huétor": {
+            "label": "Sierra de Huétor",
+            "description": "The Sierra de Huétor is a mountain range of the Baetic System in Granada Province, Andalusia, Spain.\nThe range is located to the northeast of Granada city. Wikipedia",
+            "type": "",
+            "Address ": "Ctra. de Víznar a Puerto Lobo, Km.43, 18071 Víznar, Granada, Granada, Spain",
+            "Province ": [
+                "Province of Granada"
+            ]
+        },
         "Warmer Damm": {
             "label": "Warmer Damm",
             "description": "The Warmer Damm is a public park in the centre of Wiesbaden, Germany, stretching from the Wilhelmstraße to the southern borders of the Kurpark and lying immediately in front of the Hessian State Theater. Wikipedia",
             "type": "",
             "Address ": "Aukammallee 5, 65191 Wiesbaden, Germany"
         },
-        "Green Park": {
-            "label": "Green Park",
-            "description": "Green Park is a park in the City of Westminster, central London. One of the Royal Parks of London, it covers 19 hectares between Hyde Park and St. James's Park. Wikipedia",
-            "type": "",
-            "Address ": [
-                "City of Westminster",
-                " Greater London",
-                " United Kingdom"
-            ],
-            "Phone ": [
-                "+44 300 061 2350"
-            ],
-            "Management ": [
-                "The Royal Parks"
-            ],
-            "See results about": []
+        "Kurpark, Wiesbaden": {
+            "label": "Kurpark, Wiesbaden",
+            "description": "The Kurpark, German for \"Spa Park\", is a public park in the centre of Wiesbaden, Germany, stretching from the Wilhelmstraße to the southern borders of the district of Sonneberg and lying immediately behind the Kurhaus convention center. Wikipedia",
+            "type": ""
         },
         "Bushy Park": {
             "label": "Bushy Park",
@@ -123,15 +106,22 @@
             ],
             "People also search for": []
         },
-        "Parc de la Ciutadella": {
-            "label": "Parc de la Ciutadella",
-            "description": "The Parc de la Ciutadella is a park in Ciutat Vella, Barcelona, Catalonia. After its establishment during the mid-19th century, it was for decades the only green area in the city, and hitherto of the most popular. Wikipedia",
+        "Green Park": {
+            "label": "Green Park",
+            "description": "Green Park is a park in the City of Westminster, central London. One of the Royal Parks of London, it covers 19 hectares between Hyde Park and St. James's Park. Wikipedia",
             "type": "",
-            "Address ": "Passeig de Picasso, 21, 08003 Barcelona, Spain",
-            "Phone ": [
-                "+34 638 23 71 15"
+            "Address ": [
+                "City of Westminster",
+                " Greater London",
+                " United Kingdom"
             ],
-            "People also search for": []
+            "Phone ": [
+                "+44 300 061 2350"
+            ],
+            "Management ": [
+                "The Royal Parks"
+            ],
+            "See results about": []
         },
         "Mushrif Park": {
             "label": "Mushrif Park",
@@ -142,6 +132,40 @@
             ],
             "Phone ": [
                 "+971 4 288 3624"
+            ],
+            "People also search for": []
+        },
+        "Parc de la Ciutadella": {
+            "label": "Parc de la Ciutadella",
+            "description": "The Parc de la Ciutadella is a park in Ciutat Vella, Barcelona, Catalonia. After its establishment during the mid-19th century, it was for decades the only green area in the city, and hitherto of the most popular. Wikipedia",
+            "type": "",
+            "Address ": "Passeig de Picasso, 21, 08003 Barcelona, Spain",
+            "Phone ": [
+                "+34 638 23 71 15"
+            ],
+            "People also search for": []
+        },
+        "Safa Park": {
+            "label": "Safa Park",
+            "description": "Safa Park is a 64 hectare urban park located in Dubai, United Arab Emirates. It is 10.53 km southwest of the traditional center of Dubai along Sheikh Zayed Road. Wikipedia",
+            "type": "",
+            "Address ": [
+                "Al Hadiqa St - Dubai - United Arab Emirates"
+            ],
+            "People also search for": []
+        },
+        "New Canaan Nature Center": {
+            "label": "New Canaan Nature Center",
+            "description": "The New Canaan Nature Center is a botanical garden, arboretum and nature preserve located at 144 Oenoke Ridge, Route 124, about .25 miles north of the center of New Canaan, Connecticut. Wikipedia",
+            "type": "",
+            "Address ": [
+                "144 Oenoke Ridge",
+                " New Canaan",
+                " CT 06840",
+                " United States"
+            ],
+            "Hours ": [
+                "(203) 966-9577"
             ],
             "People also search for": []
         },
@@ -160,33 +184,10 @@
             ],
             "People also search for": []
         },
-        "Safa Park": {
-            "label": "Safa Park",
-            "description": "Safa Park is a 64 hectare urban park located in Dubai, United Arab Emirates. It is 10.53 km southwest of the traditional center of Dubai along Sheikh Zayed Road. Wikipedia",
-            "type": "",
-            "Address ": [
-                "Al Hadiqa St - Dubai - United Arab Emirates"
-            ],
-            "People also search for": []
-        },
         "Krohn Conservatory": {
             "label": "Krohn Conservatory",
             "description": "",
             "type": ""
-        },
-        "Washington Square Park": {
-            "label": "Washington Square Park",
-            "description": "Washington Square Park is one of the best-known of New York City's 1,900 public parks. At 9.75 acres, it is a landmark in the Manhattan neighborhood of Greenwich Village, as well as a meeting place and center for cultural activity. Wikipedia",
-            "type": "",
-            "Address ": [
-                "New York",
-                " NY",
-                " United States"
-            ],
-            "Hours ": [
-                "(212) 408-0100"
-            ],
-            "People also search for": []
         },
         "United States Botanic Garden": {
             "label": "United States Botanic Garden",
@@ -203,25 +204,16 @@
             ],
             "People also search for": []
         },
+        "Birmingham Botanical Gardens (United States)": {
+            "label": "Birmingham Botanical Gardens",
+            "description": "",
+            "type": "",
+            "People also search for": []
+        },
         "Credit Island": {
             "label": "Credit Island",
             "description": "Credit Island is an island in the Mississippi River on the south west side of Davenport, Iowa within the Quad Cities area. Its name was derived by the use of the island as an early Indian trading post. Wikipedia",
             "type": "Island in Iowa",
-            "People also search for": []
-        },
-        "New Canaan Nature Center": {
-            "label": "New Canaan Nature Center",
-            "description": "The New Canaan Nature Center is a botanical garden, arboretum and nature preserve located at 144 Oenoke Ridge, Route 124, about .25 miles north of the center of New Canaan, Connecticut. Wikipedia",
-            "type": "",
-            "Address ": [
-                "144 Oenoke Ridge",
-                " New Canaan",
-                " CT 06840",
-                " United States"
-            ],
-            "Hours ": [
-                "(203) 966-9577"
-            ],
             "People also search for": []
         },
         "Marine Exhibition Center of Punta Culebra": {
@@ -260,22 +252,6 @@
             "type": "Neighborhood in Los Angeles",
             "See results about": []
         },
-        "Riverfront Festival Plaza": {
-            "label": "Riverfront Festival Plaza",
-            "description": "Riverfront Festival Plaza is a park located in downtown Windsor, Ontario, in Canada. It is located along the banks of the Detroit River, between the river and Casino Windsor.\nIt has over 100,000 square feet of festival space. Wikipedia",
-            "type": ""
-        },
-        "Birmingham Botanical Gardens (United States)": {
-            "label": "Birmingham Botanical Gardens",
-            "description": "",
-            "type": "",
-            "People also search for": []
-        },
-        "Ayub National Park": {
-            "label": "Ayub National Park",
-            "description": "Ayub National Park, commonly known as Ayub Park or historically Topi Rakh Park is a national park located on Jhelum road not far away from the old presidency in Rawalpindi, Pakistan. Wikipedia",
-            "type": ""
-        },
         "Patton Park Detroit": {
             "label": "Patton Park Detroit",
             "description": "Patton Park is a 93-acre park located on the southwest side of Detroit, Michigan. The park, named for World War II legendary US military leader General George S. Patton, was dedicated in the early 1950s. Wikipedia",
@@ -299,6 +275,27 @@
                 " Venezuela"
             ]
         },
+        "Ayub National Park": {
+            "label": "Ayub National Park",
+            "description": "Ayub National Park, commonly known as Ayub Park or historically Topi Rakh Park is a national park located on Jhelum road not far away from the old presidency in Rawalpindi, Pakistan. Wikipedia",
+            "type": ""
+        },
+        "De Waal Park": {
+            "label": "De Waal Park",
+            "description": "De Waal Park was Cape Town's first and largest public park, after the Company's Gardens, when it was opened in 1895.\nIn 1877 the City Council of Cape Town purchased land from the Van Breda family who owned the farm Oranjezigt. Wikipedia",
+            "type": ""
+        },
+        "Fulton Park": {
+            "label": "Fulton Park",
+            "description": "Fulton Park is a park in New York named after Robert Fulton best known for launching the first commercially successful steamboat. Wikipedia",
+            "type": "",
+            "Address ": [
+                "Chauncey St",
+                " New York",
+                " NY 11233",
+                " United States"
+            ]
+        },
         "Kotla Vijayabhaskara Reddy Botanical Gardens": {
             "label": "Kotla Vijayabhaskara Reddy Botanical Gardens",
             "description": "The Kotla Vijayabhaskara Reddy Botanical Garden is a botanical garden in Hyderabad. It was developed by the Forests Department and is near the HITEC City, Madhapur, 16 kilometres from Hyderabad Railway station on the Hyderabad-Mumbai old Highway. Wikipedia",
@@ -316,11 +313,6 @@
                 " India"
             ]
         },
-        "De Waal Park": {
-            "label": "De Waal Park",
-            "description": "De Waal Park was Cape Town's first and largest public park, after the Company's Gardens, when it was opened in 1895.\nIn 1877 the City Council of Cape Town purchased land from the Van Breda family who owned the farm Oranjezigt. Wikipedia",
-            "type": ""
-        },
         "McDonnell Park": {
             "label": "McDonnell Park",
             "description": "McDonnell Park is a county park in unincorporated Central St. Louis County between the cities of Overland, St. Ann, Creve Coeur and Maryland Heights. The park is named in honor of James S. McDonnell founder of McDonnell Douglas Aircraft. Wikipedia",
@@ -335,17 +327,6 @@
             "label": "Naypyidaw Safari Park",
             "description": "The Naypyidaw Safari Park is a wildlife park, located in Naypyidaw, Myanmar. The park consists of a 35.1 acres Asian safari, a 3.53 acres Australian safari and a 59.64 acres African safari. Wikipedia",
             "type": ""
-        },
-        "Fulton Park": {
-            "label": "Fulton Park",
-            "description": "Fulton Park is a park in New York named after Robert Fulton best known for launching the first commercially successful steamboat. Wikipedia",
-            "type": "",
-            "Address ": [
-                "Chauncey St",
-                " New York",
-                " NY 11233",
-                " United States"
-            ]
         },
         "Parks and Greenways in Huntsville": {
             "label": "Parks and Greenways in Huntsville",
@@ -363,14 +344,14 @@
             "description": "Pauatahanui Wildlife Reserve is a wetland reserve located on the eastern edge of the Pauatahanui Inlet in Porirua, New Zealand.\nThe reserve contains the most significant area of saltmarsh in the lower North Island of New Zealand. Wikipedia",
             "type": ""
         },
-        "Patriot's Park": {
-            "label": "Patriots Park",
+        "Salt Creek Beach Park": {
+            "label": "Salt Creek Beach Park",
             "description": "",
             "type": "",
             "People also search for": []
         },
-        "Salt Creek Beach Park": {
-            "label": "Salt Creek Beach Park",
+        "Patriot's Park": {
+            "label": "Patriots Park",
             "description": "",
             "type": "",
             "People also search for": []
@@ -385,11 +366,6 @@
                 " CO 80401",
                 " United States"
             ]
-        },
-        "Three Brooks Local Nature Reserve": {
-            "label": "Three Brooks Local Nature Reserve",
-            "description": "The Three Brooks Nature Reserve is a Local Nature Reserve of about 60 hectares in Bradley Stoke, South Gloucestershire, England. Wikipedia",
-            "type": ""
         },
         "Ainsworth State Park": {
             "label": "Ainsworth State Park",
@@ -435,6 +411,21 @@
                 "Cincinnati",
                 " OH 45208",
                 " United States"
+            ],
+            "People also search for": []
+        },
+        "Bear Creek Pioneers Park": {
+            "label": "Bear Creek Pioneers Park",
+            "description": "Bear Creek Pioneers Park is a 2,154-acre park located in the U.S. city of Houston, Texas at 3535 War Memorial Drive. It is sometimes called \"Harris County Bear Creek Park\", or simply \"Bear Creek Park.\" Wikipedia",
+            "type": "",
+            "Address ": [
+                "3535 War Memorial Dr",
+                " Houston",
+                " TX 77084",
+                " United States"
+            ],
+            "Hours ": [
+                "(281) 496-2177"
             ],
             "People also search for": []
         },
@@ -502,20 +493,45 @@
             "type": "",
             "People also search for": []
         },
-        "Bear Creek Pioneers Park": {
-            "label": "Bear Creek Pioneers Park",
-            "description": "Bear Creek Pioneers Park is a 2,154-acre park located in the U.S. city of Houston, Texas at 3535 War Memorial Drive. It is sometimes called \"Harris County Bear Creek Park\", or simply \"Bear Creek Park.\" Wikipedia",
+        "Brickendon and Woolmers Estates": {
+            "label": "Brickendon and Woolmers Estates",
+            "description": "Brickendon Estate and Woolmers Estate near Longford, Tasmania, Australia are adjacent farming properties that date back to 1817 and a time in world history when convicts were used to provide labour to settlers in exchange for food and clothing. Wikipedia",
             "type": "",
             "Address ": [
-                "3535 War Memorial Dr",
-                " Houston",
-                " TX 77084",
+                "658 Woolmers Ln",
+                " Longford TAS 7301",
+                " Australia"
+            ]
+        },
+        "Three Brooks Local Nature Reserve": {
+            "label": "Three Brooks Local Nature Reserve",
+            "description": "The Three Brooks Nature Reserve is a Local Nature Reserve of about 60 hectares in Bradley Stoke, South Gloucestershire, England. Wikipedia",
+            "type": ""
+        },
+        "Brown's Ferry Park (Tualatin, Oregon)": {
+            "label": "Brown's Ferry Park",
+            "description": "Brown's Ferry Park is a 28-acre park in the Clackamas County city of Tualatin in the U.S. state of Oregon. The park is located along the Tualatin River. Wikipedia",
+            "type": "Tualatin, Oregon",
+            "Address ": [
+                "5855 SW Nyberg Ln",
+                " Tualatin",
+                " OR 97062",
                 " United States"
-            ],
-            "Hours ": [
-                "(281) 496-2177"
-            ],
-            "People also search for": []
+            ]
+        },
+        "Riverfront Festival Plaza": {
+            "label": "Riverfront Festival Plaza",
+            "description": "Riverfront Festival Plaza is a park located in downtown Windsor, Ontario, in Canada. It is located along the banks of the Detroit River, between the river and Casino Windsor.\nIt has over 100,000 square feet of festival space. Wikipedia",
+            "type": ""
+        },
+        "Brussels Park": {
+            "label": "Brussels Park",
+            "description": "Parc de Bruxelles or Warandepark, is the largest urban public park in the center of Brussels. The area of the rectangular park is 13.1 ha. It is surrounded by the Royal Palace of Brussels, the Belgian parliament and the U.S.A. embassy. Wikipedia",
+            "type": "",
+            "Address ": [
+                "1000 Brussels",
+                " Belgium"
+            ]
         },
         "Buena Vista Park": {
             "label": "Buena Vista Park",
@@ -527,24 +543,12 @@
                 " United States"
             ]
         },
-        "Brussels Park": {
-            "label": "Brussels Park",
-            "description": "Parc de Bruxelles or Warandepark, is the largest urban public park in the center of Brussels. The area of the rectangular park is 13.1 ha. It is surrounded by the Royal Palace of Brussels, the Belgian parliament and the U.S.A. embassy. Wikipedia",
+        "Byrd Park": {
+            "label": "Byrd Park",
+            "description": "Byrd Park is a public park located in Richmond, Virginia, USA, north of the James River and adjacent to Maymont. Wikipedia",
             "type": "",
-            "Address ": [
-                "1000 Brussels",
-                " Belgium"
-            ]
-        },
-        "Brown's Ferry Park (Tualatin, Oregon)": {
-            "label": "Brown's Ferry Park",
-            "description": "Brown's Ferry Park is a 28-acre park in the Clackamas County city of Tualatin in the U.S. state of Oregon. The park is located along the Tualatin River. Wikipedia",
-            "type": "Tualatin, Oregon",
-            "Address ": [
-                "5855 SW Nyberg Ln",
-                " Tualatin",
-                " OR 97062",
-                " United States"
+            "Area ": [
+                "3 acres (1 ha)"
             ]
         },
         "Cape Arago State Park": {
@@ -579,33 +583,6 @@
             ],
             "People also search for": []
         },
-        "Brickendon and Woolmers Estates": {
-            "label": "Brickendon and Woolmers Estates",
-            "description": "Brickendon Estate and Woolmers Estate near Longford, Tasmania, Australia are adjacent farming properties that date back to 1817 and a time in world history when convicts were used to provide labour to settlers in exchange for food and clothing. Wikipedia",
-            "type": "",
-            "Address ": [
-                "658 Woolmers Ln",
-                " Longford TAS 7301",
-                " Australia"
-            ]
-        },
-        "Confederation Park, Calgary": {
-            "label": "Confederation Park, CalgaryConfederation Park Golf Course",
-            "description": "Confederation Park is an urban park in northwest Calgary, Alberta.\nIt is developed over an area of 400 acres, between the neighbourhoods of Mount Pleasant, Capitol Hill, Collingwood and Highland Park. Wikipedia",
-            "type": "",
-            "Province ": [
-                "Alberta"
-            ],
-            "People also search for": []
-        },
-        "Byrd Park": {
-            "label": "Byrd Park",
-            "description": "Byrd Park is a public park located in Richmond, Virginia, USA, north of the James River and adjacent to Maymont. Wikipedia",
-            "type": "",
-            "Area ": [
-                "3 acres (1 ha)"
-            ]
-        },
         "Chandler State Wayside": {
             "label": "Chandler State Wayside",
             "description": "Chandler State Wayside is a state park in southern Oregon, U.S.. Somewhat unusual for this part of Oregon, it is covered in large Ponderosa Pine. The picnic area is near Crooked Creek which contains crayfish and rainbow trout. Wikipedia",
@@ -615,25 +592,6 @@
                 " OR 97630",
                 " United States"
             ]
-        },
-        "Darlington Probation Station": {
-            "label": "Darlington Probation Station",
-            "description": "Darlington Probation Station was a convict penal settlement on Maria Island, Tasmania, from 1825 to 1832, then later a convict probation station during the last phase of convict management in eastern Australia. Wikipedia",
-            "type": ""
-        },
-        "Clapham Common": {
-            "label": "Clapham Common",
-            "description": "Clapham Common is an 89 hectares triangular area of grassland situated in south London, England. It was historically common land for the parishes of Battersea and Clapham, but was converted to parkland ... Wikipedia",
-            "type": "",
-            "Address ": [
-                "Windmill Dr",
-                " London SW4 9DE",
-                " United Kingdom"
-            ],
-            "Hours ": [
-                "+44 20 7926 9000"
-            ],
-            "People also search for": []
         },
         "Christie Pits": {
             "label": "Christie Pits",
@@ -653,6 +611,29 @@
             ],
             "People also search for": []
         },
+        "Clapham Common": {
+            "label": "Clapham Common",
+            "description": "Clapham Common is an 89 hectares triangular area of grassland situated in south London, England. It was historically common land for the parishes of Battersea and Clapham, but was converted to parkland ... Wikipedia",
+            "type": "",
+            "Address ": [
+                "Windmill Dr",
+                " London SW4 9DE",
+                " United Kingdom"
+            ],
+            "Hours ": [
+                "+44 20 7926 9000"
+            ],
+            "People also search for": []
+        },
+        "Confederation Park, Calgary": {
+            "label": "Confederation Park, CalgaryConfederation Park Golf Course",
+            "description": "Confederation Park is an urban park in northwest Calgary, Alberta.\nIt is developed over an area of 400 acres, between the neighbourhoods of Mount Pleasant, Capitol Hill, Collingwood and Highland Park. Wikipedia",
+            "type": "",
+            "Province ": [
+                "Alberta"
+            ],
+            "People also search for": []
+        },
         "Emigrant Springs State Heritage Area": {
             "label": "Emigrant Springs State Heritage Area",
             "description": "Emigrant Springs State Heritage Area is a state park located in central Umatilla County, Oregon, United States, approximately 15 mi southeast of Pendleton. Wikipedia",
@@ -666,6 +647,17 @@
             "Hours ": [
                 "(541) 983-2277"
             ]
+        },
+        "Darlington Probation Station": {
+            "label": "Darlington Probation Station",
+            "description": "Darlington Probation Station was a convict penal settlement on Maria Island, Tasmania, from 1825 to 1832, then later a convict probation station during the last phase of convict management in eastern Australia. Wikipedia",
+            "type": ""
+        },
+        "Epping Forest": {
+            "label": "Epping Forest",
+            "description": "Epping Forest is an area of ancient woodland in south-east England, straddling the border between north-east Greater London and Essex. It is a former royal forest, and is managed by the City of London Corporation. Wikipedia",
+            "type": "",
+            "People also search for": []
         },
         "Fairbank Memorial Park": {
             "label": "Fairbank Memorial Park",
@@ -685,22 +677,6 @@
                 " Carnegie Centennial Centre"
             ]
         },
-        "Epping Forest": {
-            "label": "Epping Forest",
-            "description": "Epping Forest is an area of ancient woodland in south-east England, straddling the border between north-east Greater London and Essex. It is a former royal forest, and is managed by the City of London Corporation. Wikipedia",
-            "type": "",
-            "People also search for": []
-        },
-        "George W. Joseph State Natural Area": {
-            "label": "George W. Joseph State Natural Area",
-            "description": "George W. Joseph State Natural Area is a natural area in the U.S. state of Oregon. It is located near the city of Troutdale between Latourell Falls and Guy W. Talbot State Park, and is accessible from both. Wikipedia",
-            "type": "",
-            "Address ": [
-                "Corbett",
-                " OR 97019",
-                " United States"
-            ]
-        },
         "Fairview Park, Dublin": {
             "label": "Fairview Park, Dublin",
             "description": "Fairview Park is an urban park to the north of central Dublin, Ireland, in the district of Fairview. The park is noted for its seasonal bedding displays but also has playing fields, a children's playground and tree-lined walks. Wikipedia",
@@ -709,6 +685,17 @@
                 "Clontarf West",
                 " Dublin",
                 " Ireland"
+            ]
+        },
+        "Farnsworth Metropark": {
+            "label": "Farnsworth Metropark",
+            "description": "Farnsworth Metropark is a regional park located in Waterville, Ohio that is part of the Toledo Metroparks. Wikipedia",
+            "type": "",
+            "Address ": [
+                "8505 S River Rd",
+                " Waterville",
+                " OH 43566",
+                " United States"
             ]
         },
         "Frick Park": {
@@ -726,17 +713,6 @@
             ],
             "Hours ": [
                 "Friday 1054 AM"
-            ]
-        },
-        "Grange Park (Toronto)": {
-            "label": "Grange Park",
-            "description": "Grange Park is a prominent and well-used public park in downtown Toronto, Ontario, Canada, located south of the Art Gallery of Ontario, beside the Ontario College of Art and Design University, and north ... Wikipedia",
-            "type": "Toronto",
-            "Address ": [
-                "Chinatown",
-                " Toronto",
-                " ON",
-                " Canada"
             ]
         },
         "Goldendale Observatory State Park": {
@@ -757,16 +733,36 @@
             ],
             "People also search for": []
         },
-        "Farnsworth Metropark": {
-            "label": "Farnsworth Metropark",
-            "description": "Farnsworth Metropark is a regional park located in Waterville, Ohio that is part of the Toledo Metroparks. Wikipedia",
+        "Grange Park (Toronto)": {
+            "label": "Grange Park",
+            "description": "Grange Park is a prominent and well-used public park in downtown Toronto, Ontario, Canada, located south of the Art Gallery of Ontario, beside the Ontario College of Art and Design University, and north ... Wikipedia",
+            "type": "Toronto",
+            "Address ": [
+                "Chinatown",
+                " Toronto",
+                " ON",
+                " Canada"
+            ]
+        },
+        "Greater Grand Forks Greenway": {
+            "label": "Greater Grand Forks Greenway",
+            "description": "The Greater Grand Forks Greenway is a huge greenway bordering the Red River and Red Lake River in the twin cities of Grand Forks, North Dakota and East Grand Forks, Minnesota. Wikipedia",
+            "type": ""
+        },
+        "Hanna Park": {
+            "label": "Hanna Park",
+            "description": "Kathryn Abbey Hanna Park is a 1.5-mile public beach and city park in Jacksonville, Florida. It is located at Mayport in the Jacksonville Beaches area. Wikipedia",
             "type": "",
             "Address ": [
-                "8505 S River Rd",
-                " Waterville",
-                " OH 43566",
+                "500 Wonderwood Dr",
+                " Atlantic Beach",
+                " FL 32233",
                 " United States"
-            ]
+            ],
+            "Phone ": [
+                "(904) 249-4700"
+            ],
+            "People also search for": []
         },
         "Harborne Reserve": {
             "label": "Harborne Reserve",
@@ -791,43 +787,10 @@
             ],
             "People also search for": []
         },
-        "Jingshan Park": {
-            "label": "Jingshan Park",
-            "description": "Jingshan Park is a public park covering around a fourth of a square kilometer immediately north of the Forbidden City in Beijing, China. The focal point is the artificial hill Jingshan, literally \"Prospect Hill\". Wikipedia",
-            "type": "",
-            "Address ": [
-                "44 Jingshan W St",
-                " Xicheng",
-                " Beijing",
-                " China"
-            ],
-            "People also search for": []
-        },
-        "Hanna Park": {
-            "label": "Hanna Park",
-            "description": "Kathryn Abbey Hanna Park is a 1.5-mile public beach and city park in Jacksonville, Florida. It is located at Mayport in the Jacksonville Beaches area. Wikipedia",
-            "type": "",
-            "Address ": [
-                "500 Wonderwood Dr",
-                " Atlantic Beach",
-                " FL 32233",
-                " United States"
-            ],
-            "Phone ": [
-                "(904) 249-4700"
-            ],
-            "People also search for": []
-        },
-        "Joe Wheeler State Park": {
-            "label": "Joe Wheeler State Park",
-            "description": "Joe Wheeler State Park is a state park located in northwest Alabama, USA, along Wheeler Lake. The park contains 2,550 acres of land. Wikipedia",
-            "type": "",
-            "Address ": [
-                "4403 McLean Dr",
-                " Rogersville",
-                " AL 35652",
-                " United States"
-            ]
+        "Hulne Park": {
+            "label": "Hulne Park",
+            "description": "Hulne Park is the only one remaining of the three parks that once surrounded Alnwick Castle in Northumberland, providing wood and meat for the table of the Percy family, the Dukes of Northumberland.\nIt is the site of Hulne Priory. Wikipedia",
+            "type": ""
         },
         "Jamshidieh Park": {
             "label": "Jamshidieh Park",
@@ -840,25 +803,27 @@
             ],
             "People also search for": []
         },
-        "Ladywalk Reserve": {
-            "label": "Ladywalk Reserve",
-            "description": "Ladywalk Reserve is a nature reserve on the River Tame, at its confluence with the River Blythe, at Hams Hall in north Warwickshire, England, owned by Powergen, but leased to, and operated by, the West Midland Bird Club since 1971. Wikipedia",
-            "type": ""
-        },
-        "Greater Grand Forks Greenway": {
-            "label": "Greater Grand Forks Greenway",
-            "description": "The Greater Grand Forks Greenway is a huge greenway bordering the Red River and Red Lake River in the twin cities of Grand Forks, North Dakota and East Grand Forks, Minnesota. Wikipedia",
-            "type": ""
-        },
-        "Lickey Hills Country Park": {
-            "label": "Lickey Hills Country Park",
-            "description": "Lickey Hills Country Park is a country park in England. It is 10.3 miles south west of Birmingham and 24 miles north east of Worcester. The 524 acres park is situated just south of Rednal and close to Barnt Green. Wikipedia",
+        "Jingshan Park": {
+            "label": "Jingshan Park",
+            "description": "Jingshan Park is a public park covering around a fourth of a square kilometer immediately north of the Forbidden City in Beijing, China. The focal point is the artificial hill Jingshan, literally \"Prospect Hill\". Wikipedia",
             "type": "",
             "Address ": [
-                "Warren Ln",
-                " Lickey",
-                " Birmingham B45 8ER",
-                " United Kingdom"
+                "44 Jingshan W St",
+                " Xicheng",
+                " Beijing",
+                " China"
+            ],
+            "People also search for": []
+        },
+        "Joe Wheeler State Park": {
+            "label": "Joe Wheeler State Park",
+            "description": "Joe Wheeler State Park is a state park located in northwest Alabama, USA, along Wheeler Lake. The park contains 2,550 acres of land. Wikipedia",
+            "type": "",
+            "Address ": [
+                "4403 McLean Dr",
+                " Rogersville",
+                " AL 35652",
+                " United States"
             ]
         },
         "Kingdom Come State Park": {
@@ -874,15 +839,41 @@
                 "(606) 589-2479"
             ]
         },
+        "Ladywalk Reserve": {
+            "label": "Ladywalk Reserve",
+            "description": "Ladywalk Reserve is a nature reserve on the River Tame, at its confluence with the River Blythe, at Hams Hall in north Warwickshire, England, owned by Powergen, but leased to, and operated by, the West Midland Bird Club since 1971. Wikipedia",
+            "type": ""
+        },
+        "Lickey Hills Country Park": {
+            "label": "Lickey Hills Country Park",
+            "description": "Lickey Hills Country Park is a country park in England. It is 10.3 miles south west of Birmingham and 24 miles north east of Worcester. The 524 acres park is situated just south of Rednal and close to Barnt Green. Wikipedia",
+            "type": "",
+            "Address ": [
+                "Warren Ln",
+                " Lickey",
+                " Birmingham B45 8ER",
+                " United Kingdom"
+            ]
+        },
         "Luba Crater Scientific Reserve": {
             "label": "Luba Crater Scientific Reserve",
             "description": "The Luba Crater Scientific Reserve is a protected area of 51,000 hectares on the volcanic island of Bioko, a part of Equatorial Guinea. Wikipedia",
             "type": ""
         },
-        "Hulne Park": {
-            "label": "Hulne Park",
-            "description": "Hulne Park is the only one remaining of the three parks that once surrounded Alnwick Castle in Northumberland, providing wood and meat for the table of the Percy family, the Dukes of Northumberland.\nIt is the site of Hulne Priory. Wikipedia",
-            "type": ""
+        "Luis Muñoz Rivera Park": {
+            "label": "Luis Muñoz Rivera",
+            "description": "The Luis Muñoz Rivera Park is a 27.2 acre recreational public space located in Puerta de Tierra in San Juan, Puerto Rico. The park was named in honor of Puerto Rican statesman Luis Muñoz Rivera. Wikipedia",
+            "type": "",
+            "Address ": [
+                "San Juan",
+                " Puerto Rico"
+            ],
+            "District ": [
+                "Puerto Rico Department of Education"
+            ],
+            "Phone ": [
+                "+1 787-721-6133"
+            ]
         },
         "MacMillan Provincial Park": {
             "label": "MacMillan Provincial Park",
@@ -918,21 +909,6 @@
             "description": "Manor Park Country Park is a country park in West Malling, Kent, England. The 52-acre park, formerly the private gardens of the nearby Douces Manor was purchased from the manor's owners by Kent County ... Wikipedia",
             "type": "",
             "See results about": []
-        },
-        "Luis Muñoz Rivera Park": {
-            "label": "Luis Muñoz Rivera",
-            "description": "The Luis Muñoz Rivera Park is a 27.2 acre recreational public space located in Puerta de Tierra in San Juan, Puerto Rico. The park was named in honor of Puerto Rican statesman Luis Muñoz Rivera. Wikipedia",
-            "type": "",
-            "Address ": [
-                "San Juan",
-                " Puerto Rico"
-            ],
-            "District ": [
-                "Puerto Rico Department of Education"
-            ],
-            "Phone ": [
-                "+1 787-721-6133"
-            ]
         },
         "Maples Rest Area": {
             "label": "Maples Rest Area",
@@ -972,10 +948,20 @@
             "Upcoming events": [],
             "People also search for": []
         },
-        "Mount Bonnell": {
-            "label": "Mount Bonnell",
-            "description": "Mount Bonnell, also known as Covert Park, is a prominent point alongside Lake Austin portion of the Colorado River in Austin, Texas. It has been a popular tourist destination since the 1850s. Wikipedia",
-            "type": "Park"
+        "Millennium Park (Grand Rapids)": {
+            "label": "Millennium Park",
+            "description": "Millennium Park is the largest urban park in West Michigan, located on the southwest side of Grand Rapids. Millennium Park connects four of the major cities in the area together, including Grand Rapids, Wyoming, Grandville, and Walker. Wikipedia",
+            "type": "Grand Rapids",
+            "Address ": [
+                "1415 Maynard Ave SW",
+                " Walker",
+                " MI 49534",
+                " United States"
+            ],
+            "Hours ": [
+                "(616) 791-2357"
+            ],
+            "People also search for": []
         },
         "Morningside Park (Toronto)": {
             "label": "Morningside Park",
@@ -992,45 +978,71 @@
             ],
             "People also search for": []
         },
+        "Mount Bonnell": {
+            "label": "Mount Bonnell",
+            "description": "Mount Bonnell, also known as Covert Park, is a prominent point alongside Lake Austin portion of the Colorado River in Austin, Texas. It has been a popular tourist destination since the 1850s. Wikipedia",
+            "type": "Park"
+        },
         "National Memorial Arboretum": {
             "label": "National Memorial Arboretum",
             "description": "The National Memorial Arboretum is a national site of remembrance at Alrewas, near Lichfield, Staffordshire, England. Wikipedia",
             "type": "",
             "People also search for": []
         },
-        "Millennium Park (Grand Rapids)": {
-            "label": "Millennium Park",
-            "description": "Millennium Park is the largest urban park in West Michigan, located on the southwest side of Grand Rapids. Millennium Park connects four of the major cities in the area together, including Grand Rapids, Wyoming, Grandville, and Walker. Wikipedia",
-            "type": "Grand Rapids",
+        "George W. Joseph State Natural Area": {
+            "label": "George W. Joseph State Natural Area",
+            "description": "George W. Joseph State Natural Area is a natural area in the U.S. state of Oregon. It is located near the city of Troutdale between Latourell Falls and Guy W. Talbot State Park, and is accessible from both. Wikipedia",
+            "type": "",
             "Address ": [
-                "1415 Maynard Ave SW",
-                " Walker",
-                " MI 49534",
+                "Corbett",
+                " OR 97019",
+                " United States"
+            ]
+        },
+        "Washington Square Park": {
+            "label": "Washington Square Park",
+            "description": "Washington Square Park is one of the best-known of New York City's 1,900 public parks. At 9.75 acres, it is a landmark in the Manhattan neighborhood of Greenwich Village, as well as a meeting place and center for cultural activity. Wikipedia",
+            "type": "",
+            "Address ": [
+                "New York",
+                " NY",
                 " United States"
             ],
             "Hours ": [
-                "(616) 791-2357"
+                "(212) 408-0100"
             ],
             "People also search for": []
         }
     },
     "summary": {
-        "label": 94,
-        "description": 94,
-        "type": 94,
-        "address": 1,
-        "hours": 1,
-        "phone": 1,
-        "people_also_search_for": 1,
-        "elevation": 1,
-        "area": 1,
-        "see_results_about": 1,
-        "province": 1,
-        "management": 1,
-        "team": 1,
-        "weather": 1,
-        "district": 1,
-        "upcoming_events": 1
+        "label": {
+            "uri": "http://dbpedia.org/property/label",
+            "count": 94
+        },
+        "description": {
+            "uri": "http://fr.dbpedia.org/ontology/abstract",
+            "count": 94
+        },
+        "type": {
+            "uri": "http://dbpedia.org/property/type",
+            "count": 94
+        },
+        "address": {
+            "uri": "http://dbpedia.org/property/address",
+            "count": 64
+        },
+        "elevation": {
+            "uri": "http://dbpedia.org/property/elevation",
+            "count": 1
+        },
+        "area": {
+            "uri": "http://dbpedia.org/property/area",
+            "count": 4
+        },
+        "hours": {
+            "uri": "http://dbpedia.org/property/hours",
+            "count": 18
+        }
     },
     "infoboxless": [
         "Shiba Park",
@@ -1039,5 +1051,16 @@
         "La Pierreuse",
         "Emerald Necklace",
         "Mount Washington State Park"
-    ]
+    ],
+    "Unmapped_Properties": {
+        "phone": 1,
+        "peopleAlsoSearchFor": 1,
+        "seeResultsAbout": 1,
+        "province": 1,
+        "management": 1,
+        "team": 1,
+        "weather": 1,
+        "district": 1,
+        "upcomingEvents": 1
+    }
 }

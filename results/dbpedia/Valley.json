@@ -11,11 +11,6 @@
                 "Israel Nature and Parks Authority"
             ]
         },
-        "Indian Springs Valley (Nevada)": {
-            "label": "Indian Springs Valley",
-            "description": "Indian Springs Valley is one of the Central Nevada Desert Basins in the Clark County portion of the Nevada Test and Training Range and includes Creech Air Force Base and the communities of Cactus Springs and Indian Springs, Nevada. Wikipedia",
-            "type": "Nevada"
-        },
         "Hachita Valley": {
             "label": "Hachita Valley",
             "description": "The Hachita Valley, is a small valley in southwest New Mexico. The valley is in the east of the New Mexico Bootheel region and borders Chihuahua state, Mexico. Wikipedia",
@@ -24,6 +19,16 @@
         "Doubtful Canyon": {
             "label": "Doubtful Canyon",
             "description": "Doubtful Canyon was the name of two canyons in the Peloncillo Mountains, once considered in the 19th century as one canyon that served as the pass through those mountains. Wikipedia",
+            "type": ""
+        },
+        "Indian Springs Valley (Nevada)": {
+            "label": "Indian Springs Valley",
+            "description": "Indian Springs Valley is one of the Central Nevada Desert Basins in the Clark County portion of the Nevada Test and Training Range and includes Creech Air Force Base and the communities of Cactus Springs and Indian Springs, Nevada. Wikipedia",
+            "type": "Nevada"
+        },
+        "Juab Valley": {
+            "label": "Juab Valley",
+            "description": "The Juab Valley is a 40-mi long valley located in far east Juab County, Utah. The border of the county is on the valley's north; the south county borders the valley's southeast. Wikipedia",
             "type": ""
         },
         "Goshen Valley": {
@@ -35,11 +40,6 @@
             "label": "Grand Valley",
             "description": "The Grand Valley is an extended populated valley, approximately 30 miles long and 5 miles wide, located along the Colorado River in Mesa County, Colorado and Grand County, Utah in the United States. Wikipedia",
             "type": "Colorado"
-        },
-        "Juab Valley": {
-            "label": "Juab Valley",
-            "description": "The Juab Valley is a 40-mi long valley located in far east Juab County, Utah. The border of the county is on the valley's north; the south county borders the valley's southeast. Wikipedia",
-            "type": ""
         },
         "Lapporten": {
             "label": "Lapporten",
@@ -55,11 +55,6 @@
             "description": "",
             "type": "",
             "People also search for": []
-        },
-        "Cedar Valley (Iron County)": {
-            "label": "Cedar Valley",
-            "description": "The Cedar Valley of Iron County, Utah is a 25-mile long valley located in the southeast of the county, against the Hurricane Cliffs which border the Cedar Mountains and the Markagunt Plateau. Wikipedia",
-            "type": "Valleys in Utah"
         },
         "Tualatin Valley": {
             "label": "Tualatin Valley",
@@ -77,6 +72,31 @@
                 "38°F (3°C)",
                 " Wind E at 5 mph (8 km/h)",
                 " 60% Humidity"
+            ],
+            "Local time ": [
+                "Friday 753 AM"
+            ]
+        },
+        "Cedar Valley (Iron County)": {
+            "label": "Cedar Valley",
+            "description": "The Cedar Valley of Iron County, Utah is a 25-mile long valley located in the southeast of the county, against the Hurricane Cliffs which border the Cedar Mountains and the Markagunt Plateau. Wikipedia",
+            "type": "Valleys in Utah"
+        },
+        "Chino Valley (Arizona)": {
+            "label": "Chino Valley",
+            "description": "Chino Valley is a town in Yavapai County, Arizona, United States. According to the Census Bureau, the population of the town is 10,817. Wikipedia",
+            "type": "Town in Arizona",
+            "Area ": [
+                "63.44 sq miles (164.3 km²)"
+            ],
+            "Weather ": [
+                "35°F (2°C)",
+                " Wind 0 mph (0 km/h)",
+                " 66% Humidity"
+            ],
+            "Population ": [
+                "10",
+                "839 (2012)"
             ],
             "Local time ": [
                 "Friday 753 AM"
@@ -111,40 +131,15 @@
             ],
             "See results about": []
         },
-        "Chino Valley (Arizona)": {
-            "label": "Chino Valley",
-            "description": "Chino Valley is a town in Yavapai County, Arizona, United States. According to the Census Bureau, the population of the town is 10,817. Wikipedia",
-            "type": "Town in Arizona",
-            "Area ": [
-                "63.44 sq miles (164.3 km²)"
-            ],
-            "Weather ": [
-                "35°F (2°C)",
-                " Wind 0 mph (0 km/h)",
-                " 66% Humidity"
-            ],
-            "Population ": [
-                "10",
-                "839 (2012)"
-            ],
-            "Local time ": [
-                "Friday 753 AM"
-            ]
-        },
-        "Valle Latina": {
-            "label": "Valle Latina",
-            "description": "Valle Latina or Sacco Valley is a valley of Ciociaria in the Province of Frosinone, Lazio, Italy.\nIt is situated between the mountain ranges of Monti Ernici and Monti Lepini and is traversed by the river Sacco. Wikipedia",
-            "type": "Valley"
-        },
         "Sarcobatus Flat": {
             "label": "Sarcobatus Flat",
             "description": "Sarcobatus Flat is a closed valley in western Nye County, Nevada between Goldfield and Beatty. The Bullfrog Hills form the southern boundary and the Grapevine Mountains along with Bonnie Claire Flat form the western boundary. Wikipedia",
             "type": ""
         },
-        "Eldorado Valley": {
-            "label": "Eldorado Valley",
-            "description": "Eldorado Valley, or El Dorado Valley, is a Great Basin valley in the Mojave Desert southeast of Las Vegas and southwest of Boulder City, Nevada. The valley is endorheic, containing the Eldorado Dry Lake. Wikipedia",
-            "type": ""
+        "Valle Latina": {
+            "label": "Valle Latina",
+            "description": "Valle Latina or Sacco Valley is a valley of Ciociaria in the Province of Frosinone, Lazio, Italy.\nIt is situated between the mountain ranges of Monti Ernici and Monti Lepini and is traversed by the river Sacco. Wikipedia",
+            "type": "Valley"
         },
         "Kichi-Kemin Valley": {
             "label": "Kichi-Kemin Valley",
@@ -153,6 +148,11 @@
             "Area ": [
                 "61.78 sq miles (160 km²)"
             ]
+        },
+        "Eldorado Valley": {
+            "label": "Eldorado Valley",
+            "description": "Eldorado Valley, or El Dorado Valley, is a Great Basin valley in the Mojave Desert southeast of Las Vegas and southwest of Boulder City, Nevada. The valley is endorheic, containing the Eldorado Dry Lake. Wikipedia",
+            "type": ""
         },
         "Grose Valley": {
             "label": "Grose Valley",
@@ -165,14 +165,14 @@
             ],
             "People also search for": []
         },
-        "Alvord Desert": {
-            "label": "Alvord Desert",
-            "description": "The Alvord Desert is a desert located in Harney County, in southeastern Oregon in the western United States. It is roughly southeast of Steens Mountain. The Alvord Desert is a 12-by-7-mile dry lake bed and averages 7 inches of rain a year. Wikipedia",
-            "type": ""
-        },
         "Alay Valley": {
             "label": "Alay Valley",
             "description": "The Alay Valley is a broad, dry valley running east-west across most of southern Osh Province, Kyrgyzstan.. It is about 180km east-west and about 40km north-south and 2500-3500m in altitude. Wikipedia",
+            "type": ""
+        },
+        "Alvord Desert": {
+            "label": "Alvord Desert",
+            "description": "The Alvord Desert is a desert located in Harney County, in southeastern Oregon in the western United States. It is roughly southeast of Steens Mountain. The Alvord Desert is a 12-by-7-mile dry lake bed and averages 7 inches of rain a year. Wikipedia",
             "type": ""
         },
         "Arabat Spit": {
@@ -180,19 +180,29 @@
             "description": "The Arabat Spit, also called Arabat Tongue or, literally, Arabat Pointer, and commonly misspelled as Arabatska Strelka and Arabatska Strilka, is a spit which separates a large, shallow and very salty ... Wikipedia",
             "type": ""
         },
-        "Playas Valley": {
-            "label": "Playas Valley",
-            "description": "The Playas Valley is a lengthy and narrow 60-mi long, valley located in Hidalgo County, New Mexico in the Bootheel Region; the extreme south of the valley lies in Chihuahua. Playas, NM is located in the northeast. Wikipedia",
-            "type": ""
-        },
-        "Cache Valley": {
-            "label": "Cache Valley",
-            "description": "Cache Valley is an agricultural valley of northern Utah and southeast Idaho that includes the Logan metropolitan area. The valley was used by 19th century mountain men and was the site of the 1863 Bear River Massacre. Wikipedia",
-            "type": ""
-        },
         "Belt Woods": {
             "label": "Belt Woods",
             "description": "Belt Woods is a nature reserve in Prince George's County, Maryland, containing the “South Woods”, a 43-acre woodland which constitutes one of the last stands of virgin hardwood forest on the Atlantic coastal plain. Wikipedia",
+            "type": ""
+        },
+        "Organ Cave": {
+            "label": "Organ Cave",
+            "description": "Organ Cave is a large and historic cave in Greenbrier County, West Virginia, USA. The surrounding community takes its name from the cave. Wikipedia",
+            "type": "",
+            "Address ": [
+                "Hoke's Mill",
+                " Ronceverte",
+                " WV 24970",
+                " United States"
+            ],
+            "Phone ": [
+                "(304) 645-7600"
+            ],
+            "People also search for": []
+        },
+        "Playas Valley": {
+            "label": "Playas Valley",
+            "description": "The Playas Valley is a lengthy and narrow 60-mi long, valley located in Hidalgo County, New Mexico in the Bootheel Region; the extreme south of the valley lies in Chihuahua. Playas, NM is located in the northeast. Wikipedia",
             "type": ""
         },
         "Virgin Valley": {
@@ -210,31 +220,16 @@
             ],
             "See results about": []
         },
+        "Cache Valley": {
+            "label": "Cache Valley",
+            "description": "Cache Valley is an agricultural valley of northern Utah and southeast Idaho that includes the Logan metropolitan area. The valley was used by 19th century mountain men and was the site of the 1863 Bear River Massacre. Wikipedia",
+            "type": ""
+        },
         "Dovedale": {
             "label": "Dovedale",
             "description": "Dovedale is a valley in the Peak District of England. The land is owned by the National Trust, and annually attracts a million visitors. Wikipedia",
             "type": "",
             "People also search for": []
-        },
-        "Organ Cave": {
-            "label": "Organ Cave",
-            "description": "Organ Cave is a large and historic cave in Greenbrier County, West Virginia, USA. The surrounding community takes its name from the cave. Wikipedia",
-            "type": "",
-            "Address ": [
-                "Hoke's Mill",
-                " Ronceverte",
-                " WV 24970",
-                " United States"
-            ],
-            "Phone ": [
-                "(304) 645-7600"
-            ],
-            "People also search for": []
-        },
-        "Ripuk": {
-            "label": "Ripuk",
-            "description": "Ripuk is a local name for one of the highland pasture in Barun Valley where local setup their temporary seasonal settlements.\nCenturies ago, the river Barun used to be a glacier here, flowing to the north composing this lush green valley for today. Wikipedia",
-            "type": ""
         },
         "Willamette Valley": {
             "label": "Willamette Valley",
@@ -246,9 +241,9 @@
             "description": "The Arpa Valley is a high-altitude valley located in the south-west part of internal Tien-Shan. The valley is limited by Fergana Range, Torugart Range, Atbashi Range, Ortok Too, and Djaman-Too. Wikipedia",
             "type": ""
         },
-        "Gader Valley": {
-            "label": "Gader Valley",
-            "description": "Gader Valley is a long valley in the Greater Fatra Range in Central Slovakia. It is accessible from the village of Blatnica. The valley is the gateway to the peaks of Tlstá and Ostrá. Wikipedia",
+        "Ripuk": {
+            "label": "Ripuk",
+            "description": "Ripuk is a local name for one of the highland pasture in Barun Valley where local setup their temporary seasonal settlements.\nCenturies ago, the river Barun used to be a glacier here, flowing to the north composing this lush green valley for today. Wikipedia",
             "type": ""
         },
         "Blatnica Valley": {
@@ -256,14 +251,9 @@
             "description": "The Blatnica Valley is a karst valley in the Greater Fatra Range in Slovakia. It is accessible from the village of Blatnica along a dirt road. Most of the valley is densely forested, in places with views at the surrounding lime and dolomite rocks. Wikipedia",
             "type": ""
         },
-        "Rapa Valley": {
-            "label": "Rapa Valley",
-            "description": "The Rapa Valley is a 35 km long valley in Sweden and the largest in the Sarek National Park, part of the Laponian area. The Rapa River runs through the valley, which is surrounded by steep mountains. Wikipedia",
-            "type": ""
-        },
-        "Pahrump Valley": {
-            "label": "Pahrump Valley",
-            "description": "Pahrump Valley is a Mojave Desert valley west of Las Vegas and the Spring Mountains massif in southern Nye County, Nevada, and eastern San Bernardino County, California. Wikipedia",
+        "Gader Valley": {
+            "label": "Gader Valley",
+            "description": "Gader Valley is a long valley in the Greater Fatra Range in Central Slovakia. It is accessible from the village of Blatnica. The valley is the gateway to the peaks of Tlstá and Ostrá. Wikipedia",
             "type": ""
         },
         "Seitz Canyon": {
@@ -276,14 +266,24 @@
             "description": "The Gila Valley of Graham County, Arizona is a 35 mile long valley in central Graham County, Arizona. Thatcher and Safford, Arizona lie upstream on the Gila River in the southeast beginning of the valley. Wikipedia",
             "type": "Graham County"
         },
+        "Pahrump Valley": {
+            "label": "Pahrump Valley",
+            "description": "Pahrump Valley is a Mojave Desert valley west of Las Vegas and the Spring Mountains massif in southern Nye County, Nevada, and eastern San Bernardino County, California. Wikipedia",
+            "type": ""
+        },
+        "Rapa Valley": {
+            "label": "Rapa Valley",
+            "description": "The Rapa Valley is a 35 km long valley in Sweden and the largest in the Sarek National Park, part of the Laponian area. The Rapa River runs through the valley, which is surrounded by steep mountains. Wikipedia",
+            "type": ""
+        },
+        "San Pedro Valley (Arizona)": {
+            "label": "San Pedro Valley",
+            "description": "The San Pedro Valley of western Cochise County Arizona is a 50 mile long, mostly north-south valley, trending northwesterly. It drains from Sierra Vista Southeast north towards I-10, Benson, and the southeast of the Rincon Mountains. Wikipedia",
+            "type": "Arizona"
+        },
         "Fergana Valley": {
             "label": "Fergana Valley",
             "description": "The Fergana Valley is a region in Central Asia spread across eastern Uzbekistan, Kyrgyzstan and Tajikistan. Wikipedia",
-            "type": ""
-        },
-        "Fassifern Valley": {
-            "label": "Fassifern Valley",
-            "description": "Fassifern Valley is a valley of the Scenic Rim in South East Queensland. Towns found in the valley include Harrisville, Kalbar, Roadvale, Warril View and Aratula. Wikipedia",
             "type": ""
         },
         "Clover Valley (Nevada)": {
@@ -291,20 +291,20 @@
             "description": "The Clover Valley of Nevada, is a 37-mile long valley located in central-southeast Elko County. Wells, Nevada lies at its north end, on I-80. Wikipedia",
             "type": "Valleys in Nevada"
         },
-        "San Pedro Valley (Arizona)": {
-            "label": "San Pedro Valley",
-            "description": "The San Pedro Valley of western Cochise County Arizona is a 50 mile long, mostly north-south valley, trending northwesterly. It drains from Sierra Vista Southeast north towards I-10, Benson, and the southeast of the Rincon Mountains. Wikipedia",
-            "type": "Arizona"
+        "Fassifern Valley": {
+            "label": "Fassifern Valley",
+            "description": "Fassifern Valley is a valley of the Scenic Rim in South East Queensland. Towns found in the valley include Harrisville, Kalbar, Roadvale, Warril View and Aratula. Wikipedia",
+            "type": ""
         },
         "Lake Valley (Nevada)": {
             "label": "Lake Valley",
             "description": "Lake Valley is a 60-mile long valley in northeast Lincoln County, Nevada. The North Lake Valley is an endorheic basin; South Lake Valley contains Patterson Wash, a northwest headwater tributary to the ... Wikipedia",
             "type": "Valleys in Nevada"
         },
-        "Skull Valley (Utah)": {
-            "label": "Skull Valley",
-            "description": "Skull Valley of Utah, is a 40-mi long valley located in east Tooele County at the southwest of the Great Salt Lake. The valley trends north–south, but turns slightly northeast to meet Stansbury Bay,. Wikipedia",
-            "type": "Utah"
+        "Petrovo field, Croatia": {
+            "label": "Petrovo field, Croatia",
+            "description": "The Petrovo field is a karstic field in Croatia, located in inland of Dalmatian Zagora. It is 2500 hectare large, circled by mountains Svilaja, Promina and Moseć and with the town of Drniš. Wikipedia",
+            "type": ""
         },
         "Pine Valley (Utah)": {
             "label": "Pine Valley",
@@ -319,6 +319,11 @@
                 "Friday 853 AM"
             ]
         },
+        "Skull Valley (Utah)": {
+            "label": "Skull Valley",
+            "description": "Skull Valley of Utah, is a 40-mi long valley located in east Tooele County at the southwest of the Great Salt Lake. The valley trends north–south, but turns slightly northeast to meet Stansbury Bay,. Wikipedia",
+            "type": "Utah"
+        },
         "Yellow House Draw": {
             "label": "Yellow House Draw",
             "description": "Yellow House Draw is an ephemeral watercourse about 236 km long, heading about 20 km southwest of Melrose, New Mexico, and tending generally east-southeastward across the Llano Estacado to the city of ... Wikipedia",
@@ -332,21 +337,6 @@
         "Blanco Canyon": {
             "label": "Blanco Canyon",
             "description": "Blanco Canyon is a canyon located in the U.S. state of Texas. Eroded by the White River into the Caprock Escarpment on the east side of the Llano Estacado, the canyon runs for 34 miles in a southeasterly ... Wikipedia",
-            "type": ""
-        },
-        "Petrovo field, Croatia": {
-            "label": "Petrovo field, Croatia",
-            "description": "The Petrovo field is a karstic field in Croatia, located in inland of Dalmatian Zagora. It is 2500 hectare large, circled by mountains Svilaja, Promina and Moseć and with the town of Drniš. Wikipedia",
-            "type": ""
-        },
-        "Antelope Valley (Eureka County)": {
-            "label": "Antelope Valley",
-            "description": "The Antelope Valley of southern Eureka County is a small 35 mi long valley, surrounded by four mountain ranges. Antelope Wash flows north, to endorheic flatlands at the valley's north end. Wikipedia",
-            "type": "Valleys in Nevada"
-        },
-        "Barun Valley": {
-            "label": "Barun Valley",
-            "description": "Barun Valley is a Himalayan valley situated at the base of Mt. Makalu in the Sankhuwasabha district Nepal. This valley lies entirely inside the Makalu Barun National Park. Wikipedia",
             "type": ""
         },
         "Prairie Dog Town Fork Red River": {
@@ -382,10 +372,25 @@
                 "United States of America"
             ]
         },
+        "Antelope Valley (Eureka County)": {
+            "label": "Antelope Valley",
+            "description": "The Antelope Valley of southern Eureka County is a small 35 mi long valley, surrounded by four mountain ranges. Antelope Wash flows north, to endorheic flatlands at the valley's north end. Wikipedia",
+            "type": "Valleys in Nevada"
+        },
+        "Barun Valley": {
+            "label": "Barun Valley",
+            "description": "Barun Valley is a Himalayan valley situated at the base of Mt. Makalu in the Sankhuwasabha district Nepal. This valley lies entirely inside the Makalu Barun National Park. Wikipedia",
+            "type": ""
+        },
         "Las Vegas Valley (landform)": {
             "label": "Las Vegas Valley",
             "description": "Las Vegas Valley is actually a basin drained by the Las Vegas Wash. The valley in the northwest section is a northwest-by-southeast trending area, and trending parallel to Las Vegas Wash, lies at the northeast of the Spring Mountains massif. Wikipedia",
             "type": "Landform"
+        },
+        "Tule Valley": {
+            "label": "Tule Valley",
+            "description": "Tule Valley, also known as White Valley, is a north-south trending endorheic valley within the Great Basin, Great Basin Desert, and Basin and Range Province of west-central Utah. Wikipedia",
+            "type": ""
         },
         "Dry Lake Valley": {
             "label": "Dry Lake Valley",
@@ -414,19 +419,9 @@
             "type": "",
             "See results about": []
         },
-        "Tule Valley": {
-            "label": "Tule Valley",
-            "description": "Tule Valley, also known as White Valley, is a north-south trending endorheic valley within the Great Basin, Great Basin Desert, and Basin and Range Province of west-central Utah. Wikipedia",
-            "type": ""
-        },
         "Aubrey Valley": {
             "label": "Aubrey Valley",
             "description": "Aubrey Valley is a 35-mile long valley located in southwest Coconino County, Arizona with the northwest border of Yavapai County. Wikipedia",
-            "type": ""
-        },
-        "Big Smoky Valley": {
-            "label": "Big Smoky Valley",
-            "description": "The Big Smoky Valley is a landform of the Tonopah Basin between the Toiyabe and Toquima mountain ranges. Wikipedia",
             "type": ""
         },
         "San Simon Valley": {
@@ -434,9 +429,9 @@
             "description": "The San Simon Valley is a broad valley east of the Chiricahua Mountains, in the northeast corner of Cochise County, Arizona and southeastern Graham County, with a small portion near Antelope Pass in Hidalgo County of southwestern New Mexico. Wikipedia",
             "type": ""
         },
-        "Piute Valley": {
-            "label": "Piute Valley",
-            "description": "The Piute Valley is a 45-mile long north-south valley southeast of Las Vegas, Nevada, and northwest of Needles. The north of the valley is at Searchlight, with some of the valley extending northwest from Searchlight. Wikipedia",
+        "Big Smoky Valley": {
+            "label": "Big Smoky Valley",
+            "description": "The Big Smoky Valley is a landform of the Tonopah Basin between the Toiyabe and Toquima mountain ranges. Wikipedia",
             "type": ""
         },
         "Lahontan Valley": {
@@ -445,10 +440,20 @@
             "type": "",
             "See results about": []
         },
+        "Piute Valley": {
+            "label": "Piute Valley",
+            "description": "The Piute Valley is a 45-mile long north-south valley southeast of Las Vegas, Nevada, and northwest of Needles. The north of the valley is at Searchlight, with some of the valley extending northwest from Searchlight. Wikipedia",
+            "type": ""
+        },
         "Antelope Valley (Millard County)": {
             "label": "Antelope Valley",
             "description": "The Antelope Valley of southwest Millard County, Utah is a small 25-mile long valley, adjacent the Ferguson Desert and 40 miles southwest of Sevier Lake. The valley is just east of the Nevada border, with Snake Valley and the Burbank Hills. Wikipedia",
             "type": "Valleys in Utah"
+        },
+        "Double Mountain Fork Brazos River": {
+            "label": "Double Mountain Fork Brazos River",
+            "description": "The Double Mountain Fork Brazos River is an ephemeral, sandy-braided stream about 280 km long, heading on the Llano Estacado of West Texas about 18.5 km southeast of Tahoka, Texas, flowing east-northeast ... Wikipedia",
+            "type": ""
         },
         "High Desert (Oregon)": {
             "label": "High Desert",
@@ -493,41 +498,55 @@
             "description": "Tarfala Valley is a valley in Kiruna Municipality, Sweden. Several glaciers flows into the valley and glaciological research has been conducted since 1946 at the Tarfala scientific station. Wikipedia",
             "type": ""
         },
+        "Valassina": {
+            "label": "Valassina",
+            "description": "The Valassina or Vallassina is the valley of the upper tract of the river Lambro, situated in the Larian Triangle in the Province of Como, northern Italy. Wikipedia",
+            "type": "Valley"
+        },
         "Beaver Valley (Ontario)": {
             "label": "Beaver Valley Ski Club",
             "description": "",
             "type": "",
             "People also search for": []
-        },
-        "Double Mountain Fork Brazos River": {
-            "label": "Double Mountain Fork Brazos River",
-            "description": "The Double Mountain Fork Brazos River is an ephemeral, sandy-braided stream about 280 km long, heading on the Llano Estacado of West Texas about 18.5 km southeast of Tahoka, Texas, flowing east-northeast ... Wikipedia",
-            "type": ""
-        },
-        "Valassina": {
-            "label": "Valassina",
-            "description": "The Valassina or Vallassina is the valley of the upper tract of the river Lambro, situated in the Larian Triangle in the Province of Como, northern Italy. Wikipedia",
-            "type": "Valley"
         }
     },
     "summary": {
-        "label": 77,
-        "description": 77,
-        "type": 77,
-        "address": 1,
-        "management": 1,
-        "people_also_search_for": 1,
-        "elevation": 1,
-        "weather": 1,
-        "local_time": 1,
-        "area": 1,
-        "see_results_about": 1,
-        "population": 1,
-        "phone": 1,
-        "length": 1,
-        "mouth": 1,
-        "country": 1,
-        "sources": 1
+        "label": {
+            "uri": "http://www.w3.org/2000/01/rdf-schema#label",
+            "count": 77
+        },
+        "description": {
+            "uri": "http://fr.dbpedia.org/ontology/abstract",
+            "count": 77
+        },
+        "type": {
+            "uri": "http://dbpedia.org/ontology/type",
+            "count": 77
+        },
+        "elevation": {
+            "uri": "http://dbpedia.org/property/elevation",
+            "count": 1
+        },
+        "area": {
+            "uri": "http://dbpedia.org/property/area",
+            "count": 7
+        },
+        "population": {
+            "uri": "http://dbpedia.org/property/population",
+            "count": 1
+        },
+        "length": {
+            "uri": "http://dbpedia.org/property/length",
+            "count": 2
+        },
+        "mouth": {
+            "uri": "http://dbpedia.org/property/mouth",
+            "count": 2
+        },
+        "country": {
+            "uri": "http://dbpedia.org/property/country",
+            "count": 2
+        }
     },
     "infoboxless": [
         "Animas Valley",
@@ -553,5 +572,15 @@
         "Butler Valley (Arizona)",
         "Rush Valley",
         "Dendora Valley"
-    ]
+    ],
+    "Unmapped_Properties": {
+        "address": 1,
+        "management": 1,
+        "peopleAlsoSearchFor": 1,
+        "weather": 1,
+        "localTime": 1,
+        "seeResultsAbout": 1,
+        "phone": 1,
+        "sources": 1
+    }
 }

@@ -6,6 +6,11 @@
             "type": "",
             "People also search for": []
         },
+        "Buksefjord hydroelectric power plant": {
+            "label": "Buksefjord hydroelectric power plant",
+            "description": "The Buksefjord hydroelectric power plant is the first and largest hydroelectric power plant in Greenland. It was built by Nuuk-Kraft and it is operated by Nukissiorfiit - Greenland's national energy company. Wikipedia",
+            "type": ""
+        },
         "Buschhaus Power Station": {
             "label": "Buschhaus Power Station",
             "description": "Buschhaus Power Station is a lignite-fired power station near Helmstedt in Lower Saxony, Germany. It is operated by Helmstedter Revier GmbH, a subsidiary company of MIBRAG. Until end of 2013, the power station was owned by E.ON. Wikipedia",
@@ -14,11 +19,6 @@
                 "Germany"
             ],
             "People also search for": []
-        },
-        "Buksefjord hydroelectric power plant": {
-            "label": "Buksefjord hydroelectric power plant",
-            "description": "The Buksefjord hydroelectric power plant is the first and largest hydroelectric power plant in Greenland. It was built by Nuuk-Kraft and it is operated by Nukissiorfiit - Greenland's national energy company. Wikipedia",
-            "type": ""
         },
         "Goldisthal Pumped Storage Station": {
             "label": "Goldisthal Pumped Storage Station",
@@ -82,6 +82,14 @@
             ],
             "People also search for": []
         },
+        "Irsching Power Station": {
+            "label": "Irsching Power Station",
+            "description": "Irsching Power Station is close to the city of Vohburg, Germany and is operated as a so-called peak load power station. Wikipedia",
+            "type": "",
+            "Address ": [
+                "Germany"
+            ]
+        },
         "Koeberg Nuclear Power Station": {
             "label": "Koeberg Nuclear Power Station",
             "description": "Koeberg nuclear power station is a nuclear power station in South Africa. It is currently the only commercial one in the country, and the sole commercial one in the entire African continent. Wikipedia",
@@ -98,14 +106,6 @@
             "description": "Loviisa Nuclear Power Plant, is a nuclear power plant located close to the Finnish city of Loviisa. It houses two Soviet-designed VVER-440/213 PWR reactors, each with a capacity of 510 MW. Wikipedia",
             "type": "",
             "People also search for": []
-        },
-        "Irsching Power Station": {
-            "label": "Irsching Power Station",
-            "description": "Irsching Power Station is close to the city of Vohburg, Germany and is operated as a so-called peak load power station. Wikipedia",
-            "type": "",
-            "Address ": [
-                "Germany"
-            ]
         },
         "Markersbach Pumped Storage Power Plant": {
             "label": "Markersbach Pumped Storage Power Plant",
@@ -151,6 +151,13 @@
             "description": "Rutenberg Power Station is a coal-powered power plant situated on the Mediterranean coast in Ashkelon, Israel. Wikipedia",
             "type": ""
         },
+        "Schwarze Pumpe power station": {
+            "label": "Schwarze Pumpe power station",
+            "description": "Schwarze Pumpe power station is a modern lignite-fired power station in the \"Schwarze Pumpe\" district in Spremberg, Germany consisting of 2 x 800 megawatts units. It came into service in 1997-98 and was built by Siemens. Wikipedia",
+            "type": "",
+            "Address ": "An der Alten Ziegelei 1, 03130 Spremberg, Germany",
+            "People also search for": []
+        },
         "Stade Nuclear Power Plant": {
             "label": "Stade Nuclear Power Plant",
             "description": "The Nuclear power station Stade operated from 1972 to 2003 in Bassenfleth close to the Schwinge-river mouth into the Elbe river. Wikipedia",
@@ -160,13 +167,6 @@
             "label": "Stendal Nuclear Power Plant",
             "description": "The Stendal Nuclear Power Station in East Germany, was to be the largest nuclear power station in Germany. After German reunification, and due to concerns about the Soviet design, construction was stopped and the power station was never completed. Wikipedia",
             "type": ""
-        },
-        "Schwarze Pumpe power station": {
-            "label": "Schwarze Pumpe power station",
-            "description": "Schwarze Pumpe power station is a modern lignite-fired power station in the \"Schwarze Pumpe\" district in Spremberg, Germany consisting of 2 x 800 megawatts units. It came into service in 1997-98 and was built by Siemens. Wikipedia",
-            "type": "",
-            "Address ": "An der Alten Ziegelei 1, 03130 Spremberg, Germany",
-            "People also search for": []
         },
         "Temelín Nuclear Power Station": {
             "label": "Temelín Nuclear Power Station",
@@ -196,25 +196,6 @@
             "type": "",
             "People also search for": []
         },
-        "José Cabrera Nuclear Power Station": {
-            "label": "José Cabrera Nuclear Power Station",
-            "description": "The José Cabrera Nuclear Power Station is a nuclear power station in Almonacid de Zorita, 70 kilometres east of Madrid, Spain.\nThe power plant consists of a single PWR of 160 MWe. It was operated by Unión Fenosa. Wikipedia",
-            "type": "",
-            "Closed ": "April 30, 2006",
-            "People also search for": []
-        },
-        "Alma Generating Station": {
-            "label": "Alma Generating Station",
-            "description": "Alma Station is a base load, coal fired, electrical power station located in Alma, Wisconsin in Buffalo County. Owned by Dairyland Power Cooperative, the Alma Station and John P. Madgett Station are part of its Alma site. Wikipedia",
-            "type": "Power station",
-            "People also search for": []
-        },
-        "Atlantic Array": {
-            "label": "Atlantic Array",
-            "description": "Atlantic Array was a proposed offshore wind farm in the Bristol Channel, off the coast of North Devon and South Wales, United Kingdom. It is a development by RWE Npower Renewables. Wikipedia",
-            "type": "Power station",
-            "People also search for": []
-        },
         "Blackhawk Generating Station": {
             "label": "Blackhawk Generating Station",
             "description": "Blackhawk Generating Station is a natural gas fired, electrical power station located in Beloit, Wisconsin in Rock County. Primarily used for summer power peaking. Wikipedia",
@@ -230,6 +211,19 @@
                 " WI 53703",
                 " United States"
             ],
+            "People also search for": []
+        },
+        "José Cabrera Nuclear Power Station": {
+            "label": "José Cabrera Nuclear Power Station",
+            "description": "The José Cabrera Nuclear Power Station is a nuclear power station in Almonacid de Zorita, 70 kilometres east of Madrid, Spain.\nThe power plant consists of a single PWR of 160 MWe. It was operated by Unión Fenosa. Wikipedia",
+            "type": "",
+            "Closed ": "April 30, 2006",
+            "People also search for": []
+        },
+        "Atlantic Array": {
+            "label": "Atlantic Array",
+            "description": "Atlantic Array was a proposed offshore wind farm in the Bristol Channel, off the coast of North Devon and South Wales, United Kingdom. It is a development by RWE Npower Renewables. Wikipedia",
+            "type": "Power station",
             "People also search for": []
         },
         "Columbia Energy Center": {
@@ -266,11 +260,6 @@
             "description": "French Island Generating Plant is a waste fired electrical power station located on French Island in La Crosse, Wisconsin. Unit 1 and 2 are boiler / steam turbine units originally constructed in the 1940s operating on coal. Wikipedia",
             "type": "Power plant"
         },
-        "Gibson Generating Station": {
-            "label": "Gibson Generating Station",
-            "description": "The Gibson Generating Station is a coal-burning power plant located at the northern end of northern Montgomery Township, Gibson County, Indiana, United States. Wikipedia",
-            "type": ""
-        },
         "Genoa Generating Station": {
             "label": "Genoa Generating Station",
             "description": "Genoa Generating Station is a base load, coal fired, electrical power station located south of Genoa, Wisconsin in Vernon County. Wikipedia",
@@ -282,6 +271,11 @@
                 " United States"
             ],
             "People also search for": []
+        },
+        "Gibson Generating Station": {
+            "label": "Gibson Generating Station",
+            "description": "The Gibson Generating Station is a coal-burning power plant located at the northern end of northern Montgomery Township, Gibson County, Indiana, United States. Wikipedia",
+            "type": ""
         },
         "Goose Creek Energy Center": {
             "label": "Goose Creek Energy Center",
@@ -300,6 +294,12 @@
             "type": "",
             "People also search for": []
         },
+        "Mangahao Power Station": {
+            "label": "Mangahao Power Station",
+            "description": "Mangahao Power Station is a hydroelectric power station near the town of Shannon, New Zealand. After being delayed by war, access roading and foundation testing was started by late 1919 and the station opened in November 1924. Wikipedia",
+            "type": "",
+            "People also search for": []
+        },
         "Huntly Power Station": {
             "label": "Huntly Power Station",
             "description": "The Huntly Power Station is the largest thermal power station in New Zealand and is located in the town of Huntly in the Waikato. It is operated by Genesis Energy Limited, a state-owned enterprise, and supplies around 17% of the country's power. Wikipedia",
@@ -310,12 +310,6 @@
                 " Huntly 3771",
                 " New Zealand"
             ],
-            "People also search for": []
-        },
-        "Mangahao Power Station": {
-            "label": "Mangahao Power Station",
-            "description": "Mangahao Power Station is a hydroelectric power station near the town of Shannon, New Zealand. After being delayed by war, access roading and foundation testing was started by late 1919 and the station opened in November 1924. Wikipedia",
-            "type": "",
             "People also search for": []
         },
         "Marshall Steam Station": {
@@ -397,16 +391,23 @@
             "type": "Power station",
             "People also search for": []
         },
+        "RockGen Energy Center": {
+            "label": "RockGen Energy Center",
+            "description": "RockGen Energy Center is a 460 megawatt natural gas fired peaking power plant located near Rockdale, Wisconsin. According to Calpine, it was the largest peaking plant in Wisconsin at the time it was constructed. Wikipedia",
+            "type": "Power plant",
+            "People also search for": []
+        },
         "Rock River Generating Station": {
             "label": "Rock River Generating Station",
             "description": "Rock River Generating Station is an electrical power station located north of Beloit, Wisconsin in the town of Beloit at 827 W. B. R. Townline Road on the west bank of the Rock River. Wikipedia",
             "type": "Power station",
             "People also search for": []
         },
-        "Salvajina Dam": {
-            "label": "Salvajina Dam",
-            "description": "The Salvajina Dam and hydroelectric plant are located in the Cauca River, corregimiento Buenos Aires, municipality Suarez, department Cauca in the southwest of Colombia. Its reservoir has a length of 31 kilometres. Wikipedia",
-            "type": ""
+        "Valley Power Plant": {
+            "label": "Valley Power Plant",
+            "description": "Valley Power Plant is an intermediate load, coal fired, electrical power station located in Milwaukee, Wisconsin. The plant is a cogeneration facility supplying steam to 480 customers and 280 MW of electricity. Wikipedia",
+            "type": "",
+            "People also search for": []
         },
         "Vogtle Electric Generating Plant": {
             "label": "Vogtle Electric Generating Plant",
@@ -419,17 +420,16 @@
             ],
             "People also search for": []
         },
+        "Salvajina Dam": {
+            "label": "Salvajina Dam",
+            "description": "The Salvajina Dam and hydroelectric plant are located in the Cauca River, corregimiento Buenos Aires, municipality Suarez, department Cauca in the southwest of Colombia. Its reservoir has a length of 31 kilometres. Wikipedia",
+            "type": ""
+        },
         "Kashiwazaki-Kariwa Nuclear Power Plant": {
             "label": "Kashiwazaki-Kariwa Nuclear Power Plant",
             "description": "The Kashiwazaki-Kariwa Nuclear Power Plant is a large, modern nuclear power plant on a 4.2-square-kilometer site including land in the towns of Kashiwazaki and Kariwa in Niigata Prefecture, Japan on ... Wikipedia",
             "type": "",
             "Opened ": "September 18, 1985",
-            "People also search for": []
-        },
-        "RockGen Energy Center": {
-            "label": "RockGen Energy Center",
-            "description": "RockGen Energy Center is a 460 megawatt natural gas fired peaking power plant located near Rockdale, Wisconsin. According to Calpine, it was the largest peaking plant in Wisconsin at the time it was constructed. Wikipedia",
-            "type": "Power plant",
             "People also search for": []
         },
         "Leningrad Nuclear Power Plant": {
@@ -467,6 +467,12 @@
             ],
             "People also search for": []
         },
+        "Alma Generating Station": {
+            "label": "Alma Generating Station",
+            "description": "Alma Station is a base load, coal fired, electrical power station located in Alma, Wisconsin in Buffalo County. Owned by Dairyland Power Cooperative, the Alma Station and John P. Madgett Station are part of its Alma site. Wikipedia",
+            "type": "Power station",
+            "People also search for": []
+        },
         "Rheidol Power Station": {
             "label": "Rheidol Power Station",
             "description": "Rheidol power station is a 56 MW hydroelectric scheme near Aberystwyth, Wales. It was built between 1957 and 1962 and was officially opened on 3 July 1964. Wikipedia",
@@ -489,19 +495,24 @@
             "description": "Acton Lane Power Station was a power station in west London. The station was located to the south of the Grand Union Canal and west of the Dudding Hill railway line. Wikipedia",
             "type": ""
         },
-        "Alta Wind Energy Center": {
-            "label": "Alta Wind Energy Center",
-            "description": "The Alta Wind Energy Center is a wind farm located in Tehachapi Pass of the Tehachapi Mountains, in Kern County, California. As of 2013, it is the largest wind farm in the world, with a combined installed capacity of 1,320 MW. Wikipedia",
-            "type": ""
-        },
         "Arecleoch Wind Farm": {
             "label": "Arecleoch Wind Farm",
             "description": "Arecleoch Wind Farm is a 60 turbine wind farm in South Ayrshire, Scotland with a total capacity of 120 megawatts, enough to power over 67,000 homes. Construction started in 2009 and it was commissioned in June 2011. Wikipedia",
             "type": ""
         },
+        "Athlone Power Station": {
+            "label": "Athlone Power Station",
+            "description": "Athlone Power Station was a coal-fired power station in Athlone, Cape Town, South Africa.\nThe power station was commissioned in 1962 with 6 turbines with a nominal capacity of 180 megawatts, and operated by the City of Cape Town. Wikipedia",
+            "type": ""
+        },
         "Billingham Biomass Power Station": {
             "label": "Billingham Biomass Power Station",
             "description": "Billingham Biomass Power Station is a planned biomass power station, that is to be built on the River Tees at Billingham. It is to be built on the site of the former coal-fired North Tees Power Station. Wikipedia",
+            "type": ""
+        },
+        "Alta Wind Energy Center": {
+            "label": "Alta Wind Energy Center",
+            "description": "The Alta Wind Energy Center is a wind farm located in Tehachapi Pass of the Tehachapi Mountains, in Kern County, California. As of 2013, it is the largest wind farm in the world, with a combined installed capacity of 1,320 MW. Wikipedia",
             "type": ""
         },
         "Buseruka Power Station": {
@@ -512,9 +523,9 @@
                 "Friday 544 PM"
             ]
         },
-        "Athlone Power Station": {
-            "label": "Athlone Power Station",
-            "description": "Athlone Power Station was a coal-fired power station in Athlone, Cape Town, South Africa.\nThe power station was commissioned in 1962 with 6 turbines with a nominal capacity of 180 megawatts, and operated by the City of Cape Town. Wikipedia",
+        "Dhirubhai Ambani Solar Park": {
+            "label": "Dhirubhai Ambani Solar Park",
+            "description": "The Dhirubhai Ambani Solar Park at Dhursar village near Pokran in the Jaisalmer district of Rajasthan is one of a large number of solar parks expected to be built in a 35,000 km² area of the Thar Desert ... Wikipedia",
             "type": ""
         },
         "Camden Power Station": {
@@ -528,11 +539,6 @@
             "description": "The Guru Nanak Dev Thermal Plant at Bathinda is one of the three thermal power stations in Punjab. It is a medium-sized power station with four units that were begun to be built in early 1970s and completed in 1982. Wikipedia",
             "type": ""
         },
-        "Dhirubhai Ambani Solar Park": {
-            "label": "Dhirubhai Ambani Solar Park",
-            "description": "The Dhirubhai Ambani Solar Park at Dhursar village near Pokran in the Jaisalmer district of Rajasthan is one of a large number of solar parks expected to be built in a 35,000 km² area of the Thar Desert ... Wikipedia",
-            "type": ""
-        },
         "Hongsibao Solar Park": {
             "label": "Hongsibao Solar Park",
             "description": "The Hongsibao Solar Park is a 50 MWp photovoltaic power station located in the Ningxia region, in China. Most of it uses fixed tilt arrays, but a 2 MW tracker section was completed in 2011. The first stage, 20 MWp, was completed in 2010. Wikipedia",
@@ -543,14 +549,14 @@
             "description": "The Incheon Tidal Power Station is a large tidal power station currently under construction at the Incheon Bay, South Korea. Wikipedia",
             "type": "Bus station"
         },
-        "Kinyara Power Station": {
-            "label": "Kinyara Power Station",
-            "description": "Kinyara Power Station is a 14.5MW bagasse-fired thermal power plant located in the town of Kinyara in Masindi District, in Western Uganda. Wikipedia",
-            "type": ""
-        },
         "Kepier power station": {
             "label": "Kepier power station",
             "description": "Kepier power station refers to a cancelled coal-fired power station on the River Wear at Kepier, 0.75 miles north east of Durham, County Durham, North East England. Wikipedia",
+            "type": ""
+        },
+        "Kinyara Power Station": {
+            "label": "Kinyara Power Station",
+            "description": "Kinyara Power Station is a 14.5MW bagasse-fired thermal power plant located in the town of Kinyara in Masindi District, in Western Uganda. Wikipedia",
             "type": ""
         },
         "Lugazi Power Station": {
@@ -569,14 +575,19 @@
             ],
             "People also search for": []
         },
+        "Presenzano Hydroelectric Plant": {
+            "label": "Presenzano Hydroelectric Plant",
+            "description": "The Presenzano Hydroelectric Plant, officially known as the Domenico Cimarosa Hydroelectric Plant, is located along the Volturno River in Presenzano, Province of Caserta, Italy. Wikipedia",
+            "type": ""
+        },
         "Pates Hill Wind Farm": {
             "label": "Pates Hill Wind Farm",
             "description": "Pates Hill Wind Farm is located near the village of West Calder in West Lothian, Scotland. It consists of 7 Vestas V-80 wind turbines, measuring 107 metres to the blade tip. Wikipedia",
             "type": ""
         },
-        "Presenzano Hydroelectric Plant": {
-            "label": "Presenzano Hydroelectric Plant",
-            "description": "The Presenzano Hydroelectric Plant, officially known as the Domenico Cimarosa Hydroelectric Plant, is located along the Volturno River in Presenzano, Province of Caserta, Italy. Wikipedia",
+        "Roncovalgrande Hydroelectric Plant": {
+            "label": "Roncovalgrande Hydroelectric Plant",
+            "description": "The Roncovalgrande Hydroelectric Plant, also known as the Delio Hydroelectric Plant, is located 3 km north of Maccagno in the Province of Varese, Lombardy, Italy. Wikipedia",
             "type": ""
         },
         "Reefton Power Station": {
@@ -584,21 +595,6 @@
             "description": "Reefton Power Station was the first power station to supply municipal electricity in the Southern Hemisphere.\nIt supplied electricity to the town of Reefton in New Zealand. Wikipedia",
             "type": "",
             "People also search for": []
-        },
-        "Roncovalgrande Hydroelectric Plant": {
-            "label": "Roncovalgrande Hydroelectric Plant",
-            "description": "The Roncovalgrande Hydroelectric Plant, also known as the Delio Hydroelectric Plant, is located 3 km north of Maccagno in the Province of Varese, Lombardy, Italy. Wikipedia",
-            "type": ""
-        },
-        "Rzeszów Power Station": {
-            "label": "Rzeszów Power Station",
-            "description": "Rzeszow Power Station is a coal-fired thermal power station in Rzeszów, Poland. At the first stage four units with a thermal capacity of 25 MWt each were built between 1976 and 1983. Wikipedia",
-            "type": "",
-            "Address ": [
-                "Ciepłownicza 8",
-                " Rzeszów",
-                " Poland"
-            ]
         },
         "Ruacana Dam": {
             "label": "Ruacana Dam",
@@ -615,32 +611,43 @@
             "description": "Sere Wind Farm is a wind-farm in the Western Cape province of South Africa that, 100MW when completed, will be one of the largest wind-farms in Southern Africa. The project is estimated to cost R2.689 billion. Wikipedia",
             "type": ""
         },
+        "Rzeszów Power Station": {
+            "label": "Rzeszów Power Station",
+            "description": "Rzeszow Power Station is a coal-fired thermal power station in Rzeszów, Poland. At the first stage four units with a thermal capacity of 25 MWt each were built between 1976 and 1983. Wikipedia",
+            "type": "",
+            "Address ": [
+                "Ciepłownicza 8",
+                " Rzeszów",
+                " Poland"
+            ]
+        },
         "Siah Bishe Pumped Storage Power Plant": {
             "label": "Siah Bishe Pumped Storage Power Plant",
             "description": "The Siah Bisheh Pumped Storage Power Plant, also spelled Siyāhbisheh and Siah Bishe, is located in the Alborz Mountain range near the village of Siah Bisheh and 48 km south of Chalus in Mazandaran Province, Iran. Wikipedia",
             "type": ""
-        },
-        "Valley Power Plant": {
-            "label": "Valley Power Plant",
-            "description": "Valley Power Plant is an intermediate load, coal fired, electrical power station located in Milwaukee, Wisconsin. The plant is a cogeneration facility supplying steam to 480 customers and 280 MW of electricity. Wikipedia",
-            "type": "",
-            "People also search for": []
         }
     },
     "summary": {
-        "label": 86,
-        "description": 86,
-        "type": 86,
-        "people_also_search_for": 1,
-        "address": 1,
-        "opened": 1,
-        "architecture_firm": 1,
-        "construction_started": 1,
-        "area": 1,
-        "hours": 1,
-        "architectural_style": 1,
-        "closed": 1,
-        "local_time": 1
+        "label": {
+            "uri": "http://dbpedia.org/property/label",
+            "count": 86
+        },
+        "description": {
+            "uri": "http://dbpedia.org/property/description",
+            "count": 86
+        },
+        "type": {
+            "uri": "http://dbpedia.org/property/type",
+            "count": 86
+        },
+        "opened": {
+            "uri": "http://dbpedia.org/property/opened",
+            "count": 5
+        },
+        "closed": {
+            "uri": "http://dbpedia.org/property/closed",
+            "count": 1
+        }
     },
     "infoboxless": [
         "Sellafield",
@@ -657,5 +664,15 @@
         "Solarpark Finow Tower",
         "Svartisen Hydroelectric Power Station",
         "Tonstad Hydroelectric Power Station"
-    ]
+    ],
+    "Unmapped_Properties": {
+        "peopleAlsoSearchFor": 1,
+        "address": 1,
+        "architectureFirm": 1,
+        "constructionStarted": 1,
+        "area": 1,
+        "hours": 1,
+        "architecturalStyle": 1,
+        "localTime": 1
+    }
 }

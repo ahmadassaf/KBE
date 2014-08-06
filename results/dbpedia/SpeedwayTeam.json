@@ -5,16 +5,6 @@
             "description": "Reading Racers were a British motorcycle speedway team. Formed in 1968, they won four British League titles during their history. The club closed in October 2008 after the lease on Smallmead Stadium expired and the site was demolished. Wikipedia",
             "type": "Soccer team"
         },
-        "PSŻ Poznań": {
-            "label": "PSŻ Poznań",
-            "description": "Poznańskie Stowarzyszenie Żużlowe is a Polish speedway team based in Poznań who currently race in First League. The club never rode in the Polish top division. Their nickname is \"The Scorpions\". Wikipedia",
-            "type": ""
-        },
-        "Hackney Wick Wolves": {
-            "label": "Hackney Wick Wolves",
-            "description": "Hackney Wick Wolves speedway opened in 1935 at Hackney Wick Stadium, Waterden Road, London, and operated until the outbreak of World War II in 1939. Wikipedia",
-            "type": ""
-        },
         "ZKŻ Zielona Góra": {
             "label": "ZKŻ Zielona Góra",
             "description": "Falubaz Zielona Góra is a Polish speedway team based in Zielona Góra who currently races in Speedway Ekstraliga. The club has won Polish Speedway League six times. It is commonly known as Falubaz due to one of its former names. Wikipedia",
@@ -22,6 +12,16 @@
             "Founded ": [
                 "1946"
             ]
+        },
+        "Hackney Wick Wolves": {
+            "label": "Hackney Wick Wolves",
+            "description": "Hackney Wick Wolves speedway opened in 1935 at Hackney Wick Stadium, Waterden Road, London, and operated until the outbreak of World War II in 1939. Wikipedia",
+            "type": ""
+        },
+        "PSŻ Poznań": {
+            "label": "PSŻ Poznań",
+            "description": "Poznańskie Stowarzyszenie Żużlowe is a Polish speedway team based in Poznań who currently race in First League. The club never rode in the Polish top division. Their nickname is \"The Scorpions\". Wikipedia",
+            "type": ""
         },
         "Włókniarz Częstochowa": {
             "label": "Włókniarz Częstochowa",
@@ -117,16 +117,30 @@
         }
     },
     "summary": {
-        "label": 14,
-        "description": 14,
-        "type": 14,
-        "founded": 1,
-        "location": 1,
-        "manager": 1,
-        "arena/stadium": 1,
-        "training_ground": 1,
-        "leagues": 1,
-        "roster": 1
+        "label": {
+            "uri": "http://www.w3.org/2000/01/rdf-schema#label",
+            "count": 14
+        },
+        "description": {
+            "uri": "http://fr.dbpedia.org/ontology/abstract",
+            "count": 14
+        },
+        "type": {
+            "uri": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+            "count": 14
+        },
+        "founded": {
+            "uri": "http://dbpedia.org/property/founded",
+            "count": 6
+        },
+        "location": {
+            "uri": "http://dbpedia.org/property/location",
+            "count": 5
+        },
+        "manager": {
+            "uri": "http://dbpedia.org/property/manager",
+            "count": 1
+        }
     },
     "infoboxless": [
         "Wybrzeże Gdańsk",
@@ -193,5 +207,11 @@
         "Wimbledon Dons",
         "Polonia Bydgoszcz",
         "Leicester Stadium (speedway team)"
-    ]
+    ],
+    "Unmapped_Properties": {
+        "arena/stadium": 1,
+        "trainingGround": 1,
+        "leagues": 1,
+        "roster": 1
+    }
 }

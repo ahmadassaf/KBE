@@ -16,32 +16,43 @@
         }
     },
     "summary": {
-        "label": 1,
-        "description": 1,
-        "type": 1,
-        "headquarters": 1,
-        "founders": 1,
-        "recent_posts": 1
+        "label": {
+            "uri": "http://www.w3.org/2000/01/rdf-schema#label",
+            "count": 1
+        },
+        "description": {
+            "uri": "http://fr.dbpedia.org/ontology/abstract",
+            "count": 1
+        },
+        "type": {
+            "uri": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+            "count": 1
+        }
     },
     "infoboxless": [
         "National Lacrosse League",
         "American Lacrosse League (1988)",
-        "Thompson Okanagan Junior Lacrosse League",
         "NCAA Men's Lacrosse Championship",
         "World Lacrosse Championship",
-        "North American Lacrosse League",
+        "Thompson Okanagan Junior Lacrosse League",
         "National Lacrosse League (1974–1975)",
-        "Ontario Junior B Lacrosse League",
+        "North American Lacrosse League",
         "West Coast Senior Lacrosse Association",
         "Canadian Lacrosse League",
+        "Ontario Junior B Lacrosse League",
         "West Coast Junior Lacrosse League",
         "Midwest Cities Lacrosse Conference",
         "Professional Lacrosse League",
-        "West Central Lacrosse League",
         "Great Lakes Lacrosse League",
-        "Men's Collegiate Lacrosse Association",
+        "West Central Lacrosse League",
         "Major Series Lacrosse",
-        "LXM Pro Tour",
-        "Western Lacrosse Association"
-    ]
+        "Men's Collegiate Lacrosse Association",
+        "Western Lacrosse Association",
+        "LXM Pro Tour"
+    ],
+    "Unmapped_Properties": {
+        "headquarters": 1,
+        "founders": 1,
+        "recentPosts": 1
+    }
 }

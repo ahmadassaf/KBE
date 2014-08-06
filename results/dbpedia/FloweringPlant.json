@@ -146,6 +146,14 @@
                 "Common Grape Vine"
             ]
         },
+        "Breidecker": {
+            "label": "Breidecker",
+            "description": "Breidecker is white variety of grape. It is a hybrid grape, an interspecific crossing × Seibel 7053. It can be used to make a German style light white wine with apple and pear flavors. Wikipedia",
+            "type": "Grape Variety",
+            "Rank ": [
+                "Hybrid"
+            ]
+        },
         "Blaufränkisch": {
             "label": "Blaufränkisch",
             "description": "Blaufränkisch is a dark-skinned variety of grape used for red wine. Blaufränkisch, which is a late-ripening variety, produces red wines which are typically rich in tannin and may exhibit a pronounced spicy character. Wikipedia",
@@ -157,22 +165,22 @@
                 "Common Grape Vine"
             ]
         },
+        "Ciliegiolo": {
+            "label": "Ciliegiolo",
+            "description": "Ciliegiolo is a variety of red wine grape from Italy, named after the Italian for 'cherry'. It is a minor component of traditional blends such as Chianti, but interest has revived in recent years. Wikipedia",
+            "type": "Grape Variety",
+            "Rank ": [
+                "Cultivar"
+            ]
+        },
         "Bombino Bianco": {
             "label": "Bombino bianco",
             "description": "Bombino bianco is a white Italian wine grape variety planted primarily along Italy's Adriatic coast line, most notably in Puglia. The vine is prone to high yields and often produces neutral flavor wines. Wikipedia",
             "type": "Grape Variety"
         },
-        "Breidecker": {
-            "label": "Breidecker",
-            "description": "Breidecker is white variety of grape. It is a hybrid grape, an interspecific crossing × Seibel 7053. It can be used to make a German style light white wine with apple and pear flavors. Wikipedia",
-            "type": "Grape Variety",
-            "Rank ": [
-                "Hybrid"
-            ]
-        },
-        "Bronner (grape)": {
-            "label": "Bronner",
-            "description": "Bronner is a white grape variety used for wine. It was bred in 1975 by Norbert Becker at the viticultural institute in Freiburg, Germany. Wikipedia",
+        "Colombard": {
+            "label": "Colombard",
+            "description": "Colombard is a white French wine grape variety that is the offspring of Gouais blanc and Chenin blanc. This makes the grape the sibling of the Armagnac Meslier-Saint-François and the nearly extinct Cognac grape Balzac blanc. Wikipedia",
             "type": "Grape Variety"
         },
         "Burmese grape": {
@@ -189,42 +197,6 @@
                 "Baccaurea"
             ],
             "People also search for": []
-        },
-        "Ciliegiolo": {
-            "label": "Ciliegiolo",
-            "description": "Ciliegiolo is a variety of red wine grape from Italy, named after the Italian for 'cherry'. It is a minor component of traditional blends such as Chianti, but interest has revived in recent years. Wikipedia",
-            "type": "Grape Variety",
-            "Rank ": [
-                "Cultivar"
-            ]
-        },
-        "Colombard": {
-            "label": "Colombard",
-            "description": "Colombard is a white French wine grape variety that is the offspring of Gouais blanc and Chenin blanc. This makes the grape the sibling of the Armagnac Meslier-Saint-François and the nearly extinct Cognac grape Balzac blanc. Wikipedia",
-            "type": "Grape Variety"
-        },
-        "Combretaceae": {
-            "label": "Combretaceae",
-            "description": "Combretaceae is a family of flowering plants in the order Myrtales. The family includes about 600 species of trees, shrubs, and lianas in 18 genera. The family includes the leadwood tree, Combretum imberbe. Wikipedia",
-            "type": "Plant",
-            "Scientific name ": [
-                "Combretaceae"
-            ],
-            "Rank ": [
-                "Family"
-            ],
-            "Higher classification ": [
-                "Myrtales"
-            ],
-            "Lower classifications ": [
-                "Combretum",
-                " Conocarpus",
-                " Bucida",
-                " Laguncularia",
-                " Buchenavia",
-                " Anogeissus",
-                " Terminalia"
-            ]
         },
         "Conocarpus": {
             "label": "Conocarpus",
@@ -419,16 +391,6 @@
             "description": "Falanghina, also called Falanghina Greco, is a variety of wine grape, Vitis vinifera, used for white wines. It is an ancient grape variety which may have provided a basis for the classical Falernian wine, and has considerable character. Wikipedia",
             "type": "Grape Variety"
         },
-        "Freisamer": {
-            "label": "Freisamer",
-            "description": "Freisamer is a white German wine grape variety grown primarily in the Baden region with some plantings in eastern Switzerland. Wikipedia",
-            "type": "Grape Variety"
-        },
-        "Garganega": {
-            "label": "Garganega",
-            "description": "Garganega is a variety of white Italian wine grape widely grown in the Veneto region of North East Italy, particularly in the provinces of Verona and Vicenza. It is Italy's 6th most widely planted white grape. Wikipedia",
-            "type": "Grape Variety"
-        },
         "Gaglioppo": {
             "label": "Gaglioppo",
             "description": "Gaglioppo is a red wine grape that is grown in southern Italy, primarily around Calabria. The vine performs well in drought conditions but is susceptible to oidium and peronospera. Wikipedia",
@@ -439,6 +401,34 @@
             "Higher classification ": [
                 "Common Grape Vine"
             ]
+        },
+        "Combretaceae": {
+            "label": "Combretaceae",
+            "description": "Combretaceae is a family of flowering plants in the order Myrtales. The family includes about 600 species of trees, shrubs, and lianas in 18 genera. The family includes the leadwood tree, Combretum imberbe. Wikipedia",
+            "type": "Plant",
+            "Scientific name ": [
+                "Combretaceae"
+            ],
+            "Rank ": [
+                "Family"
+            ],
+            "Higher classification ": [
+                "Myrtales"
+            ],
+            "Lower classifications ": [
+                "Combretum",
+                " Conocarpus",
+                " Bucida",
+                " Laguncularia",
+                " Buchenavia",
+                " Anogeissus",
+                " Terminalia"
+            ]
+        },
+        "Garganega": {
+            "label": "Garganega",
+            "description": "Garganega is a variety of white Italian wine grape widely grown in the Veneto region of North East Italy, particularly in the provinces of Verona and Vicenza. It is Italy's 6th most widely planted white grape. Wikipedia",
+            "type": "Grape Variety"
         },
         "Geranium columbinum": {
             "label": "Geranium columbinum",
@@ -595,6 +585,20 @@
             "description": "Lumnitzera is an Indo-West Pacific mangrove genus in the family Combretaceae. The English common name is Black Mangrove. Wikipedia",
             "type": ""
         },
+        "Lythrum portula": {
+            "label": "Lythrum portula",
+            "description": "Lythrum portula is a species of flowering plant in the loosestrife family known by the common name spatulaleaf loosestrife. It is native to Europe, and it is found in parts of western North America as an introduced species. Wikipedia",
+            "type": "Plant",
+            "Scientific name ": [
+                "Lythrum portula"
+            ],
+            "Rank ": [
+                "Species"
+            ],
+            "Higher classification ": [
+                "Lythrum"
+            ]
+        },
         "Mangifera indica": {
             "label": "Mangifera indica",
             "description": "Mangifera indica is a species of mango in the Anacardiaceae family. It is found in the wild in India and cultivated varieties have been introduced to other warm regions of the world. Wikipedia",
@@ -609,20 +613,6 @@
                 "Mangifera"
             ],
             "See results about": []
-        },
-        "Lythrum portula": {
-            "label": "Lythrum portula",
-            "description": "Lythrum portula is a species of flowering plant in the loosestrife family known by the common name spatulaleaf loosestrife. It is native to Europe, and it is found in parts of western North America as an introduced species. Wikipedia",
-            "type": "Plant",
-            "Scientific name ": [
-                "Lythrum portula"
-            ],
-            "Rank ": [
-                "Species"
-            ],
-            "Higher classification ": [
-                "Lythrum"
-            ]
         },
         "Melaleuca": {
             "label": "Melaleuca",
@@ -761,6 +751,16 @@
                 " …"
             ]
         },
+        "Freisamer": {
+            "label": "Freisamer",
+            "description": "Freisamer is a white German wine grape variety grown primarily in the Baden region with some plantings in eastern Switzerland. Wikipedia",
+            "type": "Grape Variety"
+        },
+        "Pearl of Csaba": {
+            "label": "Pearl of Csaba",
+            "description": "Pearl of Csaba is a white variety of grape. It was created in 1904 by the Hungarian viticulturalist Adolf Stark, presumably by crossing Madeleine Angevine × Muscat Courtillier. Wikipedia",
+            "type": "Grape Variety"
+        },
         "Pelargonium sidoides": {
             "label": "Pelargonium sidoides",
             "description": "Pelargonium sidoides is a medicinal plant native to South Africa. Its common names include Umckaloabo and South African Geranium. Wikipedia",
@@ -769,9 +769,9 @@
                 "Pelargonium sidoides"
             ]
         },
-        "Pearl of Csaba": {
-            "label": "Pearl of Csaba",
-            "description": "Pearl of Csaba is a white variety of grape. It was created in 1904 by the Hungarian viticulturalist Adolf Stark, presumably by crossing Madeleine Angevine × Muscat Courtillier. Wikipedia",
+        "Petit Manseng": {
+            "label": "Petit Manseng",
+            "description": "Petit Manseng is a white wine grape variety that is grown primarily in South West France. It produces the highest quality wine of any grape in the Manseng family. The name is derived from its small, thick skin berries. Wikipedia",
             "type": "Grape Variety"
         },
         "Pelaverga": {
@@ -785,9 +785,9 @@
                 "Common Grape Vine"
             ]
         },
-        "Petit Manseng": {
-            "label": "Petit Manseng",
-            "description": "Petit Manseng is a white wine grape variety that is grown primarily in South West France. It produces the highest quality wine of any grape in the Manseng family. The name is derived from its small, thick skin berries. Wikipedia",
+        "Petit Meslier": {
+            "label": "Petit Meslier",
+            "description": "Petit Meslier is a rare white wine grape that is a minor component of some Champagne blends. It is valued for its ability to retain acidity even in hot vintages. In the very rare cases where it is not blended, it makes crisp wines tasting of apples. Wikipedia",
             "type": "Grape Variety"
         },
         "Piedirosso": {
@@ -800,11 +800,6 @@
             "Higher classification ": [
                 "Common Grape Vine"
             ]
-        },
-        "Petit Meslier": {
-            "label": "Petit Meslier",
-            "description": "Petit Meslier is a rare white wine grape that is a minor component of some Champagne blends. It is valued for its ability to retain acidity even in hot vintages. In the very rare cases where it is not blended, it makes crisp wines tasting of apples. Wikipedia",
-            "type": "Grape Variety"
         },
         "Pink Ivory": {
             "label": "Pink Ivory",
@@ -825,6 +820,20 @@
                 "Cultivar"
             ]
         },
+        "Planera aquatica": {
+            "label": "Planera aquatica",
+            "description": "Planera aquatica, or Water Elm is single species in the southeastern United States, a small deciduous tree 10–15 m tall, closely related to the Elms but with a softly, prickly nut 10–15 mm diameter, instead of a winged seed. Wikipedia",
+            "type": "",
+            "Scientific name ": [
+                "Planera aquatica"
+            ],
+            "Rank ": [
+                "Species"
+            ],
+            "Higher classification ": [
+                "Planera"
+            ]
+        },
         "Rhamnales": {
             "label": "Rhamnales",
             "description": "The Rhamnales Lindl. are an order of dicotyledon plants in the subclass Rosidae. In the Cronquist system, the following families were placed here\nFamily Elaeagnaceae –\nFamily Leeaceae\nFamily Rhamnaceae ... Wikipedia",
@@ -842,28 +851,6 @@
                 "Rhamnaceae",
                 " Vitaceae",
                 " Elaeagnaceae"
-            ]
-        },
-        "Planera aquatica": {
-            "label": "Planera aquatica",
-            "description": "Planera aquatica, or Water Elm is single species in the southeastern United States, a small deciduous tree 10–15 m tall, closely related to the Elms but with a softly, prickly nut 10–15 mm diameter, instead of a winged seed. Wikipedia",
-            "type": "",
-            "Scientific name ": [
-                "Planera aquatica"
-            ],
-            "Rank ": [
-                "Species"
-            ],
-            "Higher classification ": [
-                "Planera"
-            ]
-        },
-        "Rhamnella": {
-            "label": "Rhamnella",
-            "description": "Rhamnella is a genus of plant in the family Rhamnaceae.\nSpecies include\nRhamnella caudata Merr. & Chun\nRhamnella forrestii W.W. Sm.\nRhamnella franguloides Weberb.\nRhamnella gilgitica Mansf. & Melch.\nRhamnella julianae C.K. Schneid. Wikipedia",
-            "type": "",
-            "Rank ": [
-                "Genus"
             ]
         },
         "Rieslaner": {
@@ -914,11 +901,6 @@
                 "Cultivar"
             ]
         },
-        "Scheurebe": {
-            "label": "Scheurebe",
-            "description": "Scheurebe or Sämling 88 is a white wine grape variety. It is primarily grown in Germany and Austria, where it often is called Sämling 88, and some parts of the New World. Wikipedia",
-            "type": "Grape Variety"
-        },
         "Sarcococca": {
             "label": "Sarcococca",
             "description": "Sarcococca is a genus of 16-20 species of flowering plants in the box family Buxaceae, native to eastern and southeastern Asia and the Himalayas. They are slow-growing, monoecious, evergreen shrubs 1–2 m tall. Wikipedia",
@@ -927,6 +909,11 @@
                 "Genus"
             ],
             "See results about": []
+        },
+        "Scheurebe": {
+            "label": "Scheurebe",
+            "description": "Scheurebe or Sämling 88 is a white wine grape variety. It is primarily grown in Germany and Austria, where it often is called Sämling 88, and some parts of the New World. Wikipedia",
+            "type": "Grape Variety"
         },
         "Siegerrebe": {
             "label": "Siegerrebe",
@@ -962,20 +949,6 @@
                 "Lessertia"
             ]
         },
-        "Terminalia catappa": {
-            "label": "Terminalia catappa",
-            "description": "Terminalia catappa is a large tropical tree in the leadwood tree family, Combretaceae, that grows mainly in the tropical regions of Asia, Africa, and Australia. Wikipedia",
-            "type": "Plant",
-            "Scientific name ": [
-                "Terminalia catappa"
-            ],
-            "Higher classification ": [
-                "Terminalia"
-            ],
-            "Rank ": [
-                "Species"
-            ]
-        },
         "Terminalia (plant)": {
             "label": "Terminalia",
             "description": "Terminalia is a genus of large trees of the flowering plant family Combretaceae, comprising around 100 species distributed in tropical regions of the world. Wikipedia",
@@ -996,19 +969,48 @@
                 " Terminalia superba",
                 " Terminalia catappa"
             ]
+        },
+        "Terminalia catappa": {
+            "label": "Terminalia catappa",
+            "description": "Terminalia catappa is a large tropical tree in the leadwood tree family, Combretaceae, that grows mainly in the tropical regions of Asia, Africa, and Australia. Wikipedia",
+            "type": "Plant",
+            "Scientific name ": [
+                "Terminalia catappa"
+            ],
+            "Higher classification ": [
+                "Terminalia"
+            ],
+            "Rank ": [
+                "Species"
+            ]
+        },
+        "Rhamnella": {
+            "label": "Rhamnella",
+            "description": "Rhamnella is a genus of plant in the family Rhamnaceae.\nSpecies include\nRhamnella caudata Merr. & Chun\nRhamnella forrestii W.W. Sm.\nRhamnella franguloides Weberb.\nRhamnella gilgitica Mansf. & Melch.\nRhamnella julianae C.K. Schneid. Wikipedia",
+            "type": "",
+            "Rank ": [
+                "Genus"
+            ]
+        },
+        "Bronner (grape)": {
+            "label": "Bronner",
+            "description": "Bronner is a white grape variety used for wine. It was bred in 1975 by Norbert Becker at the viticultural institute in Freiburg, Germany. Wikipedia",
+            "type": "Grape Variety"
         }
     },
     "summary": {
-        "label": 82,
-        "description": 82,
-        "type": 82,
-        "scientific_name": 1,
-        "higher_classification": 1,
-        "rank": 1,
-        "lower_classifications": 1,
-        "see_results_about": 1,
-        "people_also_search_for": 1,
-        "founder": 1
+        "label": {
+            "uri": "http://www.w3.org/2000/01/rdf-schema#label",
+            "count": 82
+        },
+        "description": {
+            "uri": "http://fr.dbpedia.org/ontology/abstract",
+            "count": 82
+        },
+        "type": {
+            "uri": "http://dbpedia.org/property/type",
+            "count": 82
+        }
     },
     "infoboxless": [
         "Arbois (grape)",
@@ -1029,5 +1031,14 @@
         "Rapistrum",
         "Rotala rotundifolia",
         "Sassafras"
-    ]
+    ],
+    "Unmapped_Properties": {
+        "scientificName": 1,
+        "higherClassification": 1,
+        "rank": 1,
+        "lowerClassifications": 1,
+        "seeResultsAbout": 1,
+        "peopleAlsoSearchFor": 1,
+        "founder": 1
+    }
 }

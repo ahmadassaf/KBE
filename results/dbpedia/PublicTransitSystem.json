@@ -1,23 +1,23 @@
 {
     "instances": {
-        "Baku Metro": {
-            "label": "Baku Metro",
-            "description": "Baku Metro is a rapid transit system serving Baku, the capital of Azerbaijan. First opened on November 6, 1967, during the time of the Soviet Union, it has the features found in most other ex-Soviet ... Wikipedia",
-            "type": ""
-        },
         "Berlin S-Bahn": {
             "label": "Berlin S-Bahn",
             "description": "The Berlin S-Bahn is a rapid transit railway system in and around Berlin, the capital city of Germany. Wikipedia",
             "type": ""
         },
-        "Dorfbahn Serfaus": {
-            "label": "Dorfbahn Serfaus",
-            "description": "The Dorfbahn Serfaus is an unusual underground air cushion funicular transit system in the Tyrolian village of Serfaus in Austria. The name literally translates as Serfaus Village Railway. Wikipedia",
+        "Baku Metro": {
+            "label": "Baku Metro",
+            "description": "Baku Metro is a rapid transit system serving Baku, the capital of Azerbaijan. First opened on November 6, 1967, during the time of the Soviet Union, it has the features found in most other ex-Soviet ... Wikipedia",
             "type": ""
         },
         "Genoa Metro": {
             "label": "Genoa Metro",
             "description": "The Genoa Metro is a light metro consisting of a single line that connects the centre of Genoa, Italy with the suburb of Rivarolo Ligure, to the north-west of the city centre. Wikipedia",
+            "type": ""
+        },
+        "Dorfbahn Serfaus": {
+            "label": "Dorfbahn Serfaus",
+            "description": "The Dorfbahn Serfaus is an unusual underground air cushion funicular transit system in the Tyrolian village of Serfaus in Austria. The name literally translates as Serfaus Village Railway. Wikipedia",
             "type": ""
         },
         "FirstGroup": {
@@ -152,6 +152,12 @@
                 " Turkey"
             ]
         },
+        "Toronto Transit Commission": {
+            "label": "Toronto Transit Commission",
+            "description": "",
+            "type": "",
+            "People also search for": []
+        },
         "TransMilenio": {
             "label": "TransMilenio",
             "description": "TransMilenio is a bus rapid transit system that serves Bogotá, the capital of Colombia. The system opened to the public in December 2000, covering Av. Caracas and Calle 80. Wikipedia",
@@ -167,12 +173,6 @@
             "label": "Budapest Metro",
             "description": "The Budapest Metro is the rapid transit system in the Hungarian capital Budapest. It is the oldest electrified underground railway system on the European continent, and the second-oldest in Europe, ... Wikipedia",
             "type": "Metro system"
-        },
-        "Toronto Transit Commission": {
-            "label": "Toronto Transit Commission",
-            "description": "",
-            "type": "",
-            "People also search for": []
         },
         "Madrid Metro": {
             "label": "Metro Madrid",
@@ -198,12 +198,6 @@
             ],
             "People also search for": []
         },
-        "Osaka Monorail": {
-            "label": "Osaka Monorail",
-            "description": "The Osaka Monorail is a monorail in northern Osaka Prefecture, Japan, operated by Osaka Monorail Co., Ltd.. Wikipedia",
-            "type": "",
-            "People also search for": []
-        },
         "Hankyu Railway": {
             "label": "Hankyu Railway",
             "description": "Hankyu Railway, commonly known as Hankyū Dentetsu, is a Japanese private railway that provides commuter and interurban service to the northern Kansai region and is one of major businesses operated by Hankyu Hanshin Holdings, Inc. Wikipedia",
@@ -214,11 +208,22 @@
             "Founded ": "October 19, 1907",
             "People also search for": []
         },
+        "Osaka Monorail": {
+            "label": "Osaka Monorail",
+            "description": "The Osaka Monorail is a monorail in northern Osaka Prefecture, Japan, operated by Osaka Monorail Co., Ltd.. Wikipedia",
+            "type": "",
+            "People also search for": []
+        },
         "White Pass and Yukon Route": {
             "label": "White Pass and Yukon Route",
             "description": "The White Pass and Yukon Route is a Canadian and U.S. Class II 3 ft narrow gauge railroad linking the port of Skagway, Alaska, with Whitehorse, the capital of Yukon. An isolated system, it has no direct connection to any other railroad. Wikipedia",
             "type": "Railway",
             "People also search for": []
+        },
+        "El Paso and Northeastern Railway": {
+            "label": "El Paso and Northeastern Railway",
+            "description": "The El Paso and Northeastern Railway was a short line railroad that was built around the beginning of the twentieth century to help connect the industrial and commercial center at El Paso, Texas, with ... Wikipedia",
+            "type": ""
         },
         "Atlantic City Railroad": {
             "label": "Atlantic City Railroad",
@@ -231,16 +236,10 @@
             "description": "The Chemin de Fer Moudania Brousse, or CFMB was a 41-kilometre long railway line from the port of Mudanya to Bursa. Wikipedia",
             "type": ""
         },
-        "El Paso and Northeastern Railway": {
-            "label": "El Paso and Northeastern Railway",
-            "description": "The El Paso and Northeastern Railway was a short line railroad that was built around the beginning of the twentieth century to help connect the industrial and commercial center at El Paso, Texas, with ... Wikipedia",
+        "Maryland Central Railroad": {
+            "label": "Maryland Central Railroad",
+            "description": "The Maryland Central Railroad was a 19th-century 3 ft narrow gauge railroad in Maryland, with a small track section in Pennsylvania. It operated freight and passenger trains between Baltimore and Delta, Pennsylvania. Wikipedia",
             "type": ""
-        },
-        "Agence métropolitaine de transport": {
-            "label": "AMT - Agence métropolitaine de transport",
-            "description": "",
-            "type": "",
-            "People also search for": []
         },
         "Aberystwyth Cliff Railway": {
             "label": "Aberystwyth Cliff Railway",
@@ -257,10 +256,11 @@
             ],
             "People also search for": []
         },
-        "Maryland Central Railroad": {
-            "label": "Maryland Central Railroad",
-            "description": "The Maryland Central Railroad was a 19th-century 3 ft narrow gauge railroad in Maryland, with a small track section in Pennsylvania. It operated freight and passenger trains between Baltimore and Delta, Pennsylvania. Wikipedia",
-            "type": ""
+        "Agence métropolitaine de transport": {
+            "label": "AMT - Agence métropolitaine de transport",
+            "description": "",
+            "type": "",
+            "People also search for": []
         },
         "Albany and Susquehanna Railroad": {
             "label": "Albany and Susquehanna Railroad",
@@ -273,6 +273,12 @@
             "description": "The Atlantic and Pacific Railroad was a U.S. railroad that owned or operated two disjointed segments, one connecting St. Louis, Missouri with Tulsa, Oklahoma, and the other connecting Albuquerque, New Mexico with Southern California. Wikipedia",
             "type": ""
         },
+        "Beer Heights Light Railway": {
+            "label": "Beer Heights Light Railway",
+            "description": "The Beer Heights Light Railway operates 1-mile of minimum gauge 7 ¹⁄4 in track at Beer, Devon, England. It is part of Pecorama, an exhibition owned by Peco. Wikipedia",
+            "type": "",
+            "People also search for": []
+        },
         "California High-Speed Rail": {
             "label": "California High-Speed Rail",
             "description": "The California High-Speed Rail project is a planned high-speed rail system in the state of California to be run by the California High-Speed Rail Authority, commonly referred to simply as the Authority. Wikipedia",
@@ -280,12 +286,6 @@
             "Founded ": [
                 "1996"
             ],
-            "People also search for": []
-        },
-        "Beer Heights Light Railway": {
-            "label": "Beer Heights Light Railway",
-            "description": "The Beer Heights Light Railway operates 1-mile of minimum gauge 7 ¹⁄4 in track at Beer, Devon, England. It is part of Pecorama, an exhibition owned by Peco. Wikipedia",
-            "type": "",
             "People also search for": []
         },
         "Capital City Street Railway": {
@@ -336,25 +336,50 @@
         }
     },
     "summary": {
-        "label": 43,
-        "description": 43,
-        "type": 43,
-        "stock_price": 1,
-        "headquarters": 1,
-        "ceo": 1,
-        "founder": 1,
-        "founded": 1,
-        "people_also_search_for": 1,
-        "customer_service": 1,
-        "see_results_about": 1,
-        "address": 1,
-        "opened": 1,
-        "architecture_firm": 1,
-        "architect": 1,
-        "phone": 1,
-        "park": 1,
-        "designer": 1,
-        "area": 1
+        "label": {
+            "uri": "http://dbpedia.org/property/label",
+            "count": 43
+        },
+        "description": {
+            "uri": "http://dbpedia.org/property/description",
+            "count": 43
+        },
+        "type": {
+            "uri": "http://dbpedia.org/property/type",
+            "count": 43
+        },
+        "headquarters": {
+            "uri": "http://dbpedia.org/property/headquarters",
+            "count": 1
+        },
+        "ceo": {
+            "uri": "http://dbpedia.org/property/ceo",
+            "count": 2
+        },
+        "founded": {
+            "uri": "http://dbpedia.org/property/founded",
+            "count": 6
+        },
+        "address": {
+            "uri": "http://dbpedia.org/property/address",
+            "count": 5
+        },
+        "architect": {
+            "uri": "http://dbpedia.org/property/architect",
+            "count": 1
+        },
+        "park": {
+            "uri": "http://dbpedia.org/property/park",
+            "count": 1
+        },
+        "designer": {
+            "uri": "http://dbpedia.org/property/designer",
+            "count": 1
+        },
+        "area": {
+            "uri": "http://dbpedia.org/property/area",
+            "count": 1
+        }
     },
     "infoboxless": [
         "BTS Skytrain",
@@ -414,5 +439,15 @@
         "China Railway High-speed",
         "Chongqing Rail Transit",
         "Citytrain"
-    ]
+    ],
+    "Unmapped_Properties": {
+        "stockPrice": 1,
+        "founder": 1,
+        "peopleAlsoSearchFor": 1,
+        "customerService": 1,
+        "seeResultsAbout": 1,
+        "opened": 1,
+        "architectureFirm": 1,
+        "phone": 1
+    }
 }

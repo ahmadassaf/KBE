@@ -10,26 +10,26 @@
             "description": "The Baltimore Stallions were a Canadian Football League team based in Baltimore, Maryland, United States, which played the 1994 and 1995 seasons. Wikipedia",
             "type": "Football team"
         },
+        "Birmingham Barracudas": {
+            "label": "Birmingham Barracudas",
+            "description": "The Birmingham Barracudas were a Canadian football team that played the 1995 season in the Canadian Football League. The Barracudas were part of a failed attempt to expand the CFL into the United States. Wikipedia",
+            "type": "Football team"
+        },
         "Shreveport Pirates": {
             "label": "Shreveport Pirates",
             "description": "The Shreveport Pirates were a Canadian Football League team, playing at Independence Stadium in Shreveport, Louisiana, USA, in 1994 and 1995. They were known to be one of the least successful of the CFL's American franchises on and off the field. Wikipedia",
             "type": "Football team"
         },
-        "Birmingham Barracudas": {
-            "label": "Birmingham Barracudas",
-            "description": "The Birmingham Barracudas were a Canadian football team that played the 1995 season in the Canadian Football League. The Barracudas were part of a failed attempt to expand the CFL into the United States. Wikipedia",
-            "type": "Football team"
+        "Sacramento Gold Miners": {
+            "label": "Sacramento Gold Miners",
+            "description": "The Sacramento Gold Miners were a Canadian football team based in Sacramento, California. The franchise was the first American team in the Canadian Football League. Wikipedia",
+            "type": "Professional Sports Team"
         },
         "San Antonio Texans": {
             "label": "San Antonio Texans",
             "description": "The San Antonio Texans were a Canadian Football League team that played in the Alamodome in San Antonio, Texas, in the 1995 CFL season. They had relocated from Sacramento, California, where the team had been called the Sacramento Gold Miners. Wikipedia",
             "type": "Professional Sports Team",
             "See results about": []
-        },
-        "Sacramento Gold Miners": {
-            "label": "Sacramento Gold Miners",
-            "description": "The Sacramento Gold Miners were a Canadian football team based in Sacramento, California. The franchise was the first American team in the Canadian Football League. Wikipedia",
-            "type": "Professional Sports Team"
         },
         "Toronto Argonauts": {
             "label": "Toronto Argonauts",
@@ -49,33 +49,6 @@
             ],
             "Division ": [
                 "Canadian Football League East Division"
-            ]
-        },
-        "Edmonton Eskimos": {
-            "label": "Edmonton Eskimos",
-            "description": "The Edmonton Eskimos are a professional Canadian football team based in Edmonton, Alberta, competing in the West Division of the Canadian Football League. Wikipedia",
-            "type": "Football team",
-            "Founded ": [
-                "1949"
-            ],
-            "Head coach ": [
-                "Kavis Reed"
-            ],
-            "Arena/Stadium ": [
-                "Commonwealth Stadium"
-            ],
-            "Fight song ": [
-                "Eskimo Fight Song"
-            ],
-            "Location ": [
-                "Edmonton"
-            ],
-            "Division ": [
-                "Canadian Football League West Division"
-            ],
-            "Mascots ": [
-                "Punter",
-                " Nanook"
             ]
         },
         "BC Lions": {
@@ -120,6 +93,33 @@
             ],
             "Division ": [
                 "Canadian Football League East Division"
+            ]
+        },
+        "Edmonton Eskimos": {
+            "label": "Edmonton Eskimos",
+            "description": "The Edmonton Eskimos are a professional Canadian football team based in Edmonton, Alberta, competing in the West Division of the Canadian Football League. Wikipedia",
+            "type": "Football team",
+            "Founded ": [
+                "1949"
+            ],
+            "Head coach ": [
+                "Kavis Reed"
+            ],
+            "Arena/Stadium ": [
+                "Commonwealth Stadium"
+            ],
+            "Fight song ": [
+                "Eskimo Fight Song"
+            ],
+            "Location ": [
+                "Edmonton"
+            ],
+            "Division ": [
+                "Canadian Football League West Division"
+            ],
+            "Mascots ": [
+                "Punter",
+                " Nanook"
             ]
         },
         "Montreal Alouettes": {
@@ -182,6 +182,11 @@
             "description": "The Las Vegas Posse was a Canadian Football League team that played the 1994 season as part of the CFL's short-lived American expansion. The Posse was one of the least successful CFL teams, both on the field and off. Wikipedia",
             "type": "Football team"
         },
+        "Memphis Mad Dogs": {
+            "label": "Memphis Mad Dogs",
+            "description": "The Memphis Mad Dogs were a Canadian football team that played the 1995 season in the Canadian Football League. The Mad Dogs were part of a failed attempt to expand the CFL into the United States. Wikipedia",
+            "type": "Football team"
+        },
         "Ottawa Renegades": {
             "label": "Ottawa Renegades",
             "description": "Ottawa Renegades was the most recent name of a Canadian Football League team based in Ottawa, Ontario founded in 2002, seven years after the storied Ottawa Rough Riders folded. Wikipedia",
@@ -189,11 +194,6 @@
             "Location ": [
                 "Ottawa"
             ]
-        },
-        "Memphis Mad Dogs": {
-            "label": "Memphis Mad Dogs",
-            "description": "The Memphis Mad Dogs were a Canadian football team that played the 1995 season in the Canadian Football League. The Mad Dogs were part of a failed attempt to expand the CFL into the United States. Wikipedia",
-            "type": "Football team"
         },
         "Ottawa Canadian Football League team": {
             "label": "Ottawa Redblacks",
@@ -210,21 +210,44 @@
         }
     },
     "summary": {
-        "label": 18,
-        "description": 18,
-        "type": 18,
-        "see_results_about": 1,
-        "arena/stadium": 1,
-        "head_coach": 1,
-        "location": 1,
-        "mascot": 1,
-        "division": 1,
-        "founded": 1,
-        "fight_song": 1,
-        "mascots": 1,
-        "arenas/stadiums": 1
+        "label": {
+            "uri": "http://www.w3.org/2000/01/rdf-schema#label",
+            "count": 18
+        },
+        "description": {
+            "uri": "http://fr.dbpedia.org/ontology/abstract",
+            "count": 18
+        },
+        "type": {
+            "uri": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+            "count": 18
+        },
+        "location": {
+            "uri": "http://dbpedia.org/property/location",
+            "count": 8
+        },
+        "mascot": {
+            "uri": "http://dbpedia.org/property/mascot",
+            "count": 6
+        },
+        "division": {
+            "uri": "http://dbpedia.org/property/division",
+            "count": 7
+        },
+        "founded": {
+            "uri": "http://dbpedia.org/property/founded",
+            "count": 1
+        }
     },
     "infoboxless": [
         "Miami Manatees (CFL)"
-    ]
+    ],
+    "Unmapped_Properties": {
+        "seeResultsAbout": 1,
+        "arena/stadium": 1,
+        "headCoach": 1,
+        "fightSong": 1,
+        "mascots": 1,
+        "arenas/stadiums": 1
+    }
 }

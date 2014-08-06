@@ -30,11 +30,6 @@
             ],
             "People also search for": []
         },
-        "Diocese of Gothenburg": {
-            "label": "Diocese of Gothenburg",
-            "description": "The diocese of Gothenburg is a diocese of the Church of Sweden. Since September, 2011 the Bishop has been Per Eckerdal. 1949–1970 it was Bo Giertz. The diocese includes the provinces of Bohuslän, Halland, and south-west parts of Västergötland. Wikipedia",
-            "type": ""
-        },
         "Apostolic Vicariate of Paksé": {
             "label": "Apostolic Vicariate of Paksé",
             "description": "Vicariate Apostolic of Paksé is a major unit of the Roman Catholic Church in Laos. The Vicar Apostolic since 2000 is Louis-Marie Ling Mangkhanekhoun. It was established in 1967, when it was split off from the Vicariate Apostolic of Savannakhet. Wikipedia",
@@ -45,6 +40,11 @@
                 "000 km²)"
             ]
         },
+        "Diocese of Gothenburg": {
+            "label": "Diocese of Gothenburg",
+            "description": "The diocese of Gothenburg is a diocese of the Church of Sweden. Since September, 2011 the Bishop has been Per Eckerdal. 1949–1970 it was Bo Giertz. The diocese includes the provinces of Bohuslän, Halland, and south-west parts of Västergötland. Wikipedia",
+            "type": ""
+        },
         "Diocese of Härnösand": {
             "label": "Diocese of Härnösand",
             "description": "The Diocese of Härnösand is a division in the Church of Sweden in Västernorrland County. The Cathedral is located at Trädgårdsgatan in Härnösand. Wikipedia",
@@ -54,11 +54,6 @@
                 " 871 31 Härnösand",
                 " Sweden"
             ]
-        },
-        "Diocese of Lund": {
-            "label": "Diocese of Lund",
-            "description": "The Diocese of Lund is the southernmost diocese in the Church of Sweden. The territory of the diocese corresponds to the provinces of Blekinge and Scania. Wikipedia",
-            "type": ""
         },
         "Diocese of Karlstad": {
             "label": "Diocese of Karlstad",
@@ -80,6 +75,11 @@
                 " Sweden"
             ]
         },
+        "Diocese of Lund": {
+            "label": "Diocese of Lund",
+            "description": "The Diocese of Lund is the southernmost diocese in the Church of Sweden. The territory of the diocese corresponds to the provinces of Blekinge and Scania. Wikipedia",
+            "type": ""
+        },
         "Diocese of Strängnäs": {
             "label": "Diocese of Strängnäs",
             "description": "The Diocese of Strängnäs is a part of the Church of Sweden and has its seat in Strängnäs Cathedral in Strängnäs, south of Lake Mälaren. The diocese is made up of the two provinces Närke and Södermanland. Wikipedia",
@@ -100,6 +100,16 @@
                 " Sweden"
             ]
         },
+        "Roman Catholic Archdiocese of Ibagué": {
+            "label": "Roman Catholic Archdiocese of Ibagué",
+            "description": "The Roman Catholic Archdiocese of Ibagué is an archdiocese located in the city of Ibagué in Colombia. Wikipedia",
+            "type": "",
+            "Area ": [
+                "2",
+                "334 sq miles (6",
+                "044 km²)"
+            ]
+        },
         "Roman Catholic Archdiocese of Sydney": {
             "label": "Roman Catholic Diocese of Parramatta",
             "description": "",
@@ -114,16 +124,6 @@
                 "13",
                 "084 sq miles (33",
                 "887 km²)"
-            ]
-        },
-        "Roman Catholic Archdiocese of Ibagué": {
-            "label": "Roman Catholic Archdiocese of Ibagué",
-            "description": "The Roman Catholic Archdiocese of Ibagué is an archdiocese located in the city of Ibagué in Colombia. Wikipedia",
-            "type": "",
-            "Area ": [
-                "2",
-                "334 sq miles (6",
-                "044 km²)"
             ]
         },
         "Roman Catholic Diocese of Líbano–Honda": {
@@ -165,21 +165,6 @@
                 "18.92 sq miles (49 km²)"
             ]
         },
-        "Roman Catholic Diocese of Bragança do Pará": {
-            "label": "Roman Catholic Diocese of Bragança do Pará",
-            "description": "The Roman Catholic Diocese of Bragança do Pará is a diocese located in the city of Bragança do Pará in the Ecclesiastical province of Belém do Pará in Brazil. Wikipedia",
-            "type": "",
-            "Area ": [
-                "26",
-                "377 sq miles (68",
-                "316 km²)"
-            ]
-        },
-        "Military Ordinariate of the Philippines": {
-            "label": "Military Ordinariate of the Philippines",
-            "description": "The Military Ordinariate of the Philippines or MOP is a personal diocese for the Armed Forces of the Philippines, Philippine National Police, and the Philippine Coast Guard. Wikipedia",
-            "type": "Religious Jurisdiction"
-        },
         "Episcopal Diocese of Atlanta": {
             "label": "Episcopal Diocese of Atlanta",
             "description": "The Episcopal Diocese of Atlanta is the diocese of the Episcopal Church in the United States of America, with jurisdiction over middle and north Georgia. Wikipedia",
@@ -198,6 +183,21 @@
             ],
             "People also search for": []
         },
+        "Military Ordinariate of the Philippines": {
+            "label": "Military Ordinariate of the Philippines",
+            "description": "The Military Ordinariate of the Philippines or MOP is a personal diocese for the Armed Forces of the Philippines, Philippine National Police, and the Philippine Coast Guard. Wikipedia",
+            "type": "Religious Jurisdiction"
+        },
+        "Roman Catholic Diocese of Bragança do Pará": {
+            "label": "Roman Catholic Diocese of Bragança do Pará",
+            "description": "The Roman Catholic Diocese of Bragança do Pará is a diocese located in the city of Bragança do Pará in the Ecclesiastical province of Belém do Pará in Brazil. Wikipedia",
+            "type": "",
+            "Area ": [
+                "26",
+                "377 sq miles (68",
+                "316 km²)"
+            ]
+        },
         "Roman Catholic Diocese of Coria-Cáceres": {
             "label": "Roman Catholic Diocese of Coria-Cáceres",
             "description": "The Roman Catholic Diocese of Coria-Cáceres is a diocese located in the cities of Coria and Cáceres in the Ecclesiastical province of Mérida–Badajoz in Spain. Wikipedia",
@@ -206,6 +206,26 @@
                 "3",
                 "881 sq miles (10",
                 "052 km²)"
+            ]
+        },
+        "Roman Catholic Diocese of Humaitá": {
+            "label": "Roman Catholic Diocese of Humaitá",
+            "description": "The Roman Catholic Diocese of Humaitá is a diocese located in the city of Humaitá in the Ecclesiastical province of Porto Velho in Brazil. Wikipedia",
+            "type": "",
+            "Area ": [
+                "42",
+                "085 sq miles (109",
+                "000 km²)"
+            ]
+        },
+        "Roman Catholic Diocese of Málaga–Soatá": {
+            "label": "Roman Catholic Diocese of Málaga–Soatá",
+            "description": "The Roman Catholic Diocese of Málaga–Soatá is a diocese located in the cities of Málaga and Soatá in the Ecclesiastical province of Bucaramanga in Colombia. Wikipedia",
+            "type": "",
+            "Area ": [
+                "2",
+                "883 sq miles (7",
+                "466 km²)"
             ]
         },
         "Roman Catholic Diocese of São José dos Campos": {
@@ -228,26 +248,6 @@
                 "692 km²)"
             ]
         },
-        "Roman Catholic Diocese of Málaga–Soatá": {
-            "label": "Roman Catholic Diocese of Málaga–Soatá",
-            "description": "The Roman Catholic Diocese of Málaga–Soatá is a diocese located in the cities of Málaga and Soatá in the Ecclesiastical province of Bucaramanga in Colombia. Wikipedia",
-            "type": "",
-            "Area ": [
-                "2",
-                "883 sq miles (7",
-                "466 km²)"
-            ]
-        },
-        "Roman Catholic Diocese of Humaitá": {
-            "label": "Roman Catholic Diocese of Humaitá",
-            "description": "The Roman Catholic Diocese of Humaitá is a diocese located in the city of Humaitá in the Ecclesiastical province of Porto Velho in Brazil. Wikipedia",
-            "type": "",
-            "Area ": [
-                "42",
-                "085 sq miles (109",
-                "000 km²)"
-            ]
-        },
         "Diocese of Wakefield": {
             "label": "Diocese of Wakefield",
             "description": "The Diocese of Wakefield is a Church of England diocese based in Wakefield in West Yorkshire, covering Wakefield, Barnsley, Kirklees and Calderdale. The cathedral is Wakefield Cathedral and the bishop is the Bishop of Wakefield. Wikipedia",
@@ -258,12 +258,6 @@
                 " United Kingdom"
             ]
         },
-        "Roman Catholic Diocese of La Crosse": {
-            "label": "Diocese of La Crosse",
-            "description": "",
-            "type": "",
-            "People also search for": []
-        },
         "Dolia (titular see)": {
             "label": "Dolia",
             "description": "Dolia is a Catholic titular see in Sardinia, Italy, instituted in 1969. The diocese with see at Dolia, now Dolianova, in Sardinia was suppressed in 1503, its territory going to the diocese of Cagliari. Wikipedia",
@@ -273,6 +267,12 @@
             "label": "Episcopal Diocese of South Dakota",
             "description": "The Episcopal Diocese of South Dakota is a diocese of the Episcopal Church with jurisdiction over the state of South Dakota. Wikipedia",
             "type": "Religious Jurisdiction"
+        },
+        "Roman Catholic Diocese of La Crosse": {
+            "label": "Diocese of La Crosse",
+            "description": "",
+            "type": "",
+            "People also search for": []
         },
         "Roman Catholic Archdiocese of Dublin": {
             "label": "Roman Catholic Archdiocese of Dublin",
@@ -323,16 +323,26 @@
                 " United States"
             ]
         },
+        "Episcopal Diocese of East Carolina": {
+            "label": "The Episcopal Diocese of East Carolina",
+            "description": "",
+            "type": ""
+        },
         "Episcopal Diocese of Northern California": {
             "label": "Episcopal Diocese of Northern California",
             "description": "",
             "type": "",
             "People also search for": []
         },
-        "Episcopal Diocese of East Carolina": {
-            "label": "The Episcopal Diocese of East Carolina",
-            "description": "",
-            "type": ""
+        "Roman Catholic Diocese of Broken Bay": {
+            "label": "Roman Catholic Diocese of Broken Bay",
+            "description": "The Roman Catholic Diocese of Broken Bay is a suffragan Latin Rite diocese of the Archdiocese of Sydney, covering the North Shore and Northern Beaches of greater metropolitan Sydney, and the Broken Bay ... Wikipedia",
+            "type": "",
+            "Area ": [
+                "1",
+                "067 sq miles (2",
+                "763 km²)"
+            ]
         },
         "Diocese of Niagara": {
             "label": "Diocese of Niagara",
@@ -343,16 +353,6 @@
                 " Hamilton",
                 " ON L8R 2L3",
                 " Canada"
-            ]
-        },
-        "Roman Catholic Diocese of Broken Bay": {
-            "label": "Roman Catholic Diocese of Broken Bay",
-            "description": "The Roman Catholic Diocese of Broken Bay is a suffragan Latin Rite diocese of the Archdiocese of Sydney, covering the North Shore and Northern Beaches of greater metropolitan Sydney, and the Broken Bay ... Wikipedia",
-            "type": "",
-            "Area ": [
-                "1",
-                "067 sq miles (2",
-                "763 km²)"
             ]
         },
         "Diocese of Qu'Appelle": {
@@ -371,16 +371,6 @@
             "description": "The Roman Catholic Diocese of Cork and Ross is a Roman Catholic diocese in southern Ireland. It is one of six suffragan dioceses in the ecclesiastical province of Cashel and is subject to the Archdiocese of Cashel and Emly. Wikipedia",
             "type": ""
         },
-        "Roman Catholic Diocese of Bielsko–Żywiec": {
-            "label": "Roman Catholic Diocese of Bielsko–Żywiec",
-            "description": "The Roman Catholic Diocese of Bielsko–Żywiec is a diocese located in the cities of Bielsko and Żywiec in the Ecclesiastical province of Kraków in Poland. Wikipedia",
-            "type": "",
-            "Area ": [
-                "1",
-                "158 sq miles (3",
-                "000 km²)"
-            ]
-        },
         "Roman Catholic Diocese of Raphoe": {
             "label": "Roman Catholic Diocese of Raphoe",
             "description": "The Diocese of Raphoe is a Roman Catholic diocese in north-western Ireland. It is one of eight suffragan dioceses that are subject to the Metropolitan Archdiocese of Armagh. Wikipedia",
@@ -390,18 +380,43 @@
             "label": "Roman Catholic Diocese of Waterford and Lismore",
             "description": "The Diocese of Waterford and Lismore is a Roman Catholic diocese in southern Ireland. It is one of six suffragan dioceses in the ecclesiastical province of Cashel and is subject to the Archbishop of Cashel and Emly. Wikipedia",
             "type": ""
+        },
+        "Roman Catholic Diocese of Bielsko–Żywiec": {
+            "label": "Roman Catholic Diocese of Bielsko–Żywiec",
+            "description": "The Roman Catholic Diocese of Bielsko–Żywiec is a diocese located in the cities of Bielsko and Żywiec in the Ecclesiastical province of Kraków in Poland. Wikipedia",
+            "type": "",
+            "Area ": [
+                "1",
+                "158 sq miles (3",
+                "000 km²)"
+            ]
         }
     },
     "summary": {
-        "label": 45,
-        "description": 45,
-        "type": 45,
-        "founded": 1,
-        "area": 1,
-        "address": 1,
-        "people_also_search_for": 1,
-        "tax_id": 1,
-        "tax_deductibility_code": 1
+        "label": {
+            "uri": "http://www.w3.org/2000/01/rdf-schema#label",
+            "count": 45
+        },
+        "description": {
+            "uri": "http://fr.dbpedia.org/ontology/abstract",
+            "count": 45
+        },
+        "type": {
+            "uri": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+            "count": 45
+        },
+        "founded": {
+            "uri": "http://dbpedia.org/property/founded",
+            "count": 1
+        },
+        "area": {
+            "uri": "http://dbpedia.org/property/area",
+            "count": 14
+        },
+        "address": {
+            "uri": "http://dbpedia.org/property/address",
+            "count": 15
+        }
     },
     "infoboxless": [
         "Apostolic Prefecture of Battambang",
@@ -459,5 +474,10 @@
         "Roman Catholic Archdiocese of Saint Boniface",
         "Roman Catholic Diocese of Gliwice",
         "Roman Catholic Diocese of Legnica"
-    ]
+    ],
+    "Unmapped_Properties": {
+        "peopleAlsoSearchFor": 1,
+        "taxId": 1,
+        "taxDeductibilityCode": 1
+    }
 }
