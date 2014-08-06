@@ -65,3 +65,83 @@ proxy                        : null
 
  - Properties now have the direct links to DBpedia ontology
  - Properties scores are normalized
+
+## Sample Result
+```
+  "Band": {
+  	"summary": {
+  		"label": {
+  			"uri": "http://dbpedia.org/property/label",
+  			"count": 100
+  		},
+  		"description": {
+  			"uri": "http://purl.org/dc/elements/1.1/description",
+  			"count": 100
+  		},
+  		"type": {
+  			"uri": "http://dbpedia.org/property/type",
+  			"count": 100
+  		},
+  		"origin": {
+  			"uri": "http://dbpedia.org/property/origin",
+  			"count": 88.17204301075269
+  		},
+  		"members": {
+  			"uri": "http://dbpedia.org/property/members",
+  			"count": 88.17204301075269
+  		},
+  		"albums": {
+  			"uri": "http://dbpedia.org/property/albums",
+  			"count": 87.09677419354838
+  		},
+  		"leadSingers": {
+  			"uri": "http://dbpedia.org/property/leadSingers",
+  			"count": 6.451612903225806
+  		},
+  		"recordLabel": {
+  			"uri": "http://dbpedia.org/property/recordLabel",
+  			"count": 12.903225806451612
+  		},
+  		"awards": {
+  			"uri": "http://dbpedia.org/property/awards",
+  			"count": 13.978494623655912
+  		},
+  		"nominations": {
+  			"uri": "http://dbpedia.org/property/nominations",
+  			"count": 7.526881720430108
+  		},
+  		"born": {
+  			"uri": "http://dbpedia.org/property/born",
+  			"count": 2.1505376344086025
+  		},
+  		"nationality": {
+  			"uri": "http://dbpedia.org/property/nationality",
+  			"count": 2.1505376344086025
+  		},
+  		"height": {
+  			"uri": "http://dbpedia.org/property/height",
+  			"count": 1.0752688172043012
+  		}
+  	},
+  	"infoboxless": [
+  		"!Action Pact!",
+  		"Allele (band)",
+  		"Anti-Pasti",
+  		"Armageddon (A&M band)",
+  		"Banket (band)",
+  		"Battlelore",
+  		"Ben Folds Five"
+  	],
+  	"Unmapped_Properties": {
+  		"leadSinger": 1,
+  		"recordLabels": 1,
+  		"songs": 1,
+  		"upcomingEvents": 1,
+  		"peopleAlsoSearchFor": 1,
+  		"activeFrom": 1,
+  		"filmMusicCredits": 1,
+  		"activeUntil": 1,
+  		"moviesAndTvShows": 1
+  	}
+  }
+ ```
