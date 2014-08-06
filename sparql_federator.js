@@ -108,7 +108,7 @@ sparql_federator.prototype.parseDBpediaInstance = function(type,json, conceptPro
 	var cache_filename     = __dirname + '/cache/GKB/' + type + '.json';
 	var result             = {"instances" : {}, "summary" : {}, "infoboxless":[], "Unmapped_Properties": {}};
 	var json               = _.isObject(json) ? json : JSON.parse(json);
-	var properties_mapping = {"type" : "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" , "label": "http://www.w3.org/2000/01/rdf-schema#label", "description": "http://fr.dbpedia.org/ontology/abstract"}
+	var properties_mapping = {"type" : "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" , "label": "http://www.w3.org/2000/01/rdf-schema#label", "description": "http://dbpedia.org/ontology/abstract"}
 	_.each(conceptProperties.results.bindings, function(property, key) {  properties_mapping[property.property.value.split('/').pop()] =  property.property.value });
 
 	sparql_federator.cache.getCache(cache_filename, function(error, data) {
