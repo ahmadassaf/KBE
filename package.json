@@ -5,7 +5,6 @@
   "main"         : "server.js",
   "author"       : "Ahmad.A.Assaf",
   "dependencies" : {
-    "express"    : "latest",
     "request"    : "latest",
     "cheerio"    : "latest",
     "querystring": "latest",
