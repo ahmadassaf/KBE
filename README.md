@@ -30,7 +30,8 @@ We Will automatically create all the required Cache folders:
     + folder called ```instance_properties``` inside the cache folder: Thiw ill hold the distinct list of properties for all the instances of a certain concept 
 
  - run ```node KBE.js``` in the console
- - The application is run in the console and the output will be available in cache/result.json
+
+The application is run in the console and the output will be available in cache/result.json
 
 ## Crawling Configuration
 There is a set of options that you can change found in the file ```options.json```
