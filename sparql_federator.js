@@ -17,12 +17,6 @@ var sparql_federator = function(options) {
 	};
 };
 
-sparql_federator.prototype.camelCase = function(string) {
-    return string.toLowerCase().replace(/(\-[a-zA-Z])/g, function($1) {
-        return $1.toUpperCase().replace('-','');
-    })
-}
-
 sparql_federator.prototype.parseDBpediaConcepts = function(json) {
 
 	console.log("Parsing DBpedia Concepts ... ");
@@ -65,7 +59,7 @@ sparql_federator.prototype.parseDBpediaConcepts = function(json) {
 
 	  	console.log('All files have been processed successfully');
 
-			var cache_filename   = __dirname + '/cache/result.json';
+			var cache_filename   = 'result.json';
 			sparql_federator.cache.setCache(cache_filename, result, function(error, data) {
 				if (!error) console.log("Google Knowledge Extractor Result File is Written successfully !!");
 			});
@@ -78,7 +72,7 @@ sparql_federator.prototype.getConceptProperties = function (concept, label, call
 	console.log("Getting DBpedia properties for all instances of type: " + label);
 
 	var sparql_federator = this;
-	var cache_filename   = __dirname + '/cache/instance_properties/' + label + '.json';
+	var cache_filename   = '/instance_properties/' + label + '.json';
 
 	sparql_federator.cache.getCache(cache_filename, function(error, data) {
 		if (!error && !data) {
@@ -105,7 +99,7 @@ sparql_federator.prototype.parseDBpediaInstance = function(type,json, conceptPro
 	console.log("Parsing DBpedia Instances for type: "+ type +"... ");
 
 	var sparql_federator   = this;
-	var cache_filename     = __dirname + '/cache/GKB/' + type + '.json';
+	var cache_filename     = '/GKB/' + type + '.json';
 	var result             = {"instances" : {}, "summary" : {}, "infoboxless":[], "Unmapped_Properties": {}};
 	var json               = _.isObject(json) ? json : JSON.parse(json);
 	var properties_mapping = {"type" : "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" , "label": "http://www.w3.org/2000/01/rdf-schema#label", "description": "http://dbpedia.org/ontology/abstract"}
@@ -168,7 +162,7 @@ sparql_federator.prototype.getInstances = function(concept, label, callback) {
 	console.log("Getting DBpedia instances for: " + concept + " ... ");
 
 	var sparql_federator   = this;
-	var cache_filename     = __dirname + '/cache/instances/' + label + '.json';
+	var cache_filename     = '/instances/' + label + '.json';
 
 	sparql_federator.cache.getCache(cache_filename, function(error, data) {
 		if (!error && !data) {
@@ -200,7 +194,7 @@ sparql_federator.prototype.getDBpediaConcepts = function() {
 	SPARQL_query        += this.options.limit_dbpedia_concepts ? " LIMIT " + this.options.limit_dbpedia_concepts_value : "";
 	var encoded_query    = this.dbpedia_endpoint + querystring.stringify({query: SPARQL_query});
 	var options          = { url: encoded_query, method:this.method, encoding:this.encoding, headers: this.headers };
-	var cache_filename   = __dirname + '/cache/dbpediaConcepts.json';
+	var cache_filename   = 'dbpediaConcepts.json';
 
 	sparql_federator.cache.getCache(cache_filename, function(error, data) {
 		if (!error) {
@@ -217,6 +211,12 @@ sparql_federator.prototype.getDBpediaConcepts = function() {
 			} else sparql_federator.parseDBpediaConcepts(data);
 		}
 	});
+}
+
+sparql_federator.prototype.camelCase = function(string) {
+    return string.toLowerCase().replace(/(\-[a-zA-Z])/g, function($1) {
+        return $1.toUpperCase().replace('-','');
+    })
 }
 
 // Export the Parser constructor from this module.

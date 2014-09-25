@@ -1,25 +1,14 @@
 var request = require('request');
 var cheerio = require('cheerio');
 var Cache   = require('./cache');
+var options = require('./options.json');
 
 var infobox_parser = function(proxy) {
 	this.cache          = new Cache();
 	this.proxy          = proxy;
 	this.url            = 'http://www.google.com/search?q=';
 	this.userAgent      = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/534.57.2 (KHTML, like Gecko) Version/5.1.7 Safari/534.57.2';
-	this.knowledgePanel = {
-		knowledgeBox  				: '#kno-result',
-		knowledgeBox_disambiguate	: '.kp-blk',
-		property                    : '._Nl',
-		property_value              : '.kno-fv',
-		label                       : '.kno-ecr-pt',
-		description                 : '.kno-rdesc',
-		type                        : '._kx',
-		images                      : '.bicc',
-		special_property            : '.kno-sh',
-		special_property_value      : '._Zh',
-		special_property_value_link : 'a._dt'
-	};
+	this.knowledgePanel = options.googleKBClassNames;
 };
 
 infobox_parser.prototype.parse = function(instance, type, callback) {
@@ -27,14 +16,13 @@ infobox_parser.prototype.parse = function(instance, type, callback) {
 	console.log("Getting Google knowledgeBox for " + instance + " ... ");
 
 	var infobox_parser = this;
-	var cache_filename = __dirname + '/cache/instances_GKB/'+ instance.replace(/[^a-zA-Z0-9]/g,'_') +'.json';
+	var cache_filename =  '/instances_GKB/'+ instance.replace(/[^a-zA-Z0-9]/g,'_') +'.json';
 
 	this.cache.getCache(cache_filename, function(error, data) {
 		if (!error && !data)
-			callback(null,data);
-			// infobox_parser.query(instance, type,cache_filename,function(error, data){
-			// 	callback(null,data);
-			// });
+			infobox_parser.query(instance, type,cache_filename,function(error, data){
+				callback(null,data);
+			});
 		else if (!error) callback(null,data);
 	});
 };
@@ -44,6 +32,7 @@ infobox_parser.prototype.query = function(instance, type,cache_filename,callback
 	var infobox_parser = this;
 	var parsed_infobox = undefined;
 	var knowledgePanel = this.knowledgePanel;
+
 	var addToObj       =	function(obj, values, properties,mergeCallback) {
 		// This function maps two arrays together, checks if there are multiple proprties and create an array if needed
 		for (var i = 0; i < properties.length; i++) {

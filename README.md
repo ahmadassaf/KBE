@@ -20,22 +20,20 @@ The Algorithm implemented is the following:
 ## How to run?
  - Clone the repo to your local machine
  - run ```npm install``` on the root of the local project directory 
-
-You have to create one folder for caching ...
- - Main folder called cache in the root of the project.
  
-We Will automatically create these child folders:
+We Will automatically create all the required Cache folders:
  
-- folder called ```GKB``` inside the cache folder: This will hold the aggregated Google Knowledge boxes extracted for a DBpedia concept (type)
-- folder called ```instances_GKB``` inside the cache folder: This will hold the Google Knowledge box for a single instance
-- folder called ```instances``` inside the cache folder: This will hold the DBpedia instances for each concept (type)
-- folder called ```instance_properties``` inside the cache folder: Thiw ill hold the distinct list of properties for all the instances of a certain concept 
+- Main cache folder "cache" in the root folder of the application
+    + folder called ```GKB``` inside the cache folder: This will hold the aggregated Google Knowledge boxes extracted for a DBpedia concept (type)
+    + folder called ```instances_GKB``` inside the cache folder: This will hold the Google Knowledge box for a single instance
+    + folder called ```instances``` inside the cache folder: This will hold the DBpedia instances for each concept (type)
+    + folder called ```instance_properties``` inside the cache folder: Thiw ill hold the distinct list of properties for all the instances of a certain concept 
 
- - run ```node server.js```
- - The application is run in the console and the output will be available in results/result.json
+ - run ```node KBE.js``` in the console
+ - The application is run in the console and the output will be available in cache/result.json
 
 ## Crawling Configuration
-These are the default options that can be found in file ```KBE.js```
+There is a set of options that you can change found in the file ```options.json```
 ```js
 cache_dbpedia_concepts       : true,
 limit_dbpedia_concepts       : true,
@@ -61,6 +59,22 @@ limit_dbpedia_instances_value: 100,
 proxy                        : null
 ```
 
+Moreover, you can always check the corresponding CSS class name selectors for the Google Knowledge Panel and edit them if needed in the same ```options.json``` file.
+
+Currently the CSS selectors are:
+```
+"knowledgeBox"                : "#kno-result",
+"knowledgeBox_disambiguate"   : ".kp-blk",
+"property"                    : "._Nl",
+"property_value"              : ".kno-fv",
+"label"                       : ".kno-ecr-pt",
+"description"                 : ".kno-rdesc",
+"type"                        : "._kx",
+"images"                      : ".bicc",
+"special_property"            : ".kno-sh",
+"special_property_value"      : "._Zh",
+"special_property_value_link" : "a._dt"
+```
 ## Updates
 
  - Properties now have the direct links to DBpedia ontology

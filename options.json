@@ -1,0 +1,21 @@
+{
+		"cache_dbpedia_concepts"        : true,
+		"limit_dbpedia_concepts"        : false,
+		"limit_dbpedia_instances"       : true,
+		"limit_dbpedia_concepts_value"  : null,
+		"limit_dbpedia_instances_value" : 100,
+		"proxy"                         : null,
+		"googleKBClassNames" : {
+			"knowledgeBox"                : "#kno-result",
+			"knowledgeBox_disambiguate"   : ".kp-blk",
+			"property"                    : "._Nl",
+			"property_value"              : ".kno-fv",
+			"label"                       : ".kno-ecr-pt",
+			"description"                 : ".kno-rdesc",
+			"type"                        : "._kx",
+			"images"                      : ".bicc",
+			"special_property"            : ".kno-sh",
+			"special_property_value"      : "._Zh",
+			"special_property_value_link" : "a._dt"
+	}
+}

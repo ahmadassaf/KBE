@@ -4,24 +4,27 @@ var mkdir = require('mkdirp');
 var async = require("async");
 
 var Cache = function() {
-	var cache_filename   = __dirname + '/cache/';
-	var folder_names     = ["GKB","instances_GKB","instances","instance_properties"];
+	var folder_names     = ["cache","GKB","instances_GKB","instances","instance_properties"];
 
 	async.each(folder_names,function(folder, asyncCallback){
-		var folder_name = cache_filename + folder;
+		var folder_name = folder === "cache" ? __dirname + folder : __dirname + '/cache/' + folder;
 		mkdir(folder_name, function (err) {
-	    if (err) console.error(err)
+	    if (err)
+	    	console.error(err)
 	   	 else {
 	   	 	console.log('Cache Folder: ' + folder_name + " created or already exitst");
 	   	 	asyncCallback();
 	   	 }
 		});
   },function(err){
-  	console.log('Cache Folder created at destination ...');
+  	console.log('All Cache Folders created at destination ...');
   });
 };
 
-Cache.prototype.getCache = function(cache_filename, callback) {
+Cache.prototype.getCache = function(filename, callback) {
+
+	var cache_filename = __dirname + "/cache/" + filename;
+
 	fs.exists(cache_filename, function(exists) {
 		if (exists) {
 			fs.readFile(cache_filename, 'utf8', function (error, data) {
@@ -34,8 +37,11 @@ Cache.prototype.getCache = function(cache_filename, callback) {
 	});
 }
 
-Cache.prototype.setCache = function(cache_filename, data, cacheCallback) {
-	var json 			 = _.isObject(data) ? data : JSON.parse(data);
+Cache.prototype.setCache = function(filename, data, cacheCallback) {
+
+	var cache_filename = __dirname + "/cache/" + filename;
+	var json           = _.isObject(data) ? data : JSON.parse(data);
+
 	fs.writeFile(cache_filename, JSON.stringify(json, null, 4), function(error){
 		if (!error) {
 			console.log('File: '+ cache_filename +' successfully written!');
