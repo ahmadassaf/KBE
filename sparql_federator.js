@@ -2,7 +2,7 @@ var request        = require('request');
 var querystring    = require("querystring");
 var async          = require("async");
 var _              = require('underscore');
-var Cache 		     = require('./cache');
+var Cache 		     = require('./util/cache');
 var Infobox_parser = require('./infobox_parser');
 
 var sparql_federator = function(options) {

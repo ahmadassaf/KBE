@@ -7,7 +7,7 @@ var Cache = function() {
 	var folder_names     = ["cache","GKB","instances_GKB","instances","instance_properties"];
 
 	async.each(folder_names,function(folder, asyncCallback){
-		var folder_name = folder === "cache" ? __dirname + folder : __dirname + '/cache/' + folder;
+		var folder_name = folder === "cache" ? global.appRoot + folder : global.appRoot + '/cache/' + folder;
 		mkdir(folder_name, function (err) {
 	    if (err)
 	    	console.error(err)
@@ -23,7 +23,7 @@ var Cache = function() {
 
 Cache.prototype.getCache = function(filename, callback) {
 
-	var cache_filename = __dirname + "/cache/" + filename;
+	var cache_filename = global.appRoot + "/cache/" + filename;
 
 	fs.exists(cache_filename, function(exists) {
 		if (exists) {
@@ -39,7 +39,7 @@ Cache.prototype.getCache = function(filename, callback) {
 
 Cache.prototype.setCache = function(filename, data, cacheCallback) {
 
-	var cache_filename = __dirname + "/cache/" + filename;
+	var cache_filename = global.appRoot + "/cache/" + filename;
 	var json           = _.isObject(data) ? data : JSON.parse(data);
 
 	fs.writeFile(cache_filename, JSON.stringify(json, null, 4), function(error){

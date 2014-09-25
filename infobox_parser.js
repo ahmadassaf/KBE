@@ -1,6 +1,6 @@
 var request = require('request');
 var cheerio = require('cheerio');
-var Cache   = require('./cache');
+var Cache   = require('./util/cache');
 var options = require('./options.json');
 
 var infobox_parser = function(proxy) {
