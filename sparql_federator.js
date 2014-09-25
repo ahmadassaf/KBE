@@ -6,7 +6,7 @@ var Cache 		     = require('./util/cache');
 var Infobox_parser = require('./infobox_parser');
 
 var sparql_federator = function(options) {
-	this.cache            = new Cache();
+	this.cache            = new Cache(__dirname);
 	this.options          = options;
 	this.dbpedia_endpoint = "http://dbpedia.org/sparql?";
 	this.method           = 'POST';

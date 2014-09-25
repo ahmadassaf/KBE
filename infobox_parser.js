@@ -4,7 +4,7 @@ var Cache   = require('./util/cache');
 var options = require('./options.json');
 
 var infobox_parser = function(proxy) {
-	this.cache          = new Cache();
+	this.cache          = new Cache(__dirname);
 	this.proxy          = proxy;
 	this.url            = 'http://www.google.com/search?q=';
 	this.userAgent      = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/534.57.2 (KHTML, like Gecko) Version/5.1.7 Safari/534.57.2';
