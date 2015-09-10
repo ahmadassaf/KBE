@@ -1,0 +1,2126 @@
+{
+    "head": {
+        "link": [],
+        "vars": [
+            "c"
+        ]
+    },
+    "results": {
+        "distinct": false,
+        "ordered": true,
+        "bindings": [
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Band"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Organisation"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/ArchitecturalStructure"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Infrastructure"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Airport"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/MusicalWork"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Single"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Album"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Person"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Politician"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/President"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/OfficeHolder"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/SoccerPlayer"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Athlete"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Cardinal"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Cleric"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/PopulatedPlace"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Settlement"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Village"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/SoccerManager"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/SportsManager"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/AdministrativeRegion"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Region"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Town"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/BodyOfWater"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/NaturalPlace"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/River"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Stream"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Lake"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Monarch"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/BritishRoyalty"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Royalty"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Saint"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Artist"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Writer"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/SoccerClub"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/SportsTeam"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/University"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/EducationalInstitution"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/ComicsCreator"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Film"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/PrimeMinister"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Scientist"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Station"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Philosopher"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/IceHockeyPlayer"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/MusicalArtist"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Governor"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/BroadcastNetwork"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Broadcaster"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Building"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Museum"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Bridge"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/RouteOfTransportation"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Company"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/BasketballTeam"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/TelevisionStation"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/MilitaryPerson"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Island"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/TennisPlayer"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Stadium"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/SportFacility"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/City"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Automobile"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Animal"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Mammal"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Eukaryote"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Book"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/WrittenWork"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Song"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/ChemicalCompound"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Weapon"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Planet"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/MilitaryConflict"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/MilitaryUnit"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Road"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/TelevisionShow"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/SoccerClubSeason"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/SportsTeamSeason"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/SportsSeason"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/GrandPrix"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/SportsEvent"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/FootballMatch"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/FootballLeagueSeason"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Locomotive"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Software"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/VideoGame"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/HistoricPlace"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Musical"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/FilmFestival"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Plant"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Aircraft"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/WorldHeritageSite"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/SpaceMission"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/AmericanFootballPlayer"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/GridironFootballPlayer"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/ProgrammingLanguage"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/IceHockeyLeague"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/SportsLeague"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Magazine"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/PeriodicalLiterature"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Play"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/TelevisionEpisode"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Newspaper"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/BasketballPlayer"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Bird"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Nerve"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Boxer"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Judge"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/ProtectedArea"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Conifer"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Website"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Congressman"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Insect"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Volcano"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Fish"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Train"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Bone"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/MusicGenre"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Genre"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Enzyme"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/FloweringPlant"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Reptile"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Mollusca"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/ChristianBishop"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Criminal"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Mountain"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Lighthouse"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Architect"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Cyclist"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Airline"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Beverage"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/PoliticalParty"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Grape"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Canal"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Senator"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Country"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Astronaut"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/FictionalCharacter"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Election"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/FigureSkater"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Chancellor"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Protein"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/MemberOfParliament"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Game"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/SnookerPlayer"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/HistoricBuilding"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/GovernmentAgency"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Arachnid"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Bacteria"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Crustacean"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Fungus"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Model"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Non-ProfitOrganisation"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/TradeUnion"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/MusicFestival"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/RecordLabel"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Actor"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/AdultActor"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Comedian"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/GolfPlayer"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/AcademicJournal"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/PokerPlayer"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Mayor"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Brain"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Vein"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/RailwayLine"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Theatre"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Venue"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Wrestler"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Artery"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/SiteOfSpecialScientificInterest"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Fern"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Hotel"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/HockeyTeam"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/BaseballLeague"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Rocket"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Cave"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/MilitaryStructure"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/GivenName"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/RadioStation"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/PublicTransitSystem"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/BaseballPlayer"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/ComicsCharacter"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/LunarCrater"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Ambassador"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Ship"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/PlayboyPlaymate"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/CollegeCoach"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/ShoppingMall"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Library"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Diocese"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/ClericalAdministrativeRegion"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/BadmintonPlayer"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Embryology"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Race"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Cycad"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Cricketer"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/PowerStation"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/WomensTennisAssociationTournament"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Muscle"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/LegalCase"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/SupremeCourtOfTheUnitedStatesCase"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Case"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/WineRegion"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Amphibian"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/LaunchPad"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/School"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Gymnast"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Archaea"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Legislature"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Moss"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/FormulaOneRacer"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/RacingDriver"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/SkiArea"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/MartialArtist"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/GreenAlga"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/NascarDriver"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Sport"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/College"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Noble"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Valley"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/FashionDesigner"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Park"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Gnetophytes"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Cartoon"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Anime"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Swimmer"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/AutomobileEngine"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/RugbyPlayer"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/SpaceStation"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Economist"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/RailwayTunnel"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Tunnel"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/SnookerChamp"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Hospital"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/RugbyLeague"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/InlineHockeyLeague"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Convention"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/RoadJunction"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/AmericanFootballLeague"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/ClubMoss"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Jockey"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/RoadTunnel"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/LacrosseLeague"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Publisher"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Spacecraft"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/ReligiousBuilding"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/MountainRange"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Monument"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/BeautyQueen"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/BasketballLeague"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/OlympicResult"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/AnimangaCharacter"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/FieldHockeyLeague"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Olympics"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Year"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/SoccerLeague"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/InformationAppliance"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/MotorcycleRider"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/TennisLeague"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/EurovisionSongContestEntry"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/PoloLeague"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/VolleyballLeague"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Journalist"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/HandballPlayer"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Continent"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/BiologicalDatabase"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/AmericanFootballTeam"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Lymph"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/OlympicEvent"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/MotorcycleRacingLeague"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/OrganisationMember"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/SportsTeamMember"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/SpeedwayTeam"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/VolleyballPlayer"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/RadioProgram"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Manga"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Comics"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Religious"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/ChessPlayer"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Chef"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Engineer"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Murderer"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Presenter"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/RadioHost"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Skier"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/LacrossePlayer"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Skater"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Artwork"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/LawFirm"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Prison"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/AustralianRulesFootballPlayer"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Medician"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/HorseTrainer"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Bodybuilder"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Castle"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/NationalCollegiateAthleticAssociationAthlete"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/SpeedwayRider"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Curler"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Restaurant"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/SquashPlayer"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/HollywoodCartoon"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/TelevisionHost"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/BeachVolleyballPlayer"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/TableTennisPlayer"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/RaceTrack"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Racecourse"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/GaelicGamesPlayer"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/DartsPlayer"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Star"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/MotorsportSeason"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/TennisTournament"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/TelevisionSeason"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/RugbyClub"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Mineral"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/SoapCharacter"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/RailwayStation"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/SumoWrestler"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/CyclingTeam"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/CultivatedVariety"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/AmateurBoxer"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Galaxy"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/NationalFootballLeagueSeason"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/WrestlingEvent"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/ArtistDiscography"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/NCAATeamSeason"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/RaceHorse"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Ligament"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/NetballPlayer"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Gene"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/HumanGene"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Ginkgo"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/AutoRacingLeague"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/CricketLeague"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/GolfLeague"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/CanadianFootballTeam"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/WaterwayTunnel"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/ComedyGroup"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/SpaceShuttle"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/MixedMartialArtsEvent"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/VideogamesLeague"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/SoftballLeague"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/VolleyballCoach"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/CanadianFootballLeague"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/AustralianFootballLeague"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Project"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/ResearchProject"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/SpeedwayLeague"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/HandballLeague"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/MixedMartialArtsLeague"
+                }
+            },
+            {
+                "c": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/ontology/Skyscraper"
+                }
+            }
+        ]
+    }
+}
